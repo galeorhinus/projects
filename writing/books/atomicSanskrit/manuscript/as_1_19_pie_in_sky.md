@@ -27,9 +27,9 @@ Behind every PIE form sits a **\*baker**.
 
 ## 19.1 Schleicher's Bake
 
-The first baker was August Schleicher. In 1868, he published *Avis akvāsas ka*, "The Sheep and the Horses," an entire fable written in his reconstructed Proto-Indo-European. No community had preserved the language in which he wrote it. Every form in the fable came from reconstruction: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom*.[NOTE: schleicher-1868-fable]
+The first baker was August Schleicher. In 1868, he published *Avis akvāsas ka*, "The Sheep and the Horses," an entire fable written in his reconstructed Proto-Indo-European. No community had preserved the language in which he wrote it. Every form in the fable came from reconstruction. In current notation, examples include \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, and \**ágrom*.[NOTE: schleicher-1868-fable]
 
-Schleicher placed an asterisk before each reconstructed form. He had introduced that notation in his 1861 *Compendium der vergleichenden Grammatik der indogermanischen Sprachen*. The fable then demonstrated what the notation allowed him to do. He could assemble individual reconstructed forms into sentences and present a full story in a completely imaginary language that he had constructed.
+The original fable did not place an asterisk before every form, and Schleicher did not invent the reconstruction asterisk. His consequential move was larger. His 1861 *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* systematized reconstructed forms within a complete ancestral language. The fable then assembled those forms into sentences and presented a full story in a completely imaginary language that he had constructed.
 
 Chapter 2's 2x2 matrix includes constructed languages within its two engineered categories. Their designers openly acknowledge that they created them. PIE entered under a different claim. Schleicher presented it as a reconstruction of the **"one common original language"** from which the recorded languages had descended.[NOTE: schleicher-1861-compendium]
 
@@ -39,7 +39,7 @@ This was the greatest philological fraud: Sanskrit supplied the architecture, Eu
 
 Conlangers openly acknowledge what they create. Schleicher assembled forty-four distinct reconstructed forms into his fable and passed the resulting language off as the ancestor of Sanskrit and the other recorded languages. PIE was a reverse-averaged invention disguised as a recovered language.
 
-Schleicher claimed to have recovered what he had constructed. The pyramid's historical linguists inherited that claim and have perpetuated the fraud. They took Schleicher's reconstructed system, displayed through a few dozen forms in his fable and developed across his *Compendium*, and extended the same fabrication across a few thousand PIE entries. They continue to place these inventions above Sanskrit and the other recorded languages. Chapter 3 §3.7 calls this concealment असुरत्व (*asuratva*): the operator conceals his own action while claiming authority over the result.
+Schleicher claimed to have recovered what he had constructed. The pyramid's historical linguists inherited that claim and have perpetuated the fraud. They took Schleicher's reconstructed system, displayed through a few dozen forms in his fable and developed across his *Compendium*, and extended the same fabrication across a few thousand PIE entries. They continue to place these inventions above Sanskrit and the other recorded languages. Chapter 3 §§3.6–3.7 identifies this concealment as असुरत्व (*asuratva*): the operator conceals his own action while claiming authority over the result.
 
 PIE is the shame that honest conlangers will refuse to claim.
 
@@ -117,7 +117,7 @@ Four words hang in every English-speaking wardrobe: *shirt*, *skirt*, *short* �
 
 ![Figure 19.2 — \*(s)ker- — the Phantom of Cutting. The tree simplified to its own topology — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit in the tree.](figures/pie_in_sky/sker_pie_tree.svg){#fig:ch19-sker-phantom width=100%}
 
-The notation at the base of that tree makes three confessions, printed in plain sight. The asterisk is the first: **\*(s)ker-** is reconstructed; no text, inscription, or known speaker preserves it. The parentheses are the second: the reconstruction needs *s* for some words and removes it for others. Comparative philology calls this alternation *s-mobile*, but the label supplies no stable rule that predicts its appearance across this family.[NOTE: s-mobile-root-extension-confessions] The *t* is the third confession. Some recorded forms contain it and others do not, so the handbooks posit **\*(s)ker-t-** beside **\*(s)ker-** and call the added consonant a "root extension." Yet the extension has no stable meaning that explains where it appears. A phantom base, a floating consonant, and a meaningless appendix: that is what the whole tree stands on.
+The notation at the base of that tree makes three confessions, printed in plain sight. The asterisk is the first: **\*(s)ker-** is reconstructed; no text, inscription, or known speaker preserves it. The parentheses are the second: the reconstruction needs *s* for some words and removes it for others. Comparative philology calls this alternation *s-mobile*, but the label supplies no stable rule that predicts its appearance across this family.[NOTE: s-mobile-root-extension-confessions] The *t* is the third confession. Some recorded forms contain it and others do not, so the handbooks posit **\*(s)ker-t-** beside **\*(s)ker-** and call the added consonant a "root extension." Yet the extension has no identified function that explains where it appears. A phantom base, a floating consonant, and an extension without a function: that is what the whole tree stands on.
 
 All that machinery conceals a Sanskrit account built from recorded atoms and stated rules.
 
@@ -125,7 +125,7 @@ All that machinery conceals a Sanskrit account built from recorded atoms and sta
 
 Abandon the obsession with an imaginary language spoken by imaginary people, and Sanskrit supplies an account that requires more logic and less imagination.
 
-Sanskrit provides a source for the *s* and states it as a rule for a similar atom. The सुट्-आगम (*suṭ-āgama*) inserts an *s* before **⟪कृ⟫**, *to make*, and before ⟪कृ⟫ alone: *saṃparibhyāṃ karotau bhūṣaṇe* — after *sam-* and *pari-*, on *karoti*, in the sense of refinement. *Sam + kṛ* → **संस्कृतम् (*saṃ-s-kṛ-ta*)**, the assembled, the perfected; *pari + kṛ* → **परिष्कृतम् (*pariṣ-kṛta*)**, the polished.[NOTE: sut-agama-visarga-s] ⟪कृत्⟫, *to cut*, takes the *s* under no उपसर्ग (*upasarga*).[NOTE: krt-upasarga-corpus]
+Sanskrit, by contrast, tells us where its *s* comes from. Pāṇini calls it सुट्-आगम (*suṭ-āgama*), the insertion of *s*. His rule-cluster places the sound immediately before *k* and specifies when it appears with **⟪कृ⟫**, *to make*. The specified environments include *sam-*, *pari-*, and *upa-* before the *kṛ* family in particular senses. The resulting forms include **संस्कृतम् (*saṃ-s-kṛ-ta*)**, the assembled or perfected, and **परिष्कृतम् (*pariṣ-kṛta*)**, the polished.[NOTE: sut-agama-visarga-s] ⟪कृत्⟫, *to cut*, takes the *s* under no उपसर्ग (*upasarga*).[NOTE: krt-upasarga-corpus]
 
 Sanskrit's grammar keeps ⟪कृ⟫ (*kṛ*) and ⟪कृत्⟫ (*kṛt*) distinct. A receiving listener did not inherit that grammar. The word संस्कृतम् (*saṃskṛtam*) placed the sound-form *s-k-ṛ-t* in the listener's ear, while the cutting family supplied ⟪कृत्⟫ (*kṛt*), कृन्तति (*kṛntati*), and कर्तन (*kartana*). The PIE reconstruction **\*(s)kr̥t-** combines precisely those materials: the *s* generated beside ⟪कृ⟫, the final *t* and cutting meaning of ⟪कृत्⟫, and the vowel changes made by receiving languages. The pyramid formalized that received blend and projected it backward as the ancestor of the receiving words. Its own leading explanation for *s-mobile* — the misdivision of connected speech — concedes the mechanism while omitting the one language whose grammar contains the rules.
 
@@ -133,13 +133,13 @@ The *t* is independently available in both Sanskrit families. It closes ⟪क�
 
 The vowel completes the set. In the receiving mouths the syllabic ऋ (*ṛ*) opens to *ur*, *ir*, *or* — \*skurtaz, *shirt*, *short* — the same machine that turned *n̥* into *un* for \*kunją in the *kind* family. Every operation the reconstruction runs is a rule inferred backward from the daughters; the daughters' own source ran the alternations by stated rule.
 
-Now the tally. To reach *shirt*, *skirt*, *short*, and *curt*, the pyramid stacks three devices, each confessed as ruleless in its own literature: a mobile *s*, an extension *t*, and a zero grade to delete the vowel it first inserted. Sanskrit preserves the cutting atom, the adjoining सुट् (*suṭ*) operation, and the *kta* suffix as separate parts with stated functions.
+Now the tally. To reach *shirt*, *skirt*, *short*, and *curt*, the pyramid stacks three devices: a mobile *s*, an extension *t*, and a zero grade that removes the vowel inserted into the reconstructed base. Its literature offers competing explanations for the mobile *s* and cannot assign a stable function to the root extension. Sanskrit preserves the cutting atom, the adjoining सुट् (*suṭ*) operation, and the *kta* suffix as separate parts with stated functions.
 
 And the case generalizes, because the case is a recipe. Delete the source language from the page. Average the reflections that remain. Star the average and install it as the ancestor. Convert every residue the average cannot digest into a device — a mobile consonant, a meaningless extension, an unpronounceable laryngeal. File the source language as one more daughter of its own reflections. Run the recipe entry by entry, and the etymological dictionary assembles itself — tree after handsome tree, each standing on a phantom, the Sun nowhere on the page.
 
 ![Figure 19.3 — ⟪कृत्⟫ · Orbit and Radiance — the Cut-Atom. The words orbit; the radiance seeds far soil; the tree is never the source.](figures/pie_in_sky/krt_orbit_radiance.svg){#fig:ch19-krt-orbit width=100%}
 
-Sanskrit needs no devices, because the atom sits at the center, listed and self-explanatory. The derivations orbit it by stated rule. The living languages preserve the cutting-words in daily speech — a Kannada tailor's *kattari* is कर्तरी (*kartarī*), the scissors, still cutting. Beyond Sanskrit's orbit, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a meaning. In PIE it has parentheses.
+Sanskrit needs no devices, because the atom sits at the center, listed and self-explanatory. The derivations orbit it by stated rule. The living languages preserve the cutting-words in daily speech — a Kannada tailor's *kattari* is कर्तरी (*kartarī*), the scissors, still cutting. Beyond Sanskrit's orbit, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a defined domain. In PIE it has parentheses.
 
 ## 19.6 Kin, Kind, King: the Dictionary Shift
 
@@ -149,11 +149,11 @@ Open an English dictionary from before the bakers took the reference shelf, and 
 
 No asterisk. No reconstructed ancestor floating above the entry. The chain runs back to a real Sanskrit word — *ganaka*, the begetter, the father — and stops, because that is where the real words stop. The *kin* entry does the same: *"akin to jan, to beget, root of Genus."* The nineteenth century wrote the धातुः (*dhātuḥ*) **⟪जन्⟫ (*jan*)** as *gan* or *jan* indifferently — the palatal softened, the atom the same.
 
-Skeat's *Etymological Dictionary* (1882) prints *genus* the same way: *"GAN, to beget; cf. Skt. jan, to beget… Doublet, kin."* Skeat's forms are his own reconstructions, drawn from Fick — yet he prints them **unstarred**, as bare capitals, and orders the whole list *"according to the alphabetical order of the Sanskrit alphabet."*[NOTE: skeat-aryan-roots-and-edition-drift] Real Sanskrit sits inside every chain; the reconstruction claims no throne above the data.
+Skeat's *Etymological Dictionary* (1882) prints *genus* the same way: *"GAN, to beget; cf. Skt. jan, to beget… Doublet, kin."* The reconstructed forms Skeat adopted chiefly from Fick appear **unstarred**, as bare capitals, and the appendix arranges them *"according to the alphabetical order of the Sanskrit alphabet."*[NOTE: skeat-aryan-roots-and-edition-drift] Real Sanskrit sits inside every chain; the reconstruction claims no throne above the data.
 
-Even Max Müller, who did more than anyone to build the racial frame this book prosecutes, ran his chains to real Sanskrit. In the *Lectures on the Science of Language* (1863) he sets *kin*, *genus*, and *king* beside *janas* and *janaka*: *"king… meant originally, like Sk. janaka, father."*[NOTE: muller-1863-janaka-king] Müller was a comparativist — to him Sanskrit was the best-preserved witness, not the parent, and he posited a common source above it. But the deepest real word he could point to was Sanskrit, and he wrote it plain, no star above it.
+Even Max Müller, who did more than anyone to build the racial frame this book prosecutes, ran his chains to real Sanskrit. In the second series of his *Lectures on the Science of Language*, delivered in 1863 and published in 1864, he sets *kin*, *genus*, and *king* beside *janas* and *janaka*: *"king… meant originally, like Sk. janaka, father."*[NOTE: muller-1863-janaka-king] Müller was a comparativist — to him Sanskrit was the best-preserved witness, not the parent, and he posited a common source above it. But the deepest real word he could point to was Sanskrit, and he wrote it plain, no star above it.
 
-Then the asterisk moved. Not into existence — Schleicher had the mark in 1868 — but into the source slot, above the real forms, where a reader is trained to read it as the ancestor. Skeat's own dictionary records the move, edition to edition. The appendix headed *"List of Aryan Roots"* in 1882 becomes the *"List of Indogermanic Roots."* The *genus* entry that read *"(stem gener-)"* grows a starred form — *"(stem gener-, for \*genes-),"* now citing Brugmann. GAN becomes KN; SKAR becomes SKER; Fick and Curtius give way to Brugmann and Kluge. One reference work, its own successive editions, and the star climbs into place. Not one man's honesty failing — the reference culture moving, the bakers re-baking the shelf.[NOTE: pre-pie-dictionary-shift]
+The asterisk then moved into the source slot, above the real forms, where readers learned to see it as the ancestor. Skeat's own dictionary records the move, edition to edition. The appendix headed *"List of Aryan Roots"* in 1882 becomes the *"List of Indogermanic Roots."* The *genus* entry that read *"(stem gener-)"* grows a starred form — *"(stem gener-, for \*genes-),"* now citing Brugmann. GAN becomes KN; SKAR becomes SKER; Fick and Curtius give way to Brugmann and Kluge. One reference work, its own successive editions, and the star climbs into place. Not one man's honesty failing — the reference culture moving, the bakers re-baking the shelf.[NOTE: pre-pie-dictionary-shift]
 
 Today the move is complete. Look up *king* now — Etymonline, the Oxford entries, the aggregators a reader actually consults — and the chain ends at **\*ǵenh₁-**, "to beget." *Janaka* survives as a cognate, one sibling in a list, several lines below the form nobody ever spoke.
 
@@ -291,35 +291,33 @@ Sanskrit preserves **अप** inside a complete grammatical system. It can join 
 
 Greek preserves both mobile and attached preverbs, while Latin preserves the directional element as a preposition and in compounds.[NOTE: upasarga-radiance-apa] The Sanskrit Radiance Mapping Project repeats this comparison across **परि (*pari*), प्र (*pra*), उप (*upa*), अभि (*abhi*)**, and the rest of the operator inventory. It compares the complete Sanskrit architecture with what each receiving language retains. Appendix Part 1 presents the pilot record and the larger research test.
 
-## 19.8 PIE Is a Lie — असुर (*asura*)
+## 19.8 PIE Is a Lie: असुर (*asura*) and *ahura*
 
-The असुर (*asura*) case exposes the break.
+The relationship between Sanskrit असुर (*asura*) and Avestan *ahura* exposes the reversal.
 
-The Western philological dogma pushes Sanskrit असुर- (*asura-*) through Indo-Iranian **\*asura-** toward a *contested* PIE **\*h₂nsu-** meaning "life force" or "lord."[NOTE: asura-standard-etymology-contested]
-
-The word *contested* appears beside a reconstruction that the pyramid nevertheless installs as Sanskrit's ancestor. Uncertainty is not fraud. The fraud begins when the pyramid places a disputed reconstruction above Sanskrit's recorded internal analyses and teaches it as the word's deeper source.
+Western philology places reconstructed Proto-Indo-Iranian **\*Hásura-** behind the two recorded forms. One contested proposal then places PIE **\*h₂n̥s-u(ro)-**, associated with “lord” or “king,” behind that reconstruction.[NOTE: asura-standard-etymology-contested] The pyramid takes this stack of imaginary forms and assigns it greater authority than the recorded Sanskrit word and its internal analyses.
 
 **PIE is a lie.**
 
-The Sanskrit-side chain is internal:
+The contact chain begins with forms that people could actually hear:
 
-> **⟪अस्⟫ (*as*, *to be*) →**  
-> **असु (*asu*, the life-breath, "set in the body") →**  
-> **असुरः (*asu-ra*, "the breath-bearer, the holder of the life-force") →**  
-> बीज (*bīja*) in the proto-Iranian listener's head →  
-> **Avestan 𐬀𐬵𐬎𐬭𐬀 (*ahura*, अपशब्द (*apaśabda*))**
->
-> *atom → molecule → seed → sprout — life begins*
+**Sanskrit असुर (*asura*) →**\
+**बीज (*bīja*) in the Iranian listener's mind →**\
+**Avestan 𐬀𐬵𐬎𐬭𐬀 (*ahura*, अपशब्द (*apaśabda*))**
 
-The Sanskrit side is engineered, not reconstructed — and it is two words, not one. The first is *asu-ra*, the breath-bearer: the holder of the life-force, the असुर (*asura*) the Ṛgveda praises in Indra and Varuṇa. The second is *a-sura*, the un-shining — the withholder representing darkness: the privative of सुर (*sura*), the shining one, from the धातु (*dhātu*) ⟪सुर्⟫. Two derivations, one form. Yāska catalogued them in the open; Chapter 3 §3.6 develops the full analysis. **अजः (*ajaḥ*)** is another Sanskrit example of two completely different words that sound identical. *Aj*-a, the goat, the driven one from ⟪अज्⟫, beside a-*ja*, the Unborn of the Gītā, the privative of ⟪जन्⟫ — a dhātu-build beside a privative on one identical sound, exactly as *asu*-ra sits beside a-*sura*.
+Chapter 3 established that Sanskrit has two distinct words that share the sound-form ***asura***. That distinction belongs inside Sanskrit. A spoken word carries no hyphen across a mountain. The Iranian listener heard ***asura***. The evidence does not tell us which formation that listener understood.
 
-The pyramid was clearly aware of both words.[NOTE: asura-standard-etymology-contested] Its own dictionaries record both derivations side by side — Monier-Williams gives असुर (*asura*) from असु (*asu*), the life-force, and the privative *a* + सुर (*sura*) in the same entry; its own presses printed Yāska's parses. But two honest words feed no reconstruction, so it chose one word and baked one imaginary ancestor behind it: the *contested* \**h₂n̥su-* "life force" — an ancestor-form built to contain the very meaning, *asu*, that its own dictionary already recorded from Yāska's derivation. One side documents two engineered forms; the other bakes one ancestor to avoid them.
+The traveling form was ***asura***.
 
-The vivimorphosis at the contact-language boundary preserves the breath-bearer, not the withholder. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the अपशब्द (*apaśabda*) of *asu-ra* — the organic form vivimorphosed in the Iranian receiving language. The *s* shifted to *h* under the regular Indo-Iranian sound law, the same shift Chapter 9 §9.5 traces in सिन्धुः (*Sindhuḥ*) → *Hinduš*, and Avestan gave the received word its own ending. Ahura Mazdā wears the breath-bearer's title because the breath-bearer is the word that traveled; the *a-sura*, the other word on the same form, probably never crossed the mountains.
+Iranian speech then reshaped what the listener had received. Sanskrit ***s*** appears as Iranian ***h***, the same correspondence Chapter 9 §9.5 traces in सिन्धुः (*Sindhuḥ*) and *Hinduš*. Avestan gave the received form its own ending and its own place within Iranian religious thought.
 
-The अपशब्द (*apaśabda*) *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what असुर (*asura*) means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and how the suric / asuric distinction develops into the cosmic backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section isolates is the phonetic vivimorphosis: the same engineered form, transmitted into a contact language as the प्रतिबिम्ब (*pratibimba*) the Iranian religious imagination has preserved throughout its tradition.
+This is vivimorphosis at a contact boundary. The Sanskrit word enters the listener's mind as बीज (*bīja*). The receiving language develops its own प्रतिबिम्ब (*pratibimba*) through repeated use.
 
-![Figure 19.9 — Recorded Chains and Projected Ancestors. The solid chains follow the Sanskrit constituent into the Sanskrit word, the listener's seed, and the receiving-language form. The dashed boxes show the imaginary ancestor that the pyramid projects backward above each recorded chain.](figures/pie_in_sky/deva_asura_vivimorphosis_chains.svg){#fig:ch19-deva-asura-vivimorphosis width=100%}
+The pyramid reverses that movement. It observes the Sanskrit and Avestan forms, constructs an unrecorded ancestor behind them, and then places that construction above both. The imaginary reconstruction becomes the source. The complete Sanskrit architecture becomes one descendant among many.
+
+The अपशब्द (*apaśabda*) *ahura* became part of the central theological vocabulary of the Zoroastrian tradition. A forthcoming volume in the *Second Shanti* series will examine what Iranian religious thought made from that received form. This section follows the linguistic relationship: Sanskrit radiance carried a word into Iranian speech, and Iranian speech developed its own reflection.
+
+![Figure 19.9 — Recorded Chains and Projected Ancestors. The solid chains follow Sanskrit forms into the listener's seed and the receiving-language form. The dashed boxes show the imaginary ancestor that the pyramid projects backward above each recorded chain.](figures/pie_in_sky/deva_asura_vivimorphosis_chains.svg){#fig:ch19-deva-asura-vivimorphosis width=100%}
 
 Figure 19.9 restores the missing middle. Sanskrit provides the engineered calibrant. A listener receives the word as बीज (*bīja*), and the receiving language develops a प्रतिबिम्ब (*pratibimba*) through its own natural history. Comparative philology observes correspondences among those reflections and, because it assumes descent, averages them into a vanished common ancestor. The calibrant account explains the same correspondences as reflections of Sanskritic radiance. The movement therefore runs in the other direction: formed Speech first, reflections afterward.
 

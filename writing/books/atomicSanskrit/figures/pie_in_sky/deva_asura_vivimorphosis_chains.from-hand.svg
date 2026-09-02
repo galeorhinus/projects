@@ -26,7 +26,7 @@
   <text x="600" y="91" text-anchor="middle" class="subtitle">The solid chains move forward. The dashed ancestors are projected backward.</text>
 
   <text x="311" y="137" text-anchor="middle" class="colhead"><tspan class="dev">देवः</tspan>  devaḥ</text>
-  <text x="889" y="137" text-anchor="middle" class="colhead"><tspan class="dev">असुरः</tspan>  asu-ra</text>
+  <text x="889" y="137" text-anchor="middle" class="colhead"><tspan class="dev">असुरः</tspan>  asura</text>
 
   <g transform="translate(42 158)">
     <rect width="538" height="96" rx="8" fill="#f4e7e3" stroke="#9a5147" stroke-width="2.5" stroke-dasharray="10 8"/>
@@ -50,13 +50,13 @@
   </g>
   <g transform="translate(620 286)">
     <rect width="538" height="105" rx="8" fill="#e8e1cf" stroke="#9a7d3c" stroke-width="2.5"/>
-    <text x="22" y="29" class="stage"><tspan class="dev-stage">धातुः</tspan> (dhātuḥ) · CONSTITUENT</text>
-    <text x="269" y="66" text-anchor="middle" class="main"><tspan class="dev">⟪अस्⟫</tspan>  as  →  <tspan class="dev">असु</tspan>  asu</text>
-    <text x="269" y="94" text-anchor="middle" class="body">to be  →  life-breath</text>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">शब्दः</tspan> (śabdaḥ) · RECORDED SANSKRIT FORM</text>
+    <text x="269" y="68" text-anchor="middle" class="main"><tspan class="dev">असुरः</tspan>  asura</text>
+    <text x="269" y="95" text-anchor="middle" class="body">spoken form · no hyphen</text>
   </g>
 
   <line x1="311" y1="391" x2="311" y2="423" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
-  <line x1="889" y1="391" x2="889" y2="423" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
+  <line x1="889" y1="391" x2="889" y2="569" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
 
   <g transform="translate(42 432)">
     <rect width="538" height="105" rx="8" fill="#e1e8df" stroke="#70856d" stroke-width="2.5"/>
@@ -64,15 +64,7 @@
     <text x="269" y="68" text-anchor="middle" class="main"><tspan class="dev">देवः</tspan>  devaḥ</text>
     <text x="269" y="95" text-anchor="middle" class="body">the shining one</text>
   </g>
-  <g transform="translate(620 432)">
-    <rect width="538" height="105" rx="8" fill="#e1e8df" stroke="#70856d" stroke-width="2.5"/>
-    <text x="22" y="29" class="stage"><tspan class="dev-stage">शब्दः</tspan> (śabdaḥ) · SANSKRIT WORD</text>
-    <text x="269" y="68" text-anchor="middle" class="main"><tspan class="dev">असुरः</tspan>  asu-ra</text>
-    <text x="269" y="95" text-anchor="middle" class="body">the breath-bearer</text>
-  </g>
-
   <line x1="311" y1="537" x2="311" y2="569" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
-  <line x1="889" y1="537" x2="889" y2="569" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
 
   <g transform="translate(42 578)">
     <rect width="538" height="94" rx="8" fill="#f0ece3" stroke="#77736d" stroke-width="2.5"/>
@@ -101,6 +93,6 @@
 
   <g transform="translate(42 837)">
     <rect width="1116" height="65" rx="8" fill="#eee0dc" stroke="#9a5147" stroke-width="2.5"/>
-    <text x="558" y="41" text-anchor="middle" class="callout"><tspan class="dev">असुर</tspan>  a-sura, the un-shining, is a separate Sanskrit word. It does not enter the Iranian chain.</text>
+    <text x="558" y="41" text-anchor="middle" class="callout">Sanskrit has several internal analyses. The spoken form enters the Iranian chain without a hyphen.</text>
   </g>
 </svg>

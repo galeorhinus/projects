@@ -318,7 +318,7 @@ Appendix Part 8 gives historical cases in which the same Sanskrit society combin
 
 ## 16.10 Two Permissions, One Architecture
 
-The two-domain design defends Sanskrit against the two enemies introduced in Chapter 6: entropy and asuras.
+The two-domain design defends Sanskrit against the two enemies introduced in Chapter 6: entropy and asuric attack.
 
 Entropy acts whenever pronunciation, words, meanings, or memory change during use and transmission. Asuric formations add deliberate pressure when they destroy teachers and institutions, monopolize interpretation, shame caretakers, replace Sanskrit's categories, or remove the language from public life.
 

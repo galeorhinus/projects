@@ -220,7 +220,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **माया (*māyā*)** / **दैवी माया (*daivī māyā*)** / **आसुरी माया (*āsurī māyā*)**
 
-**Standard Sanskrit, book-controlled deployment.** Power capable of forming, presenting, concealing, or transforming an appearance. The action it serves determines its direction. This book uses **दैवी माया (*daivī māyā*)** for power turned toward radiance, protection, and revelation, and **आसुरी माया (*āsurī māyā*)** for power turned toward concealment and deformation.
+**Standard Sanskrit, with a specific deployment in this book.** Power capable of forming, presenting, concealing, or transforming an appearance. The purpose it serves determines its direction. This book uses **दैवी माया (*daivī māyā*)** for power directed toward radiance, protection, and release, and **आसुरी माया (*āsurī māyā*)** for power directed toward concealment, obstruction, and control.
 
 ### **आवरण (*āvaraṇa*)** / **विक्षेप (*vikṣepa*)**
 
@@ -362,11 +362,11 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **असुरत्व (*asuratva*)**
 
-**Standard Sanskrit + book deployment.** The quality of being an असुर (*asura*); the characteristic behavior of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and withholds light. Used as the categorical diagnostic. Chapter 4 §4.6 establishes.
+**Standard Sanskrit + book deployment.** The quality of the ***a-sura***: a recurring mode of action that concentrates power through hierarchy, uses deception to protect that power, and obstructs light or circulation. Chapter 3 §3.6 establishes the book's use of ***a-sura***; Chapter 4 §4.6 applies असुरत्व (*asuratva*) to the pyramid.
 
 ### **आर्यत्व (*āryatva*)**
 
-**Standard Sanskrit + book deployment.** The quality of being आर्य (*ārya*) — the engineered phonetic-pedagogical achievement of mastery in service of लोकक्षेम (*lokakṣema*). The opposite-pair to असुरत्व (*asuratva*). Chapter 17 establishes.
+**Standard Sanskrit + book deployment.** The quality of being आर्य (*ārya*): disciplined mastery exercised in service of लोकक्षेम (*lokakṣema*). The book contrasts आर्यत्व (*āryatva*) with असुरत्व (*asuratva*) through purpose and action, not faction or inherited identity. Chapter 17 establishes.
 
 ### **Racial Arya Thesis (RAT)**
 

@@ -225,11 +225,11 @@ assembly:
     title: Acknowledgments
     draft: true
   - kind: end
-    file: manuscript/as_0_04_note_on_notes.md
-    title: A Note on the Notes
-  - kind: end
     file: manuscript/as_0_05_figure_credits.md
     title: Figure Credits
+  - kind: end
+    file: manuscript/as_0_04_note_on_notes.md
+    title: A Note on the Notes
   - kind: end
     file: manuscript/as_endnotes.md
     title: Endnotes

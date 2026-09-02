@@ -6,7 +6,7 @@
 >
 > *ṛṭuraṣāṇāṃ mūrdhā.*
 >
-> `\hfill`{=latex}*— Pāṇinīya Śikṣā discipline*[NOTE: rturasanam-murdha-shiksha]
+> `\hfill`{=latex}*— Siddhāntakaumudī, on Aṣṭādhyāyī 1.1.9*[NOTE: rturasanam-murdha-shiksha]
 
 :::
 
@@ -26,7 +26,7 @@ The five features of mouth and mind form the first part of the subcontinental ba
 
 ## 17.1 The Mouth: मूर्धन्य (*Mūrdhanya*)
 
-The पाणिनीय शिक्षा (*Pāṇinīya Śikṣā*) epigraph points to the location in the mouth: **मूर्धा (*mūrdhā*)** — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha] In ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex. 
+The सिद्धान्तकौमुदी (*Siddhāntakaumudī*) explanation of Pāṇini 1.1.9 points to the location in the mouth: **मूर्धा (*mūrdhā*)** — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha] In ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex.
 
 The *Ṛgveda* opens with **अग्निमीळे (*agnim īḷe*)**. The verb *īḷe* contains **ळ**, a retroflex lateral.
 
@@ -40,7 +40,7 @@ The figure below marks the anatomy: the curled tongue, the मूर्धन्
 
 ![Figure 17.1 — The मूर्धन्य (*mūrdhanya*) flex.](figures/adivadya/murdhanya_vocal_apparatus.svg){#fig:ch17-murdhanya-flex width=100%}
 
-ऋ (*ṛ*) appears at several levels of Sanskrit. The name **ऋग्वेद (*Ṛgveda*)** itself starts with *ṛ*. The पाणिनीय शिक्षा (*Pāṇinīya Śikṣā*) assigns it to the मूर्धन्य (*mūrdhanya*) site. The धातुपाठ (*Dhātupāṭha*) lists ⟪ऋ⟫ (*ṛ*) as a one-*mātrā* semantic atom. The words ऋच् (*ṛc*) and *Ṛgveda* begin with the same sonomer, while ऋत (*ṛta*) belongs to the vocabulary of cosmic order. Their importance lies in recurrence: the same sound occupies visible places in articulation, the atom inventory, textual vocabulary, and civilizational thought. While ऋ (*ṛ*) is a स्वर (*svara*) — vowel, र (*ra*) is a व्यञ्जन (*vyañjana*).
+ऋ (*ṛ*) appears at several levels of Sanskrit. The name **ऋग्वेद (*Ṛgveda*)** itself starts with *ṛ*. The traditional articulation rule assigns it to the मूर्धन्य (*mūrdhanya*) site. The धातुपाठ (*Dhātupāṭha*) lists ⟪ऋ⟫ (*ṛ*) as a one-*mātrā* semantic atom. The words ऋच् (*ṛc*) and *Ṛgveda* begin with the same sonomer, while ऋत (*ṛta*) belongs to the vocabulary of cosmic order. Their importance lies in recurrence: the same sound occupies visible places in articulation, the atom inventory, textual vocabulary, and civilizational thought. While ऋ (*ṛ*) is a स्वर (*svara*) — vowel, र (*ra*) is a व्यञ्जन (*vyañjana*).
 
 Appendix Part 6 §6.2 demonstrates that in the Dhātupāṭha, ऋ (*ṛ*) accounts for 15.3 percent of vowel deployment in CVC atoms, second only to अ (*a*). The same analysis finds र (*ra*) in all four measured position-roles. The appendix gives the full model and its limits. The count shows that ऋ (*ṛ*) and र (*ra*) recur in structural positions across the architecture instead of appearing as isolated sounds.
 

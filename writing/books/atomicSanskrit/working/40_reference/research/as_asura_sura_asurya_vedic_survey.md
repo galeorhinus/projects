@@ -1,5 +1,7 @@
 # *Asura* / *Sura* / *Asurya* in the Vedas — A Reference Survey
 
+> **Interpretive status updated 2026-09-02.** This document remains useful as a source inventory, but some of its conclusions belong to the retired claim that praised Rigvedic occurrences are ***asu-ra*** while hostile occurrences are ***a-sura***. The current doctrine is in Chapter 3 §3.6 and [`asura_maya_reframing_master_proposal_codex.md`](../../10_active/asura_maya_reframing_master_proposal_codex.md): Sanskrit has both formations, but the surrounding words do not assign every occurrence. Use this file for evidence, not for its older lexical assignments.
+
 > **Working research document.** Compiles the Vedic attestations of the *asura*-word-family, their padaccheda + translation, and the treatment of the word in the analytical disciplines (Nirukta, Brāhmaṇa etymologies, Uṇādi/Pāṇini, Prātiśākhyas). Feeds Ch 3 §3.6 (the *svar / suraḥ / asuraḥ* morphology; the asuric operating-mode diagnosis) and Ch 18 §18.7 (the *asura* / PIE case). Endnotes: `asura-standard-etymology-contested`, `deva-pie-etymology`.
 
 ---

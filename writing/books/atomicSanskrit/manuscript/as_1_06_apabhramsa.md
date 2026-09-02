@@ -19,7 +19,7 @@
 Sanskrit was engineered to remain invariant while people continued using it to create new expression. That purpose faces two enemies:
 
 1. **Entropy**
-2. **Asuras**
+2. **Asuric attack**
 
 A temple can lose its form through either enemy.
 
@@ -37,7 +37,7 @@ That distribution creates the threat. An apex cannot declare its own alteration 
 
 The two enemies require different responses. Entropy must be detected while a departure remains small enough to correct. To survive asuric attack, the architecture must distribute its knowledge widely enough that destroying or capturing one part cannot destroy the whole. Sanskrit was engineered to do both.
 
-The chapter first examines entropy through the Hindu continuum's analysis of **अपभ्रंशः (*apabhraṃśa*)**. Section 6.5 then returns to the engineering that protects Sanskrit against entropy before introducing the corresponding defense against deliberate attack.
+The chapter first examines entropy through the Hindu continuum's analysis of **अपभ्रंशः (*apabhraṃśa*)**. Section 6.5 then returns to the engineering that protects Sanskrit against entropy before introducing its defense against asuric attack.
 
 ### अपभ्रंशः (*Apabhraṃśa*): Sanskrit's Diagnosis of Entropy
 
@@ -181,7 +181,7 @@ Chapter 14 develops the calibration matrix that preserves Sanskrit internally. C
 
 ## 6.8 The Fall Is Not Only Linguistic
 
-अपभ्रंशः (*Apabhraṃśa*) recurs wherever time and pressure pull an engineered order away from its design. Chapter 1 distinguished that ordinary entropic tendency from asuric action: the asuric force accelerates the fall, converts the resulting disorder into an instrument of control, and then presents the damaged condition as the nature of the original system.
+अपभ्रंशः (*Apabhraṃśa*) recurs wherever time and pressure pull an engineered order away from its design. Chapter 1 distinguished that ordinary entropic tendency from asuric action: asuric action accelerates the fall, converts the resulting disorder into an instrument of control, and then presents the damaged condition as the nature of the original system.
 
 Caste is the clearest social instance. The dharmic architecture specifies **वर्ण (*varṇa*)** by **गुण (*guṇa*)** and **कर्म (*karma*)** — disposition and action, not birth — and the *Assalāyana Sutta* places the rigid master-slave binary at the bordering nations, not the Indic core (Chapter 3 §3.2). Caste-as-fixed-birth-rank is the अपभ्रंशः (*apabhraṃśa*) of that order: a falling-away the Abrahamic master-slave substrate **fed** and the colonial census **hardened**, freezing fluid जाति (*jāti*) into enumerated, ranked administration[NOTE: caste-colonial-census-hardening] — the social mirror of गौः (*gauḥ*) slipping into गावी (*gāvī*).
 

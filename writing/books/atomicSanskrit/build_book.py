@@ -982,6 +982,12 @@ ENDNOTES_ENTRY_RE = re.compile(
 # editorial compression used by --endnotes=short. Always sits on the line
 # directly after the heading.
 SHORT_FIELD_RE = re.compile(r"^\*\*Short:\*\*\s*(.+?)$", re.MULTILINE)
+# Private verification metadata may sit beside an endnote in the source file,
+# but it must never enter either the printed book or the reference companion.
+SOURCE_RECORDS_BLOCK_RE = re.compile(
+    r"<!--\s*SOURCE-RECORDS\b.*?-->",
+    re.DOTALL,
+)
 TODO_STUB_LINE_RE = re.compile(
     r"^\s*-\s*\[[ x~!]\]\s*\*\*(?:\[P[0-3]\]\s*)?`\[NOTE:\s*([a-z0-9_-]+)\s*\]`\.?\*\*\s*(.*?)$",
     re.MULTILINE,
@@ -1005,7 +1011,7 @@ def load_drafted_endnotes(mode: str = "full") -> dict[str, str]:
     result: dict[str, str] = {}
     for m in ENDNOTES_ENTRY_RE.finditer(text):
         stub = m.group(1)
-        body = m.group(2).strip()
+        body = SOURCE_RECORDS_BLOCK_RE.sub("", m.group(2)).strip()
         if mode == "short":
             short_m = SHORT_FIELD_RE.search(body)
             if short_m:

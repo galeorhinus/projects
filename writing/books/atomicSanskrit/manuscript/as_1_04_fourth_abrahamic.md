@@ -22,7 +22,7 @@
 
 Over recent centuries, the same asuric pyramid has worn different clothing. The Abrahamic religions used divine dogma to create its layers. Europeans added race as a second dimension.
 
-The pyramid then presented the Vedic conflict between life-force and containment, between सत् (*sat*) and असत् (*asat*), and between धर्म (*dharma*) and अधर्म (*adharma*) as a tribal or factional feud. By reducing a conflict between *actions* to a rivalry between *factions*, it concealed its own top-down dogma.
+The pyramid then recast the Vedic distinction between actions aligned with सत् (*sat*) and असत् (*asat*), and between धर्म (*dharma*) and अधर्म (*adharma*), as a tribal or factional feud. It replaced an inquiry into conduct with a conflict between identities.
 
 As nations resisted Abrahamic, racial, and colonial formations, the pyramid restructured itself.
 
@@ -196,13 +196,13 @@ For thousands of years, *Sanātan* preserved another way: admit the challenger, 
 
 ### The Sanskrit Diagnosis
 
-Chapter 3 distinguished the life-bearing ***asu-ra*** from the radiance-opposing ***a-sura***. Following the convention established there, this chapter uses असुर (*asura*) for the antagonist ***a-sura*** unless it says ***asu-ra*** explicitly. तमस् (*tamas*) is inertia and darkness: the darkness produced by an action that cannot accommodate light. असुराः (*asurāḥ*) are the actors who consolidate power through hierarchy, deception, and withheld light.
+Chapter 3 established this book's use of ***a-sura*** as the diagnostic name for an antagonist who turns power against radiance. An asuric formation concentrates power, uses deception to protect it, and obstructs light or circulation.
 
-स्वर् (*svar*) gathers sun, heaven, light, the bright firmament, and the धातुः (*dhātuḥ*) **⟪सुर्⟫** (*sur*) means *to shine* — the morphology gives the diagnosis. सुरः (*suraḥ*) is the shining one. असुरः (*asuraḥ*) is the privative formation: not-light. An asuric formation withholds light — the obscuration Chapter 1 §1.3 traces to स्वर्भानु (*Svarbhānu*), whose name contains the very *svar* he eclipses: Sūrya darkened, not destroyed. Chapter 3 §3.6 develops the full analysis of the असुर (*asura*) word; Chapter 19 develops the contact-history consequences; the polity-architectural implications belong to a forthcoming volume in the *Second Shanti* series.
+These actions produce तमस् (*tamas*): inertia, darkness, and the obscurity created by something that cannot accommodate light. स्वर्भानु (*Svarbhānu*) provides the clearest image. His name contains the radiance he covers. He darkens सूर्य (*Sūrya*), but he cannot destroy the Sun.
 
 ### The Pyramid Repeats
 
-The architecture built by असुर (*asura*) has a characteristic geometry: the pyramid. Authority concentrates at the apex, labor spreads across the tiers, and the base loses its voice. The apex is jealous of an order he did not build and cannot place under his command. A distributed architecture threatens the entire arrangement because it demonstrates another form of order with no summit for him to occupy.
+Asuric architecture has a characteristic geometry: the pyramid. Authority concentrates at the apex, labor spreads across the tiers, and the base loses its voice. The apex is jealous of an order he did not build and cannot place under his command. A distributed architecture threatens the entire arrangement because it demonstrates another form of order with no summit for him to occupy.
 
 Each containment pillar repeats that geometry. The racial pillar places Europe at the apex, colonial administrators and certifiers in the middle, and ranked populations at the base. The theological pillar places an authorized text at the apex, priestly interpreters in the middle, and the laity below them. The progress pillar places journals and chairs at the apex, the *priests of progress* of §4.4 in the middle, and civilizational populations whose knowledge the academy refuses to recognize as peers at the base. Their convergence produces the asuric pyramid.
 
@@ -212,7 +212,11 @@ In the ternary introduced in the front matter, this is exactly **विकृत
 
 The three pyramids converge on a single target. The racial pillar attacks *Sanātan* through the engineered language that preserves it. The theological pillar attacks through the chronology that contains it. The progress pillar attacks through the linear-time framework that cannot accommodate the cyclical-time civilizational memory the Indic continuum preserves. Three vectors; same target.
 
-*Sanātan* is not silent about the architecture built by असुर (*asura*). The इतिहास (*Itihāsa*) and पुराण (*Purāṇa*) corpus preserves hundreds of cases of asuric formations becoming powerful and being defeated by characters aligned with the dharmic order. **Hiraṇyakaśipu** gives the दैत्य (*daitya*) form of apex command: power consolidated through a boon engineered to be irrevocable; the boon's structural blind-spot becomes the defeat. **Mahiṣāsura** gives the disguise-and-shape-shift form: control accumulated through forms that Durgā's discriminating intelligence can pierce. **Śumbha** gives the possession-and-subordination form. He treats the Goddess as something he can claim and demands that she submit to his authority. His power does not make him an antagonist. His attempt to possess another being and subordinate her to his will does.[NOTE: shumbha-nishumbha-devi-mahatmyam] **Vṛtra** gives the obstruction form: waters withheld from circulation until Indra restores the flow. Each story is a recipe. Sanskrit's corpus preserves the recipes; the civilization has transmitted them across thousands of years through recitation, temple, festival, theatre, household narration, regional performance, commentary, and teacher-student lineages.
+*Sanātan* is not silent about asuric action. Rāma and Rāvaṇa are both powerful. Durgā and Mahiṣāsura are both powerful. The continuum distinguishes them through the purposes their power serves and the actions they perform.
+
+The इतिहास (*Itihāsa*) and पुराण (*Purāṇa*) corpus presents the distinction through recurring forms of conduct. **Hiraṇyakaśipu** gives the दैत्य (*daitya*) form of apex command: power consolidated through a boon engineered to be irrevocable; the boon's structural blind-spot becomes the defeat. **Mahiṣāsura** gives the disguise-and-shape-shift form: control accumulated through forms that Durgā's discriminating intelligence can pierce. **Śumbha** gives the possession-and-subordination form. He treats the Goddess as something he can claim and demands that she submit to his authority. His power does not make him an antagonist. His attempt to possess another being and subordinate her to his will does.[NOTE: shumbha-nishumbha-devi-mahatmyam] **Vṛtra** gives the obstruction form: waters withheld from circulation until Indra restores the flow.
+
+Each story is a recipe. Sanskrit's corpus preserves the recipes; the civilization has transmitted them across thousands of years through recitation, temple, festival, theatre, household narration, regional performance, commentary, and teacher-student lineages.
 
 Asuric action does not remain inside sacred narratives. Institutions can repeat it, and individuals can choose to perform it.
 

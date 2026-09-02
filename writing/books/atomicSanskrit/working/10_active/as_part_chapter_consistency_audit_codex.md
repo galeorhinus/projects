@@ -63,7 +63,7 @@ The opener identifies the Descended, Botanical, and Codified blocks. It promises
 ### What the Chapters Now Do
 
 - Chapter 2 tests the codification story through Arabic and Tamil, establishes the four language categories, restores the missing Vedic calibrant, and names concealment and projection as आसुरी माया (*āsurī māyā*).
-- Chapter 3 develops the racial, theological, and progress pillars; identifies containment as the method; distinguishes ***asu-ra*** from ***a-sura*** through action rather than faction; and concludes with the battle of two fractals.
+- Chapter 3 develops the racial, theological, and progress pillars; identifies containment as the method; explains why the Rigvedic sound-form ***asura*** cannot assign every occurrence to ***asu-ra*** or ***a-sura***; and teaches the reader to distinguish action from faction before concluding with the battle of two fractals.
 - Chapter 4 identifies Progressivism as the fourth Abrahamic religion, explains the church of progress and its certified intellectuals, and contrasts the pyramid with the distributed order preserved by *Sanātan*.
 
 ### Verdict

@@ -1,5 +1,7 @@
 # Can any Rigvedic *asura* be argued as *a-sura*? — A Focused Inventory
 
+> **Superseded as a verdict 2026-09-02; retained as an evidence inventory.** Chapter 3 §3.6 now states that the surrounding Rigvedic words do not let us assign every occurrence to ***asu-ra*** or ***a-sura***. The inventory below remains useful because it records how the passages mark conduct and opposition. Its categorical opening verdict is research history and must not be restored to the manuscript.
+
 **Question asked (2026-08-29):** across all Rigvedic occurrences of *asura*, is there any
 that can be argued to be ***a-sura*** (the privative, the un-shining antagonist) rather than
 ***asu-ra*** (the breath-bearer)?

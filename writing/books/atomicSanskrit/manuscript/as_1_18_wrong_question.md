@@ -73,7 +73,7 @@ The architecture of धातुः (*dhātuḥ*): PIE reconstruction can propos
 
 The generative rules: PIE reconstruction can describe how sounds correspond and change across languages. Sanskrit also requires an explanation for the operations that generate its words and sentences: सन्धि (*sandhi*), गण (*gaṇa*) organization, उपसर्गाः (*upasargāḥ*), प्रत्ययाः (*pratyayāḥ*), and the wider derivational architecture. The comparative method does not reconstruct that language engine.
 
-The retroflex core: PIE does not reconstruct a मूर्धन्य (*mūrdhanya*) set. The pyramid therefore claims that Sanskrit borrowed retroflexion after entering the Indian subcontinent.[NOTE: retroflex-substrate-standard-account] Sanskrit does not carry these sounds as a peripheral addition. The वर्णमाला (*varṇamālā*) gives them a complete row, **ऋ (*ṛ*)** belongs to the vowel system, **र (*ra*)** acts as a bonder, and retroflex closure recurs throughout the atom inventory. The borrowing account must explain how a supposedly later acquisition became embedded at all these levels. It does not.
+The retroflex core: PIE does not reconstruct a मूर्धन्य (*mūrdhanya*) set. Standard accounts therefore explain Sanskrit's retroflex consonants through contact with languages of the Indian subcontinent, internal sound change, or some combination of the two.[NOTE: retroflex-substrate-standard-account] Sanskrit does not carry these sounds as a loose addition. The वर्णमाला (*varṇamālā*) gives them a complete row, **ऋ (*ṛ*)** belongs to the vowel system, **र (*ra*)** acts as a bonder, and retroflex closure recurs throughout the atom inventory. Any contact account must explain how the feature became integrated at all these levels. Calling it a substrate feature does not provide that architectural explanation.
 
 The preservation mechanisms: comparative reconstruction studies changes among recorded languages. Its procedure does not reconstruct the पाठ (*pāṭha*) recitations, प्रातिशाख्य (*Prātiśākhya*) specifications, शिक्षा (*Śikṣā*) training, or the transmission lineages documented across Chapters 13, 14, and 15. It therefore cannot explain how the Vedas resisted the changes that the method expects every language to undergo.
 
@@ -226,7 +226,7 @@ Chapter 0 began at the cosmic scale. **असत् (*asat*)** existed before **
 
 This conflict existed before human beings. Humans inherited the capacity to align their actions with either order. Most people simply lived their lives, but the Vedas remembered the distinction through protagonists and antagonists whose actions demonstrate each architecture.
 
-Chapter 3 §3.6 followed that distinction through two Sanskrit words that share one sound-form. The life-bearing ***asu-ra*** protects, sustains, and releases. The radiance-opposing ***a-sura*** conceals, withholds, and contains. Sanskrit's generative architecture can produce both words, while **विवेक (*viveka*)** allows the listener to distinguish them through the actions described in the mantra. The asuric pyramid of the present age reproduces the cosmic pattern of असत् (*asat*) by concentrating power, controlling access, and restricting what should circulate.
+Chapter 3 §3.6 identified **विवेक (*viveka*)** as the capacity required to distinguish those opposing alignments. The listener must examine what an actor does with power: whether the action protects life and circulation or conceals, withholds, and contains. The asuric pyramid of the present age reproduces the cosmic pattern of असत् (*asat*) by concentrating power, controlling access, and restricting what should circulate.
 
 ### Radiance Without Ownership
 
@@ -238,7 +238,7 @@ Bṛhaspati's mantra describes how the wise formed Speech:
 
 > **सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।**
 >
-> *saktum iva titauṇā punanto yatra dhīrā manasā vācam akrata*
+> *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata*
 >
 > *There the wise formed Speech with the mind, refining it as grain is sifted through a sieve.* (RV 10.71.2)[NOTE: rigveda-10-71-2-sieve-vak]
 

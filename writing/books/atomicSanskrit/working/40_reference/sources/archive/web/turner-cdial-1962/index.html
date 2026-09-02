@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A Comparative Dictionary of Indo-Aryan Languages</title>
+<META NAME ="description" CONTENT ="Online version of R.L. Turner's 'A Comparative Dictionary of Indo-Aryan Languages' from the Digital Dictionaries of South Asia">
+<META NAME ="keywords" CONTENT ="Indo-European languages, Etymology, Etymological dictionary of Indo-Arayan languages, Online Indo-Aryan languages dictionary ">
+<META NAME ="DC.title" CONTENT ="A Comparative Dictionary of Indo-Aryan Languages.">
+<META NAME ="DC.creator" TYPE ="Name.Personal" CONTENT ="Turner, R. L. (Ralph Lilley), Sir" >
+<META NAME ="DC.subject" SCHEME ="LCSH" CONTENT ="Indo-European languages--Etymology--Dictionaries.">
+<META NAME ="DC.Contributor" CONTENT="Digital South Asia Library">
+<META NAME ="DC.publisher" CONTENT ="London, Oxford University Press">
+<META NAME ="DC.date" CONTENT ="1962-1966">
+<META NAME ="DC.type" CONTENT ="Dictionary">
+<META NAME ="DC.format" CONTENT ="text/enriched; text/html; text/plain;">
+<META NAME ="DC.format" CONTENT ="Includes three supplements">
+<META NAME ="DC.language"  SCHEME ="ISO 639-2" CONTENT ="eng">
+<META NAME ="DC.Date.Created" CONTENT ="2000-08-01">
+<META NAME ="DC.Identifier" SCHEME ="URL" CONTENT = "https://dsal.uchicago.edu/dictionaries/soas/">
+<META NAME ="DC.identifier" SCHEME ="PURL" CONTENT ="https://www.purl.oclc.org/dsal/dictionaries/PK165.T9">
+<!-- METADATA -->
+
+<link href = "/dictionaries/jquery-ui.css" rel = "stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+<script src = "https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://dsal.uchicago.edu/revamp/dictionary_resources.css">
+	<!-- Javascript -->
+	
+      <script charset="UTF-8">
+         $(function() {
+                $( "#autocomplete-1" ).autocomplete({
+                   source: '/cgi-bin/app/soas/autocomplete.py',
+                   minLength: 1
+                });
+         });
+      </script>
+<!-- END METADATA -->
+<style>
+   .ui-widget {
+        font-family: "arial";
+        font-weight: 400;
+        font-size: 15px;
+   }
+
+   .ui-widget input {
+        font-family: "arial";
+        font-weight: 400;
+        font-size: 15px;
+
+   }
+
+   .ui-menu-item .ui-menu-item-wrapper.ui-state-active {
+        background: #91ACB7 !important;
+        color: #ffffff !important;
+    }
+</style>
+
+</head>
+
+
+
+<body class="d-flex flex-column min-vh-100">
+    <div class="mb-2 mb-md-4" id="includedHeader"></div>
+
+    <div class="container px-3">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-8 p-3 p-sm-4 border border-light-subtle rounded shadow-sm bg-white flex-grow-1"> <!-- MAIN CONTAINER -->
+                <div class="container mb-5 pt-3 header_info_wrapper"> <!-- HEADER CONTAINER -->
+                    <!-- Main Header Title -->
+                    <div class="row justify-content-center mb-3">
+                        <div class="col-12 col-md-8 col-lg-6 text-center">
+                        <h1 class="display-6 fw-bold text-decoration-underline header_title">
+                            A Comparative Dictionary of Indo-Aryan Languages
+                        </h1>
+                        </div>
+                    </div>
+
+                    <!-- Subtitle Nav Links -->
+                    <div class="row justify-content-center header_subtitle_row">
+                        <div class="col-12 col-sm-10 col-md-8 col-lg-6">
+                            <div class="d-flex justify-content-center align-items-center gap-2 gap-md-4 text-center header_subtitles">
+                                <div class="header_subtitle">
+                                        <a class="fw-semibold" href="frontmatter/turner-comparative.pdf">About</a>
+                                </div>
+                                <div class="text-muted opacity-50" aria-hidden="true">&bull;</div>
+                            
+                                <div class="header_subtitle">
+                                        <a class="fw-semibold" href="new_frontmatter.html">Front Matter</a>
+                                </div>
+                                <div class="text-muted opacity-50" aria-hidden="true">&bull;</div>
+                            
+                                <div class="header_subtitle">
+                                        <a class="fw-semibold" href="/dictionaries/">DDSA</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- END HEADER -->
+
+                <hr class="w-25 mx-auto border-2 text-primary mb-4 mb-md-5">
+                
+                <div class="container mb-5"> <!-- FORM CONTAINER -->
+                    <FORM ACTION="/cgi-bin/app/soas_query.py?">
+
+                        <div class="search_field_wrapper mb-4">
+
+                            <div class="row g-2 align-items-baseline mb-4">
+                                
+                                <div class="col-12 col-md-auto">
+                                    <label for="autocomplete-1" class="col-form-label pt-0">Look up a word:</label>
+                                </div>
+                                
+                                <div class="col-12 col-md-auto ui-widget flex-grow-1" style="max-width: 400px;">
+                                    <input type="text" id="autocomplete-1" name="qs" class="form-control" placeholder="Type here..." aria-describedby="autocomplete-1-help">
+
+                                    <div class="form-text mt-1 text-muted" id="autocomplete-1-help">
+                                        (Examples: aklitta or moist)
+                                    </div>
+                                </div>
+
+                            </div>
+                            
+                            <div class="d-flex justify-content-start justify-content-md-center gap-3 input_buttons">
+                                <button type="submit" value="Search" class="btn btn-outline-success px-4">Search</button>
+                                <button type="reset" value="Clear" class="btn btn-outline-success px-4">Clear</button>
+                            </div>
+
+                        </div>
+                        
+                        <fieldset class="search_field_wrapper">
+
+                            <legend class="d-block fw-bold search_options mb-3">Search Options:</legend>
+
+                            <!-- Standalone Top Checkbox -->
+                            <div class="row mb-3">
+                                <div class="col-12 px-3">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" name="searchhws" value="yes" id="searchhws">
+                                    <label class="form-check-label" for="searchhws">
+                                    Search entry words only (not definitions)
+                                    </label>
+                                </div>
+                                </div>
+                            </div>
+
+                            <div class="row g-3 px-1">
+                                
+                                <div class="col-12 col-md-6">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="matchtype" id="beginning_with" value="default" checked>
+                                        <label class="form-check-label" for="beginning_with">
+                                        Words beginning with <span class="text-muted small ms-1">(Example: grand)</span>
+                                        </label>
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-md-6">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="matchtype" value="exact" id="exact_matches">
+                                        <label class="form-check-label" for="exact_matches">
+                                        Exact matches only <span class="text-muted small ms-1">(Example: grandfather)</span>
+                                        </label>
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-md-6">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="matchtype" value="endingwith" id="endingwith">
+                                        <label class="form-check-label" for="endingwith">
+                                        Words ending with <span class="text-muted small ms-1">(Example: father)</span>
+                                        </label>
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-md-6">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="matchtype" value="containing" id="containing">
+                                        <label class="form-check-label" for="containing">
+                                        Words containing <span class="text-muted small ms-1">(Example: ndfa)</span>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </FORM>
+                </div> <!-- END FORM CONTAINER -->
+
+                <hr class="w-25 mx-auto border-2 text-primary mb-3">
+                <div class="container footer_info_wrapper">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-10 col-lg-8">  
+                            <div class="dico_info p-4">
+                                
+                                
+				<div class="mb-4 last_element_fix">
+				<blockquote class="help_page_blockquote mb-0 lh-base">
+				Turner, R. L. (Ralph Lilley), Sir. <i>A comparative dictionary of Indo-Aryan languages</i>. London: Oxford University Press, 1962-1966. Includes three supplements, published 1969-1985.
+				</blockquote>
+				</div>
+			
+				<div class="mb-4 last_element_fix">
+				<blockquote class="help_page_blockquote mb-0 lh-base">
+				Copyright  1962-1985 by Sir Ralph Turner, Dorothy R. Turner, and Executors of the late Sir Ralph Lilley Turner<br/>
+No part of this publication may be stored, transmitted, retransmitted, 
+lent, or reproduced in any form or medium without the permission of the School of Oriental and African Studies, London University.
+				</blockquote>
+				</div>
+			
+				<div class="mb-4 last_element_fix">
+				<blockquote class="help_page_blockquote mb-0 lh-base">
+				This presentation of <i>A comparative dictionary of Indo-Aryan languages</i> allows readers
+to search for all of the information in the indexes to the ink-print
+edition. Consequently, the indexes and concordance have not been included
+as separate text. Addenda and corrigenda have been applied to the main text to form a single, integrated sequence of entries.
+				</blockquote>
+				</div>
+			
+				<div class="mb-4 last_element_fix">
+				<blockquote class="help_page_blockquote mb-0 lh-base">
+				Data for this dictionary was most recently <b>updated</b> in September 2022.
+				</blockquote>
+				</div>
+			
+				<div class="mb-0">
+				<blockquote class="help_page_blockquote mb-0 lh-base">
+				This dictionary is funded in part by the U. S.  Department of Education.
+				</blockquote>
+				</div>
+			
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- END MAIN COLUMN -->
+        </div>
+    </div> <!-- END MAIN CONTAINER -->
+    <div id="includedFooter"></div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-24285741-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-24285741-1');
+</script>
+
+<script> 
+    $(function(){
+    $("#includedHeader").load("/revamp/bg-tertiary_navbar_include.html"); 
+    });
+    $(function(){
+        $("#includedFooter").load("/revamp/dico_footer_include.html"); 
+    });
+</script> 
+
+</body>
+</html>

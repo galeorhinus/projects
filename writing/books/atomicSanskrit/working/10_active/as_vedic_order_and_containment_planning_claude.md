@@ -1,5 +1,7 @@
 # Planning Doc — Ch0 Vedic Order (सत्/ऋत) and Ch1 Containment Front-Loading
 
+> **Partial supersession notice, 2026-09-02.** The chapter-planning work in this document remains historical reference. Any statement that assigns a praised Rigvedic ***asura*** occurrence to ***asu-ra*** or treats that assignment as proof has been superseded. Chapter 3 §3.6 now states that Sanskrit has both ***asu-ra*** and ***a-sura***, while the surrounding Rigvedic words do not determine every occurrence. Purpose and action determine alignment.
+
 *Not a manuscript edit. Prepared 2026-08-04 at the author's request, following the ऋta/ṛju/ṛc/ṛṣi derivation the author drafted and the decision to relocate सत्-असत्-विवेक from the Part I opener into Chapter 0. Two moves are planned in parallel: (A) Chapter 0 earns सत् and the Vedic order before Part I invokes it; (B) Chapter 1 earns "architecture of containment" mythologically before Chapter 3 deploys it institutionally. Both moves follow the same shape: introduce thematically early, deploy technically later.*
 
 ---

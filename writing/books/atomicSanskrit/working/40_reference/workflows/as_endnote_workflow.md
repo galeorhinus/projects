@@ -31,7 +31,20 @@ When chapter prose adds a `[NOTE: stub-name]` marker, the corresponding entry in
 3. **Author the Short field at draft time.** One sentence ending in a period. Ask: *what does the printed-book reader need from this note?* Pair Sanskrit terms with Devanāgarī on first use per CLAUDE.md voice convention.
 4. **Author the Deployments line.** `Chapter N §N.M ¶ — short description of what the note anchors at this deployment.` Multiple deployments listed semicolon-separated.
 5. **Author the long-form body.** Whatever the companion reader needs — primary-source citation, verification trail, source-history context, structural significance.
-6. **End with the `---` separator.**
+6. **Attach hidden source records.** Add a `SOURCE-RECORDS` HTML-comment block containing the stable IDs from `working/40_reference/sources/as_source_registry.md` and the exact locator or query used for this note. `build_book.py` strips this block from both endnote modes.
+7. **End with the `---` separator.**
+
+Example:
+
+```markdown
+<!-- SOURCE-RECORDS
+- vedaweb-zurich-v3 | lemma query: adabdha-; 48 rows; dabdha-: 0 rows
+- hale-asura-1986 | p. 24
+-->
+```
+
+The reader-facing endnote still carries a normal citation. The hidden block is
+the reproducibility link between that note and the exact digital evidence.
 
 **If editorial decision isn't crystal at draft time** — write `**Short:** [TBD: <category>]` (Citation / Citation+Context / Mini-essay / Verification) as placeholder. The discipline is *have the slot, fill it in the moment*. TBD is permitted as a temporary state, not a long-term resting state.
 
@@ -73,6 +86,36 @@ python3 working/tools/endnotes_short_scaffold.py
 ```
 
 The script prints a summary of how many entries got placeholders inserted; if it reports anything other than `Inserted: 0`, an entry was missing its Short field and now has a TBD placeholder for editorial follow-up.
+
+## Source-verification guardrail
+
+The complete factual audit is tracked separately from Short-form completeness:
+
+- `working/10_active/as_endnote_verification_master.md` inventories every definition, live marker, audit result, and structural defect.
+- `working/10_active/endnote_verification_batches/` contains the evidence and editorial record for each completed batch.
+- `working/tools/endnote_verification_ledger.py` regenerates the master ledger from the manuscript and batch reports.
+
+After changing endnote definitions, markers, or batch results, run:
+
+```bash
+python3 working/tools/endnote_verification_ledger.py write
+python3 working/tools/endnote_verification_ledger.py check
+python3 working/tools/source_registry_check.py
+```
+
+The audit normally proceeds in batches of 8–12 directly deployed notes. A completed result checks the body claim, Short form, full note, source locator, and every live deployment together. Parked notes require a disposition review now and full factual verification before any future redeployment.
+
+For every digital source consulted, the batch must also:
+
+1. create or confirm its record in `working/40_reference/sources/as_source_registry.md`;
+2. retain the exact URL and access date;
+3. record a durable URL, local archive path, or both when available;
+4. calculate SHA-256 for downloaded documents and datasets; and
+5. attach the source ID to each verified endnote through a hidden
+   `SOURCE-RECORDS` block.
+
+The archive and storage rules live in
+`working/40_reference/sources/README.md`.
 
 ---
 

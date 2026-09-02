@@ -13,7 +13,8 @@ Categorization heuristics (rough — these guide the editorial pass, not gate it
 from pathlib import Path
 import re
 
-ENDNOTES = Path("/Users/paragtope/projects/writing/books/atomicSanskrit/as_endnotes.md")
+BOOK_DIR = Path(__file__).resolve().parents[2]
+ENDNOTES = BOOK_DIR / "manuscript" / "as_endnotes.md"
 DRY_RUN = False  # set True to preview only
 
 text = ENDNOTES.read_text()

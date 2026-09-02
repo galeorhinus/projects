@@ -54,6 +54,9 @@
 - 3.3 Enclosure: The Theological Pillar
 - 3.4 Ascent: The Progress Pillar
 - 3.5 Containment: The Method
+- 3.6 Māyā, Asura, and Viveka
+- 3.7 Containment and Release in the Veda
+- 3.8 The Battle of Two Fractals
 
 **Chapter 4 — The Fourth Abrahamic Religion**
 - 4.1 The Fourth Religion

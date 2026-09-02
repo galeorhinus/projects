@@ -1,5 +1,7 @@
 # The Asura Generativity Argument — Deployment Plan (Claude)
 
+> **Superseded 2026-09-02.** This document preserves the research history behind an earlier categorical assignment of Rigvedic ***asura*** occurrences. Chapter 3 §3.6 and [`asura_maya_reframing_master_proposal_codex.md`](asura_maya_reframing_master_proposal_codex.md) now govern the book: Sanskrit has both ***asu-ra*** and ***a-sura***, but generativity proves possibility rather than the identity of any one occurrence. Purpose and action determine alignment.
+
 **Status:** source argument; deployment completed through the Codex plan on 2026-08-02
 **Created:** 2026-08-01
 **The claim (stated flat, not hedged):** *The Ṛgveda uses **both** kinds of asura — **asu-ra** (the breath-bearer) and **a-sura** (the un-shining).*

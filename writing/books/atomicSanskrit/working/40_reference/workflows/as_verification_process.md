@@ -1,6 +1,6 @@
 # Atomic Sanskrit — Verification Process
 
-> **Purpose.** Process companion to [as_verification_todo.md](../../10_active/as_verification_todo.md). This file is the *how*; the todo file is the *what*. Together they constitute the verification apparatus.
+> **Purpose.** Process companion to [as_verification_todo.md](../../10_active/as_verification_todo.md) and [as_endnote_verification_master.md](../../10_active/as_endnote_verification_master.md). This file defines the method. The todo records unresolved evidence gaps. The master ledger records the audit status of every endnote.
 >
 > **When the user asks "what needs verification?" or "how do I work the verification queue?"** — this file is the answer.
 >
@@ -8,12 +8,30 @@
 
 ---
 
-## The two paired files
+## The verification records
 
 | File | Purpose | Update rhythm |
 |------|---------|---------------|
 | [as_verification_todo.md](../../10_active/as_verification_todo.md) | The queue — every unverified claim, organized by chapter, with verification path | Add items when drafting new claims (via `[VERIFY:]` markers); check items off as discharged |
 | [as_verification_process.md](as_verification_process.md) *(this file)* | The workflow — tier system, working modes, tool usage | Update only when the process itself changes |
+| [as_endnote_verification_master.md](../../10_active/as_endnote_verification_master.md) | Generated inventory and status ledger for every endnote | Regenerate after each endnote audit batch or endnote inventory change |
+| `working/10_active/endnote_verification_batches/` | Permanent audit reports recording sources, findings, corrections, and affected deployments | Add one report for each batch of approximately 8–12 notes |
+| [as_source_registry.md](../sources/as_source_registry.md) | Permanent digital-source catalogue: URLs, access dates, archive paths, versions, and checksums | Add or update a record whenever a digital source is consulted |
+| `working/40_reference/sources/archive/` | Retained documents, images, datasets, and web captures when storage is appropriate | Add evidence during verification; never include in reader-facing builds |
+
+Batch reports are the source of truth for completed endnote audits. Regenerate and validate the master ledger with:
+
+```bash
+python3 working/tools/endnote_verification_ledger.py write
+python3 working/tools/endnote_verification_ledger.py check
+python3 working/tools/source_registry_check.py
+```
+
+Do not use `as_verification_todo.md` as the complete endnote ledger. It remains reserved for claims that are unresolved after lookup or that require later access to a specific source.
+
+The batch report records the editorial result. The source registry records the
+digital object that made the result reproducible. The endnote's hidden
+`SOURCE-RECORDS` block joins the two.
 
 ---
 
@@ -40,6 +58,21 @@ Verification items are not uniform. They span from "look up a date in 30 seconds
 ---
 
 ## Workflow per item
+
+Before assigning an outcome, preserve the evidence trail:
+
+1. Record the full citation and canonical textual locator.
+2. Record the exact digital URL and access date.
+3. Prefer a DOI, institutional repository, or other durable URL when available,
+   while retaining the exact page actually consulted.
+4. Archive public-domain or open material and unstable load-bearing web pages.
+5. Record SHA-256 for every retained document or dataset.
+6. Add the source's stable ID and the note-specific locator to the endnote's
+   hidden `SOURCE-RECORDS` block.
+
+For physical-only consultation, record the edition and page and state that no
+digital source was used. Never invent or substitute a URL merely to fill the
+field.
 
 Four possible outcomes when verifying an item:
 

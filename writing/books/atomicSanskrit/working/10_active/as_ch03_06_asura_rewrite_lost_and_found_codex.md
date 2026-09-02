@@ -1,5 +1,7 @@
 # Chapter 3.6 Asura Rewrite: Lost and Found
 
+> **Historical text only.** This file preserves prose removed during an earlier Chapter 3 rewrite. Its categorical assignment of praised occurrences to ***asu-ra*** and hostile occurrences to ***a-sura*** was retired on 2026-09-02. The current doctrine is in Chapter 3 §3.6 and [`asura_maya_reframing_master_proposal_codex.md`](asura_maya_reframing_master_proposal_codex.md). Do not restore the prose below without reconciling it with that doctrine.
+
 **Purpose:** Preserve every paragraph displaced when the revised *Asura Analysis* replaces the previous §3.6.
 
 **Pre-deployment commit:** `f85284be`

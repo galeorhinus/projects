@@ -63,13 +63,16 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 2.9 The War Changed the Attack — *After 1857 forced Britain to retreat from overt conversion, false categories offered another way to separate Hindus from what they had preserved.*
 - 2.10 Āsurī Māyā: Concealment and Projection — *The chapter returns to its epigraph and identifies concealment and projection inside the category theft.*
 
-**Chapter 3 — The Pyramid's Motive and Method** — *Asks why the botanical metaphor has not gone. Lethargy and hegemony helped establish it; only strategic necessity accounts for its persistence. Surveys the three pillars the metaphor defends — custody (racial), enclosure (theological), ascent (progress) — and names containment as the method.*
+**Chapter 3 — The Pyramid's Motive and Method** — *Asks why the botanical metaphor has not gone. Lethargy and hegemony helped establish it; only strategic necessity accounts for its persistence. The chapter examines the three pillars the metaphor defends, names containment as the method, and uses the Vedas to distinguish action from faction.*
 
 - 3.1 Why the Pyramid Needs the Tree — *Names the candidates; strategic necessity is the explanation that fits.*
-- 3.2 Custody: The Racial Pillar — *The racial Arya thesis and the metaphor's role in keeping Sanskrit "portable"; the colonial mechanism transposed into a fabricated ancient timeline.*
+- 3.2 Displacement: The Racial Pillar — *The racial Arya thesis displaces Sanskrit from the people who preserved it and projects a colonial mechanism into an invented ancient timeline.*
 - 3.3 Enclosure: The Theological Pillar — *The Biblical chronology that anchored nineteenth-century philology, and how the framework accommodated it.*
 - 3.4 Ascent: The Progress Pillar — *The linear-progress teleology: the third and most potent pillar, defended by every contemporary academic regardless of alignment.*
 - 3.5 Containment: The Method — *The defensive structure as pre-emption: the discipline functions to ensure the engineered thesis cannot be formed.*
+- 3.6 Māyā, Asura, and Viveka — *The Ṛgveda uses the sound-form* asura *in praised and hostile contexts without telling us how every occurrence should be divided. The listener must examine purpose and action rather than assign a faction from the word alone.*
+- 3.7 Containment and Release in the Veda — *Vṛtra, the Paṇis, Svarbhānu, and Varuṇa show what their power does: some actions obstruct circulation, while others release it.*
+- 3.8 The Battle of Two Fractals — *The swastika distributes and restores circulation; the pyramid encloses and centralizes. The two architectures repeat their forms at different scales.*
 
 **Chapter 4 — The Fourth Abrahamic Religion** — *Names the formation behind the containment. Progressivism as the fourth Abrahamic religion: Abrahamic structure secularized as progress; the* church of progress *as institutional carrier; priests, missionaries, jihadis of progress; Bandin's Gate as the peer-review parable; the asuric pyramid as the ontological diagnosis.*
 

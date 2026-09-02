@@ -30,9 +30,9 @@ Recovery is not revenge, because the dharmic account is karmic: action bears con
 
 ## Where the Nectar Rises
 
-In the **समुद्रमन्थन (*samudra-manthana*)** story, the devas and asuras wrap the serpent Vāsuki around Mount Mandara and pull from opposite sides. They churn the ocean for **अमृत (*amṛta*)**, the nectar of immortality.[NOTE: samudra-manthana-source-anchor] What rises first is **हलाहल (*halāhala*)** — poison enough to end the worlds. Śiva contains it in his throat and becomes **नीलकण्ठ (*nīlakaṇṭha*)**, the blue-throated one. Only after the poison does the ocean yield the nectar, and **मोहिनी (*Mohinī*)** gives it to the **देवाः (*devāḥ*)**, the radiant ones of ⟪दिव्⟫.
+In the **समुद्रमन्थन (*samudra-manthana*)** story, the devas and asuras wrap the serpent Vāsuki around Mount Mandara and pull from opposite sides. They churn the ocean for **अमृत (*amṛta*)**, the nectar of immortality.[NOTE: samudra-manthana-source-anchor] What rises first is **हालहल (*hālahala*)** — poison enough to end the worlds. Śiva contains it in his throat and becomes **नीलकण्ठ (*nīlakaṇṭha*)**, the blue-throated one. Only after the poison does the ocean yield the nectar, and **मोहिनी (*Mohinī*)** gives it to the **देवाः (*devāḥ*)**, the radiant ones of ⟪दिव्⟫.
 
-The pyramid has been churning for two centuries, mostly with hands lower in its academic hierarchy that never controlled the apex narrative. Generation after generation of Sanskrit scholars — trained in the colonial-era institutes at Varanasi, Kolkata, and Pune — supplied the Sanskrit expertise.[NOTE: colonial-sanskrit-institutes] Credentialed workers across Oxford, Berlin, Leipzig, St. Petersburg, and other centers kept the rope turning. The apex drew up the *halāhala*: the racial Arya thesis, the cranial index, the nasal index, and the poisons that the twentieth century drank to the bottom.
+The pyramid has been churning for two centuries, mostly with hands lower in its academic hierarchy that never controlled the apex narrative. Generation after generation of Sanskrit scholars working through colonial-era institutes at Varanasi, Kolkata, and Pune supplied the Sanskrit expertise.[NOTE: colonial-sanskrit-institutes] Credentialed workers across Oxford, Berlin, Leipzig, St. Petersburg, and other centers kept the rope turning. The apex drew up the *hālahala*: the racial Arya thesis, the cranial index, the nasal index, and the poisons that the twentieth century drank to the bottom.
 
 The civilization that bore that poison for a century and a half became the **नीलकण्ठ (*nīlakaṇṭha*)** of this churning. The poison stopped at the throat. It never reached the heart.
 
@@ -230,7 +230,7 @@ The final turn therefore asks Vāc herself to nourish the work:
 > *devīṃ vācam ajanayanta devās tāṃ viśvarūpāḥ paśavo vadanti |*\
 > *sā no mandreṣam ūrjaṃ duhānā dhenur vāg asmān upa suṣṭutaitu ||*
 >
-> The devas generated divine Speech; all beings, in many forms, speak her. May Vāc, well-praised, come to us like a milk-cow, gladdening us and yielding refreshment and strength.[NOTE: rigveda-8-100-11-vak-blessing]
+> The devas generated divine Speech; animals of every form speak her. May Vāc, well-praised, come to us like a milk-cow, gladdening us and yielding refreshment and strength.[NOTE: rigveda-8-100-11-vak-blessing]
 
 The invitation is not to compose new *śruti*. It is to become capable of seeing what Vāc has already revealed, to take the architecture forward, and to let Speech nourish the next civilizational act.
 

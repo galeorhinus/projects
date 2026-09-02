@@ -1,5 +1,7 @@
 # The *Asura* Generativity Argument — Deployment Plan (Codex)
 
+> **Superseded 2026-09-02.** This document preserves the 2026-08-02 deployment history and its retired certainty that action identifies each Rigvedic occurrence as ***asu-ra*** or ***a-sura***. Chapter 3 §3.6 and [`asura_maya_reframing_master_proposal_codex.md`](asura_maya_reframing_master_proposal_codex.md) now govern the book: generativity establishes that both formations are possible, but it does not assign a particular occurrence. Purpose and action determine alignment even when the lexical division remains unresolved.
+
 **Status:** deployed to Chapter 3 §3.6 on 2026-08-02; endnotes and Chapter 19 reconciled in the same pass. A post-deployment evidence consolidation added the Sāmaveda Padapāṭha division ***a + surasya***, RV 6.17.8 ***a-deva***, and the corrected forty-eight-to-zero ***a-dabdha / dabdha*** corpus result. Repeated body material is preserved in `as_ch03_06_consolidation_lost_and_found_codex.md`.
 **Created:** 2026-08-01
 **Source plan:**
