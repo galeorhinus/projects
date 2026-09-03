@@ -1,6 +1,6 @@
 {
   "name": "scatter_tajik",
-  "description": "Tajik — an Iranian language of Tajikistan (and adjacent Afghanistan and Uzbekistan), written in Cyrillic; the Central Asian variety of the broader Persian (Farsi / Dari / Tajik) continuum. Phonemic inventory on the standardized 12-column place axis. Voiceless stops at 5 places (bilabial, dental, velar, uvular, glottal); voiced at 3 (bilabial, dental, velar). Two nasals. Voiceless fricatives f, s, ʃ, x, h; voiced v, z, ʒ, ɣ. Affricates tʃ, dʒ (no /ts/). Lateral /l/, trill /r/. Inventory drawn from Perry (2005) and Ido (2014).",
+  "description": "Tajik — the Central Asian form of Persian — on the standardized 12-column place axis, following Perry's 2005 inventory. The standard language has /v/; [w] is a contextual realization of /v/, not a separate consonant phoneme. The remaining cells record the twenty-four-phoneme system described in Perry's Figure 1.5.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,
@@ -204,7 +204,7 @@
         ""
       ],
       [
-        "w",
+        "",
         "",
         "",
         "",

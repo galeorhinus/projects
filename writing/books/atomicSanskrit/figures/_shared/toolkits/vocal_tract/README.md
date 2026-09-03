@@ -29,7 +29,7 @@ What the analysis lets a reader see at a glance:
 
 - **Which places of articulation a language uses** — sparse columns mean only some places are recruited; dense columns mean the place is heavily exploited.
 - **The depth of contrast at each place** — a tall stack at one column means many manner-of-articulation distinctions there (Sanskrit's 4-row stop matrix at five places); a single dot means only one phoneme at that place.
-- **The shape of the inventory** — symmetric (Tamil's 6×2 stop/nasal grid), front-heavy (English clustering at alveolar), spread-across-all-12 (Arabic's pharyngeal-to-bilabial occupation), or sparse (Nahuatl, Korku).
+- **The shape of the inventory** — symmetric (Tamil's 6×2 stop/nasal grid), front-heavy (English clustering at alveolar), spread-across-all-12 (Arabic's pharyngeal-to-bilabial occupation), or sparse (Nahuatl).
 
 The deliberate analytical move is to use a *shared place axis* and let each language's *rows* vary — so place-of-articulation can be compared across languages, while manner stays a within-language axis. This trades total expressiveness (a fully-typed phonetic-feature space would have manner standardised too) for cross-language readability.
 
@@ -177,9 +177,9 @@ The atlas covers four broad regions of inventory shape. Within each region, lang
 
 Three languages of the Munda people of the Chotanagpur plateau and surrounding regions in eastern subcontinent. Sister languages within the group include Ho and Sora. The three charts show what happens to a shared base inventory under different intensities of contact with Sanskritic / Indic languages.
 
-**Korku** ([scatter_korku.svg](build/scatter_korku.svg)) — Satpura range and Mahadeo hills (Madhya Pradesh, Maharashtra). The most conservative of the three. 5-place voiceless/voiced stop pairs, four matched nasals, /s, h, l, r, w, j/. No phonemic glottal stop, no integrated aspirated stops. Cells: 20. Columns lit: 1, 4, 5, 7, 8, 9, 12.
+**Korku** ([scatter_korku.svg](build/scatter_korku.svg)) — Satpura range and Mahadeo hills (Madhya Pradesh, Maharashtra). The chart follows Nagaraja 1999: five-place plain, aspirated, voiced, and breathy stop rows; a glottal stop; /m, n/; /s, h/; alveolar and retroflex liquids; and /w, j/. Zide's older compact analysis is recorded separately. Cells: 31. Columns lit: 1, 4, 5, 7, 8, 9, 12.
 
-**Mundari** ([scatter_mundari.svg](build/scatter_mundari.svg)) — Jharkhand, Odisha, West Bengal. Adds the phonemic glottal stop /ʔ/ at column 12 to the Korku baseline. Otherwise structurally identical to Korku. Cells: 21. Columns lit: same as Korku.
+**Mundari** ([scatter_mundari.svg](build/scatter_mundari.svg)) — Jharkhand, Odisha, West Bengal. Uses the same seven place-columns as the Korku chart, including a phonemic glottal stop /ʔ/, but has a shallower row structure. Cells: 21. Columns lit: same as Korku.
 
 **Santali** ([scatter_santali.svg](build/scatter_santali.svg)) — the most widely spoken language of the Munda people, written in its own Ol Chiki script as well as Devanagari, Bengali, and Roman. The most contact-influenced of the three: integrates the full four-way Sanskrit-style stop matrix (voiceless / voiceless-aspirated / voiced / voiced-aspirated) across all five stop places, plus the retroflex flap /ɽ/. Cells: 31. Columns lit: same 7 as Korku and Mundari — what differs is the *row depth*.
 
@@ -207,7 +207,7 @@ These eight follow standard published phonemic analyses of each language. They s
 
 **Swahili** ([scatter_swahili.svg](build/scatter_swahili.svg)) — the East African lingua franca. Standard Bantu shape: voiceless / voiced stop pairs, four nasals, the velar fricative ɣ, palatal nasal ɲ. The interdental fricatives θ ð (rendered as ث ذ in Arabic-script-source loanwords) and labio-dental fricatives /f, v/ enter through Arabic-source vocabulary. Cells: 23.
 
-**Zulu** ([scatter_zulu.svg](build/scatter_zulu.svg)) — southern African (KwaZulu-Natal and surrounding). The defining feature: three click consonants (ǀ dental click, ǁ lateral-alveolar click, ǃ post-alveolar click) — no other language in the set uses click consonants. The current placement of the clicks in the matrix is being revisited (the lateral and post-alveolar clicks need to land on their phonetically-correct columns 5/6 rather than the columns they are currently rendered at). Ejective fricatives, breathy-voiced stops, the bilabial implosive ɓ are additional distinctive markers. Cells: 32.
+**Zulu** ([scatter_zulu.svg](build/scatter_zulu.svg)) — southern African (KwaZulu-Natal and surrounding). The defining feature is its three click consonants: ǀ dental click in column 4, ǁ lateral-alveolar click in column 5, and ǃ post-alveolar click in column 6. No other language in the set uses click consonants. Ejective fricatives, breathy-voiced stops, and the bilabial implosive ɓ are additional distinctive markers. Cells: 32.
 
 ### 7.5 Quechua, Nahuatl — two American inventories
 
@@ -275,7 +275,7 @@ When the charts are placed side-by-side, several patterns become visible. None o
 
 | Language | Cells | Columns lit | Row depth |
 |---|---:|---|---|
-| Korku | 20 | 1, 4, 5, 7, 8, 9, 12 | shallow (7 rows) |
+| Korku | 31 | 1, 4, 5, 7, 8, 9, 12 | deep (9 rows) |
 | Mundari | 21 | same as Korku | shallow (7 rows) |
 | Tamil | 18 | 1, 4, 5, 7, 8, 9 | shallowest (5 rows) |
 | Santali | 31 | same as Korku | deeper (9 rows) |
@@ -350,13 +350,11 @@ The three Munda inventories follow standard published phonemic analyses:
 - General reference for the lineage: G. D. S. Anderson (ed.), *The Munda Languages* (Routledge Language Family Series, 2008).
 - Santali: L. Neukom, *A Grammar of Santali* (Lincom Studies in Asian Linguistics, 2001).
 - Mundari: T. Osada, *A Reference Grammar of Mundari* (Institute for the Study of Languages and Cultures of Asia and Africa, 1992); Anderson and Osada, "Mundari," in Anderson 2008.
-- Korku: N. H. Zide, "Korku," in Anderson 2008; A. R. K. Zide and N. H. Zide, "Proto-Munda cultural vocabulary," in *Austroasiatic Studies* (1976).
-
-TODO: Reconcile the Korku inventory between Zide/Anderson and Nagaraja 1999. The current chart follows the conservative Zide/Anderson-style inventory and excludes aspirated retroflexes and richer liquid contrasts unless confirmed as core phonemes.
+- Korku: K. S. Nagaraja, *Korku Language: Grammar, Texts and Vocabulary* (1999), p. 5. N. H. Zide, “Korku Syllables and Syllable Stress,” records an older compact analysis in which aspiration belongs to the vowel accompaniments rather than independent stop rows. The chart follows Nagaraja; the Chapter 8 comparison strips both aspirated stop rows before calculating coverage.
 
 The famous "checked" (glottalised) word-final stop allophones of the lineage are documented in all three primary sources; the atlas does not show them as separate phonemes because their phonemic status is debated — they are typically analysed as positional allophones of the regular stops rather than independent phonemes.
 
-The aspirate row in the Santali chart reflects Neukom's treatment of aspirates as integrated phonemes; aspirates in Mundari and Korku are more restricted (loanword-confined) and are not shown as separate rows in those charts.
+The aspirate row in the Santali chart reflects Neukom's treatment. Korku follows Nagaraja's fuller 1999 inventory. The Chapter 8 base comparison strips aspirated rows from every language before calculating coverage.
 
 ### 9.4 European, East Asian, Iranian, African, American inventories
 
@@ -364,6 +362,10 @@ These follow widely-published standard phonemic analyses:
 
 - **English** (General American / Received Pronunciation): standard IPA phonemic descriptions as documented in Roach, *English Phonetics and Phonology* (Cambridge); Ladefoged and Johnson, *A Course in Phonetics*.
 - **French** (Metropolitan): Tranel, *The Sounds of French* (Cambridge); Fougeron and Smith, "French" in the *Journal of the International Phonetic Association* Illustration series.
+- **Greek** (Modern Standard): Holton, Mackridge, Philippaki-Warburton, and Spyropoulos, *Greek: A Comprehensive Grammar of the Modern Language*, 2nd ed., Chapter 1.
+- **Tajik**: John R. Perry, *A Tajik Persian Reference Grammar* (Brill, 2005), §1.5 and Figure 1.5.
+- **Kazakh**: Adam G. McCollum and Si Chen, “Kazakh,” *Journal of the International Phonetic Association* 51.2 (2021), pp. 276-98, especially pp. 277-78.
+- **Kyrgyz**: PHOIBLE 2.0, “Kyrgyz (Standard),” inventory EA 2382, derived from Kara 2003.
 - **Japanese** (Standard Tokyo): Vance, *The Sounds of Japanese* (Cambridge); the *JIPA* Illustration entry for Japanese.
 - **Korean** (Standard Seoul): Sohn, *The Korean Language* (Cambridge); Lee and Ramsey, *The Korean Language* (SUNY Press).
 - **Mandarin** (Standard Beijing): Duanmu, *The Phonology of Standard Chinese* (Oxford); the *JIPA* Illustration entry for Standard Chinese.
@@ -378,7 +380,7 @@ These references are the standard sources for the phonemic inventories shown; th
 
 ### 9.5 Vocal tract distances
 
-The lip-to-place distances used for the anatomical angular distribution (the table in §4) are approximate adult-male averages drawn from standard articulatory-phonetics references — Ladefoged and Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996); Stevens, *Acoustic Phonetics* (MIT Press, 1998); and the standard IPA articulator-position diagrams. Individual measurements vary by speaker (adult-female vocal tract length is closer to 14–15 cm); the 17 cm anchor and the table values are representative rather than exact.
+The `distances` arrays used by the atlas spread places along a readable schematic arc. They are layout coordinates, not centimeter measurements and must not be cited as anatomical data. Chapter 9's reader-facing distance scale instead uses the directly reported landmarks and closure locations in Story and Bunton 2017. In their 17.5-centimeter MRI-derived adult tract, the incisors lie about 1.2 centimeters behind the lips and the measured velar closure extends across approximately 4.7 to 6.3 centimeters behind them. The paper's 2.8-centimeter alveolar closure is an intermediate source landmark, not a Sanskrit grid address. These values describe one speaker and provide reference landmarks, not universal fixed points.
 
 ---
 
@@ -653,7 +655,7 @@ The language configs in `configs/`:
 | [scatter_malto.json](configs/scatter_malto.json) | Malto | 21 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_brahui.json](configs/scatter_brahui.json) | Brahui | 28 | 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12 |
 | [scatter_mundari.json](configs/scatter_mundari.json) | Mundari | 21 | 1, 4, 5, 7, 8, 9, 12 |
-| [scatter_korku.json](configs/scatter_korku.json) | Korku | 20 | 1, 4, 5, 7, 8, 9, 12 |
+| [scatter_korku.json](configs/scatter_korku.json) | Korku | 31 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_santali.json](configs/scatter_santali.json) | Santali | 31 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_burushaski.json](configs/scatter_burushaski.json) | Burushaski | 35 | 1, 4, 5, 6, 7, 8, 9, 10, 12 |
 | [scatter_lepcha.json](configs/scatter_lepcha.json) | Lepcha | 21 | 1, 4, 5, 8, 9, 12 |

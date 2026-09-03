@@ -123,7 +123,6 @@
   <circle cx="2.1512" cy="4.6037" r="0.0372" fill="#2b2b2d" />
   <circle cx="2.1512" cy="5.0535" r="0.0372" fill="#2b2b2d" />
   <circle cx="2.1512" cy="5.5033" r="0.0372" fill="#2b2b2d" />
-  <circle cx="2.4750" cy="3.2543" r="0.0372" fill="#2b2b2d" />
   <circle cx="2.4750" cy="4.1539" r="0.0372" fill="#2b2b2d" />
   <circle cx="2.4750" cy="4.6037" r="0.0372" fill="#2b2b2d" />
   <circle cx="3.1227" cy="5.9531" r="0.0372" fill="#2b2b2d" />
@@ -131,32 +130,31 @@
   <circle cx="3.4465" cy="2.3546" r="0.0372" fill="#2b2b2d" />
   <circle cx="3.4465" cy="2.8044" r="0.0372" fill="#2b2b2d" />
   <circle cx="3.7703" cy="1.9048" r="0.0372" fill="#2b2b2d" />
+  <circle cx="3.7703" cy="4.1539" r="0.0372" fill="#2b2b2d" />
   <circle cx="3.7703" cy="4.6037" r="0.0372" fill="#2b2b2d" />
-  <circle cx="4.0942" cy="4.1539" r="0.0372" fill="#2b2b2d" />
   <circle cx="1.2974" cy="1.9048" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <circle cx="1.2974" cy="2.3546" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <circle cx="1.2974" cy="2.8044" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
-  <circle cx="1.2974" cy="5.9531" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
+  <circle cx="1.6213" cy="4.1539" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
+  <circle cx="1.6213" cy="4.6037" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <circle cx="1.9451" cy="1.9048" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <circle cx="1.9451" cy="2.3546" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
-  <circle cx="1.9451" cy="2.8044" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
-  <circle cx="2.2689" cy="4.1539" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
-  <circle cx="2.2689" cy="4.6037" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
+  <circle cx="1.9451" cy="4.1539" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
+  <circle cx="1.9451" cy="4.6037" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
+  <circle cx="2.2689" cy="2.8044" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <circle cx="2.2689" cy="5.0535" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <circle cx="2.2689" cy="5.5033" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <circle cx="2.5928" cy="3.2543" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <circle cx="2.5928" cy="3.7041" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <circle cx="2.5928" cy="4.1539" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
-  <circle cx="2.5928" cy="4.6037" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <circle cx="3.2404" cy="5.9531" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
-  <circle cx="3.5643" cy="1.9048" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
-  <circle cx="3.5643" cy="2.3546" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
-  <circle cx="3.5643" cy="2.8044" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
-  <circle cx="4.2119" cy="4.1539" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
+  <circle cx="3.8881" cy="1.9048" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
+  <circle cx="3.8881" cy="2.3546" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
+  <circle cx="3.8881" cy="4.1539" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
+  <circle cx="3.8881" cy="2.8044" r="0.0372" fill="none" stroke="#2b2b2d" stroke-width="0.0097" />
   <rect x="1.2611" y="1.7049" width="0.0726" height="0.0726" fill="none" stroke="#2b2b2d" stroke-width="0.0106" />
   <rect x="1.2611" y="2.1548" width="0.0726" height="0.0726" fill="none" stroke="#2b2b2d" stroke-width="0.0106" />
   <rect x="1.2611" y="2.6046" width="0.0726" height="0.0726" fill="none" stroke="#2b2b2d" stroke-width="0.0106" />
-  <rect x="1.2611" y="5.7533" width="0.0726" height="0.0726" fill="none" stroke="#2b2b2d" stroke-width="0.0106" />
   <rect x="1.5850" y="3.9540" width="0.0726" height="0.0726" fill="none" stroke="#2b2b2d" stroke-width="0.0106" />
   <rect x="1.5850" y="4.4038" width="0.0726" height="0.0726" fill="none" stroke="#2b2b2d" stroke-width="0.0106" />
   <rect x="1.9088" y="1.7049" width="0.0726" height="0.0726" fill="none" stroke="#2b2b2d" stroke-width="0.0106" />

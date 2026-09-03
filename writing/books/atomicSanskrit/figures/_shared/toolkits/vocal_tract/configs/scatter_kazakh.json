@@ -1,6 +1,6 @@
 {
   "name": "scatter_kazakh",
-  "description": "Kazakh — a Turkic language of Kazakhstan (and adjacent regions of China, Mongolia, Russia, Uzbekistan), written in Cyrillic (transitioning to Latin). Phonemic inventory on the standardized 12-column place axis. Voiceless stops at 4 places (bilabial, dental, velar, uvular). Voiced at 3 (bilabial, dental, velar). Three nasals (m, n, ŋ). Voiceless fricatives s, ʃ, h; voiced z, ʒ, ɣ. Single affricate tʃ. Lateral /l/, trill /r/. Bilabial /w/ and palatal /j/ glides. Inventory drawn from Kornfilt (1997) and Vajda (1994).",
+  "description": "Kazakh consonants on the standardized 12-column place axis, following McCollum and Chen's 2020 IPA illustration. The core inventory contains twenty contrastive consonants, including uvular /χ, ʁ/ and the glides /w, j/. The variable loan sounds [f, v, h] are not included, and the source does not treat /tʃ/ as a separate member of the core inventory.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,
@@ -129,9 +129,9 @@
         "",
         "",
         "",
+        "χ",
         "",
-        "",
-        "h"
+        ""
       ],
       [
         "",
@@ -143,21 +143,7 @@
         "",
         "",
         "",
-        "ɣ",
-        "",
-        ""
-      ],
-      [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "tʃ",
-        "",
-        "",
-        "",
-        "",
+        "ʁ",
         "",
         ""
       ],

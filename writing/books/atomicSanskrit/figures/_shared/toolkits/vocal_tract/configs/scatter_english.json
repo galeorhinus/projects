@@ -1,6 +1,6 @@
 {
   "name": "scatter_english",
-  "description": "English consonants on the standardized 12-place axis. English is 'front-heavy' — empty throat columns (no pharyngeal, no uvular), but populated dental (θ/ð) and labio-dental (f/v) columns that many languages don't have. 10 manner rows. 24 cells filled.",
+  "description": "British English (Received Pronunciation) consonants on the standardized 12-place axis, following Roach's 2004 IPA illustration. The stops /t, d/, nasal /n/, and lateral /l/ are alveolar; /θ, ð/ are dental. English is front-heavy, with no uvular or pharyngeal consonant. 24 cells are filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,
@@ -77,34 +77,8 @@
       "bottom_margin": 0.5
     },
     "matrix": [
-      [
-        "p",
-        "",
-        "",
-        "t",
-        "",
-        "",
-        "",
-        "",
-        "k",
-        "",
-        "",
-        ""
-      ],
-      [
-        "b",
-        "",
-        "",
-        "d",
-        "",
-        "",
-        "",
-        "",
-        "g",
-        "",
-        "",
-        ""
-      ],
+      ["p", "", "", "", "t", "", "", "", "k", "", "", ""],
+      ["b", "", "", "", "d", "", "", "", "g", "", "", ""],
       [
         "",
         "",
@@ -161,34 +135,8 @@
         "",
         ""
       ],
-      [
-        "m",
-        "",
-        "",
-        "n",
-        "",
-        "",
-        "",
-        "",
-        "ŋ",
-        "",
-        "",
-        ""
-      ],
-      [
-        "",
-        "",
-        "",
-        "l",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
+      ["m", "", "", "", "n", "", "", "", "ŋ", "", "", ""],
+      ["", "", "", "", "l", "", "", "", "", "", "", ""],
       [
         "",
         "",

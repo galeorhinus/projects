@@ -299,10 +299,12 @@ SYMBOL_TO_MANNER: dict[str, str] = {
     "ɳ":   "nasal",
     "ɲ":   "nasal",
     "ŋ":   "nasal",
+    "ɴ":   "nasal",
 
     # IPA — laterals
     "l":   "lateral",
     "ɭ":   "lateral",
+    "ɫ":   "lateral",
     "ʎ":   "lateral",
 
     # IPA — taps and trills

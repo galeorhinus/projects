@@ -40,6 +40,12 @@ Two methodological commitments carry through every survey:
 The atlas axis is the standardized 12 places (BIL, LD, ID, DEN, ALV,
 PA, RET, PAL, VEL, UV, PHA, GLO) × 13 manner rows.
 
+### Source audit completed for the body figures
+
+The four body figures received an inventory-level source audit on 2026-09-03. The Korku configuration now follows Nagaraja's 1999 phoneme table; Zide's earlier, smaller analysis remains recorded as an alternative. The English, French, Greek, Tajik, Kazakh, and Kyrgyz configurations were checked against language-specific grammars, IPA illustrations, and PHOIBLE.
+
+The audit corrected individual cells without changing any three-language union. The body totals remain **22/23, 20/23, 16/23,** and **15/23**. Exact sources and archived records are listed under `inventory-atlas-coverage-surveys` in `manuscript/as_endnotes.md` and in `working/40_reference/sources/as_source_registry.md`.
+
 ---
 
 ## 2. The eleven surveys (Body vs Appendix Part 3)

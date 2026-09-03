@@ -1,6 +1,6 @@
 {
   "name": "scatter_korku",
-  "description": "Korku — spoken by the Korku people of the Satpura range and Mahadeo hills in Madhya Pradesh and parts of Maharashtra; sister languages include Mundari, Santali, Ho, Sora — on the standardized 12-column place axis. Voiceless/voiced stop pairs across 5 places (bilabial, dental, retroflex, palatal, velar) — no phonemic glottal stop (unlike Mundari). Four matched nasals. Single sibilant /s/, the glottal /h/, single liquid pair /l, r/, glides /w, j/. 20 cells filled — the sparsest of the three Munda charts shown (Korku, Mundari, Santali), reflecting the relatively conservative core inventory.",
+  "description": "Korku — spoken in the Satpura range and Mahadeo hills of Madhya Pradesh and Maharashtra — on the standardized 12-column place axis. This configuration follows Nagaraja's 1999 inventory: five-place plain, aspirated, voiced, and breathy stop rows; a glottal stop; /m, n/; /s, h/; alveolar and retroflex liquids; and /w, j/. Zide's earlier analysis records a smaller system and treats aspiration with the vowel accompaniments. The Chapter 8 comparison strips both aspirated stop rows before calculating coverage, so the source disagreement does not alter the reported Forest-Belt total.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,
@@ -77,13 +77,15 @@
       "bottom_margin": 0.5
     },
     "matrix": [
-      ["p", "", "", "t", "",  "", "ʈ", "c", "k", "", "", ""],
-      ["b", "", "", "d", "",  "", "ɖ", "ɟ", "g", "", "", ""],
-      ["m", "", "", "n", "",  "", "",  "ɲ", "ŋ", "", "", ""],
-      ["",  "", "", "",  "s", "", "",  "",  "",  "", "", "h"],
-      ["",  "", "", "",  "l", "", "",  "",  "",  "", "", ""],
-      ["",  "", "", "",  "r", "", "",  "",  "",  "", "", ""],
-      ["w", "", "", "",  "",  "", "",  "j", "",  "", "", ""]
+      ["p",  "", "", "t",  "", "", "ʈ",  "c",  "k",  "", "", "ʔ"],
+      ["pʰ", "", "", "tʰ", "", "", "ʈʰ", "cʰ", "kʰ", "", "", ""],
+      ["b",  "", "", "d",  "", "", "ɖ",  "ɟ",  "g",  "", "", ""],
+      ["bʱ", "", "", "dʱ", "", "", "ɖʱ", "ɟʱ", "gʱ", "", "", ""],
+      ["m",  "", "", "",   "n", "", "",   "",   "",   "", "", ""],
+      ["",   "", "", "",   "s", "", "",   "",   "",   "", "", "h"],
+      ["",   "", "", "",   "l", "", "ɭ",  "",   "",   "", "", ""],
+      ["",   "", "", "",   "ɾ", "", "ɽ",  "",   "",   "", "", ""],
+      ["w",  "", "", "",   "",  "", "",   "j",  "",   "", "", ""]
     ]
   }
 }
