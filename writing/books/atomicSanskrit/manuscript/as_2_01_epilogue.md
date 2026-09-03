@@ -114,6 +114,8 @@ The book has followed this battle across four scales. At the cosmic scale, *sat*
 
 These are two fractals meeting at different scales. The swastika repeats created order without an apex. The pyramid repeats containment beneath an apex.
 
+The deepest contest is over civilizational memory. The pyramid needs later generations to forget that an order without an apex existed and that their ancestors defended it. *Sanātan* carries that memory throughout society, allowing no single institution or attack to erase it. The calibrant does more than keep the past available. It allows people in the present to compare their own conduct with an inherited standard.
+
 The asuric formation cannot make that call because its entire history relies on extraction, concealment, and inversion. Although it has claimed writing, grammar, language origins, and civilizational authority for itself, those claims inevitably fail under structural scrutiny.
 
 The architecture remains.

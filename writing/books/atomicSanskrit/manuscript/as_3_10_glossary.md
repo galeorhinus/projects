@@ -224,7 +224,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **आवरण (*āvaraṇa*)** / **विक्षेप (*vikṣepa*)**
 
-**Standard Vedāntic analytical terms.** Two actions through which आसुरी माया (*āsurī māyā*) hides what remains present and places a substitute before the observer. **आवरण (*āvaraṇa*)** conceals. **विक्षेप (*vikṣepa*)** projects the replacement. Chapter 2 introduces the terms through the वेदान्तसार (*Vedāntasāra*) and applies them to Svarbhānu's concealment of Sūrya.
+**Standard Vedāntic analytical terms.** Two actions through which आसुरी माया (*āsurī māyā*) hides what remains present and places a substitute before the observer. **आवरण (*āvaraṇa*)** conceals. **विक्षेप (*vikṣepa*)** projects the replacement. Chapter 1 introduces the pair through the actions of Vṛtra, Svarbhānu, Pūtanā, Mārīca, and Kālanemi. Chapter 2 supplies the वेदान्तसार (*Vedāntasāra*) terminology and applies it to the pyramid's treatment of Sanskrit.
 
 ### **देवभाषा (*devabhāṣā*)**
 

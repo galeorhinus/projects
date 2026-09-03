@@ -4,9 +4,9 @@
 
 ::: epigraph
 
-> भूयांसोऽपभ्रंशा अल्पीयांसः शब्दाः ।
+> भूयांसोऽपशब्दाः, अल्पीयांसः शब्दाः ।
 >
-> *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ.*
+> *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ.*
 >
 > `\hfill`{=latex}*— Mahābhāṣya*[NOTE: paspashahnika-apabhramsa-passage]
 
@@ -75,7 +75,7 @@ Patañjali demonstrates the imbalance through **गौः (*gauḥ*)** — cow. 
 
 > **गावी (*gāvī*), गोणी (*goṇī*), गोता (*gotā*), गोपोतलिका (*gopotalikā*).**[NOTE: paspashahnika-apabhramsa-passage]
 
-Each variant follows a different route away from गौः (*gauḥ*): गावी (*gāvī*) lengthens and reshapes the form, गोणी (*goṇī*) changes its consonantal body, गोता (*gotā*) simplifies the word and supplies another ending, and गोपोतलिका (*gopotalikā*) adds material that the calibrated derivation does not require. Patañjali groups all four around one शब्द (*śabda*) because the same architecture that generates गौः (*gauḥ*) also reveals why the other forms fail to match it. His list therefore establishes a center and compares several departures with it, rather than treating five circulating forms as equally constitutive of the language. Modern linguistics later labeled these movements phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had already analyzed all three in गौः (*gauḥ*). Philology now lists गावी (*gāvī*) among the source-forms behind the modern Hindi word for cow, while Patañjali's list records that same form as a falling-away.[NOTE: gavi-source-form-reversal]
+Each variant follows a different route away from गौः (*gauḥ*): गावी (*gāvī*) lengthens and reshapes the form, गोणी (*goṇī*) changes its consonantal body, गोता (*gotā*) simplifies the word and supplies another ending, and गोपोतलिका (*gopotalikā*) adds material that the calibrated derivation does not require. Patañjali groups all four around one शब्द (*śabda*) because the same architecture that generates गौः (*gauḥ*) also reveals why the other forms fail to match it. His list therefore establishes a center and compares several departures with it, rather than treating five circulating forms as equally constitutive of the language. Modern linguistics gives different names to the ways a word can change. Patañjali begins from another question: which form does Sanskrit recognize as the word, and which forms have fallen away from it? Philology now lists गावी (*gāvī*) among the source-forms behind the modern Hindi word for cow, while Patañjali's list records that same form as a falling-away.[NOTE: gavi-source-form-reversal]
 
 ![Figure 6.1 — गौः (*Gauḥ*) and Its Four Listed अपभ्रंशाः (*Apabhraṃśas*). Patañjali's example mapped: one calibrated form; four falls, each at its own distance, all remaining in orbit.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
 
@@ -151,7 +151,7 @@ Chapter 13 §13.3 examines why every physical medium remains vulnerable to decay
 
 The pyramid turns every difference within the Vedic corpus into a chronological claim. Differences among the four Vedas, the Ṛgvedic मण्डलाः (*maṇḍalāḥ*), transmission lineages, accents, and word forms all become supposed evidence that Vedic Sanskrit changed over time.[NOTE: vedic-variation-eight-claims]
 
-A few differences cannot by themselves establish an evolutionary history of Sanskrit. Mortimer Wheeler once turned a small and stratigraphically scattered collection of skeletons at Mohenjo-daro into an Aryan-invasion massacre. Later archaeological analysis dismantled that inference. Six skeletons in the most cited cluster became evidence for one massacre and then a race-replacement narrative.[NOTE: wheeler-mohenjo-daro-overreach] The pyramid performs the same enlargement when a collection of Vedic variations becomes an evolutionary history of Sanskrit.
+A few differences cannot by themselves establish an evolutionary history of Sanskrit. Mortimer Wheeler once turned a small and stratigraphically scattered collection of skeletons at Mohenjo-daro into an Aryan-invasion massacre. Later archaeological analysis dismantled that inference. Thirty-seven skeletons found in different areas and without one shared archaeological context were made to tell a single story of massacre and racial replacement.[NOTE: wheeler-mohenjo-daro-overreach] The pyramid performs the same enlargement when a collection of Vedic variations becomes an evolutionary history of Sanskrit.
 
 The four Vedas form distinct functional streams: the Ṛgveda invokes and addresses, the Yajurveda joins mantra to measured action, the Sāmaveda transforms mantra through melodic pattern, and the Atharvaveda protects, corrects, heals, and restores balance. Different Rigvedic मण्डलाः (*maṇḍalāḥ*) make metrical and compositional choices suited to different contexts, while the Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad layers preserve different kinds of instruction and inquiry.
 

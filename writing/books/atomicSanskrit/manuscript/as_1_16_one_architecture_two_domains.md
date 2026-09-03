@@ -150,7 +150,7 @@ A student trained in लौकिक (*laukika*) Sanskrit may pause at **ईळ�
 
 Chapter 9 calls **ळ** a Lineage-Bounded off-grid sonance. It has no independent address in the reusable sonomer grid. The Ṛgvedic lineage can preserve it because the received word, position, and pronunciation never change.
 
-***उपध्मानीय (*upadhmānīya*)*** and ***जिह्वामूलीय (*jihvāmūlīya*)*** are Restricted off-grid sonances. They remain available in both domains because the surrounding sounds determine exactly when they appear. Chapters 9 and 15 examine this distinction in detail.[NOTE: vedic-jihvamuliya-upadhmaniya-pair]
+***उपध्मानीय (*upadhmānīya*)*** and ***जिह्वामूलीय (*jihvāmūlīya*)*** are Restricted off-grid sonances. They remain available in both domains because the surrounding sounds determine exactly when they appear. Chapter 9 examines this distinction in detail.[NOTE: vedic-jihvamuliya-upadhmaniya-pair]
 
 ### Resonance and Memory
 

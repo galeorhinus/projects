@@ -93,9 +93,9 @@ Earlier chapters established why the Vedas serve as a calibrant for Sanskriti: t
 
 The chapter's epigraph presents an epistemic inversion: the framework for recognizing truth is reversed, a weapon the ***a-suras*** have always used. A person who is not a **यातु (*yātu*)** is accused of being a **यातुधान (*yātudhāna*)**, while an actual **रक्षस् (*rakṣas*)** declares, "I am pure." ***Gaslighting is the psychological weaponization of epistemic inversion.***
 
-The Ṛgveda describes the wider tactic through hostile **माया (*māyā*)**. Vṛtra and Namuci are **मायिन् (*māyin*)**, figures who use concealment and deception, while Svarbhānu's माया (*māyā*) hides the Sun. These ***a-suras*** conceal what remains present and demand that others accept the concealment as reality.[NOTE: mayin-concealment-cluster]
+The Ṛgveda describes the wider tactic through hostile **माया (*māyā*)**. Vṛtra and Namuci are **मायिन् (*māyin*)**, figures who act through stratagem. Svarbhānu's माया (*māyā*) performs **आवरण (*āvaraṇa*)** directly: it places darkness before the Sun and prevents the worlds from seeing what remains present.[NOTE: mayin-concealment-cluster]
 
-Gaslighting combines the two actions of आसुरी माया (*āsurī māyā*). **आवरण (*āvaraṇa*)** conceals what happened. **विक्षेप (*vikṣepa*)** projects a replacement account that the victim is expected to accept. Svarbhānu places darkness before the worlds; the gaslighter places a false account before the mind.[NOTE: maya-concealment-projection]
+Gaslighting weaponizes both actions of आसुरी माया (*āsurī māyā*). **आवरण (*āvaraṇa*)** conceals what happened. **विक्षेप (*vikṣepa*)** projects a replacement account that the victim is expected to accept. The false accuser in the chapter's epigraph projects his own identity onto another person and then declares himself pure.[NOTE: maya-concealment-projection]
 
 Gaslighting can redirect memory without erasing it. The pyramid teaches India to remember Pāṇini incorrectly. It turns the decoder into a codifier and turns his documentation into the origin of the language. This redirects the civilization's reverence for one of its finest decoders toward the codification myth.
 
@@ -222,6 +222,9 @@ Foreign Y-DNA can be the trace of men whom India absorbed. That paternal ancestr
 
 ## 18.7 An Honest Speculation by This Atri
 
+<!-- 18.7-OLD START
+EDITORIAL NOTE: The complete former version of §18.7 is retained below for comparison. The rewrite that follows reorganizes the same evidence around one causal account of Sanskrit's origin: सत् requires durable memory; Sanskrit supplies that memory; and the Vedas calibrate and protect the language that carries it.
+
 Chapter 0 began at the cosmic scale. **असत् (*asat*)** existed before **सत् (*sat*)** was born. **ऋत (*ṛta*)** is the created track through reality that directs action toward balance, circulation, and the welfare of living beings. It was never the only order that reality could sustain. असत् (*asat*) could also produce deformed orders. Those orders could take many forms, but they bent toward the same end: containment, aggregation, and the restriction of flow.
 
 This conflict existed before human beings. Humans inherited the capacity to align their actions with either order. Most people simply lived their lives, but the Vedas remembered the distinction through protagonists and antagonists whose actions demonstrate each architecture.
@@ -229,6 +232,8 @@ This conflict existed before human beings. Humans inherited the capacity to alig
 Chapter 3 §3.6 identified **विवेक (*viveka*)** as the capacity required to distinguish those opposing alignments. The listener must examine what an actor does with power: whether the action protects life and circulation or conceals, withholds, and contains. The asuric pyramid of the present age reproduces the cosmic pattern of असत् (*asat*) by concentrating power, controlling access, and restricting what should circulate.
 
 ### Radiance Without Ownership
+
+EDITORIAL NOTE: The absence-of-ownership argument is retained in the rewrite, but the extended discussion of the *devāḥ* is shortened so the section remains focused on the origin speculation.
 
 The Hindu continuum considers the देवाः (*devāḥ*) great because they recognized the track of ऋत (*ṛta*). Among the many orders that reality could sustain, including the crooked orders created through असत् (*asat*), they aligned themselves with the path directed toward the welfare of all beings.
 
@@ -252,11 +257,15 @@ The continuum calls Sanskrit **देवभाषा (*devabhāṣā*)**, the la
 
 ### The Perfect Conlang
 
+EDITORIAL NOTE: The separate conlang subsection is removed from the revised body. Chapters 0 and 2 already establish the 2×2 and the generativity category. Its useful claim, that Sanskrit combines engineered origin with unrestricted generation, is absorbed into the account of the language's purpose.
+
 Chapter 0 introduced Sanskrit's two domains. Chapter 2 then placed languages inside a 2×2 matrix formed by origin and generativity. Sanskrit occupies the **Generative Architectures** quadrant: engineered origin combined with high generativity. In the literal modern sense, Sanskrit is the perfect conlang, a perfectly constructed language. The matrix also distinguishes it from Lexicon-Dependent Conlangs because Sanskrit does not depend upon an expanding list of inventor-approved words. Its sonomers, atoms, affixes, compounds, and grammatical relations allow speakers to generate what they need.
 
 The perfection reaches beyond linguistic rules. Sanskrit was engineered to carry संस्कृति (*saṃskṛti*), and संस्कृति (*saṃskṛti*) gave generations of people a reason to protect the language. The architecture preserved knowledge of ऋत (*ṛta*), the distinction between सत् (*sat*) and असत् (*asat*), and the stories that teach people how to restore circulation when containment becomes powerful. The Samudra Manthan gives this task narrative form. The same ocean can release poison and nectar. विवेक (*viveka*) distinguishes them, while disciplined action protects the अमृत (*amṛta*) and returns its radiance to the world.
 
 ### Two Enemies, Two Domains
+
+EDITORIAL NOTE: This material is retained and moved into the causal sequence. The two enemies now explain why the two-domain architecture was needed.
 
 Chapter 6 identified two enemies Sanskrit had to withstand, and Chapter 16 explained the two-domain response. The first is entropy, which introduces small departures without deliberate intent. The second is attack by forces aligned with असत् (*asat*), who oppose Sanskrit because its distributed calibrant helps human beings recognize containment and resist it.
 
@@ -266,9 +275,11 @@ The Vedas became the distributed calibrant for both Sanskrit and संस्क
 
 ### Vyāsa, the Pāṭhas, and Pāṇini
 
+EDITORIAL NOTE: The core sequence remains, but the catalogue is shortened. Chapters 5, 15, and 16 already provide the detailed treatments of Pāṇini, the eleven *pāṭhāḥ*, and the two domains.
+
 At the turn from Dvāpara to Kali, the Hindu continuum remembers Veda-Vyāsa arranging the one Veda into four functional streams: Ṛgveda, Yajurveda, Sāmaveda, and Atharvaveda, together with their supporting material. He arranged the one body for an age of shorter memory. The division added nothing and took nothing away. It changed the organization required for transmission.[NOTE: veda-vyasa-division]
 
-The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ*)**, five प्रकृति-पाठाः (*prakṛti-pāṭhāḥ*) and six विकृति-पाठाः (*vikṛti-pāṭhāḥ*), to re-encode the same received sounds through different recitational arrangements, mutually checking paths through the same invariant content. Geographically separated lineages carried those paths through periods in which kingdoms fell, libraries burned, temples were destroyed, institutions disappeared, and the asuric pyramid repeatedly attacked the civilization.[NOTE: eleven-pathas]
+The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ*)**, three प्रकृति-पाठाः (*prakṛti-pāṭhāḥ*) and eight विकृति-पाठाः (*vikṛti-pāṭhāḥ*), to re-encode the same received sounds through different recitational arrangements, mutually checking paths through the same invariant content. Geographically separated lineages carried those paths through periods in which kingdoms fell, libraries burned, temples were destroyed, institutions disappeared, and the asuric pyramid repeatedly attacked the civilization.[NOTE: eleven-pathas]
 
 For thousands of years, the Vedas have remained the primary calibrant. Those responsible for recitation preserved every sound, pitch, duration, and sequence. Those responsible for लौकिक (*laukika*) Sanskrit could return to the architecture the Vedas encoded whenever usage began to deviate from it.
 
@@ -278,6 +289,8 @@ As the age grew darker and the pressure of entropy increased, Pāṇini found an
 
 ### The Architecture Identifies Its Civilizational Home
 
+EDITORIAL NOTE: The subcontinental conclusion remains, but it now follows directly from the proposed purpose and construction of the architecture.
+
 Chapter 17 established three subcontinental signatures in Sanskrit: the mouth, the mind, and the architecture of order. Tamil's grammatical tradition supplied independent evidence for the third. Tamil and Sanskrit differ in linguistic design, but both kept grammatical knowledge within society instead of surrendering the language to a single enforcing institution.[NOTE: tamil-sanskrit-distributed-grammar]
 
 The Racial Arya Thesis can imagine people carrying speech into India. It cannot explain how a supposedly foreign language came to embody all three signatures. The Indian subcontinent gives the language its sounds and grammatical postures. The Vedas provide the calibrant. The two domains protect exact transmission while permitting new composition. Distributed custodianship keeps the architecture available without placing an institution above it. The incoming speech-form contributes nothing that makes Sanskrit Sanskrit.
@@ -285,6 +298,8 @@ The Racial Arya Thesis can imagine people carrying speech into India. It cannot 
 Sanskrit could become Sanskrit only within a civilization rooted in calibrant order. Its architecture identifies its civilizational home.
 
 ### What We Do Not Know
+
+EDITORIAL NOTE: The epistemic distinction remains, but the rewrite no longer refuses all chronology. It states this Atri's proposed range, thousands and perhaps tens of thousands of years, while distinguishing that speculation from an exact date.
 
 The age darkened further. The Vedas remained protected, and Sanskrit remained protected, but the recognition of engineering became obscured. The asuric machinery could not destroy the architecture, so it changed the categories through which people saw it. It presented entropic drift as linguistic development, recast decoding as codification, and described calibration as standardization. It presented वैदिक (*vaidika*) and लौकिक (*laukika*) as successive stages in an invented chronology and placed Sanskrit on a family tree grown from an imaginary language spoken by imaginary people.
 
@@ -299,6 +314,110 @@ What we do know remains available for examination. The Sanskrit that the continu
 The evidence does not reveal the engineers' biographies. It reveals what they built.
 
 > **The wise formed वाचम् (*vācam*). The seers saw. The lineage heard. The वैयाकरणाः (*vaiyākaraṇāḥ*) decoded. Pāṇini articulated. The Vedas remain the calibrant for Sanskrit and संस्कृति (*saṃskṛti*).**
+
+18.7-OLD END -->
+
+### Why सत् (*Sat*) Needs Memory
+
+Chapter 0 brought two Vedic statements together. The Ṛgveda says that सत् (*sat*) was born from असत् (*asat*).[NOTE: rv-10-72-2-sat-born-from-asat] It also says that ऋत (*ṛta*) and सत्यम् (*satyam*) were born before the Sun, Moon, and earth were formed. From those statements, this book infers a sequence: असत् (*asat*) came first; सत् (*sat*) and ऋत (*ṛta*) came later; the world familiar to human beings followed.[NOTE: sat-rta-cosmogonic-sequence-inference]
+
+The distinction therefore existed before human beings. Humans inherited the capacity to align their actions with either condition and to build orders that serve either one.
+
+असत् (*Asat*) does not need long-term memory to return. Ego can rediscover possession, concealment, and control in every age. A pyramid may preserve its own methods, but it becomes stronger when everyone else forgets how those methods were exposed and defeated.
+
+सत् (*Sat*) therefore faces two problems. Human memory is short: individuals die, institutions weaken, and kingdoms fall. Forces aligned with असत् (*asat*) do not merely wait for that memory to fade. They attack it because a society that remembers how containment was defeated can recognize and resist its return. Later generations need a memory that can outlive its custodians and survive deliberate attempts to erase it.
+
+Those two threats define the engineering problem. This Atri speculates that Sanskrit was engineered to carry the memory of सत् (*sat*) and ऋत (*ṛta*) across generations. The language had to resist gradual entropy and deliberate attack aligned with असत् (*asat*), hold its own architecture invariant, and remain capable of describing circumstances that no earlier speaker had encountered.
+
+### When वाक् (*Vāk*) Revealed Herself
+
+Thousands of years ago, perhaps even tens of thousands, the ऋषयः (*ṛṣayaḥ*) and ऋषिकाः (*ṛṣikāḥ*) saw the mantras. They brought the Vedas into human transmission as part of Sanskrit's preservation architecture.
+
+Bṛhaspati's mantra describes the wise forming Speech:
+
+> **सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।**
+>
+> *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata*
+>
+> *There the wise formed Speech with the mind, refining it as grain is sifted through a sieve.* (RV 10.71.2)[NOTE: rigveda-10-71-2-sieve-vak]
+
+The next mantra continues the account. The seekers follow the path of Speech, find that she has entered the ऋषयः (*ṛṣayaḥ*), bring her forth, and distribute her widely:
+
+> **यज्ञेन वाचः पदवीयमायन्तामन्वविन्दन्नृषिषु प्रविष्टाम् ।**
+> **तामाभृत्या व्यदधुः पुरुत्रा तां सप्त रेभा अभि सं नवन्ते ॥**
+>
+> *yajñena vācaḥ padavīyam āyan tām anv avindann ṛṣiṣu praviṣṭām |*
+> *tām ābhṛtyā vy adadhuḥ purutrā tāṃ sapta rebhā abhi saṃ navante ||*
+>
+> *Through yajña they followed the path of Speech; they found her entered into the ṛṣis. Bringing her forth, they distributed her widely; the seven singers resounded toward her.* (RV 10.71.3)[NOTE: rigveda-10-71-3-path-vak]
+
+The following mantra says that a person may look without seeing Speech and listen without hearing her. She reveals her body only to the person able to receive her:
+
+> **उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।**
+> **उतो त्वस्मै तन्वं वि सस्रे जायेव पत्य उशती सुवासाः ॥**
+>
+> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvann aśṛṇoty enām |*
+> *uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ ||*
+>
+> *One person, though looking, did not see Speech; another, though listening, did not hear her. But to one she revealed her body, as a willing, well-dressed wife reveals herself to her husband.* (RV 10.71.4)[NOTE: rigveda-10-71-4-vach]
+
+In Ṛgveda 10.125, वाक् (*Vāk*) speaks in her own voice. She declares that she chooses whom she makes into an ऋषिः (*ṛṣiḥ*):
+
+> **अहमेव स्वयमिदं वदामि जुष्टं देवेभिरुत मानुषेभिः ।**
+> **यं कामये तं तमुग्रं कृणोमि तं ब्रह्माणं तमृषिं तं सुमेधाम् ॥**
+>
+> *aham eva svayam idaṃ vadāmi juṣṭaṃ devebhir uta mānuṣebhiḥ |*
+> *yaṃ kāmaye taṃ-tam ugraṃ kṛṇomi taṃ brahmāṇaṃ tam ṛṣiṃ taṃ sumedhām ||*
+>
+> *I myself declare this, cherished by devas and humans. Whom I desire, I make formidable: a brahmāṇa, an ṛṣi, a person of good wisdom.* (RV 10.125.5)[NOTE: rigveda-10-125-vak-ambhrini]
+
+In this Atri's speculation, these mantras describe cooperation. वाग्देवी (*Vāgdevī*) did not stand before the seers as inert material waiting to be possessed. She offered herself to them and revealed her body. The wise refined Speech with the mind and gave her a form that human mouths could reproduce.
+
+The seers were active participants. They recited what they received, taught it, and carried it forward. Yet they did not claim authorship or ownership of what had revealed itself through them. The continuum therefore received the Vedas as अपौरुषेय (*apauruṣeya*), without a human author at the apex.[NOTE: apauruseya-mimamsa-sutra-1-1-5]
+
+### Sanskrit and the Vedas Formed One Architecture
+
+The work had to solve two problems together. Speech needed sounds that human mouths could produce distinctly and repeat reliably. Civilizational memory needed a body of exact expression that could keep those sounds, words, and grammatical relations available across time.
+
+The human mouth can pronounce far more sounds than Sanskrit uses. The engineering selected from that range, arranged reusable sounds in the sonomeric grid, formed semantic atoms, and established procedures that could extend those atoms into new words and sentences. Sanskrit did not depend upon a finite list of approved expressions. Its architecture allowed every generation to say something new without changing the language through which it spoke.
+
+In this speculation, the Vedas entered human transmission as part of the architecture from the beginning. Sanskrit carried the mantras, while the mantras encoded Sanskrit's sounds and grammar in their working form. Meter, pitch, duration, sequence, and recitation kept the language audible. The Vedas were Sanskrit's distributed calibrant.
+
+They also carried the civilizational memory for which the language had been engineered. The distinction between सत् (*sat*) and असत् (*asat*), the trajectory of ऋत (*ṛta*), and the actions that restore circulation remained available to every later age. Sanskrit preserved their meaning; the Vedas preserved Sanskrit.
+
+**Protecting the Vedas protected Sanskrit. Protecting Sanskrit kept the Vedic memory of ऋत (*ṛta*) intelligible. Keeping that calibrant available protected Sanātan.**
+
+### Two Enemies, Two Domains
+
+An architecture built for long memory had to survive two enemies.
+
+Entropy was the first. Speakers could alter a sound, shorten an ending, or change a word's meaning without intending to damage the language. Small deviations could accumulate until later generations could no longer understand what earlier generations had said.
+
+Deliberate attack was the second. Forces aligned with असत् (*asat*) had reason to destroy the memory, seize its custody, or hide the architecture that kept it available. A distributed calibrant denies an apex the power to decide what everyone else may know.
+
+The two domains answered both threats. The वैदिक (*vaidika*) domain kept the received mantras invariant. Their sounds, words, pitch, meter, and sequence could not be rewritten to suit a later age. The लौकिक (*laukika*) domain remained open to new composition. Every generation could use the same architecture for poetry, mathematics, astronomy, philosophy, trade, and changing human circumstances.
+
+One domain protected the calibrant. The other kept the language generative.
+
+Later caretakers strengthened the same architecture as human memory and political conditions changed. The Hindu continuum remembers Veda-Vyāsa arranging the one Veda into four functional streams for an age of shorter memory.[NOTE: veda-vyasa-division] The eleven पाठाः (*pāṭhāḥ*) carried the same received words through three primary and eight modified recitations that checked one another.[NOTE: eleven-pathas] Generations of analysts decoded the language's sounds, words, and grammar. Pāṇini inherited that work and gave the लौकिक (*laukika*) domain its finest grammatical articulation.
+
+### The Architecture Identifies Its Home
+
+Anyone speculating about Sanskrit's origin must explain this complete design. The language is built from the subcontinental sound field. Its grammar reflects the subcontinental mind described in Chapter 17. Its distributed calibrant belongs to the subcontinental architecture of order that Sanskrit and Tamil both display.
+
+The Racial Arya Thesis can imagine people carrying speech into India. It cannot explain why the supposedly foreign language contains the mouth, mind, and architecture of order found together in the Indian subcontinent. Nor can it explain why that language was built to preserve ऋत (*ṛta*) against entropy and deliberate attack.
+
+Sanskrit could become Sanskrit only within a civilization already rooted in calibrant order. Its architecture identifies its civilizational home.
+
+### What This Atri Knows and Suspects
+
+This Atri places the beginning thousands of years ago, perhaps tens of thousands. I do not know the exact year, the identities of the engineers, how long their work took, or when each mantra was seen. The chronology is part of my speculation.
+
+The architecture itself remains available for examination. We can examine it in the mouth, the sonomeric grid, the atoms, the bonding operations, the grammar, and the sentences. Exact Vedic transmission keeps the same architecture audible through pitch, meter, mutually checking पाठाः (*pāṭhāḥ*), correction, and recitation across society. The Vedas also encode the wider architectures of संस्कृति (*saṃskṛti*).
+
+The evidence does not reveal the engineers' biographies. It reveals what they built.
+
+> **वाग्देवी (*Vāgdevī*) revealed herself. The ऋषयः (*ṛṣayaḥ*) and ऋषिकाः (*ṛṣikāḥ*) saw the mantras. The wise formed Speech. The lineage heard. The वैयाकरणाः (*vaiyākaraṇāḥ*) decoded. Pāṇini articulated. The Vedas remain the calibrant for Sanskrit and संस्कृति (*saṃskṛti*).**
 
 ## 18.8 Pāṇini Praised, Architecture Erased
 

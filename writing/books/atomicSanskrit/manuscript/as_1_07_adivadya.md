@@ -64,7 +64,7 @@ How the contact happens gives the sound its manner. A stop closes the passage an
 
 Languages select differently from the instrument's range. English clusters many sounds toward the front and middle of the mouth. Arabic reaches into the pharynx. Mandarin uses a small retroflex series of affricates and fricatives, together with an *r*-like approximant. French uses a uvular *r*. Southern African click languages add suction mechanisms no European language uses systematically.
 
-Most consonants are controlled bursts — which is why the tabla analogy works. The hand striking the drumhead is an event of contact; the tongue striking the palate is the same. Tabla *bols* are spoken before they are played because the drum is taught from the mouth. The mouth is the source.[NOTE: tabla-bols-mouth-to-drum]
+Stop consonants are controlled contact-and-release events, which is why the tabla analogy works for them. A hand strikes the drumhead; the tongue makes and releases contact at a chosen place in the mouth. Tabla compositions can be recited as *bols* and then rendered on the drums, carrying the rhythmic pattern between voice and instrument.[NOTE: tabla-bols-mouth-to-drum]
 
 ## 7.4 Vowels Are Sustained Tones
 
@@ -122,7 +122,7 @@ Each term designates a physical operation. The vocabulary maps directly onto phy
 
 The Sanskrit system classifies sound through contact.
 
-Every sound requires a specific degree of contact. The mouth might clamp shut entirely, touch lightly, constrict the airflow, or make no contact at all. The śāstric terms mark these levels with absolute precision. **स्पृष्ट (*spṛṣṭa*)** means fully touched. **ईषत्स्पृष्ट (*īṣat-spṛṣṭa*)** means lightly touched. **ईषत्संवृत (*īṣat-saṃvṛta*)** means lightly closed, constricting the air without full contact. Finally, **अस्पृष्ट (*aspṛṣṭa*)** means entirely untouched.[NOTE: sprista-isatsprista-isatsamvrta-vivrta-constriction]
+Every sound requires a particular degree of contact or opening. The grammatical account names five internal efforts. **स्पृष्ट (*spṛṣṭa*)**, fully touched, describes the stops and nasals. **ईषत्स्पृष्ट (*īṣat-spṛṣṭa*)**, slightly touched, describes the *antaḥstha* sounds. **ईषद्विवृत (*īṣad-vivṛta*)**, slightly open, describes the *ūṣman* sounds. **विवृत (*vivṛta*)**, open, describes the vowels. A fifth term, **संवृत (*saṃvṛta*)**, describes short **अ (*a*)** in ordinary use; during grammatical analysis, the same vowel is treated as *vivṛta*.[NOTE: sprista-isatsprista-isatsamvrta-vivrta-constriction]
 
 From those contact-types arise four major sound classes.
 
@@ -144,7 +144,7 @@ The Sanskrit sound-system rests on three governing questions: **स्थान 
 
 In modern phonetics, स्थान (*sthāna*) corresponds closely to place of articulation. प्रयत्न (*Prayatna*) corresponds broadly to manner and effort, but it encompasses more than the English word *manner*: contact-type, voicing, aspiration, breath-pressure, and nasal coupling all belong to what the body does at the chosen place.
 
-प्रयत्न (*Prayatna*) is the effort applied to the mouth's geometry. It splits into internal and external effort. **आभ्यन्तर प्रयत्न (*ābhyantara prayatna*)** is the internal effort: the specific degree of contact or constriction at the physical place. **बाह्य प्रयत्न (*bāhya prayatna*)** is the external effort — it manages the final output: voicing (***अनुप्रदान (*anupradāna*)***, which toggles between श्वास (*śvāsa*) breath and नाद (*nāda*) resonance), aspiration, breath pressure, and nasal coupling.[NOTE: abhyantara-bahya-prayatna][NOTE: svasa-nada-vivrta-samvrta-phonation]
+प्रयत्न (*Prayatna*) is the effort applied to the mouth's geometry. It splits into internal and external effort. **आभ्यन्तर प्रयत्न (*ābhyantara prayatna*)** is the internal effort: the specific degree of contact or constriction at the physical place. **बाह्य प्रयत्न (*bāhya prayatna*)** describes what happens beyond that oral contact: whether the glottis supplies breath or voice, whether the release carries little or much breath, whether the nasal passage opens, and how pitch moves.[NOTE: abhyantara-bahya-prayatna][NOTE: svasa-nada-vivrta-samvrta-phonation]
 
 The full classification runs on multiple axes. It measures exactly where the sound is made, what moves to make it, and how the breath and vocal cords behave.
 

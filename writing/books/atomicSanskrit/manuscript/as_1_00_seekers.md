@@ -62,7 +62,7 @@ The place-value number system and Sanskrit solve the same architectural problem:
 
 Most readers already know some Sanskrit, even if they have never studied the language.
 
-A Western reader already speaks Sanskrit casually through words that have entered the global vocabulary: **गुरु (*guru*)**, a weighty teacher; **कर्म (*karma*)**, action; **अवतार (*avatāra*)**, a descent; **मन्त्र (*mantra*)**; and **योग (*yoga*)**, from the atom ⟪युज्⟫ (*yuj*), to join. Chapter 19 traces Sanskrit's radiance through thousands of familiar English words, including *king, station, genesis, native, constant,* and *state*, and shows the Sanskrit forms reflected within them.[NOTE: english-sanskrit-loanwords]
+A Western reader already speaks Sanskrit casually through words that have entered the global vocabulary: **गुरु (*guru*)**, a weighty teacher; **कर्म (*karma*)**, action; **अवतार (*avatāra*)**, a descent; **मन्त्र (*mantra*)**; and **योग (*yoga*)**, from the atom ⟪युज्⟫ (*yuj*), to join.[NOTE: english-sanskrit-loanwords] Chapter 19 traces Sanskrit's radiance through thousands of familiar English words, including *king, station, genesis, native, constant,* and *state*, and shows the Sanskrit forms reflected within them.
 
 An Indian reader encounters Sanskrit throughout daily life. श्लोकाः (*Ślokas*) and wedding mantras keep its sounds audible. Modern space missions use compounds such as **चन्द्रयान (*Candrayāna*)**, Moon-vehicle, while the country calls itself **भारत (*Bhārata*)**. Regional Indian languages continue to carry Sanskrit's radiance in their sounds, words, and grammar.
 
@@ -150,7 +150,7 @@ Unfortunately, chronology capture has now entered institutions that should have 
 
 This is category theft through chronology capture. A structural end becomes a chronological end. Culmination becomes lateness. Purpose becomes period.
 
-At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, and *Atharvaveda*, each with its संहिता (*saṃhitā*) and associated विस्तार (*vistāra*) — Brāhmaṇa, Āraṇyaka, and Upaniṣad. Every Veda has Upaniṣadic material associated with it; together, these shared culminations form ***वेदान्त (*Vedānta*)***. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the वैदिक (*vaidika*) domain, preserved in ***छन्दस् (*chandas*)***, the metrical mode.
+At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, and *Atharvaveda*. Across the four Vedas are their saṃhitās and associated Brāhmaṇa, Āraṇyaka, and Upaniṣadic material. Together, their Upaniṣadic culminations form ***वेदान्त (*Vedānta*)***. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the वैदिक (*vaidika*) domain, preserved in ***छन्दस् (*chandas*)***, the metrical mode.
 
 Around the same time, the इतिहासपुराण (*itihāsa-purāṇa*) — the fifth Veda — passed to the keepers of the लौकिक (*laukika*) domain. This domain is expressed in **भाषा (*bhāṣā*)**, the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language remains invariant.
 
@@ -174,7 +174,7 @@ English dictionaries list roughly 170,000 words in current use. Sanskrit is buil
 
 Prefixes can redirect their meanings. Suffixes and verb endings turn them into finished words. Sanskrit can then join finished words into compounds, and each compound can become a building block for another.
 
-These operations give a finite inventory enormous reach. A conservative count of the forms available before compounding already exceeds **twenty million words**. Once compounding begins, the architecture places no fixed ceiling on the number of possible formations.[NOTE: sanskrit-generative-wordspace]
+These operations give a finite inventory enormous reach. The model contains **20,942,880 formal slots** before compounding. Not every slot produces a valid or distinct word, but the total demonstrates the scale of Sanskrit's generative architecture. Once compounding begins, the architecture places no fixed ceiling on the number of possible formations.[NOTE: sanskrit-generative-wordspace]
 
 Sanskrit is a word-engine.
 
@@ -241,7 +241,7 @@ The mantra below says: look for **यतरदृजीयः (*yatarad ṛjīya
 > *sac cāsac ca vacasī paspṛdhāte, tayor yat satyaṃ yatarad ṛjīyaḥ, tad it somo 'vati hanty āsat*\
 > “सत् (*Sat*) and असत् (*asat*) contend, word against word; of the two, whichever is true and straight, ऋजीयः (*ṛjīyaḥ*), Soma protects, and the असत् (*asat*) he destroys.” (RV 7.104.12)[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma]
 
-The mantra tells the listener to examine the direction of the action. Straight movement along the **ऋत (*ṛta*)** path is **ऋजु (*ṛju*)**. Crooked movement is **वृजिन (*vṛjina*)** (RV 7.104.13).[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma]
+The mantra tells the listener to examine the direction of the action. Straight movement along the **ऋत (*ṛta*)** path is **ऋजु (*ṛju*)**. Crooked conduct is **वृजिन (*vṛjina*)** (RV 7.104.13).[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma]
 
 ### Two Architectures of Order
 

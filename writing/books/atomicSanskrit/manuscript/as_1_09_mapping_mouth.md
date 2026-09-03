@@ -126,11 +126,11 @@ The complete matrix combines four physical controls:
 
 The matrix therefore records instructions for the body. A student does not have to memorize twenty-five unrelated sounds. Each sonomer can be produced from its mouth-place, breath setting, vocal-cord setting, and nasal setting. The same address helps a teacher identify and correct an imprecise sound.
 
-A compact set of anatomical controls therefore generates twenty-five distinct and repeatable sonomers.
+Distinguishability explains the spacing. Sanskrit distributes the five contact addresses from the lips to the velar region across roughly 6.3 centimeters. That span covers more than one third of a 17.5-centimeter adult vocal tract.[NOTE: varnamala-grid-geometry] The grid uses the breadth of the mouth instead of crowding several consonant families into one small region.
 
-Those five places also sit far enough apart to stay distinct in the ear. Measured backward from the lips, their anatomical coordinates fall at roughly 0, 3, 7, 9, and 12 centimeters along an adult vocal tract. No two adjacent places are closer than about two centimeters.[NOTE: varnamala-grid-geometry] The tract above the vocal cords works as a filter. Its shape at the moment of contact determines which frequencies the released sound emphasizes. Shifting the contact point reshapes that filter. The distance between the five places therefore contributes directly to the difference the listener hears. Opening the nasal passage adds an acoustic signature that the four oral settings do not produce.[NOTE: formants-source-filter-theory]
+The tract above the vocal cords acts as a filter. Moving contact from one address to the next reshapes the cavity and changes the frequencies that reach the ear. Opening the nasal passage produces another acoustic change. Modern imaging locates these closures, while acoustic recordings measure the differences they produce.[NOTE: formants-source-filter-theory][NOTE: architecture-not-analysis-pratisakhya]
 
-Contemporary instruments can image the vocal tract and record the resulting frequencies. They find the five selected places already separated and the nasal row already distinct from the four oral rows. The instruments do not explain how the architecture was created. They confirm the acoustic separation already built into it.[NOTE: architecture-not-analysis-pratisakhya]
+This physical separation allows the grid to multiply. Sanskrit applies four oral settings and one nasal setting at each of five places while keeping all twenty-five sonomers distinct and repeatable.
 
 ## 9.5 Breath as an Axis
 

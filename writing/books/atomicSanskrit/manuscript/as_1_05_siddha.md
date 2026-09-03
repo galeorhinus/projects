@@ -8,7 +8,7 @@
 >
 > *siddhe śabdārthasambandhe*
 >
-> `\hfill`{=latex}*— Mahābhāṣya, Paspaśāhnika*[NOTE: siddha-shabda-artha-sambandhe]
+> `\hfill`{=latex}*— Mahābhāṣya, Paspaśāhnika*[NOTE: patanjali-siddhe-shabdarthasambandhe]
 
 :::
 
@@ -28,7 +28,7 @@ And this decoding did not begin with Pāṇini.
 
 This chapter uses evidence from before and after Pāṇini. The Vedas and the pre-Pāṇinian analysts establish that Sanskrit and its analytical disciplines existed before the अष्टाध्यायी (*Aṣṭādhyāyī*). Patañjali, writing afterward, explains how the continuum understood the relationship between that established architecture and grammar.
 
-The discipline of व्याकरणम् (*vyākaraṇam*) extends across a long analytical lineage before and after Pāṇini's *Aṣṭādhyāyī*. Pāṇini cites earlier **वैयाकरणाः (*vaiyākaraṇāḥ*)**, including आपिशलि (*Āpiśali*), शाकटायन (*Śākaṭāyana*), गार्ग्य (*Gārgya*), शाकल्य (*Śākalya*), भारद्वाज (*Bhāradvāja*), and स्फोटायन (*Sphoṭāyana*). Their names preserve evidence of established schools, competing positions, and sustained grammatical analysis.[NOTE: panini-cites-pre-paninian-vaiyakaranas]
+The discipline of व्याकरणम् (*vyākaraṇam*) extends across a long analytical lineage before and after Pāṇini's *Aṣṭādhyāyī*. Pāṇini cites earlier **वैयाकरणाः (*vaiyākaraṇāḥ*)**, including आपिशलि (*Āpiśali*), शाकटायन (*Śākaṭāyana*), गार्ग्य (*Gārgya*), शाकल्य (*Śākalya*), भारद्वाज (*Bhāradvāja*), and स्फोटायन (*Sphoṭāyana*). Their names preserve evidence of earlier grammarians, alternative positions, and sustained grammatical analysis.[NOTE: panini-cites-pre-paninian-vaiyakaranas]
 
 Śākaṭāyana and Gārgya disagreed over how broadly nominal words could be derived from verbal action. Śākalya provides a concrete example of the work this lineage performed: he had already separated the Rigvedic संहिता (*saṃhitā*) into constituent पदानि (*padāni*) through the **पदपाठ (*padapāṭha*)**.[NOTE: shakalya-padapatha] Figure 5.1 places these grammarians within the longer sequence. The Vedas and their recitation lineages preserve the foundation they analyzed. Their work precedes Pāṇini, whose *Aṣṭādhyāyī* gathered the architecture into its most precise documentation.
 
@@ -58,7 +58,7 @@ Patañjali wrote after Pāṇini. His words therefore serve a different purpose 
 
 He gives that explanation at the opening of the *Mahābhāṣya*, in the **पस्पशाह्निक (*Paspaśāhnika*)**.
 
-Patañjali does not leave the purpose of व्याकरणम् (*vyākaraṇam*) to inference. He asks **किं प्रयोजनं व्याकरणस्य (*kim prayojanam vyākaraṇasya*)** — what purpose does grammar serve? His answer gives five received purposes, the **पञ्च प्रयोजनानि (*pañca prayojanāni*)**:[NOTE: prayojanani-paspashahnika]
+Patañjali states the purpose of grammatical instruction directly. He asks **कानि पुनः शब्दानुशासनस्य प्रयोजनानि (*kāni punaḥ śabdānuśāsanasya prayojanāni*)** — what, then, are the purposes of instruction in words? His compact answer names five, the **पञ्च प्रयोजनानि (*pañca prayojanāni*)**:[NOTE: prayojanani-paspashahnika]
 
 - **रक्षा (*rakṣā*)** — preservation of the *Vedas* through correct forms.
 - **ऊह (*ūha*)** — adaptation for yajña procedures.
@@ -72,19 +72,19 @@ Although *grammar* is an imprecise English rendering of व्याकरणम
 
 **Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**[NOTE: panini-no-preface] The text begins directly with वृद्धिरादैच् (*vṛddhir ādaic*) and continues through roughly four thousand सूत्राणि (*sūtrāṇi*) without explaining what grammar is for. Patañjali supplies that explicit discussion afterward. His explanation therefore gives us the grammatical continuum’s account of the purpose served by Pāṇini’s documentation.
 
-Then Patañjali places the decisive वार्त्तिकम् (*vārttikam*) at the opening:
+Patañjali then takes up Kātyāyana's first **वार्त्तिकम् (*vārttikam*)**:
 
 > **सिद्धे शब्दार्थसम्बन्धे लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे शास्त्रेण धर्मनियमः ।**
 >
 > *siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ.*
 >
-> *Given that the bond between word and meaning is established, and given that worldly word-usage is prompted by meaning, śāstra regulates correct usage.*[NOTE: siddhe-shabdarthasambandhe-mbh]
+> *Given that word, meaning, and their relation are established, as ordinary usage shows, and that meaning prompts the use of a word, śāstra regulates correct usage.*[NOTE: patanjali-siddhe-shabdarthasambandhe]
 
-The epigraph uses the opening clause: **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**. Six syllables that contain the weight of the discipline.
+The epigraph uses the opening clause: **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**. Its eight syllables establish the premise for the discussion that follows.
 
 Because सिद्धे (*siddhe*) is the locative of सिद्ध (*siddha*) (meaning "in the established", or "where the established condition prevails") and **शब्दार्थसम्बन्ध (*śabdārthasambandha*)** is the bond between word and meaning, this construction formally announces the premise from which the entire commentary proceeds. While the pyramid’s linguistic account treats this bond as mere convention—produced by usage, maintained by a speech community, and arbitrarily altered by time—Patañjali begins from the absolute opposite position: the bond is already established.
 
-The full sentence then moves in exact order. First comes the established bond. Then comes **लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे (*lokato 'rthaprayukte śabdaprayoge*)** — word-usage in the world, prompted by meaning. Only after those two premises comes **शास्त्रेण धर्मनियमः (*śāstreṇa dharmaniyamaḥ*)** — regulation by शास्त्र (*śāstra*) of correct usage. Patañjali gives the order: bond first, usage second, शास्त्र (*śāstra*) third. शास्त्र (*śāstra*) regulates usage. It does not manufacture the bond.
+The passage moves in a clear order. First come word, meaning, and their relation, which ordinary usage shows to be already established. Then meaning prompts the use of a word. Only after those premises comes **शास्त्रेण धर्मनियमः (*śāstreṇa dharmaniyamaḥ*)**: शास्त्र (*śāstra*) regulates correct usage. It does not manufacture the words or their relation to meaning.
 
 Bṛhaspati's **वाचमक्रत (*vācam akrata*)** (Chapter 9) describes the wise forming Speech with the mind. Patañjali's सिद्ध (*siddha*) states the grammatical consequence: Sanskrit's architecture already exists when an individual speaker receives and uses it. Grammar analyzes that existing architecture and teaches the speaker how to use it correctly.
 

@@ -220,9 +220,9 @@ The surviving Vedic calibrant threatened the pyramid more deeply than war. Sansk
 
 The conflict predates Abrahamic rule in India. It is older than British-Christian rule and the Islamic rule that preceded it. An architecture aligned with असत् (*asat*) seeks to contain what should remain open and place itself above every standard. The Vedas preserve a calibrant it cannot own. Hindu continuity therefore remains a standing refusal of the asuric claim to universal control.
 
-Comparative philology was already being assembled before 1857. After overt conversion met its limit, its botanical vocabulary, foreign ancestry, and racial premises offered another way to weaken Hindu continuity. The British did not need to make every Veda disappear. They could teach Indians to see the Vedas as archaic literature, वैदिक (*vaidika*) and लौकिक (*laukika*) as historical periods, Sanskrit as a foreign natural language, and Pāṇini as the apex who imposed order upon it.
+Comparative philology was already being assembled before 1857. After overt conversion met its limit, its botanical vocabulary, foreign ancestry, and racial premises offered another way to weaken Hindu continuity. The British did not need to make every Veda disappear. They could leave the texts and practices in Hindu hands while teaching Indians to remember them incorrectly: the Vedas became archaic literature, वैदिक (*vaidika*) and लौकिक (*laukika*) became historical periods, Sanskrit became a foreign natural language, and Pāṇini became the apex who imposed order upon it.
 
-The attack moved from openly replacing Hindu life to controlling the categories through which Hindus understood what they had preserved.
+The attack moved from an attempt to replace Hindu civilizational memory through conversion to an attempt to redirect that memory through education.
 
 ## 2.10 Āsurī Māyā: Concealment and Projection
 

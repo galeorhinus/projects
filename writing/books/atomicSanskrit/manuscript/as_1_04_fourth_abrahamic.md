@@ -30,11 +30,13 @@ As nations resisted Abrahamic, racial, and colonial formations, the pyramid rest
 
 Three Abrahamic religions openly identify themselves as religions. The fourth uses the same pyramidal architecture but succeeds precisely because it cloaks itself in secular language. It packages racism as anthropology, teleology as history, and theology as objective science, hiding its dogma behind the mask of academia.[NOTE: secular-packaging-three-transformations]
 
-This change of clothing repeats the two actions of आसुरी माया (*āsurī māyā*) introduced in Chapter 2. **आवरण (*āvaraṇa*)** conceals the inherited dogma. **विक्षेप (*vikṣepa*)** projects a replacement vocabulary that appears secular, rational, and scientific. The doctrine remains, but the new vocabulary prevents the observer from recognizing it.[NOTE: maya-concealment-projection]
+This change of clothing repeats the two actions of आसुरी माया (*āsurī māyā*) introduced in Chapter 1 and developed in Chapter 2. **आवरण (*āvaraṇa*)** conceals the inherited dogma. **विक्षेप (*vikṣepa*)** projects a replacement vocabulary that appears secular, rational, and scientific. The doctrine remains, but the new vocabulary prevents the observer from recognizing it.[NOTE: maya-concealment-projection]
 
-Judaism built the foundation. The pyramid adapted that original dogma and forced it upon the world through Christianity and Islam. Each iteration preserved the structural template it inherited: a chosen community, an authorized doctrine, a rigid boundary between insider and outsider, an obligation to expand, and a history moving toward a promised end. The doctrines changed. The pyramid restructured.[NOTE: four-iterations-architectural-mapping]
+Judaism built the foundation. Christianity and Islam took related structures outward through missionary and political expansion. Across those transformations, the pyramid retained a chosen community, an authorized doctrine, a rigid boundary between insider and outsider, and a history moving toward a promised end. The doctrines changed. The pyramid restructured.[NOTE: four-iterations-architectural-mapping]
 
-Progressivism inherited the template wholesale: it discarded the religious vocabulary and kept the religious machinery.
+Conquest and forced conversion did more than replace one doctrine with another. They severed people from the stories, names, practices, and inherited categories through which their civilizations remembered themselves. Once that memory had been removed from public life, the authorized doctrine could present itself as the only source of truth and order.[NOTE: compatibility-is-not-immunity]
+
+Progressivism inherited the template wholesale: it discarded the religious vocabulary and kept the religious machinery. It teaches each generation to regard inherited civilizational memory as backward, removes that memory from education, and supplies an authorized account of the past in its place.
 
 The standing term here for the doctrinal formation is the **progressive dogma**: the cross-partisan, post-*"Enlightenment"* commitment to linear progress as the background against which every modern argument is staged. Its practitioners may disagree about almost everything else. What they share is the assumption that humanity moves upward across time.[NOTE: heavenly-city-becker]
 
@@ -58,7 +60,7 @@ Figure 4.1a places the first four elements side by side. Each formation identifi
 
 ### Genesis, Utopia, and Apocalypse
 
-The substitutions followed an exact pattern. Genesis became the Big Bang. God did not disappear from the vocabulary; Stephen Hawking invoked him repeatedly in *A Brief History of Time*. But God ceased to act as creator and became a metaphor for physical law. The fourth religion converted divine creation into the emergence of time and space, then presented the substitution as *"Science."*[NOTE: genesis-big-bang-god-as-law] Heaven on earth became progress. Salvation became development. The elect became the enlightened. The damned became the backward. Pagans became deniers. Mission became modernization. Heresy became anti-science. In India, it also became whatever the church labels regressive, pseudo-scholarship, or communalism. The end times became the end of history.[NOTE: end-of-history-fukuyama] Original sin survived as historical injustice, with the operative content changing by faction while the structure remained.
+The substitutions followed an exact pattern. Genesis became the Big Bang. Stephen Hawking still invoked God repeatedly in *A Brief History of Time*, and his “mind of God” meant complete knowledge of physical **law**. The fourth religion converted divine creation into the emergence of time and space, then presented the substitution as *"Science."*[NOTE: genesis-big-bang-god-as-law] Heaven on earth became progress. Salvation became development. The elect became the enlightened. The damned became the backward. Pagans became deniers. Mission became modernization. Heresy became anti-science. In India, it also became whatever the church labels regressive, pseudo-scholarship, or communalism. The end times became the end of history.[NOTE: end-of-history-fukuyama] Original sin survived as historical injustice, with the operative content changing by faction while the structure remained.
 
 The genealogy runs deeper than metaphor. The *"Enlightenment"* did not abolish Abrahamic end-time structure; it secularized it into a beginning, a saving sequence, and an end toward which collective effort is bent. The end may be liberal democracy or technological transcendence. The vehicle changes. The end-time structure does not.[NOTE: voegelin-gnosticism]
 
@@ -134,13 +136,15 @@ That order of instruction determines what the student is allowed to see. Once a 
 
 The European university no longer needs to impose this genealogy directly. The Indian government distributes it. Indian universities teach it, examine students on it, and certify the next generation of teachers who will repeat it. Indian institutions now guard the imported doctrine, while Sanskrit's own categories remain outside the curriculum.
 
+This curriculum does more than teach a theory of linguistic ancestry. It trains a civilization to remember Sanskrit through categories created by the institutions that tried to convert it. The Vedas remain in the syllabus, but their role as Sanskrit's distributed calibrant disappears from the account students receive.
+
 ## 4.4 The Three Classes
 
 Three classes extend, defend, and sanctify the fourth Abrahamic religion.
 
 ### Missionaries of Progress
 
-The **missionaries of progress** export the framework.[NOTE: missionaries-of-progress-precedent] They arrive as development consultants, education reformers, rights trainers, museum curators, NGO officers, global-governance experts, and curriculum designers. Their function is not merely to advise. It is to replace local categories with progress-categories and then declare the replacement universal. In India, they train civilizational self-description to pass through the categories of caste, communalism, development, modernization, minority rights, secularism, and backwardness before it can be heard. The lineage runs back to Rostow's stages-of-growth model and continues through development economics, World Bank conditionalities, and the Sustainable Development Goals.[NOTE: rostow-modernization-theory]
+The **missionaries of progress** export the framework.[NOTE: missionaries-of-progress-precedent] They arrive as development consultants, education reformers, rights trainers, museum curators, NGO officers, global-governance experts, and curriculum designers. Their function is not merely to advise. It is to replace local categories with progress-categories and then declare the replacement universal. In India, they train civilizational self-description to pass through the categories of caste, communalism, development, modernization, minority rights, secularism, and backwardness before it can be heard. Rostow's stages-of-growth model placed every society on the same five-step ladder, from “traditional society” to “high mass consumption.”[NOTE: rostow-modernization-theory]
 
 In the Sanskrit question, the same class now appears through popular synthesis. Ancient DNA, archaeology, and linguistic reconstruction are braided into a general-reader migration story in which PIE becomes a reconstructed people-and-language package, the steppe becomes the source-zone, and Sanskrit becomes one branch among many. The racial Arya thesis survives in softened vocabulary. The form is no longer crude invasion. It is public pedagogy, advanced by the missionaries of progress.[NOTE: popular-pie-missionaries]
 
@@ -158,7 +162,7 @@ Priests of progress do more than protect doctrine inside their institutions. The
 
 The British Empire used this method openly. It knighted selected scholars, admitted them to learned societies, and appointed them to councils and academic chairs. Those honors converted authority earned within Indian society into support for the colonial account of India. Appendix Part 1 documents how this recruitment shaped the colonial study of Sanskrit.
 
-Academic institutions continued the colonial operation after formal empire ended. The asuric pyramid has now opened another front in its war against Sanskrit: readers are taught to hate the language as an instrument of elite power, although Sanskrit’s calibrant architecture does the exact opposite by distributing authority.[NOTE: pollock-sanskrit-cosmopolis-position-3] A multimillion-dollar gift from an Indian family funded a major academic translation project that circulated this hate-driven narrative.[NOTE: murty-library-gift-gate]
+Academic institutions continued the colonial operation after formal empire ended. The asuric pyramid has now opened another front in its war against Sanskrit: readers are taught to see the language primarily as an instrument of elite power, although Sanskrit’s calibrant architecture does the exact opposite by distributing authority.[NOTE: pollock-sanskrit-cosmopolis-position-3] A multimillion-dollar gift from an Indian family funded a major academic translation project that circulated this power-centered narrative.[NOTE: murty-library-gift-gate]
 
 The university certifies the intellectual. The translation project supplies the material. Centralized media and publishing institutions carry the certified interpretation into public life.
 
@@ -174,9 +178,11 @@ The official defense of peer review is quality control. The reality is more ambi
 
 The Hindu continuum condemns this kind of gatekeeping through **बन्दिन् (*Bandin*)**.
 
-In the *Vana Parva* of the *Mahābhārata*, Bandin presides over King Janaka's court against challengers. He has defeated learned men before him. The young **अष्टावक्र (*Aṣṭāvakra*)**, twisted in body and young in years, comes to challenge him. Bandin's first move is procedural. The gate asks: Who are you? What standing do you have? Who recognized you as worthy to enter?
+In the *Vana Parva* of the *Mahābhārata*, Bandin has defeated learned challengers at King Janaka's court. The young **अष्टावक्र (*Aṣṭāvakra*)** arrives to challenge him. At the entrance, a doorkeeper invokes Bandin's rule: learned elders may enter, but boys may not.
 
-Before Aṣṭāvakra defeats Bandin in debate, he defeats the gate that tries to keep him out. The council judges his youth, his body, and his standing before its members hear a word of his argument. Aṣṭāvakra exposes the fraud: learned men who judge a thinker by outward appearance are not a council of the learned. They are a council of fools. The Mahābhārata identifies its hero and villain plainly. Aṣṭāvakra is the hero. Bandin is the villain.[NOTE: ashtavakra-bandin-mahabharata]
+Aṣṭāvakra defeats the procedure before he defeats Bandin. He explains that age and grey hair do not make a person learned. Knowledge does. The doorkeeper tests him, recognizes his learning, and allows him to enter. Aṣṭāvakra then meets Bandin in public debate and defeats him.[NOTE: ashtavakra-bandin-mahabharata]
+
+The continuum celebrates Aṣṭāvakra's victory. Aṣṭāvakra is the hero. Bandin is the gatekeeper he defeats. The story does not celebrate the procedure that tried to exclude the challenger. It celebrates the challenger who broke through it.
 
 The debate was not peer review. It was **शास्त्रार्थ (*śāstrārtha*)**: knowledge tested in public. The audience was not a hidden committee of institutionally approved insiders. The audience was the court itself — learners, citizens, visitors, retinue, witnesses. The verdict was rendered by demonstration, not by anonymous gatekeeping. The structural difference remains: शास्त्रार्थ (*śāstrārtha*) democratizes knowledge because the audience is structurally present. Peer review concentrates verdict in a sub-class invisible to the audience and unaccountable to it.
 
@@ -188,7 +194,7 @@ The contemporary Bandin sits on an editorial board, grant panel, appointments co
 
 Bandin's gate has pre-empted the engineered Sanskrit thesis with a strict circular mechanism: journals confer reputability, which dictates admissibility, which ultimately decides whether an argument is even allowed to be heard.
 
-The Mahābhārata identifies Aṣṭāvakra as the hero and Bandin as the villain. This chapter applies the same judgment to their modern counterparts. The gatekeeper who uses institutional authorization to decide what is true repeats Bandin's role. The challenger who breaks through the gate and brings the argument before the public repeats Aṣṭāvakra's.
+This chapter applies the same judgment to their modern counterparts. The gatekeeper who uses institutional authorization to decide what is true repeats Bandin's role. The challenger who breaks through the gate and brings the argument before the public repeats Aṣṭāvakra's.
 
 For thousands of years, *Sanātan* preserved another way: admit the challenger, hear the argument in public, and decide through demonstration. Modern peer review rebuilds the gate around a problem the civilization had already solved.
 
@@ -246,7 +252,7 @@ A system that displays दिव्यता (*divyatā*) and preserves लो�
 
 The fourth Abrahamic religion is the institutional formation that has tried to absorb, contain, or overwrite that architecture. Earlier formations did it through military and administrative power. The fourth does it through academic, cultural, legal, and developmental power. The vocabulary has secularized. The structural project has not.
 
-The dharmic continuum has its own primary-source diagnosis of the foreign binary the Abrahamic substrate imposed on India. In the *Assalāyana Sutta*, the Buddha observes that the आर्य/दास (*ārya/dāsa*) binary is visible among foreign-bordering nations such as Yona and Kamboja, not as an Indic universal — the dharmic continuum itself documenting the binary as foreign to the dharmic frame.[NOTE: assalayana-sutta-fwd] Chapter 3 §3.2 sets out the citation in full; the Epilogue returns to आर्यत्व (*āryatva*) as invitation rather than race.
+The *Assalāyana Sutta* shows that आर्य (*ārya*) and दास (*dāsa*) describe social positions that can reverse. An आर्य (*ārya*) can become a दास (*dāsa*), and a दास (*dāsa*) can become an आर्य (*ārya*). They are not races fixed by birth.[NOTE: assalayana-sutta] Chapter 3 §3.2 presents the passage in full; the Epilogue returns to आर्यत्व (*āryatva*) as invitation rather than race.
 
 These two architectures contest asymmetrically: while the fourth Abrahamic religion tries to force an integrated civilization into an imported binary structure, the architecture of *Sanātan* endures beneath the surface, its robust design carrying it intact through every change in political-administrative regime.
 

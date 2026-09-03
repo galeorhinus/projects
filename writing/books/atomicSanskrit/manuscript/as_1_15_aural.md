@@ -6,7 +6,7 @@ The Veda is heard as recitation: breath, pitch, duration, accent, sequence, and 
 
 This preservation is audible in the पाठाः (*pāṭhas*) — living recitation systems maintained in identifiable lineages, taught in gurukula schools, examined by teachers, performed before communities, and available to the ear.
 
-The संहितापाठ (*saṃhitā-pāṭha*) is recited in temples and homes across the subcontinent and the diaspora. The क्रमपाठ (*krama-pāṭha*) is taught by lineages that still test it formally. The घनपाठ (*ghana-pāṭha*) is mastered by senior reciters who bear a title recognized across Vedic communities. These are the living recitation practices within the preservation system mapped earlier (Chapter 14).
+The संहितापाठ (*saṃhitā-pāṭha*) is recited in temples and homes across the subcontinent and the diaspora. The क्रमपाठ (*krama-pāṭha*) is taught by lineages that still test it formally. The घनपाठ (*ghana-pāṭha*) is mastered by senior reciters who bear the title घनपाठी (*Ghanapāṭhī*). These are the living recitation practices within the preservation system mapped earlier (Chapter 14).
 
 *Auditure* is what is heard; *Mnemoniture* is what is remembered in story, wisdom, setting, and civilizational memory. The शिक्षा (*Śikṣā*) discipline trains the speech instrument, and the eleven पाठाः (*pāṭhas*) re-encode the corpus. Continuous recitation across geographically separated lineages, with periodic contact among them, supplies the empirical cross-check. Sanskrit's preservation architecture leaves an observable engineering signature. The eleven पाठाः (*pāṭhas*) are that signature.
 
@@ -16,7 +16,9 @@ The संहितापाठ (*saṃhitā-pāṭha*) is recited in temples an
 
 The **प्रातिशाख्य (*Prātiśākhya*)** discipline specifies the phonetic constants preserved by a Vedic lineage: sounds, meaning-bearing accents, junctions, pauses, and recitational rules. शिक्षा (*Śikṣā*) trains the human instrument to produce those constants reliably. It tells the student what to do with the tongue, breath, palate, duration, pitch, and sequence. It tells the teacher what to check.
 
-The listed शिक्षा (*Śikṣā*) texts are compact because they are training manuals, not survey essays. The पाणिनीयशिक्षा (*Pāṇinīya-Śikṣā*), याज्ञवल्क्यशिक्षा (*Yājñavalkya-Śikṣā*), वासिष्ठीशिक्षा (*Vāsiṣṭhī-Śikṣā*), आपिशलिशिक्षा (*Āpiśali-Śikṣā*), and भारद्वाजशिक्षा (*Bhāradvāja-Śikṣā*) belong to that world of disciplined production.[NOTE: shiksha-texts-standard-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-मात्रा (*mātrā*) timing events — ***व्यञ्जनं चार्धमात्रिकम् (vyañjanaṃ cārdhamātrikam)***.[NOTE: vyanjana-duration-shiksha] Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The procedural character of the texts is the signature of the architecture working through them.
+The शिक्षा (*Śikṣā*) literature records several kinds of preservation instruction. The पाणिनीयशिक्षा (*Pāṇinīya-Śikṣā*), याज्ञवल्क्यशिक्षा (*Yājñavalkya-Śikṣā*), वासिष्ठीशिक्षा (*Vāsiṣṭhī-Śikṣā*), आपिशलिशिक्षा (*Āpiśali-Śikṣā*), and भारद्वाजशिक्षा (*Bhāradvāja-Śikṣā*) belong to that world.[NOTE: shiksha-texts-standard-list] Some specify how a reciter should produce and time sounds. The वासिष्ठीशिक्षा (*Vāsiṣṭhī-Śikṣā*) counts the verses and prose formulas in the Śukla Yajurveda Saṃhitā so that additions or losses can be detected.
+
+The sound manuals give instructions for a precision instrument: the reciter's body. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-मात्रा (*mātrā*) timing events — ***व्यञ्जनं चार्धमात्रिकम् (vyañjanaṃ cārdhamātrikam)***.[NOTE: vyanjana-duration-shiksha] Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. These procedures make the body itself part of the preservation system.
 
 Chapter 9 maps these relations as one vowel architecture. The vowel family identifies the sound, मात्रा (*mātrā*) fixes its duration, स्वर (*svara*) fixes its pitch, and अनुनासिक (*anunāsika*) records nasal participation. शिक्षा (*Śikṣā*) trains the student to reproduce all four together rather than reducing recitation to a sequence of written vowel signs.
 
@@ -30,7 +32,7 @@ Auditure begins in trained hearing, and शिक्षा (*Śikṣā*) trains 
 
 ## 15.2 The Eleven पाठाः (*Pāṭhāḥ*)
 
-The eleven पाठाः (*pāṭhas*) divide into two groups. The five प्रकृतिपाठाः (*prakṛti-pāṭhāḥ*) are primary recitations. The six विकृतिपाठाः (*vikṛti-pāṭhāḥ*) are modified recitations that apply deeper permutations. Together they form one of the densest preservation codes any civilization has produced.[NOTE: eleven-pathas-full-list]
+The eleven पाठाः (*pāṭhas*) divide into two groups. The three प्रकृतिपाठाः (*prakṛti-pāṭhāḥ*) are primary recitations. The eight विकृतिपाठाः (*vikṛti-pāṭhāḥ*) are modified recitations that apply deeper permutations. Together they form one of the densest preservation codes any civilization has produced.[NOTE: eleven-pathas-full-list]
 
 ***संहितापाठ (*Saṃhitā-pāṭha*)*** is the continuous recitation. Words are joined by सन्धि (*sandhi*). This is the flowing Vedic form, the verse as heard in its connected body. Every join encodes information: vowel length, voicing, nasal placement, consonantal transition, accent, and breath.
 
@@ -40,11 +42,11 @@ Because ***क्रमपाठ (*krama-pāṭha*)*** acts as the step recitati
 
 ***जटापाठ (*Jaṭā-pāṭha*)*** functions as the braid recitation (1-2, 2-1, 1-2; 2-3, 3-2, 2-3), where each pair is recited forward, backward, and forward again. Because the name जटा (*jaṭā*) accurately captures this weave, the reciter is forced to execute both the words and their joins in both directions.
 
-***घनपाठ (*Ghana-pāṭha*)*** is the dense recitation. The pattern extends into three-word windows: 1-2, 2-1, 1-2-3, 3-2-1, 1-2-3; then the window advances. A ***घनपाठी (*Ghanapāṭhī*)*** has mastered the highest common recitational density and is recognized as such across Vedic communities by title.[NOTE: ghanapathi-title-recognition]
+***घनपाठ (*Ghana-pāṭha*)*** is the dense recitation. The pattern extends into three-word windows: 1-2, 2-1, 1-2-3, 3-2-1, 1-2-3; then the window advances. A reciter who masters this form bears the title ***घनपाठी (*Ghanapāṭhī*)***.[NOTE: ghanapathi-title-recognition]
 
-The six विकृतिपाठाः (*vikṛti-pāṭhāḥ*) add further permutation: माला (*mālā*, garland), शिखा (*śikhā*, peak), रेखा (*rekhā*, line), ध्वज (*dhvaja*, flag), दण्ड (*daṇḍa*, staff), and रथ (*ratha*, chariot).[NOTE: six-vikrti-pathas-pattern-list] Their names point to the shapes their recitation diagrams make when laid out. Their function is deeper verification. If order, boundary, or सन्धि (*sandhi*) is in doubt, the modified recitations constrain the sequence from additional directions.
+The other six विकृतिपाठाः (*vikṛti-pāṭhāḥ*) complete the set: माला (*mālā*, garland), शिखा (*śikhā*, peak), रेखा (*rekhā*, line), ध्वज (*dhvaja*, flag), दण्ड (*daṇḍa*, staff), and रथ (*ratha*, chariot).[NOTE: six-vikrti-pathas-pattern-list] Their names point to the shapes their recitation diagrams make when laid out. Their function is deeper verification. If order, boundary, or सन्धि (*sandhi*) is in doubt, the modified recitations constrain the sequence from additional directions.
 
-The same underlying संहिता (*saṃhitā*) is locked into place eleven ways: continuous flow, separated word, overlapping pair, braid, density, and the six deeper विकृति (*vikṛti*) permutations.
+The same underlying संहिता (*saṃhitā*) is locked into place eleven ways: continuous flow, separated words, overlapping pairs, the braid of जटा (*jaṭā*), the six additional विकृति (*vikṛti*) patterns, and the density of घन (*ghana*).
 
 A scribal error can propagate because the written line has little redundancy beyond what the scribe or editor supplies. A recitation error in घन (*ghana*) has to survive repeated return, reversal, forward motion, backward motion, सन्धि (*sandhi*), accent, and the ear of the teacher. The error has almost nowhere to hide.
 
@@ -88,7 +90,7 @@ Second, the engineering can be examined directly. The पाठाः (*pāṭha
 
 Third, the recitation system is not a reconstruction proposed by this book. People are performing it now. The same principle already encountered in the sonomer and the धातुः (*dhātuḥ*) appears again at a larger scale: the form is compact, but the architecture preserves enough information to recover it and identify a departure. The recitation makes Sanskrit's fractal architecture audible.
 
-Among the comparison cases considered here, none is documented at this depth as an ancient linguistic preservation system. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.[NOTE: masoretic-codification-timing][NOTE: quran-recitation-vs-pathas-comparison] None has the same redundancy depth, cross-lineage independence, and living recitational architecture. The comparative case is already in place at the architecture level (Chapter 14 §14.6); the evidence here makes it audible.
+Among the comparison cases considered here, none is documented at this depth as an ancient linguistic preservation system. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.[NOTE: masoretic-codification-timing][NOTE: quran-recitation-vs-pathas-comparison] Among these comparison cases, only the Vedic system uses connected recitation, word separation, overlapping pairs, reversals, and longer prescribed recombinations of the same passage. The comparative case is already in place at the architecture level (Chapter 14 §14.6); the evidence here makes it audible.
 
 Together, the reciters demonstrate calibrant order as a living practice. The received form remains invariant, access to it remains distributed, and correction occurs wherever trained reciters and listeners compare a performance with what they received. They do not wait for an apex to announce correctness.
 

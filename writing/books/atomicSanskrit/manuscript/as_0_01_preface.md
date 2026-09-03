@@ -8,29 +8,31 @@ What had our ancestors fought to protect? Was it only freedom? Was it the nation
 
 Freedom was necessary, but freedom could not be the final answer. Freedom gives people room to choose. It does not tell them what kind of order allows living beings to flourish together. Nor does it explain how such an order can endure without placing a ruler, institution, or doctrine above everyone else.
 
-The question led me from freedom to order. Most political systems create order by imposing constraints and punishing anyone who violates them. The specific rules and the enforcers may differ. People may even choose who occupies the apex. But that choice only changes the occupant; it does not remove the apex.
+The question led me from freedom to order. Every political system operating today uses the same basic architecture. Authorized institutions make rules, identify violations, and punish those who refuse to comply. Systems differ greatly. People may choose who occupies the apex, limit that person's power, and challenge official decisions. Those protections matter, but they do not remove the apex.
 
-I had always “known” that another possibility existed, even before I could describe its architecture. I believed that most human beings were decent and would respond better to guidance than fear. Fear and punishment could not be the only way to create order.
+This architecture governs everyone around the conduct of those who deceive, exploit, or attack. **The pyramid treats everyone as an exception waiting to happen.** A system built on suspicion teaches people to suspect one another and produces the distrust it expects.
 
-So my thought experiments began. Then one day it struck me: I had been staring at the answer all my life. It was present in every sound, every word, and every story I had inherited. The polity had been destroyed and its policies erased, but the ideas had survived. Everything our ancestors had fought to protect remained alive in our heads, our hearts, and our mouths.
+I had always believed that another possibility existed. Most people are capable of cooperation and restraint, and many respond better to a trusted example than to fear. Could an order cultivate that capacity and address exceptions when they actually occurred?
+
+Then one day it struck me: I had been *hearing* the answer all my life. Sanskrit itself preserved the invariant architecture I was seeking. The same pattern recurred in the stories and practices I had inherited. Hindu polity had been destroyed and its policies erased, but the architecture beneath them remained alive in our heads, our hearts, and our mouths.
+
+The pyramid had attacked more than the polity. It had tried to break the memory through which later generations could recognize the order our ancestors had defended. Sanskrit showed me that this civilizational memory had not disappeared.
 
 I realized how fortunate I was to have been born to parents who were caretakers of that civilizational inheritance. Through them, I had received ideas that our ancestors had fought to preserve for all humanity.
 
-Here was evidence that a civilizational order could exist without dogma. People could correct themselves by returning to a calibrant rather than waiting for commands from an apex.
+Sanskrit revealed a civilizational order built through calibration rather than dogma or commands from an apex. Its own invariance came through calibration as well, not through Pāṇini's supposed codification of the language. As this book demonstrates, Sanskrit is the only language in the world that has remained invariant for thousands of years while continuing to support new expression, all without a central authority controlling its form. The Vedas serve as its distributed calibrant. *Atomic Sanskrit* examines this bond as **the radiant, calibrant, and fractal architecture of Sanātan**.
 
-The Hindu temple preserves one familiar example of that architecture.
+That principle may still sound abstract. The Hindu temple offers a familiar way to understand it.
 
 Consider दर्शन (*darśana*): beholding, or sight. A Hindu goes to a temple for दर्शन (*darśana*). The seeing itself is the purpose. The मूर्ति (*mūrti*) does not sermonize. It does not demand your presence. It does not announce what is right and what is wrong. It is simply present: unyielding, unflinching, and silent.
 
-Behind that silence lies a vast inheritance of stories about choices, actions, and consequences. दर्शन (*darśana*) brings the seeker directly before that inheritance. The seeker must then exercise विवेक (*viveka*), the discernment required to understand those stories and decide how to act.
+Behind that silence lies a vast inheritance of stories about choices, actions, and consequences. Those stories do not turn every human failure into a permanent rule imposed upon everyone. They preserve difficult cases so that later seekers can examine what happened and decide what another situation requires. दर्शन (*darśana*) brings the seeker directly before that inheritance. The seeker must then exercise विवेक (*viveka*), the discernment required to understand those stories and decide how to act.
 
 Through the मूर्ति (*mūrti*), that inheritance stands before the seeker as a calibrant. **The calibrant stands invariant. Alignment is voluntary.** Seekers examine their own actions against the enduring values embodied in the form and decide what must change.
 
 *No apex controls that act of seeing.*
 
-**The Hindu temple is one architectural form of distributed calibration.**
-
-**Sanskrit is another.**
+**The temple makes the principle familiar. Sanskrit allows us to examine its engineering.**
 
 I had been searching for an abstract solution to a problem that Hindu life had already answered in practice. The answer had survived not as one policy or institution, but as an architecture repeated through sounds, words, stories, and practices. Reconstructing that architecture became the *Second Shanti* series.
 
@@ -103,7 +105,11 @@ One architecture places an invariant standard where everyone can reach it and no
 
 The other architecture encloses knowledge, controls access, and places certified authority above the people expected to obey it. This book calls that architecture the **pyramid**. European philology constructed the foreign-parent account, Western academia certified and expanded it, and Indian academia continues to reproduce many of its categories.
 
-The distinction is architectural, not racial or national. A person born anywhere can protect a calibrant or serve a pyramid. Actions determine the side. The protagonists keep knowledge and well-being in circulation. The antagonists restrict that circulation and place other people beneath an apex.
+The Vedas frame this conflict as **सत् (*sat*)** and **असत् (*asat*)**. Power does not determine the side. Its purpose and actions do.
+
+The distinction is architectural, not racial or national. A person born anywhere can protect a calibrant or serve a pyramid. The protagonists keep knowledge and well-being in circulation. The antagonists restrict that circulation and place other people beneath an apex.
+
+Calibrant order does not abolish government. It places the king or government within the order. Those who govern protect a calibrant that they did not create, cannot alter, and do not own.
 
 This is why the book’s tone is direct. I do not present the dispute as a polite choice between two equally adequate descriptions. I argue that the pyramid created false categories to hide a living architecture.
 

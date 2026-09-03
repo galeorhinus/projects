@@ -8,7 +8,7 @@
 > *vi tiṣṭhadhvaṃ maruto vikṣv icchata gṛbhāyata rakṣasaḥ saṃ pinaṣṭana |*\
 > *vayo ye bhūtvī patayanti naktabhir ye vā ripo dadhire deve adhvare ||*
 >
-> Spread among the people, O Maruts; seek them out. Seize the rākṣasas and crush them: those who fly by night in the form of birds, and those who bring hostility into the sacred and peaceful ceremony.
+> Spread among the people, O Maruts; seek them out. Seize the rākṣasas and crush them: those who fly by night in the form of birds, and those who bring hostility into the sacred ceremony.
 >
 > `\hfill`{=latex}*— Ṛgveda 7.104.18*[NOTE: rigveda-7-104-18-rakshasas-night]
 
@@ -192,7 +192,9 @@ This book therefore uses ***a-sura*** as the diagnostic name for an antagonist w
 
 Every recitation returns the same words to human breath. The calibrant keeps the evidence unchanged, but it does not replace the listener's judgment. Each generation must exercise **विवेक (*viveka*)**, examine what the actors do, and determine whether their actions serve सत् (*sat*) or असत् (*asat*).
 
-The academic pyramid reverses that relationship. It places the word under a floodlight and leaves the actions in shadow. The diversion conceals the very faculty the Vedas require the listener to exercise.
+That exercise depends upon memory. A listener can recognize a recurring asuric action only while earlier actions and their consequences remain available for comparison. The Vedas keep those comparisons available across generations.
+
+The academic pyramid diverts attention from that memory. It places the word under a floodlight and leaves the actions in shadow. It then replaces the distinction between actions with a conflict between factions. The diversion conceals the very faculty the Vedas require the listener to exercise.
 
 The stakes extend beyond one word. The swastika distributes power so that life, knowledge, and abundance can circulate. The pyramid encloses power at its apex and controls access to what lies below. Actions that protect life and restore circulation cannot be made equivalent to actions that conceal radiance and build containment merely because the same title appears on both sides.
 
