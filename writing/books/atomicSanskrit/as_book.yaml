@@ -15,8 +15,12 @@ date: "PRE-PUBLICATION REVIEW COPY — September 2026"
 lang: en-US
 
 # --- Typography ---
-mainfont: STIX Two Text            # Latin + IAST diacritics
-mainfontoptionsraw: "BoldFont={STIX Two Text},BoldFeatures={RawFeature={+axis={wght=700}}}"  # Passed by build_book.py so Pandoc does not escape the fontspec braces.
+mainfont: STIXTwoText-Regular.otf
+# Loaded by exact filename from mainfontdir, not looked up by family name.
+# See mainfont_cli_args() in build_book.py for why: a name lookup finds the
+# system's variable STIX build, which XeTeX renders no bold from at all.
+mainfontdir: fonts/stixtwotext
+mainfontoptionsraw: "BoldFont=STIXTwoText-Bold.otf,ItalicFont=STIXTwoText-Italic.otf,BoldItalicFont=STIXTwoText-BoldItalic.otf"
 devanagarifont: Tiro Devanagari Sanskrit   # OFL; covers Vedic Extensions, which Adobe Devanagari does not
 devanagarifontoptions: AutoFakeBold=1.8    # Tiro ships no bold weight; the book sets 106 Devanagari headings
 # Base font size and line spacing are layout-specific. Edit them in

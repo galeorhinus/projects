@@ -1208,6 +1208,33 @@ def mainfont_cli_args(metadata_file: Path) -> list[str]:
     """
     font = read_yaml_value(metadata_file, "mainfont")
     options = read_yaml_value_opt(metadata_file, "mainfontoptionsraw")
+    fontdir = read_yaml_value_opt(metadata_file, "mainfontdir")
+    # `mainfontdir` switches fontspec from looking the family up by name to
+    # loading exact files, and it is the only arrangement that produces bold
+    # on both machines.
+    #
+    # Asking the system for "STIX Two Text" gets macOS's system-installed
+    # VARIABLE build, which XeTeX will not render bold from under any option
+    # tried: the +axis={wght=700} raw feature this file used to pass, a plain
+    # \setmainfont, BoldFont={STIX Two Text Bold}, or the two combined. Every
+    # one silently produced regular weight, so every **bold** in Latin text
+    # had been flat since the switch to STIX — visible in a 430dpi crop of
+    # "Sanātan evaluates the action, not the faction." against the line above
+    # it. (Bold Devanagari always worked, via Tiro's AutoFakeBold, which is
+    # what made the page look correct.) On Linux the same variable file is
+    # worse: fontconfig hands xdvipdfmx a face index it rejects outright with
+    # "Invalid font: -1", so the build dies rather than losing bold quietly.
+    #
+    # Installing static faces does not help while lookup is by name, because
+    # the system copy still wins. Naming the files directly skips lookup, and
+    # the fonts ship in the repo so both machines load identical bytes.
+    if fontdir:
+        abs_dir = (BOOK_DIR / fontdir).resolve()
+        if not abs_dir.is_dir():
+            raise SystemExit(
+                f"build_book.py: mainfontdir {fontdir!r} does not exist at {abs_dir}."
+            )
+        options = f"Path={abs_dir}/" + (f",{options}" if options else "")
     args = ["-V", f"mainfont={font}"]
     if options:
         args += ["-V", f"mainfontoptions={options}"]
