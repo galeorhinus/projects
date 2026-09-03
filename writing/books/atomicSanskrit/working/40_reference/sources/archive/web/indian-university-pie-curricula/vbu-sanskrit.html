@@ -1,0 +1,1133 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<base href="https://www.vbu.ac.in">
+    <!-- meta tag -->
+    <meta charset="utf-8">
+    <title>Vinoba Bhave University, Hazaribag</title>
+    <meta name="description" content="">
+    <!-- responsive tag -->
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- favicon -->
+   <!--  <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">  -->
+    <link rel="shortcut icon" type="img/x-icon" href="/resources/assets/img/logo.png">
+    <link rel="stylesheet" type="text/css" href="/resources/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/resources/assets/css/owl.carousel.css"> 
+    <link rel="stylesheet" type="text/css" href="/resources/assets/css/slick.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/resources/assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/resources/assets/css/calendar/evo-calendar.min.css">
+   <link rel="stylesheet" type="text/css" href="/resources/assets/css/calendar/evo-calendar.orange-coral.min.css">
+   <link rel="stylesheet" type="text/css" href="/resources/assets/css/calendar/evo-calendar.midnight-blue.min.css">
+   <link rel="stylesheet" type="text/css" href="/resources/assets/css/calendar/evo-calendar.royal-navy.min.css">
+    <link rel="stylesheet" type="text/css" href="/resources/assets/css/styles.css" />
+    <link rel="stylesheet" type="text/css" href="/resources/assets/css/animation.css">
+    <link rel="stylesheet" type="text/css" href="/resources/assets/css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="/resources/assets/css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="/resources/assets/css/rsmenu-main.css">
+    <script src="/resources/assets/js/angular.min.js"></script>
+    <script src="/resources/assets/js/jquery.min.js"></script> 
+  <!--  <script>
+    var dynamicBaseURL = "/vbunewsite/";
+    document.getElementById("base-url").href = dynamicBaseURL;
+    </script> -->
+    <!--  <link  href="https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css"> -->
+    
+    <!--  calender css -->
+  
+</head>
+
+<body class="home1" ng-app="app" ng-controller="contlr" id="example" ng-init="loadData()">
+ 
+	<!-- START Template Main -->
+	
+<div class="heighthead"></div>
+<!--Header Start-->
+<header class="headerbg homeheader">  
+<div class="headersec">
+     <div class="container"> 
+        <div class="topheader">
+            <div class="logo">
+              <a href="login">
+                <img src="resources/assets/img/logo.png" alt="logo">
+                <span><small>विनोबा भावे विश्वविद्यालय , हज़ारीबाग </small> Vinoba Bhave University, Hazaribag </span>                            
+              </a>
+            </div> 
+            
+            <div class="rightlink">
+	            <!-- <ul>
+				    <li><a href="https://www.facebook.com/VinobaBhaveUniversityOfficial/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+				    <li><a href="https://twitter.com/vbuuniversity" target="blank"><i class="fa fa-twitter"></i></a></li> 
+				    <li><a class="zoomin text-light"><i class="fa fa-font" aria-hidden="true"></i><i class="fa fa-plus" aria-hidden="true"></i> </a></li>
+				    <li><a class="zoomout text-light"><i class="fa fa-font" aria-hidden="true"></i><i class="fa fa-minus" aria-hidden="true"></i> </a></li>
+				</ul> -->
+				<ul>
+				    <li><a href="https://www.facebook.com/VinobaBhaveUniversityOfficial/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+				    <li><a href="https://twitter.com/vbuuniversity" target="blank"><i class="fa fa-twitter"></i></a></li> 
+				    <li><a class="zoomin">A <small>+</small></a></li>
+				    <li><a class="zoomout">A <small>-</small></a></li>
+				    <li><a id="google_translate_element" style="position:static;"></a></li>
+				    <li>				
+				<div class="searchsec">
+				<div class="search"><i class="fa fa-search"></i> <span>Page Search</span></div>
+				<input type="text" id="searchInput" class="field" placeholder="page search">
+				<ul id="dataList" style="display: none;">
+								<li><a href="https://www.vbuuniv.in/vbuexamform/login">DEET (Ph.D.) Admit Card</a></li> 
+								<li><a href="adminlogin">University Admin</a></li>
+								<li><a href="stdlogin">Application Form for Duplicate Marksheet.</a></li>
+								<li><a href="stdlogin">Student Login</a></li> 
+								<li><a href="stdlogin">Apply for Migration</a></li>
+								<li><a href="https://jharkhanduniversities.nic.in/home">Admission</a></li>
+								<li><a href="stdlogin">Application Form for Degree</a></li>
+								<li><a href="academicCalender">Academic Calender</a></li>
+								<li><a href="academicCalender">Sports Calender</a></li>
+								<li><a href="https://vbuuniv.in/vbupayroll/login">HRMS Report/Pay Slip</a></li> 
+								<li> <a href="committee">Committees </a></li>
+								<li> <a href="calendar">Calendar</a></li> 
+								<li> <a href="notice/tender">Tender</a></li> 
+								<li> <a href="directory">Directory</a></li>
+								<li> <a href="nirf">NIRF</a></li> 
+								<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/rti/Statutory Declaration under RTI Act 2005.pdf" target="_blank">RTI</a></li>
+								 <li> <a href="https://www.vbuuniv.in/alumnilandingpage" target="_blank">Alumni</a></li>
+								<li><a href="contactus">Contact Us</a></li>
+								<li><a href="https://www.vbuuniv.in">Admit Card</a></li>
+								<li><a href="https://www.vbuuniv.in/vbumarks/login">Marks Entry Panel</a></li>
+								<li><a href="http://result.vbuuniv.in/vbuuniv/student/result/pg/preview">Result Link</a></li> 
+								<li><a href="https://cybervidyapeeth.in/courses/pg-diploma-in-cyber-defense/">Post Graduation Diploma in Cyber Defense</a></li>
+								<li><a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/SSR 2nd Cycle - JHUNGN11297.pdf">SSR Second cycle</a></li> 
+								<li><a href="stdlogin">Student Login</a></li>
+								<li role="presentation" ><a href="#recent" aria-controls="recent" role="tab" data-toggle="tab">Recent Tabs</a></li>
+								<li role="presentation"><a href="#erp" aria-controls="erp" role="tab" data-toggle="tab">ERP Tabs</a></li>
+								<li><a href="notice/Notice">Notices</a></li>
+								<li><a href="notice/Tender">Tenders</a></li>
+								<li><a href="notice/Article">Articles</a></li>
+								<li><a href="notice/Press">Press</a></li>
+								<li><a href="notice/Vacancies">Vacancy</a></li>
+								<li><a href="notice/Seminar">Seminars</a></li>
+								<li><a href="notice/Question Papers">Questions</a></li>
+								<li><a href="notice/Conference">Conferences</a></li> 
+								<li><a href="notice/Result">Results</a></li>
+								<li><a href="notice/Student Corner">Students Corner</a></li>
+								<li><a href="notice/Download">Downloads</a></li>
+								<li><a href="notice/admission">Admission form</span></a></li>
+								 <li><a href="UGSyllabGE">Syllabus for GE Special Examination (Sem- I to IV) for 2015-18,2016-19,2017-20,2018-21 & 2019-22</a></li>
+					   </ul>
+				   </div> 
+				</li>
+	            </ul>
+            </div>
+            <div class="navicon"><span></span></div>
+        </div>
+    </div>
+</div>
+
+<div class="topmenubg">
+    <div class="container">
+        <nav class="topmenu">
+        	<ul>
+				<li><a href="login" class="home">Home</a></li>
+				<!-- HR menu start  -->
+				<li class="sublinks"> <a href="javascript:void(0)">About VBU</a>
+					<ul class="sub-menu">
+						<li><a href="about_us">About University</a></li>
+						<li><a href="kulgeet">KulGeet</a></li>
+						<li><a href="jurisdiction">Jurisdiction</a></li>
+						<li><a href="accreditation_recognition">Accreditation and Recognitions</a></li>
+						<li><a href="policy">Policy for maintaining physical, academic and support facility</a></li>
+						<li><a href="activities">Important Activities in Past two years</a></li>
+					</ul>
+				</li>
+				<li><a href="administrative">Administrative Units </a></li> 
+				<li class="sublinks"> <a href="javascript:void(0)">Academic Units </a>
+					<ul class="sub-menu">
+						<li><a href="colleges">Colleges</a></li>
+						<li class="inner-sub-menu sublinks2"><a href="javascript:void(0)">VBU Campus </a>
+							<ul class="sub-menu __sub-menu menuscroll menuscroll-primary">
+								<li ng-repeat="x in departmentlist|orderBy"><a href="department?dept=+{{x}}">{{x}}</a></li>
+								<!-- <li><a href="department?dept=+commerce">department</a></li>
+								<li><a href="anthropology">Anthropology</a></li>
+								<li><a href="botany">Botany</a></li>
+								<li><a href="cnd">CND</a></li>
+								<li><a href="chemistry">Chemistry</a></li>
+								<li><a href="commerce1">Commerce</a></li>
+								<li><a href="MBADept">MBA</a></li>
+								<li><a href="psychology">Psychology</a></li>
+								<li><a href="politicalscience">Political Science</a></li>
+								<li><a href="homescience">Home Science</a></li>
+								<li><a href="history">History</a></li>
+								<li><a href="economics">Economics</a></li>
+								<li><a href="geography">Geography</a></li>
+								<li><a href="english">English</a></li>
+								<li><a href="philosophy">Philosophy</a></li>
+								<li><a href="sanskrit">Sanskrit</a></li>
+								<li><a href="urdu">Urdu</a></li>
+								<li><a href="zoology">Zoology</a></li>
+								<li><a href="geology">Geology</a></li>
+								<li><a href="economics">Economics</a></li>
+								<li><a href="biotechnology">Biotechnology </a></li>
+								<li><a href="mca">Master of Computer Application </a></li>
+								<li><a href="mathematics">Mathematics</a></li>
+								<li><a href="physics">Physics</a></li>                                                  
+								<li><a href="medDept">M.Ed</a></li>
+								<li><a href="physioDept">Physiotherapy</a></li>
+								<li><a href="https://ulcvbu.in/" target="_blank">Law</a></li>
+								<li><a href="lawDept">Law</a></li> -->
+				
+							</ul>
+						</li>
+						<li class="menu-item-has-children inner-sub-menu sublinks2"><a href="javascript:void(0)">Publication </a>
+							<ul class="sub-menu __sub-menu menuscroll menuscroll-primary">
+								<li ng-repeat="x in departmentlist|orderBy"><a href="publication?pub=+{{x}}">{{x}}</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li class="sublinks"> <a href="javascript:void(0)">Courses </a>
+					<ul class="sub-menu">
+						<li><a href="traditional">UG & PG Courses in VBU Campus & Colleges (Traditional)</a></li>
+						<li><a href="vocational">UG & PG Courses in VBU Campus & Colleges (Vocational)</a></li> 
+						<li><a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/program.pdf" target="_blank">Programs / Courses in VBU Campus</a></li>
+						<li class="menu-item-has-children inner-sub-menu sublinks2"><a href="javascript:void(0)">Fee Structure</a>
+							<ul class="sub-menu __sub-menu menuscroll menuscroll-primary">
+								<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/download/UG_fee_structure.pdf" target="_blank">UG</a></li>
+								<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/download/PG_fee_structure.pdf" target="_blank">PG</a></li>
+								<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/download/Fee-refund_policy.pdf" target="_blank">Fee Refund Policy</a></li>
+							</ul>
+						<li>
+					</ul>
+				</li>
+				<li class="sublinks"> <a href="javascript:void(0)">Syllabi </a>
+					<ul class="sub-menu">
+						<li><a href="regulation_syllabi">Syllabus & Regulation</a></li>
+						<li><a href="UGSyllab">Under Graduate</a></li>
+						<li><a href="UGSyllabNEP">Under Graduate N.E.P.</a></li>
+						<li><a href="UGSyllabNEPNEW">Under Graduate N.E.P.(Effective form 2025-2026)</a></li>
+						<!-- <li><a href="UGSyllabNEP_sem2">Under Graduate N.E.P. (SEM - II)</a></li> -->
+						<li><a href="UGSyllabGE">Syllabus for GE Special</a></li>
+						<li><a href="PGSyllab">Post Graduate</a></li>
+						<li><a href="PhDSyllab">DEET / Ph.D</a></li>
+						<li><a href="modelquestion">Model Questions</a></li>
+					</ul>
+				</li>
+				<li class="sublinks"><a href="javascript:void(0)">NAAC Documents</a>
+					<ul class="sub-menu">  
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Post Sactioned letter.pdf" target="_blank">Post Sanctioned</a></li>
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Earmark of Student.pdf" target="_blank">Earmark of Student</a></li>
+						<li class="menu-item-has-children inner-sub-menu sublinks2"><a href="javascript:void(0)">Admission Application Details</a>
+							<ul class="sub-menu __sub-menu menuscroll menuscroll-primary">
+								<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Application 2019.pdf" target="_blank">2019</a></li>
+								<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Application 2020.pdf" target="_blank">2020</a></li>
+								<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Application 2021.pdf" target="_blank">2021</a></li>
+								<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Application 2022.pdf" target="_blank">2022</a></li>
+							</ul>
+						<li>
+						<!--<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Resolution of 38th Academic Council.pdf" target="_blank">Resolution of 38th Academic Council</a></li>
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Geotagged ICT Rooms.pdf" target="_blank">Geo Tagged Snaps of ICT Rooms</a></li>
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Board of studies of all department.pdf" target="_blank">Syllabus Revision Documents</a></li>
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/2.3appeared.pdf" target="_blank">Number of Students Appeared in the Examination Appearing in last Five Years</a></li>
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/2.2students.pdf" target="_blank">Number of Final Year students Last Five Years</a></li>
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/2017-21.pdf" target="_blank">List of Enrolled Students Last Five Years</a></li>
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/4.5-Final.pdf" target="_blank">Audit Report for Last Five Years</a></li>
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/geo_tagged_photo.pdf" target="_blank">Geo Tagged Photos of Classrooms and Seminar Halls</a></li> -->
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/feedback.pdf" target="_blank">Feedback</a></li>
+						<li> <a href="/notice/NAAC-DOCUMENTS">More</a></li>
+					</ul>
+				</li>
+				
+				<li class="sublinks"> <a href="javascript:void(0)">CUET </a>
+					<ul class="sub-menu">
+						<li><a href="https://pgcuet.samarth.ac.in/index.php/app/info/eligibility?q=VNBU" target="_blank">CUET (PG) - 2024</a></li>
+						<li><a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/vbu/VBU1382.pdf" target="_blank">CUET (PG) - 2023</a></li>
+                                               <li><a href="https://cuetug.ntaonline.in/universities/eligibility/ODI=" target="_blank">CUET (UG) - 2024</a></li>
+						<li><a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/vbu/CUET_UG_New_Mapping.pdf" target="_blank">CUET (UG) - 2023</a></li>
+					</ul> 
+				</li>
+				<!-- <li> <a href="gallery">Gallery</a></li>
+				<li><a href="contactus">Contact</a></li> -->
+				
+				<!--<li class="sublinks"><a href="javascript:void(0)">NAAC</a>
+				<ul class="sub-menu">
+				<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Post Sactioned letter.pdf" target="_blank>Post Sanctioned</a></li>
+				<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/Earmark of Student.pdf" target="_blank>Earmark of Student</a></li>
+				</ul>
+				</li> --> 
+				<li class="sublinks"> <a href="javascript:void(0)">NEP</a>
+					<ul class="sub-menu">
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/download/list_of_coordinators.pdf" target="_blank">List of Coordinators</a></li>
+					</ul>
+				</li> 
+				<li><a href="pmusha">PM-USHA </a></li>
+				<li class="sublinks"> <a href="javascript:void(0)">More </a>
+					<ul class="sub-menu">
+						<li> <a href="committee">Committees </a></li>
+						<li> <a href="calendar">Calendar</a></li> 
+						<li> <a href="notice/tender">Tender</a></li>
+						<!--  <li><a href="javascript:void(0)">ODL Programmes</a></li> -->
+						<li> <a href="directory">Directory</a></li>
+						<li> <a href="nirf">NIRF</a></li>
+						<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/rti/Statutory Declaration under RTI Act 2005.pdf" target="_blank">RTI</a></li>
+						<!-- <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkK1raWl5iTA3u5qxAXaHhR5OEBwuBhMQ-DN5QSxbnqiu42A/formResponse" targer="blank">Alumni</a></li> --> 
+						 <li> <a href="https://www.vbuuniv.in/alumnilandingpage" target="_blank">Alumni</a></li>
+                                                 <li> <a href="https://www.vbuuniv.in/scholarlanding" target="_blank">Research Scholar</a></li>
+                                                 <li> <a href="http://117.211.78.35:8000/lms/ " target="_blank">Library Software</a></li>
+                                                 <li> <a href="http://117.211.78.35/ " target="_blank">Library OPAC</a></li>
+
+						<li> <a href="imp_links">Important Links</a></li>
+					</ul>
+				</li>
+
+				<!-- <li><a href="search">Directory Search</a></li> -->
+				<!-- <li><a href="https://library.vbu.ac.in" target="_blank">Library e-Resources</a></li> -->
+				<!-- <li>					
+				<div class="searchsec">
+				<div class="search"><i class="fa fa-search"></i></div>
+				<input type="text" id="searchInput" class="field" placeholder="Search...">
+				<ul id="dataList" style="display: none;">
+								<li><a href="https://www.vbuuniv.in/vbuexamform/login">DEET (Ph.D.) Admit Card</a></li> 
+								<li><a href="adminlogin">University Admin</a></li>
+								<li><a href="stdlogin">Application Form for Duplicate Marksheet.</a></li>
+								<li><a href="stdlogin">Student Login</a></li> 
+								<li><a href="stdlogin">Apply for Migration</a></li>
+								<li><a href="https://jharkhanduniversities.nic.in/home">Admission</a></li>
+								<li><a href="stdlogin">Application Form for Degree</a></li>
+								<li><a href="academicCalender">Academic Calender</a></li>
+								<li><a href="academicCalender">Sports Calender</a></li>
+								<li><a href="https://vbuuniv.in/vbupayroll/login">HRMS Report/Pay Slip</a></li> 
+								<li> <a href="committee">Committees </a></li>
+								<li> <a href="calendar">Calendar</a></li> 
+								<li> <a href="notice/tender">Tender</a></li> 
+								<li> <a href="directory">Directory</a></li>
+								<li> <a href="nirf">NIRF</a></li> 
+								<li> <a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/rti/Statutory Declaration under RTI Act 2005.pdf" target="_blank">RTI</a></li>
+								 <li> <a href="https://www.vbuuniv.in/alumnilandingpage" target="_blank">Alumni</a></li> 
+								<li><a href="contactus">Contact Us</a></li>
+								<li><a href="https://www.vbuuniv.in">Admit Card</a></li>
+								<li><a href="https://www.vbuuniv.in/vbumarks/login">Marks Entry Panel</a></li>
+								<li><a href="http://result.vbuuniv.in/vbuuniv/student/result/pg/preview">Result Link</a></li> 
+								<li><a href="https://cybervidyapeeth.in/courses/pg-diploma-in-cyber-defense/">Post Graduation Diploma in Cyber Defense</a></li>
+								<li><a href="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/NAAC/SSR 2nd Cycle - JHUNGN11297.pdf">SSR Second cycle</a></li> 
+								<li><a href="stdlogin">Student Login</a></li>
+								<li role="presentation" ><a href="#recent" aria-controls="recent" role="tab" data-toggle="tab">Recent Tabs</a></li>
+								<li role="presentation"><a href="#erp" aria-controls="erp" role="tab" data-toggle="tab">ERP Tabs</a></li>
+								<li><a href="notice/Notice">Notices</a></li>
+								<li><a href="notice/Tender">Tenders</a></li>
+								<li><a href="notice/Article">Articles</a></li>
+								<li><a href="notice/Press">Press</a></li>
+								<li><a href="notice/Vacancies">Vacancy</a></li>
+								<li><a href="notice/Seminar">Seminars</a></li>
+								<li><a href="notice/Question Papers">Questions</a></li>
+								<li><a href="notice/Conference">Conferences</a></li> 
+								<li><a href="notice/Result">Results</a></li>
+								<li><a href="notice/Student Corner">Students Corner</a></li>
+								<li><a href="notice/Download">Downloads</a></li>
+								<li><a href="notice/admission">Admission form</span></a></li>
+								 <li><a href="UGSyllabGE">Syllabus for GE Special Examination (Sem- I to IV) for 2015-18,2016-19,2017-20,2018-21 & 2019-22</a></li>
+					   </ul>
+				   </div>
+				</li> -->
+			</ul>
+        </nav> 
+    </div>
+</div>
+</header>
+<!-- Header Top End -->
+ 
+ 
+	 
+<!-- Breadcrumbs Start -->
+<div class="rs-breadcrumbs bg8 breadcrumbs-overlay">
+    <div class="breadcrumbs-inner">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h1 class="page-title">Sanskrit</h1>
+                    <ul>
+                        <li>
+                            <a class="active" href="login">Home</a>
+                        </li>
+                        <li>Sanskrit</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Breadcrumbs End -->
+
+<div class="rs-gallery sec-spacer">
+    <div class="container">
+        <div class="sec-title-2 mb-50 text-center">
+            <h2 >Sanskrit</h2>
+        </div>
+        <div class="row">
+			<p>Sanskrit is the primary liturgical language of Hinduism, a philosophical language in Buddhism, Hinduism and Jainism, and a literary language that was in use as a lingua franca in the Indian cultural zone. It is a standardized dialect of the Old Indo-Aryan language, originating as Vedic Sanskrit and tracing its linguistic ancestry back to Proto-Indo-Iranian and Proto-Indo-European. Today it is listed as one of the 22 scheduled languages of India and is an official language of the state of Uttarakhand. Sanskrit holds a prominent position in Indo-European studies.</p>
+			<p>The corpus of Sanskrit literature encompasses a rich tradition of poetry and drama as well as scientific, technical, philosophical and religious texts. Sanskrit continues to be widely used as a ceremonial language in Hindu religious rituals and Buddhist practice in the form of hymns and chants.</p>
+			<p>The Department of Sanskrit at VBU was founded in 1994, two years after the university was established in 1992, under the headship of Late Prof.  (Dr.) Hrishikesh Ojha. Sanskrit as a language is believed to be the most ancient language and has blanketed huge reservoir of invaluable knowledge under it. Sanskrit has been catering to the requirements of other subjects too including Mathematics, Philosophy, Science etc. National Aeronautics and Space Agency (NASA) is a firm believer that the 7<sup>th</sup> generation computers will be best suitable with Sanskrit as the Operating Language. Considering these the importance of Sanskrit in the contemporary scientific world becomes indispensible.</p>
+			<hr />
+
+		<table class="table" width="500">
+			<tbody>
+			<tr>
+			<td style="background-color: #c4b3b3;">
+			<h4><em><strong>HOD Sanskrit  &#8211;</strong> <span style="color: #008080;"><strong>Dr. Balbhadra Pathak</strong></span></em></h4>
+			<p><strong>Contact No.</strong> &#8211; 8987791034 / 7004182519</p>
+			<p><strong>E-Mail Address :</strong><br>
+				<a href="mailto:hodsanskrit@vbu.ac.in">hodsanskrit@vbu.ac.in</a><br>
+				<a href="mailto:balbhadarpathak@gmail.com">balbhadarpathak@gmail.com</a>
+			</p>
+			</td>
+			</tr>
+			</tbody>
+		</table>
+		</div>
+		<hr />
+		<div align="center">
+		<h4 >
+			<span style="color: #993366;">Faculty Members</span>
+		</h4>
+		<table style="height: 239px;" width="100%">
+			<tbody>
+				<tr>
+					<td style="background-color: #c4a7a7; width: 276px; padding: 20px;">
+						<p>
+							<img class="aligncenter" src="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/drapathak.JPG"><br>
+							<strong><span style="color: #993300;">Dr. A. Pathak</span></strong><br />
+							<strong>Assistant Professor</strong> <br>
+							<strong>Mobile No</strong>.- 7004182519<br />
+							<strong>Email</strong> &#8211; balbhadrapathak@gmail.com
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="background-color: #c4a7a7; width: 276px; padding: 20px;">
+						<p>
+							<img class="aligncenter" src="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/drnpandey.JPG"><br>
+							<strong><span style="color: #993300;">Dr. N. Pandey</span></strong><br />
+							<strong>Assistant Professor</strong> <br>
+							<strong>Mobile No</strong>.- 9430785619<br />
+							<strong>Email</strong> &#8211; nakulpandey569@gmail.com
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="background-color: #c4a7a7; width: 276px; padding: 20px;">
+						<p>
+							<img class="aligncenter" src="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/dranjumara.JPG"><br>
+							<strong><span style="color: #993300;">Dr. Anjum Ara</span></strong><br />
+							<strong>Assistant Professor</strong> <br>
+							<strong>Mobile No</strong>.- 9430765830<br />
+							<strong>Email</strong> &#8211; arshadalam5917@gmail.com
+						</p>
+					</td>
+				</tr>
+				<!-- <tr>
+					<td style="background-color: #c4a7a7; width: 276px; padding: 20px;">
+						<p>
+							<img class="aligncenter" src="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/drtaraantshula.JPG"><br>
+							<strong><span style="color: #993300;">Dr. Tara ant Shula</span></strong><br />
+							<strong>Assistant Professor</strong> <br>
+							<strong>Mobile No.</strong><br />
+							<strong>Email</strong> &#8211;
+						</p>
+					</td>
+				</tr> 
+				<tr>
+					<td style="background-color: #c4a7a7; width: 276px; padding: 20px;">
+						<p>
+							<img class="aligncenter" src="https://www.vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/drmadammohanpataki.JPG"><br>
+							<strong><span style="color: #993300;">Dr. Madam Mohan Pataki</span></strong><br />
+							<strong>Guest Faculty</strong> <br>
+							<strong>Mobile No.</strong><br />
+							<strong>Email</strong> &#8211;
+						</p>
+					</td>
+				</tr> -->
+			</tbody>
+		</table>
+		<!-- <p><img loading="lazy" class="size-full wp-image-9287 aligncenter" src="http://vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/Sanskrit.jpg" alt="sanskrit" width="712" height="372" sizes="(max-width: 712px) 100vw, 712px" /></p>
+		<p>&nbsp;</p> -->
+		<hr />
+		<h4><span style="color: #993366;">Non Teaching Staffs</span></h4>
+		<p><img loading="lazy" class="size-full wp-image-9290 aligncenter" src="http://vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/Sanskrit-Non-Teaching.jpg" alt="sanskrit-non-teaching" width="490" height="380"
+				srcset="http://vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/Sanskrit-Non-Teaching.jpg 490w,
+						http://vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/Sanskrit-Non-Teaching-300x233.jpg 300w,
+						http://vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/Sanskrit-Non-Teaching-150x116.jpg 150w,
+						http://vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/Sanskrit-Non-Teaching-400x310.jpg 400w" sizes="(max-width: 490px) 100vw, 490px" />
+		</p>
+		<hr />
+		<table class="table">
+			<tbody>
+			<tr>
+			<td style="background-color: #0f07f2; text-align: center;"><span style="color: #ffffff;"><strong>Updates from Sanskrit Department</strong></span></td>
+			</tr>
+			<tr>
+			<td style="background-color: #f6f6f6;"><ul class="lcp_catlist" id="lcp_instance_0"></ul></td>
+			</tr>
+			</tbody>
+		</table>
+		
+			<h4><span style="color: #993366;">Lectures Plans</span></h4>
+			<table class="table">
+				<tbody>
+					<tr>
+						<td style="text-align: center;"><strong>Lecture Plan</strong></td>
+					</tr>
+					<tr>
+						<td ><a href="http://vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/Lecture-Plan-of-Sanskrit.docx">Lecture Plan of Sanskrit</a></td>
+					</tr>
+					<tr>
+						<td ><a href="http://vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/X1.xlsx"> Lecture Plan-Class Routine, Dept. of Sanskrit, V.B.U., Hazaribag Semester-1 &amp; III</a></td>
+					</tr>
+					<tr>
+						<td ><a href="http://vbu.ac.in/ftpwebapps/vbu/resources/vbu_web/dept/sanskrit/X2.xlsx">Lecture Plan-Class Routine, Dept. of Sanskrit, V.B.U., Hazaribag Semester-II &amp; IV</a></td>
+					</tr>
+				</tbody>
+			</table>
+				
+				<h4><span style="color: #993366;">Contact Us</span></h4>
+				<p><span style="color: #993300;"><strong>Dr. T. K. Shukla</strong></span><br />
+				Mobile No. &#8211; 9431993914<br />
+				Email &#8211; hodsanskrit@vbu.ac.in / tarakantshukla@yahoo.com</p>
+	</div>
+
+	</div>
+</div>
+
+						
+	
+					
+  
+
+	
+<!-- Footer Start -->
+<footer class="footersec">
+    <div class="footerbg">
+        <div class="container">
+        	<div class="footerlinks">
+        		<div class="flogo">
+	        		<a href="login">
+	                    <img src="resources/assets/img/logo.png" alt="logo">
+	                    <span>Vinoba Bhave University, Hazaribag</span>                            
+	                 </a>
+	            </div>
+
+	            <div class="fmenu">
+	            	<h4>Quick Links</h4>
+	            	<ul>  
+	            		<li> <a href="gallery">Gallery</a></li>
+                        <li><a href="contactus">Contact</a></li>
+                        <li><a href="administrative">Administrative</a></li>
+                        <li><a href="https://www.vbuuniv.in">Examination</a></li>
+                        <li><a href="committee">Committee</a></li> 
+                    </ul>
+	            </div>
+	            <div class="fmenu">
+	            	<h4>Syllabi</h4>
+                    <ul>
+                        <li><a href="regulation_syllabi">Syllabus & Regulation</a></li>
+                        <li><a href="UGSyllab">Under Graduate</a></li>
+                        <li><a href="UGSyllabNEP">Under Graduate N.E.P.</a></li>
+                        <li><a href="PGSyllab">Post Graduate</a></li>
+                        <li><a href="PhDSyllab">DEET / Ph.D</a></li>                   
+                    </ul>
+	            </div>
+	            <div class="fmenu">
+	            	<h4>More</h4>
+					<ul>
+						<!-- <li> <a href="calendar">Calendar</a></li>  -->
+						<li> <a href="notice/Tender">Tender</a></li> 
+						<li> <a href="directory">Directory</a></li>
+						<li> <a href="nirf">NIRF</a></li>
+						<li> <a href="alumni" targer="blank">Alumni</a></li> 
+						<li> <a href="imp_links">Important Links</a></li>
+					</ul>
+	            </div>
+	            <div class="socials">
+	            	<h4>Social Links</h4>
+					<ul>
+						<li><a href="https://www.facebook.com/VinobaBhaveUniversityOfficial/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/vbuuniversity" target="blank"><i class="fa fa-twitter"></i></a></li>  
+					</ul>
+	            </div>
+
+        	</div>
+        </div>
+    </div>
+     <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.262150710744!2d85.37036771493835!3d24.021819084456272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f49c3430df8d4b%3A0xce1f5650fd147d62!2sVinoba%20Bhave%20University%20Hazaribag!5e0!3m2!1sen!2sin!4v1608898613216!5m2!1sen!2sin"  width="100%"  frameborder="0"></iframe> -->
+    <div class="copyright">
+         © 2023 <a href="https://www.vbu.ac.in/">Vinoba Bhave University</a>. All Rights Reserved. 
+    </div>
+</footer>
+<!-- Footer End -->
+
+<!-- start scrollUp  -->
+ 
+<div id="back-top"> 
+    <a href="#top"><i class="fa fa-angle-up"></i></i></a> 
+  </div>
+
+<!---prio-soft floating contact form-->
+
+<!-- 	<div class='form-parent'>
+		<form name="contact-form" class="cc-float-form">
+			Name:<br />
+			<input class="contact-form-area" id="ContactForm1_contact-form-name" name="name" size="30" value="" type="text" />
+			
+			Email:
+			<span style="color:red;">*</span><br />
+			<input class="contact-form-area" id="ContactForm1_contact-form-email" name="email" size="30" value="" type="text" />
+			
+			Message: <span style="color:red;">*</span><br />
+			<textarea class="contact-form-area"  id="ContactForm1_contact-form-email-message" name="email-message" cols="25" rows="5"></textarea>
+			
+			<input class="contact-form-button contact-form-button-submit" id="ContactForm1_contact-form-submit" value="Send" type="button" />
+		</form>
+	</div> -->
+	
+	
+	<!-- <section class="chatbox js-chatbox">
+	  <div class="chatbox__header">
+	    <h3 class="chatbox__header-cta-text mb-3"><span class="chatbox__header-cta-icon"><i class="fa fa-comments"></i></span>Let's chat</h3>
+	    
+	    <button class="js-chatbox-toggle chatbox__header-cta-btn u-btn"><i class="fa fa-chevron-up"></i></button>
+	  </div>
+	  End of .chatbox__header
+	  <div class="js-chatbox-display chatbox__display">
+		  <p>Hello.</p>
+		    <p>How can i help you ?</p>
+		    <p>Please Enter your Roll No ?</p>
+	  </div>
+	  End of .chatbox__display
+	  <form class="js-chatbox-form chatbox__form">
+	    <input type="text" class="js-chatbox-input chatbox__form-input" placeholder="Type your message..." required>
+	    <button class="chatbox__form-submit u-btn"><i class="fa fa-paper-plane"></i></button>
+	  </form>
+	  End of .chatbox__form
+	</section> -->
+	<!-- End of .chatbox -->
+
+
+
+
+
+
+	<!--/ END Template Main -->
+
+
+	<!-- Footer part of js -->
+	 <!--  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script> -->
+	   
+	  <script src="resources/assets/js/jquery.marquee.min.js"></script>
+	  <script src="resources/assets/js/bootstrap.min.js"></script>
+	  <script src="resources/assets/js/owl.carousel.min.js"></script>    
+	 <!--  <script src="resources/assets/js/slick.min.js"></script> -->
+	  <!-- <script src="resources/assets/js/jquery.magnific-popup.min.js"></script> --> 
+	  <!-- <script src="resources/assets/js/fontsize.js"></script> -->
+	  
+	  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	  <!--  <script  type="text/javascript" src="https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/jquery.nanogallery2.min.js"></script> -->
+	  
+	  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+	 
+	  <script src="https://code.highcharts.com/highcharts.js"></script>
+		<script src="https://code.highcharts.com/modules/data.js"></script>
+		<script src="https://code.highcharts.com/modules/drilldown.js"></script>
+		<script src="https://code.highcharts.com/modules/exporting.js"></script>
+		<script src="https://code.highcharts.com/modules/export-data.js"></script>
+		<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+	  <!-- <script src="resources/assets/js/fontsize.js"></script> -->
+	  <!-- calender js -->
+	   <script src="resources/assets/js/calendar/evo-calendar.min.js"></script>
+   	   <!-- <script src="resources/assets/js/calendar/demo.js"></script> -->
+   
+	  <!-- main js -->
+	  <script src="resources/assets/js/main.js"></script>
+	  <script src="resources/assets/js/wow.js"></script>
+	    <script src="/resources/admin_assets/js/angular-filter.min.js"></script>
+
+	  
+<script>
+$(document).ready(function() {
+	   googleTranslateElementInit();
+	});
+function googleTranslateElementInit() {
+	  new google.translate.TranslateElement( {
+	  pageLanguage: 'en',
+	  includedLanguages: 'en,hi',
+	  layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+	  },
+	  'google_translate_element'
+	  );
+	}
+
+</script>
+
+<script type="text/javascript">
+    //$(document).ready(function() {
+    	
+        // Get references to DOM elements
+        const $search = $(".search");
+        const $searchInput = $("#searchInput");
+        const $dataList = $("#dataList");
+
+        // Toggle focus on search input and show/hide search results container
+        $search.on("click", function(e) {
+        	e.stopPropagation();
+        	$searchInput.addClass("active");
+            $searchInput.focus();
+            $dataList.hide();
+        });
+        
+        $('body').on("click", function() {
+            $searchInput.removeClass("active");
+            //$dataList.show(); 
+        });
+
+        // Function to filter the list based on search input
+        $searchInput.on("input", function() {
+            const searchTerm = $searchInput.val().toLowerCase();
+
+            if (searchTerm) {
+                $dataList.show(); // Show the search results container
+
+                $dataList.find("li").each(function() {
+                    const $dataItem = $(this);
+                    const dataText = $dataItem.text().toLowerCase();
+
+                    if (dataText.includes(searchTerm)) {
+                        $dataItem.show(); // Show the item
+                    } else {
+                    	
+                        $dataItem.hide(); // Hide the item
+                    }
+                });
+            } else {
+                $dataList.hide(); // Hide the search results container
+                
+            }
+        });
+
+        // Hide search results when clicking outside the search area
+        $(document).on("click", function(event) {
+            if (!$(event.target).closest(".searchsec").length) {
+                $dataList.hide(); // Hide the search results container
+            }
+        });
+    //});
+</script>
+<script>
+
+
+
+$(document).ready(function () { });
+
+
+ let size = 15;  
+function setSize() {
+  $(".topmenu > ul > li > a").css("font-size", size + "px");
+  $("p").css("font-size", size + "px");
+  //$("p").text(size);
+}
+
+// Get initial font size
+setSize();
+$(".zoomin").on("click", function() {
+  if (size + 2 <= 24) {
+    size += 2;
+    setSize();
+  }
+});
+
+$(".zoomout").on("click", function() {
+  if (size - 2 >= 13) {
+    size -= 2;
+    setSize();
+  }
+});
+
+
+
+
+ 	$("#back-top").hide();
+    $(function () {
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 200) {
+                $("#back-top").fadeIn();
+            } else {
+                $("#back-top").fadeOut();
+            }
+        });
+        $("#back-top a").click(function () {
+        	 
+            $("body,html").animate({ scrollTop: 0 }, 200);
+            return false;
+        });
+    });
+    
+  $( "body" ).click(function() {
+  $('.navicon').removeClass('active');
+  $('.topmenubg').removeClass('showmenu');
+  });
+
+  $(".navicon").click(function(e) {
+    e.stopPropagation();
+    $(this).toggleClass('active');
+    $( ".topmenubg" ).toggleClass('showmenu');
+  });
+
+  $(".sub-menu").before("<div class='ddclick'></div>");
+  $( ".ddclick" ).click(function() { 
+    $(this).toggleClass('active');  
+    $(this).next().slideToggle(); 
+  });
+  //$(".menuscroll").before("<div class='ddclick'></div>");
+   
+  $(".topmenubg").click(function(e){
+  e.stopPropagation();
+  });
+
+   
+if ($(window).width() < 767) {
+  
+ $(".fmenu > h4").click(function() { 
+    $(this).toggleClass('active');
+    $(this).next().toggleClass('active');
+  });
+  
+};
+ 
+
+
+$(window).scroll(function(){
+  var windowHeights = $(document).scrollTop();
+  if ($(window).width() > 767) {
+    if(windowHeights > 180)
+    {
+      $(".headerbg").addClass('fixed');
+      $(".heighthead").addClass('fixed');
+    }
+    else
+    {
+      $(".headerbg").removeClass('fixed');
+      $(".heighthead").removeClass('fixed');
+    }
+  }  
+});
+
+
+$('.homeslider').owlCarousel({
+    animateOut: 'fadeOut',
+    items:1,
+    margin:0,
+    dots:true,
+    nav:false,
+    //mouseDrag:false,
+    lazyLoad: true,
+    loop:true,
+    autoplay:true,
+    //autoplayTimeout: 7000
+});
+
+
+
+
+$('.importantslide').owlCarousel({
+  //animateOut: 'fadeOut',
+  items:4,
+  margin:20,
+  dots:false,
+  nav:false, 
+  lazyLoad: true,
+  loop:true,
+   //autoWidth:true,
+  autoplay:true,
+  responsiveClass:true,
+  responsive:{
+  0:{
+      items:2, 
+  },
+  600:{
+      items:3, 
+  },
+  1000:{
+      items:4, 
+  }
+  }
+});
+
+$('.testimonialslide').owlCarousel({
+  //animateOut: 'fadeOut',
+  items:2,
+  margin:20,
+  dots:true,
+  nav:true, 
+  lazyLoad: true,
+  loop:true,
+   //autoWidth:true,
+  autoplay:true,
+  responsiveClass:true,
+  responsive:{
+  0:{
+      items:1, 
+  },
+  600:{
+      items:2, 
+  },
+  1000:{
+      items:2, 
+  }
+  }
+});
+
+
+ wow = new WOW({
+  boxClass:     'wow',      // default
+  animateClass: 'animated', // default
+  offset:       0,          // default
+  mobile:       true,       // default
+  live:         true        // default
+})
+wow.init();  
+
+ 
+	setTimeout(function(){
+		$('#line-vertical').marquee({delay:0, timing:30}); 
+		$('#marquee-vertical').marquee({delay:0, timing:20});
+ 
+	
+$('.eventslider').owlCarousel({
+  //animateOut: 'fadeOut',
+  items:3,
+  margin:20,
+  dots:true,
+  nav:true,
+  //mouseDrag:false,
+  //slideBy: 'page',
+  lazyLoad: true,
+  loop:true,
+   //autoWidth:true,
+  autoplay:true,
+  responsiveClass:true,
+  responsive:{
+  0:{
+      items:1, 
+  },
+  600:{
+      items:2, 
+  },
+  1000:{
+      items:3, 
+  }
+  }
+});
+ 
+ 
+	},1500);
+  //$('#marquee-horizontal').marquee({direction:'horizontal', delay:0, timing:10});  
+
+</script> 
+
+<script type="text/javascript">
+var a = 0;
+$(window).scroll(function () {
+    $(".counter-value").each(function () {
+        var e = $(this),
+            t = e.attr("data-count");
+        $({
+            countNum: e.attr("data-default")
+        }).animate({
+            countNum: t
+        }, {
+            duration: 2e3,
+            easing: "swing",
+            step: function () {
+                e.text(Math.floor(this.countNum))
+            },
+            complete: function () {
+                e.text(this.countNum)
+            }
+        })
+    }), a = 0
+}); 
+</script> 
+
+<!-- <script>
+    $(window).on('load', function() {
+        /* $('#myModal').modal('show');
+       setTimeout(function(){$('button.close').click()},30000); */	
+	 
+	  if ($(window).width() < 775) {
+			$('.rs-menu-toggle').click();
+			$("li.menu-item-has-children").on('click', function(e) {
+		         var classExist = $(this).children('ul.sub-menu').hasClass('d-block');
+		         if (classExist) {
+		        	  $(this).children('ul.sub-menu').removeClass('d-block');
+		          } else {
+		        	  $("ul.sub-menu").removeClass('d-block');
+		        	  $(this).children("ul.sub-menu").toggleClass('d-block');
+		          }
+		       });
+		}
+       
+       if ($(window).width() < 775) {
+			$('li.inner-sub-menu').on('click', function() {				
+				var classExist = $(this).find('.__sub-menu').hasClass('__d-block');
+		         if (classExist) {
+		        	  $(this).find('.__sub-menu').removeClass('__d-block');
+		          } else {
+		        	  $("ul.__sub-menu").removeClass('__d-block');
+		        	  $(this).find(".__sub-menu").toggleClass('__d-block');
+		          }
+			});
+		}
+       
+       
+	  
+    });
+ /*    document.addEventListener("contextmenu", function (e){
+        e.preventDefault();
+    }, false); */
+    
+    
+    
+    
+    
+    
+    
+    
+   /*  $(document).on({
+        "contextmenu": function (e) {
+            console.log("ctx menu button:", e.which); 
+
+            // Stop the context menu
+            e.preventDefault();
+        },
+        "mousedown": function(e) { 
+            console.log("normal mouse down:", e.which); 
+        },
+        "mouseup": function(e) { 
+            console.log("normal mouse up:", e.which); 
+        }
+    }); */
+    
+    
+    
+    
+    
+    
+    
+    
+/*     document.onkeydown = function(e) {
+    	 if(event.keyCode == 123) {
+    	 alert("This function has been disabled to prevent you from stealing my code!");
+    	    return false;
+    	 }
+    	 if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
+    	 alert("This function has been disabled to prevent you from stealing my code!");
+    	    return false;
+    	 }
+    	 if(e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) {
+    	 alert("This function has been disabled to prevent you from stealing my code!");
+    	    return false;
+    	 }
+    	 if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
+    	 alert("This function has been disabled to prevent you from stealing my code!");
+    	    return false;
+    	 }
+    	 if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
+    	 alert("This function has been disabled to prevent you from stealing my code!");
+    	    return false;
+    	 }
+    	 if(e.keyCode == 123) {
+             return false;
+         }
+  
+         // disable I key
+         if(e.ctrlKey && e.shiftKey && e.keyCode == 73){
+             return false;
+         }
+  
+         // disable J key
+         if(e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+             return false;
+         }
+  
+         // disable U key
+         if(e.ctrlKey && e.keyCode == 85) {
+             return false;
+         }
+    	} */
+</script>  
+ <script language="JavaScript">
+      
+       window.onload = function () {
+           document.addEventListener("contextmenu", function (e) {
+               e.preventDefault();
+           }, false);
+           document.addEventListener("keydown", function (e) {
+               //document.onkeydown = function(e) {
+               // "I" key
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+                   disabledEvent(e);
+               }
+               // "J" key
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+                   disabledEvent(e);
+               }
+               // "S" key + macOS
+               if (e.keyCode == 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+                   disabledEvent(e);
+               }
+               // "U" key
+               if (e.ctrlKey && e.keyCode == 85) {
+                   disabledEvent(e);
+               }
+               // "F12" key
+               if (event.keyCode == 123) {
+                   disabledEvent(e);
+               }
+           }, false);
+           function disabledEvent(e) {
+               if (e.stopPropagation) {
+                   e.stopPropagation();
+               } else if (window.event) {
+                   window.event.cancelBubble = true;
+               }
+               e.preventDefault();
+               return false;
+           }
+       }
+//edit: removed ";" from last "}" because of javascript error
+</script> -->
+ 
+<!-- <script>
+var app=angular.module('app', []);
+app.controller('contlr',function($scope,$http) {  
+$scope.facultylistshow= function(){
+	$scope.departmentlist = []; 
+	var config = {
+	 params: $scope.search,
+	 headers : {'Accept' : 'application/json'}
+	};
+	$http.get('ng/department/fetch',config)
+	.then(function(res) {
+	if(res.data){	
+		$scope.departmentlist = res.data;	
+	}
+	},function(err) {
+		toastr["error"](err.data.message);
+	});
+}
+$scope.facultylistshow(); 
+}); 
+</script>  -->
+
+  </body>
+
+</html>

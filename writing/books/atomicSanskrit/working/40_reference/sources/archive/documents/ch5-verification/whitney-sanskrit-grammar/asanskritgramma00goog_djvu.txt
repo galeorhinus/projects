@@ -1,0 +1,3916 @@
+Google 
+
+
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project 
+to make the world’s books discoverable online. 
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject 
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books 
+are our gateways to the past, representing a wealth of history, culture and knowledge that’s often difficult to discover. 
+
+Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book’s long journey from the 
+publisher to a library and finally to you. 
+
+
+Usage guidelines 
+
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the 
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to 
+prevent abuse by commercial parties, including placing technical restrictions on automated querying. 
+
+
+We also ask that you: 
+
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for 
+personal, non-commercial purposes. 
+
+
++ Refrain from automated querying Do not send automated queries of any sort to Google’s system: If you are conducting research on machine 
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the 
+use of public domain materials for these purposes and may be able to help. 
+
+
++ Maintain attribution The Google “watermark” you see on each file is essential for informing people about this project and helping them find 
+additional materials through Google Book Search. Please do not remove it. 
+
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just 
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other 
+countries. Whether a book is still in copyright varies from country to country, and we can’t offer guidance on whether any specific use of 
+any specific book is allowed. Please do not assume that a book’s appearance in Google Book Search means it can be used in any manner 
+anywhere in the world, Copyright infringement liability can be quite severe. 
+
+
+About Google Book Search 
+
+
+Google’s mission is to organize the world’s information and to make it universally accessible and useful. Google Book Search helps readers 
+discover the world’s books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GIFT OF 
+
+
+Arthur Garfield Kennedy 
+in memory of 
+
+
+Bertha Miller Kennedy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(५.4... ७. [~~ 
+
+
+` 1८, 2५४ 
+
+
+é 
+
+
+५/4. 27, 1706, 
+
+
+५ 
+
+
+BIBLIOTHEK 
+INDOGERMANISCHER GRAMMATIKEN 
+
+
+BEARBEITET VON 
+
+
+ए, BUOHELER, 2. DELBRUOK, ए, FOY, ए. HUBSOHMANN, 
+A. LESKIEN, G. MEYER, ए. SIEVERS, H. WEBER, W. 2. WHITNEY, 
+2. WINDISOH. 
+
+
+BAND Il. 
+A SanscriT GRAMMAR, INCLUDING BOTH THE CLassicaL LANGUAGE, AND 
+
+
+THE Oxpgr Diatects, or VEDA AND BRAHMANA 
+sy Wiis Dwicat Watney. 
+
+
+THIRD EDITION. 
+
+
+
+
+
+—w 
+
+
+
+
+
+LEIPZIG, 
+DRUCK UND VERLAG VON BREITKOPF & HARTEL. 
+1896. 
+
+
+A 
+SANSKRIT GRAMMAR, 
+
+
+INCLUDING BOTH THE CLASSICAL LANGUAGE, AND THE 
+OLDER DIALECTS, OF VEDA AND BRAHMANA. 
+
+
+BY 
+
+
+WILLIAM DWIGHT WHITNEY, 
+
+
+LATE PROFESSOR OF SANSKRIT AMD COMPARATIVE PHILOLOGY IN KALB COLLEOE, 
+‘MEW-HAVEN, 
+
+
+
+
+
+THIRD EDITION. 
+
+
+THIS WORK 15 COPYRIGHT. 
+
+
+LEIPZIG: 
+BREITKOPF & HARTEL. 
+
+
+BOSTON: 
+GINN & COMPANY. 
+
+
+1896. 
+र 
+
+
+Entered according to Act of Congress, in the year 1879, by W. D. Whitney in the office 
+of the Librarian of Congress at Washington D. C. 
+
+
+491.25 
+
+
+~ W 623 
+ed. 3 
+८.२ 
+
+
+Printers: Breitkopf & Hirtel, Leipzig. 
+
+
+PREFACE 
+
+
+70 THE First Epirion. 
+
+
+
+
+
+It was in June, 1875, as I chanced to be for a day or 
+two in Leipzig, that I was unexpectedly invited to prepare 
+the Sanskrit grammar for the Indo-European series projected 
+by Messrs. Breitkopf and Hartel. After some consideration, 
+and consultation with friends, I accepted the task, and have 
+since devoted to it what time could be spared from regular 
+duties, after the satisfaction of engagements earlier formed. 
+If the delay seems a long one, it was nevertheless unavoid- 
+able; and I would gladly, in the interest of the work itself, 
+have made it still longer. In every such case, it is necess- 
+ary to make a compromise between measurably satisfying a 
+present pressing need, and doing the subject fuller justice 
+at the cost of more time; and it seemed as if the call for 
+a Sanskrit grammar on a somewhat different plan from those 
+already in use — excellent as some of these in many respects 
+are — was urgent enough to recommend a speedy com- 
+pletion of the work begun. 
+
+The objects had especially in view in the preparation 
+of this grammar have been the following: 
+
+1. To make a presentation of the facts of the language 
+primarily as they show themselves in use in the literature, 
+and only secondarily as they are laid down by the native 
+grammarians. The earliest European grammars were by the 
+necessity of the case chiefly founded on their native prede- 
+
+
+
+
+
+
+
+
+
+
+
+PREFACE ix 
+
+
+able to make (unfortunately a very imperfect one) of the im- 
+portant Maitrayani-Sambita. * 
+
+Of the deficiencies of my mork I am, I think, not less 
+fully aware than any critic of it, even the severest, is likely 
+to be. Should it be found to answer its intended purpose 
+well enough to come to another edition, my endeavor will 
+be to improve and complete it; and I shall be grateful for 
+any corrections or suggestions which may aid me in mak- 
+ing it a more efficient help to the study of the Sanskrit 
+language and literature. 
+
+
+Gorua, July 1879. 
+W. D. W. 
+
+
+PREFACE 
+
+
+TO THE SEcoND Epirion. 
+
+
+Ih preparing a new edition of this grammar, I have 
+made use of the new material gathered by myself during 
+the intervening years,** and also of that gathered by others, 
+80 far as it was accessible to me and fitted into my plan;*** 
+and I have had the benefit of kind suggestions from various 
+quarters — for all of which I desire to return a grateful 
+acknowledgment. By such help, I have been able not only 
+to correct and repair certain errors and omissions of the 
+first edition, but also to speak with more definiteness upon 
+
+
+
+
+
+* Since published in full by him, 1881—6. 
+
+** A part of this new material was published by myself in 1885, 
+as a Supplement to the grammar, under the title “Roots, Vorb-Forms, 
+and Primary Derivatives of the Sanskrit Language”. 
+
+*** Especially deserving of mention is Holtzmann’s collection of 
+material from the Mahabharata, also published (1884) in the form of 
+ॐ Supplement to this work; also Buhtlingk’s similar collection from 
+the larger half of the Ramayana. 
+
+
+x PREFACE. 
+
+
+very many points relating to the material and usages of 
+the language. 
+
+In order not to impair the applicability of the referen- 
+ces already made to the work by various authors, its para- 
+graphing has been retained unchanged throughout; for in- 
+creased convenience of further reference, the subdivisions 
+of paragraphs have been more thoroughly marked, by letters 
+(ngw and then changing a former lettering); and the par- 
+agraph-numbers have been set at the outer instead of the 
+inner edge of the upper margin. 
+
+My remoteness from the place of publication has for- 
+bidden me the reading of more than one proof; but the 
+kindness of Professor Lanman in adding his revision (ac- 
+companied by other timely suggestions) to mine, and the 
+care of the printers, will be found, I trust, to have aided 
+in securing a text disfigured by few errors of the press. 
+
+Circumstances beyond my control have delayed for a 
+year or two the completion of this revision, and have made 
+it in some parts less complete than I should have desired. 
+
+
+New-Haven, Sept. 1888. 
+W. D. W. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xvilf Istropeerios. 
+
+
+to be called br&hmansa ‘apparently relating to the brahman 
+or worship). In the White Yajar-Veda, it is separated into 
+a work by itself, beside the sathhit& or text of verses and 
+formulas, and is called the Catapaths-Braihmana Brahmana 
+of a hundred ways. Other similar collections are found. be- 
+longing to various other schools of Vedie study. and they 
+bear the common name of Brahmaga, with the name of the 
+school, or some other distinctive title. prefixed. Thus, the 
+Aitareya and Kausitaki-Brahmanas, belonging to the schools 
+of the Rig-Veda, the Paficaviiga and Sadvinga-Brahmapas 
+and other minor works, to the Sama-Veda; the Gopatha- 
+Br&éhmana, to the Atharva-Veda; and a Jaéiminiys- or Tala- 
+vak&ra-Bréhmays, to the Sama-Veda, has recently ‘Burnell 
+heen discovered in India; the Téittirlya-Brahmana is a col- 
+lection of mingled mantra and br&hmana, like the samhita 
+of the same name, but supplementary and later. These 
+works are likewise regarded as canonical by the schools. 
+and are learned by their sectaries with the same extreme care 
+which is devoted to the satbhit&s, and their condition of 
+textual preservation is of a kindred excellence. To a cer- 
+tain extent, there is among them the possession of common 
+material: a fact the bearings of which are not yet fully 
+understood. 
+
+Notwithstanding the inanity of no small part of their - 
+contents, the Brahmanas are of a high order of interest in 
+their bearings on the history of Indian institutions; and 
+philologically they are not less important, since they re- 
+present a form of language in most respects intermediate 
+between the classical and that of the Vedas, and offer spe- 
+cimens on a large scale of a prose style, and of one which 
+is in the main a natural and freely developed one — the 
+oldest and most primitive Indo-European prose. 
+
+Beside the Brahmanas are sometimes found later ap- 
+pendices, of a similar character, called Aranyakas (forest- 
+sections): as the Aitareya-Arapyake, Taittiriya-Arapyaka, 
+Brhad-Aranyaka, and so on. And from some of these, or 
+even from the Brahmanas, are extracted the earliest Upa~ 
+nigads (sittings, lectures on sacred subjects) — which, 
+
+
+
+
+
+
+
+
+
+
+
+xxii InTropuction. 
+
+
+accordance with approved religious doctrines. All of them 
+seek the same end, the emancipation of the soul from the 
+necessity of continuing its existence in a succession of 
+bodies, and its unification with the All-soul; but they 
+differ in regard to the means by which they seek to attain 
+this end. 
+
+The astronomical science of the Hindus is a reflection 
+of that of Greece, and its literature is of recent date; but 
+as mathematicians, in arithmetic and geometry, they have 
+shown more independence. Their medical science, although 
+its beginnings go back even to the Veda, in the use of 
+medicinal plants with accompanying incantations, is of little 
+account, and its proper literature by no means ancient. 
+
+
+Vv. 
+
+
+CONTENTS. 
+
+
+PREFACR ५ , + + ~ ^ ^ ^-^ = ~ ^ 
+INTRODUCTION. . . . . - . 
+
+
+ALPHABET .. 2... ~ ~ च Wee 
+
+
+System or Sounps; PRONUNCIATION e 
+Vowels, 10; Consonants, 13 ; Quantity, 27; Accent, 28, 
+
+
+|. RoLEs OF EupHonic COMBINATION . 
+
+
+Introdyctory, 34; Principles, 37; Rules of Vowel Com- 
+bination, 42; Permitted Finals, 49; Deaspiration, 53; 
+Surd and Sonant Assimilation, 54; Combinations of 
+Final 8 and r, 66; Conversion of 8 to ह, 61; Con- 
+version of n tom, 64; Conversion of Dental Mutes to 
+Linguals and Palatals, 66; Combinations of Final n, 
+69; Combinations of Final m, 71; the Palatal Mutos 
+and Sibilant, and h, 72; the Lingual Sibilant, 77; 
+Extension and Abbreviation, 78; Strengthening and 
+Weakening Processes, 81; Guna and Vrddhi, 81; 
+YVowel-lengthening, 84; Vowel-lightening, 85; Nasal 
+Increment, 86; Reduplication, 87. 
+
+
+DECLENSION .... .. - } 
+Gender, Number, Case, 88; Uses of the Cases, 89; 
+Endings of Declension, 103; Variation of Stem, 107; 
+Accent in Deolension, 108. 
+
+
+Nouns ann Apsectiyes ... . च 
+Classification ete., 141; Declension I., Stems ina, 112; 
+Declension II., Stems in i and प, 116; Declension 
+IIL, Stems in Long Vowels (4, i, i): A. Root-words 
+ete., 124; Stems in Diphthongs, 130; छ, Derivative 
+Stems etc., 131; Declension IV., Stems in fF or ar, 
+187; Declension V., Stems in Consonants, 144; 
+A. Root-stems etc., 143; 5, Derivative Stems in as, 
+is, as, 163; 0. Derivative Stems in an, 156: D. 
+in in, 161; HB. in ant or at, 163; F. Perfect Par- 
+ticiples in vais, 169; G. Comparatives in yas or 
+yas, 172; Comparison, 173. 
+
+
+
+
+
+Page. 
+v 
+xi 
+1—9 
+0—34 
+4—87 
+88—110 
+111—176 
+
+
+मष ConTEenTs. 
+
+
+Chap. 
+VI. Numenats . . 
+Cardinals, 177; Ordinals otc., 183. 
+
+
+VII. Pronouns .. . . far ean eae 
+Porsonal, 185; Demonstrative, 188; Interrogativo, 
+104; Relative, 196; other Pronouns: Emphatic, In- 
+definite, 196; Nouns used pronominally, 197; 
+Pronominal Derivatives, Possessives etc., 197; Ad- 
+fectives declined pronominally, 199. 
+
+
+VIII. Consuaation . « we eee 
+Voice, Tonse, Mode, Number, Person, 200; Verbal 
+Adjectives and Nouns, 203; Secondary Conjugations, 
+203; Personal Endings, 204; Subjunctive Mode, 209; 
+Optative, 244; Imperative, 243; Uses of the Modes, 
+215; Partioiples, 220; Augment, 220; Reduplication, 
+222; Accent of the Verb, 223. 
+
+
+IX. Toe PResentT-SysTeEM. ^ र च ५ च ५ ees 
+General, 227; Conjugations and onjugation Classes, 
+228} Root-Class (second or adeclass), 281; Re- 
+duplicating Class (third or hu-class), 242; Nasal 
+Class (seventh or rudh-class), 260; nu and u-Classes 
+(fifth and eighth, or su- and tan-classes), 264; nd- 
+Class (ninth or kri-class), 260; a-Clase (frst or 
+Dhii-class), 264; Accented &-Class (sixth or tud- 
+class), 269; ya-Class (fourth or div-class), 271; 
+Accented y&-Olass or Passive Conjugation, 275; 
+So-called tenth or cur-class, 277; Uses of the Pres- 
+ent and Imperfect, 278. 
+
+
+ड, Tae Perrect-System. . = . . . ^ 
+Perfect Tense, 279; Perfect Participle, 291; Modes 
+of the Perfect, 292; Pluperfect, 205; Usos of the 
+Perfect, 295. 
+
+
+XI. Tae Aonist-Systems . . . 
+Classification, 297; I, Simple Aorist: 1. Root-Aorist 
+299; Passive Aorist 3d sing. 304; 2. the a-Aorist, 
+305; IL. 8. Reduplicated Aorist, 308; III. Sibilant 
+Aorist, 313; 4. the s-Aorist, 314; 6. the ig-Aorist, 
+320; 6. the eig-Aorist, 323; 7. the sa-Aorist, 326; 
+Precative, 926; Uses of the Aorist, 328. 
+
+
+
+
+
+NIL Tue Furure-Systems + च च ee = = =" ५ 
+I. Tho 8-Future, 331; Preterit of the e-Future, Con- 
+ditional, 334; I, The Periphrastic Future, 335; 
+Uses of the Futures and Conditional, 337. 
+
+
+
+
+
+Page. 
+
+177—185 
+185—199 
+200—226 
+227—278 
+279—296 
+297—330 
+330—339 
+
+
+ConTEnTs. xxv 
+
+
+Chap. Page. 
+XIII. VERBAL ADJECTIVES AND Nouns: Parrici- 
+
+PLES, INFINITIVES, GERUNDS . . . - 340—360 
+
+Passive Participle in t& or ०६, 340; Past Active 
+
+Participle in tavant, 344; Future Passive Parti- 
+
+ciples, Gerundives, 345; Infinitives, 347; Uses of 
+
+tho Infinitives, 351; Gorunds, 355; Adverbial Gerand 
+
+in am, 359. 
+
+
+XIV. Derivative on SeconDARY ConJUGATION . . 360—391 
+1. Passive, 364; II. Intensive, 362; Present-System, ‘ 
+365; Perfect, Aorist, Future, etc. 370; III. Desider- 
+ative, 372; Present-System, 374; Perfect, Aorist, 
+Future, ९९. 376; IV. Causative, 378; Present-System, 
+380; Porfect, Aorist, Future, ctc., 883; ए. Denom- 
+inative, 386. 
+
+XY. PERIPHRASTIC AND ComMPOUND CONJUGATION 391—403 
+The Periphrastic Perfect, 392; Participial Pertphras- 
+tic Phrases, 394; Composition with Prepositional 
+Prefixes, 395; Other Verbal Compounds, 400. 
+
+
+XVI. INDECLINABLES. . . . 5 “4083—417 
+Adverbs, 403; Prepositions, 414; Conjunetions, 446 ~ 
+Interjections, 417. 
+
+
+XVII. Derivation of DECLINABLE StEMS. . . . . 418—480 
+A. Primary Derivatives, 420; छ. Secondary Deriva- 
+tives, 454. 
+
+
+XVIII. Formation or Coupounp Stems. . . . 480—515 
+
+Classification, 480; I. Copulative Compounds, 485 
+Il. Determinative Compounds, 489; A. Dependent 
+Compounds, 489; B. Descriptive Compounds, 494; 
+IIL, Secondary Adjective Compounds, 601; A. Pos- 
+sessive Compounds, 604 ; BB. Compounds with Governed 
+Final Member, 611; Adjective Compounds as Nouns 
+and as Adverbs, 512; Anomalous Compounds 6414; 
+Stem-finals altered in Composition, 614; Loose 
+Construction with Compounds, 616. 
+
+
+APPENDIX. , 2... „ , ^ + ~ ^ ee + 816-520 
+A. Examples of Various Sanskrit Type, 516; B. Ex- 
+ample of Accentuated Text, 518; Synopsis of the 
+conjugation of roots bhi and kp, 620. 
+
+
+Sanserir-Inpex. © 2. + = + च, + ee ee , 521--539 
+GeneraL-InDEx. © 2 + + = + + „+ ~ + . ee SAO BSL 
+
+
+
+
+
+
+
+
+1.1 1/1. 1 . Raj फ. 
+५ ८1... 81. 1 0 - Big-Veda. 
+
+
+PU. Pracea Upanisad 
+R एकष्य 
+Ragh Raghavais 
+OS. Catkhiyans (riate-Sttra. एति. Rigveda-Prancakkys. 
+RTI. Raja Tarangimi. 
+RV. Rig-Veda 
+3. Simas 
+
+
+
+
+
+1 
+
+DKC. Daza-Kamara-Carita 
+
+ट, Epos ‘MBb. sod B. 
+
+GB. Gopaths Brabmana SV. Sama-Veda 
+
+GG%. Gobbiliya-Grhya-Satr. TA. Taittiriya-Aracyaka. 
+
+
+H. Hitopadegas. ‘TB. Tait 
+
+
+
+
+
+Har, Harivance. TPr. Taittiriya-Praticakbya. 
+J, Jaiminiya ‘or Talavakara)Brab- Tribh. Tribbasyaratna comm. to 
+
+
+8४. 
+
+
+maps. प्रष्ठा). 
+JU, Jaiminiya-Upanisad-Brah- TS. Taittiriya-Sambita. 
+mans. ए. Upanigads. 
+K. Kathaks. V. Vedas (RV., AV., 
+Kap. Kapligthala-Samhita, Vas. Vasistha. 
+
+
+KS. Kaugitaki- (or (/aikbayana-) VBS. Varaha-Brhat-Samhita 
+Brahiwnaps. Vet. Vetalapaiicavingati. 
+
+
+KU. Kaugitaki-Brabmana-Upani- Vikr. Vikramorvaci 
+gud 
+
+
+VPr. Vajasaneyi-Praticakbya. 
+
+
+Kg 
+
+KH. Kaugike-Sttra. V8. Kan. do. 
+
+KH, Katha-Sarit-Sigars. ए, Yajfiavalkya. 
+५10४ Upanigad. 
+
+
+
+
+
+a 
+
+
+. Katydyana-Vrauta-BSiitra, VS. Vajaseneyi-Sanibita. 
+
+
+Kanva-text. 
+
+
+प ^+ 21781. 
+
+
+ALPHABET. 
+
+
+1. Tue natives of India write their ancient and sacred 
+language in a variety of alphabets — generally, in each 
+part of the country, in the same alphabet which they use 
+for their own vernacular. The mode of writing, however, 
+which is employed throughout the heart of Aryan India, or 
+in Hindustan proper, is alone adopted by European scholars: 
+it is called the devandgart. 
+
+
+2 This name 18 of doubtful origin and value. A more comprehensive 
+name is na&gari (perhaps, of the city); and deva-ndgari is nagari of 
+the gods, or of the Brakmans, 
+
+3. Much that relates to the history of the Indian alphabets is still 
+obseure. The earliest written monuments of known date in the country are 
+the insoriptions containing the edicts of Agoka or Piyadasl, of about the 
+middle of the third century ए. 0. They are in two different systems of 
+characters, of which one shows distinct signs of derivation from a Semitic 
+source, while the other is also probably, though much less evidently, of the 
+same origin. From the latter, the Lath, or Southern Acoka character (of 
+Girnar), come the later Indian alphabets, both those of the northern Aryan 
+languages and those of the southern Dravidian languages. The ndgari, 
+devandgari, Bengali, Guzeriti, and others, are varieties of its northern 
+derivatives; and with them are related some of the alphabets of peoples 
+outside of India — as in Tibet and Farther India — who have adopted Hindu 
+culture or religion. 
+
+8, There is reason to believe that writing was first employed in India 
+for practical purposes — for correspondence and business and the like — 
+and only by degrees came to be applied also to literary use. The literature, 
+to a great extent, and the more fally in proportion to its claimed sanctity 
+and authority, ignores all written record, and assumes to be kept in existence 
+by oral tradition alone, 
+
+Whitney, Grammar. 3. ed. 1 
+
+
+
+
+
+
+
+
+3] 1. ALPHABET. 2 
+
+
+8. Of the devandgari itself there are minor varieties, depending on 
+differences of locality or of period, as also of individual hand (seo examples 
+in Weber's catalogue of the Berlin Sanskrit MSS., in Rajendrslala Mitra’s 
+notices of MSS. in Indian libraries, in the published fac-similes of in- 
+scriptions, and so on); and these are in some measure reflected in the type 
+prepared for printing, both in India and in Europe. But a student who 
+makes himself familiar with one style of printed characters will have little 
+difficulty with the others, and will soon learn, by practice, to read the manu- 
+scripts. A few specimens of types other than those used in this work are 
+given in Appendix A. 
+
+&, On account of the difficulty of combining them with the smaller sizes 
+of our Roman and Italic type, the devand&gari characters are used below only 
+in connection with the first or largest size. And, in accordance with the 
+laudable usage of recent grammars, they are, wherever given, also trans- 
+literated, in Clarendon letters; while the latter alone are used in the other 
+sizes. 
+
+4, The student may be advised to try to familiarize himself from 
+the start with the devandgari mode of writing. At the same time, 
+it is not indispensable that he should do so until, having learned the 
+principal paradigms, he comes to begin reading and analysing and 
+parsing; and many will find the latter the more practical, and in the 
+end equally or more effective, way. 
+
+
+5. The characters of the devanfgari alphabet, and the 
+European letters which will be used in transliterating them, 
+are as follows: 
+
+
+short long 
+1g a8 11 a 
+palatal +3 i ५१ ए 
+Vowels: simple ¢ labial sso ou “Ht 
+lingual 12oy “RF 
+dental + ल्‌ 1] (५ q Q 
+diphth { palatal » ठ्‌ € ” > ai 
+"० | abil ज्ञरो ow AY ष्ण 
+Visarga wih 
+Anusvara w =, © 4 or th (see 730). 
+surd surd ssp, sonant- «= son. asp. nasal 
+
+
+guttural vw Hk wu @kh ण्ह »A| gh ATA 
+palatal न्च 6 = Beh »Tj sHjh ~Ah 
+Mutes 1 lingual ग्ट { =@ th »Z qd »G dh गणा 
+dental =aqt s@ th भद्‌ त =» dh न्नम्‌ 
+labial श्प p »Q ph » Gb *भ bh «Am 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ॐ या. उक क सथर, 14 
+& Tie Hom ए > dus item The mend 
+म भी -o be ‘Sermed by 
+‘eourn 2 9 7 7 त  › न 7 gen them 
+Jv ureewure uf che oer. 
+a7. The secumi oui ‘urch पठ each series are aspirates: 
+chus Xemie he suri nore Ww ws have de corresponding 
+sand पयय इने, md उष te wma: न्‌ इ the corres- 
+pending soant mmc: T gh OF (द che preewe char 
+कलषा -क आषा पकस्व ind ieulr 2 devermine 
+ॐ प cee छ + ग oem me -र noes गः तात्य sminds. and 
+९७८ Theatiee “the उष @ ami gb धवत्‌ ok. mr. -3 hevond question. 
+क ase ae doulas, oo vat way ae sari th ‘or example. differs 
+‘oem 2 1 श 3 ए ए. 5 7 ११३ 
+[ sea on ume त 17 1 87 amine bit 
+[शि क क 9 त 5 2 5 1. 1 
+७५५५. ०2०८१ इ कमत पेष, शधो ace भ्ठ -प्णयम्तो crgresemted by the 
+कि ५८. =: sana, 0 mtagee १ “ac Lacm SysGmeme af the similar ancient 
+Ores epee we ae 8.8) 
+ww The woant ०.8. 8 indersod ani ieseribed as made 
+पा ५ अदः say. wth ५ awe epe die Revamd wer che येतद २८ अव mute 
+sewe Sut chece axe gras chavreceal iicutes ia the war af accepting 
+ke eagiaaastum und aume af he dest pauMece पेड भत fem that the modern 
+२५ grvaeneativa i 96 sack a charmer, and ३९.२८ the clement following 
+the ४५० as a “giver Yes”, अयित, or 98 an emzharired दाधा of the 
+pegmang of the saceeniiag sound The qrestiea 19 ome २६ crest diftealty, 
+aml pos it dhe epinivas of the highest anchorites are much at variance. 
+३७७५४ aspitatee are 20:2. :9 uve in Init in the promunciative of the vermacular 
+as weil as 98 2 १ 
+sh By the PrinyaRhyas, che aspirates of beth clanves are <aDed sogman : 
+७६८) weight meas either arveparind Sy 6 rusk of breath (taking figman 
+iw ie were व जहतः erage). ५८ aecevenpanied by @ spirant (below, 58). 
+Awd avme wative szthurities dedize the surd aspirates as made by the combi- 
+७९६१७ of coud sunk men-aspirate with its own corresponding urd spirant; and 
+Abo wxant कहर, of each somamt nen-aspirate with the sonant spirant, the 
+००५५५ (doles, GS Bat this wenld make ue two classes of aspirates of 
+qulte dlveres character, ant would also make th thé same as ts, {h as tq, ch 
+aa ey , is te any measere plausible only of the last. Panini has no 
+mame 3 the echeme given im his comment (to i 4. 9) attributes 
+^~ ५५७७ MARMARA grout expcretivn, amd to the non-aspinstes alpapréiga 
+|. +) 
+Jv ie usual among Buropean scholars to pronounce 
+
+
+pees of aspirates as the corresponding non-aspirates 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5é—] Il. System or Sounns. 20 
+
+
+66. The y is by its physical character a palatal utterance; and 
+it is classed as & palatal semivowel by the Hindu phonetists. It is 
+one of the most common of Sanskrit sounds. 
+
+
+57. The qv is pronounced as English or French ९ 
+(German w) by the modern Hindus — except when preceded 
+by a consonant in the same syllable, in which case it has 
+rather the sound of English ४; and European scholars follow 
+the same practice (with ot without the same exception). 
+
+
+a, By its whole treatment in the euphony of the language, however, 
+the v stands related to an u-vowel precisely as y to an s-vowel. It 
+is, then, a » only according to the original Roman value of that 
+letter — that is to say, a w-sound in the English sense; though (as 
+was stated above for the ऊ) it may well have becn less markedly 
+separated from ४ than English चठ, or more like French ow in oui etc. 
+But, as the original w has in most European languages been changed 
+to ० (English), so also in India, and that from a very early time: the 
+Paninean scheme and two of the Pratigakhyas (VPr. and TPr.) distinctly 
+define the sound as made between the upper teeth and the lower 
+lip — which, of course, identifies it with the ordinary modern v-sound. 
+As a matter of practice, the usual pronunciation need not be seriously 
+objected to; yet the student should not fail to note that the rules of 
+Sanskrit euphony and the name of “semivowel” have no application 
+except to a w-sound in the English sense: a v-sound (German ९०) is 
+no semivowel, but a spirant, standing on the same articulate stage 
+with the English th-sounds and the f. 
+
+
+58. The ए is classed as a labial semivowel by the Hindu phonet- 
+ical authorities. It has a somewhat greater frequency than the y. 
+
+
+a. In the Veda, under the same circumstances as the y (above, 56 a), 
+v is to be read as a vowel, प. 
+
+
+b. As to the interchange of v and b, see above, 50a. 
+
+59. Spirants. Under the name Ogman (literally heat, 
+steam, flatus), which is usually and well represented by 
+spirant, some of the Hindu authorities include all the remain- 
+ing sounds of the alphabet; others apply the term only to 
+the three sibilants and the aspiration — to which it will here 
+also be restricted. 
+
+
+8, The term is not found in the Paninean scheme; by different treatises 
+the guttural and labial breathings, these and the visarga, or all those and 
+anusvara, are also (in addition to the sibilants and h) called igman (see 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+प्र] II. System or Sounps. 26 
+
+
+० It is convenient also in transliteration to distinguish the as- 
+similated m by a special sign, rh, from the anusvdra of more inde- 
+pendent origin, 4; and this method will be followed in the present work. 
+
+
+74, This is the whole system of sounds recognized by the written 
+character; for certain other transitional sounds, more or less widely 
+recognized in the theories of the Hindu phonetists, see below, 230. 
+
+
+75. The whole spoken alphabet, then, may be arranged 
+in the following manner, in order to show, so far as is 
+possible in a single scheme, the relations and important 
+classifications of its various members: 
+
+
+a, @ 
+फन ७५७ 
+९ ९ 
+oe “~ % Vowels 
+* % 
+i, i HE lou, a 
+५४ 4 a ५ ० ज 
+Son. y Tr 1 v Semivowels 
+५ ५५ क on 
+a a 2 n m Nasals 
+= ra on ५ 
+a Anusvara 
+« 
+Aspiration 
+ve 
+h Visarga 
+१५ 
+Burd | ९ a a Sibilants 
+1 Ms 6 
+gh jh dh dh bh asp. 
+1 at 3 a iat 
+Son. | [1 j qd dad ४ unasp. 
+ey ५ a २५ “ 
+kh ch th th ph asp, | Mutes 
+“ow * os ५ 
+Surd | k c t t ए unasp. 
+ie = oo 6 
+Gutt. Pal, Ling. Dent. Lab. 
+
+
+a. The figures set undor the characters give the average per- 
+centage of frequency of each sound, found by counting the number 
+of times which it occurred in an aggrogate of 10,000 sounds of con- 
+tinous text, in ten different passages, of 1,000 sounds each, selected 
+from different epochs of the literature: namely, two from the Rig-Veda, 
+one from the Atharva-Veda, two from different Brahmanas, and one 
+each from Manu, Bhagavad-Gita, Cakuntala, Hitopadega, and Vasa- 
+vadatta (J.A.0.8., vol. X., p. cl). 
+
+
+
+
+
+¶१९-] Il. System or Sounps. 28 
+
+
+making a heavy syllable. The last syllable of a pada (pri- 
+mary division of a verse) is reckoned as either heavy or 
+light. 
+
+a. The distinction in terms between the difference of long and short in 
+
+
+vowel-sound and that of heavy and light in syllable-construction is valuable, 
+and should be observed. 
+
+
+IV. Accent. 
+
+
+80. The phenomena of accent are, by the Hindu gram- 
+marians of all ages alike, described and treated as depend- 
+ing on a variation of tone or pitch; of any difference of 
+stress involved, they make no account. 
+
+81. The primary tones (svara) or accent-pitches are two: 
+a higher (udatta raised), or acute; and a lower (anudétta 
+not raised), or grave. A third (called svarita: a term of 
+doubtful meaning) is always of secondary origin, being (when 
+not enclitic: see below, 85) the result of actual combination 
+of an acute vowel and a following grave vowel into one 
+syllable. It is also uniformly defined as compound in pitch, 
+a union of higher and lower tone within the limits of a 
+single syllable. It is thus identical in physical character 
+with the Greek and Latin circumflex, and fully entitled to 
+be called by the same name. 
+
+
+88. Strictly, therefore, there is but one distinction of tone in the 
+Sanskrit accentual system, as described by the native grammarians 
+and marked in the written texts: the accented syllable is raised in tone 
+above the unaccented; while then further, in certain cases of the 
+fusion of an accented and an unaccented element into one syllable, 
+that syllable retains the compounded tone of both elements. 
+
+88. The svarita or circumflex is only rarely found on a pure long 
+vowel or diphthong, but almost always on a syllable in which a vowol, 
+short or long, is preceded by a y or v representing an originally acute 
+i- or u-vowel. 
+
+a. In transliteration, in this work, the udatta or acute will be 
+marked with the ordinary sign of acute, and the svarita or circumflex 
+(as being a downward slide of the voice forward) with what is usually 
+called the grave accent: thus, 4, acute, ya or va, circumflex. 
+
+
+29 Accent. स [-85 
+
+
+84. The Pritigakhyas distinguish and name separately the circumflexed 
+tones arising by different processes of combination: thus, the circumflex is 
+called 
+
+a. Kedipra (quick), when an acute i- or u-vowol (short or long) is 
+converted into y or v before a dissimilar vowel of grave tone: thus, vyapta 
+from vi-Apta, apsvantér from apsu antar. 
+
+b. J&tya (native) or nitya (own), when the same combination les 
+farther back, in the make-up of ५ stem or form, and so is constant, or 
+belongs to the word in all circumstances of its occurrence: thus, kva (from 
+kia), svar (इः), nydk (nfak), budhnya (budhn{a), kanya (kan{a), 
+nadyas (nadi-as), tanva (tanti-a). 
+
+c. The words of both the above classes are in the Veda, in the great 
+majority of cases, to be read with restoration of the acute vowel as a separate 
+syllable: thus, apsd antér, salar, nadias, ctc. In somo texts, part of 
+them are written correspondingly: thus, sivar, tanava, budhniya. 
+
+त. Pragligts, when the acuto and grave vowels are of such character 
+that they are fused into a long vowel or diphthong (128 c): thus, divi ’va 
+(RV. AY. ete.), from divi iva; siidgata (TS.), from sh-udgata; nai ‘va 
+*gniyat ((B.), from n& eva agniyat. 
+
+७. Abhinihita, when an initial grave a is absorbed by a final acute 
+6 or 6 (186): thus, té ‘bruvan, from té abruvan; 80 ‘bravit, from _ 
+86 abravit. 
+
+
+
+
+
+85. But further, the Hindu grammarians agree in de- 
+claring the (naturally grave) syllable following an acute, 
+whether in the same or in another word, to be svarita or 
+circumflex — unless, indeed, it be itself followed by an 
+acute or circumflex; in which case it retains its grave 
+tone. This is called by European scholars the enclitic or 
+dependent circumflex. 
+
+
+& Thus, in téna and té ca, the syllable na and word ca are 
+regarded and marked as circumflex; but in téna té and té ca svar 
+they are grave. 
+
+b. This seems to mean that the voice, which 1s borne up at the higher 
+Pitch to the end of the acute syllable, does not ordinarily drop to grave 
+Pitch by an instantaneous movement, but descends by a more or less per- 
+ceptible slide in the course of the following syllable. No Hindu authority 
+suggests the theory of a middle or intermediate tone for the enclitic, any 
+more than for the independent ciroumflex. For the most part, the two are 
+identifled with one another, in treatment and designation. The enclitic 
+circumflex is likewise divided into a number of sub-varieties, with different 
+names: they are of too little consequence to be worth reporting. 
+
+
+ॐ8- | आ. Srerem vt उ ॐ 
+
+
+86. The च्छा difference ५ te rey kinds छ cirommiier is 
+shown clearly envngi by tbe face 1. the indepensemt ecreamiiex 
+takes the place of the sects a8 tie propir अदयः of a word while 
+the enclitic is the mere thaduw folowing aa acute. apd following it 
+im spother word precisely as ix the same word: 2 tbe independent 
+circumflex maivtsins its character im a sitcativus whik the eeclitic 
+before > following ciremafiex or acu ketes is cirecmfex character. 
+and becomes grave: murourer, 3. in many of the sysems of marking 
+accent below. 88. the two are quite differenty indiead 
+
+87. The ace-ptustiva is marked ic mamuserip:s only of the older 
+literature: wamely. im tbe primary Vedie texu. or sathhitas in two 
+off the Brabmazas Taiztiriva and (atepatha . in the Taittir-ya-Arasyaka. 
+in certain passages of the Aitareya-Arazyaka ard in the Suparnadiyaya. 
+There are भ number of nxthods of writing accent. more or leas different 
+from one another: the one found in manuseripts of the Rig-Veda. 
+which is most widely known. and of which most of the others are 
+only slight modificatio-s. is as follows. 
+
+a. The acute syllable is Jeft unmarked: the cireumflex. whether 
+independent or enciitic, has a short perpendicuiar stroke above; and 
+the grave next preceding an acute or independent, circumflex has a 
+short horizontal stroke beiow. Thus. 
+
+Aa agnim; FEAT juhoti; नुन्वा tanvé: Gh kv 
+
+४. But the introductory grave stroke below cannot be given if an 
+acute syllable is initial; hence an unmarked syllable at the beginning 
+of a word is to be understood as acute; and hence also, if several 
+
+
+grave syllables precede an acute at the beginning of a sentence, they 
+must all alike have the grave sign. Thus, 
+
+
+FH व्ण; ते ८६; HATA karigyasi; TATA पण्ड. 
+
+७. All the grave syllables, however, which follow a marked cir- 
+cumflex are left unmarked, until the occurrence of another accented 
+syllable causes the one which precedes it to take the preparatory 
+stroke below. Thus, 
+
+सीक्‌ भप; 
+but सुटृशीकंटगावाम्‌ sudfetkasahdre gévam. 
+
+त. If ४० independent circumflex be followed by an acute (or by 
+
+another independent circumflex), a figure 1 is set after the former 
+
+
+circumflexed vowel if it be short, or a figure 3 if it be long, and the 
+signs of accent are applied as in the following examples: 
+
+
+अ्रप्स्वरत्तः apsv aintah (from apsa antah); 
+TRAP: rayds कः (from मच्छ avinih). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9-] If. EvrHonic CompraTion. 34 
+
+
+97. In this work, the accent of each word and form will in 
+general be marked, so far as there is authority determining its place 
+and character. Where specific words and forms are quoted, they 
+will only be so far accentuated as they are found with accent in 
+accentuated texts. 
+
+
+CHAPTER IIL 
+
+
+RULES OF EUPHONIC COMBINATION. 
+
+
+Introductory. 
+
+
+98. The words in Sanskrit, as in the other languages related 
+with it, are in great part analysable into roots, suffixes of derivation, 
+and endings of inflection, these last being added mostly to stems 
+containing suffixes, but also sometimes directly to roots. 
+
+&. There are, of course, a certain number of uninflected words — 
+indeclinables, particles; and also not a few that are incapable of analysis. 
+
+99. The Sanskrit, indeed, possesses an exceptionally analysable 
+character; its formative processes are more regular and transparent 
+than those of any other Indo-European tongue. Hence the prevailing 
+method of the Hindu native science of grammar, which sets up a 
+certain body of roots, and prescribes the processes by which these 
+may be made stems and words, giving the various added elements, 
+and laying down the rules by which their combination is effected. And 
+the same general method is, for like reason, followed also by European 
+grammarians. 
+
+100. The euphonic laws, accordingly, which govern the combination 
+of suffix or of ending with root or stem, possess a high practical im- 
+portance, and require to be laid down in preparation for the topics 
+of declension and conjugation. 
+
+
+
+
+
+101. Moreover, the formation of compounds, by joining two or 
+more simple stems, is extremely frequent in Sanskrit; and this kind 
+of combination has its own peculiar euphonic rules. And once more, 
+in the form of the language as handed down to us by its literature, 
+the words composing a sentence or paragraph are adapted to and 
+combined with one another by nearly the same rules which govern 
+the making of compounds; so that it is impossible to take apart and 
+understand a Sanskrit sentence without knowing those rules. Hence 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39 GENERAL PRINCIPLES. (-117 
+
+
+inflection ; the rules of external combination may better be left untouched 
+until he comes to dealing with words in sentences, or to translating, Then, 
+however, they sre indispensable, sinco the propor form of the words that 
+compose the sentence is not to be determined without them. 
+
+
+a. The general principles of combination underlying the euphonic 
+rules, and determining their classification, may be stated as follows: 
+
+118. Hiatus. In general, hiatus is forbidden; every 
+syllable except the initial one of a sentence, or of a word 
+or phrase not forming part of a sentence, must begin with 
+a consonant (or with more than one). 
+
+a. For details, and for exceptions, see 125 ff. 
+
+
+४, In the earlier language, however, histus in every position was 
+abundantly admitted. This appears plainly from the mantras, or metrical 
+parts of the Veda, where in innumerable instances y and v are to be read 
+as 1 and u, and, less often, a long vowel 15 to be resolved into two vowels, 
+in order to make good the metre: 6. g., vary&na&m has to be read as 
+varl-J-ne-im, svagvyam as su-ag-vi-am, and so on. In the Brshmanas, 
+also, we find tvac, svar, dydus describod as dissyllables, vyaima and 
+satyam as trisyllables, rajanya as of four syllables, and the like. See 
+further 129 e. 
+
+114. Deaspiration. An aspirate mute is liable to 
+lose its aspiration, being allowed to stand unchanged only 
+
+
+before a vowel or semivowel or nasal. 
+
+
+115. Assimilation. The great body of euphonic 
+changes in Sanskrit, as elsewhere, falls under the general 
+head of assimilation — which takes place both between 
+sounds which are so nearly alike that the difference 
+between them is too insignificant to be worth preserving, 
+and between those which are so diverse as to be practically 
+incompatible. 
+
+116. In part, assimilation involves the conversion of 
+one sound to another of the same series, without change of 
+articulating position; in part, it involves a change of position, 
+or transfer to another series. 
+
+
+117. Of changes within the series, the most frequent and im- 
+portant occur in the adaptation of surd and sonant sounds to one 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+49 PERMITTED FINALS. (-141 
+
+
+Permitted Finals. 
+
+
+189. The sounds allowed to occur as finals in Sanskrit 
+words standing by themselves (not in euphonic combination 
+with something following) are closely limited, and those 
+which would etymologically come to occupy such a position 
+are often variously altered, in general accordance with their 
+treatment in other circumstances, or are sometimes omitted 
+altogether. 
+
+
+8 The variety of consonants that would ever come at the end of either 
+an inflected form or a derivative stem in the language is very small: namely, 
+in forms, only t (or ते), n, m, 8; in derivative stems, only t, d, n, r, 8 
+(and, in a few rare words, j). But almost all cousonants o-cur as finals 
+of roots; and every root is liable to be found, alone or as last member of 
+& compound, in the character of a declined s:em. 
+
+140. All the vowel sounds, both simple and diphthongal, 
+may be sounded at the end of a word. 
+
+
+a. But neither दृ nor ] ever actually occurs; and कृ is rare (only as 
+neuter sing. of a stem in दृ or ar, or as final of such a stem in composition). 
+
+
+Thus, indra, givaya, akari, nadi, datu, cami, janayitf, 4gne, 
+Givayai, vayo, agnau. 
+
+141. Of the non-nasal mutes, only the first in each series, 
+the non-aspirate surd, is allowed; the others —surd aspirate, 
+and both sonants— whenever they would etymologically 
+occur, are converted into this. 
+
+Thus, agnimét for agnimath, subjt for suhfd, virdt for viradh, 
+trigfap for trig}ubh. 
+
+a. In a few roots, when their final (sonant aspirate) thus 
+loses its aspiration, the original sonant aspiration of the 
+initial reappears: compare & ४, below, 147. 
+
+Thus, dagh becomes dhak, budh becomes bhut, and 80 on. 
+
+The roots exhibiting this change are stated below, 155. 
+
+
+b. There was some question among the Hindu grammarians ss to 
+whether the final mute is to be estimated as of surd or of sonant quality; 
+but the great weight of authority, and the invariable practice of the manu- 
+scripts, favor the surd, 
+
+Whitney, Grammar. 3. ed. 4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+170-| TIL Evruonic Comminarion. 58 
+
+
+170. ५, The 4, as already noticed (145), becomes 
+visarga before a pause, 
+
+b. It is retained unchanged only when followed by 
+At or 7 th, the surd mutes of its own class. 
+
+ec. Before the palatal and lingual surd mutes च्‌ ° and 
+ङ्‌ ch, Z f and द्‌ th—it is assimilated, becoming the sibilant 
+of either class respectively, namely शु ¢ or चृ इ. 
+
+घ, Before the guttural and labial इष्यते mutes — कू ४ and 
+ल्‌ kh, पए and पू्‌ ph—it is also theoretically assimilated, 
+becoming respectively the jihvimiliya and upadhminiya 
+spirants (69); but in practice these breathings are unknown, 
+and the conversion is to visarga. 
+
+Examples are: to b, tatas te, cakgue te; to ९, tatag oa, tasyag 
+chy; padag talati; to त, nalay kamam, purugah khanati; yagah 
+prapa, vrkeah phalayvan, 
+
+171. The first three of these roles are almost universal; to the 
+last one there are numerous exceptions, the sibilant belog retained (or, 
+by 180, converted into 9), especially in compounds; but also, in the 
+Veda, even in sentence combination. 
+
+a, In the Veda, the retention of the sibilant in compounds fa the genéral 
+Tule, the exceptlone to which are detailed in the Vodle grammars, 
+
+४, In the lator language, the retention is mainly determined by the 
+ntimacy or the antiquity and frequency of the combination. Thus, the inal 
+sibilant of « proposition or ५ word Milling the offles of + preposition bafore 
+a verbal root is wont to be preserved; and that of a stem before a derivative 
+of Ykp, before pati, before kalpa and kiima, and 40 on. Examples are 
+namaskara, vacaspati, dyugkéma, paynskalpa. 
+
+©. Tho Vedio rotention of tho sibiiant im sentence-collocation ts detailed 
+in fall in the Pratighkhyas, The ehiof classes of cases ate: 1. the final of 
++ proposition or fte like before a verbal form; 2 of « genitive beforn + 
+
+
+governing noun: as पप putrdb, 185 padé; 5. of an ablative before 
+himévatas other less classifiable cases: a5 करप 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+261—] TV. Decrexston. 88 
+
+
+CHAPTER IV. 
+
+
+DECLENSION. 
+
+
+261, The goveral subject of declension includes nouns, adjectives, 
+and pronouns, all of which are inflected in ossentially the same manner. 
+But while the correspondence of nouns and adjectives is 80 close that 
+they cannot well be separated in treatment (chap. V.), the pronouns, 
+which exhibit many pecularities, will be best dealt with in a separate 
+ebapter (VIL); and the words designating number, or numerals, also 
+form class peculiar enongh to require to be presented by them- 
+solves (chap. VI). 
+
+
+262. Declensional forms show primarily case and num- 
+ber; but they also indicate gender—since, though the 
+distinctions of gender are made partly in the stem itself, 
+they also appear, to no inconsiderable extent, in the changes 
+of inflection. 
+
+263. Gender. The genders are three, namely mascu- 
+line, feminine, and neuter, as in the other older Indo-Euro- 
+pean languages; and they follow in general the same laws 
+of distribution as, for example, in Greek and Latin. 
+
+a. Tho only words which show mo sign of gender-distinetion are the 
+personal pronouns of the first and second person (491), and the numerals 
+above four (483). 
+
+264. Number. The numbers are three — singular, dual, 
+and plural. 
+
+& A fow words are asod only fn the plural: ss dards wife, dpas water; 
+tho numeral dva feo, is dual only; and, as in other languages, many words 
+are, by the nature of their uso, found to occur only in the singular, 
+
+266. As to the uses of the numbers, it needs only to bo remarked 
+that the dual is (with only-very rare and sporadic exceptions) used 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+288 | TY, Decuzsxsion. 98 
+
+
+n& ‘sti dhanyataro mama (ii.) there i no one more fortunate than I 
+(व my superior in fortune); putrath mama pr&pair gariyasam 
+(MBh.) @ son dearer than my life. 
+
+A, Occasionally, an ablative ix used instead of > partitive genitive: 
+thus, mithundd ekath jaghina (R.) te slew “one out of the pair; 
+tebhya ekam (KSS.) one of them. 
+
+203. The ablative Is used with = varicty of propositions and words 
+sharing > propositional charactor (1126); but ol) these haye rather an ail- 
+verbial value, as streagthoning or defining the fromerolation, than any 
+Proper governing force, We may notice here: 
+
+a. In the Veda, Adhi and pari arc much used as directing end strength~ 
+ening adjuncts with the ablative: as, 1865 himdvatas piri (AV.) born 
+from the Himalaya (forth); sumudrad &dhi jajiige (AV.) thow art 
+bora from the ocean; cérantath pari tasthagah (RY.) moving Sorth 
+fron that which stands fast. 
+
+४. Also purd (and purds), in the sense of forward from, aud henee 
+before: > purk Jdrasah (RY-) before old age: and hence also, with 
+words of protection and the like, from: as gugaméinah puri nidih 
+(BY.) securing from iR-will. 
+
+९. Also द, in the sense of Aither from, all the way from: as, & miilad 
+4nu guyyata (AV.) let it dry completely up from the root: thamad & 
+nadyo ndma stha (AYV.) since that tine ye are called rivers, But पा 
+ally, and especially in the Inter language, the méasurement of interval 
+implied in & is reversed in direction, and the constraction moans all the 
+way to, untit: as yati girfbhya & samudrat (RV.) going from the 
+mountains to the ocean; & "sy& ऊष 4059 "dgcak (VS,) until the end of 
+this sacrifice; & godagit (M.) till the sixteenth year; & praddnat (0) 
+until her marriage. 
+
+204. Uses of the Genitive, a The proper value of the 
+gonitive 18 adjectival; it belongs to and qualifies a noun, designating 
+somothing relating to the latter in a manner which the pature of the 
+ease, or the connection, defines more nearly. Other genitive con- 
+structions, with adjective or verb or preposition, appear to arise out 
+of this, by 4 more or loss distinctly traceable connection, 
+
+४, The use of the genitive has become much extended, espe- 
+लमा in the later language, by attribution of a noun-character to the 
+adjective, and by pregnant verbal construction, so that it often bears 
+the aspect of being s substitute for other vases —as dative, instru- 
+mental, ablative, locative. 
+
+
+385, The genitive in its normal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+307—| TY. Decuension, 104 
+
+
+b. In the acousative, m or am is the mase. and fem. ending 
+—am being added after a consonant and दृ, and ufter इ and त in the 
+radical division, and m elsewhere after vowels. ‘Tho neuter accusative 
+ia like the nominative. 
+
+ठ, The instrumental ending for all goudors ulike is & With 
+final i- aud u-vowels, the ह is variously combined, and in the older 
+language it is sometimes lost by contraction with them. Stems in a 
+make the case end in ena (sometimes ena in ए}, and those in & make 
+it end in व्ह; but instances occur, in the early language, of tmmediate 
+addition of & to both a and ह. 
+
+
+a. The dative ending is in general o; and with it likewise the 
+modes of combination of i and u final arc various (and disappearance 
+by contraction not unknown in the oldest language). The a-atems 
+are quite irregular in this case, making it end in dya— excepted is 
+the pronominal element -sma, which combines (apparently) with ह to 
+"कक्षो, [n the personal pronouns is found bhyam (or hyam). 
+
+
+e. A fuller ending ai (like gon.-abl. &s and loc. im: seo below) 
+belongs to feminine stems only, Lt is taken (with interposed ऊ) by 
+the great class of those im derivative &; also by those in derivative 3, 
+and {as reckoned in the later language) in derivative च, And later 
+it is allowed to be taken by feminine atoms in radical इ and ठ, and 
+eyen by those in i and प; these last have it in the earliest language 
+in only excoptional instances. For the substitution of i for abl.-gen. 
+&s, soc below, h. 
+
+
+# Tho ablative has a special ending, d (ort), only in a-stems, 
+masc. and neut., the a being lengthened before it (except in the per- 
+sonal prononos of ist and 2d person, which have the same ending 
+at fu the pl. and even, in the old language, in the dual). Everywhere 
+else, the ablative is identical with the genitive, 
+
+
+g. The genitive of a-stems (snd of one pronominal u-stem, 
+amu) adds sya. Elsewhere, the usual abl.-gen. ending is as; but its 
+irregularities of treatment in combination with a stem-final are con- 
+siderable, With i and u, it is either directly added (only in the old 
+language), added with interposed n, or fused to es and os respect- 
+ively. With y (or ar) it yields ur for us: 169 b). 
+
+h. The fuller de is taken by feminine stems precisely ay Ai is 
+tuken in the dative: soc above. But in the language of the Brab- 
+mapas and Sitras, the dative-ending ai is regularly and eou 
+instead of Gs, both of ablative and of genitive. Ss 
+
+i. The locative ending is i in co 
+[पिभ with a to 
+final vowel is save 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+383- ] V. Nouns axp पतय, 112 
+
+
+ड, ‘This class is cxscntially only + spocial class of compound adjectives, 
+since in the earliest Vode the simple ४३ well ३३ the compounded root was 
+sometimes used aljectively, But the compounded root was from the beginning 
+much more often so used, and the later the more exclusively, so that 
+practically the class is > separate and important ove, 
+
+324. Compound adjectives having a noun as final member, but 
+obtaining sa adjective sense secondarily, by having the idea of 
+possession added, and being inflected as adjectives in the three gen- 
+ders (1293). Thus, prajakAmA desire of progeny, whence the ad- 
+jective prajdkama, meaning desirous (i. 0. having desire) of progeny; 
+sabhirya (sa-}bhirya) hacing one's wife along; and 8० on. 
+
+8, In a few cases, also, the final nown is syntactically object of the 
+preceding member (1309-10): thus, atimatra immoderate (ati mitram 
+beyond measure); yavayaddvegas driving away enemies. 
+
+325. Hence, under each declension, we have to notice how a 
+root or a noun-stem of that declension is infleeted when final member 
+of an adjective compound, 
+
+a. As to accent, it needs only to be remarked here that a root- 
+word ending ४ compound hus the accent, but (820) loses the pecu- 
+arity of monosyllabic accentuation, and does not throw the tone 
+forward npon the ending (except afic in certain old forms: 410), 
+
+
+Deelension |. 
+Stems (masculine and neuter) in 7 a. 
+
+
+326. a. This declension contains the majority of all the 
+declined stems of the language. 
+
+b, Its endings deviate more widely than any others 
+from the normal. 
+
+927. Endings: Singular, &, The tom, १०१७९. has the normal 
+ending 8. 
+
+४५ Tho २०९, (masc. and nevt.) adds m (not am); and this form has 
+the office also of nom, neuter, 
+
+©+ The instr, changes & to ena uniformly in the later language; and 
+even in the oldest Vedic this is the predominant endivg (in RV, eight 
+ninths of all casea), Its final ts in Vedio verse frequently made Tong (ena), 
+But the normal ending #—thus, valid, (fer yajfiéna 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+336- ] ए. Nouns axp Apseorives. 118 
+
+
+ॐ, The yoo. gunates the final of the stem, in mast, and fem, alike 
+fn the earllor and in the later language. In the nout., it is later allowed 
+to be either of the same form or the unsitered stem; and this was probably 
+fhe usage in the older time also; not Instances enough are quotable to 
+determine the question (AV. has u once, and VS. 9 once). 
+
+
+387. Dual. a, Tho later and earlier language agree in making tho 
+१०.-५९९.700, mase, and fem, by lengthening the final of the stem. The 
+same cases in the neuter (according to the rule given above) end lator in 
+ini and uni; but these endings are nearly unknown in the Veda (as, indeed, 
+the cases sre of only rare occurrence): AV, has ini twice (RV, perhaps 
+once); VS, has uni once; RV. bas wi from one w-stem, and T, once short- 
+ened to §, from one or two i-atems, 
+
+४, The unvarying ending of instr.-dat.-abl., in all genders, is bhyam 
+added to the unchanged stom, 
+
+© The gen.-loc. of all ages add ०8 to the stem in masc. and fom; 
+in ५५६, tho later language interposes, as elsewhere in the woakest casos, 
+a nj probably in the earlier Vedic the form would he like that of the other 
+genders; bat the only occurrence noted {s ona unos in AY. 
+
+338. Ploral. a. The nom-voc, ०४4९. and fem. adds the normal नात 
+ing 88 to the gunated stom-final, making ayas and avas, The excoptions 
+fn the Veda are vory fow: one word (ari) has das in both genders, and a 
+few fominines have Is (like S-stems); > very few w-stems have uas. The 
+neut. nom.«ace, ends later in Int and Oni (like Ani from a: 389 6); but the 
+Vode bas इ and i (about equally frequent) much oftener than ini; and त 
+and (more usually) प, more than half as often as fini. 
+
+Db. The १८६०8, mare. ends in Im and fin, for older ins and fins, of 
+which plain traces remain in the Veda in nearly balf the instances of ocour- 
+rence, and even not dofrequontly in the later language, in the guise of 
+phonetic combination (208 ¶.}. Tho accus. fem, ends in ऋ and is. But both 
+mase. and fem. forms in 188 and was are found sparingly in the Veda. 
+
+©, The instr. of all genders adds bhis to the stem. 
+
+4, The dat.-abl. of all genders adds bhyas (in V., almost never bhias) 
+to the stem. 
+
+©, The gen. of all genders is made alike in nm ond Gnim (of 
+which the & is not soldom, in the Voda, to bo resolved into aam), Steme 
+with accented final in the later language may, and tn the earlier always 
+do, throw forward the accent upon the ending. 
+
+ॐ, The loc. of all genders adds su (as gu: 180) to the stem=final, 
+
+ह. The accent is in accordance with the general rules alroady 
+laid down, and there are no irregularitics calling for special notice. 
+
+
+889. Examples of le 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+364 | ४. Nouxs ann Anseorives, | 
+Plusal: 
+8४. FAM कन्यान्‌ देव्यस्‌ Ta 
+[म [1 devyas vadhvas 
+A. मेनाम्‌ कन्यान्‌ Pat न्‌ 
+१6०९० kanyhs devis vadhiis 
+५ सिन्‌ afi ta 
+sénabhis kanyibhis devibhis § yadhiibhip 
+४.५४. निनाभ्यत्‌ = कन्यान्यन्‌ देवीभ्यन्‌ PT 
+sén&bhyss kanylibhyas dovibbyas 1 
+8. सेनानाम्‌ कन्यानाम्‌ देवीनाम्‌ aT 
+1 kanyinim  devinam vadhiinam 
+४ Fg कन्यासु देवीषु aT 
+[71 1 devigu vadhtiga 
+
+
+a. In the Veds vadhii is + stem belonging to the other division (like 
+tanti, above, 356). 
+
+
+3868. Examples of Vodle forms are: 
+
+
+8 G-stems: instr. sing. manig& (this simpler form is especially eom- 
+mon from stems in t& and if); nom, pl. vagiisas (about twonty examples); 
+३९९५६. pl. arathgamésas (a case or two). Half tho bhyns-cases are to 
+Ye read as bhias; the Sm ef gen. pl. is a few times to be rerolved into 
+gam; and the & and &m of nom, accus. sing, are, very rately, to be 
+treated in the same manner. 
+
+
+b. E-stoms: instr. sing. gdmi, g&mi; loc. g&uri; nom, etc. १४. devi; 
+nom. pl. devis; gen. pl. bahvindm. The final of the stem is to be read 
+as + vowel (not y) frequently, but not in tho majority of instances: thus, 
+devii, devids, devidm, rédasios, 
+
+
+€ The sporadic Instances of transfer between this division and the 
+preceding have boon already sufiiclontly notleed. 
+
+
+घ, OF the regular substitution made in the Brihmapa Janguage (807 h, 
+836g, 363 ५} of the det. sing. ending ह| for the gon.-ebl ending Os, tn 
+all clastes of words admitting the latter ending, a few examples may be given 
+ere: abhibhiity@i rGpam (AB,) a sign of overpowering bhag 
+०8 jagatyai ca (AB.) of the metres free त्‌ jogati; ०४०० तद्रा = 
+1111 | 
+(AB) woman's milk; dhenval vi सादत rétah (TB. that, forsooth, 
+
+
+
+
+
+
+
+
+
+V. Nouns anp Ansecrrves. 
+
+
+पपे 
+
+papé 
+पापाभ्यान्‌ 
+papabhyam 
+पापवोन्‌ 
+289६508 
+
+
+पापानि 
+piipini 
+
+
+Singular: 
+0. 
+ष पापम्‌ 
+papas 
+A. 
+ब. 
+Dd, 
+Ab. 
+6. 
+L 
+भ, 
+Dual: 
+NAY. पापी 
+papad 
+३.४. Ab, 
+6. ५. 
+Plural: 
+फ, पापात्‌ 
+x 
+Papiis 
+A पापान्‌ 
+
+
+धापानि 
+papani 
+
+
+पापान्‌ 
+papam 
+
+
+पापया 
+एकम 
+पापा 
+एषम 
+पापाया्‌ 
+एकिव 
+पापायाम्‌ 
+pipayiis 
+array 
+plpayam 
+पपि 
+pipe 
+
+
+पपि 
+
+papé 
+पापान्यान्‌ 
+pipabhyam 
+पापयोन्‌ 
+Piipiyos 
+
+
+136 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+177 NUMERALS. (475 
+
+
+CHAPTER VI. 
+
+
+NUMERALS, 
+
+475. The simple cardinal numerals for the first ten 
+numbers (which are the foundation of the whole class), 
+with their derivatives, the tens, and with some of the higher 
+members of the decimal series, are as follows: 
+
+
+५ टक 10 दृषा 100 शत 
+oka daga gata 
+26 20 विंशति 1000 ata 
+तण्ड vingat{ 88116878. 
+3 त्रि "30 त्रिणत्‌ 10,000 aga 
+tri trihgat ayuta 
++ चतुद्‌ + चतरारिशत्‌ 100,000 ल्त 
+catar catvaringat leaked 
+५ चञ्च 80 पञ्चाशत्‌ 1,000,000 wat 
+pAfica 80024६४ prayuta 
+6 ay oo षष्टि 10,000,000 कदि 
+aay 2 [ 
+7 सप्त 70 सप्तति 108 ed 
+sapta saptati arbudé 
+eae so ana 109 मदर्‌ 
+[ [ 11 maharbuda 
+oa vo नवति 1010 wa 
+nave navati kharvé 
+10 ट्श 100 शात roll Feet 
+daga gata nikharva 
+
+
+a. The accent saptd and agtd is that belonging to these words in all 
+accentuated texts; according to the grammarians, they are sdpta and Agta 
+in the later language. See below, 483. 
+
+b. The series of decimal numbers may be carried still further; 
+but there are great differences among the different authorities with 
+
+Whitney, Grammar, ३, ed. 12 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+189 DEMONSTRATIVE PRONOUNS. (405 
+
+
+80 many pronouns and pronominal adjectives that it is 
+fairly to be called the general pronominal declension. 
+
+a. But this root has also the special irregularity that in the 
+nom. sing. masc. and fem. it has sds (for whose peculiar euphonic 
+treatment 866 17@a,b) and sa, instead of tds and té (compare Gr. 
+6, 7, 6, and Goth. sa, so, thata). Thus: 
+
+
+Singular: 
+nm ०. ६ 
+N. सम्‌ तत्‌ सा 
+8६8 tat 8a 
+A तम्‌ तत्‌ ताम्‌ 
+tam tat tam 
+L तेन तया 
+téna taya 
+D ret तमै 
+|... 1 tasyai 
+Ab. तस्मात्‌ तस्यात्‌ 
+tasmat tasyas 
+9. तस्य तस्याम्‌ 
+tasya tasyas 
+1, तस्मिन्‌ तप्याम्‌ 
+tésmin tasyam 
+Daal 
+NAV. तौ a ते 
+ध्व te ४६ 
+1. 7. Ab. ताभ्याम्‌ ताभ्याम्‌ 
+tébhyam tébhyam 
+@. L. तयोम्‌ तयोस्‌ 
+६४5०8 ४६०४ 
+Plural 
+N. a तानि तात्‌ 
+४६ tani tas 
+A तान्‌ तानि तात्‌ 
+tin téni tis 
+1 a are 
+
+
+tals tabhis 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5317- | VII. Coxsuaatton. 200 
+
+
+CHAPTER शा. 
+
+
+CONJUGATION. 
+
+
+527. Tue subject of conjugation or verbal inflection 
+inyolyes, as in the other languages of the family, the dis- 
+tinctions of voice, tense, mode, number, and person. 
+
+a. Further, besides the simpler or ordinary conjugation 
+of a verbal root, there are certain more or less fully de- 
+veloped secondary or derivative conjugations. 
+
+628. Voice. There are (as in Greek) two voices, active 
+and middle, distinguished by a difference in the personal 
+endings. This distinction is a pervading one: there is no 
+active personal form which does not have its corresponding 
+middle, and pice verse; and it is extended also in part to 
+the participles (but not to the infinitive). 
+
+529, An active form is called by the Hindu grammarians 
+parasmai padam ¢ word for another, und 8 middie form is called 
+fitmane padam a word for one's self: the terms might be best para- 
+phrased by transitive and reflexive. And the distinction thus expressed 
+is doubtless the original foundation of the difference of active and 
+middle forms; in the recorded condition of the language, however, 
+
+
+the antithesis of transitive and reflexive meaning is in no small 
+measure blurred, or oven altogether effaced. 
+
+
+a. In tho epics there fs much offacement of the distinction between 
+active snd middle, the choles of १०८८ being very often determined by 
+tmotrical considerations alone, a 
+
+530. Some verbs are co 
+in one only; sometimes a. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+570—} VU. Conauaarion, = 4 
+
+
+gamayatat, cyivayatat, varayatat; ipsatat; jagytat. No examples 
+४५९७ boon found from a nosal-class verb (680), nor any other than those 
+here given from 9 passive, intensive, or desiderative. The few accented 
+eases indicate that the formation follows the general rale for one made with 
+an accented ending (652), 
+
+४, The tmperative in tht 16 not a very rare formation in the older 
+Jungwage, being made (in V., B, and §.) from about fifty roots, and in 
+toward + hundred and fifty occurrences, Later, tt is very unusual; thus, 
+only a single example has been noted in MBb., and one in B.; snd corres- 
+poadingly fow in yet more modern texts. 
+
+
+571. As regards its meaning, this form appears to have pre- 
+yailingly In the Brabmayas, and traceably but much less distinetly in 
+the Vedic texts, a specific tense-value added to its mode-valuo—as 
+signifying, namely, an injunction to be carried out at a later time than 
+the present: it is (like the Latin forms in to and tote) a posterior 
+or fature imperative. 
+
+a, Examples ore: ihai "vA ma tigthantam abhyéhi "ti brihi 
+tith ti na agatish pratiprabritat ((B.) say to Aer “come to me as I 
+stand just here,” and (afterward) announce her to us as having come; yaad 
+ardhvas tigtha dravine hd dhattat (RV.) when thow xhalt stand up- 
+right, [then] bestow riches here (and similarly in many cases); utktlam 
+udvahd bhavo ’dihya prati dhivatat (AV.) be a eerrier up the ascent: 
+after having carried up, ren back again; vanaspatir ddhi tva sthayati 
+tasya vittit (1'S.) the tree will ascend theo, [then] take note of it, 
+
+b, Examples of its use as other than 2d sing. are as follows: fat sing., 
+dvyugith jagytid ahim (AY.; only case) let me watch till doy-break; 
+as Sd sing, ptinar md "vignt&d rayfh (TS.) वथ wealth come again to 
+we, agéth tyasya rij miirdhitnash vi pitayatat ((B.) the ding here 
+shall make his head fly off; a 24 ds, nasatyay abruvan devah 
+piinar & vahatid {ti (RV.) the gods said to the ९८० Agvina “bring them 
+back again”; as 24 pl, pak... devégu nab sukfto bratat (1S.) ye 
+toaters, announce us to the gods at well-doera, Yn the भहा language, the 
+prevailing value appears to be that of a Sd sing: thus, bhavin prasidarh 
+Keurutat (MBh.) may your’ worship do the facor, ensth bhavén 
+abhirakgatat (7६60) fet your exeellency protect him. 
+
+
+©. According to the native grammariang, the imperative in tat 
+used with a benodictive implication, No instance of 
+be quotable, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+864} TX. Parseyt-sysTem. 248 
+
+
+664. bA remove, mid.: thus, jihite, jihidhve, jfhate; Jihigva, 
+jihatém; Ajihita, ajihata, QB. bas jihith&m (for jihathaim), 
+
+686. यह quit, act. (originally identical with the former), may furiher 
+shorten the T to i: thus, jabiti, jahita, jahitat (AV.); jahiman (AV.), 
+johitas (TB.), jahitam (‘TA.), ajahitém (TS, AB.). In the optative, 
+the radical vowel ie lost altogether; thus, jahyam, Jahyus (AY.). The 
+‘24 wing. impy., socording to the grammarians, is jabihi or Jahihi or 
+Jahahi; only the firet appears quotable, 
+
+&. Forms from an a-stem, jaha, are made for this root, and even 
+derivatives from a quosi-root jah. 
+
+
+666. r& give, mid.: thus, raridhvam, rarith&s (impf. without 
+augment); and, with i in reduplication, ririhi, But AV. bas rariava. 
+
+@. In those verbs, the accent is generally constant on the redaplicating 
+syllable. 
+
+667. The two roots १6 and dh& (the commonest of the class) 
+1986 their radical yowel altogether in the weak forms, being shortened 
+to dad and dadh. In 2d sing. impv. act, thoy form respectively 
+वणम्‌ and dhenf In combination with a following t or th, tho final 
+dh of dadh does not follow the special rule of combination of a 
+final sonant aspirate (becoming ddh with the ४ or th: 160), but — 
+as also before 8 and dhv—the more general rules of aspirate and 
+of aurd and sonant combination; and its lost aspiration is thrown 
+back upon the initial of the root (155). 
+
+
+668. The Inflection of ydha fs, then, as follows: 
+
+
+Present Indicative. 
+
+
+
+
+
+
+
+
+686] 1X. Paesent-sysrem. 252 
+
+
+from yyuj all the forms for which examples have been noted as 
+actually occuring in the oldor language. 
+
+
+activo. middlo, 
+| a P- 1) 4, Pp 
+{ yundjini yundjiva yundjima yunajai yundjdmah 
+2 yundjes yunajadhvai 
+
+
+3 yundjat yunijatas yundjan yundjate 
+
+
+€87, The RY. bas onco afijatas, which is anomalous as boing made 
+from the weak tense-stem, Forms with double mode-sign are mot with: 
+thas, tpodhan (AV.), r&dhndwat and yunajan (द); and the only 
+quotable example of Sd du. act. (besides afijatas) ts hindsAtas ((B.). 
+QB. bas also hinas&vas ss dst du. act.: an elsowhere unexampled form. 
+
+
+3. Present Optative. 
+
+
+688. The optative is made, as elsewhere, by adding the 
+compounded mode-endings to the weak form of present- 
+stems. Thus: 
+
+active, middle. 
+
+
+& a Pp. ४. 4. sae 
+1a ga युज्याम asia युज्ञीवकति नरि 
+अष अपरद अणुन yufjiyA yuAjivkhi अपु 
+
+ote. ete, ote. ete. ete. ९६८. 
+
+
+३, AB, has once the anomalous ist sing. act. vpfijiyam, And forms 
+like bhufifiyam -yat, yufjiyat, are here and there met with in the 
+opie (bhudijiyaétém once in GGS.). MBb., too, has onco bhuiijitam. 
+
+
+4. Present Imperative, 
+
+
+889. In this class (as the roots all end in consonants) 
+the ending of the 2d sing. act. is always चि dhi. 
+
+
+active, middle. 
+6 ष. 7. ng a 
+
+
+1 arent wera | WATT 
+yunajini yunijave ॥ 
+
+ युङ्ग्ि ` युगम्‌. 
+yangdni 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+381 CausaTIvE. [--1048 
+
+
+stems in अ (7384): it will be sufficient to give here in 
+general the first pereons of the different formations, taking 
+as model the stem धार्य dhGréya, from va तण. Thus: 
+
+1. Present Indicative. 
+
+
+active. 
+4. 
+
+
+५ । २. 
++ धारयामि धाए्यावस्‌ धारयामम्‌ 
+dh&r4yami dhardyivas dhérdyamas 
+
+
+etc. etc. etc. 
+middle. 
+[त a ए. 
+1 धार्ये धारयाक्रे धारयामरे 
+dharaye dharéyévahe dhaird4yamahe 
+etc. ete. ete. 
+
+
+a. The ist pl. act. in masi greatly outnumbers (as ten to one) that 
+in mas in both RV. and AV. No example occurs of 2d pL act. in thana, 
+nor of 3d sing. mid. in © for ate. 
+
+
+2. Present Subjunctive. 
+
+
+For the subjunctive may be instanced all the forms noted as 
+occurring in the older language: 
+active. 
+
+
+1 dhardyéni dhardyava dhardyama 
+
+
+\dharayasi 
+dharisae, वाध dhsréyBtha 
+dharéyati 
+नि @Sryates dhardyan 
+middle. 
+1 कण्ठ्य dhéréyavabai 
+jdnaréyadhve 
+a) rdherayaae (नि 
+(dharayate 
+: (1 "स्य 
+
+
+७. Only one dual mid. form in Aite occurs: m&dAyAite (RV.). The 
+only RV. mid, form in Ai, except in 4st du., is m&dayadhvai. The 
+primary endings in 2d and 8d sing. act. are more common than the secondary. 
+
+
+3. Present Optative. 
+active, 
+raya ayaa धारयेम 
+
+
+dharayeyam dharéyeva dhdrdyema 
+ete. ete. etc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+401 Vurnat Compounns, [—loes 
+
+
+bination with a derivative in Am to make a periphrastic conjugation. 
+Sneh roots have also been, from the earliest period of the language, 
+but with increasing frequency, used in somewhat analogous combi- 
+nations with othor elements, substantive and adjective as well as 
+adverbial; and this has become, in part, developed finally into a 
+regular and indefinitely extensible method of increasing the resources: 
+of verbal expression. 
+
+1091. a. The older language bas a number of (mostly) redoplicative 
+onomatopoetio compounds with roots kp and bhi, the prefixed element end- 
+‘ing in & or & (generally the former): thus, in RV,, akkhalikjtya croah- 
+ing, jafjan&bhavant jlimmering, alaldbhavant making merry, kikirt 
+‘eppu tear; in AY., magmagk "karam I have crushed; tn V8., 
+masé (alse TS.; MS. mpsmysa) kuru; in TS., malmalabhdvant; in K,, 
+manmalabhavant, kikkitakara; in MS, bibibabhavant, bharbhara 
+"bhavat; in AB, bababikurvant. The arcentuation, where shown, {9 
+Mike that of ३ verb-form with sccompanying prefix, 
+
+४, Farthor, combinations with Pky of utterances used at the sacrifice, 
+and mostly ending in &: thus, sviha, svadhi, avagd; also vigat. In 
+theso, too, the accemtnation is generally that of > verb with prefix: 6. g. 
+avagikaroti ((6.; but svadhié kardti [२] TA.), vagatkuryat (MS.); 
+and, with another prefix, anuvégatkaroti ((B.). 
+
+6. An instance or two also orcur of ordinary words in such combi- 
+nations, put in corresponding form: thus, ofl kury&t ((B.) may roast 
+on 9 pit (gia); anypakartos (AB,) of getting clear of debt; कषक 
+bhiivayant (AA.) uniting. 
+
+1002. a. The noun namas obcisance, homage, in a still more purely 
+noun-value, becomes combined with Wp: in the Veds, only with the gerund, 
+in namankftya (borlde hantagthya and karnagthya: above, 990 b). 
+
+D. A solitary combination with 1/1 go is shown by the acontative ~ 
+tam Aome; which, appearing only in ordinary phrases fn RV., is in AV. 
+compoundod with the participles —in astathydnt, astamegydnt, dsta- 
+mita (with accent Mike that of ordinary compounds with « prefix) —and 
+in tho Brihmapas and the lator langasge t treated quite like « prefix: 
+thus, astaméti ((B.). 
+
+©. Othor ordinary accusative forms of sdjectives in combination with 
+verbal derivatives of ky and bhi are found here and there In the older 
+langunge: thus, grtarhk¢tya and nagnazhkjtys (TS.); nagnambhitvuka, 
+pimanambhivuka ete, (TS. ot al.); 4narugkaroti (+). 
+
+
+1093. In the early but not in the earliest language, a noun- 
+stem thus compounded with ky or bhO (and very rarely with as), 
+in verbal nouns and ordinary derivatives, and then also in verbal 
+forms, begins to assume a constant ending इ (of doubtful origin). 
+
+8. There ts no instance of this in RY., unless the इ of akkhalikftya 
+(above, 1081.0) is to bo so explained. In AV., besides the obscure 
+
+Whitney, Grammar, 3, ed. 26 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX. 
+
+
+520 
+
+
+Perfect-system. Aorist-system. Future-systems, 
+
+
+६ babhtiva bhavigyimi | 
+^ "1 : 
+* pabhiivéts bhavigyént 
+4bhuvam Abbavigyam 
+babhiive bhavigyé [bhavitéhe] 
+‘ [bhavigty4] 
+babhivand bhavigyamana 
+Abhavigi 
+Pass.pple bhGté;—Infin. bhévitum ; — Gerunds bhfitvi, -bhtiya. 
+cakara karigydmi kartismi 
+kriyisam 
+cakyvais karigyant 
+ékargam &karigyam 
+cakré karigy6 [kartihe] 
+(पकए 
+cakrind karigyamana 
+[ ~): 
+
+
+५०.715 kyt4; —Infu. kértum;— Gerands करद, -kitya. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+84 पश्यत INDEX. 
+
+
+४, pron. ०६९. 69, 66, 66, 119; from 
+dh and bh, 223g; a8 final, 147; 
+compensating aspiration of initial, 
+147, 155d; with following t or 
+th, 160a; with preceding final 
+mute, 163; m before h and an- 
+other’ cons, 213; reversion to gh, 
+2440, 222: in inflection, 402, 
+687; in pf, 787; in intens., 10024; 
+in desid., 10281; internal combn, 
+222-4; ‘anomalously changed to 
+a sibilant, 160f; to d, 404; du- 
+plication of a cons, after, 3288; 
+nasikya added after, 230b; loss 
+before hi, 10115. 
+
+cha, 99], "11009, 11048. 
+
+10९१, pple, 957 
+
+
+
+
+
+past 
+
+inf., 968d; int, 10028, 
+
+1, 1003; १०. 1028, f; caus., 
+
+642m; root-noun, 888४, 402. 
+
+hénta, accent of verb with, 698५, 
+
+yhas, jakg from, 640. 
+
+Vh& move, pres., 660, 664; ०७९. 
+10264; caus., 10424, 
+
+Vhs leave, pres., 665, 7619; aor., 
+830, 889, 0127" {५१ ' 986 ०; pple, 
+9674; 101. 968f; caus, aor., क्रः 
+4047. 
+
+
+h 
+i 
+
+
+539 
+
+
+has, 1022 912. 
+soph, 192¢, 2461, 674, 787; 
+1 92४, 7164; 1) 891, 889, 
+Bios, 847, 8892, 894d; ' १०. 
+1028 
+
+
+hf, 6956, 11222. 
+shi, advbl, 1100५. 
+Vhits, ouph 1889; pres., 687, 696; 
+des., 10017. 
+Vhinv, 7165. 
+hid, euph., 2409; ए, 786; caus, 
+nig. oop P j caus, 
+
+
+Vou, pres., 645, 6470, 652; periphr. 
+pf. ete., 40741, 1078¢. 
+
+1/8 or hva, pros, 7611 755; pf, 
+794; aor, 884५, 847, 8870 
+912; fot, १96०; int, 9661; eaus., 
+4042k; periphr. pf., 4071. 
+
+seize, 201, 884s, 88005 int, 
+
+(0 cans, 1042९. ' न. 
+
+1/०, hfdaya, 397. 
+
+Vbyq, sor., 847; pple, 966d. 
+
+yhnu, pres., 626a. 
+
+Yhras, pple, 9669. 
+
+Vhri, pres., 645; sor, 840b; 
+9678; 
+10711. 
+
+yhva, see hi. 
+
+vay or hvar, euph., 2426; pres., 
+; aor., 8689, 890; pple, 0666 
+
+
+
+
+
+ple, 
+caus., 10421; periphr. pf. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ए. 147, 881, Plar. Loc, 
+265, 786, last 1. 
+967, 9699, 1. 2 
+401, 10819, 1. 3 
+
+
+ERRATA. 
+
+
+for FHACH read trary 
+
+» bhévadntai » bhévantal. 
+
+» gubya » guhya. 
+
+» akkhalikjtya » akhkhalikttya. 
+
+
+
+
+
+
+
+
+STANFORD UNIVERSITY LIBRARIES 
+
+CEC GREEN LIBRARY. 
+
+STANFORD, CALIFORNIA 94305-6004 
+(415) 723-1493 
+
+
+All books may be recalled after 7 days” 
+DATEDUE ` 
+
+
+
+
+

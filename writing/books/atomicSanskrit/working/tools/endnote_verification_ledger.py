@@ -241,8 +241,8 @@ def build_ledger() -> tuple[str, dict[str, int]]:
     )
     text = f"""# Atomic Sanskrit — Endnote Verification Master
 
-**Generated:** {today}  
-**Source of truth for audit results:** `working/10_active/endnote_verification_batches/`  
+**Generated:** {today}
+**Source of truth for audit results:** `working/10_active/endnote_verification_batches/`
 **Generator and integrity check:** `working/tools/endnote_verification_ledger.py`
 
 ## Purpose
