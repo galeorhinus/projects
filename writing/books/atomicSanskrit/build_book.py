@@ -1489,6 +1489,31 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
     return 0
 
 
+def prefer_local_texlive() -> str | None:
+    """Put a /usr/local/texlive install ahead of the system TeX on PATH.
+
+    amrut carries two: Ubuntu's apt TeX Live 2022 on /usr/bin, and an
+    upstream 2026 under /usr/local/texlive installed without touching the
+    system PATH. A build run there picks up 2022 unless something says
+    otherwise, and the two are not interchangeable — 2022 is four years of
+    fixes behind, and nothing in the output announces which one produced it.
+
+    Only /usr/local/texlive is considered, so a system TeX that is already
+    the newest (the Mac, where /Library/TeX/texbin is current) is left alone
+    unless an upstream install is genuinely present. Highest version wins.
+    Returns the directory prepended, or None."""
+    roots = sorted(Path("/usr/local/texlive").glob("*/bin/*"),
+                   key=lambda p: p.parent.parent.name, reverse=True)
+    for bindir in roots:
+        if (bindir / "xelatex").exists():
+            current = os.environ.get("PATH", "")
+            if str(bindir) in current.split(os.pathsep):
+                return None
+            os.environ["PATH"] = f"{bindir}{os.pathsep}{current}"
+            return str(bindir)
+    return None
+
+
 def have(cmd: str) -> bool:
     return shutil.which(cmd) is not None
 
@@ -2113,6 +2138,10 @@ def main() -> int:
              "Applies to pdf/all/reference/convert.",
     )
     args = parser.parse_args()
+
+    # Before any subprocess inherits the environment.
+    if bindir := prefer_local_texlive():
+        print(f"  using TeX Live at {bindir}")
 
     if args.phase == "stubs":
         return cmd_stubs(force=args.force)
