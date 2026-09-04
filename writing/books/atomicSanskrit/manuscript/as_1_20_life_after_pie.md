@@ -2,7 +2,7 @@
 
 For thousands of years, Sanskrit's radiance traveled through people. A teacher might carry a method of analysis into another region; a specialist might carry technical knowledge and vocabulary. When whole communities migrated, they carried living Indic languages, customs, and memory with them.
 
-This chapter distinguishes four kinds of movement. Before Pāṇini, Vedic-trained experts carried Sanskritic structure into other linguistic communities. This book calls that movement **Wave 1**. After Pāṇini, other communities could study his explicit grammatical documentation and adapt its analytical methods to their own languages. That movement becomes **Wave 2**. The **Diasporic Wave** moved through whole communities, whose members took their languages and ways of life into new regions under conditions they had often not chosen. **Wave 3** belongs to the present. Readers who recover a conscious understanding of Sanskrit's architecture can now explain that architecture to the world.
+This chapter distinguishes four kinds of movement. Before Pāṇini, Vedic-trained experts carried Sanskritic structure into other linguistic communities. This book calls that movement **Wave 1**. After Pāṇini, other communities could study his explicit grammatical documentation and adapt its analytical methods to their own languages. This book calls that movement **Wave 2**. The **Diasporic Wave** moved through whole communities, whose members took their languages and ways of life into new regions under conditions they had often not chosen. **Wave 3** belongs to the present. Readers who recover a conscious understanding of Sanskrit's architecture can now explain that architecture to the world.
 
 Chapter 19 described what happens when Sanskrit reaches another language. Sanskrit's radiance brings a word, method, or structure into contact with a receiving community. The listener retains something from that encounter as **बीज (*bīja*)**, a seed. The receiving language then gives that seed a form of its own through **vivimorphosis**. The resulting word, pattern, or method becomes a **प्रतिबिम्ब (*pratibimba*)**, a reflection of Sanskrit within another language.
 
@@ -22,7 +22,7 @@ The Hindu continuum remembers Vedic knowledge moving through specific ऋषि 
 
 Tamil and Sanskrit sources honor **अगस्त्य (*Agastya*)** as a teacher who crossed the Vindhyas and carried Vedic learning south. Tamil traditions also associate him with the *Agattiyam*, cultivation, and water management. Pandya inscriptions preserve him within priestly and royal memory.[NOTE: agastya-sources] These sources remember a teacher entering another linguistic community, followed by that community developing what it learned through its own language and institutions. That is the kind of transmission Wave 1 proposes.
 
-Other lineage memories point in different directions. The continuum associates **कश्यप (*Kaśyapa*)** with Kashmir and the northwest. Pāṇini cites **भरद्वाज (*Bharadvāja*)** as an earlier analytical authority. **भृगु (*Bhṛgu*)** and **अङ्गिरस् (*Aṅgiras*)** stand behind गोत्र (*gotra*) lineages found across a wide geographic range. These memories identify possible carriers. The treaty and technical records that follow provide a second kind of evidence: Sanskritic names and words written outside India.
+Other lineage memories point in different directions. The continuum associates **कश्यप (*Kaśyapa*)** with Kashmir and the northwest. Pāṇini cites **भरद्वाज (*Bharadvāja*)** as an earlier analytical authority. **भृगु (*Bhṛgu*)** and **अङ्गिरस् (*Aṅgiras*)** stand behind गोत्र (*gotra*) lineages found across a wide geographic range. These memories point to teachers who may have carried Sanskritic knowledge into other regions. The treaty and technical records that follow provide a second kind of evidence: Sanskritic names and words written outside India.
 
 ### The Mitanni Record
 
@@ -34,13 +34,13 @@ The Sanskritic layer extends beyond the treaty and the training manual. Mitanni 
 
 ![Figure 20.1 — The Mitanni Sanskritic Layer. The treaty, horse-training manual, royal names, and warrior designation preserve four different kinds of Sanskritic evidence in northern Mesopotamia.](figures/life_after_pie/mitanni_sanskritic_layer.svg){#fig:ch20-mitanni-layer width=100%}
 
-Figure 20.1 brings the range together. A single archive preserves Sanskritic forms in diplomatic, technical, royal, and social use. The lineage memories describe Vedic knowledge traveling through trained teachers, while the Mitanni documents show Sanskritic forms in use outside India. Together, they support a route in which specialists carried selected parts of Sanskrit into another linguistic community. The receiving community retained those parts while continuing to speak its own languages.
+Figure 20.1 places the four kinds of evidence together. A single archive preserves Sanskritic forms in diplomatic, technical, royal, and social use. The lineage memories describe Vedic knowledge traveling through trained teachers, while the Mitanni documents show Sanskritic forms in use outside India. Together, they support a route in which specialists carried selected parts of Sanskrit into another linguistic community. The receiving community retained those parts while continuing to speak its own languages.
 
-The Behistun inscription provides another comparison. When its Old Persian text is transliterated into Devanagari, a fluent student of Sanskrit can recognize much of its vocabulary, grammar, and धातु (*dhātu*) structure.[NOTE: behistun-inscription] A fluent speaker of modern Persian cannot approach the same inscription with equal ease. Old Persian and Sanskrit were close in their recorded forms, but the two languages now have very different relationships with those forms.
+The Behistun inscription provides another comparison. When its Old Persian text is transliterated into Devanagari, a fluent student of Sanskrit can recognize much of its vocabulary, grammar, and धातु (*dhātu*) structure.[NOTE: behistun-inscription] A fluent speaker of modern Persian cannot understand the same inscription as readily without studying Old Persian. Old Persian and Sanskrit were close in their recorded forms, but the two languages now have very different relationships with those forms.
 
 Sanskrit remained connected to an engineered preservation architecture. The Vedas remained its calibrant. The प्रातिशाख्यानि (*Prātiśākhyas*) documented the requirements of individual Vedic lineages, and the पाठाः (*pāṭhas*) protected exact recitation. Pāṇini gave the shared grammatical architecture its finest explicit documentation. Old Persian did not possess a comparable system. Its speakers continued using and changing their language until later forms became Persian. Sanskrit followed a different path because the corpus, grammar, and methods of correction remained available together.
 
-Old Persian shows what can happen when a related language continues changing without Sanskrit's preservation architecture. Sanskrit shows what happens when a language remains connected to an invariant calibrant. Because both languages are recorded, the comparison demonstrates the effect of preservation directly.
+Old Persian continued changing without a preservation architecture comparable to Sanskrit's. Sanskrit remained connected to the invariant Vedic calibrant. Because records of both languages remain available, readers can compare the results directly.
 
 Wave 1 proposes that Vedic-trained experts entered linguistic communities across Central and West Asia before Pāṇini. Their teaching could have placed Sanskritic words, grammatical patterns, and methods inside those natural languages. The receiving languages would then have reshaped what they received and passed the resulting forms to later generations. Nineteenth-century European philologists found related forms across those languages. Because they assumed descent from a common natural ancestor, they projected the similarities backward and reconstructed PIE. The Radiance Thesis asks the reader to reverse that direction. The correspondences may preserve the accumulated reflections of Sanskritic contact.
 
@@ -50,7 +50,7 @@ What PIE reconstructed was not Sanskrit's ancestor. It was Sanskrit's प्र�
 
 Wave 1 carried Sanskritic words and structures through trained experts. Pāṇini's documentation created another possibility. A teacher could now carry an explicit and highly compressed description of Sanskrit's analytical method into another community. Wave 2 follows communities that studied that method and applied it to their own languages.
 
-The pyramid made Pāṇini heroic under the false label of *codifier*. In that account, he imposed order upon a drifting language. The preceding chapters have demonstrated a different achievement. Pāṇini inherited an architecture already preserved in the Vedas and examined by the प्रातिशाख्यानि (*Prātiśākhyas*), recitation lineages, and earlier वैयाकरणाः (*vaiyākaraṇāḥ*). He decoded that architecture and compressed its procedures into the अष्टाध्यायी (*Aṣṭādhyāyī*). His documentation made Sanskrit's analytical method easier to carry into another place and teach to another lineage. Sanskrit did not begin with him; its method became more portable through him.
+The pyramid made Pāṇini heroic under the false label of *codifier*. In that account, he imposed order upon a drifting language. The preceding chapters have demonstrated a different achievement. Pāṇini inherited an architecture already preserved in the Vedas and examined by the प्रातिशाख्यानि (*Prātiśākhyas*), recitation lineages, and earlier वैयाकरणाः (*vaiyākaraṇāḥ*). He decoded that architecture and compressed its procedures into the अष्टाध्यायी (*Aṣṭādhyāyī*). His documentation made Sanskrit's analytical method easier to carry into another place and teach to another lineage. Sanskrit did not begin with him. His compressed documentation made its analytical method easier for teachers to carry elsewhere.
 
 The Racial Arya Thesis conceals this continuity. It places Sanskrit's origin outside India and presents Pāṇini as the person who gave the foreign language its order. This joins the migration story to the codification myth and separates both from the Vedic calibration architecture.
 
@@ -70,7 +70,7 @@ Because Chinese characters do not spell pronunciation alphabetically, a reader c
 
 Chinese scholars encountered the वर्णमाला (*varṇamālā*) through the study of **सिद्धं (*Siddhaṃ*)**. The *varṇamālā* assigns selected sounds systematic grid addresses based on how the mouth produces them. That matrix gave Chinese scholars a more powerful way to organize initials, finals, tones, and rhyme categories. They adapted Sanskrit’s sound-engine to Chinese phonology by placing syllable initials along one dimension while arranging finals, tones, and related distinctions across the other. The resulting analytical instrument was the rime table. No known Chinese rime table predates sustained Sanskritic contact.[NOTE: buddhist-asia-radiance]
 
-Japan preserves the same radiance in another form. The **五十音 (*gojūon*)** — the "fifty sounds" — arranges kana by crossing the vowels *a-i-u-e-o* with ordered consonant rows. Japanese scholarship traces this matrix to the वर्णमाला (*varṇamālā*) studied through Buddhist सिद्धं (*Siddhaṃ*) learning. Japanese scholars adapted the Sanskritic sound-grid to Japanese phonology, allowing their language to receive the architecture while continuing its own natural flow.[NOTE: buddhist-asia-radiance]
+Japan preserves the same radiance in another form. The **五十音 (*gojūon*)** — the "fifty sounds" — arranges kana by crossing the vowels *a-i-u-e-o* with ordered consonant rows. Japanese scholarship traces this matrix to the वर्णमाला (*varṇamālā*) studied through Buddhist सिद्धं (*Siddhaṃ*) learning. Japanese scholars adapted the Sanskritic sound-grid to Japanese pronunciation. They used the architecture without replacing the sounds and structures of their own language.[NOTE: buddhist-asia-radiance]
 
 ### The Pyramid Steals the Sonomer
 
@@ -92,11 +92,13 @@ Hindu culture does not object to others using its knowledge. An open-source arch
 
 ### Formal Description Travels
 
-The evidence does not take the same form along every route. Tibetan accounts remember a journey to India and the teaching carried home. Chinese and Japanese sources preserve local adaptations of Sanskritic sound analysis. Latin grammar follows Greek methods, while Hebrew grammar follows Arabic methods. Those intermediaries preserve part of each route. Greek and Arabic preserve the settings in which sustained contact occurred and the analytical similarities that resulted, although no document records a specific lesson.
+The evidence differs along each route. Tibetan accounts remember a journey to India and the teaching carried home. Chinese and Japanese sources preserve local adaptations of Sanskritic sound analysis. Latin grammar follows Greek methods, while Hebrew grammar follows Arabic methods; those intermediaries preserve part of each route.
+
+The Greek and Arabic cases contain a different kind of evidence. Their records establish sustained contact with Indic knowledge and preserve the analytical similarities that followed, although no document records a particular Sanskrit teacher giving a lesson.
 
 #### Where the Teaching Record Survives
 
-The Chinese and Japanese sound-matrices discussed above preserve the encounter with Sanskritic sound analysis through Buddhist learning. Tibetan sources preserve an even fuller teaching account.
+The Chinese and Japanese sound-matrices discussed above record how Buddhist scholars adapted Sanskritic sound analysis to their own languages. Tibetan sources preserve an even fuller teaching account.
 
 **Tibetan** — *documented study in India*, 7th c. CE. The Tibetan king Songtsen Gampo dispatched a mission to India to study Sanskrit grammar. Traditional accounts credit Thonmi Sambhoṭa with leading the mission and bringing the teaching home.[NOTE: thonmi-sambhota-tibetan-grammars] He is also credited with writing two foundational works of Tibetan grammatical analysis: *Sum cu pa* (the Thirty Verses) and *Rtags kyi 'jug pa* (the Application of Signs). The Brāhmī-derived Tibetan script emerged during the same period. The Tibetan lineage therefore remembers the journey to India, the study of Sanskrit grammar, and the analytical works that followed.
 
@@ -110,7 +112,7 @@ Later Tibetan and Indian translation teams compiled the **महाव्यु�
 
 #### Where Contact and Resemblance Point to a Route
 
-**Greek** — proposed transmission, c. 100 BCE. The *Téchnē Grammatikē*, attributed to Dionysius Thrax, is the earliest surviving systematic account of Greek grammar.[NOTE: dionysius-thrax-techne] It appeared in Alexandria after centuries of contact between the Greek and Indic worlds. Alexander's campaigns and the Mauryan-Seleucid exchanges connected the two regions. The Greco-Bactrian and Indo-Greek kingdoms deepened that contact, while Aśoka's Greek-language edicts, Buddhist missions, scholars, and texts opened further routes. Greek thinkers had already examined words, categories, and parts of speech. The later systematic grammar appeared in a world through which Pāṇinian methods could travel. This book proposes that such contact carried the method into Greek analysis. No surviving document records a particular teacher giving that lesson.
+**Greek** — proposed transmission, c. 100 BCE. The *Téchnē Grammatikē*, attributed to Dionysius Thrax, is the earliest surviving systematic account of Greek grammar.[NOTE: dionysius-thrax-techne] It appeared in Alexandria after centuries of contact between the Greek and Indic worlds. Alexander's campaigns and the Mauryan-Seleucid exchanges connected the two regions. The Greco-Bactrian and Indo-Greek kingdoms deepened that contact, while Aśoka's Greek-language edicts, Buddhist missions, scholars, and texts opened further routes. Greek thinkers had already examined words, categories, and parts of speech. The later systematic grammar appeared after those routes had made the movement of Pāṇinian methods possible. This book proposes that such contact carried the method into Greek analysis. No surviving document records a particular teacher giving that lesson.
 
 **Arabic** — proposed transmission through the Basran intellectual world, 8th c. CE. Sibawayh's *Al-Kitāb* became foundational to Arabic grammar.[NOTE: sibawayh-al-kitab] Sibawayh worked in Basra while early Abbasid translation programs were carrying Indic knowledge into Arabic. Those programs included mathematics, medicine, and philosophy. *Al-Kitāb* also shares several analytical features with Pāṇinian methodology. It uses formal abbreviation and substitution-based analysis, and it treats sound and form as parts of one system. The place, period, and shared methods support the proposal that Sanskritic analysis reached Arabic grammar. No surviving document records a direct lesson.
 
@@ -118,7 +120,7 @@ Later Tibetan and Indian translation teams compiled the **महाव्यु�
 
 Figure 20.2 places the six routes beside one another. Tibetan preserves a teaching journey. Chinese and Japanese preserve Sanskritic sound analysis adapted to their languages. Greek and Arabic preserve the contact settings and the analytical structures that followed. Latin carries the Greek method forward; Hebrew does the same through Arabic.
 
-The record changes as the method travels. A remembered teacher gives way to local adaptation. Local adaptation becomes an intermediary tradition. The structure continues even when the name of the source disappears.
+Each stage leaves a different kind of record. One tradition remembers a teacher's journey. Another records a local adaptation, while a later language preserves the method through an intermediary. The analytical structure can therefore continue even after the receiving tradition ceases to acknowledge its source.
 
 ### Radiance Across Southeast Asia
 
@@ -160,7 +162,11 @@ The closing Ṛgvedic call is **कृण्वन्तो विश्वम�
 
 The three calibrant waves carry Sanskrit's architecture in three different forms.[NOTE: three-deployments-framework]
 
-Wave 1 carries the architecture embedded in the Vedas and learned through Vedic training. The expert may transmit words, procedures, or structures without giving the receiving community a complete written explanation of the language. Wave 2 carries the explicit analytical method that Pāṇini compressed into the अष्टाध्यायी (*Aṣṭādhyāyī*), allowing another community to study that method and use it to analyze a different language. Wave 3 carries a contemporary explanation of Sanskrit as an engineered, calibrant, radiant, and fractal architecture. Its purpose is to make the complete argument available to readers who inherited categories that concealed the architecture from them.
+Wave 1 carries the architecture embedded in the Vedas and learned through Vedic training. An expert may transmit words, procedures, or structures without giving the receiving community a complete written explanation of Sanskrit.
+
+Wave 2 carries the explicit analytical method that Pāṇini compressed into the अष्टाध्यायी (*Aṣṭādhyāyī*). Another community can study that method and use it to analyze a different language.
+
+Wave 3 carries a contemporary explanation of Sanskrit as an engineered, calibrant, radiant, and fractal architecture. It gives readers a complete argument against the inherited categories that concealed that architecture.
 
 Wave 3 carries four recognitions into the world:
 

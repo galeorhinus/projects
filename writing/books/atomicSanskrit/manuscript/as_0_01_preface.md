@@ -8,9 +8,9 @@ What had our ancestors fought to protect? Was it only freedom? Was it the nation
 
 Freedom was necessary, but freedom could not be the final answer. Freedom gives people room to choose. It does not tell them what kind of order allows living beings to flourish together. Nor does it explain how such an order can endure without placing a ruler, institution, or doctrine above everyone else.
 
-The question led me from freedom to order. Every political system operating today uses the same basic architecture. Authorized institutions make rules, identify violations, and punish those who refuse to comply. Systems differ greatly. People may choose who occupies the apex, limit that person's power, and challenge official decisions. Those protections matter, but they do not remove the apex.
+The question led me from freedom to order. Every political system in use today has the same basic architecture. Authorized institutions make rules, identify violations, and punish those who refuse to comply. Systems differ greatly. People may choose who occupies the apex, limit that person's power, and challenge official decisions. Those protections can limit what the apex may do, but they do not remove it.
 
-This architecture governs everyone around the conduct of those who deceive, exploit, or attack. **The pyramid treats everyone as an exception waiting to happen.** A system built on suspicion teaches people to suspect one another and produces the distrust it expects.
+This architecture subjects everyone to rules and punishments designed around the conduct of those who deceive, exploit, or attack. **The pyramid treats everyone as an exception waiting to happen.** A system built on suspicion teaches people to suspect one another and produces the distrust it expects.
 
 I had always believed that another possibility existed. Most people are capable of cooperation and restraint, and many respond better to a trusted example than to fear. Could an order cultivate that capacity and address exceptions when they actually occurred?
 
@@ -32,9 +32,9 @@ Through the मूर्ति (*mūrti*), that inheritance stands before the se
 
 *No apex controls that act of seeing.*
 
-**The temple makes the principle familiar. Sanskrit allows us to examine its engineering.**
+**The temple gives us a familiar example of the principle. Sanskrit allows us to examine how the same principle is engineered into a language.**
 
-I had been searching for an abstract solution to a problem that Hindu life had already answered in practice. The answer had survived not as one policy or institution, but as an architecture repeated through sounds, words, stories, and practices. Reconstructing that architecture became the *Second Shanti* series.
+I had been searching for an abstract solution to a problem that Hindu life had already answered in practice. Hindu life had preserved the answer, not as one policy or institution, but as an architecture repeated through sounds, words, stories, and practices. Reconstructing that architecture became the *Second Shanti* series.
 
 ## Why Sanskrit Comes First
 
@@ -59,7 +59,7 @@ My mother's correction was my first lesson in Sanskrit's sound architecture. One
 
 Decades later, I returned to that childhood lesson with a larger question. Had Sanskrit preserved the same calibrant architecture at the scale of language?
 
-The Vedas are the foundational sounds of the Hindu ethos. Hindu society has transmitted them through many lineages, keeping their sounds audible across society. No ruler, court, or centralized power, domestic or foreign, owns the standard. The received Vedic form remains available to each generation, allowing speakers to hear it and align their Sanskrit with it. This book calls such an architecture a **calibrant order**.
+The sounds of the Vedas form part of the foundation of Hindu life. Hindu society has transmitted them through many lineages, keeping their sounds audible across society. No ruler, court, or centralized power, domestic or foreign, owns the standard. The received Vedic form remains available to each generation, allowing speakers to hear it and align their Sanskrit with it. This book calls such an architecture a **calibrant order**.
 
 A calibrant differs from an authority.
 

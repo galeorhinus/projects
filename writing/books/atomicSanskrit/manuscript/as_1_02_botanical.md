@@ -42,7 +42,7 @@ Three questions test that narrative.
 
 Pāṇini’s contribution to Sanskrit is extraordinary. These comparisons place that contribution inside the architecture that kept Sanskrit invariant before and after him. The rest of this book explains how the Vedas preserved that invariance. Chapter 5 identifies Pāṇini’s role, while Chapters 11 and 12 demonstrate what his documentation made explicit.
 
-They remain a distributed calibrant for Sanskrit's sounds and grammar. They also encode foundational architectures of ***संस्कृति (*saṃskṛti*)***, including the distinctions between ***सत् (*sat*)*** and ***असत् (*asat*)*** and the created order of ***ऋत (*ṛta*)***. This volume begins with the linguistic architecture because Sanskrit allows the calibrant relationship to be examined in full.
+The Vedas remain a distributed calibrant for Sanskrit's sounds and grammar. They also encode foundational architectures of ***संस्कृति (*saṃskṛti*)***, including the distinctions between ***सत् (*sat*)*** and ***असत् (*asat*)*** and the created order of ***ऋत (*ṛta*)***. This volume begins with the linguistic architecture because Sanskrit allows the calibrant relationship to be examined in full.
 
 ## 2.2 Four Documents, Two Architectures
 
@@ -132,7 +132,7 @@ Chapter 6 goes further. It describes how Sanskrit's engineered ecosystem protect
 
 Chapters 13–15 examine how this reference survived. Chapter 13 distinguishes a guarded form from an active calibrant. Chapter 14 explains how the preservation layers check one another. Chapter 15 compares recitation across geographically separated Vedic lineages and demonstrates distributed correction without a central office.
 
-Chapter 16 then explains how the two domains divide their responsibilities. The वैदिक (*vaidika*) domain preserves the reference. The लौकिक (*laukika*) domain permits new composition through the same architecture. One protects invariance; the other provides generative reach. Together they demonstrate calibrant order at linguistic scale.
+Chapter 16 then explains how the two domains divide their responsibilities. The वैदिक (*vaidika*) domain preserves the reference. The लौकिक (*laukika*) domain permits new composition through the same architecture. One protects invariance; the other provides generative reach. Together they demonstrate calibrant order at the scale of language.
 
 Pāṇini inherited this arrangement. His अष्टाध्यायी (*Aṣṭādhyāyī*) made the grammatical operations explicit with unmatched compression and precision. It strengthened the architecture by adding another path for teaching, analysis, and correction. The Vedas remained the calibrant.[NOTE: calibration-hierarchy]
 
@@ -216,9 +216,9 @@ The retreat did not end the attack on Hindu continuity. Missionaries continued s
 
 Hindu society retained enough room to transmit the Vedas and teach Sanskrit. Families and communities continued their observances and carried civilizational memory forward. The polity built around calibrant order had been damaged, but evidence of that order remained alive in the Vedas and in the language they calibrated.
 
-The surviving Vedic calibrant threatened the pyramid more deeply than war. Sanskrit demonstrates that order can remain exact and distributed without placing a ruler, church, academy, or state above it. The Vedas preserve a standard that no conqueror owns. People can compare themselves with that standard without asking an apex to certify the result.
+The Vedic calibrant that remained in Hindu hands threatened the pyramid more deeply than war. Sanskrit demonstrates that order can remain exact and distributed without placing a ruler, church, academy, or state above it. The Vedas preserve a standard that no conqueror owns. People can compare themselves with that standard without asking an apex to certify the result.
 
-The conflict predates Abrahamic rule in India. It is older than British-Christian rule and the Islamic rule that preceded it. An architecture aligned with असत् (*asat*) seeks to contain what should remain open and place itself above every standard. The Vedas preserve a calibrant it cannot own. Hindu continuity therefore remains a standing refusal of the asuric claim to universal control.
+The conflict predates Abrahamic rule in India. It is older than British-Christian rule and the preceding centuries of Islamic rule. An architecture aligned with असत् (*asat*) seeks to contain what should remain open and place itself above every standard. The Vedas preserve a calibrant it cannot own. Hindu continuity therefore remains a standing refusal of the asuric claim to universal control.
 
 Comparative philology was already being assembled before 1857. After overt conversion met its limit, its botanical vocabulary, foreign ancestry, and racial premises offered another way to weaken Hindu continuity. The British did not need to make every Veda disappear. They could leave the texts and practices in Hindu hands while teaching Indians to remember them incorrectly: the Vedas became archaic literature, वैदिक (*vaidika*) and लौकिक (*laukika*) became historical periods, Sanskrit became a foreign natural language, and Pāṇini became the apex who imposed order upon it.
 

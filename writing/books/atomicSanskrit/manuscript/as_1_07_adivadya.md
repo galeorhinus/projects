@@ -22,9 +22,9 @@ Then the instrument begins to shape itself: the tongue lifts in small increments
 
 Then the lips close and the soft palate drops, shutting the oral passage and opening the nasal one. Breath and voicing continue, but the new path moves the resonance into the nasal cavity as **म् (*m*)**. The sound hums rather than bursts, then fades.
 
-One breath. Three sonic spaces: throat-open, mouth-shaped, nose-coupled. Lungs, vocal cords, tongue, lips, soft palate, oral cavity, and nasal cavity all participate. **Oṃ is a compact acoustic sweep through the anatomy of sound.**
+One breath passes through three stages: the throat opens, the mouth shapes the tone, and the nose carries the final hum. Lungs, vocal cords, tongue, lips, soft palate, oral cavity, and nasal cavity all participate. **Oṃ is a compact acoustic sweep through the anatomy of sound.**
 
-Concision by design leaves recognizable signs: small form, no waste, clear transitions, concentrated meaning, many-facing use, and stable identity across time. Oṃ contains all six in a single breath. **Oṃ is architecture in seed form.**
+Designed concision leaves recognizable signs. The form is small and wastes nothing. Its transitions remain clear, its meaning is concentrated, it serves many purposes, and its identity remains stable through time. Oṃ contains all six qualities in a single breath. **Oṃ is architecture in seed form.**
 
 The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this अक्षर (*akṣara*) with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] *Sanātan* captures what persists across time, not simple antiquity. Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole span of time.
 
@@ -36,7 +36,7 @@ Every language uses the same physical apparatus. The lungs supply air. The vocal
 
 The Indian classical disciplines describe the voice as the original instrument. The following analogies help explain how that instrument produces different kinds of sound. A tabla resembles the consonant-event: a hand strikes the drumhead as the tongue strikes an articulating surface. A bansuri makes the vowel easier to picture as breath moving through a shaped resonant tube. A sarangi recalls the vibrating source and sympathetic resonance of the voice. The voice unites striking, breath, vibration, and resonance within one human instrument.[NOTE: adi-vadya-voice-as-original-instrument]
 
-A claim about Sanskrit's sound architecture must begin with the physical instrument that produces sound; only then can the chapter examine the Sanskrit vocabulary that maps that instrument.
+Before examining Sanskrit's vocabulary for sound, we must understand the physical instrument that vocabulary describes.
 
 ## 7.2 The Vocal Apparatus
 
@@ -46,7 +46,7 @@ The tongue is the most complex moving part: tip, blade, body, and base. Above it
 
 ![Figure 7.1 — The Vocal Apparatus. The anatomy of the original instrument: lungs, larynx, vocal cords, oral cavity, tongue, lips, nasal passage, and the articulating regions that make speech possible.](figures/adivadya/vocal_tract_anatomy.svg){#fig:adivadya-vocal-tract-anatomy width=100%}
 
-The anatomy makes the instrument analogy concrete. A clarinet has one reed and a fixed bore. The voice has variable vocal cords, a continuously reshaped bore, and a valve that couples or decouples a parallel nasal resonator. The voice contains reed, bore, valves, resonators, and articulators in one living system — every constructed wind instrument approximates one of them.
+The anatomy makes the instrument analogy concrete. A clarinet has one reed and a fixed bore. The voice has variable vocal cords, a continuously reshaped bore, and a valve that couples or decouples a parallel nasal resonator. The voice combines the functions of reed, bore, valves, resonators, and articulators in one living system. A constructed wind instrument reproduces only some of those functions.
 
 ## 7.3 Consonants Are Events
 
@@ -56,7 +56,7 @@ Think of a consonant as an event of contact or near-contact. Two articulatory ax
 
 The sound's values along these axes are its **articulatory coordinates**. They describe how the body produces the sound; they do not assign the sound a position in a language's inventory.
  
-Words like *stop*, *fricative*, and *nasal* describe these different manners. When you make a "stop," you block the airflow completely. When you make a "fricative," you squeeze the air through a tight gap to create friction. When you make a "nasal," you route the breath entirely through the nose. These specific manners turn a physical touch into a spoken syllable.
+Words like *stop*, *fricative*, and *nasal* describe these different manners. When you make a "stop," you block the airflow completely. When you make a "fricative," you squeeze the air through a tight gap to create friction. When you make a "nasal," you route the breath entirely through the nose. These terms describe how the moving parts of the mouth shape airflow into distinct consonants.
 
 Some part of the anatomy moves toward another part. The active articulator is usually the tongue or lower lip. The passive articulator may be the upper lip, teeth, alveolar ridge, hard palate, soft palate, uvula, pharynx, or glottis. Where the contact happens gives the sound its place: bilabial, dental, alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal.
 
@@ -76,11 +76,11 @@ Languages select from this space differently. Spanish uses a clean five-vowel sy
 
 The bansuri gives the clearest analogy: breath through a shaped resonant tube, with the effective geometry changing the tone. The sarangi gives another: a vibrating source with sympathetic resonance. The vocal cords vibrate; the oral and nasal cavities shape and amplify; the speaker holds the resonance in the mouth.[NOTE: sarangi-closest-to-human-voice]
 
-The sitar sits between the two. Each pluck is a discrete attack — like a consonant event. The string then sustains and decays — like a vowel. Speech alternates between attacks and sustains the same way.
+The sitar combines both patterns. Each pluck begins as a discrete attack, like a consonant event. The string then sustains and decays, like a vowel. Speech alternates between attacks and sustains the same way.
 
 Because consonants are discrete events and vowels are sustained tones, human speech constantly alternates between attack and resonance.
 
-Sanskrit makes this physical difference part of its timing architecture. A consonant receives a brief duration; a vowel can sustain the acoustic center around which that event occurs. Chapter 9 shows how Sanskrit bonds the two and measures their duration.
+Sanskrit makes this physical difference part of its timing architecture. A consonant lasts briefly. A vowel can sustain the tone before or after that consonantal event. Chapter 9 shows how Sanskrit bonds the two and measures their duration.
 
 ## 7.5 Every Language Is a Selection
 
@@ -92,7 +92,7 @@ English chooses one inventory. Arabic chooses another. Mandarin another. Hawaiia
 
 The inventory atlas identifies which sounds each language selects. The data source is a set of published consonant inventories coded onto one mouth-map. The atlas reduces each language to the consonants it keeps available as distinct sounds; then it assigns each consonant to its main place of articulation on a twelve-region axis running from lips to glottis: bilabial, labiodental, interdental, dental, alveolar, post-alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal.[NOTE: language-hotzones-inventory-method]
 
-For this first view, the chart collapses four inventories into hotzones instead of showing every consonant as a separate point. The area of each cloud is proportional to how many consonants that language selects from that region. English, Arabic, Mandarin, and Zulu serve as four load cases for the same instrument: English clusters toward the front and middle of the mouth; Arabic reaches deep into the throat; Mandarin concentrates around coronal and palatal regions; Zulu shows a different southern African selection that includes click mechanisms.
+For this first view, the chart collapses four inventories into hotzones instead of showing every consonant as a separate point. The area of each cloud is proportional to how many consonants that language selects from that region. English, Arabic, Mandarin, and Zulu provide four examples of how languages use the same vocal instrument differently: English clusters toward the front and middle of the mouth; Arabic reaches deep into the throat; Mandarin concentrates around coronal and palatal regions; Zulu shows a different southern African selection that includes click mechanisms.
 
 To read the chart, connect the labels to sounds you know. The **f** in English *fall* is labiodental: the lower lip touches the upper teeth. The **sh** in *should* is post-alveolar: the tongue blade shapes the flow just behind the alveolar ridge. In the Arabic panel, look farther back. **ق (*qāf*)** sits in the uvular column; **ح (*ḥāʾ*)** and **ع (*ʿayn*)** sit in the pharyngeal column. Among these four panels, Arabic alone occupies that deep region of the throat.
 
@@ -104,17 +104,17 @@ English scientific disciplines have built a rigorous vocabulary for this archite
 
 ## 7.6 The Sanskrit Map
 
-The same Indic classificatory discipline that named constructed instruments — **तत (*tata*)** for string, **सुषिर (*suṣira*)** for wind, **अवनद्ध (*avanaddha*)** for membrane, **घन (*ghana*)** for solid — also mapped the original instrument. It mapped where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) disciplines of the वेदाङ्ग (*Vedāṅga*).[NOTE: nadyashastra-four-instrument-taxonomy][NOTE: allen-1953-phonetics-ancient-india]
+The same Indic classificatory discipline that called constructed instruments **तत (*tata*)** for string, **सुषिर (*suṣira*)** for wind, **अवनद्ध (*avanaddha*)** for membrane, and **घन (*ghana*)** for solid also mapped the original instrument. It mapped where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) disciplines of the वेदाङ्ग (*Vedāṅga*).[NOTE: nadyashastra-four-instrument-taxonomy][NOTE: allen-1953-phonetics-ancient-india]
 
 ![Figure 7.3 — The Vocal Apparatus in Sanskrit. The same instrument described through the categories Sanskrit uses to produce and distinguish sound: स्थान (*sthāna*), प्राण (*prāṇa*), घोष (*ghoṣa*), and अनुनासिक (*anunāsika*).](figures/adivadya/vocal_apparatus_sanskrit.svg){#fig:adivadya-vocal-apparatus-sanskrit width=100%}
 
 The Sanskrit account begins with **स्थान (*sthāna*)**—place—where each *sthāna* name derives from the anatomy via a single, consistent pattern. The lip, ओष्ठ (*oṣṭha*), gives **ओष्ठ्य (*oṣṭhya*)** (of the lips); the tooth, दन्त (*danta*), gives **दन्त्य (*dantya*)** (of the teeth); the crown of the palate, मूर्धन् (*mūrdhan*, *head*), gives **मूर्धन्य (*mūrdhanya*)** (of the crown); the palate, तालु (*tālu*), gives **तालव्य (*tālavya*)** (of the palate); and the throat, कण्ठ (*kaṇṭha*), gives **कण्ठ्य (*kaṇṭhya*)** (of the throat). Sanskrit identifies five precise anatomical places and gives each one a name through the same derivational pattern.
 
-The five named स्थान (*sthāna*) are a specific selection from the possible places of contact. The interdental position between the upper and lower teeth, where English makes *th*, sits between ओष्ठ्य (*oṣṭhya*) and दन्त्य (*dantya*) and receives no separate Sanskrit station. The deep pharyngeal region where Arabic makes ع and ح sits behind कण्ठ्य (*kaṇṭhya*) and remains outside the system. The question now passes to the subcontinental sound inventory: are those five places already active before Sanskrit makes them exact?[NOTE: place-of-articulation-sanskrit-terms]
+The five named स्थान (*sthāna*) are a specific selection from the possible places of contact. The interdental position between the upper and lower teeth, where English makes *th*, sits between ओष्ठ्य (*oṣṭhya*) and दन्त्य (*dantya*) and receives no separate Sanskrit station. The deep pharyngeal region where Arabic makes ع and ح sits behind कण्ठ्य (*kaṇṭhya*) and remains outside the system. Chapter 8 turns to the subcontinental sound inventory and asks whether languages across India already use those five places before Sanskrit selects them precisely.[NOTE: place-of-articulation-sanskrit-terms]
 
 Alongside स्थान (*sthāna*) is **करण (*karaṇa*)** — the active articulator, the part that moves to make contact. The tongue is the principal करण (*karaṇa*); the lower lip is the करण (*karaṇa*) for labial sounds. स्थान (*Sthāna*) is where contact occurs. करण (*Karaṇa*) is what moves to make it.[NOTE: karana-active-articulator]
 
-Three further systems complete the sound, with each acting as a precise binary switch. **प्राण (*prāṇa*)** manages the breath-pressure from the lungs, toggling between light (अल्पप्राण, *alpaprāṇa*) and heavy (महाप्राण, *mahāprāṇa*); **घोष (*ghoṣa*)** controls the vocal cords, leaving them silent (अघोष, *aghoṣa*) or vibrating (घोष, *ghoṣa*); and finally, **अनुनासिक (*anunāsika*)** manages nasal coupling, dropping the soft palate to open the nasal cavity or raising it to close it.
+Three further systems complete the sound. Each acts as a precise binary switch. **प्राण (*prāṇa*)** manages the breath pressure from the lungs and distinguishes light breath (अल्पप्राण, *alpaprāṇa*) from heavy breath (महाप्राण, *mahāprāṇa*). **घोष (*ghoṣa*)** records whether the vocal cords remain silent (अघोष, *aghoṣa*) or vibrate (घोष, *ghoṣa*). **अनुनासिक (*anunāsika*)** records whether the soft palate drops to open the nasal cavity or rises to close it.
 
 Each term designates a physical operation. The vocabulary maps directly onto physiology.
 
@@ -122,9 +122,9 @@ Each term designates a physical operation. The vocabulary maps directly onto phy
 
 The Sanskrit system classifies sound through contact.
 
-Every sound requires a particular degree of contact or opening. The grammatical account names five internal efforts. **स्पृष्ट (*spṛṣṭa*)**, fully touched, describes the stops and nasals. **ईषत्स्पृष्ट (*īṣat-spṛṣṭa*)**, slightly touched, describes the *antaḥstha* sounds. **ईषद्विवृत (*īṣad-vivṛta*)**, slightly open, describes the *ūṣman* sounds. **विवृत (*vivṛta*)**, open, describes the vowels. A fifth term, **संवृत (*saṃvṛta*)**, describes short **अ (*a*)** in ordinary use; during grammatical analysis, the same vowel is treated as *vivṛta*.[NOTE: sprista-isatsprista-isatsamvrta-vivrta-constriction]
+Every sound requires a particular degree of contact or opening. The grammatical account identifies five internal efforts. **स्पृष्ट (*spṛṣṭa*)**, fully touched, describes the stops and nasals. **ईषत्स्पृष्ट (*īṣat-spṛṣṭa*)**, slightly touched, describes the *antaḥstha* sounds. **ईषद्विवृत (*īṣad-vivṛta*)**, slightly open, describes the *ūṣman* sounds. **विवृत (*vivṛta*)**, open, describes the vowels. A fifth term, **संवृत (*saṃvṛta*)**, describes short **अ (*a*)** in ordinary use; during grammatical analysis, the same vowel is treated as *vivṛta*.[NOTE: sprista-isatsprista-isatsamvrta-vivrta-constriction]
 
-From those contact-types arise four major sound classes.
+Sanskrit groups these degrees of contact and opening into four major sound classes.
 
 **स्पर्श (*Sparśa*)** means contact. These are full-contact consonants: stops, or plosives. The tabla approximates स्पर्श (*sparśa*) because both are controlled contact-events.
 
@@ -144,15 +144,19 @@ The Sanskrit sound-system rests on three governing questions: **स्थान 
 
 In modern phonetics, स्थान (*sthāna*) corresponds closely to place of articulation. प्रयत्न (*Prayatna*) corresponds broadly to manner and effort, but it encompasses more than the English word *manner*: contact-type, voicing, aspiration, breath-pressure, and nasal coupling all belong to what the body does at the chosen place.
 
-प्रयत्न (*Prayatna*) is the effort applied to the mouth's geometry. It splits into internal and external effort. **आभ्यन्तर प्रयत्न (*ābhyantara prayatna*)** is the internal effort: the specific degree of contact or constriction at the physical place. **बाह्य प्रयत्न (*bāhya prayatna*)** describes what happens beyond that oral contact: whether the glottis supplies breath or voice, whether the release carries little or much breath, whether the nasal passage opens, and how pitch moves.[NOTE: abhyantara-bahya-prayatna][NOTE: svasa-nada-vivrta-samvrta-phonation]
+प्रयत्न (*Prayatna*) describes what the body does at the selected place in the mouth. It splits into internal and external effort. **आभ्यन्तर प्रयत्न (*ābhyantara prayatna*)** is the internal effort: the specific degree of contact or constriction at the physical place. **बाह्य प्रयत्न (*bāhya prayatna*)** describes what happens beyond that oral contact: whether the glottis supplies breath or voice, whether the release carries little or much breath, whether the nasal passage opens, and how pitch moves.[NOTE: abhyantara-bahya-prayatna][NOTE: svasa-nada-vivrta-samvrta-phonation]
 
-The full classification runs on multiple axes. It measures exactly where the sound is made, what moves to make it, and how the breath and vocal cords behave.
+The full classification combines several axes. It records where the sound is made, what moves to make it, and how the breath and vocal cords behave.
 
 Consider the sound **घ (*gh*)** that is placed in the throat (कण्ठ्य, *kaṇṭhya*). The root of the tongue moves to strike it (करण, *karaṇa*). The vocal cords are buzzing (घोष, *ghoṣa*), and a heavy push of breath drives it (महाप्राण, *mahāprāṇa*). The nose remains sealed during all of this.
 
-Because flipping just one switch instantly changes the output, turning off the voicing makes *gh* become *kh*, turning down the breath makes it become *g*, and opening the nose makes it become ङ् (*ṅ*). Therefore, since every sound sits at its own specific, engineered address, the वर्णमाला (*varṇamālā*) serves as the comprehensive map of all those addresses.
+Changing one switch changes the sound. Remove voicing from *gh*, and the result is *kh*. Reduce the breath, and the result is *g*. Open the nasal passage, and the result is ङ् (*ṅ*).
 
-Modern phonetics breaks down speech using its own labels: place, manner, voicing, aspiration, nasalization, and duration. The goal is to analyze the sounds that already exist in a language. Sanskrit maps the phonetic grid using स्थान (*sthāna*), करण (*karaṇa*), प्रयत्न (*prayatna*), प्राण (*prāṇa*), घोष (*ghoṣa*), अनुनासिक (*anunāsika*), अनुप्रदान (*anupradāna*), and मात्रा (*mātrā*). But Sanskrit's purpose is different. It is not merely engaged in anatomical analysis of what the mouth happens to do. It is describing the structural architecture the civilization engineered for the language.
+Each sound therefore occupies a specific engineered address. The वर्णमाला (*varṇamālā*) maps those addresses.
+
+Modern phonetics analyzes speech through place, manner, voicing, aspiration, nasalization, and duration. It uses those categories to describe the sounds that already exist in a language.
+
+Sanskrit uses स्थान (*sthāna*), करण (*karaṇa*), प्रयत्न (*prayatna*), प्राण (*prāṇa*), घोष (*ghoṣa*), अनुनासिक (*anunāsika*), अनुप्रदान (*anupradāna*), and मात्रा (*mātrā*). These categories do more than describe what the mouth happens to do. They specify the sound architecture engineered for Sanskrit.
 
 The opening syllable can now be heard anatomically. **ॐ (*oṃ*)**, unfolded as **अ-उ-म् (*a-u-m*)**, uses the same bodily systems the वर्णमाला (*varṇamālā*) organizes: breath from the lungs, vibration at the vocal cords, resonance in the oral cavity, shaping and closure at the lips, and nasal coupling at the end. ॐ (*Oṃ*) compresses the entire vocal instrument into one syllable.[NOTE: om-vocal-tract-macro-gesture]
  

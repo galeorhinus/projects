@@ -16,12 +16,12 @@
 
 ## 6.1 What Sanskrit Had to Defeat
 
-Sanskrit was engineered to remain invariant while people continued using it to create new expression. That purpose faces two enemies:
+Sanskrit was engineered to remain invariant while people continued using it to create new expression. Two forces threaten that purpose:
 
 1. **Entropy**
 2. **Asuric attack**
 
-A temple can lose its form through either enemy.
+A temple shows how the two threats differ.
 
 A temple can be destroyed deliberately. Invaders break its मूर्ति (*mūrti*) and burn its manuscripts. They kill or scatter the people who sustain its worship, seize its wealth, and pull apart its walls. This is asuric action. An agent deliberately dismantles the structure to interrupt its purpose and remove it from society.
 
@@ -41,15 +41,15 @@ The chapter first examines entropy through the Hindu continuum's analysis of **�
 
 ### अपभ्रंशः (*Apabhraṃśa*): Sanskrit's Diagnosis of Entropy
 
-Chapter 5 established the bond between word and meaning as सिद्ध (*siddha*): the language receives that bond as already established rather than assigning it afresh with every act of speech. Once speakers inherit an established bond, the grammatical disciplines must identify and correct the forms that break away from it.
+Chapter 5 established the bond between word and meaning as सिद्ध (*siddha*): speakers receive that bond as already established rather than assigning it afresh with every act of speech. Once speakers inherit an established bond, the grammatical disciplines must identify and correct the forms that break away from it.
 
-An authority-based system treats a departure as disobedience because an institution has selected the standard. Sanskrit can identify the same event as deviation because its architecture supplies the calibrant.
+An authority-based system treats a departure as disobedience because an institution has selected the standard. Sanskrit can identify the same event as deviation because the calibrant is built into its architecture.
 
 Sanskrit calls that deviation **अपभ्रंशः (*apabhraṃśa*)** — a falling-away from established form. Its construction shows the movement: अप- (*apa-*) means away, off, or down, while भ्रंश (*bhraṃśa*) contains the semantic atom ⟪भ्रंश्⟫ (*bhraṃś*) — to fall or slip. A speaker produces अपभ्रंशः (*apabhraṃśa*) when an uttered form slips from the engineered form that grammar specifies.
 
-An अपभ्रंशः (*apabhraṃśa*) can alter a sound or reshape a word. A speaker may change its pronunciation, substitute an ending, rearrange its syllables, or add material that its derivation does not require. Grammar compares each resulting form with the established शब्द (*śabda*).
+An अपभ्रंशः (*apabhraṃśa*) can alter a sound or reshape a word. A speaker may change the word's pronunciation, substitute an ending, rearrange its syllables, or add material that the derivation does not require. Grammar compares each resulting form with the established शब्द (*śabda*).
 
-The वैयाकरणाः (*vaiyākaraṇāḥ*) locate the departure inside the form and use the standing architecture to restore its fit. Their analysis turns "incorrect speech" into a more exact diagnosis: अपभ्रंशः (*apabhraṃśa*) is linguistic entropy, the tendency of an established form to slip during use and transmission.
+The वैयाकरणाः (*vaiyākaraṇāḥ*) locate the departure inside the form and use the established architecture to restore the calibrated form. Their analysis turns "incorrect speech" into a more exact diagnosis: अपभ्रंशः (*apabhraṃśa*) is linguistic entropy, the tendency of an established form to slip during use and transmission.
 
 ## 6.2 Few Words, Many Corruptions
 
@@ -75,17 +75,21 @@ Patañjali demonstrates the imbalance through **गौः (*gauḥ*)** — cow. 
 
 > **गावी (*gāvī*), गोणी (*goṇī*), गोता (*gotā*), गोपोतलिका (*gopotalikā*).**[NOTE: paspashahnika-apabhramsa-passage]
 
-Each variant follows a different route away from गौः (*gauḥ*): गावी (*gāvī*) lengthens and reshapes the form, गोणी (*goṇī*) changes its consonantal body, गोता (*gotā*) simplifies the word and supplies another ending, and गोपोतलिका (*gopotalikā*) adds material that the calibrated derivation does not require. Patañjali groups all four around one शब्द (*śabda*) because the same architecture that generates गौः (*gauḥ*) also reveals why the other forms fail to match it. His list therefore establishes a center and compares several departures with it, rather than treating five circulating forms as equally constitutive of the language. Modern linguistics gives different names to the ways a word can change. Patañjali begins from another question: which form does Sanskrit recognize as the word, and which forms have fallen away from it? Philology now lists गावी (*gāvī*) among the source-forms behind the modern Hindi word for cow, while Patañjali's list records that same form as a falling-away.[NOTE: gavi-source-form-reversal]
+Each variant follows a different route away from गौः (*gauḥ*). गावी (*gāvī*) lengthens and reshapes the form. गोणी (*goṇī*) changes its consonantal body. गोता (*gotā*) simplifies the word and adds another ending. गोपोतलिका (*gopotalikā*) adds material that the calibrated derivation does not require.
+
+Patañjali groups all four around one शब्द (*śabda*) because the same architecture that generates गौः (*gauḥ*) also reveals why the other forms fail to match it. His list establishes a center and compares several departures with it. It does not treat five circulating forms as equally constitutive of Sanskrit.
+
+Modern linguistics gives different names to the ways a word can change. Patañjali begins with another question: which form does Sanskrit recognize as the word, and which forms have fallen away from it? Philology now lists गावी (*gāvī*) among the source-forms behind the modern Hindi word for cow, while Patañjali records that same form as a falling-away.[NOTE: gavi-source-form-reversal]
 
 ![Figure 6.1 — गौः (*Gauḥ*) and Its Four Listed अपभ्रंशाः (*Apabhraṃśas*). Patañjali's example mapped: one calibrated form; four falls, each at its own distance, all remaining in orbit.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
 
-Figure 6.1 places गौः (*gauḥ*) at the center and gives each listed अपभ्रंशः (*apabhraṃśa*) a different orbital distance. The geometry preserves a relation that prose can easily blur: even a form that falls far from गौः (*gauḥ*) remains identifiable and measurable against the calibrant from which it fell. Sanskrit's gravity continues to act among Indic languages, whereas Sanskrit's radiance can travel beyond that orbit and seed forms that acquire their own organic life in another language. Chapter 19 follows those outward rays and the trees that grow where they land.
+Figure 6.1 places गौः (*gauḥ*) at the center and gives each listed अपभ्रंशः (*apabhraṃśa*) a different orbital distance. The geometry clarifies the relationship: even a form shown far from गौः (*gauḥ*) remains identifiable because it can still be compared with the calibrant from which it fell. Sanskrit's gravity continues to act among Indic languages, whereas Sanskrit's radiance can travel beyond that orbit and seed forms that acquire their own organic life in another language. Chapter 19 follows those outward rays and the trees that grow where they land.
 
 ## 6.4 The Four Classifications Under Entropy
 
 Figure 2.1 classifies languages by origin and generativity. It distinguishes languages that arise organically from those that are engineered, then asks how much new expression each can generate. Entropy adds another parameter: what repeated use does to each kind of language and how a departure can be corrected.
 
-Before applying that parameter to the four categories, three related movements need to be distinguished. They are not three equal kinds of entropy. Each describes the movement from a different position.
+Before applying that parameter to the four categories, three related kinds of change need to be distinguished. One occurs within a natural language. Another is a departure within a calibrated architecture. The third is the growing distance between a language and the calibrant from which it received some of its forms.
 
 **Drift** is change within a natural language as generations use it. In English, Old English *hlāfweard* became *laverd* and *lorde*, then modern *lord*.
 
@@ -97,13 +101,13 @@ Left uncorrected, repeated deviations can accumulate into drift. That is how a c
 
 Patañjali's गावी (*gāvī*) was a deviation: Sanskrit's architecture could locate it and restore गौः (*gauḥ*). No correction reaches Hindi or Marathi, and their गाय (*gāy*) stands further out. The same गौः (*gauḥ*) holds the center of all of them.
 
-Divergence keeps that center; drift loses it. An English speaker needs a philologist to connect *lord* with *hlāfweard*, because no earlier form stands beside it in ordinary use. Hindi and Marathi speakers meet गाय (*gāy*) alongside *go-* in everyday compounds, so the relationship holds even for a speaker who has never studied a derivation.
+Divergence can still be described by comparison with a known calibrant. Drift within a natural language has no unchanged center available in ordinary use. An English speaker needs a philologist to connect *lord* with *hlāfweard*, because no earlier form stands beside it in ordinary use. Hindi and Marathi speakers meet गाय (*gāy*) alongside *go-* in everyday compounds, so the relationship holds even for a speaker who has never studied a derivation.
 
 The four categories from Figure 2.1 respond differently to entropy.
 
-**Natural languages absorb drift into their continuing use.** Each generation receives a language that earlier speakers have already changed. It adapts that inheritance to its own circumstances and passes the resulting language forward. This is botanical behavior: the language remains generative by changing with its speakers.
+**Natural languages absorb drift into their continuing use.** Each generation receives a language that earlier speakers have already changed. Its speakers adapt that inheritance to their own circumstances and pass the resulting language forward. This is botanical behavior: the language remains generative by changing with its speakers.
 
-**A petrified language restrains drift by placing a selected form under authority.** A court or academy determines which forms belong inside the accepted register. Speech outside that register may continue changing, but the selected form cannot easily admit a new expression until the authority accepts it. When that approval does not come, everyday speech moves beyond the preserved form.
+**A petrified language restrains drift by placing a selected form under authority.** A court or academy determines which forms belong to the accepted formal language. Everyday speech may continue changing outside it, but the selected formal language cannot easily admit a new expression until the authority accepts it. When that approval does not come, everyday speech moves beyond the preserved form.
 
 **A Lexicon-Dependent Conlang begins with an engineered plan that cannot generate every expression its speakers will need.** New circumstances eventually exceed its initial vocabulary and procedures. Its creator or speaking community must then add more material, so continued expression depends upon extending the inventory.
 
@@ -119,13 +123,13 @@ Sanskrit withstood entropy before Pāṇini and continued to withstand it after 
 
 ## 6.5 Engineered Against Entropy
 
-Modern thermodynamics uses *entropy* for the tendency of an organized system to move toward disorder unless some constraint preserves its arrangement. Patañjali documents the linguistic analogue when he places many अपशब्दाः (*apaśabdāḥ*) around a much smaller set of शब्दाः (*śabdāḥ*). His observation diagnoses the pressure; Sanskrit's grammatical and recitational disciplines supply the engineered response.
+Modern thermodynamics uses *entropy* for the tendency of an organized system to move toward disorder unless some constraint preserves its arrangement. Patañjali documents the linguistic analogue when he places many अपशब्दाः (*apaśabdāḥ*) around a much smaller set of शब्दाः (*śabdāḥ*). His observation diagnoses the pressure. Sanskrit's grammatical and recitational disciplines provide the engineered response.
 
 Several analytical documents explain different parts of the architecture. The अष्टाध्यायी (*Aṣṭādhyāyī*) specifies grammatical operations, the वार्त्तिकानि (*Vārttikāni*) examine their application, and the महाभाष्य (*Mahābhāṣya*) explains and defends the system. The **षड्वेदाङ्गानि (*ṣaḍ-vedāṅgāni*)** — शिक्षा (*Śikṣā*), व्याकरण (*Vyākaraṇa*), निरुक्त (*Nirukta*), कल्प (*Kalpa*), छन्दस् (*Chandas*), and ज्योतिष (*Jyotiṣa*) — preserve additional knowledge about pronunciation, analysis, meter, procedure, and use. The प्रातिशाख्य (*Prātiśākhya*) texts record the phonetic requirements of particular recensions.
 
 The recitation methods provide another set of checks. The पदपाठ (*padapāṭha*) separates a continuous line into words, while क्रम (*krama*), जटा (*jaṭā*), and घन (*ghana*) recombine those words under increasingly dense constraints.
 
-Natural drift can change a word's sound until the earlier form becomes difficult to recognize. It can also leave the sound recognizable while replacing its meaning. Natural languages display both forms of change across generations. Sanskrit's caretakers responded differently: they documented the tendency to fall, preserved the calibrated form, and distributed several methods for detecting a departure while transmission was still occurring.
+Natural drift can change a word's sound until the earlier form becomes difficult to recognize. It can also leave the sound recognizable while replacing its meaning. Natural languages display both forms of change across generations. Sanskrit's caretakers responded differently. They identified the ways a form could change, preserved the calibrated form, and distributed several methods for detecting a departure during transmission.
 
 The Vedic corpus joins **छन्दस् (*chandas*)** — metrical form — with **श्रुति (*śruti*)** — heard transmission — because a departure can enter through any speaker and at any recitation. Meter makes a changed quantity or syllable disturb a known pattern, while heard transmission places the utterance before teachers, students, senior reciters, and a community whose trained ears already know the received form. These two constraints allow the lineage to catch a quiet deviation during performance and correct it before another generation inherits the altered form. Poetry, recitation, meter, and lineage together form the anti-entropy architecture.
 
@@ -141,7 +145,7 @@ The same architecture also confronts the second enemy. Entropy accumulates throu
 
 If the calibrant resided in one manuscript, burning that object could erase it. If one office determined the correct form, capturing that office would give the attacker control over the standard. If one community alone carried the recitation, killing or scattering that community could break the transmission.
 
-Sanskrit distributes these responsibilities. Vedic sounds reside in trained reciters across many communities. Grammar is articulated through several analytical texts and teaching traditions. Meter, etymology, recitation, and sentence analysis preserve different parts of the architecture and check one another. An attacker can inflict immense loss on one place without gaining custody of the whole.
+Sanskrit distributes these responsibilities. Trained reciters across many communities carry the Vedic sounds. Several analytical texts and teaching traditions explain the grammar. Meter, etymology, recitation, and sentence analysis preserve different parts of the architecture and check one another. An attacker can inflict immense loss on one place without gaining custody of the whole.
 
 Asuric attack can also continue through concealment after physical destruction fails. The pyramid can misclassify Sanskrit, replace its categories, and teach society to distrust what remains. A distributed calibrant gives people outside the attacker's institutions the sounds, grammar, and analytical methods required to test those claims.
 
@@ -149,15 +153,19 @@ Chapter 13 §13.3 examines why every physical medium remains vulnerable to decay
 
 ## 6.6 Variation Is Not Drift
 
-The pyramid turns every difference within the Vedic corpus into a chronological claim. Differences among the four Vedas, the Ṛgvedic मण्डलाः (*maṇḍalāḥ*), transmission lineages, accents, and word forms all become supposed evidence that Vedic Sanskrit changed over time.[NOTE: vedic-variation-eight-claims]
+The pyramid turns every difference within the Vedic corpus into a chronological claim. Differences among the four Vedas, the Ṛgvedic मण्डलाः (*maṇḍalāḥ*), transmission lineages, accents, and word forms all become supposed evidence that *"Vedic Sanskrit"* changed over time.[NOTE: vedic-variation-eight-claims]
 
-A few differences cannot by themselves establish an evolutionary history of Sanskrit. Mortimer Wheeler once turned a small and stratigraphically scattered collection of skeletons at Mohenjo-daro into an Aryan-invasion massacre. Later archaeological analysis dismantled that inference. Thirty-seven skeletons found in different areas and without one shared archaeological context were made to tell a single story of massacre and racial replacement.[NOTE: wheeler-mohenjo-daro-overreach] The pyramid performs the same enlargement when a collection of Vedic variations becomes an evolutionary history of Sanskrit.
+A few differences cannot by themselves establish an evolutionary history of Sanskrit. Mortimer Wheeler once used a small and stratigraphically scattered collection of skeletons at Mohenjo-daro to construct a story of an Aryan-invasion massacre. Later archaeological analysis dismantled that inference. The thirty-seven skeletons came from different areas and did not share one archaeological context.[NOTE: wheeler-mohenjo-daro-overreach]
+
+The pyramid makes the same enlargement when it turns a collection of Vedic variations into an evolutionary history of Sanskrit.
 
 The four Vedas form distinct functional streams: the Ṛgveda invokes and addresses, the Yajurveda joins mantra to measured action, the Sāmaveda transforms mantra through melodic pattern, and the Atharvaveda protects, corrects, heals, and restores balance. Different Rigvedic मण्डलाः (*maṇḍalāḥ*) make metrical and compositional choices suited to different contexts, while the Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad layers preserve different kinds of instruction and inquiry.
 
-The recitational disciplines preserve variation with equal precision. प्रातिशाख्य (*Prātiśākhya*) texts document the phonetic requirements of particular lineages, those lineages keep their received forms from dissolving into one another, and operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)** mark licensed alternatives explicitly. Vedic accent remains active in the छन्दस् (*chandas*) mode as a grammatical and interpretive layer, while the भाषा (*bhāṣā*) mode omits that layer and uses a tighter set of forms for new लौकिक (laukika) composition. Sanskrit therefore records the location and purpose of a variation instead of leaving it to spread without a boundary.
+The recitational disciplines preserve variation with equal precision. प्रातिशाख्य (*Prātiśākhya*) texts document the phonetic requirements of particular lineages. Those lineages keep their received forms from dissolving into one another, while operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)** mark permitted alternatives explicitly.
 
-The pyramid converts these functional distinctions into chronology. To establish drift, comparative philology would have to show the mechanism by which an earlier form changed into a later one; instead, it usually places the forms on a timeline and treats the timeline as proof of the change. That maneuver also supports the migration-and-borrowing account, which requires Vedic Sanskrit to change as the imaginary Aryans enter the subcontinent. Chapter 19 develops the alternative account for Vedic-Avestan parallels through प्रतिबिम्ब (*pratibimba*) and outward Sanskritic radiance.
+Vedic accent remains active in the छन्दस् (*chandas*) mode as a grammatical and interpretive layer. The भाषा (*bhāṣā*) mode omits that layer and uses a tighter set of forms for new लौकिक (laukika) composition. Sanskrit therefore identifies where a variation belongs and what purpose it serves instead of allowing it to spread without a boundary.
+
+The pyramid converts these functional distinctions into chronology. To establish drift, comparative philology would have to show the mechanism by which an earlier form changed into a later one; instead, it usually places the forms on a timeline and treats the timeline as proof of the change. That maneuver also supports the migration-and-borrowing account, which requires *"Vedic Sanskrit"* to change as the imaginary Aryans enter the subcontinent. Chapter 19 develops the alternative account for Vedic-Avestan parallels through प्रतिबिम्ब (*pratibimba*) and outward Sanskritic radiance.
 
 Appendix Part 7 demonstrates the shared architecture through three Vedic passages. Appendix Part 8 documents the designed differences between the two domains, while Appendix Part 9 tests the codification myth against the complete architecture.
 
@@ -165,17 +173,17 @@ Appendix Part 7 demonstrates the shared architecture through three Vedic passage
 
 ## 6.7 Orbit, Drift, and Divergence
 
-Sanskrit's internal architecture detects deviation as अपभ्रंशः (*apabhraṃśa*). Nearby natural languages present a different process: they drift through use and can diverge from Sanskrit while Sanskrit remains available as their calibrant. A calibrant supplies a stable reference against which another system can align, just as a master clock calibrates a network or a gauge block calibrates a measurement. If the reference moved with every system that used it, comparison and correction would become impossible.
+Sanskrit's internal architecture detects deviation as अपभ्रंशः (*apabhraṃśa*). Nearby natural languages present a different process: they drift through use and can diverge from Sanskrit while Sanskrit remains available as their calibrant. A calibrant is a stable reference against which another system can align, just as a master clock calibrates a network or a gauge block calibrates an instrument. If the reference moved with every system that used it, comparison and correction would become impossible.
 
-The four quadrants in Figure 2.1 classify languages and forms by origin and generativity. The three tiers here classify them by their relation with the Sanskrit calibrant. Sanskrit occupies the center; nearby natural languages remain within its active orbit; and forms carried farther away can preserve Sanskrit's radiance even after they leave the reach of its continuing correction.
+The four quadrants in Figure 2.1 classify languages and forms by origin and generativity. The three tiers here classify them by their relation with the Sanskrit calibrant. Sanskrit occupies the center. Nearby natural languages remain within its active orbit. Farther away, languages can retain forms received through Sanskrit's radiance even after they have passed beyond the reach of continuing correction.
 
-**Sanskrit supplies the calibrant.** The Vedas preserve its architecture, while the अष्टाध्यायी (*Aṣṭādhyāyī*), पदपाठ (*padapāṭha*), प्रातिशाख्य (*Prātiśākhya*), शिक्षा (*Śikṣā*), and वेदाङ्ग (*Vedāṅga*) disciplines document and transmit different parts of that architecture. Together they keep forms such as गौः (*gauḥ*) and **जड (*jaḍa*)** — inert, lifeless, dull-minded, cold-and-heavy — available as stable centers that later speakers can use for comparison.
+**Sanskrit is the calibrant.** The Vedas preserve its architecture, while the अष्टाध्यायी (*Aṣṭādhyāyī*), पदपाठ (*padapāṭha*), प्रातिशाख्य (*Prātiśākhya*), शिक्षा (*Śikṣā*), and वेदाङ्ग (*Vedāṅga*) disciplines document and transmit different parts of that architecture. Together they keep forms such as गौः (*gauḥ*) and **जड (*jaḍa*)** — inert, lifeless, dull-minded, cold-and-heavy — available as stable centers that later speakers can use for comparison.
 
 **Orbital languages drift internally and diverge relationally.** Marathi and Hindi receive Sanskrit vocabulary while retaining enough of the surrounding semantic and derivational image to constrain how far a word can move. Marathi **जाड (*jāḍ*)** develops the physical-density branch of जड (*jaḍa*) into *fat* or *thick*, while related forms preserve the older association with cognitive heaviness. In the same way, **मूर्ख (*mūrkha*)**, built from **मूर्छ् (*mūrch*)**, remains connected to **मूर्छा (*mūrchā*)**, so the language continues to preserve the semantic image even when an individual speaker does not consciously know the atom. Continued contact with Sanskrit also allows speakers to renew that alignment when they need new words or greater precision.
 
 **Languages outside the active orbit drift without continued calibration and diverge farther.** English vocabulary for cognitive failure has moved through *idiot*, *imbecile*, *moron*, *feebleminded*, *retarded*, *intellectually disabled*, and *neurodivergent*. A term enters as a supposedly neutral description, speakers attach the social stigma of its referent to it, and institutions eventually replace it with another term; *retarded*, for example, left United States federal statutes through Rosa's Law and later disappeared from diagnostic usage.[NOTE: rosa-law-2013] The phrase *euphemism treadmill* describes this repeated replacement.[NOTE: pinker-euphemism-treadmill]
 
-The label identifies the cycle, while the calibrant account explains why a borrowed word can lose its original semantic constraints. English received the Greek surface behind *moron* without also receiving a living धातु (*dhātu*)-system that could keep its constituent image present in ordinary speech. Marathi and Hindi speakers, by contrast, continue to encounter मूर्ख (*mūrkha*) inside a speech ecosystem that also contains मूर्छा (*mūrchā*) and related forms. The surrounding family of forms anchors the word even when the speaker has never studied its derivation.
+The label identifies the cycle, while the calibrant account explains why a borrowed word can lose its original semantic constraints. English received the Greek word behind *moron* without receiving a living धातु (*dhātu*)-system that could keep the word's constituent image present in ordinary speech. Marathi and Hindi speakers, by contrast, continue to encounter मूर्ख (*mūrkha*) inside a speech ecosystem that also contains मूर्छा (*mūrchā*) and related forms. The surrounding family of forms anchors the word even when the speaker has never studied its derivation.
 
 Chapter 14 develops the calibration matrix that preserves Sanskrit internally. Chapter 19 §19.7 develops the Radiance Thesis beyond the active orbit. The two movements belong to one architecture: gravity keeps nearby forms in orbit, while radiance travels outward and gives other languages material they can reshape and extend.
 
@@ -183,6 +191,10 @@ Chapter 14 develops the calibration matrix that preserves Sanskrit internally. C
 
 अपभ्रंशः (*Apabhraṃśa*) recurs wherever time and pressure pull an engineered order away from its design. Chapter 1 distinguished that ordinary entropic tendency from asuric action: asuric action accelerates the fall, converts the resulting disorder into an instrument of control, and then presents the damaged condition as the nature of the original system.
 
-Caste is the clearest social instance. The dharmic architecture specifies **वर्ण (*varṇa*)** by **गुण (*guṇa*)** and **कर्म (*karma*)** — disposition and action, not birth — and the *Assalāyana Sutta* places the rigid master-slave binary at the bordering nations, not the Indic core (Chapter 3 §3.2). Caste-as-fixed-birth-rank is the अपभ्रंशः (*apabhraṃśa*) of that order: a falling-away the Abrahamic master-slave substrate **fed** and the colonial census **hardened**, freezing fluid जाति (*jāti*) into enumerated, ranked administration[NOTE: caste-colonial-census-hardening] — the social mirror of गौः (*gauḥ*) slipping into गावी (*gāvī*).
+Caste is the clearest social instance. The dharmic architecture defines **वर्ण (*varṇa*)** through **गुण (*guṇa*)** and **कर्म (*karma*)**: disposition and action, not birth. The *Assalāyana Sutta* places the rigid master-slave binary in the bordering nations, not the Indic core (Chapter 3 §3.2).
 
-This volume follows the linguistic expression of that fractal, while later volumes in the *Second Shanti* series extend the same analysis into social and civilizational order. At the linguistic scale, the constituent that retains its identity under pressure is the धातुः (*dhātuḥ*). Before Chapter 10 can examine that semantic atom, Part III establishes the sounds from which Sanskrit builds it. The speaking body can produce a larger range of sounds. Languages across the Indian subcontinent preserve the superset from which Sanskrit selects. The Vedic sieve identifies reusable sonances, and the वर्णमाला (*varṇamālā*) assigns the resulting sonomers their grid addresses.
+Caste as fixed birth-rank is the अपभ्रंशः (*apabhraṃśa*) of that order. The Abrahamic master-slave substrate fed the departure, and the colonial census hardened it by turning fluid जाति (*jāti*) into enumerated, ranked administration.[NOTE: caste-colonial-census-hardening] At the social scale, the change mirrors गौः (*gauḥ*) slipping into गावी (*gāvī*).
+
+This volume follows the linguistic expression of that fractal. Later volumes in the *Second Shanti* series will extend the same analysis into social and civilizational order.
+
+At the linguistic scale, the धातुः (*dhātuḥ*) retains its identity under pressure. Before Chapter 10 examines that semantic atom, Part III establishes the sounds from which Sanskrit builds it. The speaking body can produce more sounds than Sanskrit uses. Languages across the Indian subcontinent preserve the larger inventory from which Sanskrit selects its sonances. The Vedic sieve identifies the reusable sonances, and the वर्णमाला (*varṇamālā*) assigns the resulting sonomers their grid addresses.

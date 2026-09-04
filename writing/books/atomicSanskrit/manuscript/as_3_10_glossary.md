@@ -15,7 +15,7 @@ The book's coined terms are therefore bridges back to Sanskrit's own categories.
 The glossary is organized in three groups:
 
 1. **Engineering core vocabulary** — the chemistry idiom the book uses across chapters.
-2. **Technical Sanskrit vocabulary** — standard grammatical and śāstric terms whose specific senses matter for the diagnosis.
+2. **Technical Sanskrit vocabulary** — standard grammatical and śāstric terms whose precise meanings support the diagnosis.
 3. **Diagnostic vocabulary** — the cluster terms the book uses for the pyramid and its formations.
 
 ---
@@ -200,7 +200,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Standard.** The eternal / unchanging order; the civilizational continuum the book treats as the alternative architecture to the asuric pyramid. Used as a proper noun in the book — no English partner; *Sanātan* is the term.
 
-**Form discipline for the following triad.** प्रकृति (*Prakṛti*), संस्कृति (*saṃskṛti*), and विकृति (*vikṛti*) are nouns and category names. Their ordinary adjective forms are प्राकृतिक (*prākṛtika*), सांस्कृतिक (*sāṃskṛtika*), and वैकृतिक (*vaikṛtika*). Established compounds such as प्रकृतिपाठ (*prakṛti-pāṭha*), विकृतिपाठ (*vikṛti-pāṭha*), and प्रकृतिभाव (*prakṛti-bhāva*) retain the noun. The form प्राकृत (*prākṛta*) describes what is naturally formed and also identifies a historical प्राकृत (*Prākṛta*) language or linguistic form. संस्कृत (*Saṃskṛta*) names the wholly created form and the language; *Sanskritic* is the English adjective for something pertaining to Sanskrit. When the adjective belongs to संस्कृति (*saṃskṛti*), the form is सांस्कृतिक (*sāṃskṛtika*).
+**Form discipline for the following triad.** प्रकृति (*Prakṛti*), संस्कृति (*saṃskṛti*), and विकृति (*vikṛti*) are nouns and category names. Their ordinary adjective forms are प्राकृतिक (*prākṛtika*), सांस्कृतिक (*sāṃskṛtika*), and वैकृतिक (*vaikṛtika*). Established compounds such as प्रकृतिपाठ (*prakṛti-pāṭha*), विकृतिपाठ (*vikṛti-pāṭha*), and प्रकृतिभाव (*prakṛti-bhāva*) retain the noun. The form प्राकृत (*prākṛta*) describes what is naturally formed and also identifies a historical प्राकृत (*Prākṛta*) language or linguistic form. संस्कृत (*Saṃskṛta*) denotes the wholly created form and the language; *Sanskritic* is the English adjective for something pertaining to Sanskrit. When the adjective belongs to संस्कृति (*saṃskṛti*), the form is सांस्कृतिक (*sāṃskṛtika*).
 
 ### **प्रकृति (*prakṛti*)**
 
@@ -392,7 +392,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **codification myth**
 
-**Book-controlled English.** The false account in which Pāṇini imposed order on a drifting natural language and produced the form later called Classical Sanskrit. The myth recodes his decoding of an architecture Sanskrit already used as codification by authority.
+**Book-controlled English.** The false account in which Pāṇini imposed order on a drifting natural language and produced the form later called *"Classical Sanskrit"*. The myth recodes his decoding of an architecture Sanskrit already used as codification by authority.
 
 ### **memory recoded as mythology**
 
@@ -418,7 +418,7 @@ Book refrain: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many.
 
 - In ordinary reader-facing prose, every Sanskrit technical term appears in Devanagari followed immediately by italic IAST in parentheses. Devanagari leads; IAST keeps the term accessible to readers who do not know the script.
 - Treat the Devanagari-IAST pair as one indivisible Sanskrit unit. Place English possessives, plurals, and other grammar around the pair rather than attaching English endings to either Sanskrit form.
-- The English explanation need not accompany every occurrence. After the term has been explained, the paired Sanskrit form can stand without its English gloss.
+- The English explanation need not accompany every occurrence. After the term has been explained, the paired Sanskrit form can stand without repeating that explanation.
 - Derivation chains, paradigms, source passages, figures, and keyed graphical systems may use concise notation after the full forms have been identified nearby. Familiar names may remain in their established form unless their Sanskrit spelling or derivation becomes evidence.
 - Do not bold every Devanagari occurrence. Reserve bold Devanagari for installation moments, tables, figures, hammers, and terms being defined.
 - Where a chapter introduces a coined compound such as धातुरचना (*dhāturacanā*) for the first time, anchor it in the etymology: *"धातु (*dhātu*, atom) + रचना (*racanā*, arrangement) — atomic scaffold"*. Do not meta-narrate ("what this book calls").

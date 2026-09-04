@@ -32,7 +32,7 @@ The frame represents the asuric pyramid itself. Its apex claims authority, its b
 
 ## 1.1 The apex-one
 
-The seeker approaches the unbounded through zero. The seeker does not place the self at the center or pretend that the human mind can contain infinity. This position creates humility before what exceeds the mind, openness before the infinite, and inquiry disciplined by जिज्ञासा (*jijñāsā*). The asuric pyramid moves in the opposite direction. It places one apex above the entire order. A person, fact, or idea receives recognition only when the apex authorizes it.
+The seeker approaches the unbounded through zero. The seeker does not place the self at the center or pretend that the human mind can contain infinity. Approaching the unbounded through zero requires humility before what exceeds the mind. It leaves the seeker open to the infinite while जिज्ञासा (*jijñāsā*) disciplines the inquiry. The asuric pyramid moves in the opposite direction. It places one apex above the entire order. A person, fact, or idea receives recognition only when the apex authorizes it.
 
 In the pyramidal architecture, apex, oppression, and finitism reinforce one another. The apex concentrates authority. Oppression forces everyone below to accept its boundaries. Finitism then treats those imposed boundaries as the boundaries of reality itself. The boundless threatens this arrangement because no apex can own it, and a seeker remains free to look beyond what authority permits. The elite therefore project the limits of their own knowledge onto the universe and call those limits truth.
 
@@ -40,7 +40,7 @@ The most celebrated models of modern cosmology, such as the Big Bang, train the 
 
 The answer is always zero.
 
-The finite is all they have seen. The finite is all they can model. The finite then becomes all they are permitted to admit. The modern Scientist sitting at the apex has *observed effectively zero,* yet presides as though the measurable fragment were the whole. This is structural finitism.
+The finite is all they have seen. The finite is all they can model. The finite then becomes all they are permitted to admit. The modern Scientist sitting at the apex has observed a finite fragment, effectively zero beside infinity, yet presides as though that measurable fragment were the whole. This is structural finitism.
 
 Genesis presents the same pattern in scriptural key: one birth, one life, one death, one Heaven, one Hell. A single beginning, a single command, a single authorized account of origin, and a single final judgment at the end of the line. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the entire order can be judged from outside. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made to follow.
 
@@ -64,13 +64,13 @@ It possesses intelligence, design, memory, and method. It hides its dogma behind
 
 The deformation lies in how the pyramid directs these capabilities: it deliberately turns them toward control. The pyramid arranges organization so that an apex commands everyone below. Communities can transmit knowledge across generations, but the pyramid restricts transmission to doctrine authorized by the apex. In a calibrant order, people correct an error by returning to the shared standard. Under the pyramid, the apex punishes any departure from its doctrine, calls that punishment correction, and justifies it as serving the **greater good**.
 
-This shape systematically repeats across domains: in religion, it becomes one book, one prophet, and one permitted salvation; in empire, it becomes one crown, one law, and one extracted people; in scholarship, it becomes one method, one peer circle, and one permitted origin story. Consequently, in language, it becomes one ancestor, one chronology, one authorized grammar-story, and then one verdict on what the civilization is allowed to remember.
+The same shape repeats in several domains. In religion, it becomes one book, one prophet, and one permitted salvation. In empire, it becomes one crown, one law, and a people from whom the apex extracts. In scholarship, it becomes one method, one peer circle, and one permitted origin story. In the study of language, the same shape produces one ancestor, one chronology, one authorized grammar-story, and one verdict on what a civilization is allowed to remember.
 
 In education, the same shape becomes one curriculum, one examination ladder, and one authorized account of the past. Long before the child can inspect the frame, the curriculum has trained the child to inherit the pyramid's categories.
 
 ### Why the Boundless Threatens the Apex
 
-The pyramid demands finitism because a finite universe can be narrated from a single first point. A finite timeline can be owned by whoever controls the origin story, a finite canon can be guarded by whoever controls the gate, and a finite people can be counted, ranked, administered, and corrected. Ultimately, the apex wants a world with edges because edges make possession easier, and because the boundless—which he can neither bound nor rule—fundamentally frightens him.
+The pyramid demands finitism because a finite universe can be narrated from a single first point. Whoever controls the origin story can claim the timeline. Whoever controls the gate can guard the canon. A finite population can be counted, ranked, administered, and corrected. The apex therefore wants a world with edges because edges make possession easier. The boundless frightens him because he can neither enclose nor rule it.
 
 Sanskrit resists this shape because no human apex controls its order. Its architecture distributes correction among several independent checks. The trained ear detects a misplaced sound. Meter reveals an altered syllable or मात्रा (*mātrā*). Grammar exposes a malformed word. The धातुः (*dhātuḥ*) shows whether a derivation remains anchored in its semantic atom. The पाठ (*pāṭha*) reveals a break in recitation. Separate lineages can compare the forms they received. No single authority owns these checks; together they allow caretakers to identify and correct an error against the shared calibrant.
 
@@ -92,7 +92,7 @@ A pyramidal architecture is clearly an architecture of containment and therefore
 
 Harmony does not provide immunity. A नास्तिक (*nastika*) or प्राकृतिक (*prākṛtika*) formation may live peacefully beside संस्कृति (*saṃskṛti*) yet lack the institutions and long defensive memory needed to recognize a recurring asuric attack. The pyramid can then capture, co-opt, or control a formation that did not originally oppose the calibrant. Across large parts of the world, Abrahamic empires and missions conquered or converted प्राकृतिक (*prākṛtika*) societies and reorganized their descendants within pyramidal institutions.[NOTE: compatibility-is-not-immunity]
 
-Preservation has to discriminate. Living forms can flow, grow, and change while the Vedas preserve the invariant architecture that helps society restore balance when it loses alignment. The pyramid targets that architecture because distributed correction makes capture harder.
+Caretakers must distinguish what should remain invariant from what may change. Living forms can flow, grow, and change while the Vedas preserve the architecture that helps society restore balance when it loses alignment. The pyramid targets that architecture because distributed correction makes capture harder.
 
 ### The Pyramid Captures Chronology
 
@@ -110,7 +110,7 @@ As if by coordination, Julius Pokorny published his *Indogermanisches etymologis
 
 Government schools amplified that propaganda. Raghu Vira had demonstrated the opposite by creating concise words for contemporary life. He proposed **संयान (*saṃyāna*)** for *train* and **संकेत (*saṃketa*)** for *signal*. My brother's government-controlled school instead taught students that *train* became ***लौहपथगामिनी (*lauhapathagāminī*)*** and *railway signal* became the monstrous ***लौहपथगामिनीसूचकदर्शकहरितताम्रलौहपट्टिका***. The school concealed Raghu Vira's achievement and taught children that Sanskrit stood against progress.
 
-When these attacks failed to erase Sanskrit, the pyramid changed its method. Svarbhānu obscures: the sun remains, but the field goes dark. The worlds are still there, yet they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What the pyramid darkens is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
+When these attacks failed to erase Sanskrit, the pyramid changed its method. Svarbhānu obscures: the sun remains, but the field goes dark. The worlds are still there, yet they become **मुग्ध (*mugdha*)**, bewildered. The attack on Sanskrit follows the same pattern. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What the pyramid darkens is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
 
 The pyramid places PIE above Sanskrit. Its codification myth recasts Pāṇini’s documentation as the late imposition of order on a natural language. It reduces Sanskrit’s architecture to an expression of social power and converts designed differences into stages on a timeline. Each move removes Sanskrit from its engineered category.
 
@@ -163,6 +163,6 @@ Their conduct generates **गभीरम् पदम् (*gabhīram padam*)**,
 
 **Enclosure.** Vṛtra coils around the waters, while the ungenerous Paṇis keep cattle and light from circulation. Ṛgveda 1.32.7 describes Vṛtra as **अपाद् अहस्तः (*apād ahastaḥ*)**, footless and handless: **अपाद् अहस्तः अपृतन्यत् इन्द्रम् (*apād ahastaḥ apṛtanyat indram*)**, footless and handless, he fought Indra.[NOTE: apad-ahastah-vrtra-enclosure] The Paṇis are **अराधस् (*arādhas*)**, the ungenerous: **पदा पणीन् अराधसः नि बाधस्व (*padā paṇīn arādhaso ni bādhasva*)**, tread down the Paṇis, the ungenerous ones (RV 8.64.2).[NOTE: aradhas-panis-hoarders] "Possess the uncontainable" — Śumbha, Andhaka, Jalandhara treating the unownable as inventory — repeats the same method at the scale of speech, memory, and civilization.
 
-Chapter 0 established the conflict between सत् (*sat*) and असत् (*asat*) at the cosmic scale. This chapter has shown how an architecture aligned with असत् (*asat*) acts: through concealment and projection, blockade, isolation, and enclosure. Chapter 3 follows those methods into institutions, chronology, race, language, and script, where the pyramid can reproduce them without a named antagonist.
+Chapter 0 established the conflict between सत् (*sat*) and असत् (*asat*) at the cosmic scale. This chapter has shown the recurring actions through which people build an architecture aligned with असत् (*asat*): concealment and projection, blockade, isolation, and enclosure. Chapter 3 follows those methods into institutions, chronology, race, language, and script, where the pyramid can reproduce them without a named antagonist.
 
 The caretakers and the finite order now stand against each other. Chapter 2 examines how the pyramid turned that category attack into the codification myth. Sanskrit supposedly drifted as a natural language until Pāṇini imposed order upon it. Arabic and Tamil allow the chapter to test whether codification can explain Sanskrit's invariance.

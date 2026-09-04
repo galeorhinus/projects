@@ -1,6 +1,6 @@
 # Appendix Part 7 — The Architecture Already in the Vedas
 
-The evidence collected here supports the compact demonstrations in Chapters 11 and 12. The first tables identify the exact Vedic passage behind every principal verb, derived word, grammatical ending, and sentence used in those chapters. Four longer analyses then allow the reader to see many of those operations working together inside complete mantras.
+The evidence collected here supports the compact demonstrations in Chapters 11 and 12. The first tables identify the exact Vedic passage behind every principal verb, derived word, grammatical ending, and sentence used in those chapters. Four longer analyses then show many of those operations working together inside complete mantras.
 
 Chapter 16 explains the two-domain design, while Appendix Part 8 documents the additional resources preserved in the वैदिक (*vaidika*) domain. This appendix concentrates on the shared architecture. It shows that the Vedas already use the sound junctions, case endings, verbal forms, derivations, compounds, and sentence relations that लौकिक (*laukika*) Sanskrit continues to use.
 
@@ -10,9 +10,11 @@ The Vedic corpus preserves Sanskrit in use. Its passages contain the सन्�
 
 Each recited verse gives the analyst concrete evidence. A सन्धि (*sandhi*) junction joins particular sounds. A case ending assigns a grammatical role. Meter constrains syllable count. Vedic accent makes part of the grammatical interpretation audible through pitch. The transmitted form preserves every one of these features.
 
-The **अष्टाध्यायी (*Aṣṭādhyāyī*)** could document this architecture because the corpus and its transmission already supplied the forms to be decoded.
+The **अष्टाध्यायी (*Aṣṭādhyāyī*)** could document this architecture because the Vedic corpus and its transmission already contained the forms that Pāṇini decoded.
 
-The evidence in this appendix has two parts. The first records every Vedic form used in Chapters 11 and 12. Those body examples use grammatical operations shared by the वैदिक (*vaidika*) and लौकिक (*laukika*) domains because the two chapters establish the Vedas as the pronunciation and grammatical calibrant for लौकिक (*laukika*) Sanskrit. The second part presents four longer passage analyses. Those passages also preserve Vedic-only sounds and forms, which Chapter 16 and Appendix Part 8 examine as designed differences between the domains.
+The evidence in this appendix has two parts. The first records every Vedic form used in Chapters 11 and 12. Those chapters use operations shared by the वैदिक (*vaidika*) and लौकिक (*laukika*) domains to establish the Vedas as the calibrant for Sanskrit pronunciation and grammar.
+
+The second part analyzes four longer passages. They contain the shared grammar, but they also preserve sounds and forms used only in the Vedic domain. Chapter 16 and Appendix Part 8 examine those additional resources as designed differences between the domains.
 
 ## 7.2 Evidence Used in Chapter 11
 
@@ -38,7 +40,7 @@ Chapter 11 uses the singular and plural forms of ⟪इ⟫ to show compactly how
 | the person or people addressed | **भवसि (*bhavasi*)**, RV 5.3.1 | **भवथः (*bhavathaḥ*)**, RV 4.43.3 | **भवथ (*bhavatha*)**, RV 3.54.17 |
 | someone or something described | **भवति (*bhavati*)**, RV 1.17.5 | **भवतः (*bhavataḥ*)**, RV 2.27.15 | **भवन्ति (*bhavanti*)**, RV 3.57.4 |
 
-The forms for exactly two actors confirm that the dual is already active for the speaker, the person addressed, and the person described. The table uses several atoms because its purpose is to verify all nine grammatical positions. It does not fill an unattested position merely to complete the table with one atom.
+The forms for exactly two actors confirm that the dual is already active for the speaker, the person addressed, and the person described. The table uses several atoms because its purpose is to verify all nine grammatical positions. It does not invent a form that the Ṛgveda does not record merely to complete the table with one atom.
 
 ### Time, Command, and Possibility
 
@@ -54,7 +56,7 @@ These forms establish the shared verbal range needed by Chapter 11. Additional V
 
 ## 7.3 Evidence Used in Chapter 12
 
-Chapter 12 continues from the completed verb into derived words, compounds, sentence-ready पदानि (*padāni*), and complete sentences.
+Chapter 12 begins with the completed verb and follows the architecture as it forms derived words, compounds, sentence-ready पदानि (*padāni*), and complete sentences.
 
 ### Four Forms from ⟪कृ⟫
 
@@ -184,11 +186,11 @@ Three lines of **गायत्री (*gāyatrī*)** meter — eight syllables
 
 The *Ṛgveda* uses the relative construction ***yo naḥ pracodayāt***, which Pāṇini later documents within his system.
 
-Across these four passages, सन्धि (*sandhi*), case endings, धातु (*dhātu*)-प्रत्यय (*pratyaya*) assembly, उपसर्ग (*upasarga*)-joined verbs, several verbal forms, कृदन्त (*kṛdanta*) derivation, compounds, and metrical structure already appear. **The Vedic corpus already displays the architecture that Pāṇini later documented.** He is the finest वैयाकरण (*vaiyākaraṇa*), not the engineer.
+These four passages join sounds through सन्धि (*sandhi*), assign grammatical relations through case endings, and build words by combining धातवः (*dhātavaḥ*) with प्रत्ययाः (*pratyayāḥ*) and उपसर्गाः (*upasargāḥ*). They also use several verbal forms, कृदन्त (*kṛdanta*) derivations, compounds, and meters. **The Vedic corpus already uses the architecture that Pāṇini later documented.** He is the finest वैयाकरण (*vaiyākaraṇa*), not the engineer.
 
 ## 7.5 The धातु (*Dhātu*) Inventory in the Three Passages
 
-Three of the passages also show the status of the धातुपाठ (*Dhātupāṭha*). Pāṇini presupposes an inherited inventory whose atoms were already forming words and verbs in the Vedas. Twelve forms from RV 1.1.1, RV 10.129.1, and RV 3.62.10 map to their underlying धातवः (*dhātavaḥ*):
+Three passages also establish that the धातवः (*dhātavaḥ*) recorded in the धातुपाठ (*Dhātupāṭha*) were already forming words and verbs in the Vedas. Pāṇini's documentation therefore begins with an inherited inventory. The following table maps twelve forms from RV 1.1.1, RV 10.129.1, and RV 3.62.10 to their underlying धातवः (*dhātavaḥ*):
 
 | Word form → Dhātu | Gaṇa | Pāṇinian operation |
 |--------|------|----------------------|
@@ -213,7 +215,7 @@ The atom ⟪ईड्⟫ remains stable even when the stated Vedic environment p
 
 ## 7.6 The Grammar Preceded the Manual
 
-The four passages place the shared architecture directly before the reader. They contain finished words formed from धातवः (*dhātavaḥ*), operations that join sounds and constituents, endings that establish grammatical relations, and sentence structures that remain intelligible through Sanskrit.
+The four passages demonstrate the shared architecture directly. They form finished words from धातवः (*dhātavaḥ*), join sounds and grammatical constituents, use endings to establish relations among words, and assemble those words into complete Sanskrit sentences.
 
 The Vedas already use Sanskrit's architecture in complete words and sentences. Pāṇini inherited that language and produced its finest grammatical documentation.
 

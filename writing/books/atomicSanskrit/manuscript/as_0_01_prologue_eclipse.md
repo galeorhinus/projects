@@ -22,7 +22,7 @@ Sanskrit stands before the modern world as Sūrya stood during the eclipse. Its 
 
 The asuric pyramid occupies the place of Svarbhānu. Its apex and the layers beneath it stand between Sanskrit and the people who should receive its radiance.
 
-Proto-Indo-European, or PIE, becomes the instrument of the eclipse. It is a **राहु (*Rāhu*)**-like head placed over the Sun. It has no recorded speakers, no body, and no living mouth. Because it was never alive, the pyramid can present it as an ancestor that can never die.
+Proto-Indo-European, or PIE, serves as the instrument of the eclipse. It is a **राहु (*Rāhu*)**-like head placed over the Sun. It has no recorded speakers, no body, and no living mouth. Because it was never alive, the pyramid can present it as an ancestor that can never die.
 
 The pyramid in this sequence is built from eleven blocks. Each block represents a different claim about Sanskrit, and each claim conceals some part of its architecture. The opening figure shows all eleven blocks still in place. Chapter 1 introduces the blocks and the obstruction each one represents. The chapters that follow examine those claims one by one. A block cracks when the examination begins. It falls when the book has exposed the claim and shown why it cannot explain Sanskrit. The reader begins in the pyramid's shadow.
 
@@ -32,11 +32,11 @@ Across the ages, the pyramid has tried to destroy Sanskrit and failed. Hindu soc
 
 The evidence of Sanskrit's engineering remains in the language itself.
 
-The pyramid concealed that evidence by assigning a false category to each part of the architecture. It placed Sanskrit beneath an imaginary parent and said that foreign people had brought it into India. It described a language engineered for permanence as a natural organism of roots, stems, and branches. It then turned Sanskrit's two domains, which Sanskrit uses together, into two historical periods: changing Vedic Sanskrit followed by Classical Sanskrit supposedly fixed by **पाणिनि (*Pāṇini*)**.
+The pyramid concealed that evidence by assigning a false category to each part of the architecture. It placed Sanskrit beneath an imaginary parent and said that foreign people had brought it into India. It described a language engineered for permanence as a natural organism of roots, stems, and branches. It then turned Sanskrit's two domains, which Sanskrit uses together, into two historical periods: a changing language it called *"Vedic Sanskrit,"* followed by *"Classical Sanskrit,"* supposedly fixed by **पाणिनि (*Pāṇini*)**.
 
 The same method continued at smaller and larger scales. The pyramid reduced the engineered sound-grid to an alphabet and placed Sanskrit beside Greek and Latin as one fragment of a lost parent. It treated the Vedas as old literature waiting to be dated instead of the calibrant that keeps Sanskrit intact. Each false category became another block placed before the same Sun.
 
-Hindus continued to recite and teach Sanskrit, but the pyramid taught them to explain their language through classifications supplied by Western academia. Sanskrit remained in their mouths even as those classifications displaced the explanations preserved by their own continuum. That civilizational self-doubt is the deeper injury. It is the effect of the eclipse.
+Hindus continued to recite and teach Sanskrit, but the pyramid taught them to explain their language through classifications created by Western academia. Sanskrit remained in their mouths even as those classifications displaced the explanations preserved by their own continuum. That civilizational self-doubt is the deeper injury. It is the effect of the eclipse.
 
 ## What Was Eclipsed
 
@@ -70,7 +70,7 @@ The same move converts Sanskrit's two domains into two historical periods. Diffe
 
 That invented chronology creates the codification myth. It places changing *"Vedic"* Sanskrit before Pāṇini and fixed *"Classical"* Sanskrit after him. Pāṇini becomes the apex who supposedly imposed order upon a drifting language. The Vedas' role as Sanskrit's calibrant disappears.
 
-This book does not replace one invented timeline with another. It examines the architecture first. When an exact date contributes nothing to the argument, the book says *thousands of years*; when a date helps establish a sequence, it provides one.[NOTE: chronology-asymmetry-rationale] Chronology can then perform its proper task: arranging evidence rather than deciding its category.
+This book does not replace one invented timeline with another. It examines the architecture first. When an exact date contributes nothing to the argument, the book says *thousands of years*; when a date helps establish a sequence, it provides one.[NOTE: chronology-asymmetry-rationale] Chronology can then arrange the evidence in sequence instead of deciding in advance what kind of language Sanskrit must be.
 
 ## The Śaṅkha Sounds
 

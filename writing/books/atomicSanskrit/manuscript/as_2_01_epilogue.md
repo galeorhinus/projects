@@ -20,7 +20,7 @@ The Prologue opened with Svarbhānu covering the Sun in darkness. The epigraph a
 
 This book has removed the seven claims at the core of Sanskrit's eclipse: ***Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language,*** and ***Early Literature***. With those claims removed, readers can examine Sanskrit as an engineered, radiant, calibrant, and fractal architecture.
 
-Four obstacles remain: institutional custody, public knowledge lag, civilizational self-doubt, and the Racial Arya Thesis. Presenting the evidence weakens them, but removing them requires continued teaching, inquiry, and public argument.
+Four obstacles remain: institutions still control the field, public understanding trails the evidence, civilizational self-doubt persists, and the Racial Arya Thesis remains embedded in the account of Sanskrit. Presenting the evidence weakens them, but removing them requires continued teaching, inquiry, and public argument.
 
 ![Figure E.12 — Atri Recovery. The Sanskrit-Sun is visible; seven core blocks have fallen, residual shadows remain, and points of caretaking light appear across the world.](figures/eclipse_spine/eclipse_80_epilogue_atri_recovery.svg){#fig:eclipse-epilogue-atri-recovery width=100%}
 
@@ -38,7 +38,7 @@ The apex turned their accumulated labor into *hālahala*: the racial Arya thesis
 
 The civilization that bore that poison for a century and a half became the **नीलकण्ठ (*nīlakaṇṭha*)** of this churning. The poison stopped at the throat. It never reached the heart.
 
-The *Bhāgavata Purāṇa* calls the intruder Svarbhānu. He slipped into the ranks of the *devāḥ* at the distribution and drank. Hari severed his head, but the stolen sip had made it undying. The *Mahābhārata* tells the same episode under the name Rāhu, the severed head that continues to seize the Sun and Moon. Rāhu becomes the eclipse-device at the spine of this book.[NOTE: rahu-manthana-svarbhanu-layering]
+The *Bhāgavata Purāṇa* calls the intruder Svarbhānu. He slipped into the ranks of the *devāḥ* at the distribution and drank. Hari severed his head, but the stolen sip had made it undying. The *Mahābhārata* tells the same episode under the name Rāhu, the severed head that continues to seize the Sun and Moon. This book therefore uses Rāhu as the eclipse-device running through its spine.[NOTE: rahu-manthana-svarbhanu-layering]
 
 The pyramid repeated that pattern. It drank one stolen sip of Sanskrit's nectar — the calibrant's own data, the correspondences only Sanskrit made legible — and from that sip it made PIE: a head without a body, an ancestor made immortal precisely because it was never alive enough to die. *Amṛta* carried across the line does not enlighten the *asura*; it becomes an eclipse that shadows Sanskrit's radiance.
 
@@ -46,7 +46,7 @@ With PIE destroyed, the eclipse is broken, and the ocean's yield can return to t
 
 The same accumulated scholarship can now serve another purpose. Its correspondences and dictionaries can help researchers identify Sanskrit's atoms, trace their reflections in receiving languages, and describe how each receiving language reshaped what reached it.
 
-The epilogue follows one distinction within this story. The *devāḥ* sustain light and order through flow, circulation, and radiance. The asuric action contains and withholds what should flow. **अमृत (*amṛta*)** is the un-dying.[NOTE: amrta-anti-entropy-principles]
+One distinction within this story explains what the churning produces. The *devāḥ* sustain light and order through flow, circulation, and radiance. The asuric action contains and withholds what should flow. **अमृत (*amṛta*)** is the un-dying.[NOTE: amrta-anti-entropy-principles]
 
 Pour the un-dying into the principles of flow, and the system renews itself across time. Give the same endurance to the withholder, and the obstruction becomes permanent. An undying flow is a world that renews; an undying container, a permanent eclipse.
 
@@ -54,11 +54,17 @@ The same distinction appears at the scale of language. Calibration preserves a g
 
 Codification is petrification.
 
-Anyone may leave the pyramid's service, and *āryatva* is pedagogical — the church of progress can still learn what every codifier failed to learn. But *āryatva* is earned, not handed over.
+Anyone may leave the pyramid's service. Because *āryatva* can be learned, the church of progress can still learn what every codifier failed to understand. But *āryatva* must be earned; no one can simply hand it over.
 
-The same institutions that built pyramids around knowledge can still learn from the civilization that distributed knowledge without making an apex its master. Hebrew, Quranic Arabic, ecclesiastical Latin, Greek, Tibetan, and the other learned languages the church of progress places under codification all show the same limit: codification preserves by authority around a bounded object, while ordinary speech keeps moving. The *Vedas* and Sanskrit show the opposite principle. Sanskrit's generative architecture lets it remain unchanged and still meet every change: when the world produces a new thing, the *laukika* domain derives the word for it from the standing atoms — the usage adapts; the language remains invariant. A codified language freezes and falls behind its own world; the generative and fractal calibrant stands firm and keeps up. A decentralized swastika system — *Prātiśākhya*, *Śikṣā*, *Chandas*, *Vyākaraṇam*, the *pāṭhas*, the *Dhātupāṭha*, the *guru-shishya* lineage-chain, and the wider transmission-network — preserved the calibrant across thousands of years without a central office, without a pope of pronunciation, without a single institution taking the language hostage. The failed history of codification and the survival of Sanskrit prove the same point from opposite sides: pyramids can enforce for a time; swastika systems sustain.
+The institutions that built pyramids around knowledge can still learn from a civilization that distributed knowledge without making an apex its master.
 
-If the pyramid changes its shape, its direction, and its personality, that would not be surrender but *prāyaścitta* by method.
+Hebrew, Quranic Arabic, ecclesiastical Latin, Greek, Tibetan, and the other learned languages that the church of progress places under codification all demonstrate the same limit. Authority can keep a bounded form stable while ordinary speech continues changing. The Vedas and Sanskrit demonstrate another principle. Sanskrit's generative architecture allows the language to remain invariant while its speakers respond to every change in the world. When they encounter something new, the लौकिक (*laukika*) domain allows them to derive a new word from the standing atoms. The usage adapts; the language remains invariant.
+
+A decentralized swastika system preserved that calibrant across thousands of years. The *Prātiśākhya*, *Śikṣā*, *Chandas*, *Vyākaraṇam*, the *pāṭhas*, the *Dhātupāṭha*, the *guru-shishya* lineage-chain, and the wider transmission network divided the work. No central office controlled them. No pope of pronunciation stood above them, and no institution could take the language hostage.
+
+The limits of codification and the survival of Sanskrit prove the same point from opposite sides: pyramids can enforce for a time; swastika systems sustain.
+
+If the pyramid changes how it distributes authority, directs knowledge, and treats correction, that change would not be surrender. It would be *prāyaścitta* expressed through conduct.
 
 Like Svarbhānu, the pyramid reached for what belonged to the radiant. Its apex bent two centuries of accumulated labor toward one intent: to bury Sanskrit beneath PIE. Scholars below it collected the cognates, tabulated the sound-shifts, compiled the dictionaries, indexed the inscriptions, and compared the families. The accumulation became the largest searchable corpus of Sanskrit’s reflections ever assembled.
 
@@ -86,9 +92,13 @@ The method can be repeated:
 8. Compare the result across several families and identify a plausible route through which Sanskrit's radiance could have traveled.
 9. Publish the strong cases together with the weak cases, counterexamples, and unresolved sounds or meanings.
 
-The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments already supply the material. Indian scholars can turn that machinery around and map two patterns: the languages held in orbit by Sanskritic gravity, and the reflections carried outward by Sanskritic radiance before the receiving languages drifted and diverged from Sanskrit.
+Sound correspondences, cognate tables, etymological dictionaries, and inscriptional corpora already contain the material. University departments have the people and tools required to examine it. Indian scholars can turn that machinery around and map two patterns: the languages held in orbit by Sanskritic gravity, and the reflections carried outward by Sanskritic radiance before the receiving languages drifted and diverged from Sanskrit.
 
-The *Dhātupāṭha* stands as a scientific object — an inventory of semantic atoms in ten *gaṇāḥ*, modelable and testable against the regular *apaśabda* generation in the Indic *prākṛtika* languages and in the Indo-European contact-family; the *Aṣṭādhyāyī*, as engineering documentation — formal compression and generative reach the computational community has been quietly using while the philological community recognized it much later; the recitation lineages, as living evidence — the eleven *pāṭhas* running as an error-detecting code in parallel across Kerala, Maharashtra, Tamil Nadu, Kashmir, and the northern plains, producing phonetic constants across thousands of years.
+The *Dhātupāṭha* is a scientific object: an inventory of semantic atoms in ten *gaṇāḥ*. Researchers can model it and test it against regular *apaśabda* generation in the Indic *prākṛtika* languages and the Indo-European contact family.
+
+The *Aṣṭādhyāyī* is engineering documentation. Its formal compression and generative reach attracted the computational community before much of the philological establishment recognized their significance.
+
+The recitation lineages provide living evidence. Across Kerala, Maharashtra, Tamil Nadu, Kashmir, and the northern plains, the eleven *pāṭhas* continue to operate as parallel error-detecting codes that preserve phonetic constants across thousands of years.
 
 The Brāhmī thesis becomes testable by engineering content rather than corridor-of-origin chronology. Stone dates the surviving inscription; it does not date the sound architecture the script renders. A harder investigation can then begin: whether Brāhmī or its precursor rode Wave 1 outward, leaving the corridor scripts a diminished reflection of an Indic audiographic logic (Appendix Part 3 §§3.5–3.6). The language factory demonstrates Sanskrit's generative capacity directly. After a consistent remapping into a Japanese sound inventory, selected Sanskrit operations continue to generate forms that can be reproduced and analyzed.
 
@@ -100,7 +110,7 @@ The nectar rises when the churn turns toward the Sun. Which side receives it dep
 
 ## The Contest of Architectures
 
-The argument resolves into a contest between two architectures of order.
+The argument leads to a contest between two architectures of order.
 
 The asuric architecture builds pyramids: apex authority, controlled doctrine, captured institutions, extracted labor, managed origins, and narratives that subordinate the base to the top. Its apex seats a single figure; he shares power with no one and bends the base toward himself. It uses **तमस् (*tamas*)**: obscurity, inertia, concealment.
 
@@ -108,7 +118,7 @@ The dharmic architecture distributes authority: *apauruṣeya* text without apex
 
 The claim is not that Sanskrit came first, because priority is not the controlling point: priority arguments accept the pyramid's own logic — first means foundational, foundational means authoritative, authoritative means control.
 
-The dharmic claim is different: *Sanātan* preserves a civilizational architecture ordered toward **लोकक्षेम (*lokakṣema*)**, the well-being of the world. Sanskrit engineering proves the architecture is real; the teacher-student lineage proves that people have sustained it; the Rigvedic call, that it has always faced outward toward *viśvam*, the whole world.
+The dharmic claim is different. *Sanātan* preserves a civilizational architecture directed toward **लोकक्षेम (*lokakṣema*)**, the well-being of the world. Sanskrit's engineering demonstrates that the architecture is real. The teacher-student lineage demonstrates that people have sustained it. The Rigvedic call shows that its purpose has always faced outward toward *viśvam*, the whole world.
 
 The standard is **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but all life toward which dharma must remain responsible. Here **सत् (*sat*)** and *lokakṣema* meet. Truth is not domination by a doctrine. Truth is alignment with the welfare of beings.
 
@@ -124,13 +134,13 @@ The architecture remains.
 
 The architecture is self-evident in four connected forms. Sanskrit's selected sounds, semantic atoms, scaffolds, and grammatical bonds reveal the engineered material. The complementary permissions of the *vaidika* and *laukika* domains reveal engineered scope. The Vedas, recitation systems, analytical disciplines, and transmission lineages reveal engineered continuity. The reflections preserved in other languages reveal engineered radiance.
 
-Together they establish the larger result. The Vedas already preserve the complete language architecture that Pāṇini later documented. They are part of the engineering that keeps the language calibrated. Pāṇini stands within that continuity, and his decoding provides its finest documentation. Sanskrit retains the complete calibrant architecture, and its radiance reached several languages, including Greek and Latin. Those languages continue to preserve partial reflections of that architecture.
+Together they establish the book's central conclusions. The Vedas already preserve the complete language architecture that Pāṇini later documented. They are part of the engineering that keeps the language calibrated. Pāṇini stands within that continuity, and his decoding provides its finest documentation. Sanskrit retains the complete calibrant architecture, and its radiance reached several languages, including Greek and Latin. Those languages continue to preserve partial reflections of that architecture.
 
 The pyramid used false categorization as its weapon. It recast the sonomer as a letter, the *dhātuḥ* as a root, the Vedic domain as an archaic language, Pāṇini's documentation as the codification myth, aural engineering as oral tradition, and Sanskrit as a daughter language. Once those substitutions fall away, the reader can trace Sanskrit from the movement of the mouth to the civilizational order that kept the language alive.
 
 The appendices carry the deeper demonstrations. *Baking the Mother Tongue* traces PIE's manufacture through the Pune-Calcutta-Oxford-Göttingen pipeline. *The Encyclopaedic Confirmation* documents Deccan College's post-independence choice to read Sanskrit through the OED's historical principles rather than through its own analytical disciplines. *The Sonomer and the Audiograph* dismantles the Brāhmī-from-Aramaic story and adds the architectural level that conventional script categories leave unnamed. *The Language Factory* tests the thesis by construction: selected Sanskrit operations continue to generate analyzable forms after a consistent remapping into another sound inventory. One argument runs through all four: the asuric formation displaced the dharmic architecture from recognition and told the world the story upside down.
 
-That fight is not academic: a civilization described as derivative cannot credibly call the world toward *āryatva*, and recognition of the architecture is the precondition for the call to be heard.
+That fight extends beyond the academy. A civilization taught to regard itself as derivative will hesitate to call the world toward *āryatva*. It must first recognize the architecture that gives the call its meaning.
 
 ## The Invitation
 
@@ -148,9 +158,9 @@ The pyramid has been exposed, and the aspiration for **आर्यत्व (*�
 
 The grammar of the call asks for making, not claiming; for the world, not a tribe; for *ārya* as discipline, not race. The work is **कृण्वन्तः (*kṛṇvantaḥ*)**: making, doing, bringing into form. The object is **विश्वम् (*viśvam*)**: the whole world. The standard is **आर्यम् (*āryam*)**: disciplined nobility, learned restraint, calibrated conduct, and generosity ordered toward *sat*.
 
-The second half gives the obstruction: **अराव्णः (*arāvṇaḥ*)** — the *ungiving*, those who retain rather than release, the structural opposites of *liberality* in its original Latin sense (Chapter 3 §3.4's etymology). Chapter 4 §4.4 documents how the Wilson and Griffith translations of this very verse omitted *viśvam āryam* and substituted away from *arāvṇaḥ* — the philological-omission case developed earlier.
+The second half identifies the obstruction: **अराव्णः (*arāvṇaḥ*)** — the *ungiving*, those who retain rather than release. They are the structural opposites of *liberality* in its original Latin sense, discussed in Chapter 3 §3.4. Chapter 4 §4.4 documents how the Wilson and Griffith translations of this very verse omitted *viśvam āryam* and substituted away from *arāvṇaḥ* — the philological-omission case developed earlier.
 
-The two phrases are one operation seen from two sides. To make the world *ārya*, the formations that suppress *āryatva* must be defeated. To defeat the *arāvṇaḥ* — the ungiving, those who hoard rather than release — the speaker must embody *āryatva*, not merely claim it.
+The two phrases describe the same work from opposite directions. To make the world *ārya*, the formations that suppress *āryatva* must be defeated. To defeat the *arāvṇaḥ* — the ungiving, those who hoard rather than release — the speaker must embody *āryatva*, not merely claim it.
 
 The call is conditional: it cannot be made by anyone who wants the prestige without the discipline, only by those who have re-learned the architecture — the sound, the recitation, the calibrant discipline, the *vyākaraṇam*, the restraint, the conduct.
 
@@ -162,7 +172,7 @@ That is the bridge from Sanskrit to Sanātan: calibration does not remain trappe
 
 ## Order Through Calibration
 
-Capitalism, socialism, libertarianism, and other modern ideologies often begin with the intention to correct a real failure. None of them solves every problem. A calibrant order does not enter that contest as another complete ideology promising a final solution. It asks a prior question: how can society correct harmful behavior without allowing the correcting authority to become an apex?
+Capitalism, socialism, libertarianism, and other modern ideologies often begin with the intention to correct a real failure. None of them solves every problem. A calibrant order does not offer another complete ideology or promise a final solution. It begins with a more basic question: how can society correct harmful behavior without allowing the people who perform that correction to become an apex?
 
 The pyramid tries to create order through command and punishment. The swastika creates order through calibration and reserves punishment for acts that harm others. Punishment may stop someone who adulterates food for profit. It cannot produce a ***कर्मयोगी (*karma-yogī*)***. A regulator can test the ghee; it cannot manufacture conscience. When society relies upon punishment to produce right conduct, the same authority decides what counts as an offence and how it will be punished. It also decides who receives an exception. Those powers gather at an apex.
 
@@ -170,7 +180,7 @@ The pyramid tries to create order through command and punishment. The swastika c
 
 The example must reveal more than the virtue of one person. A ruler can sweep a temple floor and return to his palace with every power intact. An asuric ruler can stage humility before a crowd. Society is right to distrust an isolated performance. The stronger evidence lies in a relationship that repeats across generations. Authority remains divided among many participants, so the relationship continues even when one person fails.
 
-***भिक्षा (*bhikṣā*)*** provides such evidence. In the disciplines of ***ब्रह्मचर्य (*brahmacarya*)*** and ***संन्यास (*sannyāsa*)***, a person devoted to learning or renunciation may choose to depend upon food given voluntarily by householders. The recipient possesses no right to collect it. Each household decides whether to give. No central treasury stands between them, and no institution can compel every household to support one authorized teacher or renunciant. This is a real surrender of material authority, not a ceremonial gesture.[NOTE: bhiksha-calibrant-architecture]
+The practice of ***भिक्षा (*bhikṣā*)*** demonstrates such a relationship. In the disciplines of ***ब्रह्मचर्य (*brahmacarya*)*** and ***संन्यास (*sannyāsa*)***, a person devoted to learning or renunciation may choose to depend upon food given voluntarily by householders. The recipient possesses no right to collect it. Each household decides whether to give. No central treasury stands between them, and no institution can compel every household to support one authorized teacher or renunciant. This is a real surrender of material authority, not a ceremonial gesture.[NOTE: bhiksha-calibrant-architecture]
 
 The dependence runs in both directions. The householder sustains someone who devotes time to learning, teaching, disciplined practice, or renunciation. The recipient keeps knowledge and restraint present within society. The person carrying knowledge does not automatically control wealth. The person possessing wealth does not thereby gain the right to alter the knowledge. Neither participant owns the other, and neither contains the whole relationship.
 
@@ -180,7 +190,7 @@ The Kumbh brings that possibility before the whole civilization. Society assembl
 
 One false sādhu can deceive some people. He cannot command every household, every ascetic order, and every place where the relationship recurs. People can withdraw support from him without abolishing *bhikṣā* or creating a central authority over every renunciant. The architecture survives individual failure because the relationship remains distributed.
 
-This book has demonstrated the same principle in Vedic transmission. Independent ***शाखाः (*śākhāḥ*)*** preserve their received forms without placing one lineage in command of all the others. No lineage owns the Veda. The failure of one cannot rewrite what the others preserve. Comparison among them exposes error while their differences remain identified and bounded. The architecture itself supplies the proof. It does not depend upon every participant being incapable of failure.
+This book has demonstrated the same principle in Vedic transmission. Independent ***शाखाः (*śākhāḥ*)*** preserve their received forms without placing one lineage in command of all the others. No lineage owns the Veda. The failure of one cannot rewrite what the others preserve. Comparison among them exposes error while their differences remain identified and bounded. The independence of the शाखाः (*śākhāḥ*) provides the proof. It does not depend upon every participant being incapable of failure.
 
 The difference between the two fractals is now concrete. The pyramid places rule, certification, exception, and punishment in one ascending chain. The swastika distributes responsibilities around a calibrant that no participant owns. At the linguistic scale, the Vedas and Sanskrit demonstrate that this architecture can preserve precision across millennia. The later volumes of the *Second Shanti* series will follow the same principle into economic life, political authority, and the other relationships through which society creates order.
 
@@ -190,13 +200,21 @@ The invitation therefore goes outward to every civilization Sanskrit touched. To
 
 India must not replicate the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech communities have been treated as lesser. The long attempt to classify Konkani as a dialect of Marathi, and the resistance that established it as a language in its own right, preserve the memory of that pressure.[NOTE: konkani-marathi-language-pressure] The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is subordinated to a single authorized standard.
 
-Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be preserved with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin or failure; it is life. **The danger is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was preserved as a calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
+Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be preserved with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin or failure; it is life. **The danger is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was preserved as a calibrant, not imposed by an empire as the language of ordinary life. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 
 The warning has a name from the argument's own map: petrification. State academies and school boards that monitor classroom usage and decree right and wrong Marathi, Hindi, Bengali are freezing living tongues into codified standards — a small Académie, a small frozen apex, for every language: the pyramid's move, imported and self-inflicted. India stayed a calibrant culture for thousands of years by the opposite arrangement — one calibrant, and dozens of languages alive beneath its radiance, free to vary, drift, and combine. Abandon the petrification culture; keep Sanskrit as the lone calibrant; let the languages live. The enemy is the apex, not the teaching of a language well. The living diversity of India's languages is the standing disproof of the racial Arya thesis — the freeze would destroy the evidence no invader ever could.
 
 Islamic imperial formations were defeated. The Christian conversion ambition was checked. British political rule was expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix that preserves discipline, memory, sound, grammar, and conduct, not a credential and not a slogan. Internal āryatva begins by acknowledging what Sanskrit is and refusing to reproduce inside India the authority model this book has exposed elsewhere.
 
-Three shadows remain after the argument has done all it can. The institutions keep their own custody — departments, journals, peer review, curricula, and the funding that supports them: chairs, grants, donor-shaped centers, and a state that still pays for its own colonial Indology. They will not dissolve because a case has been made. The public mind lags the proof: textbooks, encyclopedias, search results, and casual speech will keep repeating *"Sanskrit is Indo-European"* long after the architecture is visible. And the deepest shadow is inward — the trained hesitation that makes a civilization ask the pyramid's permission before trusting its own categories. None of the three falls to argument. Custody must be opened, habit retrained, and hesitation replaced by civilizational confidence. The work requires many hands. It is the Atris’ work, not one author’s.
+Three shadows remain after the argument has done all it can.
+
+First, academic institutions retain custody through departments, journals, peer review, curricula, chairs, grants, donor-shaped centers, and a state that still pays for its own colonial Indology. They will not surrender that control merely because someone has made a case.
+
+Second, public understanding trails the evidence. Textbooks, encyclopedias, search results, and casual speech will continue repeating “Sanskrit is Indo-European” long after readers can examine the architecture for themselves.
+
+The deepest shadow is inward: the trained hesitation that makes a civilization ask the pyramid's permission before trusting its own categories. Argument alone cannot remove these three shadows. Institutional custody must be opened, public habits must change, and hesitation must give way to civilizational confidence.
+
+The work requires many hands. It is the Atris' work, not one author's.
 
 Education is one of those remaining shadows. A counter-pyramid with a new authorized syllabus from the top would reproduce the same structure. Distributed re-learning takes another path: teachers, families, communities, schools, publishers, and readers carry the calibrant across society until the old category theft no longer reproduces itself automatically.
 
@@ -204,7 +222,7 @@ The Hindu continuum has remained the custodian of Sanskrit, the Vedas, and the a
 
 ## The Mantra
 
-Wave 3 begins among those closest to the calibrant: teachers, students, families, communities, and readers willing to relearn its disciplines. Indians in the subcontinent and diaspora carry the most immediate responsibility, while Romani communities preserve another long-separated Indic inheritance. *Atomic Sanskrit* is one Wave 3 instrument. It makes the radiant matrix visible again; visibility is the precondition.
+Wave 3 begins among those closest to the calibrant: teachers, students, families, communities, and readers willing to relearn its disciplines. Indians in the subcontinent and diaspora carry the most immediate responsibility, while Romani communities preserve another long-separated Indic inheritance. *Atomic Sanskrit* is one instrument of Wave 3. It helps readers recognize the radiant matrix again, because caretaking must begin with recognition.
 
 The mantra says the Atris found the Sun when others could not. This book belongs to that work: not as the work completed, but as one attempt to make the Sun visible again.
 
@@ -220,7 +238,7 @@ Two *created* fractals have stood in the argument since the beginning: the pyram
 
 The pyramid tried to bury Sanskrit under nature, then to freeze it under the codification myth, then to suspend it beneath PIE — three moves serving one motive: prevent the world from seeing a distributed calibrant architecture that needs no apex. The motive failed. Sanskrit lives. The imaginary ancestor does not.
 
-The argument separated movement from creation and restored Sanskrit's architecture to view.
+The argument separated the movement of people and words from the creation of Sanskrit. It then allowed the language's architecture to be examined on its own terms.
 
 Sanskrit's standard is restored not by authority but by re-entering calibration.
 
@@ -236,7 +254,7 @@ The final turn therefore asks Vāc herself to nourish the work:
 >
 > The devas generated divine Speech; animals of every form speak her. May Vāc, well-praised, come to us like a milk-cow, gladdening us and yielding refreshment and strength.[NOTE: rigveda-8-100-11-vak-blessing]
 
-The invitation is not to compose new *śruti*. It is to become capable of seeing what Vāc has already revealed, to take the architecture forward, and to let Speech nourish the next civilizational act.
+The invitation is not to compose new *śruti*. It is to become capable of recognizing what Vāc has already revealed, applying that architecture in the present, and allowing Speech to nourish the next civilizational act.
 
 The Sun has been found.
 

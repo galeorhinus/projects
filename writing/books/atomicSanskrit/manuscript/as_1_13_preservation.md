@@ -18,19 +18,23 @@
 
 ## 13.1 What Sanskrit Has to Preserve
 
-Sanskrit's architecture was built to last. Its visible components now include the **वर्णमाला (*varṇamālā*)** as the engineered phonetic grid, the **धातवः (*dhātavaḥ*)** as an inventory of reactive atoms, the **गणाः (*gaṇāḥ*)** as the classes that specify how atoms activate, the **उपसर्गाः (*upasargāḥ*)** and **प्रत्ययाः (*pratyayāḥ*)** as the bonding procedure, and the **अष्टाध्यायी (*Aṣṭādhyāyī*)** as the formal specification. The system is integrated and complete.
+Sanskrit's architecture was built to last. The preceding chapters have now identified its principal components. The **वर्णमाला (*varṇamālā*)** provides the engineered sound grid. The **धातवः (*dhātavaḥ*)** form an inventory of reactive atoms, and the **गणाः (*gaṇāḥ*)** classify how those atoms activate. The **उपसर्गाः (*upasargāḥ*)** and **प्रत्ययाः (*pratyayāḥ*)** bond with them, while the **अष्टाध्यायी (*Aṣṭādhyāyī*)** documents the grammatical procedures. These parts form one integrated architecture.
 
 Sanskrit can serve as a calibrant only while its architecture remains stable. If the sounds, relations, and forms used for correction changed whenever ordinary speech changed, they could no longer show where the change occurred.
 
-Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into fallen-away variants. Patañjali lists the case (Chapter 6 §6.2): **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four अपभ्रंशाः (*apabhraṃśāḥ*) the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The fallings-away are many. अपभ्रंशः (*Apabhraṃśa*) is the default trajectory of any linguistic form left to uncalibrated speech.
+Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः (*apabhraṃśa*)**, a form falling or slipping away from the calibrated form. Chapter 6 introduced Patañjali's example. The **महाभाष्य (*Mahābhāṣya*)** places **गौः (*gauḥ*)**, the calibrated Sanskrit word for *cow*, against four अपभ्रंशाः (*apabhraṃśāḥ*): **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, and **गोपोतलिका (*gopotalikā*)**.
+
+The source is one. The fallings-away are many. Without continued calibration, any linguistic form can begin that descent.
 
 Without a calibrant, a natural language drifts. Within a calibrated architecture, an uttered form can fall away as deviation.
 
-What Sanskrit has to preserve is concrete: sound, meaning, grammar, meter, recitation, and usage, all of it under the ordinary pressure of human speech. The Vedas present the full scale of that preservation problem. They encode cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
+Sanskrit must preserve concrete features: sound, meaning, grammar, meter, recitation, and usage. Ordinary speech places all of them under pressure.
+
+The Vedas make the scale of the problem clear. They encode inquiries into existence, ethical order, mathematical proportion, planetary movement, healing, and precise action. Within that breadth, this volume isolates four parts of their linguistic architecture: sound, meter, grammar, and recitation.
 
 The Vedas function as sacred corpus and primary calibration matrix at once. If their transmitted form deviates, the calibrant itself becomes unreliable.
 
-Because Speech, as the epigraph describes, may be visible and audible yet not truly seen or heard, the Veda requires much more than passive storage. It requires a dynamic preservation system capable of producing the precisely trained listener to whom Speech can reveal herself.
+The epigraph warns that a person may look at Speech without seeing her and hear Speech without understanding her. Preserving the Veda therefore requires more than storing its words. The system must also train listeners who can recognize its sound, structure, and meaning.
 
 What belongs to ordinary flow, and what must be preserved? Sanskrit has the distinction ready-made: प्राकृत (*prākṛta*), संस्कृत (*saṃskṛta*), and सनातन (*sanātan*).
 
@@ -38,17 +42,19 @@ What belongs to ordinary flow, and what must be preserved? Sanskrit has the dist
 
 The civilization that engineered Sanskrit organized its world through a functional distinction.
 
-**प्राकृत (*prākṛta*)** represents the natural and the changing. Because it is whatever arises through ordinary social processes—everyday speech, stories, customs, local usages, technologies, and memories that adapt as they pass through tellers and listeners—प्राकृत (*Prākṛta*) is allowed to flow.
+**प्राकृत (*prākṛta*)** represents the natural and the changing. It includes everyday speech, stories, customs, local usages, technologies, and memories that people adapt as they pass them on. Because change serves these forms, प्राकृत (*prākṛta*) is allowed to flow.
 
-**संस्कृत (*saṃskṛta*)** is the wholly-synthesized/engineered: it is what has been worked, refined, and deliberately protected against the accumulation of deviations into drift. संस्कृत (*Saṃskṛta*) serves as the name of the language itself because the language structurally belongs to this category. Consequently, the *Vedas*, the phonetic specification, the formal grammar, the धातु (*dhātu*) inventory, and the metrical system are not left to ordinary flow; rather, they are preserved.
+**संस्कृत (*saṃskṛta*)** denotes what has been worked, refined, and deliberately protected against deviations accumulating into drift. The language belongs to this category and bears its name.
+
+The Vedas, the phonetic specification, the grammar, the धातु (*dhātu*) inventory, and the metrical system are therefore kept outside ordinary linguistic flow.
 
 **सनातन (*sanātan*)** denotes the perpetual ground that does not move. संस्कृत (*Saṃskṛta*) forms are built to remain on that ground, while प्राकृत (*Prākṛta*) forms serve purposes that allow them to change. The classification assigns each form a function rather than a rank.
 
 The Sanskrit grammatical literature calls the two modes directly: **प्राकृतिक (*prākṛtika*)** for the flowing category, **सांस्कृतिक (*sāṃskṛtika*)** for the category that corrects deviations before they accumulate into drift. The categories are functional, not hierarchical.
 
-A local story is प्राकृतिक (*prākṛtika*) by purpose, meeting the listener where the listener lives, where change acts as renewal. A Vedic phonetic form is सांस्कृतिक (*sāṃskṛtika*) by purpose, demanding identical transmission across generations, where change is degradation.
+A local story is प्राकृतिक (*prākṛtika*) by purpose. It can change as each teller adapts it for new listeners and circumstances. A Vedic phonetic form is सांस्कृतिक (*sāṃskṛtika*) by purpose. Its sound must pass unchanged across generations because any change damages the calibrant.
 
-The सांस्कृतिक (*sāṃskṛtika*) bucket therefore requires a technology capable of detecting and correcting deviation before it changes the preserved form:
+सांस्कृतिक (*Sāṃskṛtika*) forms therefore require a method that can detect and correct deviation before it changes what later generations receive:
 
 > What technology detects and corrects deviation before it changes the सांस्कृतिक (*sāṃskṛtika*) form?
 
@@ -66,7 +72,7 @@ Writing has one structural feature that disqualifies it from preserving immutabl
 
 **The second is destruction.** Manuscripts burn. Libraries are smashed. Tablets are confiscated and pulped. The subcontinent's record documents cases of all three across the Islamic and colonial periods that followed the architecture's establishment. The engineering decision the civilization made about लिपि (*lipi*) was made long before those particular destructions; it reflects the general observation that any medium dependent on physical storage is destroyable, and that centralized storage concentrates the vulnerability at a single point.
 
-The Indic engineering refused that dependency for the content that could not be risked.
+Indic caretakers did not entrust content that had to remain invariant to a destructible physical medium.
 
 लिपि (*Lipi*) remained appropriate for the प्राकृतिक (*prākṛtika*) bucket: administration, commentary, education, plays, contemporary stories, regional literature, practical communication. But for the सांस्कृतिक (*sāṃskṛtika*) bucket — the *Vedas*, the phonetic specification, the recitational system, the architecture's calibrants — writing was insufficient.
 
@@ -80,13 +86,15 @@ That refusal also exposes the foundational dogma's script obsession. The **Weste
 
 That is the category theft.
 
-What survives from writing cultures is overwhelmingly pyramid media — royal edicts, stone inscriptions, cave donations, coins, seals, potsherds, institutional markings, public assertions of authority — and the archaeological record deepens the fraud accordingly. These are not neutral witnesses to the birth of writing. They are the durable debris of power. They show what the apex chose to carve, stamp, issue, and preserve. The apex does not leave an equally durable record of distributed writing on perishable media.
+Durable remains from writing cultures disproportionately record the pyramid: royal edicts, stone inscriptions, cave donations, coins, seals, institutional markings, and public assertions of authority. The archaeological record therefore reflects what the apex chose to carve, stamp, issue, and preserve.
+
+These remains are not neutral witnesses to the birth of writing. They are the durable debris of power. Distributed writing on perishable media does not leave an equally durable record.
 
 A non-pyramidal or distributed use of writing would leave a thinner record. If Brāhmī or a precursor was used for notes, accounts, teaching aids, correspondence, working drafts, or mnemonic prompts, the medium would have been perishable. Palm leaf, birch bark, cloth, wood, and temporary writing surfaces do not survive Indian climate and history the way stone survives. The absence of such material is not evidence of absence. It is the predictable silence of perishable media.
 
 The pyramid commits category theft twice. It first dates a surviving written interface and treats that date as the origin of the script; it then dates the script and treats that second date as the origin of the sound-system. Stone can date the marks it preserved, but it cannot date the वर्णमाला (*varṇamālā*) engineering those marks render. Appendix Part 3 §3.6 develops the survival-archive argument in full through examples from the Indic and Mediterranean record. The pyramid's label *abugida* describes a surface mechanism while leaving the audiographic engineering unrecognized.
 
-The ***foundational dogma***'s softer version is more revealing: Brāhmī was adapted brilliantly from a Western source by an unnamed Indic genius. The praise sounds generous. It performs erasure. The brilliance is assigned to the adapter of an interface; the engineering of the sound-system disappears. Appendix Part 3, *The Sonomer and the Audiograph*, develops the argument in full and coins ***audiography*** for the engineered visual capture of articulated sound the script implements. Calling Brāhmī an *abugida* — or filing it under any other surface category of script — is like calling the decimal place-value system "numeral notation." It catalogs the visible symbols and misses the architecture that lets a handful of them generate everything. The glyphs are secondary; the वर्णमाला (*varṇamālā*) is the grid that *audiography* renders into script.
+The ***foundational dogma***'s softer version is more revealing: Brāhmī was adapted brilliantly from a Western source by an unnamed Indic genius. The praise sounds generous. It performs erasure. The brilliance is assigned to the adapter of an interface; the engineering of the sound-system disappears. Appendix Part 3, *The Sonomer and the Audiograph*, develops the argument in full and coins ***audiography*** for the engineered visual capture of articulated sound the script implements. Calling Brāhmī an *abugida* — or filing it under any other surface category of script — is like calling the decimal place-value system "numeral notation." It lists the visible symbols and hides the architecture that lets a handful of them generate everything. The glyphs are secondary; the वर्णमाला (*varṇamālā*) is the grid that *audiography* renders into script.
 
 The same interface theft could treat the infinity glyph as the origin of infinity. The glyph made infinity easier to write; it did not make infinity thinkable. पूर्णम् (*Pūrṇam*), अनादि (*anādi*), and अनन्त (*ananta*) already express the civilizational grammar of the unbounded.
 
@@ -98,7 +106,7 @@ Brāhmī does not begin with an Aramaic consonantal alphabet and bolt an Indic a
 
 Devanagari renders the same sonomeric grid with different audiographs. Aramaic does not contain the वर्ग (*varga*) matrix, the स्थान (*sthāna*) and प्रयत्न (*prayatna*) axes, or the vowel system that Brāhmī and Devanagari render. Contact may explain similarities among a few glyph shapes. It does not explain the sonomeric grid or the audiographic architecture.
 
-The sequence is sound first and audiograph second. The ***church of progress*** dates the written interface and treats that date as the origin of the sound architecture. Yet speech produces and distinguishes every sonomer without a mark on stone. Dating an audiograph cannot date the sound it records.
+The sound exists first. An audiograph records it later. The ***church of progress*** dates the written interface and treats that date as the origin of the sound architecture. Yet speech produces and distinguishes every sonomer without a mark on stone. Dating an audiograph cannot date the sound it records.
 
 ## 13.4 *Aural*, Not *Oral*
 
@@ -118,11 +126,11 @@ The ***progressive dogma*** collapses both into "oral tradition" because both ha
 
 Centralized education benefits from that collapse. “Oral tradition” is easy to place below writing inside a schoolbook ladder of progress. “Aural engineering” is harder to subordinate, because it asks the reader to see trained hearing, recitation, lineage, and correction as a preservation technology.
 
-Writing asks one sense to read, one hand to write, one medium to store. Once the glyph exists, custody can move to the medium, which makes writing easy for institutions to prefer.
+Writing depends on the eye, the hand, and a physical medium. Once the glyph has been stored, an institution can take custody of that medium and control access to it.
 
 Aural preservation faces harder design constraints. It requires trained vocal production, trained discriminating hearing, social continuity through the गुरु-शिष्य (*guru-śiṣya*) chain, and several recitation paths strong enough to detect and correct error before it becomes inheritance. It uses the body as instrument and the ear as validator. Once those design constraints are met, aural engineering becomes a powerful counter to the asuric pyramid. The standard lives in trained people, passes from teacher to student, and remains audible across society. Because people carry the standard in memory and disciplined practice, an apex cannot capture it by seizing a manuscript or archive.
 
-The label "oral tradition" also flattens the architecture. Indic preservation runs four engineered modes — memory-based retelling, embodied practice, precise speech-hearing transmission, and written documentation where writing is appropriate — and only some are oral at all. The Vedic preservation system is the aural one.
+The label "oral tradition" also flattens the architecture. Indic preservation uses four engineered modes: memory-based retelling, embodied practice, precise speech-hearing transmission, and written documentation where writing is appropriate. Only some of them are oral. The Vedic preservation system is the aural one.
 
 Chapter 14 introduces the full taxonomy and develops the aural mode under the term **Auditure** — preservation through hearing.
 
@@ -152,7 +160,7 @@ External authority can preserve a bounded form with considerable rigor. Sanskrit
 
 A calibrant must remain unchanged, but invariance is only the first requirement. People must also be able to reach it, compare their own speech with it, and correct a departure before that departure becomes inherited usage. A grammar stored in a library can describe correct forms. Its mere existence cannot perform those comparisons across society.
 
-The grammatical principle is: bond first, usage second, शास्त्र (*śāstra*) third (Chapter 5). The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to keep usage aligned with it.
+Chapter 5 established the grammatical sequence: the bond between word and meaning already exists, people use the word, and शास्त्र (*śāstra*) then regulates that usage. The calibration matrix applies the same sequence across a civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to keep usage aligned with it.
 
 A Sanskrit form passes from teacher to student with the same vowel length, accent, and sequence, generation after generation, while ordinary speech around it changes. That constancy under transmission is **ध्रौव्यता (*dhrauvyatā*)**. Sanskrit can therefore serve as the fixed standard against which sound, form, memory, grammar, and usage are checked: **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant language.
 
@@ -162,11 +170,13 @@ This arrangement allows natural languages to flourish without treating them as f
 
 Like **ध्रुव (*dhruva*)**, the fixed star, Sanskrit serves as the disciplined and preserved calibrant against which knowledge, यज्ञ (*yajña*), grammar, memory, and civilizational continuity can be evaluated. The Vedas stand at the center of this calibration architecture. The प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) disciplines articulate their sounds, while छन्दस् (*chandas*) describes their meter and the पाठाः (*pāṭhāḥ*) protect their recitation. व्याकरणम् (*vyākaraṇam*) and the धातुपाठ (*Dhātupāṭha*) make the grammar and atomic inventory explicit. The गुरु-शिष्य (*guru-śiṣya*) chain carries all of this from one generation to the next.
 
-परम्परा (*paramparā*) supplies the distributed transmission architecture that the English word "tradition" fails to describe. Its vertical dimension preserves exact form through the गुरु-शिष्य (*guru-śiṣya*) chain. Its horizontal dimension allows learned people to move between communities and places of learning. Society supports them with food, lodging, travel, दक्षिणा (*dakṣiṇā*), invitations to यज्ञ (*yajña*), and opportunities for public debate. Knowledge can therefore circulate without passing under a central authority.
+परम्परा (*paramparā*) denotes a distributed architecture of transmission that the English word *tradition* fails to describe. Its vertical dimension preserves exact form through the गुरु-शिष्य (*guru-śiṣya*) chain. Its horizontal dimension allows learned people to move between communities and places of learning. Society supports them with food, lodging, travel, दक्षिणा (*dakṣiṇā*), invitations to यज्ञ (*yajña*), and opportunities for public debate. Knowledge can therefore circulate without passing under a central authority.
 
 ## 13.6 Two Minds, Two Layers
 
-Minds learn language through saturation or explicit structure. Saturation-trained learners hear enough correct speech, read enough correct sentences, and recite enough stable forms for the valid pattern to imprint; even when they cannot state the rule, they know when a form has gone wrong. Structure-trained learners want the category, the operation, and the named rule because a visible procedure makes correctness stable for them.
+People learn language through repeated exposure, explicit structure, or both. Some learners hear and recite enough correct forms that the pattern settles in memory. They may be unable to state the rule, yet still know when a form sounds wrong.
+
+Other learners want the category, the operation, and the named rule. An explicit procedure allows them to understand why one form is correct and another is not.
 
 Sanskrit has its own names for both paths. **श्रवण (*śravaṇa*)** — hearing-based reception — serves the saturation-trained mind. **व्याकरणम् (*vyākaraṇam*)** — analytical decomposition — serves the rule-trained mind. Most learners use both pathways and shift between them as mastery deepens. But the weighting differs across individuals, and the difference is real enough that the same language, taught the same way, can produce different kinds of mature speakers.
 

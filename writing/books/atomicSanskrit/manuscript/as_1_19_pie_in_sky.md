@@ -2,7 +2,7 @@
 
 The answer was waiting in the joke.
 
-Years ago, I looked up the etymologies of words like *king*, *kin*, and *genus*, predictably found Sanskrit at the foundational end of every chain
+Years ago, I looked up the etymologies of words like *king*, *kin*, and *genus*. As expected, I found Sanskrit at the foundation of every chain:
 
 > *king* ← Old English *cyning* ← *cyn*, offspring  
 > — Sanskrit *janaka*, *the father of a people*[NOTE: pre-pie-dictionary-shift]
@@ -33,13 +33,17 @@ The original fable did not place an asterisk before every form, and Schleicher d
 
 Chapter 2's 2x2 matrix includes constructed languages within its two engineered categories. Their designers openly acknowledge that they created them. PIE entered under a different claim. Schleicher presented it as a reconstruction of the **"one common original language"** from which the recorded languages had descended.[NOTE: schleicher-1861-compendium]
 
-That is how the comparative method describes Schleicher's procedure. In reality, he inherited two generations of Sanskrit knowledge that Sanskrit scholars had passed into European hands under British rule. Sanskrit supplied the धातवः (*dhātavaḥ*), the grammar, and the architecture that connected sounds with forms and meanings. Schleicher then searched the European languages for reflections of that architecture. From those reflections, he invented reconstructed pseudo-atoms that could be passed off as the ancestors of the Sanskrit atoms from which the search had begun. He added enough reconstructed morphology and syntax to compose his fable.[NOTE: early-19c-comparative-philology-bopp-pott]
+That is how the comparative method describes Schleicher's procedure. In reality, he inherited two generations of Sanskrit knowledge passed into European hands by Sanskrit scholars under British rule. Sanskrit gave him the धातवः (*dhātavaḥ*), the grammar, and an architecture connecting sounds with forms and meanings.
+
+Schleicher then searched European languages for reflections of that architecture. From those reflections, he constructed pseudo-atoms and presented them as ancestors of the Sanskrit atoms from which the search had begun. He added enough reconstructed morphology and syntax to compose his fable.[NOTE: early-19c-comparative-philology-bopp-pott]
 
 This was the greatest philological fraud: Sanskrit supplied the architecture, European languages supplied its scattered reflections, and Schleicher placed his own invention above them both.
 
-Conlangers openly acknowledge what they create. Schleicher assembled forty-four distinct reconstructed forms into his fable and passed the resulting language off as the ancestor of Sanskrit and the other recorded languages. PIE was a reverse-averaged invention disguised as a recovered language.
+Conlangers openly acknowledge what they create. Schleicher assembled forty-four distinct reconstructed forms into his fable and passed the resulting language off as the ancestor of Sanskrit and the other recorded languages. PIE was constructed by working backward from recorded languages and then disguised as their recovered ancestor.
 
-Schleicher claimed to have recovered what he had constructed. The pyramid's historical linguists inherited that claim and have perpetuated the fraud. They took Schleicher's reconstructed system, displayed through a few dozen forms in his fable and developed across his *Compendium*, and extended the same fabrication across a few thousand PIE entries. They continue to place these inventions above Sanskrit and the other recorded languages. Chapter 3 §§3.6–3.7 identifies this concealment as असुरत्व (*asuratva*): the operator conceals his own action while claiming authority over the result.
+Schleicher claimed to have recovered what he had constructed. The pyramid's historical linguists inherited that claim and have perpetuated the fraud.
+
+Schleicher displayed a few dozen reconstructed forms in his fable and developed the system across his *Compendium*. Later philologists extended the same fabrication across a few thousand PIE entries. They continue to place those inventions above Sanskrit and the other recorded languages. Chapter 3 §§3.6–3.7 identifies this concealment as असुरत्व (*asuratva*): the operator conceals his own action while claiming authority over the result.
 
 PIE is the shame that honest conlangers will refuse to claim.
 
@@ -49,13 +53,15 @@ The first syllable carries the joke. In *conlang*, *con-* means *constructed*. S
 
 The pyramid's defense retreats to bookkeeping. It says: yes, the forms are hypothetical; yes, nobody claims to have a recording of PIE; yes, the asterisk denotes reconstruction. The starred forms are only labels for systematic correspondences.
 
-When a dictionary writes "from PIE \*ǵenh₁" at the deepest point in an etymological chain, its placement assigns ancestry. The asterisk performs the work of a footnote in advance: the main line says "from PIE" and teaches the reader to see a source, while the star quietly records that the supposed ancestor is reconstructed. Most readers absorb the ancestry. When that ancestry is challenged, the pyramid retreats into the notation and insists that no literal source was ever claimed. The claim shapes belief, while the disclaimer denies responsibility for the belief it shaped.
+When a dictionary writes “from PIE \*ǵenh₁” at the deepest point in an etymological chain, that placement assigns ancestry. The main line teaches the reader to see a source. The asterisk quietly records that the supposed source is reconstructed.
+
+Most readers absorb the ancestry. When someone challenges it, the pyramid retreats into the notation and insists that the entry never claimed a literal source. The main line creates the belief, while the asterisk allows the dictionary to deny responsibility for creating it.
 
 **This is gaslighting with footnotes compressed into one character. If the method of असत् (*asat*) were written as a सूत्र (*sūtra*) and atomized into its shortest possible form, it would be the asterisk.**
 
 Comparative reconstruction may infer an earlier form that appears in no surviving record. That model does not become an etymon merely because a dictionary places it at the head of a chain. The endpoint of going backward in time is the earliest real form the evidence can establish, while the reconstruction remains a modern hypothesis projected behind that evidence. *Janaka* exists. *Genus* exists. *Génos* exists. **\*ǵenh₁** is a proposal about their history. The pyramid must demonstrate that a corresponding source form existed and that the recorded words descended from it; typography cannot confer ancestry.
 
-The procedural reconstruction is exposed for what it is — an average of the reflections, misrepresented as a source. The bookkeeping claim collapses.
+The procedure averages the recorded reflections and misrepresents the result as their source. The asterisk does not repair that reversal.
 
 PIE is not merely a speculative reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological machinery, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The pyramid needed it for multiple reasons, so the machinery baked it and the church of progress cemented it.
 
@@ -69,7 +75,7 @@ Chapter 18 has already tested PIE against the subcontinental sound system and th
 
 PIE cannot account for the धातवः (*dhātavaḥ*). Its reconstructed bases are hypothetical remnants assigned to an imagined ancestor. Sanskrit's धातवः (*dhātavaḥ*) are reusable semantic atoms. Speakers can extend them into verbs, nouns, adjectives, and complete sentences whenever they need them. The botanical translation exposed in Chapter 2 hides that difference by turning the Sanskrit atom into a historical root. Chapters 2 and 10 restore the constituent the continuum describes. PIE can arrange supposed descendants beneath a reconstructed base. It cannot explain a semantic atom that remains available for forming new words and sentences.
 
-The scaffold result exposes another failure in PIE. PIE can collect sound correspondences, but it cannot explain why Sanskrit's semantic atoms occupy a compact set of timed forms. Chapter 10 shows that ten रचनाः (*racanāḥ*) account for the overwhelming majority of the धातुपाठ (*Dhātupāṭha*). A story of descent does not explain that concentration or the engineering behind it.
+The recurring scaffolds of Sanskrit's semantic atoms expose another failure in PIE. PIE can collect sound correspondences, but it cannot explain why Sanskrit's semantic atoms occupy a compact set of timed forms. Chapter 10 shows that ten रचनाः (*racanāḥ*) account for the overwhelming majority of the धातुपाठ (*Dhātupāṭha*). A story of descent does not explain that concentration or the engineering behind it.
 
 PIE cannot account for सिद्ध (*siddha*) either. The महाभाष्य (*Mahābhāṣya*) begins by stating that the bond between word and meaning is सिद्ध (*siddha*), established. It declares Sanskrit's metaphysical commitment to be fundamentally anti-decay. Sanskrit's grammatical continuum begins with a bond that speakers receive and preserve. PIE begins by treating changes in words and meanings as evidence of descent from an earlier language. The two accounts describe fundamentally different kinds of language.
 
@@ -87,15 +93,19 @@ These are category failures. PIE tries to explain an engineered architecture usi
 
 **PIE performs the two powers of** **आसुरी माया (*āsurī māyā*)**. **आवरण (*āvaraṇa*)** conceals Sanskrit's radiant architecture. **विक्षेप (*vikṣepa*)** projects an imaginary ancestor in its place. PIE is a linguistic Rāhu standing between Sanskrit and the observer.
 
-PIE is therefore more than an imaginary ancestor. It supplies a replacement civilizational memory. Sanskrit becomes a foreign inheritance, the Vedas are projected as early literature, and Pāṇini is made the authority who finally imposed order upon drifting speech. India continues to remember and revere all three. The pyramid teaches Indians to regard that reverence as attachment to a past that is irrelevant, regressive, and, worse, oppressive.
+PIE is therefore more than an imaginary ancestor. It creates a replacement civilizational memory. Sanskrit becomes a foreign inheritance, the Vedas are projected as early literature, and Pāṇini is made the authority who finally imposed order upon drifting speech. India continues to remember and revere all three. The pyramid teaches Indians to regard that reverence as attachment to a past that is irrelevant, regressive, and, worse, oppressive.
 
 ## 19.4 The Cementing
 
-PIE persists because the third pillar persists. The racial pillar has been damaged. The old theological chronology has receded. The linear-progress pillar remains. That doctrine requires ancient sophistication to descend from primitive antecedents — that whatever is sophisticated must derive from something simpler. Sanskrit as engineered source violates the doctrine. The central formation is developed in Chapter 3: the *progressive dogma* preserves PIE because to relinquish PIE is to begin relinquishing the doctrine; the *church of progress* cements PIE in the routine reference ecosystem the next generation reads.
+PIE persists because the third pillar remains. The racial pillar has been damaged, and the old theological chronology has receded. The doctrine of linear progress still requires ancient sophistication to descend from something more primitive. Sanskrit as an engineered source violates that doctrine.
+
+Chapter 3 explains the institutional consequence. The *progressive dogma* protects PIE because relinquishing PIE would weaken the doctrine itself. The *church of progress* then places PIE throughout the dictionaries and reference works from which each new generation learns.
 
 The construct is older than the name by which readers now know it. Schleicher called the reconstructed ancestor the *Ursprache*. The English expression *Proto-Indo-European* is recorded by 1905, and Winfred P. Lehmann used both the full name and the abbreviation *PIE* throughout his 1952 book.[NOTE: pie-term-history] The reconstructed ancestor began as a nineteenth-century construction. Its familiar English name and abbreviation belong to its twentieth-century consolidation.
 
-The hardening has continued, conspicuously, in the past quarter century. Older dictionaries often stopped with recorded Latin, Greek, or Sanskrit forms. Today, online dictionaries routinely continue the chain backward to reconstructed PIE. Free online etymological reference, the default route by which the contemporary English-speaker meets word origins, takes PIE as the terminus by default. The IE etymological reference machinery that anchors this routine usage was substantially built out in the same window. The construct's apparent solidity is not the residue of nineteenth-century philology preserved in amber. It is being manufactured continuously, in the routine reference works the contemporary reader actually consults — and at a pace and with a timing the structural account here does not treat as accidental.[NOTE: pie-cementing-recent-decades]
+The hardening has continued during the past quarter century. Older dictionaries often stopped with recorded Latin, Greek, or Sanskrit forms. Online dictionaries now routinely extend the chain backward to PIE.
+
+For many English speakers, a free etymology website is the first and only place they look for a word's origin. Those sites usually present PIE as the end of the chain. Much of the reference machinery supporting that habit was expanded during the same period. PIE's apparent solidity is therefore not a nineteenth-century relic preserved unchanged. Contemporary reference works continue to manufacture it for each new reader.[NOTE: pie-cementing-recent-decades]
 
 The reconstruction history itself can be measured. The figure below tracks five major PIE reconstructions, beginning with Schleicher's nineteenth-century bake and ending with the modern reconstruction. It also places those revisions against selected historical events.
 
@@ -109,7 +119,7 @@ The event lanes below the chart show what the timing reveals. The first lane is 
 
 The lanes do not claim that one event mechanically caused the next PIE revision. They show the strategic environment. Race science retreats; the racial Arya thesis marches on. Sanskrit reasserts itself; PIE does not disappear. It adjusts.
 
-Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. Then the modern reconstruction rises again to **0.64** — against that background, a revealing curve. The pattern is not the discovery of a stable ancestor. It is a reconstruction moving around Sanskrit: close at first, then away, then back toward Sanskrit-like material when Sanskrit can no longer be ignored.
+Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. The modern reconstruction then rises again to **0.64**. Against that historical background, the reversal deserves attention. The pattern is not the discovery of a stable ancestor. It is a reconstruction moving around Sanskrit: close at first, then away, then back toward Sanskrit-like material when Sanskrit can no longer be ignored.
 
 The reconstruction bakers were only the first shift; a second took the reference shelf. Julius Pokorny's *Indogermanisches etymologisches Wörterbuch* (1959) gathered the starred roots into a cookbook. Calvert Watkins built them into the *American Heritage Dictionary*'s appendix — a pie in every American desk. The free online references a reader now consults, Etymonline and the aggregators, made the starred form the default terminus. More bakers, more pies. The reconstructions did not merely multiply in the journals; they climbed into the dictionaries, edition by edition, until the entry a child reads today ends at a star. The next section follows that climb into one dictionary's own pages.
 
@@ -119,7 +129,13 @@ Four words hang in every English-speaking wardrobe: *shirt*, *skirt*, *short* �
 
 ![Figure 19.2 — \*(s)ker- — the Phantom of Cutting. The tree simplified to its own topology — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit in the tree.](figures/pie_in_sky/sker_pie_tree.svg){#fig:ch19-sker-phantom width=100%}
 
-The notation at the base of that tree makes three confessions, printed in plain sight. The asterisk is the first: **\*(s)ker-** is reconstructed; no text, inscription, or known speaker preserves it. The parentheses are the second: the reconstruction needs *s* for some words and removes it for others. Comparative philology calls this alternation *s-mobile*, but the label supplies no stable rule that predicts its appearance across this family.[NOTE: s-mobile-root-extension-confessions] The *t* is the third confession. Some recorded forms contain it and others do not, so the handbooks posit **\*(s)ker-t-** beside **\*(s)ker-** and call the added consonant a "root extension." Yet the extension has no identified function that explains where it appears. A phantom base, a floating consonant, and an extension without a function: that is what the whole tree stands on.
+The notation at the base of that tree makes three confessions in plain sight. The asterisk is the first: **\*(s)ker-** is reconstructed; no text, inscription, or known speaker preserves it.
+
+The parentheses are the second. The reconstruction needs *s* for some words and removes it for others. Comparative philology calls this alternation *s-mobile*, but the label provides no stable rule that predicts where the *s* will appear within this family.[NOTE: s-mobile-root-extension-confessions]
+
+The *t* is the third confession. Some recorded forms contain it and others do not, so the handbooks place **\*(s)ker-t-** beside **\*(s)ker-** and call the added consonant a “root extension.” Yet they identify no function that explains where the extension appears.
+
+A phantom base, a floating consonant, and an extension without a function: that is what the whole tree stands on.
 
 All that machinery conceals a Sanskrit account built from recorded atoms and stated rules.
 
@@ -176,7 +192,7 @@ One chain begins from a real धातुः (*dhātuḥ*) recorded in the Dhāt
 
 *King* is the whole indictment in miniature. *The father of a people* — Chambers and Müller both had it so, tracing it to the Sanskrit begetter — once ran in the dictionaries beside a real, unstarred *janaka*. Later reference culture floated a starred ancestor above the entire family and moved the real Sanskrit into the cognate list. The begetter-word for the apex, the father of the people — and the machinery reconstructed an imaginary parent to stand even over that.
 
-By positing an imaginary people speaking an imaginary language built from imaginary words, the asterisk serves as the one visible confession. Printed on the reconstructed word, the language assembled from those words, and the people posited to have spoken it, that single mark sustains three distinct fictions. The only empirical reality in the story remains the Sanskrit the machinery reverse-engineered it from.
+By positing an imaginary people speaking an imaginary language built from imaginary words, the asterisk serves as the one visible confession. Printed on the reconstructed word, the language assembled from those words, and the people posited to have spoken it, that single mark sustains three distinct fictions. The only empirical reality in the story is the Sanskrit from which the machinery reverse-engineered its imaginary people, language, and words.
 
 ## 19.7 The Radiance Thesis: Reflection, Not Root
 
@@ -202,7 +218,7 @@ Chapter 12 follows Sanskrit's internal construction through the completed word a
 
 ### Words and Atoms Become Seeds
 
-The *mother* family shows that movement through one familiar example:
+The familiar *mother* family shows how a Sanskrit word can move into other languages:
 
 > **⟪मा⟫ (*mā*, धातुः (*dhātuḥ*) "to measure") →**  
 > **मातृ (*mātṛ*, शब्द (*śabda*) — "the measurer, mother") →**  
@@ -228,7 +244,7 @@ The same pattern appears in देवः (*devaḥ*):
 
 The pyramid's etymology projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**.[NOTE: deva-pie-etymology] The Sanskrit chain remains available through the धातुः (*dhātuḥ*), the शब्द (*śabda*), and the derivational architecture. The Latin form is the अपशब्द (*apaśabda*): an organic form shaped by Latin pronunciation and morphology after the Sanskrit molecule entered as बीज (*bīja*). A Latin speaker retained the reflection but no longer had access to the धातुः (*dhātuḥ*) and derivation that generated देवः (*devaḥ*).
 
-The ⟪स्था⟫ and ⟪दिव्⟫ families are part of a much larger endowment. Western etymological references repeatedly place a starred reconstruction above a compact Sanskrit atom and a large family of words in the receiving languages. Put the recorded atom back into that source position, and six familiar families come into view:[NOTE: dhatu-endowment-families]
+The same pattern appears across many more Sanskrit atoms and their word families. Western etymological references repeatedly place a starred reconstruction above a compact Sanskrit atom and a large family of words in the receiving languages. Put the recorded atom back into that source position, and six familiar families come into view:[NOTE: dhatu-endowment-families]
 
 | Sanskrit atom | Pyramid's reconstructed source | Families grown in receiving languages |
 |---|---|---|
@@ -272,7 +288,9 @@ The yoke family provides a compact demonstration:
 | English | ***yoke*** | **योक्** | yoke |
 | Sanskrit | **युज्, युग, युक्त, योग (*yuj, yuga, yukta, yoga*)** | original Devanagari | join, yoke, joined, union |
 
-The Sanskrit row contains the recorded atom **⟪युज्⟫ (*yuj*)** and a generated family whose internal relations can be traced. The Veda already uses **युञ्जन्ति (*yuñjanti*, "they yoke")** in Ṛgveda 1.6.1, **युगा (*yugā*, "the yokes")** in 10.101.3, and **युक्त (*yukta*, "yoked")** in 10.102.6. These forms display the closing **ज, ग,** and **क (*j, g,* and *k*)** within the same semantic family. The वर्णमाला (*varṇamālā*) supplies the articulatory coordinates for comparing how the mouth produces those sounds and the grid addresses that show their relationships, while Sanskrit's specified vowel relation connects **उ (*u*)** with **ओ (*o*)** in **योग (*yoga*)**. Pāṇini later documents the Sanskrit operations; the Vedic forms show that he did not create them.[NOTE: yuj-bhr-radiance-method]
+The Sanskrit row contains the recorded atom **⟪युज्⟫ (*yuj*)** and a generated family whose internal relations can be traced. The Veda already uses **युञ्जन्ति (*yuñjanti*, “they yoke”)** in Ṛgveda 1.6.1, **युगा (*yugā*, “the yokes”)** in 10.101.3, and **युक्त (*yukta*, “yoked”)** in 10.102.6. These forms place the closing **ज, ग,** and **क (*j, g,* and *k*)** within the same semantic family.
+
+The वर्णमाला (*varṇamālā*) provides the anatomical coordinates and grid addresses needed to compare those sounds. Sanskrit's specified vowel relation also connects **उ (*u*)** with **ओ (*o*)** in **योग (*yoga*)**. Pāṇini later documented these operations; the Vedic forms show that he did not create them.[NOTE: yuj-bhr-radiance-method]
 
 The complete procedure first renders each receiving form approximately in Devanagari. It then maps consonants by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)** before examining vowels and meanings separately. Pāṇini, Hemacandra, a प्रातिशाख्य (*Prātiśākhya*), or another Indic source enters the analysis where its documentation applies. A single family demonstrates the procedure. Repeated families and plausible routes of contact establish the direction in which Sanskrit's radiance traveled. Appendix Part 1 provides the reusable research record and applies it to ⟪युज्⟫, ⟪भृ⟫, ⟪जन्⟫, and further atoms.
 
@@ -321,11 +339,13 @@ The अपशब्द (*apaśabda*) *ahura* became part of the central theologi
 
 ![Figure 19.9 — Recorded Chains and Projected Ancestors. The solid chains follow Sanskrit forms into the listener's seed and the receiving-language form. The dashed boxes show the imaginary ancestor that the pyramid projects backward above each recorded chain.](figures/pie_in_sky/deva_asura_vivimorphosis_chains.svg){#fig:ch19-deva-asura-vivimorphosis width=100%}
 
-Figure 19.9 restores the missing middle. Sanskrit provides the engineered calibrant. A listener receives the word as बीज (*bīja*), and the receiving language develops a प्रतिबिम्ब (*pratibimba*) through its own natural history. Comparative philology observes correspondences among those reflections and, because it assumes descent, averages them into a vanished common ancestor. The calibrant account explains the same correspondences as reflections of Sanskritic radiance. The movement therefore runs in the other direction: formed Speech first, reflections afterward.
+Figure 19.9 restores the missing middle. Sanskrit provides the engineered calibrant. A listener receives a word as बीज (*bīja*), and the receiving language reshapes it into a प्रतिबिम्ब (*pratibimba*) through repeated use.
+
+Comparative philology begins with correspondences among those reflections. Because it assumes common descent, it averages them into a vanished ancestor. The calibrant account explains the same correspondences by tracing Sanskritic radiance outward. The sequence therefore runs in the other direction: formed Speech first, reflections afterward.
 
 Sanskrit as calibrant. The natural languages of Central and West Asia as calibrated. Their प्रतिबिम्ब (*pratibimba*) projected backward by nineteenth-century European philologists as PIE.
 
-The inversion is now entirely visible: the living language was declared dead, while the imaginary ancestor was granted life. Sanskrit was preserved, recited, taught, spoken, and remained generative. PIE was preserved nowhere, recited nowhere, and spoken by no known human community. Yet the machinery buried the living architecture and animated the ghost.
+The inversion is complete: the pyramid declared the living language dead and granted life to the imaginary ancestor. Sanskrit was preserved, recited, taught, spoken, and remained generative. PIE was preserved nowhere, recited nowhere, and spoken by no known human community. Yet the machinery buried the living architecture and animated the ghost.
 
 The Rāhu image from the Prologue now becomes literal: a head without a body, granted position without life.
 

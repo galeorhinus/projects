@@ -1,6 +1,6 @@
 # Appendix Part 5 — The Language Factory
 
-A language has a sound inventory and a grammar that combines those sounds into words and sentences. This appendix separates the two. It uses individual sounds drawn from Japanese as the material and Sanskrit's धातुः (*dhātuḥ*) engine as the machinery. Sanskrit supplies the semantic atoms, suffixes, endings, and bonding operations. The factory produces words and sentences through Sanskrit grammar, but with a different sound surface. This appendix calls the resulting system ***Yenpro***.
+A language has a sound inventory and a grammar that combines sounds into words and sentences. This appendix separates them. It takes individual sounds from Japanese and runs them through Sanskrit's धातुः (*dhātuḥ*) engine. Sanskrit contributes the semantic atoms, suffixes, endings, and bonding operations. The resulting factory produces words and sentences through Sanskrit grammar while giving them a different set of sounds. This appendix calls the constructed system ***Yenpro***.
 
 ## 5.1 Yenpro and the Mean Baker
 
@@ -22,9 +22,9 @@ The contrast is the argument. Yenpro has only three sentences, but anyone given 
 
 Chapters 10 through 12 documented Sanskrit's engine as a word factory. The language begins with roughly two thousand धातवः (*dhātavaḥ*). Twenty-two उपसर्गाः (*upasargāḥ*) and an extensive system of प्रत्ययाः (*pratyayāḥ*) extend those atoms into new words. This finite inventory can generate a practically unbounded range of expression. India's space agency uses the same capacity in names such as *Chandrayāna*, *Maṅgalayāna*, and *Gaganyāna*.
 
-Chapters 10 through 12 followed that factory while it generated Sanskrit. This appendix changes the sound inventory while preserving a selected set of the derivational and inflectional operations. Every sound replacement follows one fixed table, and every resulting form can be traced back through the same grammatical steps.
+Chapters 10 through 12 showed Sanskrit's engine generating Sanskrit words and sentences. This appendix keeps a selected set of those derivational and inflectional operations but replaces their sounds. Every replacement follows one fixed table, so the reader can trace each Yenpro form back through the same grammatical steps.
 
-Appendix Part 1 prosecuted the bake demanded by the *foundational dogma* — Schleicher's manufacture of PIE without an actual recipe. The demonstration here begins with one and records every step. The construction is also a riposte.
+Appendix Part 1 examined the bake demanded by the *foundational dogma*: Schleicher's manufacture of PIE without an actual recipe. Yenpro begins with a recipe and records every step. The construction is therefore also a reply.
 
 ## 5.3 The Procedure
 
@@ -43,11 +43,11 @@ The derivational path remains unchanged. An agent noun still comes from the same
 
 This demonstration uses Japanese for three reasons.
 
-**First, distance.** Japan stood near the far end of the eastward transmission described in Chapter 20 §20.2. Buddhist transmission carried Sanskrit sound-analysis and Siddham study into Japan, where they influenced the ordering of Japanese sounds.[NOTE: siddham-east-asia-sonomeric-field] The inherited Japanese sound inventory nevertheless differs sharply from Sanskrit's. That difference makes it useful here.
+**First, Japan provides a distant comparison.** It stood near the far end of the eastward transmission described in Chapter 20 §20.2. Buddhist teachers carried Sanskrit sound analysis and Siddham study into Japan, where they influenced the ordering of Japanese sounds.[NOTE: siddham-east-asia-sonomeric-field] Yet the Japanese sound inventory differs sharply from Sanskrit's, which makes it useful for testing whether the grammar survives a new set of sounds.
 
 **Second, a manageable sound inventory.** The experiment uses the five Japanese vowels (/a, i, u, e, o/) and a simplified set of consonants (/k, g, s, z, sh, j, t, d, ch, ts, n, m, h, b, p, r, w, y/). Devanagari can represent these sounds closely enough for this demonstration.
 
-**Third, a useful second test.** Japanese restricts consonant clusters and most word-final consonants. The base cipher can therefore test sound replacement first, and §5.7 can then show how Japanese alters combinations that do not fit its sound patterns.
+**Third, Japanese allows the appendix to add a second test.** The language restricts consonant clusters and most word-final consonants. The base cipher first tests sound replacement. Section 5.7 then shows how Japanese would alter combinations that do not fit its sound patterns.
 
 Japanese does not use Sanskrit's aspirated-unaspirated stop distinction, and it does not contain Sanskrit's retroflex stop row. A cipher built from its smaller inventory must therefore merge several Sanskrit sounds. Japanese also restricts consonant clusters. The moraic nasal is the principal consonantal sound it permits at the end of a syllable. The experiment records every merger so the reader can identify which Sanskrit distinctions survive the substitution.
 
@@ -114,7 +114,7 @@ Interlinear rendering:
 
 `NOM` marks the subject form, `ACC` marks the object form, and `3sg` marks the third-person singular verb. `MASC.NOM.SG` identifies a masculine adjective agreeing with one masculine subject.
 
-The individual sounds come from the Japanese inventory, while the derivational, inflectional, and junction operations come from Sanskrit's engine. Devanagari renders both surfaces.
+The individual sounds come from Japanese, while the operations that derive, inflect, and join the forms come from Sanskrit's engine. Devanagari renders both the original Sanskrit and the remapped Yenpro forms.
 
 The experiment tests a narrow claim: Sanskrit's operations can remain recognizable after every sound passes through a fixed substitution table. It does not create a naturally spoken language or demonstrate that the new forms would remain stable across generations.
 
@@ -131,7 +131,7 @@ The factory is not limited to the three sentences above. Sanskrit can generate a
 | *pācakāḥ* | bakers, masculine nominative plural | *kesete* | केसेते (homophonous with the singular because the cipher discards vowel length) |
 | *hāsakaḥ* | a jester or buffoon, from the causative of ⟪हस्⟫ (*has*) | *rehete* | रेहेते |
 
-The transformation from ⟪पच्⟫ (*pac*) to पक्वः (*pakvaḥ*) belongs to Sanskrit's documented engine. *Aṣṭādhyāyī* 8.2.52 states पचो वः (*paco vaḥ*), the rule that supplies व (*va*) in this participle.[NOTE: pac-pakva-ashtadhyayi-8-2-52]
+The transformation from ⟪पच्⟫ (*pac*) to पक्वः (*pakvaḥ*) belongs to Sanskrit's documented engine. *Aṣṭādhyāyī* 8.2.52 states पचो वः (*paco vaḥ*), the rule that introduces व (*va*) into this participle.[NOTE: pac-pakva-ashtadhyayi-8-2-52]
 
 The three धातवः (*dhātavaḥ*) used in the example can combine with further Sanskrit suffixes and endings to produce many more surface forms. The procedure can also extend to declined nominals, conjugated verbs, compounds, and complete sentences. A reader who knows the substitution table can recover the Sanskrit operations beneath them.
 
@@ -161,7 +161,7 @@ Applied to the §5.5 worked example:
 | *iteto* (already V-CV) | *iteto* | इतेतो |
 | *rehepo* (already CV) | *rehepo* | रेहेपो |
 
-The system's name changes under the adaptation layer. Under the base cipher, यन्त्री (*yantrī*) becomes ***Yenpro***. The adapted form inserts /u/ to break the /pr/ cluster and becomes येन्पुरो (***Yenpuro***).
+Japanese sound patterns also change the system's name. Under the base cipher, यन्त्री (*yantrī*) becomes ***Yenpro***. The Japanese adaptation then inserts /u/ to break the /pr/ cluster, producing येन्पुरो (***Yenpuro***).
 
 The adapted sentences are:
 
@@ -173,7 +173,7 @@ The inserted vowels remove the disallowed cluster and word-final /m/. The moraic
 
 Replacing individual sounds is therefore only the first step. The receiving language also determines which sequences of those sounds it permits. Every form produced in §5.6 can pass through this second procedure, although each adjustment can create another merger or ambiguity.
 
-***Yenpuro*** retains the same source atoms and grammatical operations as Yenpro. Its surface has undergone one more transformation. The language factory can therefore combine a replacement sound inventory with a procedure that adjusts the resulting sequences.
+***Yenpuro*** retains the same source atoms and grammatical operations as Yenpro, but its sounds have undergone one further change. The language factory can therefore replace Sanskrit's sounds and then adjust combinations that Japanese speakers would find difficult to pronounce.
 
 ## 5.8 What This Demonstrates
 
@@ -195,7 +195,7 @@ By the 1860s, European philology had discussed Sanskrit in print for more than a
 
 Schleicher's published model made a clear choice. He organized languages as organisms on a family tree, placed PIE at the trunk, and placed Sanskrit on a branch.
 
-Growth and decay then displaced engineering and calibration as the governing categories. The metaphor described Sanskrit backwards. Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) turned the *Stammbaumtheorie* into a usable method; *Avis akvāsas ka* (1868) baked PIE into a single notebook text.
+European philology then replaced engineering and calibration with the categories of growth and decay. Its botanical metaphor reversed Sanskrit's architecture. Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) turned the *Stammbaumtheorie* into a usable method; *Avis akvāsas ka* (1868) baked PIE into a single notebook text.
 
 Chapter 3 §§3.6–3.7 identifies the institutional ***asuratva*** behind that choice. Recognizing Sanskrit as engineered would have located a foundational language architecture outside Europe and weakened the *church of progress*'s claim to civilizational precedence. The tree protected that precedence by converting Sanskrit from architecture into descendant.
 

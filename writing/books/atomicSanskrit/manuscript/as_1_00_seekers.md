@@ -48,7 +48,7 @@ A civilization that begins from पूर्णम् (*pūrṇam*) approaches o
 
 The Sanskrit word is **जिज्ञासा (*jijñāsā*)**: the desire to know. The civilization's classical disciplines are organized around it. The मीमांसा (*Mīmāṃsā*) discipline opens with *athāto dharmajijñāsā* — *now, therefore, the inquiry into dharma*. The ब्रह्मसूत्र (*Brahmasūtra*) discipline opens with *athāto brahmajijñāsā* — *now, therefore, the inquiry into Brahman*. Each begins by asking a question and then develops a disciplined way to pursue it.
 
-The same disposition appears across domains. It built the place-value number system and the symbol **शून्य (*śūnya*)** for zero. It documented Ayurveda as a science of the body. It organized न्याय (*Nyāya*) into a formal discipline of inference. It established सांख्य (*Sāṃkhya*) as an analysis of what exists. It maintained the continuous recitation of the *Vedas* across thousands of years.
+Seekers carried the same disciplined inquiry into several domains. They developed the place-value number system and the symbol **शून्य (*śūnya*)** for zero. They documented Ayurveda as a science of the body, organized न्याय (*Nyāya*) as a discipline of inference, and established सांख्य (*Sāṃkhya*) as an analysis of what exists. Other seekers maintained the continuous recitation of the *Vedas* across thousands of years.
 
 The civilization remembers the people behind these achievements as **ऋषयः (*ṛṣayaḥ*)** and **ऋषिकाः (*ṛṣikāḥ*)**: disciplined men and women who sought knowledge. It often preserved what they achieved without preserving every individual name.
 
@@ -82,7 +82,7 @@ Later chapters apply this same method to असुर (*asura*), आर्य (*
 
 The first evidence of the engineering thesis is the language's own name: **संस्कृतम् (*saṃskṛtam*)**, *perfectly synthesized* or *wholly created*, distinct from **प्राकृत (*prākṛta*)**, the natural and the changing.
 
-प्राकृत (*Prākṛta*) is what ordinary process produces: local idiom, songs, sayings, and everyday forms, all of it shifting as the conditions of life shift. संस्कृत (*Saṃskṛta*) is what conscious formation creates and disciplined preservation keeps exact. The civilization that built Sanskrit uses both and gives each its dignity through purpose. Everyday speech may change, because living speech must meet living circumstance. A *Vedic mantra* must stay exact, because its purpose is exact transmission. The प्राकृत (*prākṛta*) flows; the संस्कृत (*saṃskṛta*) remains invariant.
+प्राकृत (*Prākṛta*) develops through ordinary use: local idiom, songs, sayings, and everyday forms all change as the conditions of life change. संस्कृत (*Saṃskṛta*) is what conscious formation creates and disciplined preservation keeps exact. The civilization that built Sanskrit uses both and gives each its dignity through purpose. Everyday speech may change, because living speech must meet living circumstance. A *Vedic mantra* must stay exact, because its purpose is exact transmission. The प्राकृत (*prākṛta*) flows; the संस्कृत (*saṃskṛta*) remains invariant.
 
 संस्कृत (*Saṃskṛta*) itself has two domains. The **वैदिक (*vaidika*)** domain preserves the Vedas exactly: both the language and the received content remain invariant. The **लौकिक (*laukika*)** domain uses the same language to create new compositions for a changing world. Its language remains invariant while its literature continues to grow.
 
@@ -106,7 +106,7 @@ Are the Vedas archaic?
 
 It depends on what *archaic* is being made to mean.
 
-If *archaic* simply means ancient, then the description says very little. If it means outdated, superseded, or characteristic of an earlier evolutionary stage, the word has already committed category theft. The pyramid uses *archaic* to place Vedic Sanskrit inside its botanical chronology: an older form changed over time and eventually became the supposedly more modern language called *Classical Sanskrit*.
+If *archaic* simply means ancient, then the description says very little. If it means outdated, superseded, or characteristic of an earlier evolutionary stage, the word has already committed category theft. The pyramid uses *archaic* to place *"Vedic Sanskrit"* inside its botanical chronology: an older form changed over time and eventually became the supposedly more modern language called *Classical Sanskrit*.
 
 A better question is: are the Vedas old?
 
@@ -114,7 +114,7 @@ In their human reception and transmission, undoubtedly. *Sanātan* time is **अ
 
 The **लौकिक (*laukika*)** domain is also old. Both वैदिक (*vaidika*) and लौकिक (*laukika*) belong to the same engineering. The two domains may have existed together from the beginning because they serve two different purposes.
 
-Their contents, however, have aged differently.
+The two domains treat their contents differently.
 
 The वैदिक (*vaidika*) domain preserves received content exactly. Once a mantra was seen and entered its transmission lineage, its words, sounds, pitch, meter, and arrangement became **read-only**. Chapter 16 examines the read-only and read-write permissions in detail, while Appendix Part 8 documents the grammatical evidence. The architecture protects the mantra from alteration.
 
@@ -136,7 +136,7 @@ The pyramid plays the same chronological game inside the Vedic corpus.
 
 Ask an English-speaking Hindu what **वेदान्त (*Vedānta*)** means, and many will give two answers at once. They correctly recognize that the Upaniṣads form the structural culmination—the अन्त (*anta*) or philosophical end—of the Vedas. But they also assume this "end" is a chronological date, believing the texts were written centuries later in a Vedāntic period. The pyramid creates its chronology by merging structure and timeline into a single answer.
 
-The word ***अन्त (*anta*)*** can describe a position within an arrangement. It can also describe a culmination, purpose, or goal. Like an epilogue of a book. Neither meaning establishes when the material was composed. A structural end and a chronological end belong to different categories, and chronology requires evidence of its own.
+The word ***अन्त (*anta*)*** can describe a position within an arrangement. It can also describe a culmination, purpose, or goal, like the epilogue of a book. Neither meaning establishes when the material was composed. A structural end and a chronological end belong to different categories, and chronology requires evidence of its own.
 
 The pyramid merges them. Because the Upaniṣads are called वेदान्त (*Vedānta*), their place at the culmination of Vedic knowledge becomes evidence that they were composed last. The resulting chronology then arranges Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad as successive historical stages. Their different functions and styles are made to tell a story in which Vedic thought moved from mantra, through यज्ञ (*yajña*), and finally into philosophy.
 
@@ -154,7 +154,7 @@ At the turn from the Dvāpara age to the Kali age — the age of the Mahābhāra
 
 Around the same time, the इतिहासपुराण (*itihāsa-purāṇa*) — the fifth Veda — passed to the keepers of the लौकिक (*laukika*) domain. This domain is expressed in **भाषा (*bhāṣā*)**, the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language remains invariant.
 
-The continuum understands all of this through its own conception of time — *Sanātan* time. Tretā turned before Dvāpara, Satya before that, and the yuga cycle had already repeated through earlier manvantaras. We do not know whether the Vedas came into being during Dvāpara, Tretā, Satya, or an earlier manvantara. But from its beginning, the Veda has kept watch over the लौकिक (*laukika*) world, unchanged — the invariant calibrant against which the turning world can choose to calibrate itself.
+The continuum understands all of this through its own conception of time — *Sanātan* time. Tretā turned before Dvāpara, Satya before that, and the yuga cycle had already repeated through earlier manvantaras. We do not know whether the Vedas came into being during Dvāpara, Tretā, Satya, or an earlier manvantara. But from its beginning, the Veda has remained unchanged while the लौकिक (*laukika*) world has continued to turn. The Veda therefore remains an invariant calibrant against which people in that changing world can choose to align themselves.
 
 ![Figure 0.2 — Sanātan Time. Sanātan time extends from अनादि (*anādi*) to अनन्त (*ananta*). The Veda begins at an unknown point within that span. The one Veda (invariant, छन्दस् (*chandas*) mode) divides into four at the Mahābhārata — each संहिता (*saṃhitā*) with its विस्तार (*vistāra*) — while the इतिहासपुराण (*itihāsa-purāṇa*) crosses into the लौकिक (*laukika*) domain (भाषा (*bhāṣā*) mode), where civilizational clarity rises and falls across the yugas.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
 
@@ -164,7 +164,7 @@ The continuum understands all of this through its own conception of time — *Sa
 
 The पूर्णम् (*Pūrṇam*) puzzle introduced at the beginning of this chapter has only two valid answers: zero and infinity. The civilization that engineered Sanskrit did not just philosophize about these concepts; it made them the foundation of its architecture. It first made them usable in the realm of counting, and then in the structural mechanics of language.
 
-Ten symbols — *0* through *9* — span all of arithmetic. Position determines the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, the *2* in *2* is *two*. The enabling idea is शून्य (*śūnya*), the mark for absence at a position. Without zero, place value collapses; with zero, ten symbols reach every number there is. The world still counts this way — the Hindu-Arabic numerals of the reference works, which the Arabic mathematical discipline received from the Indic one and took west across the medieval period.[NOTE: place-value-arabic-transmission]
+Ten symbols — *0* through *9* — span all of arithmetic. Position determines the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, the *2* in *2* is *two*. The enabling idea is शून्य (*śūnya*), the mark for absence at a position. Without zero, place value collapses; with zero, ten symbols reach every number there is. The world still counts this way. Reference works now call these symbols Hindu-Arabic numerals because Arabic mathematicians received the place-value system from India and carried it west during the medieval period.[NOTE: place-value-arabic-transmission]
 
 A finite inventory, a rule for combining it, one enabling idea — and the output has no ceiling.
 
@@ -178,7 +178,7 @@ These operations give a finite inventory enormous reach. The model contains **20
 
 Sanskrit is a word-engine.
 
-When India's space agency needed a name for its first lunar mission, the engine produced one: **चन्द्र (*candra*)**, moon, + **यान (*yāna*)**, vehicle, = **चन्द्रयान (*Candrayāna*)**, Moon-vehicle. The same engine turns whenever Sanskrit forms a technical term, a name, a mantra, or a verse. The dictionary catalogs the engine's output; it does not bound it.
+When India's space agency needed a name for its first lunar mission, the engine produced one: **चन्द्र (*candra*)**, moon, + **यान (*yāna*)**, vehicle, = **चन्द्रयान (*Candrayāna*)**, Moon-vehicle. The same engine turns whenever Sanskrit forms a technical term, a name, a mantra, or a verse. A dictionary records the engine's output; it does not set the limits of what the engine can produce.
 
 Two systems, built on one shared pattern. Ten digits span arithmetic, while Sanskrit's semantic atoms span vocabulary. Both use a finite inventory to create forms without a fixed limit. The same seeker culture built these architectures in two different domains. At the outer limits of its mathematics and language, the opening word of the puzzle is waiting: पूर्णम् (*pūrṇam*).
 
@@ -221,7 +221,7 @@ The Vedas state the sequence in two mantras from the same hymn:
 
 This means that there was असत् (*asat*), then सत् (*sat*) and ऋत (*ṛta*), and then the sun, moon and the earth were formed.[NOTE: sat-rta-cosmogonic-sequence-inference]
 
-Therefore the distinction between सत् (*sat*) and असत् (*asat*) predates human existence. ऋत (*Ṛta*) was created, but human beings did not create it. The **ऋषि (*ṛṣi*)** sees **ऋत (*ṛta*)** and gives it a form in a measured verse, the **ऋच् (*ṛc*)**.
+Therefore the distinction between सत् (*sat*) and असत् (*asat*) predates human existence. ऋत (*Ṛta*) was created, but human beings did not create it. The **ऋषि (*ṛṣi*)** sees **ऋत (*ṛta*)** and gives it form in a metrical verse, the **ऋच् (*ṛc*)**.
 
 ### Discerning Sat from Asat
 
@@ -271,7 +271,7 @@ The two orders pursue different ends. An order aligned with **असत् (*asa
 
 The Vedas preserve the distinction between सत् (*sat*) and असत् (*asat*) for every age. Compositions in the लौकिक (*laukika*) domain apply that distinction to particular human circumstances. The Mahābhārata gives one such test: **यद्भूतहितमत्यन्तं तत्सत्यम्** (*yad bhūta-hitam atyantaṃ tat satyam*) — “that which fully and finally serves the welfare of living beings is **सत्य (*satya*)**.”[NOTE: satyam-bhutahitam-mahabharata]
 
-The same two responsibilities exist at the civilizational scale. The Veda preserves the invariant distinction. Each generation applies it to a changing world.
+At the civilizational scale, the responsibilities divide in the same way. The Veda preserves the invariant distinction between सत् (*sat*) and असत् (*asat*), while each generation applies that distinction to a changing world.
 
 **This is calibrant architecture.**
 
@@ -283,7 +283,7 @@ The chapters that follow trace these two architectures across several scales. Ch
 
 Sanskrit survived because generations of people performed a repeatable set of actions: they listened, recited, corrected, memorized, taught, and checked one lineage against another. Together, those actions form an engineered transmission architecture.
 
-The **गुरु-शिष्य (*guru-śiṣya*)** chain provides one example. A *guru* transmits to a शिष्य (*śiṣya*); the शिष्य (*śiṣya*) becomes the *guru* of the next student; and the chain extends across thousands of years. The student hears, repeats, receives correction, repeats again, and takes the corrected form forward. The complete architecture extends beyond this relationship, but the relationship shows how trained continuity disciplines memory.
+The **गुरु-शिष्य (*guru-śiṣya*)** chain provides one example. A *guru* transmits to a शिष्य (*śiṣya*); the शिष्य (*śiṣya*) becomes the *guru* of the next student; and the chain extends across thousands of years. The student hears, repeats, receives correction, repeats again, and takes the corrected form forward. The complete architecture extends beyond this relationship, but the teacher-student chain shows how repeated training can keep memory exact across generations.
 
 The Sanskrit continuum has transmitted the Vedas continuously. Nambūdiri Brahmins in Kerala recite the *Ṛgveda* today after learning it from teachers who received it through the same lineage. Recitation lineages in Maharashtra, Tamil Nadu, Banaras, Karnataka, Kashmir, Gujarat, and Rajasthan preserve comparable forms through their own teachers. Because these lineages remained geographically separated, they provide several independent points of comparison. No single lineage owns the standard; reciters can compare the preserved form across lineages and identify both shared features and variation specific to each शाखा (*śākhā*).
 
@@ -309,4 +309,4 @@ Sanskrit distributes its architecture throughout society. Teachers, students, fa
 
 Part I examines the false categories introduced in the Prologue. It shows how those categories separate familiar parts of Sanskrit and prevent the reader from recognizing one connected architecture.
 
-The Epilogue returns to Ṛgveda 5.40. Svarbhānu covers the Sun with darkness, but the Atris continue searching until they find it. This chapter has introduced the discipline behind that response. Seekers keep looking. Caretakers preserve what earlier generations found. Together, they prevent concealment from becoming loss.
+The Epilogue returns to Ṛgveda 5.40. Svarbhānu covers the Sun with darkness, but the Atris continue searching until they find it. This chapter has introduced the seekers, caretakers, and practices that make such a response possible. Seekers keep looking. Caretakers preserve what earlier generations found. Together, they prevent concealment from becoming loss.

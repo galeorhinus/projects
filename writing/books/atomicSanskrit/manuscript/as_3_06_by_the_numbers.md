@@ -2,11 +2,17 @@
 
 By the end of Chapter 10, the botanical substitute is gone and the धातुः (*dhātuḥ*) stands as an engineered semantic atom. Chapter 11 shows that atom in use. The numerical audit behind those chapters compares the size and sound structure of the atoms with the range of forms they generate.
 
-No single number can establish engineering. The pattern has to recur at several levels. This appendix therefore examines the size and internal construction of the atoms, the positions in which their sounds appear, the procedures that activate them, and the range of words and grammatical combinations they support. The *Source and Reference Companion* preserves the tables, scripts, correction history, and replication notes. The account here presents the source, the method, and the strongest patterns in the counts.
+No single number can establish engineering. The pattern has to recur at several levels. This appendix first examines the size and internal construction of the atoms. It then asks where their sounds appear, which procedures activate them, and how many words and grammatical combinations they support.
+
+The *Source and Reference Companion* preserves the complete tables, scripts, correction history, and replication notes. This appendix presents the sources, explains the method, and concentrates on the strongest patterns in the counts.
 
 The audit uses three related datasets, and their totals count different things. The structural baseline contains 2,168 listed entries from a digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)** across the ten **गणाः (*gaṇāḥ*)**. The citation markers called **अनुबन्धाः (*anubandhāḥ*)** are removed before the sounds of each listed atom are counted.
 
-**Path A** then compares particle count with estimated derivative counts for a selected sample of 138 atoms, using the Monier-Williams and Apte dictionaries. **Path C** examines the Digital Corpus of Sanskrit. Its parser produced 3,839 normalized verb lemmas, including derived lemmas such as causatives that are not separate entries in the धातुपाठ (*Dhātupāṭha*). For each lemma, Path C counts the distinct combinations of prefix and grammatical form-class recorded in the corpus. The 2,168 listed entries, the 138-atom sample, and the 3,839 corpus lemmas are therefore three different units.[NOTE: dcs-vs-dhatupatha-count]
+**Path A** uses the Monier-Williams and Apte dictionaries to compare particle count with estimated derivative counts for a selected sample of 138 atoms.
+
+**Path C** examines the Digital Corpus of Sanskrit. Its parser produced 3,839 normalized verb lemmas, including causatives and other derived lemmas that do not appear as separate entries in the धातुपाठ (*Dhātupāṭha*). For each lemma, Path C counts the distinct combinations of prefix and grammatical form class recorded in the corpus.
+
+The three totals therefore count different units: 2,168 listed धातुपाठ entries, a selected sample of 138 atoms, and 3,839 normalized corpus lemmas.[NOTE: dcs-vs-dhatupatha-count]
 
 Each source brings its own limitation. A dictionary sample reflects the choices made by its compilers, while a preserved corpus reflects its genres and transmission history. When the same relation appears in both, the result deserves more weight than either source could provide alone.
 
@@ -41,7 +47,7 @@ Eight linked principles emerge from the counts. Each one describes a different p
 
 The first वर्ग (*varga*) column, formed without voicing or aspiration, occurs most often. Greater physical effort does not by itself predict rarity, however. The voiced aspirates of the fourth column require greater articulatory effort than the voiceless aspirates of the second column, yet the fourth column occurs more often. Its combination of voicing and breath also gives it a stronger acoustic signature. The distribution therefore reflects both the effort required to produce a sound and the distinctions that listeners can hear.
 
-The audit combines those two properties in a simple ratio: distinguishability divided by cost. That ratio has a positive correlation with frequency, but it accounts for only part of the distribution. The exact sound and its position inside the atom also affect how often it appears.
+The audit compares those two properties through a simple ratio: distinguishability divided by cost. Sounds with a higher ratio tend to occur more often, but the ratio explains only part of the distribution. Frequency also depends on the particular sound and its position inside the atom.
 
 ### 2. Cell-Level Allocation
 
@@ -55,7 +61,7 @@ Position changes the physical action of a consonant. At the opening of an atom, 
 
 Retroflex sounds occur less often before the vowel and much more often after it. Palatals also favor the closing side. Velars and labials show the opposite preference and appear more often before the vowel. The same consonant can therefore contribute differently when it opens an atom, closes it, or joins a cluster.
 
-The following figure counts these positions across the धातुपाठ (*Dhātupāṭha*) atoms built around a single अक्षर (*akṣara*) and one vowel. Each circle represents one consonant. Its horizontal position counts uses before the vowel, its vertical position counts uses after the vowel, and its size shows how often the consonant appears inside a cluster. The colors follow the वर्णमाला (*varṇamālā*) by grouping consonants according to where the mouth produces them.
+The following figure examines धातुपाठ (*Dhātupāṭha*) atoms built around a single अक्षर (*akṣara*) and one vowel. Each circle represents one consonant. Its position from left to right shows how often the consonant occurs before the vowel; its position from bottom to top shows how often it occurs after the vowel. The circle grows larger when the consonant appears more often inside a cluster. Colors group the consonants according to their place in the वर्णमाला (*varṇamālā*) and the mouth.
 
 ![Where consonants appear around the vowel in atoms built around a single अक्षर (*akṣara*).](figures/building_dhatuh/role_map_color.svg){#fig:appendix-numbers-dhatuh-role-map width=100%}
 
@@ -63,7 +69,7 @@ The dashed line marks equal use before and after the vowel. **क, व, प,** a
 
 ### 4. Cluster-Joiner Specialization
 
-Consonant clusters do not use every sound in the same way. Most of the joining falls to a small class whose major members are the **अन्तःस्थाः (*antaḥsthāḥ*)** — य्, र्, ल्, व् (*y, r, l, v*). The Sanskrit term describes sounds that stand between the stop rows and the **ऊष्माणः (*ūṣmāṇaḥ*)**. Their placement in the वर्णमाला (*varṇamālā*) matches the connecting role that the count reveals, with र् (*r*) performing that role most often.
+Consonant clusters do not use every sound in the same way. Most of the joining is performed by a small class whose major members are the **अन्तःस्थाः (*antaḥsthāḥ*)**: य्, र्, ल्, व् (*y, r, l, v*). In the वर्णमाला (*varṇamālā*), these sounds stand between the stop rows and the **ऊष्माणः (*ūṣmāṇaḥ*)**. The count shows them performing a corresponding connecting role inside the atoms, with र् (*r*) doing so most often.
 
 The largest circle belongs to **र् (*r*)**. It appears frequently on both sides of the vowel and joins more consonant clusters than any other sonomer in this count. This range allows **र् (*r*)** to connect sounds throughout a धातुः (*dhātuḥ*).
 
@@ -71,7 +77,7 @@ The circle for **ल् (*l*)** lies much closer to the dashed line. It appears 
 
 ### 5. मूर्धन्य (*Mūrdhanya*) Dual-Role Engineering
 
-The **मूर्धन्य (*mūrdhanya*)** anatomical coordinate bears unusual load. It appears frequently at the ends of atoms, participates heavily in cluster-joining, and connects with the ऋ (*ṛ*) / र् (*r*) bridge. The counts place a coordinate treated as marginal by the usual story near the center of Sanskrit's atomic construction.
+The **मूर्धन्य (*mūrdhanya*)** anatomical coordinate performs several important functions. Sounds made there appear frequently at the ends of atoms, join many consonant clusters, and participate in the ऋ (*ṛ*) / र् (*r*) relation. The usual story treats this position as marginal, but the counts place it near the center of Sanskrit's atomic construction.
 
 The relationship between **ऋ (*ṛ*)** and **र् (*r*)** extends this pattern across the vowel and consonant systems. Sanskrit places both at the मूर्धन्य (*mūrdhanya*) position. **ऋ (*ṛ*)** can occupy the vowel-center of an अक्षर (*akṣara*), while **र् (*r*)** can connect with sounds on either side of that center. When **ऋ (*ṛ*)** appears before another vowel, ***यण्-सन्धि (*yaṇ-sandhi*)*** replaces it with **र् (*r*)**. Sanskrit thus treats them as the vowel and consonant forms of closely related movements at the same place in the mouth.
 
@@ -91,7 +97,9 @@ The association is clear, but the count does not by itself establish the reason.
 
 ### 8. Generative Reach From Minimum
 
-Path A and Path C calculate two different kinds of reach. Path A estimates the number of primary derivatives generated by each atom; this is its **generative reach**. Path C counts the combinations in which each atom appears across the corpus; this is its **combinatorial reach**. As particle count rises, both forms of reach tend to fall. Smaller atoms therefore tend to generate more derivatives and appear in more recorded combinations.
+Path A and Path C calculate two different kinds of reach. Path A estimates how many primary derivatives each atom generates. The appendix calls this its **generative reach**. Path C counts the combinations in which each atom appears across the corpus. The appendix calls this its **combinatorial reach**.
+
+Both forms of reach tend to fall as particle count rises. Smaller atoms therefore tend to generate more derivatives and appear in more recorded combinations.
 
 English places irregular forms such as *be*, *have*, and *do* among its most frequent verbs; Latin and Greek offer comparable examples. The current audit examines a different Sanskrit relation: the atoms with the greatest generative reach are concentrated among the smaller forms. A complete comparison of paradigm irregularity would require a separate audit, but the observed concentration already shows that Sanskrit keeps many of its busiest atoms compact and reusable.[NOTE: generative-reach-inversion-natural-language]
 
@@ -161,7 +169,9 @@ The Vedic corpora give greater prominence to atoms suited to their subjects, whi
 
 ## 6.4 How Atomic Shape Relates to Activation
 
-The reach analysis counts how widely an atom extends. A second analysis asks how the atom's internal construction relates to the procedure that turns it into a completed verb. Chapter 11 demonstrates those procedures through Vedic verbs. The grammatical analysis preserved with the *Aṣṭādhyāyī* and धातुपाठ (*Dhātupāṭha*) groups धातवः (*dhātavaḥ*) that behave alike and states the operations associated with those groups.
+The reach analysis counts how widely an atom extends. The next analysis compares the atom's internal construction with the procedure that turns it into a completed verb. Chapter 11 demonstrates those procedures through Vedic examples.
+
+The grammatical tradition recorded in the *Aṣṭādhyāyī* and धातुपाठ (*Dhātupāṭha*) groups together धातवः (*dhātavaḥ*) that behave alike. It then states the operations associated with each group.
 
 The tradition teaches ten verbal **गणाः (*gaṇāḥ*)**. Each gathers धातवः (*dhātavaḥ*) that undergo a recurring operation before receiving the personal ending. Some take an inserted element. Some change internally. Some repeat part of the atom. The *Aṣṭādhyāyī* specifies these operations rule by rule, and later grammatical teaching commonly gathers the intervening elements under the term **विकरणम् (*vikaraṇam*)**.[NOTE: vikarana-as-column-signature]
 
@@ -177,7 +187,7 @@ After instructional markers are removed, the 2,168-entry धातुपाठ (
 
 ![The ten most frequent रचनाः (*racanāḥ*) across the ten verbal classes.](figures/ganah/racana_gana_matrix.svg){#fig:appendix-numbers-racana-gana-matrix width=100%}
 
-The filled and empty cells show that atomic construction and verbal activation are related without being identical. Some scaffolds occur across nearly every class. Others concentrate within a few operations. This analysis belongs in the technical appendix because it tests the classification numerically; the body chapter needs only the simpler conclusion that different atoms follow recurring activation patterns.
+The filled and empty cells show that an atom's construction affects how it becomes a verb, but does not determine the procedure by itself. Some scaffolds occur across nearly every class; others appear mainly within a few. The technical appendix tests that relationship numerically. The body chapter needs only the simpler conclusion that different atoms follow recurring activation patterns.
 
 The periodic-axes figure tests a second arrangement. It places the धातवः (*dhātavaḥ*) recorded in the corpus by the वर्ग (*varga*) column of their first consonant and by their inherent vowel, then uses marker size and color to show combinatorial reach.[NOTE: varga-column-as-engineering-axis][NOTE: inherent-vowel-secondary-axis]
 
@@ -208,6 +218,8 @@ The *Source and Reference Companion* preserves the replication trail:
 - the जुहोत्यादि (*juhotyādi*) C4 correction from 31.8% to 33.3%, and the Path C sharpening to 42.9%;
 - the complete script-to-output map for reproducing each table.
 
-The code bundles are already organized for public audit. The structural baseline counts the listed धातुपाठ (*Dhātupāṭha*). Path A estimates generative reach from a selected dictionary sample. Path C counts combinatorial reach from forms recorded in the corpus. A future Path B can calculate the formal bonding space documented by the *Aṣṭādhyāyī* itself: what its rules make available beyond what dictionaries list or corpora preserve.
+The code bundles are already organized for public audit. The structural baseline counts entries listed in the धातुपाठ (*Dhātupāṭha*). Path A estimates generative reach from a selected dictionary sample, while Path C counts combinatorial reach from forms recorded in the corpus.
+
+A future Path B can calculate the complete set of combinations made possible by the *Aṣṭādhyāyī*. It would examine what the rules allow beyond the forms that dictionaries list or the corpus records.
 
 The printed book presents the result, while the companion preserves the audit trail for readers who want to rerun the tests. Across these analyses, the धातुपाठ (*Dhātupāṭha*) behaves as an atomic inventory organized for compression, distinction, and generative reach. The book identifies that recurring organization as engineering.

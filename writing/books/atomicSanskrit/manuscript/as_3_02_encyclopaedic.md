@@ -1,6 +1,8 @@
 # Appendix Part 2 — The Encyclopaedic Confirmation
 
-Sanskrit's preservation architecture separates several kinds of evidence that a historical dictionary can collapse into one story of linguistic change. A designed Vedic form is not a scribal difference. A scribal difference is not necessarily अपभ्रंशः (*apabhraṃśa*). A new word generated for a new use does not show that Sanskrit's architecture changed. An established word can extend into another use while its earlier meanings remain available. This appendix establishes those distinctions and then examines the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*. The project has assembled an immense and valuable record. Its imported method misclassifies much of what the record contains.
+Sanskrit's preservation architecture requires distinctions that a historical dictionary can collapse into one story of linguistic change. A designed Vedic form is not a scribal difference, and a scribal difference is not necessarily अपभ्रंशः (*apabhraṃśa*). A new word generated for a new use does not show that Sanskrit's architecture changed. An established word can acquire another use without losing its earlier meanings.
+
+This appendix establishes those distinctions and then examines the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*. The project has assembled an immense and valuable record, but its imported method misclassifies much of what the record contains.
 
 Before independence, the asuric English pyramid acted through the three apexes established in Appendix Part 1: **Church, Company, and Crown**. The Church pursued conversion. The Company extracted wealth. The Crown supplied political and military power. All three benefited when Sanskrit no longer stood as a civilizational calibrant. Political sovereignty changed in 1947, but the institutions and categories built by that nexus remained.
 
@@ -8,7 +10,7 @@ The political empire withdrew, but its intellectual machinery remained. The *chu
 
 The new institutions did not have to reproduce every colonial intention. They only had to preserve the categories. They did.
 
-The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* is one institutional outpost of the continuation. It is not an anomaly. It is the flagship of a fleet. Indian institutions inherited the data, the buildings, the chairs, the journals, the prestige economy, and the colonial-philological frame. They then continued the project in Indian hands.
+The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* is not an isolated continuation of the colonial project. It is its leading Indian example. Indian institutions inherited the data and buildings, but they also inherited the academic chairs, journals, systems of prestige, and colonial philological framework. They then continued the project in Indian hands.
 
 The asuric Christian pyramid failed to destroy the civilization's architecture, as the asuric Islamic pyramid before it had failed. The post-independence intellectual machinery continued hiding that architecture beneath inherited categories.
 
@@ -16,7 +18,7 @@ The institutions then created generations of **certified intellectuals** within 
 
 ## 2.1 The Fleet
 
-The Deccan College dictionary provides one detailed case because its title states the method plainly. The pattern extends across institutional Indology. Progressivism, the fourth Abrahamic religion described in Chapter 4, supplies the chronological sequence through which these institutions classify Indian knowledge. Three other cases show the same inheritance.
+The Deccan College dictionary provides one detailed case because its title states the method plainly. The same pattern extends across institutional Indology. Progressivism, the fourth Abrahamic religion described in Chapter 4, imposes the chronological sequence through which these institutions classify Indian knowledge. Three other cases show the same inheritance.
 
 **The critical-edition projects.** The Bhandarkar Oriental Research Institute produced the Critical Edition of the *Mahābhārata*. The Oriental Institute at the Maharaja Sayajirao University of Baroda separately produced the Critical Edition of the *Vālmīki Rāmāyaṇa*.[NOTE: indian-epic-critical-editions] Both projects applied textual criticism developed around manuscript traditions to **स्मृति (*smṛti*)**, where a preserved narrative core can coexist with regional, performative, and civilizational expansion. A method searching for one earliest recoverable text can classify that generative expansion as interpolation before examining the function it serves.
 
@@ -38,11 +40,11 @@ In 1948 — less than a year after independence — **Professor S.M. Katre** at 
 
 The colonial philological machinery that had funded the institutional Indology of the previous century — the **Asiatic Society of Bengal**, the **Sacred Books of the East** series under Max Müller, the comparative-philology chairs at Oxford / Cambridge / the German universities — was no longer in command. The frameworks the colonial machinery had imposed — the **racial Arya thesis**, the family-tree taxonomy of Indian languages, the **Indo-European reconstruction project** — were now open to Indian re-examination, on Indian funding, free of colonial pressure.
 
-Deccan College preserved the institutional lineage. Founded in 1821 as a Sanskrit पाठशाला (*Pāṭhaśālā*) under Mountstuart Elphinstone, with funds redirected from the दक्षिणा (*Dakṣiṇā*) endowment of the Peshwa Bajirao II; renamed Poona College in 1851, Deccan College in 1864, and reconstituted as the Deccan College Post-Graduate and Research Institute after independence. The institution that bore Pune's Sanskrit lineage-chain had a choice in 1948.
+Deccan College preserved the institutional lineage. It was founded in 1821 as a Sanskrit पाठशाला (*Pāṭhaśālā*) under Mountstuart Elphinstone, using funds redirected from the दक्षिणा (*Dakṣiṇā*) endowment of Peshwa Bajirao II. It became Poona College in 1851, Deccan College in 1864, and the Deccan College Post-Graduate and Research Institute after independence. The institution that carried Pune's Sanskrit lineage had a choice in 1948.
 
-The project had access to the analytical disciplines preserved by the Hindu continuum: Pāṇini's grammar, Yāska's **निरुक्त (*Nirukta*)**, the Vedic vocabulary of the **निघण्टु (*Nighaṇṭu*)**, and the **वैदिक (*vaidika*) / लौकिक (*laukika*)** distinction. Pāṇini's documentation also states where particular operations apply. The project's published method does not begin with those categories. Nor does it distinguish the preservation of a fixed text, such as the Masoretic text, from the Vedas calibrating an entire language.
+The project had access to the analytical disciplines preserved by the Hindu continuum: Pāṇini's grammar, Yāska's **निरुक्त (*Nirukta*)**, the Vedic vocabulary of the **निघण्टु (*Nighaṇṭu*)**, and the **वैदिक (*vaidika*) / लौकिक (*laukika*)** distinction. Pāṇini's documentation also states where particular operations apply. Yet the project's published method does not begin with those categories. It therefore treats the preservation of a fixed text, such as the Masoretic text, as equivalent to the Vedas calibrating an entire language.
 
-They did the opposite. They chose the *Oxford English Dictionary*'s (OED) *historical principles* method, set up by James Murray in the 1880s for natural-historical European languages, and transplanted it onto Sanskrit. They retained the comparative-philological frame Müller and William Dwight Whitney had imposed, keeping Katre's chair as *Professor of Indo-European Philology* at the moment the colonial pressure that had produced the chair ended. They treated Sanskrit as a natural-historical language no different in kind from English.
+Deccan College did the opposite. It adopted the *historical principles* used by the *Oxford English Dictionary*, a method James Murray had developed in the 1880s for natural European languages, and transplanted it onto Sanskrit. The college retained the comparative philological framework imposed by Müller and William Dwight Whitney. It also kept Katre's title, *Professor of Indo-European Philology*, after the colonial pressure that had produced the chair had ended. The project treated Sanskrit as a natural language no different in kind from English.
 
 **Table A.1 — The Choice of 1948.**
 
@@ -60,7 +62,7 @@ The title — *Encyclopaedic Dictionary of Sanskrit on Historical Principles* �
 
 The method follows the *historical principles* established for the *Oxford English Dictionary* under James Murray in the 1880s: collect recorded uses, date the texts, arrange meanings chronologically, and treat uses assigned earlier dates as stages from which later usage developed.
 
-This was built for natural-historical languages. English's *hlāfweard* gradually became *Lord*; the method tracks that. Applied to Sanskrit, the method imports its conclusion. *On Historical Principles* assumes that the difference between Vedic Sanskrit and Pāṇinian Sanskrit is the same kind of difference as *hlāfweard* and *Lord*, only longer.
+This was built for natural-historical languages. English's *hlāfweard* gradually became *Lord*; the method tracks that. Applied to Sanskrit, the method imports its conclusion. *On Historical Principles* assumes that the difference between the Vedic corpus and the Sanskrit that Pāṇini documented is the same kind of difference as *hlāfweard* and *Lord*, only longer.
 
 Beneath the dating problem sits a metaphysical one. Chapter 5 §5.3 defines the axis: **सिद्ध (*siddha*) / कार्य (*kārya*)** — the bond between word and meaning either remains established or is being produced. Patañjali's महाभाष्य (*Mahābhāṣya*) opens the entire grammatical project on सिद्ध (*siddha*):
 
@@ -70,11 +72,11 @@ Beneath the dating problem sits a metaphysical one. Chapter 5 §5.3 defines the 
 >
 > *"Given that the bond between word and meaning is established."*
 
-*Historical principles* requires the opposite axiom — कार्य (*kārya*): bonds renegotiated by speech communities across time. Applied to a discipline whose foundational grammar opens by committing to सिद्ध (*siddha*), the method imports its metaphysical premise as a method-internal default. The axiom is what the method requires; it is also what the language being studied refuses.
+*Historical principles* begins with the opposite axiom: कार्य (*kārya*), in which communities renegotiate the bond between word and meaning over time. When this method is applied to Sanskrit, it quietly replaces the सिद्ध (*siddha*) bond stated at the opening of the foundational grammar with its own premise. The method requires the bond to change. Sanskrit declares it established.
 
 The Deccan College pages describe the dictionary as *"the only tool for tracing the development of Sanskrit language through ages"*. They promise to document *"the detailed linguistic changes that have occurred in various words and their derivations"*, arrange meanings chronologically, and assign meaning numbers according to changing nuances.[NOTE: deccan-dictionary-project-method] The words *development*, *change*, and *chronology* state the natural-language account before the first entry is examined.
 
-*Historical principles* needs dates, and that requirement breaks a second way. The Hindu continuum preserves internal chronology for remembered events, lineages, reigns, and civilizational time. The specific dates assigned by Western philology to the *Vedas*, the *Aṣṭādhyāyī*, the महाभाष्य (*Mahābhāṣya*), and the वेदाङ्ग (*Vedāṅga*) infrastructure do not come from those texts or from the **परम्परा (*paramparā*)** that transmits them. The dictionary therefore imports the dates on which its developmental sequence depends.
+*Historical principles* also needs dates. The Hindu continuum preserves its own chronology for remembered events, lineages, reigns, and civilizational time. Yet the specific dates Western philology assigns to the *Vedas*, the *Aṣṭādhyāyī*, the महाभाष्य (*Mahābhāṣya*), and the वेदाङ्ग (*Vedāṅga*) infrastructure do not come from those texts or from the **परम्परा (*paramparā*)** that transmits them. The dictionary therefore imports the dates required by its story of development.
 
 So the *progressive dogma* supplies dates from outside. The corpus is described as covering — in the project's own dating — *Ṛgveda* around 1400 BCE; Pāṇini around 500 BCE; Patañjali in the second century BCE. These are framework dates, not text-given dates. The dictionary embeds them in every slip. Each entry records the *"date of the text"* alongside the vocable. The dates appear to a reader as facts. They are chronology capture: the framework's own numbers, presented as findings. Using framework-assigned dates as evidence for the framework is circular.
 
@@ -169,7 +171,7 @@ Relative sequence remains available. Patañjali's महाभाष्य (*Mah
 
 What does the reframe offer Sanskrit? It restates the engineered architecture in terms the modern academy can understand. The dictionary becomes a growing calibration matrix. Its published volumes become primary witnesses for the engineering case.
 
-What does the reframe offer the world? It presents a working account of an engineered language whose calibrant remains distributed across society. The Hebrew, Quranic, and Latin systems can then be compared at the level each actually preserves: a bounded text, a formal language, a liturgical practice, or a complete generative architecture. The comparison becomes more precise once none of them is forced into the wrong category.
+What does this new framework make possible? It provides a working account of an engineered language whose calibrant remains distributed across society. Hebrew, Quranic Arabic, and Latin can then be compared according to what each system actually preserves: a bounded text, a formal language, a liturgical practice, or a complete generative architecture. Each can be examined in its own category.
 
 The dictionary records the large set of forms found in texts. Sanskrit's architecture preserves the smaller calibrated set from which speakers generate expressions and against which deviations can be identified. Once the five categories are separated, the dictionary can show how much Sanskrit created without surrendering its architecture.
 
@@ -177,7 +179,7 @@ Deccan College made a choice in 1948. It can make a different choice today.
 
 ## 2.9 Remove PIE from the Sanskrit Syllabus
 
-The change must begin with the Government of India. The Ministry of Education currently distributes teaching material that places reconstructed Proto-Indo-Aryan before Vedic Sanskrit, divides Vedic and Classical Sanskrit into successive historical stages, and places Pāṇini between them. Universities reproduce this genealogy through courses on Sanskrit history, linguistics, and comparative philology.[NOTE: pie-indian-university-curricula]
+The change must begin with the Government of India. The Ministry of Education currently distributes teaching material that places reconstructed *"Proto-Indo-Aryan"* before *"Vedic Sanskrit"* and divides *"Vedic Sanskrit"* and *"Classical Sanskrit"* into successive historical stages, and places Pāṇini between them. Universities reproduce this genealogy through courses on Sanskrit history, linguistics, and comparative philology.[NOTE: pie-indian-university-curricula]
 
 Indian universities should remove PIE from every Sanskrit syllabus that presents it as the language's ancestor. A Sanskrit student should not have to accept an imaginary parent before examining the recorded language. The curriculum should begin with the architecture the student can hear, recite, parse, and test.
 
@@ -193,7 +195,7 @@ Indian universities should remove PIE from every Sanskrit syllabus that presents
 
 Deccan College can lead this change. Its current MA Linguistics syllabus teaches comparative reconstruction, reconstructed proto-stages, genetic classification, and the family-tree model. Its Sanskrit and Lexicography syllabus places Vedic grammar within Indo-European linguistics. The institution helped preserve this imported framework after 1948. It can now become the first major Indian institution to remove PIE from Sanskrit's ancestry, restore Sanskrit's own analytical categories, and publish a replacement curriculum that other universities can adopt.[NOTE: pie-indian-university-curricula]
 
-The space now occupied by PIE already has content waiting to be taught: Sanskrit's sound architecture, its semantic atoms, its generative operations, its two domains, its preservation systems, and its distributed calibration. Indian students deserve to encounter that architecture before anyone places an imaginary language above it.
+A curriculum that removes PIE from Sanskrit's ancestry does not leave an empty space. It can teach Sanskrit's sound architecture, semantic atoms, generative operations, two domains, preservation systems, and distributed calibration. Indian students deserve to encounter that architecture before anyone places an imaginary language above it.
 
 ## 2.10 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the जाड्य (*Jāḍya*) Be Removed
 
@@ -217,7 +219,7 @@ The remedy is concrete. Deccan College can take four steps. None requires new fi
 >
 > *bhūyāṃso 'pabhraṃśāḥ, alpīyāṃsaḥ śabdāḥ.*
 
-The engineering axiom from Chapter 5 §5.3 stands above the observation developed in Chapter 6 §§6.2–6.3. Together, they supply the dictionary with a Sanskrit account of the evidence it records.
+The engineering axiom from Chapter 5 §5.3 and the observation developed in Chapter 6 §§6.2–6.3 together explain the dictionary's evidence through Sanskrit's own architecture.
 
 **Add a methodological note to Volume 1.** The project inherited an imported framework in 1948. Its entries should distinguish the five categories in §2.5 instead of placing every difference inside one chronology of linguistic development. The method changes. No recorded form disappears.
 
