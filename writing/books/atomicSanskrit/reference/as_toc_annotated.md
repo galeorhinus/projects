@@ -104,7 +104,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 6.2 Few Words, Many Corruptions — *Patañjali's count of correct-to-corrupt forms; the vaiyākaraṇāḥ were quantitative about drift.*
 - 6.3 *Gauḥ* and Its Fallings-Away — *Patañjali's illustrative case grounding the abstract observation in one concrete word.*
 - 6.4 The Four Classifications Under Entropy — *Natural languages absorb variation; authorities keep variation out of the forms they have petrified; constructed projects return to their plan or enter botanical change; Sanskrit detects and corrects departure through its distributed architecture.*
-- 6.5 Engineered Against Entropy — *Grammar, meter, heard transmission, recensional discipline, and combinatorial recitation detect different kinds of departure before another generation inherits them.*
+- 6.5 Engineered Against Both Enemies — *Grammar, meter, heard transmission, distributed custody, and combinatorial recitation correct unintended departures while preventing an attacker from capturing the calibrant.*
 - 6.6 Variation Is Not Drift — *Sanskrit assigns documented differences to function, mode, recension, option, meter, or transmission stream; chronology cannot substitute for a demonstrated mechanism of change.*
 - 6.7 Orbit, Drift, and Divergence — *The term **calibrant** for the engineered anchoring internal to Sanskrit; Sanskrit usage can deviate from its calibrant, Marathi and Hindi drift while remaining within its orbit, and languages beyond active calibration diverge farther. Chapter 14 develops the internal **calibration matrix**; Chapter 19 follows radiance into contact languages.*
 - 6.8 The Fall Is Not Only Linguistic — *The same entropic pressure can pull any engineered order away from its design, while asuric action accelerates and weaponizes the resulting disorder; later volumes extend the fractal beyond language.*
@@ -176,9 +176,9 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 ## Part V — The Sun Does Not Decay
 *Calibration from within.*
 
-*The engineered preservation system that has kept Sanskrit acoustically stable across thousands of years: the problem, the calibration matrix, and the aural architecture in operation.*
+*The living calibration system that has kept Sanskrit stable against two enemies across thousands of years: unintended entropy and deliberate asuric attack.*
 
-**Chapter 13 — Why Preservation Needs Engineering** *(drafted)* — *Sets up anti-entropy as the central engineering problem.* Apabhraṃśa *is the default trajectory; the architecture had to design against it. Writing (*lipi*) is disqualified for the* sāṃskṛtika *bucket on perishable-medium grounds; the Abrahamic Scripture choice is contrasted as the institutional-control lever the Indic engineering refused. Includes the Brāhmī-from-Aramaic refutation (abugida names the surface; audiography names the engineering) and corrects* oral tradition *into* aural.
+**Chapter 13 — Why Preservation Needs Engineering** *(drafted)* — *Distinguishes the internal engineering of Sanskrit from the greater engineering feat that keeps the language calibrated against entropy and deliberate attack.* Apabhraṃśa *is the default entropic trajectory; the architecture had to detect and correct it. Distributed aural transmission also prevents an attacker from capturing the calibrant by seizing one physical medium or institution. Includes the Brāhmī-from-Aramaic refutation (abugida names the surface; audiography names the engineering) and corrects* oral tradition *into* aural.
 
 - 13.1 What Sanskrit Has to Preserve — *Apabhraṃśa *as the default the engineering had to design against; the three-chapter handoff.*
 - 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan* — *The two-bucket organization: flowing-allowed vs. protected-from-drift; the engineering precondition.*

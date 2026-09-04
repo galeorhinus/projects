@@ -8,11 +8,11 @@
 
 The book's method compresses into eight theses:
 
-1. **Sanskrit was engineered.**
-2. **The Vedas encode and preserve the engineering.**
-3. **Pāṇini did not codify Sanskrit; he decoded and documented its engineering.**
-4. **Western academia operates as a pyramid when scholarship becomes custody.**
-5. **The pyramid misnamed that engineering.**
+1. **Sanskrit's internal architecture was engineered.**
+2. **The Vedas encode that architecture and remain Sanskrit's distributed calibrant.**
+3. **The greater engineering feat is the living system that has kept Sanskrit calibrated against entropy and asuric attack for thousands of years.**
+4. **Pāṇini did not codify Sanskrit; he decoded and documented its engineering.**
+5. **Western academia operates as a pyramid when it misnames this engineering and turns scholarship into custody.**
 6. **PIE, RAT, and Indo-Aryan nomenclature concealed the architecture.**
 7. **The data now exposes the concealment.**
 8. **The reader inherits the Atri work of making the Sun visible again.**
@@ -41,7 +41,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 1. **Sanskrit is wholly created.** Its own name, **संस्कृतम् (*saṃskṛtam*)**, places it in the category of completed order. The contrast with **प्राकृत (*prākṛta*)** draws the line between the wholly made and the naturally formed. **Chapter 0 §0.4; Chapter 2.**
 
-2. **The Vedas are the primary calibration matrix.** The corpus preserves the architecture through recitation, meter, lineage, and correction. Dating the Vedas as old texts does not explain what they do. **Chapters 14 and 15.**
+2. **The Vedas are the primary calibration matrix.** They keep Sanskrit's sounds and grammar available for comparison through recitation, meter, distributed transmission, and correction. Together, these protections resist unintended entropy and deliberate attempts to destroy or capture the calibrant. Dating the Vedas as old texts does not explain what they do. **Chapters 14 and 15.**
 
 3. **The family-tree metaphor is the foundational category theft of historical linguistics.** The discipline arranges the world's languages like a family tree — a parent branching into daughters that drift and mutate across generations. That picture fits a natural language; it fails on one engineered against that behavior. **Chapter 2.**
 
@@ -55,11 +55,11 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 7. **The *dhātuḥ* is an atom, not a botanical organ.** European philology forced Sanskrit's foundational structural unit into a plant category. Sanskrit uses *dhātuḥ* across domains for a stable constituent: metallurgy, body, grammar, and structure. **Chapter 2 §2.6; Chapter 10.**
 
-8. ***Apabhraṃśa* is the entropy Sanskrit identifies and resists.** Patañjali's *gauḥ* example shows one calibrated word and multiple fallings-away. The drift is real; it is not Sanskrit's nature. It is the tendency Sanskrit was engineered to resist. **Chapter 6.**
+8. ***Apabhraṃśa* identifies one of the two enemies Sanskrit's larger system resists.** Patañjali's *gauḥ* example shows one calibrated word and multiple fallings-away. The drift is real; it is not Sanskrit's nature. It is the unintended entropy that the Vedic calibrant allows speakers to detect and correct. **Chapter 6.**
 
-9. **Generative architecture alone cannot hold a language against entropy.** Esperanto became capable of ordinary communal life and then began changing with its speakers. Sanskrit resists the same pressure because its two domains place generative worldly use beside an invariant Vedic calibrant. **Chapter 2 §§2.4–2.5; Chapter 6 §6.4; Chapter 16.**
+9. **Generative architecture alone cannot keep a language calibrated.** Esperanto became capable of ordinary communal life and then began changing with its speakers. Sanskrit resists the same pressure because its two domains place generative worldly use beside an invariant Vedic calibrant. Distributed transmission also prevents an attacker from gaining custody of the standard. **Chapter 2 §§2.4–2.5; Chapter 6 §§6.4–6.5; Chapter 16.**
 
-10. **Sanskrit's architecture is atomic and fractal.** *Varṇāḥ* are sonomers, *dhātavaḥ* are atoms, *śabdāḥ* are molecules, and sentence is assembly. The same engineering discipline recurs across scale. **Chapters 9-12.**
+10. **Sanskrit's internal architecture is atomic and fractal.** *Varṇāḥ* are sonomers, *dhātavaḥ* are atoms, *śabdāḥ* are molecules, and sentence is assembly. The same engineering discipline recurs across scale. The larger preservation system extends that discipline from constructing the language to keeping it calibrated. **Chapters 9-16.**
 
 11. **Sanskrit's atoms with the greatest generative reach display a signature natural drift does not predict.** These *dhātavaḥ* are structurally compact, enter a wide range of combinations, and remain stable across use. The distribution belongs to an operating table. **Chapter 10; Chapter 11; Source and Reference Companion.**
 
@@ -103,7 +103,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 27. **Sanskrit is not one sibling inside an Indo-European family tree.** It is the calibrant by which much of that family was partially deciphered. Similarity does not require ancestry; radiance explains resemblance without descent. **Chapter 19; Chapter 20.**
 
-28. **Genealogy is the wrong category of explanation for an engineered system, not merely a weaker one.** The book sets six core features any valid model of Sanskrit must explain, then tests the PIE-precursor model against each in turn. Genealogy explains inheritance and drift; it cannot in principle explain a system designed to resist both. **Chapter 18 §§18.1–18.3.**
+28. **Genealogy is the wrong category of explanation for an engineered system, not merely a weaker one.** The book sets six core features any valid model of Sanskrit must explain, then tests the PIE-precursor model against each in turn. Genealogy explains inheritance and drift. It cannot explain either Sanskrit's internal construction or the living system that has resisted entropy and asuric attack for thousands of years. **Chapter 18 §§18.1–18.3.**
 
 29. **Orbit and radiance distinguish two kinds of Sanskritic presence.** Indic languages remain within Sanskrit's gravity even as they vary; farther languages may preserve words touched by Sanskrit's radiance and then drift beyond the active orbit. **Chapter 6; Chapter 19.**
 
@@ -115,9 +115,9 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 ### Vedic Matrix, Frame, and Recovery
 
-33. **Sanskrit is preserved aurally, not merely orally.** "Oral tradition" describes mouth-transmission; it does not describe trained sound-production, trained hearing, recitational redundancy, and correction across lineages. Sanskrit's preservation architecture is aural engineering, not ordinary oral memory. **Chapter 13 §13.4; Chapter 14 §14.2; Chapter 15.**
+33. **Sanskrit is kept calibrated aurally, not merely transmitted orally.** "Oral tradition" describes mouth-transmission; it does not describe trained sound-production, trained hearing, recitational redundancy, and correction across lineages. Aural engineering detects the small departures introduced by entropy, while distributed transmission prevents any attacker from capturing the complete calibrant. **Chapter 13 §13.4; Chapter 14 §14.2; Chapter 15.**
 
-34. **The Vedic recitation lineages are the standing empirical demonstration.** *Saṃhitā*, *pada*, *krama*, *jaṭā*, and *ghana* are redundancy machinery. The system still runs. **Chapter 15.**
+34. **The Vedic recitation lineages are the standing empirical demonstration.** *Saṃhitā*, *pada*, *krama*, *jaṭā*, and *ghana* are redundancy machinery. The system has resisted both enemies for thousands of years and still performs the work for which it was built. **Chapter 15.**
 
 35. **Western academia operates as a pyramid when scholarship becomes custody.** The charge is not against every scholar inside the institution, but against the institutional shape: credential gates, citation loops, and curricula that harden category theft into settled knowledge. **Chapter 1; Chapter 3; Chapter 4.**
 

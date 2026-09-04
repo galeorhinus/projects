@@ -8,7 +8,7 @@ By the beginning of Part V, the blocks marked ***Botanical, Codified,*** and ***
 
 ![Figure E.9 — The Sun Does Not Decay. The blocks marked Botanical, Codified, and Alphabetic have fallen. Part V targets the blocks marked Abugida and Early Literature.](figures/eclipse_spine/eclipse_50_part05_no_decay_removed_2_3_4_targets_5_7.svg){#fig:eclipse-part05-no-decay width=100%}
 
-Part IV demonstrated how Sanskrit builds from sound to sentence. Part V asks how that architecture endured across thousands of years. The Vedas stand at the center of the answer as Sanskrit's primary calibrant. Their exact preservation keeps a large body of Sanskrit audible and available for comparison across generations.
+Part IV demonstrated how Sanskrit builds from sound to sentence. That internal architecture is one feat of engineering. Part V examines the greater feat: the system that has kept Sanskrit calibrated against entropy and asuric attack for thousands of years. The Vedas stand at the center of that system as Sanskrit's primary calibrant. Their exact transmission keeps a large body of Sanskrit audible and available for comparison across generations.
 
 Chapter 13 treats preservation as an engineering problem. It distinguishes the features that writing records from those that require aural transmission, separates aural engineering from generic oral tradition, and shows how Indic scripts render Sanskrit's sound architecture more precisely than the external label *abugida* acknowledges.
 

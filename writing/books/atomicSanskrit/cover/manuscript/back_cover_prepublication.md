@@ -8,11 +8,11 @@ Are the Vedas merely "religious chants," or do they preserve the architecture of
 
 Did Sanskrit descend from Proto-Indo-European, the imaginary ancestor that Western philology placed above the Indo-European languages? Or do Greek, Latin, and other Eurasian languages preserve partial reflections of Sanskrit's outward radiance?
 
-*Atomic Sanskrit* takes a clear position. It demonstrates that Sanskrit is an engineered language, that the Vedas serve as its distributed calibrant, and that its radiant architecture traveled beyond India.
+*Atomic Sanskrit* takes a clear position. Sanskrit's sounds, atoms, and grammar demonstrate that the language was engineered. The greater feat is the system that has kept Sanskrit calibrated against unintended change and deliberate attack for thousands of years while the language remains open to new expression. Sanskrit's radiant architecture also traveled beyond India.
 
 The book begins in the human mouth. Sanskrit selects sounds according to where and how the body produces them, arranges those sounds within a precise architecture, and combines them into stable semantic atoms. Those atoms generate words and sentences while the language remains invariant.
 
-The Vedas preserve this architecture in use. Their breadth encodes Sanskrit's sounds, formations, grammatical possibilities, and compositional range. Exact recitation keeps the calibrant distributed across society, available to every generation and owned by no apex.
+The Vedas stand at the center of that system. Their breadth encodes Sanskrit's sounds, formations, grammatical possibilities, and compositional range. Exact recitation keeps the calibrant distributed across society, available to every generation and owned by no apex.
 
 If Sanskrit's engineered architecture was already operating within the Vedas long before Pāṇini, what, then, did Pāṇini actually do?
 

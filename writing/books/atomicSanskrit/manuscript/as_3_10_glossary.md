@@ -405,12 +405,14 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 ### **engineered / encoded / decoded / codified**
 
 **Standard English; book-controlled deployment.** Specific senses lock:
-- ***Engineered*** (engineering thesis): empirical-descriptive judgment about what is observable today in the वर्णमाला (*varṇamālā*) / धातुपाठ (*Dhātupāṭha*) / calibration matrix.
-- ***Encoded***: the *Vedas* preserve the engineering through छन्दस् (*chandas*) + श्रुति (*śruti*) + lineage-chain form, immutable across generations.
+- ***Engineered*** applies at two connected scales. Sanskrit's internal engineering is observable in the वर्णमाला (*varṇamālā*), धातुपाठ (*Dhātupāṭha*), grammar, and generative architecture. The greater engineering feat is the Vedic system that keeps the language calibrated against unintended entropy and deliberate asuric attack while remaining distributed across society.
+- ***Encoded***: the *Vedas* carry Sanskrit's sounds and grammar in use. छन्दस् (*chandas*), श्रुति (*śruti*), recitation procedures, and the lineage-chain keep that architecture available across generations.
 - ***Decoded***: what Sanskrit's analytical disciplines did. The वैयाकरणाः (*vaiyākaraṇāḥ*), including Pāṇini, Patañjali, and the pre-Pāṇinian grammatical analysts, made grammar explicit. Yāska's निरुक्त (*Nirukta*) made derivation and meaning explicit. Together, these disciplines recovered the specification from the encoded corpus.
 - ***Codified*** (the pyramid's misnaming): scare-quoted; runs in the wrong structural direction.
 
 Book refrain: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.***
+
+The refrain states the sequence. Chapters 6 and 13–16 establish the larger feat: the calibrant has resisted entropy and asuric attack for thousands of years, and the system still lives.
 
 ---
 

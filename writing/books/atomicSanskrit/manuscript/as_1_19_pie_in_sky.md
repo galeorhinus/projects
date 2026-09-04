@@ -87,7 +87,7 @@ A reconstructed ancestor assembled from word correspondences cannot explain why 
 
 *An engineered calibrant does not need a natural ancestor, and a* ***decoded*** *system, by definition, does not have a* ***codifier***.
 
-The preservation architecture deepens PIE's failure. The पाठ (*pāṭha*) recitations, प्रातिशाख्य (*Prātiśākhya*) specifications, and शिक्षा (*Śikṣā*) training keep the sounds and completed forms available for comparison across generations. PIE reconstructs an imagined precursor. It cannot explain why a language would preserve its own examples through an engineered defense against entropy.
+The calibration system deepens PIE's failure. The पाठ (*pāṭha*) recitations, प्रातिशाख्य (*Prātiśākhya*) specifications, and शिक्षा (*Śikṣā*) training keep the sounds and completed forms available for comparison across generations. Their distribution prevents one attacker from gaining custody of the complete standard. PIE reconstructs an imagined precursor. It cannot explain why Sanskrit is surrounded by a living system engineered to resist both entropy and deliberate attack.
 
 These are category failures. PIE tries to explain an engineered architecture using a botanical genealogy, so its foundational category is wrong before any specific reconstruction can even be tested.
 

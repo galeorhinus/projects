@@ -86,7 +86,7 @@ The Indic civilization preserves another conception of time: the कालचक
 
 The two frameworks are incompatible accounts of civilizational time, not minor variants of one shape.
 
-A precision-engineered Sanskrit, stabilized against entropy and preserved across the long span of the civilization that built it, sits at the wrong end of the progress story. It implies that a peak epoch of clarity already occurred, in an age whose architectural sophistication the present has not surpassed. The linear framework cannot admit that counterexample without endangering its own structure.
+Sanskrit sits at the wrong end of the progress story. Its internal architecture demonstrates precision engineering, while the Vedic calibration system has resisted both entropy and deliberate attack for thousands of years. Together they imply that a peak epoch of clarity already occurred, in an age whose architectural sophistication the present has not surpassed. The linear framework cannot admit that counterexample without endangering its own structure.
 
 The pyramid's insecurity was deeper than language; it was civilizational. Nineteenth-century Europe was recasting itself as the heir to the *"Greek miracle,"* and preserving that origin-story required Homer to remain original. By dating Pāṇini to roughly 500 BCE, filing the *Rāmāyaṇa* under *"Classical Sanskrit,"* and placing the Vālmīki *Rāmāyaṇa* around 400 BCE, the machinery placed India's grammar and its epic after Homer.
 

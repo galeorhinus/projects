@@ -128,7 +128,7 @@ The Vedas provide that reference. Their exact recitation preserves Sanskrit acro
 
 The Vedas are therefore more than old compositions in Sanskrit. They preserve enough of the language in use to guide later speakers. More importantly, they preserve its sounds in use. Their fixed content gives those speakers a stable reference, while the लौकिक (*laukika*) domain lets them create expressions for their own world.
 
-Chapter 6 goes further. It describes how Sanskrit's engineered ecosystem protects the language against its two greatest enemies: gradual entropy and deliberate asuric attack.
+Chapter 6 goes further. Sanskrit's sounds, atoms, and grammar show how the language was engineered. The greater feat is the system that has kept the language calibrated against two enemies at once: gradual entropy and deliberate asuric attack.
 
 Chapters 13–15 examine how this reference survived. Chapter 13 distinguishes a guarded form from an active calibrant. Chapter 14 explains how the preservation layers check one another. Chapter 15 compares recitation across geographically separated Vedic lineages and demonstrates distributed correction without a central office.
 

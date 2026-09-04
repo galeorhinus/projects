@@ -132,9 +132,11 @@ The asuric formation cannot make that call because its entire history relies on 
 
 The architecture remains.
 
-The architecture is self-evident in four connected forms. Sanskrit's selected sounds, semantic atoms, scaffolds, and grammatical bonds reveal the engineered material. The complementary permissions of the *vaidika* and *laukika* domains reveal engineered scope. The Vedas, recitation systems, analytical disciplines, and transmission lineages reveal engineered continuity. The reflections preserved in other languages reveal engineered radiance.
+Sanskrit's selected sounds, semantic atoms, scaffolds, and grammatical bonds demonstrate the internal engineering of the language. The complementary permissions of the *vaidika* and *laukika* domains keep the language invariant while leaving it open to new expression.
 
-Together they establish the book's central conclusions. The Vedas already preserve the complete language architecture that Pāṇini later documented. They are part of the engineering that keeps the language calibrated. Pāṇini stands within that continuity, and his decoding provides its finest documentation. Sanskrit retains the complete calibrant architecture, and its radiance reached several languages, including Greek and Latin. Those languages continue to preserve partial reflections of that architecture.
+The greater engineering feat appears in the Vedas, recitation systems, analytical disciplines, and transmission lineages. Together they have kept Sanskrit calibrated against unintended entropy and deliberate asuric attack for thousands of years. The system remains alive and continues to carry the evidence of its own endurance.
+
+These facts establish the book's central conclusions. The Vedas already contain the complete language architecture that Pāṇini later documented. Pāṇini stands within that continuity, and his decoding provides its finest documentation. Sanskrit retains the complete calibrant architecture, and its radiance reached several languages, including Greek and Latin. Those languages continue to preserve partial reflections of that architecture.
 
 The pyramid used false categorization as its weapon. It recast the sonomer as a letter, the *dhātuḥ* as a root, the Vedic domain as an archaic language, Pāṇini's documentation as the codification myth, aural engineering as oral tradition, and Sanskrit as a daughter language. Once those substitutions fall away, the reader can trace Sanskrit from the movement of the mouth to the civilizational order that kept the language alive.
 

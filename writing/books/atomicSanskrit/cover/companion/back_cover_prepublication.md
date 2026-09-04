@@ -2,7 +2,7 @@
 
 Did Sanskrit "evolve" until Pāṇini "codified" it? Are the Vedas merely "religious chants"? Did Sanskrit descend from Proto-Indo-European, or do Greek, Latin, and other Eurasian languages preserve reflections of Sanskrit's outward radiance?
 
-*Atomic Sanskrit* takes a clear position. It argues that Sanskrit is engineered, that the Vedas serve as its distributed calibrant, and that Sanskrit's radiant architecture traveled beyond India.
+*Atomic Sanskrit* takes a clear position. Sanskrit's sounds, atoms, and grammar demonstrate that the language was engineered. The greater feat is the living Vedic system that has kept Sanskrit calibrated against unintended change and deliberate attack for thousands of years. The book also argues that Sanskrit's radiant architecture traveled beyond India.
 
 The *Source and Reference Companion* makes the evidence behind that argument available for inspection.
 

@@ -38,9 +38,9 @@ Figure 20.1 places the four kinds of evidence together. A single archive preserv
 
 The Behistun inscription provides another comparison. When its Old Persian text is transliterated into Devanagari, a fluent student of Sanskrit can recognize much of its vocabulary, grammar, and धातु (*dhātu*) structure.[NOTE: behistun-inscription] A fluent speaker of modern Persian cannot understand the same inscription as readily without studying Old Persian. Old Persian and Sanskrit were close in their recorded forms, but the two languages now have very different relationships with those forms.
 
-Sanskrit remained connected to an engineered preservation architecture. The Vedas remained its calibrant. The प्रातिशाख्यानि (*Prātiśākhyas*) documented the requirements of individual Vedic lineages, and the पाठाः (*pāṭhas*) protected exact recitation. Pāṇini gave the shared grammatical architecture its finest explicit documentation. Old Persian did not possess a comparable system. Its speakers continued using and changing their language until later forms became Persian. Sanskrit followed a different path because the corpus, grammar, and methods of correction remained available together.
+Sanskrit remained connected to a living calibration system. The Vedas remained its calibrant. The प्रातिशाख्यानि (*Prātiśākhyas*) documented the requirements of individual Vedic lineages, and the पाठाः (*pāṭhas*) protected exact recitation. Pāṇini gave the shared grammatical architecture its finest explicit documentation. Old Persian did not possess a comparable system. Its speakers continued using and changing their language until later forms became Persian. Sanskrit followed a different path because the corpus, grammar, and methods of correction remained available together.
 
-Old Persian continued changing without a preservation architecture comparable to Sanskrit's. Sanskrit remained connected to the invariant Vedic calibrant. Because records of both languages remain available, readers can compare the results directly.
+Old Persian continued changing without a calibrant comparable to the Vedas. Sanskrit remained aligned with that invariant calibrant. Because records of both languages remain available, readers can compare the results directly.
 
 Wave 1 proposes that Vedic-trained experts entered linguistic communities across Central and West Asia before Pāṇini. Their teaching could have placed Sanskritic words, grammatical patterns, and methods inside those natural languages. The receiving languages would then have reshaped what they received and passed the resulting forms to later generations. Nineteenth-century European philologists found related forms across those languages. Because they assumed descent from a common natural ancestor, they projected the similarities backward and reconstructed PIE. The Radiance Thesis asks the reader to reverse that direction. The correspondences may preserve the accumulated reflections of Sanskritic contact.
 
@@ -166,14 +166,15 @@ Wave 1 carries the architecture embedded in the Vedas and learned through Vedic 
 
 Wave 2 carries the explicit analytical method that Pāṇini compressed into the अष्टाध्यायी (*Aṣṭādhyāyī*). Another community can study that method and use it to analyze a different language.
 
-Wave 3 carries a contemporary explanation of Sanskrit as an engineered, calibrant, radiant, and fractal architecture. It gives readers a complete argument against the inherited categories that concealed that architecture.
+Wave 3 carries a contemporary explanation of Sanskrit as an engineered, calibrant, radiant, and fractal architecture. It distinguishes the internal engineering of the language from the greater engineering feat that has kept Sanskrit calibrated against two enemies for thousands of years. It also gives readers a complete argument against the inherited categories that concealed that architecture.
 
-Wave 3 carries four recognitions into the world:
+Wave 3 carries five recognitions into the world:
 
-1. Sanskrit was engineered rather than grown.
-2. **धातवः (*dhātavaḥ*)** are constituents rather than botanical units.
-3. **आर्यत्व (*āryatva*)** is learned discipline rather than race.
-4. Calibrant transmission explains why other languages preserve Sanskritic resemblances. Populations may have moved along some of the same routes, but their movement did not author Sanskrit's architecture.
+1. Sanskrit's internal architecture was engineered rather than grown.
+2. The Vedic calibration system has resisted entropy and asuric attack while keeping Sanskrit open to new expression.
+3. **धातवः (*dhātavaḥ*)** are constituents rather than botanical units.
+4. **आर्यत्व (*āryatva*)** is learned discipline rather than race.
+5. Calibrant transmission explains why other languages preserve Sanskritic resemblances. Populations may have moved along some of the same routes, but their movement did not author Sanskrit's architecture.
 
 Wave 3 did not begin with this book. During colonial and post-colonial rule, Indian scholars, teachers, commentators, and public advocates defended different parts of the Sanskrit inheritance. Some defended the Veda as a precise, knowledge-bearing corpus. Others explained its symbolic and structural architecture, taught Sanskrit through its own disciplines, or challenged institutions that claimed the authority to interpret it from outside the Hindu continuum.[NOTE: modern-sanskrit-lineage-roles]
 

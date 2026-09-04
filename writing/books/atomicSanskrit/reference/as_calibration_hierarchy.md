@@ -28,6 +28,8 @@ A speculative origin-and-calibration geometry for Sanskrit, offered explicitly a
 
 The framework is addressed specifically to the **"rationalist" Hindus** — those who feel they need a Western-acceptable origin story and have therefore accepted the pyramid's speculation by default. The book mirrors the pyramid's speculation-status while flipping the honesty: *we offer a speculation when you ask for one, but the honest answer is we do not know*.
 
+The engineering thesis operates at two connected scales. Sanskrit's sounds, atoms, grammar, and generative reach demonstrate the internal engineering of the language. The greater engineering feat is the living system that keeps Sanskrit calibrated against unintended entropy and deliberate asuric attack. The Vedas, the two domains, recitation procedures, distributed transmission, and correction have resisted both enemies for thousands of years. The system remains alive and therefore carries the evidence of its own design and endurance.
+
 ---
 
 ## The calibration geometry

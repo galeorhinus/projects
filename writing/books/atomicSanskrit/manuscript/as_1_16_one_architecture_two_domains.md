@@ -342,7 +342,9 @@ Exact transmission resists entropy. The Vedas remain available in their inherite
 
 Distribution resists capture. Asuric assaults destroyed teachers, schools, manuscripts, patronage, and public access to Sanskrit. Yet no conqueror, colonial office, university, or modern government gained custody of the calibrant. Transmission lineages preserved the Vedas outside their authority. लौकिक (*laukika*) Sanskrit remained available across society for explanation, composition, and recovery.
 
-Their survival can be tested. This book can compare the two domains because their passages, grammar, analytical disciplines, and transmission lineages endured both natural entropy and deliberate assault. The architecture did not prevent every loss, but it prevented loss from becoming complete and authority from becoming final.
+This is the greater engineering feat. The system has resisted both enemies for thousands of years and still performs the work for which it was built. **It lives to tell its own story.**
+
+This book can compare the two domains because their passages, grammar, analytical disciplines, and transmission lineages endured both natural entropy and deliberate assault. The architecture did not prevent every loss, but it prevented loss from becoming complete and authority from becoming final.
 
 After centuries of trying, the asuric pyramid failed to destroy Sanskrit. It therefore misclassified the two domains. It called the wider Vedic architecture primitive. It presented the more selective लौकिक (*laukika*) architecture as a later language it called *"Classical Sanskrit"*. It then described the designed differences between them as linguistic drift and gaslit a civilization about the architecture that civilization had preserved.
 

@@ -14,17 +14,18 @@ The full *Atomic Sanskrit* manuscript develops its argument across more than 100
 
 The concise companion will tell one complete story:
 
-1. Sanskrit belongs in the category of engineered languages.
-2. Its sounds, atoms, words, sentences, and preservation systems repeat the same architecture at different scales.
-3. The Vedas serve as an invariant calibrant while the *laukika* domain allows new composition.
-4. Pāṇini documented an architecture that already existed; he did not codify Sanskrit.
-5. Greek, Latin, and other Eurasian languages preserve partial reflections of Sanskrit's outward radiance.
-6. Proto-Indo-European reverses that direction and places an imaginary ancestor above the recorded architecture.
-7. Sanskrit demonstrates a distributed order that can remain coherent without an apex.
+1. Sanskrit's sounds, atoms, words, sentences, and generative reach demonstrate that its internal architecture was engineered.
+2. The greater engineering feat is the living system that has kept Sanskrit calibrated against entropy and asuric attack for thousands of years.
+3. The Vedas serve as the invariant calibrant, while the *laukika* domain allows new composition through the same language.
+4. The same architecture repeats at different scales, from a sound in the mouth to distributed preservation across society.
+5. Pāṇini documented an architecture that already existed; he did not codify Sanskrit.
+6. Greek, Latin, and other Eurasian languages preserve partial reflections of Sanskrit's outward radiance.
+7. Proto-Indo-European reverses that direction and places an imaginary ancestor above the recorded architecture.
+8. Sanskrit demonstrates a distributed order that can remain coherent without an apex.
 
 The companion must provide enough evidence for a reader to understand why the argument follows. It must not read like an advertisement, a list of conclusions, or a compressed abstract of the full manuscript.
 
-**Calibrant architecture is the organizing spine of the concise book.** It cannot appear only in the preservation chapters and return at the conclusion. Each chapter should reveal another part of the same architecture: the invariant standard, the selected sounds, the stable atoms, the generative bonds, the distributed methods of correction, the two domains, Pāṇini's documentation, Sanskrit's outward radiance, and PIE's attempt to place a false ancestor above the real calibrant.
+**Calibrant architecture is the organizing spine of the concise book.** It cannot appear only in the preservation chapters and return at the conclusion. The concise book must distinguish the engineering of the language from the greater engineering feat. The selected sounds, stable atoms, and generative bonds show how Sanskrit was built. The Vedas, two domains, recitation procedures, and distributed correction show how the language has remained calibrated against entropy and asuric attack for thousands of years. Each chapter should reveal another part of this connected architecture before the final chapters follow Sanskrit's outward radiance and PIE's attempt to place a false ancestor above the real calibrant.
 
 ---
 
@@ -177,7 +178,7 @@ Show how Sanskrit builds *kriyāpadāni*, *śabdāḥ*, compounds, and sentences
 
 **Target:** 1,300-1,500 words
 
-Explain the two enemies: natural entropy and deliberate attack. Show how aural transmission, distributed lineages, grammar, and correction preserve the architecture. Distinguish exact recurrence from centralized custody.
+Explain the two enemies: natural entropy and deliberate asuric attack. State that this is the greater engineering feat of the book. Show how aural transmission, distributed lineages, grammar, and correction keep Sanskrit calibrated against both. Distinguish exact recurrence from centralized custody.
 
 **Primary sources:** Chapters 6, 13, 14, and 15.
 

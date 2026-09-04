@@ -18,7 +18,9 @@
 
 ## 13.1 What Sanskrit Has to Preserve
 
-Sanskrit's architecture was built to last. The preceding chapters have now identified its principal components. The **वर्णमाला (*varṇamālā*)** provides the engineered sound grid. The **धातवः (*dhātavaḥ*)** form an inventory of reactive atoms, and the **गणाः (*gaṇāḥ*)** classify how those atoms activate. The **उपसर्गाः (*upasargāḥ*)** and **प्रत्ययाः (*pratyayāḥ*)** bond with them, while the **अष्टाध्यायी (*Aṣṭādhyāyī*)** documents the grammatical procedures. These parts form one integrated architecture.
+Sanskrit's architecture was built to last. The preceding chapters have now identified its principal components. The **वर्णमाला (*varṇamālā*)** provides the engineered sound grid. The **धातवः (*dhātavaḥ*)** form an inventory of reactive atoms, and the **गणाः (*gaṇāḥ*)** classify how those atoms activate. The **उपसर्गाः (*upasargāḥ*)** and **प्रत्ययाः (*pratyayāḥ*)** bond with them, while the **अष्टाध्यायी (*Aṣṭādhyāyī*)** documents the grammatical procedures. These parts form one integrated linguistic architecture.
+
+Building the language was one engineering achievement. Keeping that language calibrated across thousands of years required a larger system. That system had to correct unintended changes before they accumulated, and it had to survive deliberate attempts to destroy, capture, or conceal the calibrant.
 
 Sanskrit can serve as a calibrant only while its architecture remains stable. If the sounds, relations, and forms used for correction changed whenever ordinary speech changed, they could no longer show where the change occurred.
 
@@ -100,7 +102,7 @@ The same interface theft could treat the infinity glyph as the origin of infinit
 
 This is the **heroic erasure** move (Chapter 1 §1.6) applied at the script level. The pattern generalizes. *Heroic erasure* is the asuric machinery's standing move against the **engineering thesis**. Every move has the same shape. A named Indic figure or lineage is celebrated for some surface or secondary contribution — so-called *codification*, documentation, transmission, adaptation — and the celebration is structured *not* to acknowledge that the architecture the figure inherited is itself engineered. The machinery elevates Pāṇini as the *brilliant documenter* and erases the वर्णमाला (*varṇamālā*) and धातुपाठ (*dhātupāṭha*) he used. It praises the **प्रातिशाख्य (*Prātiśākhya*)** authors as careful phoneticians and erases the engineered phonology they were documenting. It praises the **शिक्षा (*Śikṣā*)** discipline as devoted teachers and erases the engineered specification they were transmitting. Here, it elevates the *brilliant adapter* of Aramaic and erases the वर्णमाला (*varṇamālā*) the script renders. Naming a brilliant Indian *operator* is how the pyramid denies Indian engineering. The *"brilliant adapter"* of Aramaic is the *"clever improver"* of Roman numerals — a figure no historian of mathematics has ever needed. Appendix Part 3 §3.5 reverses the burden in full.
 
-The rebuttal follows the same sequence: Sanskrit's sound-system was engineered, the Vedas preserved the engineering, and the later disciplines decoded what the architecture had already encoded.
+The rebuttal follows the same sequence: Sanskrit's sound system was engineered, the Vedas keep that language calibrated, and the later disciplines decoded the architecture that the Vedas had already encoded.
 
 Brāhmī does not begin with an Aramaic consonantal alphabet and bolt an Indic arrangement onto it. It renders Sanskrit's sonomeric grid as audiographs. Each consonant audiograph records a sonomer with a grid address defined by its anatomical coordinates: स्थान (*sthāna*) and प्रयत्न (*prayatna*). Each vowel mark records a स्वर (*svara*) and its duration. The familiar वर्ग (*varga*) order belongs to the sound architecture before it belongs to any script.
 

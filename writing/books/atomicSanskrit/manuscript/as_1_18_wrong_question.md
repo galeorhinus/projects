@@ -22,11 +22,11 @@ The entire Proto-Indo-European framework is built to answer this single question
 
 The preceding chapters have established an engineered sonomer address grid, semantic atoms, generative rules, a retroflex core, and a living recitation system. They have also shown how the Vedas calibrate the language and how Sanskrit's analytical disciplines decoded its architecture.
 
-These features belong to an engineered linguistic architecture. They do not describe a natural language drifting from an earlier natural language.
+These features belong to an engineered linguistic architecture. The engineering did not stop with the construction of the language. The Vedas, the two domains, the recitation procedures, and distributed correction have kept Sanskrit calibrated against entropy and asuric attack for thousands of years. The system remains alive, so it carries the evidence of its own design and endurance.
 
 Part VI turns to the account that treats Sanskrit as a different kind of object. This chapter tests the genealogical model against Sanskrit's physical construction. Any proposed ancestor must explain how the language acquired its sounds, atoms, grammar, and preservation architecture. Chapter 19 then tests PIE itself.
 
-Together, the two chapters complete the argument opened in Chapter 1. A botanical genealogy cannot explain a language engineered to resist linguistic drift. Once the model has placed Sanskrit inside the wrong category, no reconstruction built within that model can recover the architecture it excluded at the start.
+Together, the two chapters complete the argument opened in Chapter 1. A botanical genealogy cannot explain Sanskrit's internal construction. It also cannot explain the living system that has kept the language calibrated against both entropy and asuric attack. Once the model has placed Sanskrit inside the wrong category, no reconstruction built within that model can recover the architecture it excluded at the start.
 
 A genealogical approach searches for organic ancestry; an architectural approach analyzes deliberate construction. The Hindu continuum explicitly treats Sanskrit as an engineered architecture. In Bṛhaspati’s mantra (RV 10.71.2), the text records exactly how the language was built: the wise ***मनसा वाचमक्रत (*manasā vācam akrata*)*** — they engineered Speech with the mind, refining and sifting it exactly as grain is sifted through a sieve.
 
@@ -61,7 +61,7 @@ Any model of Sanskrit has to explain all six. A model that explains none of thes
 
 Historical linguists call this procedure the **comparative method**. They compare recorded languages, identify recurring sound correspondences, group languages by features they consider inherited, and use those patterns to reconstruct hypothetical earlier forms. The method can explain how Latin developed into the Romance languages, how Germanic sounds changed, and how Iranian and Sanskrit forms correspond.
 
-The method assumes ordinary linguistic friction: drift, sound change, analogy, semantic shift, simplification, innovation, and inheritance. It therefore reconstructs an ordinary natural language. It cannot produce an engineered sonomer address grid because that category does not exist inside its procedure. It cannot produce a calibration matrix because preservation architecture is not a feature it looks for. It cannot explain why a language would be built to resist the drift the method assumes.
+The method assumes ordinary linguistic friction: drift, sound change, analogy, semantic shift, simplification, innovation, and inheritance. It therefore reconstructs an ordinary natural language. It cannot produce an engineered sonomer address grid because that category does not exist inside its procedure. It cannot produce the larger calibration system because it does not look for an architecture designed to resist both unintended change and deliberate attack.
 
 This is the category theft. The genealogical project begins with Sanskrit's completed forms and asks which earlier natural language could have produced them. The architectural test examines how the engineering was specified, built, preserved, and decoded. The two inquiries belong to different categories.
 
@@ -242,7 +242,7 @@ The distinction therefore existed before human beings. Humans inherited the capa
 
 सत् (*Sat*) therefore faces two problems. Human memory is short: individuals die, institutions weaken, and kingdoms fall. Forces aligned with असत् (*asat*) do not merely wait for that memory to fade. They attack it because a society that remembers how containment was defeated can recognize and resist its return. Later generations need a memory that can outlive its custodians and survive deliberate attempts to erase it.
 
-Those two threats define the engineering problem. This Atri speculates that Sanskrit was engineered to carry the memory of सत् (*sat*) and ऋत (*ṛta*) across generations. The language had to resist both gradual entropy and deliberate attack by forces aligned with असत् (*asat*). It also had to keep its architecture invariant while allowing speakers to describe circumstances that no earlier generation had encountered.
+Those two threats define the larger engineering problem. This Atri speculates that Sanskrit and the Vedic calibration system were engineered together to carry the memory of सत् (*sat*) and ऋत (*ṛta*) across generations. Sanskrit had to remain invariant while allowing speakers to describe circumstances that no earlier generation had encountered. The Vedas had to keep that language calibrated despite gradual entropy and deliberate attack by forces aligned with असत् (*asat*).
 
 ### When वाक् (*Vāk*) Revealed Herself
 

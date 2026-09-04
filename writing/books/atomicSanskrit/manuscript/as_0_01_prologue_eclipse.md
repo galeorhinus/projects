@@ -30,7 +30,7 @@ The pyramid in this sequence is built from eleven blocks. Each block represents 
 
 Across the ages, the pyramid has tried to destroy Sanskrit and failed. Hindu society continued to recite the Vedas and teach Sanskrit from one generation to the next. The Sun remained. The pyramid therefore changed its method: it placed itself between Sanskrit's radiance and the world and taught the world to see the language in the wrong light.
 
-The evidence of Sanskrit's engineering remains in the language itself.
+The evidence remains in Sanskrit and in the living system that still keeps the language calibrated.
 
 The pyramid concealed that evidence by assigning a false category to each part of the architecture. It placed Sanskrit beneath an imaginary parent and said that foreign people had brought it into India. It described a language engineered for permanence as a natural organism of roots, stems, and branches. It then turned Sanskrit's two domains, which Sanskrit uses together, into two historical periods: a changing language it called *"Vedic Sanskrit,"* followed by *"Classical Sanskrit,"* supposedly fixed by **पाणिनि (*Pāṇini*)**.
 
@@ -48,7 +48,7 @@ The chapters that follow establish one of the book's refrains:
 
 > **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.**
 
-The pyramid had to conceal this architecture. Sanskrit and the Vedas demonstrate that precise and durable order can thrive without an apex. The Vedas preserve an invariant calibrant across society, while Sanskrit allows each generation to create new expression. No central office owns either.
+The refrain describes two connected feats. Sanskrit's sounds, atoms, grammar, and generative reach show how the language was engineered. The greater feat is the system that has kept the language calibrated against entropy and asuric attack for thousands of years. The Vedas remain invariant and distributed across society, while Sanskrit allows each generation to create new expression. No central office owns either the calibrant or the language it keeps aligned.
 
 That living example threatens the pyramid's claim that order requires an apex. False categorization therefore does more than misdescribe a language. It hides evidence that another architecture of order is possible.
 

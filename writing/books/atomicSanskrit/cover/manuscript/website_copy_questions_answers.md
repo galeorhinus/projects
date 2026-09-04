@@ -10,13 +10,13 @@ How did Sanskrit achieve both invariance and generative freedom?
 
 ## The Architecture Inside Speech
 
-*Atomic Sanskrit* examines Sanskrit as an engineered system. The architecture begins with the human body. Sanskrit places sounds according to where and how the mouth produces them. Those sounds combine into compact units of meaning. The book calls these units atoms because they remain structurally visible while generating larger formations: verbs, words, compounds, and sentences.
+*Atomic Sanskrit* examines Sanskrit as an engineered system. Its internal architecture begins with the human body. Sanskrit places sounds according to where and how the mouth produces them. Those sounds combine into compact units of meaning. The book calls these units atoms because they remain identifiable while generating larger formations: verbs, words, compounds, and sentences.
 
 This analysis raises further questions. Why do some pronounceable sounds receive permanent positions while others remain restricted or excluded? Why does Sanskrit preserve enough distinction to support enormous generative reach? Why did European philology rename these atoms as botanical roots?
 
 ## What the Vedas Preserve
 
-The Vedas preserve more than ancient compositions. Their breadth encodes Sanskrit's sounds, forms, grammatical possibilities, and compositional range. Their exact transmission protects every sound, pitch, word, meter, and arrangement. Distributed lineages preserve the same architecture without surrendering it to a central authority.
+Building the language was one engineering feat. The greater feat is the system that has kept Sanskrit calibrated against unintended change and deliberate attack for thousands of years. The Vedas stand at the center of that system. Their breadth encodes Sanskrit's sounds, forms, grammatical possibilities, and compositional range. Their exact transmission protects every sound, pitch, word, meter, and arrangement. Distributed lineages keep the same architecture available without surrendering it to a central authority.
 
 Sanskrit therefore operates through two complementary domains. The Vedic domain preserves received content exactly. The worldly domain allows people to generate new expression. Why did the engineering require both? Why could stated grammatical rules alone never provide the same protection? Why did Esperanto drift while Sanskrit remained invariant?
 

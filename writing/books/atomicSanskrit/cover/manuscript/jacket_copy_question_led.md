@@ -4,9 +4,9 @@ All natural languages change over time. Sanskrit, and Sanskrit alone, has thrive
 
 How did Sanskrit remain invariant while continuing to generate new expression? Why do its smallest units of meaning behave like atoms rather than botanical roots? What do the Vedas preserve beyond their own words and meanings? Why does Sanskrit operate through one domain that preserves received content exactly and another that remains open to new composition?
 
-*Atomic Sanskrit* follows these questions into the engineering of the language. Sanskrit begins with the anatomy of speech. Sounds occupy precise positions in the human mouth. Those sounds combine into compact units of meaning, and those units generate words and sentences. The architecture remains stable while its range of expression continues to grow.
+*Atomic Sanskrit* follows these questions into the engineering of the language. Sanskrit begins with the anatomy of speech. Sounds occupy precise positions in the human mouth. Those sounds combine into compact units of meaning, and those units generate words and sentences. This internal architecture is one feat of engineering.
 
-The Vedas preserve this architecture. Their breadth encodes Sanskrit's sounds, forms, and grammatical possibilities. Distributed transmission lineages protect every sound, word, pitch, meter, and arrangement. The Vedas give every generation the same invariant standard without placing a central authority above the language.
+The greater feat is the system that has kept Sanskrit calibrated against unintended change and deliberate attack for thousands of years. The Vedas stand at its center. Their breadth encodes Sanskrit's sounds, forms, and grammatical possibilities. Distributed transmission lineages protect every sound, word, pitch, meter, and arrangement. The Vedas give every generation the same invariant standard without placing a central authority above the language.
 
 What, then, did Pāṇini *actually* do?
 

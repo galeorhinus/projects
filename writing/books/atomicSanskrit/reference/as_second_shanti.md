@@ -54,7 +54,7 @@ This is also why forward-references inside *Atomic Sanskrit* use the generic *"a
 
 ## 2. The engineering-preservation parallel
 
-The parallel between Vol 1 and the forthcoming volumes is the *engineering-preservation* move applied at different architectural layers. Both are anti-entropy systems. Both name what was already engineered and what the Abrahamic-substrate frameworks impose in its place.
+The parallel between Vol 1 and the forthcoming volumes is the *engineering-preservation* move applied at different architectural layers. Each must resist two threats: unintended entropy and deliberate asuric capture. Each volume identifies what was engineered, how its calibrant remained distributed, and what the Abrahamic-substrate systems imposed in its place.
 
 | | Vol 1 (linguistic) | Political volume | Economic volume |
 |---|---|---|---|
@@ -62,7 +62,7 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 | **Engineering** | *Varṇamālā*, *dhātavaḥ*, *vyākaraṇam*, Vedic *pāṭhas* | Restraints, *chaturvarna*, fractal markets, *karma* over Justice | *Vasudha*-abundance, demand-restraint, fractal markets, decentralized distribution |
 | **Cosmic layer** | Linguistic vivimorphosis (*asura → ahura* phonetics) | Suric / asuric polity (centralization vs distribution) | Asuras-as-scarcity / devas-as-abundance |
 | **Polemic target** | Western philological dogma and PIE | The Abrahamic pyramid as political-administrative formation | *Durartha-śāstra* — economics as scarcity-management |
-| **Anti-entropy** | Calibration matrix; engineered preservation of phonetic form | Fractal architecture; engineered preservation of distributed authority | Restraint-based; engineered preservation against extraction |
+| **Defense against both enemies** | Vedic calibration matrix; correction of phonetic deviation; distributed resistance to capture | Fractal architecture; correction of deviation; distributed resistance to apex control | Restraint-based correction; distributed resistance to extraction |
 
 ---
 

@@ -16,7 +16,7 @@
 
 ## 6.1 What Sanskrit Had to Defeat
 
-Sanskrit was engineered to remain invariant while people continued using it to create new expression. Two forces threaten that purpose:
+Sanskrit was engineered to remain invariant while people continued using it to create new expression. Yet building the language did not complete the engineering task. The language also needed a system that could keep it calibrated across generations while two forces tried to move it away from its established form:
 
 1. **Entropy**
 2. **Asuric attack**
@@ -35,9 +35,9 @@ After centuries, both temples may stand as ruins. The broken stones alone cannot
 
 That distribution creates the threat. An apex cannot declare its own alteration correct when the calibrant remains beyond its custody. It cannot monopolize interpretation while people across society retain the sounds, grammar, memory, and methods required to test its claims. Chapters 1 §§1.2–1.3 and Chapter 3 §3.5 explained why the pyramid attacks such an architecture.
 
-The two enemies require different responses. Entropy must be detected while a departure remains small enough to correct. To survive asuric attack, the architecture must distribute its knowledge widely enough that destroying or capturing one part cannot destroy the whole. Sanskrit was engineered to do both.
+The two enemies require different responses. Entropy must be detected while a departure remains small enough to correct. To survive asuric attack, the architecture must distribute its knowledge widely enough that destroying or capturing one part cannot destroy the whole. The larger calibration system was engineered to do both.
 
-The chapter first examines entropy through the Hindu continuum's analysis of **अपभ्रंशः (*apabhraṃśa*)**. Section 6.5 then returns to the engineering that protects Sanskrit against entropy before introducing its defense against asuric attack.
+The chapter first examines entropy through the Hindu continuum's analysis of **अपभ्रंशः (*apabhraṃśa*)**. Section 6.5 then examines the greater engineering feat: the system that keeps Sanskrit calibrated against both entropy and asuric attack.
 
 ### अपभ्रंशः (*Apabhraṃśa*): Sanskrit's Diagnosis of Entropy
 
@@ -121,7 +121,9 @@ That false sequence gives the apex two ways to claim control. Natural drift prod
 
 Sanskrit withstood entropy before Pāṇini and continued to withstand it after him because correction never depended on his authority. He documented an architecture that Sanskrit already used, and later generations continued applying the same internal standard. **The pyramid corrects by authority; Sanātan corrects by architecture.** Sanskrit was not codified. It was engineered. अपभ्रंशः (*Apabhraṃśa*) is what the system detects when speech falls away from that architecture.
 
-## 6.5 Engineered Against Entropy
+## 6.5 Engineered Against Both Enemies
+
+### Against Entropy
 
 Modern thermodynamics uses *entropy* for the tendency of an organized system to move toward disorder unless some constraint preserves its arrangement. Patañjali documents the linguistic analogue when he places many अपशब्दाः (*apaśabdāḥ*) around a much smaller set of शब्दाः (*śabdāḥ*). His observation diagnoses the pressure. Sanskrit's grammatical and recitational disciplines provide the engineered response.
 
@@ -139,7 +141,7 @@ Chapter 13 §13.5 returns to these complementary forms of correction. Repeated r
 
 अपभ्रंशः (*Apabhraṃśa*) is what the discipline opposes. सिद्ध (*Siddha*) is what the discipline preserves.
 
-### Engineered Against Asuric Attack
+### Against Asuric Attack
 
 The same architecture also confronts the second enemy. Entropy accumulates through small departures during ordinary transmission. An asuric attacker can choose a point of failure and strike it deliberately.
 

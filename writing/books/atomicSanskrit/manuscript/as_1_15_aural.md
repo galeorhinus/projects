@@ -94,6 +94,6 @@ None of the comparison cases examined here documents an ancient linguistic prese
 
 Together, the reciters demonstrate calibrant order as a living practice. The received form remains invariant, access to it remains distributed, and correction occurs wherever trained reciters and listeners compare a performance with what they received. They do not wait for an apex to announce correctness.
 
-The system's success leaves its evidence available for examination. It was built to carry a recoverable form across distance, destruction, and time, and it continues to do so.
+This chapter demonstrates the greater engineering feat in operation. The recitation procedures resist entropy by detecting departures before another generation inherits them. Their distribution resists asuric attack by preventing any apex from gaining custody of the complete calibrant. The system has done both across distance, destruction, and thousands of years. It continues to do so.
 
 This audible constancy is **ध्रौव्यता (*dhrauvyatā*)**. It allows the Veda to remain an invariant calibrant while the people who carry it are spread across society.

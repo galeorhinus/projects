@@ -281,7 +281,7 @@ The chapters that follow trace these two architectures across several scales. Ch
 
 ## 0.8 The Civilization That Preserves It
 
-Sanskrit survived because generations of people performed a repeatable set of actions: they listened, recited, corrected, memorized, taught, and checked one lineage against another. Together, those actions form an engineered transmission architecture.
+The feat goes beyond engineering Sanskrit's sounds and grammar. The greater feat is the system that has kept the language calibrated against entropy and asuric attack for thousands of years. Generations of people made that system work. They listened, recited, corrected, memorized, taught, and checked one lineage against another.
 
 The **गुरु-शिष्य (*guru-śiṣya*)** chain provides one example. A *guru* transmits to a शिष्य (*śiṣya*); the शिष्य (*śiṣya*) becomes the *guru* of the next student; and the chain extends across thousands of years. The student hears, repeats, receives correction, repeats again, and takes the corrected form forward. The complete architecture extends beyond this relationship, but the teacher-student chain shows how repeated training can keep memory exact across generations.
 
@@ -289,7 +289,7 @@ The Sanskrit continuum has transmitted the Vedas continuously. Nambūdiri Brahmi
 
 Performance, correction, and continuity preserve Sanskrit beyond the library. The detailed mapping appears in Chapter 15 as the *aural architecture* — the concrete procedures of the calibration matrix that keeps Sanskrit's phonetic constants stable across the depth of time.
 
-The recitations continue audibly today in **गुरुकुलानि (*gurukulāni*)**, temples, homes, schools, and communities across the subcontinent and the global diaspora. Teachers and students still perform the transmission that the preceding paragraphs describe. Recordings allow people outside those lineages to hear that living practice for themselves, but the recordings document a practice that remains active without them.
+The recitations continue audibly today in **गुरुकुलानि (*gurukulāni*)**, temples, homes, schools, and communities across the subcontinent and the global diaspora. Teachers and students still perform the transmission that the preceding paragraphs describe. Recordings allow people outside those lineages to hear that living practice for themselves, but the recordings document a practice that remains active without them. The system did not merely survive. It still performs the work for which it was built.
 
 Hindu civilization has inherited Sanskrit as a caretaking responsibility. **धर्मो रक्षति रक्षितः (*dharmo rakṣati rakṣitaḥ*)** — dharma protects when protected.[NOTE: dharmo-rakshati-rakshitah] The same reciprocity applies to Sanskrit.
 

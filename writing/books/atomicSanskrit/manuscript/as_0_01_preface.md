@@ -20,7 +20,11 @@ The pyramid had attacked more than the polity. It had tried to break the memory 
 
 I realized how fortunate I was to have been born to parents who were caretakers of that civilizational inheritance. Through them, I had received ideas that our ancestors had fought to preserve for all humanity.
 
-Sanskrit revealed a civilizational order built through calibration rather than dogma or commands from an apex. Its own invariance came through calibration as well, not through Pāṇini's supposed codification of the language. As this book demonstrates, Sanskrit is the only language in the world that has remained invariant for thousands of years while continuing to support new expression, all without a central authority controlling its form. The Vedas serve as its distributed calibrant. *Atomic Sanskrit* examines this bond as **the radiant, calibrant, and fractal architecture of Sanātan**.
+Sanskrit revealed a civilizational order built through calibration rather than dogma or commands from an apex. Its own invariance came through calibration as well, not through Pāṇini's supposed codification of the language.
+
+The language's sounds, atoms, grammar, and generative reach demonstrate one feat of engineering. The greater feat is the system that has kept Sanskrit calibrated against two enemies for thousands of years. Entropy introduces unintended change. Asuric attack tries deliberately to destroy the memory, capture the calibrant, or conceal the architecture. The Vedas and their distributed caretakers have resisted both while Sanskrit has remained open to new expression. As this book demonstrates, no other language has remained invariant for thousands of years while continuing to support new expression without a central authority controlling its form. The system remains alive, audible, and available for examination.
+
+*Atomic Sanskrit* examines this achievement as **the radiant, calibrant, and fractal architecture of Sanātan**.
 
 That principle may still sound abstract. The Hindu temple offers a familiar way to understand it.
 
@@ -119,7 +123,7 @@ You do not need prior knowledge of Sanskrit or historical linguistics. Sanskrit 
 
 The opening chapters introduce the two architectures of order and show how false categories conceal the way Sanskrit was built. The chapters that follow set those categories aside and begin again from the Sanskrit continuum’s own account of the language.
 
-From there, the book follows Sanskrit’s engineering from the speaking body into its sound-grid, semantic atoms, verbs, and sentences. The preservation chapters then explain how the Vedas calibrate Sanskrit across society. They also show why the language uses one domain for exact transmission and another for new expression.
+From there, the book follows Sanskrit’s internal engineering from the speaking body into its sound-grid, semantic atoms, verbs, and sentences. The preservation chapters then turn to the greater engineering feat: how the Vedas keep Sanskrit calibrated across society while the language resists entropy and asuric attack. They also show why Sanskrit uses one domain for exact transmission and another for new expression.
 
 The final chapters return to migration, PIE, and the direction in which Sanskrit’s radiance traveled. The appendices provide denser evidence and worked examples without interrupting the main argument.
 

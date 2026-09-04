@@ -6,23 +6,25 @@
 
 ## Core Theses
 
-1. **Sanskrit was engineered.** Its structure is ordered and stable, and its architecture can continue generating new expression — the signature of engineering, not of drift.
+1. **Sanskrit's internal architecture was engineered.** Its sounds, compact units of meaning, grammar, and generative reach form an ordered system that can continue producing new expression without rebuilding itself.
 
-2. **The Vedas preserve that engineering.** They are the primary acoustic corpus that preserves the language's architecture.
+2. **The Vedas remain Sanskrit's distributed calibrant.** They carry the language's sounds and grammar in use and give later speakers an invariant standard against which they can recognize change.
 
-3. **Pāṇini did not codify Sanskrit.** He decoded and documented an already-operating system. His achievement is real; the category assigned to it is wrong.
+3. **The greater engineering feat is the system that keeps Sanskrit calibrated.** It has resisted two enemies for thousands of years: unintended entropy and deliberate attempts to destroy, capture, or conceal the calibrant. The system remains alive and continues to perform the work for which it was built.
 
-4. **Western academia operates as a pyramid when scholarship becomes custody.** The target is not every scholar inside it, but an institutional shape: credential gates, citation loops, and reference works that turn misclassification into settled knowledge. The book gives this pyramid a more precise name.
+4. **Pāṇini did not codify Sanskrit.** He decoded and documented an already-operating system. His achievement is real; the category assigned to it is wrong.
 
-5. **The pyramid misclassifies Sanskrit.** It makes Sanskrit appear first as a naturally drifting language and then as a late grammatical norm. Both moves hide the continuous architecture.
+5. **Western academia operates as a pyramid when scholarship becomes custody.** The target is not every scholar inside it, but an institutional shape: credential gates, citation loops, and reference works that turn misclassification into settled knowledge. The book gives this pyramid a more precise name.
 
-6. **Proto-Indo-European (PIE) is an imagined ancestor placed above a real language.** Its starred forms are reconstructions, not speech. A reconstruction can summarize data; it cannot be the source of a word unless it corresponds to a form someone actually spoke.
+6. **The pyramid misclassifies Sanskrit.** It makes Sanskrit appear first as a naturally drifting language and then as a late grammatical norm. Both moves hide the continuous architecture.
 
-7. **The data now points back to Sanskrit.** Sound structure, word-formation, preservation, and contact evidence all need an explanation the family-tree account cannot give.
+7. **Proto-Indo-European (PIE) is an imagined ancestor placed above a real language.** Its starred forms are reconstructions, not speech. A reconstruction can summarize data; it cannot be the source of a word unless it corresponds to a form someone actually spoke.
 
-8. **The book proposes new vocabulary where the pyramid's vocabulary misdirects.** Each label drags a foreign category onto an engineered object and hides what it is. The precise words are reserved for the book.
+8. **The data now points back to Sanskrit.** Sound structure, word-formation, preservation, and contact evidence all need an explanation the family-tree account cannot give.
 
-9. **The reader inherits a responsibility.** Once the category is corrected, the reader takes up Sanskrit as a still-generative architecture and India's own inheritance — to learn, teach, and transmit.
+9. **The book proposes new vocabulary where the pyramid's vocabulary misdirects.** Each label drags a foreign category onto an engineered object and hides what it is. The precise words are reserved for the book.
+
+10. **The reader inherits a responsibility.** Once the category is corrected, the reader takes up Sanskrit as a still-generative architecture and India's own inheritance — to learn, teach, and transmit.
 
 ---
 
@@ -64,13 +66,13 @@
 
 ### Preservation
 
-14. **Sanskrit identifies drift and resists it.** Patañjali's discussion of correct words and their fallings-away shows that Sanskrit's architecture observed, marked, and resisted drift.
+14. **Sanskrit identifies unintended departure and resists it.** Patañjali's discussion of correct words and their fallings-away shows how a stable calibrant allows speakers to recognize and correct change.
 
 15. **Writing alone cannot explain Sanskrit's preservation.** Stone does not scale; paper decays; archives can be seized; offices can gate access. Sanskrit required a distributed preservation architecture.
 
 16. **The "oral tradition" label flattens a precise sound-preservation system into storytelling.** The book supplies vocabulary for the preservation modes English does not distinguish.
 
-17. **Vedic recitation is the empirical proof, and it still runs.** The recitation systems preserve sound through layered redundancy; they remain audible in lineages today.
+17. **Vedic recitation is the empirical proof, and it still runs.** Layered recitation detects unintended departures. Distributed transmission prevents an attacker from gaining custody of the complete calibrant. The system remains audible in lineages today.
 
 18. **The Vedas preserve more than they are known to.** What the recitation has kept unbroken is something beyond hymn and beat — and that something has sustained Sanātan itself. What it is, the book shows.
 
@@ -92,7 +94,7 @@
 
 ### Recovery
 
-26. **Sanskrit is a preserved and still-generative architecture.** Its category has been obscured.
+26. **Sanskrit is a calibrated and still-generative architecture.** Its internal construction is one engineering achievement. The living system that has kept it calibrated against entropy and attack is the greater one.
 
 27. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, where neither codification nor authority could. How it persists without either is what the book demonstrates.
 

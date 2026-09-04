@@ -52,7 +52,7 @@ At the top of that geometry sits the apex-claimant, who claims the right to defi
 
 Sanskrit demonstrates that a society can preserve knowledge, identify error, and correct departures without giving one ruler or institution ownership of the standard. That living example exposes the limit of the apex's authority. Instead of accepting that limit, the apex attacks the language and the civilization that preserve the alternative. This is the Svarbhānu pattern: when light reveals what lies beyond his control, he tries to cover its source and retaliates against those who keep it visible.
 
-That is the darkness Sanskrit was engineered to resist.
+That is the deliberate darkness the Vedic calibration system was engineered to resist.
 
 ## 1.2 The Fractal of Deformation
 

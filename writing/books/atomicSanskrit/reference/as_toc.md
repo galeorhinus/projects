@@ -83,7 +83,7 @@
 - 6.2 Few Words, Many Corruptions
 - 6.3 *Gauḥ* and Its Fallings-Away
 - 6.4 The Four Classifications Under Entropy
-- 6.5 Engineered Against Entropy
+- 6.5 Engineered Against Both Enemies
 - 6.6 Variation Is Not Drift
 - 6.7 Orbit, Drift, and Divergence
 - 6.8 The Fall Is Not Only Linguistic

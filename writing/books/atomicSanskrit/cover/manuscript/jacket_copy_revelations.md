@@ -4,11 +4,11 @@ How can a language remain unchanged for thousands of years and yet possess an un
 
 Sanskrit did exactly that. Its architecture has remained invariant across thousands of years. Throughout that time, speakers have used it, and continue to use it today, to compose epics and romantic poetry, preserve mathematical formulae, calculate planetary movements, conduct trade, and create words for circumstances that earlier generations had never encountered.
 
-*Atomic Sanskrit* reveals how. Sanskrit is an engineered language whose architecture begins in the human mouth. Its sounds occupy anatomical coordinates. Those sounds form stable units of meaning that behave like *atoms*, not roots of a language family tree. The atoms combine and recombine, allowing the language to generate new expression without rebuilding its foundation.
+*Atomic Sanskrit* reveals how. Sanskrit's internal architecture begins in the human mouth. Its sounds occupy anatomical coordinates. Those sounds form stable units of meaning that behave like *atoms*, not roots of a language family tree. The atoms combine and recombine, demonstrating that the language was engineered for new expression without rebuilding its foundation.
 
 Why was such invariance necessary?
 
-The Vedas encode several foundational architectures of Sanātan. One of them is Sanskrit. Their exact transmission gives the language an invariant calibrant distributed across many lineages. They were designed so that no ruler or centralized authority, whether domestic or foreign, could seize, control, or alter them. Sanskrit also operates through a second, worldly domain that remains open to new composition and unbounded expression. One domain protects what must not change. The other gives every generation the freedom to describe its world.
+Building the language was one engineering feat. The greater feat is the system that has kept Sanskrit calibrated against unintended change and deliberate attack for thousands of years. The Vedas encode several foundational architectures of Sanātan. One of them is Sanskrit. Their exact transmission gives the language an invariant calibrant distributed across many lineages. No ruler or centralized authority, whether domestic or foreign, has been able to seize or control the complete standard. Sanskrit also operates through a second, worldly domain that remains open to new composition and unbounded expression. One domain protects what must not change. The other gives every generation the freedom to describe its world.
 
 What, then, did Pāṇini *actually* do?
 

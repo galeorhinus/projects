@@ -4,9 +4,9 @@ All natural languages change over time. Sanskrit, and Sanskrit alone, has thrive
 
 How has Sanskrit remained invariant for thousands of years while continuing to generate new expression? Why did that invariance matter? What role did the Vedas play? What did Pāṇini actually document? Why do languages across Eurasia reflect Sanskrit? And what can Sanskrit teach us about creating durable order without an apex?
 
-*Atomic Sanskrit* examines Sanskrit as an engineered system. Its architecture begins in the human mouth, where sounds occupy anatomical coordinates. Those sounds combine into compact units of meaning that generate words and sentences.
+*Atomic Sanskrit* examines Sanskrit as an engineered system. Its internal architecture begins in the human mouth, where sounds occupy anatomical coordinates. Those sounds combine into compact units of meaning that generate words and sentences.
 
-The Vedas are central to this architecture. They preserve far more than ancient compositions. Their breadth encodes Sanskrit’s sounds, forms, and grammatical possibilities. Transmission lineages distributed across society protect every sound, word, pitch, meter, and arrangement. The Vedas therefore serve as Sanskrit’s invariant calibrant: every generation can align its language against the same preserved architecture without the need for an apex. Beyond the Vedas, Sanskrit remains open to new composition and allows later speakers to express what a changing world requires.
+Building the language was one feat of engineering. The greater feat is the system that has kept it calibrated against unintended change and deliberate attack for thousands of years. The Vedas stand at the center of that system. Their breadth encodes Sanskrit’s sounds, forms, and grammatical possibilities. Transmission lineages distributed across society protect every sound, word, pitch, meter, and arrangement. The Vedas therefore serve as Sanskrit’s invariant calibrant: every generation can align its language against the same architecture without the need for an apex. Beyond the Vedas, Sanskrit remains open to new composition and allows later speakers to express what a changing world requires.
 
 **What, then, did Pāṇini do?**
 
