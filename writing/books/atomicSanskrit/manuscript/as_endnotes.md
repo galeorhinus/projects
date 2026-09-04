@@ -805,12 +805,13 @@ Sources: Frank N. Laird, [“The ‘Save the Earth!’ Narrative Creates a Narra
 
 <!-- SOURCE-RECORDS
 - unicode-standard-chapter-14-brahmi | Brāhmī structure, signs, and relation to later Indic scripts
-- unicode-standard-chapter-12-indic | shared encoding features of modern Indic scripts
+- unicode-standard-chapter-12-indic | regional change, writing materials, and shared encoding features
+- unicode-indic-faq-rendering | font- and display-engine-dependent glyph forms
 -->
 
-**Short:** ब्राह्मी (*Brāhmī*) and देवनागरी (*Devanāgarī*) are different scripts within the same historical family. In the general Sanskrit-facing Brāhmī system, consonants carry an inherent vowel, dependent signs replace it, a विराम (*virāma*) suppresses it, and conjuncts render consonant combinations. Regional adaptations can alter that implementation. Aramaic can supply a possible graphic precedent without supplying this Indic encoding architecture.
+**Short:** ब्राह्मी (*Brāhmī*) and देवनागरी (*Devanāgarī*) are different visible implementations of the same broad Indic encoding architecture. The scripts changed as they moved across regions, languages, writing materials, and technologies. Modern digital systems can even display one encoded sequence through different glyph forms. These changes affect the audiograph, not the prior sonomeric architecture that it renders.
 
-**Deployments:** Appendix Part 3 §3.4 — supports the distinction between possible glyph transmission and the Indic encoding architecture Brāhmī carries.
+**Deployments:** Chapter 13 §13.3 and Appendix Part 3 §§3.4 and 3.6 — support the distinction between the prior sonomeric architecture and the scripts that render it, the effect of changing media and technologies on visible forms, and the separate question of possible glyph transmission.
 
 ब्राह्मी (*Brāhmī*) and देवनागरी (*Devanāgarī*) belong to one historical script family, but they are not identical. Their shared encoding principle includes:
 
@@ -828,11 +829,13 @@ The two scripts differ at the surface level — the level addressed by the pyram
 - **Numerical signs.** Brāhmī numerals differ from Devanāgarī numerals.
 - **Later additions to Devanāgarī.** Devanāgarī acquired dotted forms such as *ज़, फ़, ख़, ग़, क़, ड़,* and *ढ़* for distinctions used by later languages. These are not part of the core Sanskrit वर्णमाला (*varṇamālā*).
 
+The visual interface also changes with its material and technology. The Unicode Standard notes that Brāhmī's descendants developed distinct regional letterforms and records the proposal that palm-leaf writing encouraged changes in southern scripts. Its Indic-script guidance also shows that one encoded Devanāgarī consonant sequence can appear as a ligature or as a half-form followed by a full consonant. The display engine chooses between those forms according to the glyphs available in the font. The encoded sequence remains the same while its visible audiograph changes.
+
 Glyph resemblances between ब्राह्मी (*Brāhmī*) and Aramaic can support contact, borrowing of particular signs, or use of an earlier graphic template. They cannot by themselves explain the Indic encoding model. Aramaic does not contain the inherent-vowel system, dependent vowel signs, विराम (*virāma*), conjunct formation, or full set of Sanskrit consonantal distinctions carried by ब्राह्मी (*Brāhmī*). The historical question of graphic descent and the architectural question of encoding design therefore require separate answers.
 
 The Unicode Standard documents ब्राह्मी (*Brāhmī*) as an abugida with inherent **a**, independent and dependent vowel signs, a विराम (*virāma*), consonant conjuncts, अनुस्वार (*anusvāra*), विसर्ग (*visarga*), जिह्वामूलीय (*jihvāmūlīya*), and उपध्मानीय (*upadhmānīya*). It also identifies ब्राह्मी (*Brāhmī*) as the historical source of the modern Indian writing systems, including देवनागरी (*Devanāgarī*) and Tamil. These documented features support the shared encoding principle without erasing the historical and regional differences among the scripts.
 
-Source: Unicode Consortium, [*The Unicode Standard*, Chapter 14, “Brāhmī”](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-14/); see also Chapter 12 on the common encoding features of modern scripts of the Indian subcontinent.
+Sources: Unicode Consortium, [*The Unicode Standard*, Chapter 14, “Brāhmī”](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-14/); [Chapter 12, “South and Central Asia-I”](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/); and [“FAQ — Indic Scripts and Languages”](https://www.unicode.org/faq/indic.html).
 
 ---
 
@@ -845,13 +848,39 @@ Source: Unicode Consortium, [*The Unicode Standard*, Chapter 14, “Brāhmī”]
 
 **Short:** The surviving Brāhmī archive includes royal proclamations, public and donative inscriptions, seals, coins, cave records, graffiti, and marks on pottery. Durable media preserve monumental authority especially well, but they do not preserve only apex speech. The archaeological record dates surviving inscriptions; it does not date the prior sound architecture those scripts render.
 
-**Deployments:** Appendix Part 3 §3.6 — supports the distinction between the durable epigraphic record and the origin of the Sanskrit sound-and-script architecture.
+**Deployments:** Chapter 13 §13.3 and Appendix Part 3 §3.6 — support the distinction between the durable epigraphic record and the origin of the Sanskrit sound-and-script architecture.
 
 Richard Salomon's survey of Indian epigraphy classifies inscriptions by content as donative, dedicatory, panegyric, ritual, literary, administrative, and private, and by medium across stone, metal, pottery, and other materials. The Archaeological Survey of India likewise notes that many stone inscriptions are donative rather than royal. Early Brāhmī also survives in cave donations, seals, coins, graffiti, and inscribed potsherds. Royal inscriptions remain unusually prominent because rulers could command monumental surfaces and skilled labour, but the surviving archive cannot be reduced to royal speech.
 
 The methodological point in the appendix is narrower. Stone and metal survive more readily than palm leaf, birch bark, wood, and cloth. The earliest surviving durable inscription can therefore date that artifact and its written form. It cannot by itself date the oral analysis of the sounds, the वर्णमाला (*varṇamālā*) that orders them, or the अक्षर (*akṣara*) that the script renders.
 
 Sources: Richard Salomon, [*Indian Epigraphy: A Guide to the Study of Inscriptions in Sanskrit, Prakrit, and the Other Indo-Aryan Languages*](https://academic.oup.com/book/49774) (Oxford University Press, 1998), especially Chapter 2; Archaeological Survey of India, [BharatSHRI, “About Epigraphy”](https://bharatshri.asi.gov.in/AboutEpigraphy?lang=en); Tamil Nadu Department of Archaeology, [“Tamil-Brahmi Script”](https://www.tnarch.gov.in/tamil-brahmi-script).
+
+---
+
+### `writing-medium-fire-and-authority`
+
+<!-- SOURCE-RECORDS
+- unesco-nalanda-nomination-1502 | Nalanda's recorded library complex, evidence of conflagration, invasion, arson, and the loss of records
+- plutarch-caesar-49-library-fire | ancient account of the Alexandrian fire reaching the library
+- cassius-dio-42-38-books-fire | ancient account of Alexandrian storehouses and books burning
+- openlearn-alexandria-library-loss | modern synthesis of fire, later destruction, and gradual loss at Alexandria
+- bukhari-4987-uthman-copies | order to burn other Qur'anic materials after distributing committee-prepared copies
+-->
+
+**Short:** Written collections can disappear through decay, fire, war, or command. Nalanda and Alexandria show the vulnerability of knowledge gathered in destructible objects at physical sites. The account of ʿUthmān supplies a direct example of authority distributing one text and ordering other Qur'anic materials, including complete copies, burned.
+
+**Deployments:** Chapter 13 §13.3 — historical evidence for the claim that लिपि (*lipi*) can support a distributed calibrant but cannot reliably become its primary medium.
+
+The Nalanda nomination dossier prepared by the Archaeological Survey of India records the library buildings named Ratnaranjak, Ratnasagara, and Ratnadodhi and the innumerable manuscripts they were said to contain. It also records archaeological evidence of conflagration, invasion and arson, structures destroyed by fire, and the site's eventual abandonment. No archaeological remains of the library buildings have been identified. The evidence therefore establishes that Nalanda's accumulated written record was vulnerable to the destruction of its physical site without requiring the popular claim that one fire burned every manuscript for months.
+
+For Alexandria, Plutarch's *Life of Caesar* 49.6 reports that the fire begun at the dockyards spread and destroyed the great library. Cassius Dio 42.38.2 records storehouses of grain and books burning during the same fighting. Modern histories separate this fire from later losses at the Serapeum and from the long effects of neglect. Chapter 13 therefore makes the narrower claim that written collections at Alexandria burned. It does not reduce the disappearance of the Alexandrian libraries to one fire.
+
+Ṣaḥīḥ al-Bukhārī 4987 records a different failure mode. Caliph ʿUthmān appointed Zayd ibn Thābit and three Qurayshi men to prepare copies, sent those copies to the provinces, and ordered the remaining Qur'anic materials burned, whether fragments or complete manuscripts. Here the physical medium gave central authority a direct means of eliminating competing written copies.
+
+The three examples have different histories and motives. Their shared architectural lesson is straightforward: when knowledge depends upon destructible objects, fire can consume it, war can scatter it, and authority can decide which copies survive. A distributed aural calibrant removes that single point of failure.
+
+Sources: Archaeological Survey of India and Ministry of Culture, Government of India, [*The Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar: Nomination Dossier*](https://whc.unesco.org/uploads/nominations/1502.pdf), Chapter 2, pp. 19, 21, 43, and 84; Plutarch, [*Life of Caesar* 49.6](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar%2A.html); Cassius Dio, [*Roman History* 42.38.2](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/42%2A.html); Open University, [“The Library of Alexandria,” §3, “The End of the Library”](https://www.open.edu/openlearn/history-the-arts/library-alexandria/content-section-3/); [*Ṣaḥīḥ al-Bukhārī* 4987](https://sunnah.com/bukhari:4987).
 
 ---
 

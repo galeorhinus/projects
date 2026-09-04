@@ -43,6 +43,8 @@ The table separates the four preservation modes. The first row shows why writing
 
 ***Auditure*** is preservation by exact speech-hearing transmission. The coinage comes from Latin *audīre*, to hear. Its Indic counterpart is श्रुति (*śruti*) — that which is heard. Auditure preserves not merely meaning, not merely narrative, not merely doctrine, but phonetic form itself: vowel length, accent, consonantal placement, breath gesture, pause, sequence, and metrical fit.[NOTE: shruti-as-auditure] The Vedas belong to Auditure. The **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines document and teach the specification. The preservation system relies on the eleven **पाठाः (*pāṭhāḥ*)** (Chapter 15).
 
+An audiograph may change shape without changing the sound it renders. Auditure keeps that sounded form available, allowing later readers and reciters to recognize what the changing written interface represents.
+
 The four modes expose the civilizational contrast. In the Sanskritic ecology, writing remains one support among several: useful for records, teaching, commentary, administration, correspondence, and ordinary communication, but not sovereign over the calibrant.
 
 Writing becomes ***Scripture*** when an institution makes the written text the sovereign source of preservation and doctrine. A visible glyph records the content, and the institution that controls the copy controls the transmission. The medium can be stone, palm leaf, paper, print, or digital storage; the custody logic is the same. The edition can be authorized, restricted, and seized.

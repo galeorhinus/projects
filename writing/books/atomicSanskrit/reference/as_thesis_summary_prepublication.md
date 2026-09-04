@@ -24,7 +24,9 @@
 
 9. **The book proposes new vocabulary where the pyramid's vocabulary misdirects.** Each label drags a foreign category onto an engineered object and hides what it is. The precise words are reserved for the book.
 
-10. **The reader inherits a responsibility.** Once the category is corrected, the reader takes up Sanskrit as a still-generative architecture and India's own inheritance — to learn, teach, and transmit.
+10. **Sanskrit's architecture reaches beyond language.** It demonstrates an order built around a distributed calibrant: an enduring standard that remains available to everyone and belongs to no apex. The *Second Shanti* series follows that architecture into other parts of civilizational life.
+
+11. **The reader inherits a responsibility.** Once the category is corrected, the reader takes up Sanskrit as a still-generative architecture and India's own inheritance — to learn, teach, and transmit.
 
 ---
 
@@ -68,7 +70,7 @@
 
 14. **Sanskrit identifies unintended departure and resists it.** Patañjali's discussion of correct words and their fallings-away shows how a stable calibrant allows speakers to recognize and correct change.
 
-15. **Writing alone cannot explain Sanskrit's preservation.** Stone does not scale; paper decays; archives can be seized; offices can gate access. Sanskrit required a distributed preservation architecture.
+15. **Writing is useful, but it cannot serve as a reliable primary calibrant.** Every written record depends upon a medium that can decay, burn, or be seized. Its visible forms also change as writing tools and technologies change. Sanskrit therefore required a distributed preservation architecture in which Audiography renders the calibrant and Auditure keeps it calibrated.
 
 16. **The "oral tradition" label flattens a precise sound-preservation system into storytelling.** The book supplies vocabulary for the preservation modes English does not distinguish.
 
@@ -96,7 +98,7 @@
 
 26. **Sanskrit is a calibrated and still-generative architecture.** Its internal construction is one engineering achievement. The living system that has kept it calibrated against entropy and attack is the greater one.
 
-27. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, where neither codification nor authority could. How it persists without either is what the book demonstrates.
+27. **India's civilizational responsibility remains central.** Documentation did not prevent Tamil from changing. Institutional authority kept formal Latin and Arabic standards available, but the forms people spoke continued to change. Sanskrit remained invariant and generative through a distributed Vedic calibrant rather than centralized enforcement. The book demonstrates how that architecture works.
 
 28. **The work now is recognition and transmission.** Once the category is corrected, the next task is to learn, teach, and preserve Sanskrit on its own terms.
 

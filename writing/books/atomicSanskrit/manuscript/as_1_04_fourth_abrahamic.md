@@ -98,13 +98,23 @@ The first is the **progressive dogma**. It defends the time-axis: recent means a
 
 The engineered Sanskrit thesis is unacceptable inside this frame. It claims that an ancient civilization possessed an architectural sophistication the present has not surpassed. Sanskrit is a precision-engineered language. The Vedas stand at the center of a distributed system that has kept the language calibrated against unintended entropy and deliberate attack for thousands of years. If that is true, the arrow of progress has at least one civilizational fact wrong. If it has one wrong, the rest of the sequence becomes available for re-examination.
 
-The second is the **foundational dogma**. It defends the origin-axis: engineered writing, grammar, abstraction, and civilizational form must originate in the named Western corridor — Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin inheritance — while everything outside that corridor either descends from it or is dated too late to count.
+The second is the **foundational dogma**. It claims that the architectures on which civilization depends must originate within a corridor that runs from the Near East into Europe. Its familiar history of writing begins with Sumerian cuneiform and Egyptian hieroglyphs, moves through the Phoenician alphabet and its Greek extension, and culminates in the Latin inheritance. Any writing system outside that corridor must either descend from it or appear too late to affect the story.
 
-The two dogmas cooperate. A deep ancient achievement threatens the progressive dogma. An engineered achievement outside the corridor threatens the foundational dogma. An achievement that is both ancient and engineered outside the corridor threatens both at once. The वर्णमाला (*varṇamālā*) is exactly that case. Brāhmī is exactly that case. Sanskrit is exactly that case.
+The pyramid's attachment to writing began long before the modern academy learned to date inscriptions. Speech can pass directly from one person to another. Writing requires another medium. If the written form must endure across generations, someone must provide the material, labor, copying, storage, and protection that keep it available. Those requirements give concentrated power an opportunity to control what a society remembers.
 
-Erasure of the engineering does the work. If Sanskrit is natural, the progress story survives. If Brāhmī is adapted from Aramaic, the corridor survives. If the pyramid can recast Pāṇini as codifier rather than decoder, the late figure absorbs the architecture. One vocabulary protects two doctrines.
+A rock edict requires stone, skilled carvers, organized labor, and the authority to command them. A manuscript library requires writing material, copyists, buildings, patrons, and guards. The ruler or institution able to preserve one record can refuse to copy another. It can fill a landscape with its own declarations and burn a competing library.
 
-Behind the linear-progress pillar stands the doctrinal formation that sustains it. The main chapters prosecute the language-level case; Appendix Part 3 takes the script-level case. Both dogmas belong to the same asuric pyramid.
+The technology changed, but the dependency remained. Printing presses and publishing houses require capital and distribution. Digital archives require servers, networks, and continued institutional support. Whoever controls the medium can influence what is copied, circulated, preserved, or allowed to disappear.
+
+The modern pyramid gained another use for writing. A durable artifact can be dated. The academy can then treat the date of the surviving inscription as the beginning of the knowledge recorded upon it. The medium supplies a date, and chronology turns that date into a claim of origin.
+
+Writing is not inherently pyramidal. A person can write a note, copy a poem, or preserve a teaching without an apex. The vulnerability appears when long-term memory depends upon a physical record and the resources required to maintain it. A pyramid can enclose that record more easily than it can enclose knowledge distributed through living memory and sound.
+
+The two dogmas therefore reinforce one another. An ancient achievement threatens the progressive dogma. An engineered achievement outside the assigned corridor threatens the foundational dogma. Sanskrit, the वर्णमाला (*varṇamālā*), and Brāhmī threaten both at once.
+
+Erasing the engineering protects the story. The pyramid presents Sanskrit as a natural language, classifies Brāhmī as an adaptation of Aramaic, and recasts Pāṇini as the codifier who imposed order on drifting speech. Each substitution places the decisive act of engineering inside the pyramid's history.
+
+Chapter 13 returns to writing as one part of Sanskrit's preservation architecture. Appendix Part 3 examines the script-level theft and the claim that Brāhmī received its architecture from Aramaic.
 
 ## 4.3 The Church of Progress
 

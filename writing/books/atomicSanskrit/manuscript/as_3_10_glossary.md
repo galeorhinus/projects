@@ -120,9 +120,13 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **audiograph**
 
-**Book-coined English.** The engineered visual capture of articulated sound; the visible rendering of sonomers through the अक्षर (*akṣara*)-and-लिपि (*lipi*) system. Coined for Appendix Part 3, *The Sonomer and the Audiograph*; deployed in Chapters 8, 9, and 13.
+**Book-coined English.** The visible mark through which लिपि (*lipi*) renders an अक्षर (*akṣara*) built from sonomers. Introduced in Chapter 9 §9.12 and developed with Audiography in Chapter 13 §13.3 and Appendix Part 3.
 
 **Sanskrit relation**: लिपि (*lipi*) renders an अक्षर (*akṣara*) in visible form; the resulting form is the audiograph.
+
+### **Audiography**
+
+**Book-coined English.** The visual system that renders Sanskrit's prior sonomeric architecture through audiographs. Brāhmī, Devanāgarī, and other Indic scripts are implementations of that system. Audiography renders the calibrant, while Auditure keeps it calibrated.
 
 ### **calibrant** / **calibration matrix**
 

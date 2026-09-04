@@ -4740,14 +4740,27 @@ do not silently omit the gap.
 
 - **Citation:** Unicode Consortium, *The Unicode Standard*, Chapter 12, “South and Central Asia-I.”
 - **Source type:** Official technical standard.
-- **Canonical locator:** Shared encoding behavior of modern Indic scripts.
+- **Canonical locator:** Shared encoding behavior of modern Indic scripts; South Indian script history and the discussion of palm-leaf writing materials.
 - **Digital URL:** https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/
 - **Archived URL:** Same as the digital URL.
 - **Accessed:** 2026-09-03.
 - **Local record:** `working/40_reference/sources/archive/web/appendix3-verification/unicode-ch12.html`.
 - **Integrity:** SHA-256 `aeed3d7435462d40fd10bd51a09a1bae816bc050e7180053f877837d60b92dc5`.
 - **Rights/storage:** Official standard-page research capture.
-- **Notes:** Supports the shared Indic encoding principle without asserting identical glyphs.
+- **Notes:** Supports the shared Indic encoding principle without asserting identical glyphs. The chapter also records distinct regional letterforms and the scholarly proposal that palm-leaf writing encouraged changes in southern scripts.
+
+### `unicode-indic-faq-rendering`
+
+- **Citation:** Unicode Consortium, “FAQ — Indic Scripts and Languages.”
+- **Source type:** Official technical guidance.
+- **Canonical locator:** “Where can I find the ‘half forms’ of Devanagari letters?”
+- **Digital URL:** https://www.unicode.org/faq/indic.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-04.
+- **Local record:** `working/40_reference/sources/archive/web/appendix3-verification/unicode-indic-faq.html`.
+- **Integrity:** SHA-256 `9e2146c894dc120fa17fd5dc9217f4992e82731656d57548df6e6639e161da06`.
+- **Rights/storage:** Official technical-guidance research capture.
+- **Notes:** Shows that the same encoded Devanāgarī consonant sequence can display as a ligature or as a half-form plus full consonant according to the display engine and available font glyphs.
 
 ### `salomon-indian-epigraphy-1998`
 
@@ -5125,3 +5138,68 @@ do not silently omit the gap.
 - **Integrity:** No local file.
 - **Rights/storage:** Institutional journal URL retained.
 - **Notes:** Supports the companion's placement of Kak as a neighboring account of the Vedic corpus as numerical, astronomical, recursive, and information-bearing architecture.
+
+### `unesco-nalanda-nomination-1502`
+
+- **Citation:** Archaeological Survey of India and Ministry of Culture, Government of India, *The Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar: Nomination Dossier*, UNESCO World Heritage nomination 1502.
+- **Source type:** Government archaeological and heritage dossier.
+- **Canonical locator:** Chapter 2, source pages 19, 21, 43, and 84.
+- **Digital URL:** https://whc.unesco.org/uploads/nominations/1502.pdf
+- **Archived URL:** https://whc.unesco.org/en/list/1502/documents/
+- **Accessed:** 2026-09-04.
+- **Local record:** `working/40_reference/sources/archive/web/ch13-writing-medium-risk/nalanda-nomination-selected-pages.pdf`.
+- **Integrity:** SHA-256 `38e218e3697774a42937889c9e0674d71116c3c54082ae358ef2571c667079b5`.
+- **Rights/storage:** Selected pages of a public government and UNESCO nomination dossier retained for research verification.
+- **Notes:** The retained pages record named library buildings and their manuscript collections, the absence of surviving archaeological remains of those buildings, invasion and arson, and archaeological evidence of structures destroyed by fire. The local excerpt contains source pages 19, 21, 43, and 84 plus one comparative-analysis page on repeated conflagration.
+
+### `plutarch-caesar-49-library-fire`
+
+- **Citation:** Plutarch, *Life of Caesar*, 49.6, trans. Bernadotte Perrin, Loeb Classical Library, 1919.
+- **Source type:** Primary historical text in a public-domain translation.
+- **Canonical locator:** 49.6.
+- **Digital URL:** https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar%2A.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-04.
+- **Local record:** `working/40_reference/sources/archive/web/ch13-writing-medium-risk/plutarch-caesar.html`.
+- **Integrity:** SHA-256 `11ee326b7bc23d56e6d2d37d7563c1f4bcb2cd95feaccd572dc143e46ed2e27a`.
+- **Rights/storage:** Public-domain translation retained for research verification.
+- **Notes:** Reports that the fire begun at the dockyards spread and destroyed the great library. Used with Cassius Dio and a modern synthesis rather than as the sole account of the Alexandrian libraries' disappearance.
+
+### `cassius-dio-42-38-books-fire`
+
+- **Citation:** Cassius Dio, *Roman History*, 42.38.2, trans. Earnest Cary, Loeb Classical Library, 1916.
+- **Source type:** Primary historical text in a public-domain translation.
+- **Canonical locator:** 42.38.2.
+- **Digital URL:** https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/42%2A.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-04.
+- **Local record:** `working/40_reference/sources/archive/web/ch13-writing-medium-risk/cassius-dio-42.html`.
+- **Integrity:** SHA-256 `477a8ae76ddd8bcbe25e48bc24e845f4737a06601153a3b3ed0183f16036c3ea`.
+- **Rights/storage:** Public-domain translation retained for research verification.
+- **Notes:** Reports storehouses of grain and books burning during Caesar's fighting at Alexandria.
+
+### `openlearn-alexandria-library-loss`
+
+- **Citation:** Open University, “The Library of Alexandria,” §3, “The End of the Library.”
+- **Source type:** University educational synthesis.
+- **Canonical locator:** Section 3.
+- **Digital URL:** https://www.open.edu/openlearn/history-the-arts/library-alexandria/content-section-3/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-04.
+- **Local record:** Not retained; the server rejected automated capture.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact university URL retained for research verification.
+- **Notes:** Separates Caesar's fire from later losses at the Serapeum and the effects of prolonged neglect. Supports the narrower manuscript wording that written collections burned rather than a single-event account of the entire library's disappearance.
+
+### `bukhari-4987-uthman-copies`
+
+- **Citation:** *Ṣaḥīḥ al-Bukhārī*, Kitāb Faḍāʾil al-Qurʾān, hadith 4987.
+- **Source type:** Primary traditional-text web presentation.
+- **Canonical locator:** Book 66, hadith 9; Arabic reference 4987.
+- **Digital URL:** https://sunnah.com/bukhari:4987
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-04.
+- **Local record:** Not retained; the server rejected automated capture.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact primary-text URL retained for research verification.
+- **Notes:** Records that ʿUthmān appointed a committee to prepare copies, sent those copies to the provinces, and ordered the other Qur'anic materials burned, including fragments and complete manuscripts.

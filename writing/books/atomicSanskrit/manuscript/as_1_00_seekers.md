@@ -94,6 +94,12 @@ Why is this invariance important?
 
 Sanskrit's invariance allows a student who learns the language today to understand compositions created thousands of years ago. Prakrit languages changed as their speakers used them, so later readers must learn their older forms separately. English has changed so much in only a few centuries that modern readers often need explanatory notes to understand Shakespeare.
 
+That continuity serves a larger civilizational purpose. The Vedas carry the memory of destructive orders, the actions through which people confronted them, and the principles that guided those actions. Sanskrit had to remain invariant so that later generations could understand those accounts without surrendering their meaning to an authorized interpreter. Section 0.7 explains this need through सत् (*sat*) and असत् (*asat*): असत् (*asat*) can return without memory, while सत् (*sat*) requires a long memory of how असत् (*asat*) was recognized and defeated.
+
+For that reason, the Hindu continuum did not trust लिपि (*lipi*) with this task. Writing is useful. It is not reliable enough to carry an invariant calibrant by itself. Every written copy depends upon a physical object that can decay, burn, be altered, or fall under the control of an authority. The written forms also change as writing tools and technologies change. The Vedic architecture instead carried its calibrant through exact sound and memory distributed across society. Chapter 13 §13.3 explains why लिपि (*lipi*) could support that architecture but could not become its primary medium.
+
+The mere fact that this book can examine those ideas in their original Sanskrit thousands of years later is evidence that the architecture succeeded.
+
 Sanskrit preserves that continuity without restricting new expression. Its highly generative architecture can produce millions of words. Chapter 9 explains the sound architecture that supports this continuity, and Chapter 16 brings the two-domain design together.
 
 ![Figure 0.1 — The three streams. संस्कृत (*Saṃskṛta*), the wholly created language, has two domains. The वैदिक (*vaidika*) keeps language and received content invariant. The लौकिक (*laukika*) keeps the language invariant while permitting new composition. Beside them, प्राकृतिक (*prākṛtika*) flows as the changing natural speech of daily life. The figure compares their responsibilities; it does not place them in a chronological sequence.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}

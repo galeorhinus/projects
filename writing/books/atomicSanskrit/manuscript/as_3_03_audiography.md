@@ -122,6 +122,8 @@ The same survival bias appears elsewhere in Hammurabi's stele, Darius's Behistun
 
 A distributed civilization leaves much of its writing on perishable material. Teaching aids and accounts may be written on palm leaf, birch bark, wood, or cloth. The Indian climate destroys such material far more readily than stone. The absence of ordinary notes cannot establish that ordinary writing never existed. It shows which media survived.
 
+The medium can also change the mark. Writing tools and surfaces exert pressure on letterforms. Marks cut into stone do not have to retain the same shapes when scribes move writing to palm leaf or paper. Printing fixes another set of conventions. Digital fonts and rendering engines can display the same encoded sequence through different glyph forms. Brāhmī and its descendants therefore show the visible interface changing while the sound architecture remains recognizable.[NOTE: brahmi-devanagari-structural-identity]
+
 लिपि (*Lipi*) was never the civilizational calibrant. The calibrant was sound. The वर्णमाला (*varṇamālā*) and the disciplines of **प्रातिशाख्य (*Prātiśākhya*)**, **शिक्षा (*Śikṣā*)**, **छन्दस् (*Chandas*)**, and **व्याकरणम् (*Vyākaraṇam*)** specified that sound. The eleven **पाठाः (*pāṭhāḥ*)** and teacher-student transmission preserved it. Writing could serve the system without becoming its primary archive.
 
 The first durable Brāhmī inscription dates the surviving interface. It does not date the वर्णमाला (*varṇamālā*), the mapping of the mouth, the isolation of the वर्ण (*varṇa*) as sonomer, or the recognition of the अक्षर (*akṣara*) as an imperishable sound-unit.
@@ -144,7 +146,7 @@ The वर्णमाला (*varṇamālā*), rendered through Brāhmī and it
 
 The church of progress has never coined the parallel term. There is no standard reference entry for *audiography* in this sense. The achievement remains unnamed in its vocabulary.
 
-This book calls that visual system ***Audiography***. The word combines Latin *audi-* (hear) with Greek *-graphia* (writing), following the same hybrid pattern as *television* or *automobile*. Audiography renders in writing the articulated sound architecture specified by the वर्णमाला (*varṇamālā*). Brāhmī, Devanāgarī, and other Indic scripts are implementations of that system.
+Chapter 13 introduced the name ***Audiography*** for that visual system. The word combines Latin *audi-* (hear) with Greek *-graphia* (writing), following the same hybrid pattern as *television* or *automobile*. Audiography renders in writing the articulated sound architecture specified by the वर्णमाला (*varṇamālā*). Brāhmī, Devanāgarī, and other Indic scripts are implementations of that system.
 
 The prior coinage is ***sonomer***: the measured sound-particle, Sanskrit's वर्ण (*varṇa*), isolated before writing begins. An ***audiograph*** is the written form through which लिपि (*lipi*) renders one अक्षर (*akṣara*).
 

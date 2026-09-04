@@ -1,0 +1,317 @@
+<!doctype html>
+
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<meta content="initial-scale=1.0" name="viewport">
+<meta name="keywords" content="Fonts, Keyboards">
+<meta name="description" content="Indic Scripts and Languages">
+<title>FAQ - Indic Scripts and Languages</title>
+<link rel="stylesheet" href="https://www.unicode.org/webscripts/standard_styles.css">
+<link rel="stylesheet" href="faq_styles_5.css">
+</head>
+
+<body>
+<!-- BEGIN HEADER BAR -->
+  <header>
+    <nav>
+      <a href="https://www.unicode.org/main.html">Tech Site</a>
+      | <a href="https://www.unicode.org/sitemap/">Site Map</a> |
+      <a href="https://www.unicode.org/search">Search</a>
+    </nav>
+
+    <div id="headercore">
+      <a href="https://www.unicode.org/"><img width="34" height="33" src="images/logo34x33.svg" alt="Unicode"></a>
+      <a href="index.html">Frequently Asked Questions</a>
+    </div>
+  </header>
+<!-- END HEADER BAR -->
+
+
+<!-- BEGIN CONTENTS -->
+<main>
+
+<h1>Indic Scripts and Languages</h1>
+
+<nav class="faqtoc">
+</nav>
+
+<p class="q"  id="0">Q: What are Indic scripts?</p>
+
+<p>Indic scripts in the narrow sense are the nine major Brahmi-derived scripts of India. In a wider sense, the term can cover all Brahmic scripts and Kharoshthi. For example, the file <code>IndicSyllabicCategory.txt</code> in the <a href="https://www.unicode.org/reports/tr44/">Unicode Character Database</a> contains data on Brahmi and Brahmi-derived scripts in the wider sense. Sometimes, you may also hear the term <em>Neo-Brahmi. </em>When the Unicode Standard refers to &quot;Indic scripts&quot; it uses the term in the wider sense.</p>
+
+<p>There is not a one-to-one relation between Indic scripts and languages. Scripts are typically used to write multiple languages, and many languages are written in multiple scripts. Unicode encodes characters based on scripts.</p>
+
+<p class="q" id="5">Q: How do the Indic scripts work in Unicode?</p>
+
+<p>See Chapter 12, <i><a href="https://www.unicode.org/versions/latest/core-spec/#G12281">South and Central Asian Scripts-I</a></i> in <em>The Unicode Standard</em>.</p>
+
+<p>Particularly relevant is the section on Devanagari, which is a detailed description not only of the Devanagari script but also outlines the model used for all similarly structured scripts in the standard. This model is the based on the <a class="glossarylink" href="https://www.unicode.org/glossary/#ISCII">ISCII</a> model and requires a coordination between layout engines and <a class="glossarylink" href="https://www.unicode.org/glossary/#font">fonts</a>.</p>
+
+<p>Information about the OpenType and Uniscribe formats can be found in the excellent article <a href="http://www.microsoft.com/typography/developers/opentype/default.htm"><i>Windows Glyph Processing</i><img src="https://www.unicode.org/img/external_link.png" alt="external link"></a> by John Hudson. <a href="attribution.html#AJ">[AJ]</a></p>
+
+<p class="q" id="1">Q: What is ISCII?</p>
+
+<p>Indian Standard Code for Information Interchange (<a class="glossarylink" href="https://www.unicode.org/glossary/#ISCII">ISCII</a>) is the character code for Indian scripts that originate from the Brahmi script. ISCII was evolved by a standardization committee under the Department of Electronics during 1986-88, and adopted by the Bureau of Indian Standards (BIS) in 1991. Unlike Unicode, ISCII is an 8-bit encoding that uses <a class="glossarylink" href="https://www.unicode.org/glossary/#escape_sequence">escape sequences</a> to announce the particular Indic script represented by a following <a class="glossarylink" href="https://www.unicode.org/glossary/#coded_character_sequence">coded character sequence</a>. The ISCII document is IS13194:1991, available from the BIS offices.</p>
+
+<p class="q" id="2">Q: How does Unicode differ from ISCII?</p>
+
+<p>Except for a few minor differences, each script encoded in <a class="glossarylink" href="https://www.unicode.org/glossary/#ISCII">ISCII</a> corresponds directly to a <a class="glossarylink" href="https://www.unicode.org/glossary/#block">block</a> range in Unicode. However, having been designed as a multilingual encoding, Unicode needs no <a class="glossarylink" href="https://www.unicode.org/glossary/#escape_sequence">escape sequences</a> or switching between scripts. For any given Indic script, the consonant and vowel letter codes of Unicode are based on ISCII. ISCII allowed control over character formation by combining letters with the characters NUKTA, INV, and <a class="glossarylink" href="https://www.unicode.org/glossary/#halant">HALANT</a>. Unicode provides similar control with the <a class="glossarylink" href="https://www.unicode.org/glossary/#zwj">ZWJ</a> and <a class="glossarylink" href="https://www.unicode.org/glossary/#zwnj">ZWNJ</a> characters.</p>
+
+<p>The prototypical example is the &quot;explicit halant&quot;:</p>
+ 
+        <table class="faq center">
+          <tbody>
+            <tr>
+              <th>ISCII:</th>
+              <td>Halant + Halant</td>
+            </tr>
+            <tr>
+              <th>Unicode:</th>
+              <td>Halant + ZWNJ</td>
+            </tr>
+          </tbody>
+        </table>
+
+<p>The &quot;soft halant&quot; of ISCII is expressed:</p>
+
+        <table class="faq center">
+          <tbody>
+            <tr>
+              <th>ISCII:</th>
+              <td>Halant + Nukta</td>
+            </tr>
+            <tr>
+              <th>Unicode:</th>
+              <td>Halant + ZWJ</td>
+            </tr>
+          </tbody>
+        </table>
+
+<p>The &quot;explicit halant&quot; is discussed in the ISCII standard, section 6.3.1 and &quot;soft halant&quot; is discussed in 6.3.2.</p>
+
+<p>There are several categories of such differences. See also <i>Chapter 12, <a href="https://www.unicode.org/versions/latest/core-spec/#G12281">South and Central Asian Scripts-I</a></i> in <em>The Unicode Standard</em> for details. Unicode also includes the right side &quot;pieces&quot; of some two-part <a class="glossarylink" href="https://www.unicode.org/glossary/#vowel_sign">vowel signs</a> for <a class="glossarylink" href="https://www.unicode.org/glossary/#compatibility">compatibility</a> with some software.</p>
+
+<p>The ISCII Attribute code (ATR) is not represented in the Unicode Standard, which is a <a class="glossarylink" href="https://www.unicode.org/glossary/#plain_text">plain text</a> standard. The ISCII Attribute code is intended to explicitly define a <a class="glossarylink" href="https://www.unicode.org/glossary/#font">font</a> attribute applicable to following characters, and thus represents an embedded control for the kinds of font and style information which is not carried in a plain text encoding.</p>
+
+<p>The ISCII Extension code (EXT) is also not represented directly in the Unicode Standard. The Extension code is an escape mechanism, allowing the 8-bit ISCII standard to define an extended <a class="glossarylink" href="https://www.unicode.org/glossary/#repertoire">repertoire</a> via an escaped reencoding of certain <a class="glossarylink" href="https://www.unicode.org/glossary/#byte">byte</a> values. Such a mechanism is not required in the Unicode Standard, which simply uses additional <a class="glossarylink" href="https://www.unicode.org/glossary/#code_point">code points</a> to encode any additional <a class="glossarylink" href="https://www.unicode.org/glossary/#character_repertoire">character repertoire</a>.</p>
+
+<p class="q" id="3a">Q: How does the use of <em>nukta</em> differ in Unicode?</p>
+
+<p>There are four uses of <em>nukta</em> in <a class="glossarylink" href="https://www.unicode.org/glossary/#ISCII">ISCII</a>. Unicode doesn't use nukta for soft <a class="glossarylink" href="https://www.unicode.org/glossary/#halant">halant</a> and also doesn't use it for code extension. However, Unicode does use <em>nukta</em> to represent the nukta <a class="glossarylink" href="https://www.unicode.org/glossary/#diacritic">diacritic</a> either in cases such as &quot;ka&quot; U+0958 or cases like &quot;nnna&quot; U+0929. Unicode doesn't use <em>nukta</em> for the &quot;om&quot; character (eg. <em>candrabindu</em> + <em>nukta</em> in ISCII, which is encoded as a separate character in Unicode).</p>
+
+<p class="q" id="3">Q: What are the Unicode equivalents for combinations that use the &quot;invisible letter&quot; (INV) in ISCII?</p>
+
+<p>When the INV is used in <a class="glossarylink" href="https://www.unicode.org/glossary/#ISCII">ISCII</a> as a base letter, this may be expressed with a space or no-break space in Unicode. The choice depends on whether it is used as a &quot;word-like&quot; character or not:</p>
+
+      <table class="faq center">
+        <tr>
+          <th>ISCII</th>
+          <th>Unicode</th>
+        </tr>
+        <tr>
+          <td>INV + vowel-sign</td>
+          <td>SPACE + vowel-sign</td>
+        </tr>
+        <tr>
+          <td>INV + vowel-sign</td>
+          <td>NBSP + vowel-sign</td>
+        </tr>
+      </table>
+
+<p class="q" id="4">Q: Is India involved in Unicode?</p>
+
+<p>The Government of India has participated as a member of the <a class="glossarylink" href="https://www.unicode.org/glossary/#unicode_consortium">Unicode Consortium</a> for over two decades, and has been engaged in a dialogue with the UTC about additional characters in the Indic scripts and improvements to the textual descriptions and <a class="glossarylink" href="https://www.unicode.org/glossary/#annotation">annotations</a>.</p>
+
+<p class="q" id="6">Q: How does Unicode cover Vedic accents?</p>
+
+<p>Characters used to indicate tone in Vedic Sanskrit appear in the Devanagari Extended <a class="glossarylink" href="https://www.unicode.org/glossary/#block">block</a>, the Vedic Extensions block, and the Devanagari block. A brief overview is given in the Devanagari Extended and Vedic Extensions block introductions in Chapter 12, <i><a href="https://www.unicode.org/versions/latest/core-spec/#G12281">South and Central Asian Scripts-I</a></i> in <em>The Unicode Standard</em>.</p>
+
+<p class="q" id="7">Q: What is the difference between Unicode fonts and other fonts?</p>
+
+<p>See the <a href="https://www.unicode.org/faq/font_keyboard.html">Font FAQ</a> for a general description of &quot;What is a Unicode <a class="glossarylink" href="https://www.unicode.org/glossary/#font">Font</a>&quot;. The font would need to contain a <a class="glossarylink" href="https://www.unicode.org/glossary/#glyph">glyph</a> for each allocated <a class="glossarylink" href="https://www.unicode.org/glossary/#code_point">code point</a> of the script. For example, Gujarati would contain glyphs for the allocated code points in the range: U+0A80 - U+0AFF. In addition to these, the font should have:</p>
+
+      <ul style="list-style:none">
+        <li>(a) glyphs for conjuncts;</li>
+        <li>(b) variants for <a class="glossarylink" href="https://www.unicode.org/glossary/#vowel_sign">vowel signs</a> (<a class="glossarylink" href="https://www.unicode.org/glossary/#matra">matras</a>), vowel modifiers (<em>candrabindu</em>, <em>anusvara</em>), the consonant modifier (<em>nukta</em>); </li>
+        <li>(c) <a class="glossarylink" href="https://www.unicode.org/glossary/#digits">digits</a> and any appropriate punctuation marks, including some from the Latin ranges.</li>
+      </ul>
+
+<p>The contents of (a) and (b) depend not only on the typographical quality the font is intended to achieve but also whether the font is limited to  contemporary use or also includes glyphs used in traditional formats.</p>
+
+<p>The contents of (a) and (b) can be implemented by providing a Glyph Substitution table in the font. Such a table is more often than not a necessity for Indic scripts. A Glyph Positioning table is also needed for achieving the minimal required mark positioning in such scripts. More information on these issues is contained in the <a href="https://docs.microsoft.com/en-us/typography/opentype/spec/"><i>OpenType Specification</i><img src="https://www.unicode.org/img/external_link.png" alt="external link"></a>.</p>
+
+<p>There is also a specification for <i><a href="https://docs.microsoft.com/en-us/typography/script-development/devanagari">Developing OpenType Fonts for the Devanagari Script<img src="https://www.unicode.org/img/external_link.png" alt="external link"></a></i>, as well as the other Indic scripts. <a href="attribution.html#AJ">[AJ]</a></p>
+
+<p class="q" id="9">Q:Where can I find Unicode fonts for Indic scripts?</p>
+
+<p>Google has created a series of <a href="https://fonts.google.com/noto">Noto<img src="https://www.unicode.org/img/external_link.png" alt="external link"></a> <a class="glossarylink" href="https://www.unicode.org/glossary/#font">fonts</a> covering the Indic Scripts. They are available for download.</p>
+
+<p>Microsoft has made several OpenType Indic script fonts:</p>
+
+    <blockquote>
+      <p>Nirmala UI (all Indic scripts)</p>
+      <p>Latha - Tamil<br>
+        Mangal (Devanagari)<br>
+        Raavi (Gurmukhi and Devanagari)<br>
+        Shruti (Gujarati and Devanagari)<br>
+        Tunga (Kannada and Devanagari)
+      </p>
+    </blockquote>
+
+<p>Microsoft Windows supplies a number of fonts for Indic scripts. They are listed in the <a href="https://docs.microsoft.com/en-us/typography/fonts/windows_11_font_list">Windows 11 Font List<img src="https://www.unicode.org/img/external_link.png" alt="external link"></a>. Information for earlier versions can be accessed from there.</p>
+
+<p>The Indic fonts shipped with Apple's products support Indic scripts using the Unicode encoding.</p>
+
+<p>There are also many other small development teams creating Indic fonts. Many of them are listed on <a href="http://www.alanwood.net/unicode/fonts.html">Alan Wood's Unicode Fonts page<img src="https://www.unicode.org/img/external_link.png" alt="external link"></a>.</p>
+
+<p class="q" id="11">Q: Do I need an IME to properly input Indic script languages?</p>
+
+<p>Indic languages can be input via a traditional keyboard, with a proper keyboard mapping. The work then falls to the <a class="glossarylink" href="https://www.unicode.org/glossary/#rendering">rendering</a> engine to display the characters in their proper order and shape.<a href="attribution.html#CW">[CW]</a></p>
+
+<p class="q" id="12">Q: Is the keyboard arrangement in a Unicode system different from that of the regular &quot;TTF&quot; fonts?</p>
+
+<p>Keyboarding questions are separate from the questions of encoding. Some of the keyboards provided with Windows can been seen on Microsoft's <a href="https://docs.microsoft.com/en-us/globalization/windows-keyboard-layouts">Windows Keyboard Layout website<img src="https://www.unicode.org/img/external_link.png" alt="external link"></a>. <a href="attribution.html#AJ">[AJ]</a></p>
+
+<p class="q" id="13">Q: Where can I find information about Tamil?</p>
+
+<p>See the <a href="https://www.unicode.org/faq/tamil.html">Tamil FAQ</a>.</p>
+
+<p class="q" id="14">Q: Where can I find information about Bengali (Bangla) or Assamese?</p>
+
+<p>See the <a href="https://www.unicode.org/faq/bengali.html">Bengali (Bangla) / Assamese Script FAQ</a>.</p>
+
+<p class="q" id="16">Q: How do I collate Indic language data?</p>
+
+<p><a class="glossarylink" href="https://www.unicode.org/glossary/#collation">Collation</a> order is not the same as <a class="glossarylink" href="https://www.unicode.org/glossary/#code_point">code point</a> order. A good treatment of some issues specific to collation in Indic languages can be found in the paper <i><a href="https://www.unicode.org/notes/tn1/">Issues in Indic Language Collation</a></i> by Cathy Wissink.</p>
+
+<p>Collation in general must proceed at the level of language or language variant, not at the script or code point levels. See also <a href="https://www.unicode.org/reports/tr10/"><i>UTS #10, Unicode Collation Algorithm</i></a>. Some Indic-specific issues are also discussed in that report.</p>
+      
+<p class="q" id="17">Q: Where can I find the &quot;half forms&quot; of Devanagari letters (or any other Indic script) in the Unicode code charts?</p>
+
+<p>Half forms are needed to form words such as &quot;patni&quot;. Unicode does not directly encode half or subjoined letters for the scripts of India. Like in the <a class="glossarylink" href="https://www.unicode.org/glossary/#ISCII">ISCII</a> standard, Unicode forms all &quot;consonant clusters&quot; (such as the &quot;tn&quot; in &quot;patni&quot;) by inserting the character <em><a class="glossarylink" href="https://www.unicode.org/glossary/#virama">virama</a></em> (or <em><a class="glossarylink" href="https://www.unicode.org/glossary/#halant">halant</a></em>) between the two relevant consonant letters. For instance, the Devanagari <a class="glossarylink" href="https://www.unicode.org/glossary/#syllable">syllable</a> &quot;tna&quot; (&quot;<img alt="ligature tna" src="images/dev-tna-ligature.gif" style="width:18px; height:21px; vertical-align:middle;">&quot;) is encoded with the following <a class="glossarylink" href="https://www.unicode.org/glossary/#code_point">code points</a>:</p>
+
+        <table class="faq noborder center">
+          <tr>
+            <td>U+0924</td>
+            <td>&#x0924;</td>
+            <td><span class="name">DEVANAGARI LETTER TA</span></td>
+          </tr>
+          <tr>
+            <td>U+094D</td>
+            <td>&#x25CC;&#x094D;</td>
+            <td><span class="name">DEVANAGARI SIGN VIRAMA</span> (= <em>halant</em>)</td>
+          </tr>
+          <tr>
+            <td>U+0928</td>
+            <td>&#x0928;</td>
+            <td><span class="name">DEVANAGARI LETTER NA</span></td>
+          </tr>
+        </table>
+
+<p>These three characters will sometimes be displayed using the single <a class="glossarylink" href="https://www.unicode.org/glossary/#glyph">glyph</a> <i>tna&nbsp;ligature</i> &quot;<img src="images/dev-tna-ligature.gif" style="width:20px; height:21px; vertical-align:middle;" alt="dev-tna-ligature">&quot;. But it is also possible that they are displayed using a <i>half ta</i> glyph followed by a <i>full na</i> glyph &quot;<img src="images/dev-half-ta-na.gif" style="width:26px; height:23px; vertical-align:middle;" alt="dev-half-ta-na">&quot;.</p>
+
+<p>Which form will be actually displayed is the decision of an underlying software module called a &quot;display engine&quot;, which bases this decision on the availability of glyphs in the <a class="glossarylink" href="https://www.unicode.org/glossary/#font">font</a>.</p>
+
+<p>If the sequence &lt;U+0924, U+094D&gt; is not followed by another consonant letter (such as &quot;na&quot;) it is always displayed as a <i>full ta</i> glyph combined with the <i>virama</i> glyph &quot;<img src="images/dev-ta-virama.gif" style="width:16px; height:24px; vertical-align:middle;" alt="dev-ta-virama">&quot;.</p>
+
+<p>Unicode provides a way to force the display engine to show a half letter form. To do this, an invisible character called <span class="name">ZERO WIDTH JOINER</span> should be inserted after the virama:</p>
+
+        <table class="faq noborder center">
+          <tr>
+            <td>U+0924</td>
+            <td>&#x0924;</td>
+            <td><span class="name">DEVANAGARI LETTER TA</span></td>
+          </tr>
+          <tr>
+            <td>U+094D</td>
+            <td>&#x25CC;&#x094D;</td>
+            <td><span class="name">DEVANAGARI SIGN VIRAMA</span> (= <em>halant</em>)</td>
+          </tr>
+          <tr>
+            <td>U+200D</td>
+            <td><img alt="200D" 
+            src="https://www.unicode.org/cgi-bin/refglyph?24-200D"></td>
+            <td><span class="name">ZERO WIDTH JOINER</span></td>
+          </tr>
+          <tr>
+            <td>U+0928</td>
+            <td>&#x0928;</td>
+            <td><span class="name">DEVANAGARI LETTER NA</span></td>
+          </tr>
+        </table>
+
+<p>This sequence is always displayed as a <i>half ta</i> glyph followed by a <i>full na</i> glyph &quot;<img src="images/dev-half-ta-na.gif" style="width:26px; height:23px; vertical-align:middle;" alt="dev-half-ta-na">&quot;. Even if the consonant &quot;na&quot; is not present, the sequence &lt;U+0924, U+094D, U+200D&gt; is displayed as a <i>half ta</i> glyph &quot;<img src="images/dev-half-ta.gif" style="width:12px; height:23px; vertical-align:middle;" alt="dev-half-ta">&quot;.</p>
+
+<p>Unicode also provides a way to force the display engine to show the <i>virama</i> glyph. To do this, an invisible character called <span class="name">ZERO WIDTH NON-JOINER</span> should be inserted after the virama:</p>
+
+        <table class="faq noborder center">
+          <tr>
+            <td>U+0924</td>
+            <td>&#x0924;</td>
+            <td><span class="name">DEVANAGARI LETTER TA</span></td>
+          </tr>
+          <tr>
+            <td>U+094D</td>
+            <td>&#x25CC;&#x094D;</td>
+            <td><span class="name">DEVANAGARI SIGN VIRAMA</span> (= <em>halant</em>)</td>
+          </tr>
+          <tr>
+            <td>U+200C</td>
+            <td><img alt="200C" 
+            src="https://www.unicode.org/cgi-bin/refglyph?24-200C"></td>
+            <td><span class="name">ZERO WIDTH NON-JOINER</span></td>
+          </tr>
+          <tr>
+            <td>U+0928</td>
+            <td>&#x0928;</td>
+            <td><span class="name">DEVANAGARI LETTER NA</span></td>
+          </tr>
+        </table>
+
+<p>This sequence is always displayed as a <i>full ta</i> glyph combined with a <i>virama</i> glyph and followed by a <i>full na</i> glyph &quot;<img src="images/dev-full-ta-virama-full-na.gif" style="width:30px;height:25px; vertical-align:middle;" alt="dev-full-ta-virama-full-na">&quot;</p>
+
+<p>For more detailed information, see Chapter 12, <i><a href="https://www.unicode.org/versions/latest/core-spec/#G12281">South and Central Asian Scripts-I</a></i> in <em>The Unicode Standard</em>. For related issues, see &quot;<a href="https://www.unicode.org/standard/where/">Where is My Character?</a>&quot;<a href="attribution.html#MC">[MC]</a></p>
+  
+<p class="q" id="21">Q: Can you rename the character called <span class="name">VIRAMA</span> in my script to <span class="name">HALANT</span>?</p>
+
+<p>In the Unicode Standard, the sign indicating the absence of an <a class="glossarylink" href="https://www.unicode.org/glossary/#inherent_vowel">inherent vowel</a> in Indic scripts is denoted by the Sanskrit word <em><a class="glossarylink" href="https://www.unicode.org/glossary/#virama">virama</a></em>. In the particular languages another designation is often preferred. In Hindi, for example, the word <em>hal</em> refers to the character itself, and <em><a class="glossarylink" href="https://www.unicode.org/glossary/#halant">halant</a></em> refers to the consonant that has its inherent vowel suppressed; in Tamil, the word <em>pulli</em> is used; in Bangla, the word <em><a class="glossarylink" href="https://www.unicode.org/glossary/#hasant">hasant</a></em> is used, and so on.</p>
+
+<p>The <a href="https://www.unicode.org/policies/stability_policy.html#Name">Unicode stability policies</a> prevent <a class="glossarylink" href="https://www.unicode.org/glossary/#character_name">character names</a> from being changed. However, the code charts and character descriptions often contain <a class="glossarylink" href="https://www.unicode.org/glossary/#annotation">annotations</a> showing the preferred name, such as:</p>
+	
+	<table class="faq noborder center">
+		<tr>
+			<td colspan="2">094D <span class="name">DEVANAGARI SIGN VIRAMA</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td>= halant (the preferred Hindi name)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&#x2022; suppresses inherent vowel</td>
+		</tr>
+	</table>
+
+<p class="q" id="22">Q: Why do <span class="name">KANNADA VOWEL SIGN I</span> (U+0CBF) and <span class="name">KANNADA VOWEL SIGN E</span> (U+0CC6) seem to have inconsistent character properties?.</p>
+
+<p>These <a class="glossarylink" href="https://www.unicode.org/glossary/#vowel_sign">vowel signs</a> have <a class="glossarylink" href="https://www.unicode.org/glossary/#general_category">General Category</a> Nonspacing_Mark (Mn) and Bidi_Class Left (L) even though <a class="glossarylink" href="https://www.unicode.org/glossary/#uax">UAX</a> #9 says that all Mn category characters are Bidi_Class Nonspacing_Mark (<a class="glossarylink" href="https://www.unicode.org/glossary/#NSM">NSM</a>). This was an explicit decision by UTC for these characters, to preserve <a class="glossarylink" href="https://www.unicode.org/glossary/#canonical_equivalence">canonical equivalence</a> under the <a class="glossarylink" href="https://www.unicode.org/glossary/#unicode_bidi_algorithm">Unicode Bidirectional Algorithm</a> (<a class="glossarylink" href="https://www.unicode.org/glossary/#uba">UBA</a>) for two vowels involving these as parts of <a class="glossarylink" href="https://www.unicode.org/glossary/#decomposition">decompositions</a>.</p>
+
+<p>The UBA is designed to maintain canonical equivalence. Normally all of the <a class="glossarylink" href="https://www.unicode.org/glossary/#combining_character">combining characters</a> have the Bidi_Class NSM, but when combining characters would cause problems, that value may be changed to a value which helps to maintain canonical equivalence.</p>
+
+<p class="q" id="23">Q: How are the Sindhi implosives represented?</p>
+
+<p>The characters U+097B <span class="name">DEVANAGARI LETTER GGA</span>, U+097C <span class="name">DEVANAGARI LETTER JJA</span>, U+097E <span class="name">DEVANAGARI LETTER DDDA</span>, and U+097F <span class="name">DEVANAGARI LETTER BBA</span> are used to write Sindhi implosive consonants. Versions of the Unicode Standard prior to Version 5.0 recommended the representation of Sindhi implosive consonants by sequences of the plain consonant letters followed by <i>anudatta</i> (or by <i>nukta</i>). Such sequences are no longer recommended. <a href="attribution.html#EM">[EM]</a></p>
+
+</main> 
+<!-- END CONTENTS -->
+
+<footer>
+      <hr>
+      <div><a href="https://www.unicode.org/copyright.html">
+        <img src="https://www.unicode.org/img/hb_notice.gif" 
+              alt="Access to Copyright and terms of use"></a></div>
+</footer>
+<script src="toc.js" ></script>
+</body>
+</html>
