@@ -803,13 +803,18 @@ Sources: Frank N. Laird, [“The ‘Save the Earth!’ Narrative Creates a Narra
 
 ### `brahmi-devanagari-structural-identity`
 
-**Short:** ब्राह्मी (*Brāhmī*) and देवनागरी (*Devanāgarī*) are different scripts that implement the same broad Indic encoding principle: consonants carry an inherent vowel, dependent signs replace it, a विराम (*virāma*) suppresses it, and conjuncts render consonant combinations. ब्राह्मी (*Brāhmī*) is an ancestor of देवनागरी (*Devanāgarī*), not a surface variant of it. Aramaic can supply a possible graphic precedent without supplying this Indic encoding architecture.
+<!-- SOURCE-RECORDS
+- unicode-standard-chapter-14-brahmi | Brāhmī structure, signs, and relation to later Indic scripts
+- unicode-standard-chapter-12-indic | shared encoding features of modern Indic scripts
+-->
+
+**Short:** ब्राह्मी (*Brāhmī*) and देवनागरी (*Devanāgarī*) are different scripts within the same historical family. In the general Sanskrit-facing Brāhmī system, consonants carry an inherent vowel, dependent signs replace it, a विराम (*virāma*) suppresses it, and conjuncts render consonant combinations. Regional adaptations can alter that implementation. Aramaic can supply a possible graphic precedent without supplying this Indic encoding architecture.
 
 **Deployments:** Appendix Part 3 §3.4 — supports the distinction between possible glyph transmission and the Indic encoding architecture Brāhmī carries.
 
 ब्राह्मी (*Brāhmī*) and देवनागरी (*Devanāgarī*) belong to one historical script family, but they are not identical. Their shared encoding principle includes:
 
-- **Abugida structure.** Each consonant glyph contains an inherent /a/; other vowels attach as positional modifications (diacritics) of the consonant glyph rather than as independent letters. Vowels written initially (without an accompanying consonant) have their own standalone glyphs.
+- **Abugida structure.** In the general Sanskrit-facing Brāhmī system, each consonant glyph contains an inherent /a/; other vowels attach as positional modifications of the consonant glyph rather than as independent letters. Vowels written initially have standalone glyphs. Some regional adaptations differ: Tamil-Brāhmī, for example, developed a mode in which an unmarked consonant could represent the consonant without an inherent vowel.
 - **Sanskrit sound distinctions.** ब्राह्मी (*Brāhmī*) provides signs for the stop distinctions carried by the Sanskrit वर्णमाला (*varṇamālā*), independent vowels and dependent vowel signs, and signs including अनुस्वार (*anusvāra*) and विसर्ग (*visarga*). देवनागरी (*Devanāgarī*) inherits and extends this historical system.
 - **The स्थान (*sthāna*) and प्रयत्न (*prayatna*) inventory.** When the scripts are taught through the Sanskrit वर्णमाला (*varṇamālā*), their consonant signs follow the language's order by place and effort. The organizing principle belongs to the sound inventory rather than to the visual shapes themselves.
 - **Conjunct formation.** Consonant clusters form ligatures combining the constituent consonants, with the inherent /a/ suppressed on the non-final members.
@@ -833,6 +838,11 @@ Source: Unicode Consortium, [*The Unicode Standard*, Chapter 14, “Brāhmī”]
 
 ### `durable-script-archive-selection`
 
+<!-- SOURCE-RECORDS
+- salomon-indian-epigraphy-1998 | inscription types, media, and epigraphic method
+- asi-bharatshri-about-epigraphy | official overview of the Indian epigraphic archive
+-->
+
 **Short:** The surviving Brāhmī archive includes royal proclamations, public and donative inscriptions, seals, coins, cave records, graffiti, and marks on pottery. Durable media preserve monumental authority especially well, but they do not preserve only apex speech. The archaeological record dates surviving inscriptions; it does not date the prior sound architecture those scripts render.
 
 **Deployments:** Appendix Part 3 §3.6 — supports the distinction between the durable epigraphic record and the origin of the Sanskrit sound-and-script architecture.
@@ -847,6 +857,11 @@ Sources: Richard Salomon, [*Indian Epigraphy: A Guide to the Study of Inscriptio
 
 ### `daniels-abjad-abugida-typology`
 
+<!-- SOURCE-RECORDS
+- daniels-fundamentals-grammatology-1990 | introduction and definition of abjad and abugida
+- unicode-standard-chapter-14-brahmi | Unicode's application of abugida to Brāhmī
+-->
+
 **Short:** Peter T. Daniels introduced *abjad* and *abugida* as script-type names in “Fundamentals of Grammatology” (1990). *Abugida* derives from the first four signs of the Ethiopic script in Semitic order and denotes a system in which consonant signs carry an inherent vowel that other marks modify or suppress.
 
 **Deployments:** Appendix Part 3 §3.7 — supports the history and defined scope of the term *abugida*; §3.10 — supplies a standard history-of-writing reference for the corridor sequence the appendix contests.
@@ -855,7 +870,7 @@ Daniels coined *abjad* for consonant-centred writing systems and *abugida* for s
 
 Daniels and William Bright's *The World's Writing Systems* also exemplifies the standard history-of-writing sequence through ancient Near-Eastern systems, West Semitic scripts, Greek, and later alphabets before treating the scripts of the Indian subcontinent. The source supports the existence of that conventional organization. The appendix's claim that the sequence serves a foundational civilizational dogma is the book's analysis.
 
-Sources: Peter T. Daniels, “Fundamentals of Grammatology,” *Journal of the American Oriental Society* 110, no. 4 (1990): 727–731; Peter T. Daniels and William Bright, eds., *The World's Writing Systems* (Oxford University Press, 1996); Unicode Consortium, [Glossary, “Abugida”](https://unicode.org/glossary/), and [*The Unicode Standard*, Chapter 6, “Writing Systems”](https://www.unicode.org/versions/latest/ch06.pdf).
+Sources: Peter T. Daniels, [“Fundamentals of Grammatology”](https://doi.org/10.2307/602899), *Journal of the American Oriental Society* 110, no. 4 (1990): 727–731; Peter T. Daniels and William Bright, eds., *The World's Writing Systems* (Oxford University Press, 1996); Unicode Consortium, [Glossary, “Abugida”](https://unicode.org/glossary/), and [*The Unicode Standard*, Chapter 6, “Writing Systems”](https://www.unicode.org/versions/latest/ch06.pdf).
 
 ---
 
@@ -964,6 +979,11 @@ Sources: Albrecht Weber, [*"On the Rāmāyaṇa"*](https://www.wisdomlib.org/his
 
 ### `indo-european-narrative-inheritance`
 
+<!-- SOURCE-RECORDS
+- west-indo-european-poetry-myth-2007 | pp. 166–172, 186–191, and 255–260
+- watkins-how-to-kill-a-dragon-1995 | Hero-Slays-Serpent formula and chapters
+-->
+
 **Short:** Comparative Indo-European mythology constructs hypothetical ancestral versions of real Vedic figures and narratives: **द्यौष्पिता (*Dyauṣ Pitā*)** becomes reconstructed Father Sky; **अश्विनौ (*Aśvinau*)** become reconstructed Divine Twins or Twin Horsemen; and Indra **वृत्रहन् (*Vṛtrahan*)** becomes one instance of a reconstructed Serpent-Slayer story. The Vedic figures are preserved in the Veda; the supposed common ancestral people and their stories are modern reconstructions.
 
 **Deployments:** Chapter 19 §19.2.
@@ -974,11 +994,11 @@ The three Sanskrit anchors are real features of the Vedic corpus. **द्यौ
 
 Comparative Indo-European mythology reverses that evidentiary order. It compares Dyauṣ with Zeus and Jupiter and reconstructs **\*Dyēus ph₂tēr** as an ancestral Father Sky. It compares the Aśvins with the Greek Dioscuri and other paired rescuers and reconstructs ancestral Divine Twins, often represented as horsemen and sons of Father Sky. It compares Indra's defeat of Vṛtra with Greek, Iranian, Germanic, and other serpent-slaying accounts and reconstructs a common Hero-Slays-Serpent formula or story-pattern.
 
-M. L. West's *Indo-European Poetry and Myth* presents all three operations in one modern synthesis: Father Sky and the children of reconstructed *Dyeus* in Chapter 4; the Vedic Aśvins, Greek Dioscuri, and proposed ancestral Divine Twins at pp. 200–205; and Indra's defeat of Vṛtra within a reconstructed Indo-European serpent-slaying complex at pp. 260–73. Calvert Watkins develops the last reconstruction across *How to Kill a Dragon: Aspects of Indo-European Poetics* (Oxford University Press, 1995), including the proposed Hero-Slays-Serpent formula.
+M. L. West's *Indo-European Poetry and Myth* presents all three operations in one modern synthesis: Father Sky and the children of reconstructed *Dyeus* at pp. 166–72; the Vedic Aśvins, Greek Dioscuri, and proposed ancestral Divine Twins at pp. 186–91; and Indra's defeat of Vṛtra within a reconstructed Indo-European serpent-slaying complex at pp. 255–60. Calvert Watkins develops the last reconstruction across *How to Kill a Dragon: Aspects of Indo-European Poetics* (Oxford University Press, 1995), including the proposed Hero-Slays-Serpent formula.
 
 The distinction in Chapter 19 is therefore exact. The Veda preserves Dyauṣ Pitā, the Aśvins, Indra, Vṛtra, and the relevant mantras. Greek and other corpora preserve their own figures and narratives. No surviving record preserves a common ancestral corpus in which reconstructed Indo-European people told reconstructed versions of all three. Comparative mythology produces those ancestral versions by inference and then places the recorded Vedic material inside the resulting inheritance. Chapter 19 treats that procedure as the story-level extension of PIE: imaginary people speaking an imaginary language are supplied with imaginary ancestral stories.
 
-Sources: M. L. West, [*Indo-European Poetry and Myth*](https://academic.oup.com/book/10022) (Oxford University Press, 2007), especially Chapters 4 and 6 and pp. 200–205, 260–73; Calvert Watkins, [*How to Kill a Dragon: Aspects of Indo-European Poetics*](https://academic.oup.com/book/47065) (Oxford University Press, 1995), especially the Hero-Slays-Serpent formula and the Serpent-Slayer chapters.
+Sources: M. L. West, [*Indo-European Poetry and Myth*](https://academic.oup.com/book/10022) (Oxford University Press, 2007), especially pp. 166–72, 186–91, and 255–60; Calvert Watkins, [*How to Kill a Dragon: Aspects of Indo-European Poetics*](https://academic.oup.com/book/47065) (Oxford University Press, 1995), especially the Hero-Slays-Serpent formula and the Serpent-Slayer chapters.
 
 ---
 
@@ -1093,21 +1113,34 @@ The **root extension** (German *Erweiterung*, also "enlargement" or "determinati
 
 ### `krt-dhatupatha-chedane`
 
+<!-- SOURCE-RECORDS
+- sanskritdocuments-dhatupatha-index | entries 6.171 and 7.10
+- project-dhatupatha-csv | base index 06.0171
+-->
+
 **Short:** ⟪कृत्⟫ (*kṛt*), aupadeśika कृतीँ, *tudādi* — Dhātupāṭha 6.171, *artha* **छेदने** ("in cutting"; *kṛntati*, "he cuts") — verified against the machine-readable Pāṇinian Dhātupāṭha. The homonymous कृत् 7.10 (*rudhādi*, वेष्टने "to surround") is a distinct entry and plays no part in the cut-family.
 
 **Deployments:** Chapter 19 §19.5 (the Recipe — move 4, the atom).
 
-The entry data: base-index 06.0171, dhātu कृत्, aupadeśika कृतीँ, gaṇa 6 (*tudādi*), pada P, artha छेदने, meaning "to cut, to break, to slice." Present *kṛntati*; participle *kṛtta* (*kṛt + kta*), "cut off" — the pair Chapter 19 sets beside Latin *curtus*. Derivatives in the near orbit: *kartana* (cutting), *kartarī* (scissors — alive in Kannada *kattari*, Telugu *kattera*), *kṛntana*. Source: ashtadhyayi.com Dhātupāṭha data (verified locally); the second कृत् at 10.155 (कॄतँ, *saṃśabdane*) and the *rudhādi* 7.10 homonym are kept distinct.
+The entry data: base-index 06.0171, dhātu कृत्, aupadeśika कृतीँ, gaṇa 6 (*tudādi*), pada P, artha छेदने, meaning "to cut, to break, to slice." Present *kṛntati*; participle *kṛtta* (*kṛt + kta*), "cut off" — the pair Chapter 19 sets beside Latin *curtus*. Derivatives in the near orbit include *kartana* (cutting), *kartarī* (scissors), and *kṛntana*. The SanskritDocuments index independently prints **कृत् । तु० सेट् प० । कृतीँ छेदने ६.१७१** and the distinct homonym **कृत् । रु० सेट् प० । कृतीँ वेष्टने ७.१०**. The similarly written 10.155 entry begins with long **कॄत्**, not **कृत्**.
 
 ---
 
 ### `krt-upasarga-corpus`
 
-**Short:** The Digital Corpus of Sanskrit record (via the book's own analysis bundle) shows ⟪कृत्⟫ riding **18 distinct upasargas across 650 attested tokens** — *ni* 223, *ut* 74, *api* 28, *vi* 15, *ava* 15, *vini* 14, **sam 14**, **pari 13**, *pra* 9, *apa* 8, and more — **and not one form contains an *s***. The suṭ-refusal is not only Pāṇini's rule; it is the attested record.
+<!-- SOURCE-RECORDS
+- project-path-c-valency-csv | kṛt aggregate: 650 tokens and 19 prefix labels
+- project-attestation-index-csv | prefix counts for normalized kṛt
+- dcs-sanskrit-repository-04e0778 | underlying corpus described in the analysis README
+-->
+
+**Short:** The book's Digital Corpus of Sanskrit analysis normalizes **650 tokens** under the base string **kṛt** and records **19 prefix labels**, including the null label and eighteen non-null labels. No row records an inserted *s* immediately before **kṛt**. The aggregation does not distinguish the homonymous Dhātupāṭha entries, so it cannot by itself assign all 650 tokens specifically to the cutting atom at 6.171.
 
 **Deployments:** Chapter 19 §19.5 (the Recipe — the corpus sentence in the *s*-paragraph).
 
-The aggregation comes from the book's reproducibility bundle: `analysis/ganah/data/derived/path_c_valency.csv` (kṛt: valency 74, 650 tokens, 19 distinct prefixes including the null prefix) and `analysis/ganah/data/derived/attestation_index.csv` (per-combination counts; the 18 non-null upasargas as listed, with *saṃni*, *samut*, *abhi*, *vyava*, *upa*, *anu*, *ā*, *saṃpra* in the tail). The DCS source and processing are documented in `analysis/ganah/README.md`. The structural point: the cutting-atom is richly prefix-active — including *sam-* and *pari-*, the two prefixes that trigger suṭ on ⟪कृ⟫ — and the *s* never appears on it.
+The aggregation comes from the book's reproducibility bundle: `analysis/ganah/data/derived/path_c_valency.csv` records **kṛt** with valency 74, 650 tokens, and 19 distinct prefix labels including the null label. `analysis/ganah/data/derived/attestation_index.csv` supplies these prefix totals: *ni* 223, null 220, *ut* 74, *api* 28, *vi* 15, *ava* 15, *vini* 14, *sam* 14, *pari* 13, *pra* 9, *apa* 8, *abhi* 3, *samut* 3, *saṃni* 3, *anu* 2, *upa* 2, *vyava* 2, *saṃpra* 1, and *ā* 1. The DCS source and processing are documented in `analysis/ganah/README.md`.
+
+Path C groups records by normalized atom string. It therefore combines homonymous entries written **kṛt** and cannot prove that every token belongs to the cutting entry at Dhātupāṭha 6.171. The data do support the narrower statements that the normalized **kṛt** group occurs with eighteen non-null prefix labels and that none of its rows inserts *s* immediately before the atom. The Chapter 19 sentence currently makes the stronger homonym-specific claim and is flagged for author review.
 
 ---
 
@@ -1981,11 +2014,15 @@ Source note: GRETIL, *Maitrāyaṇī-Saṃhitā*, based on Leopold von Schroeder
 
 ### `bhagavad-gita-1-2-citation`
 
-**Short:** *Bhagavad Gītā* (भगवद्गीता) 1.2 — *दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥* / *dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā | ācāryam upasaṅgamya rājā vacanam abravīt ||* (Sañjaya's narration as Duryodhana surveys the Pāṇḍava battle-formation); the *anuṣṭubh* (अनुष्टुभ्)-metered verse the Preface deploys for the personal-anchor scene.
+<!-- SOURCE-RECORDS
+- gita-supersite-1-2 | Bhagavad Gītā 1.2
+-->
 
-**Deployments:** Preface ¶9 — the personal-anchor scene in which the author, as a schoolboy, encountered *Bhagavad Gītā* 1.2 during a lunch-break recitation and was struck by the structural question the verse posed.
+**Short:** *Bhagavad Gītā* 1.2 ends with **राजा वचनमब्रवीत् (*rājā vacanam abravīt*)**. Its fourth *pāda* has eight syllables. Suppressing the initial **अ (*a*)** of **अब्रवीत् (*abravīt*)** leaves seven, which is the metrical error described in the Preface.
 
-The verse is *Bhagavad Gītā* 1.2, the second verse of the first chapter (*Arjuna-Viṣāda Yoga* — "The Yoga of Arjuna's Despondency"):
+**Deployments:** Preface, “Why Sanskrit Comes First” — the author's childhood encounter with sound combination and metrical correction.
+
+The complete verse is:
 
 > *दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।*
 > *आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥*
@@ -1993,13 +2030,9 @@ The verse is *Bhagavad Gītā* 1.2, the second verse of the first chapter (*Arju
 > *dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā |*
 > *ācāryam upasaṅgamya rājā vacanam abravīt ||*
 >
-> *"Having seen the Pāṇḍava army arrayed in battle-formation, King Duryodhana, approaching his teacher, then spoke these words."*
+The fourth *pāda* scans **rā-jā | va-ca-nam | a-bra-vīt**: eight syllables. The childhood pronunciation described in the Preface suppressed the **अ (*a*)** at the beginning of **अब्रवीत् (*abravīt*)**, producing **rā-jā | va-ca-nam | bra-vīt**: seven syllables. The source confirms the verse text; the account of the error and the mother's correction is the author's memory.
 
-The verse is spoken by Sañjaya — the narrator-charioteer of the *Mahābhārata* frame — reporting to King Dhṛtarāṣṭra the scene unfolding at Kurukṣetra. The first chapter of the *Gītā* establishes the dramatic situation: the two armies arrayed, Duryodhana surveying the *Pāṇḍava* formation, the dialogue between Kṛṣṇa and Arjuna about to begin. The verse cited here is the second link in the narrative chain that opens the *Gītā* and is among the first verses any student reciting the *Gītā* from the beginning encounters.
-
-The verse's metrical form is *anuṣṭubh* — the eight-syllable-per-pāda meter used for most of the *Mahābhārata*'s narrative and most of the *Bhagavad Gītā*'s eighteen chapters (with select passages in *triṣṭubh*). The shape the boy noticed — the way the syllables fall into a rhythm that reinforces the meaning — is the *anuṣṭubh* doing its work. The structural observation the *Preface* is anchoring (Sanskrit's poetry is engineered to preserve; the engineering is in the meter, the *sandhi*, the word order; the language was built so the poetry could strike home this way) returns at scale across Chapters 7, 8, 16, and the recitation-lineages material across the back half of the book.
-
-Sources for the verse text: the standard critical edition of the *Mahābhārata* prepared at the Bhandarkar Oriental Research Institute (Poona), volume 7 (*Bhīṣmaparvan*); the *Gītā Press Gorakhpur* edition (the standard popular Indian reference); any of the major commentaries (Śaṅkara, Rāmānuja, Madhusūdana Sarasvatī, Jñāneśvar) that take the verse as it stands. The transliteration here follows the standard IAST conventions used throughout the book.
+Source: IIT Kanpur, *Gītā Supersite*, [*Bhagavad Gītā* 1.2](https://www.gitasupersite.iitk.ac.in/srimad?ecsiva=1&etgb=1&etsiva=1&etssa=1&field_chapter_value=1&field_nsutra_value=2&language=dv&scsh=1&setgb=1).
 
 ---
 
@@ -2102,6 +2135,16 @@ The note anchors the lineage claim. The Sanskrit discipline does not introduce g
 
 ### `modern-sanskrit-lineage-roles`
 
+<!-- SOURCE-RECORDS
+- dayananda-rigvedadi-bhashya-bhumika | modern Vedic interpretation
+- aurobindo-secret-veda-1971 | symbolic Vedic interpretation
+- kapali-sastry-lights-veda | Vedic commentary
+- ojha-vedic-works-catalogue | Sanskrit Vedic corpus
+- kak-astronomical-code-rigveda | structural and astronomical argument
+- kapoor-text-interpretation | interpretation within Indian traditions
+- malhotra-battle-sanskrit | public institutional dispute
+-->
+
 **Short:** Modern Sanskrit-side scholarship preserved distinct parts of the inheritance under colonial and post-colonial institutional pressure: Vedic precision, symbolic architecture, Sanskrit pedagogy, structural analysis, interpretation from within the Hindu continuum, and direct institutional resistance.
 
 **Deployments:** Chapter 20 §20.4.
@@ -2124,7 +2167,7 @@ The list is selective. The point is not to imply that the architectural route be
 
 **Deployments:** Supports `modern-sanskrit-lineage-roles` at Chapter 20 §20.4.
 
-Dayānanda's Vedic account is not a minor apologetic gesture inside the colonial frame. It is a modern reassertion of the older Sanskrit-side premise: the Veda is a knowledge-bearing corpus whose language is precise enough to preserve that knowledge. The final bibliography should cite the selected editions of *Ṛgvedādi-bhāṣya-bhūmikā* and *Satyārth Prakāś* used in production.
+Dayānanda's Vedic account is not a minor apologetic gesture inside the colonial frame. It is a modern reassertion of the older Sanskrit-side premise: the Veda is a knowledge-bearing corpus whose language is precise enough to carry that knowledge. Sources: Dayānanda Sarasvatī, *Ṛgvedādi-bhāṣya-bhūmikā* and *Satyārth Prakāś*, in standard Arya Samaj editions.
 
 ---
 
@@ -2148,7 +2191,7 @@ Sri Aurobindo's *The Secret of the Veda* and *Hymns to the Mystic Fire* treat th
 
 **Deployments:** Supports `modern-sanskrit-lineage-roles` at Chapter 20 §20.4.
 
-Ojha's body of work is large, much of it composed in Sanskrit and associated with the Jaipur intellectual world. The lineage sentence places him as a witness to Sanskrit-composed modern Vedic architecture rather than attempting a survey. Final citation should identify the specific Ojha works consulted for production and distinguish published editions from manuscript or catalogue references.
+Ojha's body of work is large, much of it composed in Sanskrit and associated with the Jaipur intellectual world. The lineage sentence places him as a witness to Sanskrit-composed modern Vedic architecture rather than attempting a survey. The published record includes *Brahma Vidyā Rahasyam* and *Vyākaraṇavinoda*; the Shankar Shikshayatan catalogue organizes his wider corpus under *brahmavijñāna*, *yajñavijñāna*, *itihāsa-purāṇa*, and *vedāṅga-samīkṣā*.
 
 ---
 
@@ -2275,7 +2318,7 @@ Primary locator: Kielhorn, *Mahābhāṣya*, vol. I, p. 6. P. S. Subrahmanya Sas
 
 **Short:** The traditional classification names three ***prakṛti-pāṭhāḥ*** — *Saṃhitā*, *Pada*, and *Krama* — and eight ***vikṛti-pāṭhāḥ*** — *Jaṭā*, *Mālā*, *Śikhā*, *Rekhā*, *Dhvaja*, *Daṇḍa*, *Ratha*, and *Ghana*. Together they provide eleven specified ways of carrying and checking the Vedic text. The comparison with an error-detecting code is this book's engineering analogy, not the traditional name for the system.
 
-**Deployments:** Preface ¶17 — the methodology paragraph that presents the eleven *pāṭhas* as a redundancy system rather than cultural ornament; subsequent extended treatment at Chapter 15 §§15.2–15.3.
+**Deployments:** Chapter 15 §§15.2–15.3 (the full preservation system); Chapter 18 §18.7 (the eleven recitations within the origin speculation).
 
 The received classification divides the eleven modes into two groups. S. Venkitasubramonia Iyer states that the first three fall under ***prakṛti*** and quotes *Vikṛtivallī* 5 for the eight ***vikṛtis***:
 
@@ -2318,13 +2361,19 @@ Sources: Merriam-Webster.com Dictionary, entries [“guru”](https://www.merria
 <!-- SOURCE-RECORDS
 - mishra-sanskrit-attributive-naming | public teaching example using Sanskrit words for water
 - cologne-mw-1899 | entries savyasAcin, DanaMjaya, Ap, payas, salila, and pAnIya
+- caraka-online-udaka-etymology | traditional derivation of udaka from und, to wet
+- amarasudha-apah-etymology | Vyakhyasudha derivation of apah from ap, to pervade
+- sarasvata-vyakarana-payas-etymology | traditional derivation of payas from pi, to drink
+- unadi-salila-etymology | Unadi derivation of salila from sal, to move
 -->
 
 **Short:** Sanskrit naming often preserves relation, action, quality, function, or context of use. A name can gather several attributes, not merely a flat label.
 
 **Deployments:** Chapter 0 §0.3, “Attribute, Not Label” — the subsection on proper names as attributes, followed by the related but distinct principle that nominal words can arise from verbs.
 
-Sampadananda Mishra uses Sanskrit's several words for water to teach this principle. He explicitly derives **जलम् (*jalam*)** from ⟪जल्⟫ (*jal*), “to harden,” and explains the word through water's ability to pass from liquid to solid. He also explains **वारि (*vāri*)** through water rising, becoming cloud, and covering. These are the direct sources for Chapter 0's first two examples. The chapter extends the same analysis through four additional water-words.
+Sampadananda Mishra uses Sanskrit's several words for water to teach this principle. He explicitly derives **जलम् (*jalam*)** from ⟪जल्⟫ (*jal*), “to harden,” and explains the word through water's ability to pass from liquid to solid. He also explains **वारि (*vāri*)** through water rising, becoming cloud, and covering. These are the direct sources for Chapter 0's first two examples.
+
+Traditional grammatical sources supply the remaining derivations. Bhānuji Dīkṣita's *Vyākhyāsudhā* derives **आपः (*āpaḥ*)** from ⟪आप्⟫ (*āp*), “to pervade,” through **आप्नुवन्ति, आप्यन्ते वा (*āpnuvanti, āpyante vā*)**. The third commentary on the *Sārasvata-vyākaraṇa* gives **पी पाने। पीयते तत् पयः (*pī pāne; pīyate tat payaḥ*)**: ⟪पी⟫ (*pī*), to drink, produces **पयस् (*payas*)** as that which is drunk. The *Uṇādi-pāṭha*, under **सलिकल्य...भूभ्य इलच्**, gives **सलति गच्छति निम्नमिति सलिलम् (*salati gacchati nimnam iti salilam*)**: **सलिल (*salila*)** as that which moves or goes downward. Traditional lexical analysis likewise derives **उदक (*udaka*)** from ⟪उन्द्⟫ (*und*), to wet or moisten.
 
 Arjuna's names demonstrate the principle without needing speculative derivations. **कौन्तेय (*Kaunteya*)** identifies him through Kuntī. **सव्यसाचिन् (*Savyasācin*)** describes one who can use the bow with either hand. **धनञ्जय (*Dhanañjaya*)** names the winner or conqueror of wealth. Each name carries a relation or attribute rather than functioning only as an arbitrary label.
 
@@ -2334,7 +2383,7 @@ The same principle applies to Sanskrit's own descriptions. **संस्कृ�
 
 Sanskrit keeps many proper names open to relation, function, and recoverable structure. The claim is not universal: a name's formation must be checked rather than guessed. Yāska's formula **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*) concerns a related but separate feature of word formation: nominal words arise from verbs. It does not claim that every proper name transparently predicts the conduct of its bearer.
 
-Sources: Sampadananda Mishra, [“Is Sanskrit Relevant Today?”](https://renaissance.aurosociety.org/editors-note-this-is-a-slightly-reformatted-version-of-a-tedx-talk-given-by-the-author-a-reader-friendly-voice-is-still-maintained/), Sri Aurobindo Society; Monier Monier-Williams, *A Sanskrit-English Dictionary* (Oxford, 1899), relevant entries.
+Sources: Sampadananda Mishra, [“Is Sanskrit Relevant Today?”](https://renaissance.aurosociety.org/editors-note-this-is-a-slightly-reformatted-version-of-a-tedx-talk-given-by-the-author-a-reader-friendly-voice-is-still-maintained/), Sri Aurobindo Society; Bhānuji Dīkṣita, *Vyākhyāsudhā* (*Rāmāśramī*) on the *Amarakośa*, s.v. **आपः**, citing *Uṇādi-sūtra* 2.58; *Sārasvata-vyākaraṇa*, third commentary, p. 572 (1891 ed.), under **वचादेरस्**; *Uṇādi-pāṭha* 1.54, with the *Siddhānta-kaumudī* gloss under **सलिकल्य...भूभ्य इलच्**; [“Udakavaha Srotas,” *Charaka Samhita Online*](https://www.carakasamhitaonline.com/index.php?title=Talk:Udakavaha_Srotas), “Etymology and derivation”; and Monier Monier-Williams, *A Sanskrit-English Dictionary* (Oxford, 1899), relevant headwords.
 
 ---
 
@@ -2526,25 +2575,31 @@ The second half also links well-being with meeting one who gives, does not strik
 
 ### `kaplan-zero-erasure`
 
-**Short:** Robert Kaplan's *The Nothing That Is: A Natural History of Zero* (Oxford University Press, 1999) is a useful named example of the popular move by which Indic mathematical engineering is displaced backward into Mesopotamia. Kaplan's telling foregrounds the Sumerian / Babylonian placeholder ancestry of zero and treats India as a later stage in the story. The book's argument is not that Mesopotamian placeholder practice is irrelevant. It is that a placeholder symbol inside a sexagesimal scribal system is not the same achievement as the Indic decimal place-value system with zero serving as a full arithmetic object.
+<!-- SOURCE-RECORDS
+- kaplan-nothing-that-is-1999 | full text checked for Mesopotamian placeholders and Indian arithmetic zero
+-->
+
+**Short:** Robert Kaplan's *The Nothing That Is: A Natural History of Zero* (Oxford University Press, 1999) distinguishes Mesopotamian placeholder practices from the later use of zero as an arithmetic number and explicitly credits the Indian development. His account supports the distinction required by the appendix; it is not evidence that Kaplan denied the Indic achievement.
 
 **Deployments:** Appendix Part 3 §3.7 — the place-value / Kaplan displacement paragraph. Appendix Part 3 §3.5 develops the companion logic-test (place-value vs Roman numerals) without the Kaplan case.
 
-Robert Kaplan's *The Nothing That Is* begins the zero story in Mesopotamia. He opens with a Sumerian father-son joke from a clay tablet: *"Where did you go?" "Nowhere." "Then why are you late?"*
+Kaplan begins his history with earlier ways of marking an empty position, including Mesopotamian practice. He does not collapse those devices into the complete mathematical achievement. He later distinguishes the Indian development of zero as a number with which arithmetic could be performed.
 
-It is a good joke. It proves the Sumerians understood "nothing." It does not prove they invented zero.
+That distinction is the point used by Appendix Part 3. A placeholder in a sexagesimal notation is not yet the decimal place-value system with zero functioning as a written number and an object of calculation. Brahmagupta's *Brāhma-Sphuṭa-Siddhānta* gives rules for arithmetic with zero and negative numbers; the Arabic transmission literature calls the imported system *ḥisāb al-Hind*, the calculation of India. See `place-value-arabic-transmission` for that transmission.
 
-That is the move. A witty use of "nothing" becomes a path toward Mesopotamian priority. But "nowhere" is not zero. A placeholder is not the decimal place-value system. The engineering that changed mathematics was Indic: **śūnya** (शून्य) as a written symbol, a positional device, and then an arithmetic object.
+The appendix compares this separation of layers with its treatment of script. A visible glyph is not the same achievement as the prior analysis of sound that the glyph renders. Kaplan is therefore used as a source for the mathematical distinction, not as an example of erasing Indian zero.
 
-Kaplan did not invent this displacement. His book makes it easy to see.
-
-The distinction changes the claim. Many ancient cultures had placeholder devices, blank spaces, or positional conventions. The Indic achievement was different: a decimal place-value system in which **śūnya** (शून्य) made absence at a position into a written symbol and then into an object of calculation. Brahmagupta's *Brāhma-Sphuṭa-Siddhānta* gives rules for arithmetic with zero and negative numbers; the Arabic transmission literature explicitly calls the system *ḥisāb al-Hind*, the calculation of India. See `place-value-arabic-transmission` for the fuller transmission note.
-
-Kaplan is therefore named here not because he invented the displacement, but because his book is a clean popular exemplar of the move. The same pattern appears in script typology. The sonomer and audiography were available to be named. The machinery instead named the Indic scripts by somebody else's category, *abugida*, and left the deeper Indic engineering unnamed.
+Source: Robert Kaplan, *The Nothing That Is: A Natural History of Zero* (Oxford University Press, 1999), especially the opening Mesopotamian discussion and the chapters on the Indian development of arithmetic zero.
 
 ---
 
 ### `sound-script-standard-matrix`
+
+<!-- SOURCE-RECORDS
+- aks-hangeul-english | Haerye design account and articulator-shaped consonants
+- sampson-writing-systems-1985 | featural typology and assessment of Hangul
+- unesco-king-sejong-literacy-prize | 1989 establishment of the prize
+-->
 
 **Short:** Figures A.3.1–A.3.4 are schematic articulatory comparisons, not exhaustive phoneme inventories. They normalize Sanskrit, Korean, and Arabic onto a modern place-and-manner grid to compare three different design cases: Sanskrit's sonomeric sound-grid, Hangul's engineered script for Korean phonology, and Arabic's inherited phonology preserved through Qur'anic recitation, grammar, script, and authority.
 
@@ -2554,13 +2609,19 @@ The Sanskrit layer follows the *varṇamālā*'s place-and-effort organization a
 
 The figures therefore compare the location of engineering, not cultural worth: sound architecture, script architecture, and standardizing authority are different achievements. A shared articulatory matrix lets the reader compare the systems within the same physical grid; the extracted panels then show what kind of pattern each system leaves when isolated.
 
-Source anchors: for the modern articulatory grid, see the International Phonetic Association, *Handbook of the International Phonetic Association* (Cambridge University Press, 1999), and Peter Ladefoged and Ian Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996). For Hangul's articulatory design and Sampson's praise of it as one of humanity's great intellectual achievements, see the *Hunminjeongeum Haerye* tradition and Geoffrey Sampson, *Writing Systems: A Linguistic Introduction* (Stanford University Press, 1985), which coined the typological label *featural* for Hangul's design. For Arabic grammar and recitational authority, see Sibawayh's *Al-Kitāb*, Kees Versteegh, *The Arabic Linguistic Tradition* (Routledge, 1997), and Shady Hekmat Nasser, *The Transmission of the Variant Readings of the Qur'an* (Brill, 2013). For the Sanskrit layer, see the Chapter 9 notes on the *varṇamālā*, *sthāna* / *prayatna*, and the comparative sound-inventory note `varnamala-comparative-sound-inventories`.
+Source anchors: for the modern articulatory grid, see the International Phonetic Association, *Handbook of the International Phonetic Association* (Cambridge University Press, 1999), and Peter Ladefoged and Ian Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996). The Academy of Korean Studies' *Hangeul*, Appendix 1, explains the *Hunminjeongeum Haerye* account of articulator-shaped consonants and systematically related signs. Geoffrey Sampson, *Writing Systems: A Linguistic Introduction* (Stanford University Press, 1985), places Hangul within his script typology at p. 120 and praises its design at p. 144. UNESCO records that the King Sejong Literacy Prize was established in 1989. For Arabic grammar and recitational authority, see Sibawayh's *Al-Kitāb*, Kees Versteegh, *The Arabic Linguistic Tradition* (Routledge, 1997), and Shady Hekmat Nasser, *The Transmission of the Variant Readings of the Qur'an* (Brill, 2013). For the Sanskrit layer, see the Chapter 9 notes on the *varṇamālā*, *sthāna* / *prayatna*, and the comparative sound-inventory note `varnamala-comparative-sound-inventories`.
 
 ---
 
 ### `siddham-east-asia-sonomeric-field`
 
-**Short:** Hangul's individual signs are locally designed within a Korean and East Asian intellectual world that had received Sanskrit pronunciation, Siddham writing, and Indic phonological categories through Buddhism before the fifteenth century. In Japan, Siddham study more directly informed the consonant-vowel analysis and ordering embodied in the *gojūon* grid, while kana signs drew their graphic material from Chinese characters.
+<!-- SOURCE-RECORDS
+- chung-hangul-sanskrit-2020 | published Korean argument concerning Sanskrit and Hangul
+- lee-sanskrit-hunminjeongeum-2025 | comparison of Sanskrit phonology and Hunminjeongeum
+- university-tokyo-gojuon-sanskrit | University of Tokyo account of Sanskrit ordering behind gojūon
+-->
+
+**Short:** Published Korean studies place Hangul's locally designed signs within an East Asian intellectual world that had already received Sanskrit pronunciation, Siddham writing, and Indic phonological categories through Buddhism. The precise route into the fifteenth-century design remains open. In Japan, the connection is more direct: Siddham study informed the consonant-vowel analysis and ordering embodied in the *gojūon* grid, while kana signs drew their graphic material from Chinese characters.
 
 **Deployments:** Appendix Part 3 §3.9 — Korean and Japanese implementations of the sonomeric idea; Appendix Part 5 §5.4 — the Japanese sound inventory used for the language-factory experiment.
 
@@ -2599,43 +2660,42 @@ Source: *Īśopaniṣad*, traditional opening invocation, and *Bṛhadāraṇyak
 
 ### `schleicher-stammbaumtheorie`
 
-**Short:** August Schleicher (1821–1868) formalized the *Stammbaumtheorie* (family-tree theory) across *Die Deutsche Sprache* (1860), the *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861), and *Die Darwinsche Theorie und die Sprachwissenschaft* (1863) — languages as *Naturorganismen* (natural organisms growing and decaying like biological species); Schleicher trained as a botanist before turning to linguistics, and the imported biological framing was doctrinal, not casual.
+<!-- SOURCE-RECORDS
+- mpi-schleicher-tree-1853 | publication record and pp. 786–787
+- saw-schleicher-tree-1861 | 1861 manuscript and Compendium p. 7
+- deutsche-biographie-schleicher | education and career
+-->
+
+**Short:** August Schleicher first printed a language-family tree in 1853 and developed the model through the 1860s. His *Compendium* (1861) placed a simplified tree at the beginning of the comparative grammar, while *Die Darwinsche Theorie und die Sprachwissenschaft* (1863) joined linguistic descent to an explicitly evolutionary account.
 
 **Deployments:** Chapter 2 §2.6 — the establishment of August Schleicher and the *Stammbaumtheorie* (family-tree theory) as the governing metaphor of comparative philology.
 
-August Schleicher (1821–1868), German linguist and Indo-Europeanist, formalized the *Stammbaumtheorie* — the *family-tree theory* of language descent — across his major works of the 1850s and 1860s. The two principal texts:
+Schleicher's short article “Die ersten Spaltungen des indogermanischen Urvolkes,” published in 1853, included an early tree of Indo-European division. The Virtual Archive of the Saxon Academy identifies his 1861 manuscript tree and points to the simplified printed version on page 7 of the *Compendium der vergleichenden Grammatik der indogermanischen Sprachen*. The family-tree model therefore predates the 1860s, although Schleicher's books of that decade made it a central instrument of comparative grammar.
 
-1. *Die Deutsche Sprache* (Stuttgart: J. G. Cotta'scher Verlag, 1860), in which Schleicher developed his biological-organic theory of language: languages are *natural organisms* (*Naturorganismen*) that grow, reproduce, decay, and die like biological species. The framing was explicit and structural; Schleicher trained as a botanist before turning to linguistics, and the imported metaphor was not casual but doctrinal.
+*Die Deutsche Sprache* (1860) describes languages through organic growth and decay. *Die Darwinsche Theorie und die Sprachwissenschaft* (1863) then connects language history explicitly with Darwinian evolution. The botanical frame used in Chapter 2 is therefore Schleicher's own account of language, not a metaphor assigned to him by this book.
 
-2. *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (Weimar: Hermann Böhlau, 1861; second edition 1866), the foundational reference work of the comparative method in Indo-European linguistics. The *Compendium* systematized the reconstruction methodology and established the family-tree diagram as the standard visual machinery for representing language descent. Schleicher's diagrams branched an imaginary *Proto-Indogermanic* into Asiatic and European branches, then into the daughter families and named languages, with each node an imaginary ancestor.
+Schleicher did not train as a botanist. His formal studies moved from theology and Oriental languages to classical philology and linguistics. The earlier version of this note confused his study of natural science and his biological descriptions of language with professional botanical training.
 
-Schleicher's biological framing was made explicit in his 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* (*The Darwinian Theory and the Science of Language*; Weimar: Hermann Böhlau, 1863), in which he argued that Darwin's theory of natural selection applied directly to language change: languages, like species, evolved through descent with modification under selective pressures. The biological-organic frame the *Preface* and Chapter 2 examine as *botanical* is Schleicher's own framing rather than an attribution invented by this book.
-
-The family-tree model dominated comparative philology from the 1860s onward and remains the foundational visual machinery of historical linguistics. Subsequent refinements (Johannes Schmidt's *Wellentheorie* — *wave theory* — in his 1872 *Die Verwandtschaftsverhältnisse der indogermanischen Sprachen*, which proposed dialect-continuum diffusion as an alternative to clean family-tree branching; later neogrammarian and structuralist contributions) modified the picture but preserved the underlying biological-descent metaphor. The contemporary ecosystem that displays Indo-European languages as a branching tree descending from reconstructed Proto-Indo-European is Schleicher's machinery, slightly refined.
-
-Standard references for Schleicher's role: R. H. Robins, *A Short History of Linguistics* (4th edition, Longman, 1997), Chapter 7; Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Volume IV of the Routledge *History of Linguistics*, 1998), Chapters 4–5; Holger Pedersen, *The Discovery of Language: Linguistic Science in the Nineteenth Century* (Indiana University Press, 1962; original Danish 1924); Tomáš Hoskovec et al., eds., *Schleicher's Indogermanische Chrestomathie und Wörterbuch* and related Schleicher reception studies.
+Sources: August Schleicher, “Die ersten Spaltungen des indogermanischen Urvolkes,” *Allgemeine Monatsschrift für Wissenschaft und Literatur* 3 (1853), pp. 786–787, [Max Planck Institute publication record](https://www.mpi.nl/publications/item2381174/die-ersten-spaltungen-des-indogermanischen-urvolkes); Saxon Academy of Sciences, [“Stammbaum der Sprachentwicklung”](https://archiv.saw-leipzig.de/saw-archive/publikationen-quellen/quellen/stammbaum-der-sprachentwicklung), linking the 1861 manuscript and *Compendium*, p. 7; Gertrud Bense, [“Schleicher, August,” *Neue Deutsche Biographie* 23 (2007), p. 50](https://www.deutsche-biographie.de/gnd118759302.html?language=en); R. H. Robins, *A Short History of Linguistics*, 4th ed. (Longman, 1997), Chapter 7; Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Routledge, 1998), Chapters 4–5.
 
 ---
 
 ### `hlafweard-etymology`
 
-**Short:** *Lord* = Old English *hlāfweard* (*hlāf* "loaf" + *weard* "guardian") → *hlāford* → Middle English *laverd* → *lorde* → Modern English *Lord*; phonetic contraction and compositional opacity across roughly a thousand years — the textbook *apabhraṃśa* (अपभ्रंश) decay arc Chapter 2 contrasts with Sanskrit *dhātu* (धातु) preservation across many more generations.
+<!-- SOURCE-RECORDS
+- bosworth-toller-hlaford | Old English form and compound analysis
+- middle-english-dictionary-lord | Middle English variants and meanings
+-->
 
-**Deployments:** Chapter 2 §2.6 — the worked example of *hlāfweard → laverd → lorde → Lord* as the textbook case of botanical decay and semantic shift across a thousand years of English.
+**Short:** Old English *hlāfweard*, “loaf-guardian,” contracted to *hlāford*. Middle English records many related forms, including *laverd*, *loverd*, *lorde*, and *lord*. They document phonetic change and loss of compositional transparency, but not one clean sequence in which each listed form replaced the preceding one.
 
-The etymological chain of *Lord* runs through documented stages of Old English and Middle English, each visible in attested manuscript and lexicographic evidence:
+**Deployments:** Chapter 2 §2.6 — the worked example of the change from Old English *hlāfweard* to modern *Lord*.
 
-**Stage 1 — Old English (pre-1100): *hlāfweard*.** A compound of *hlāf* (loaf, bread) + *weard* (guardian, keeper, protector — cognate with *ward, warden*). Literal meaning: *bread-guardian, loaf-keeper*. The compound denotes a specific social role — the head of a household who provides and guards the food supply for those under his protection. The form is attested in early Old English texts (the *hlāfweard* and the dual *hlāfdige* — *bread-kneader* — for the female counterpart, eventually becoming *lady*).
+Old English *hlāfweard* combines *hlāf*, “loaf,” with *weard*, “guardian.” It contracted within Old English to *hlāford*. The University of Michigan's *Middle English Dictionary* derives its entry from Old English *hlāford* and records a wide field of spellings and pronunciations, including *laverd*, *loverd*, *lorde*, *lord*, *laford*, and *hlaford*. These forms overlapped. They should not be arranged as a strictly dated succession without manuscript evidence for that narrower claim.
 
-**Stage 2 — Late Old English / Early Middle English (~1000–1200): *hlāford*.** The compound contracted as the second element *-weard* lost its independent transparency. The form *hlāford* appears across late Old English and the early Norman period.
+The securely documented movement remains sufficient for Chapter 2. The word lost the sound-form in which an ordinary listener could still hear “loaf-guardian,” while its meanings extended from household master to ruler, noble, and divine title.
 
-**Stage 3 — Middle English (~1200–1400): *laverd*, *lavord*, *lord*.** The aspirate *h-* fell away, the medial fricative weakened, and the bisyllabic form contracted toward the monosyllabic. The range of meanings expanded from *household provisioner* through *feudal landholder* to *nobleman*.
-
-**Stage 4 — Late Middle English to Early Modern English (~1400–1600): *lorde*, *Lord*.** The form crystallized as *Lord*, used both for the nobility and (with the religious connotation that English Christianity had built up across the same period) for the Almighty.
-
-The chain is documented in: the *Oxford English Dictionary*'s entry for *lord* (etymological section); Joseph Bosworth and T. Northcote Toller, *An Anglo-Saxon Dictionary* (Oxford, 1898; supplement 1921); Walter Skeat, *An Etymological Dictionary of the English Language* (Oxford, 1879–1882; revised editions); the *Middle English Dictionary* (University of Michigan Press, 1952–2001).
-
-The structural point the chapter makes from the chain: this is exactly the kind of language history the botanical metaphor describes — a word loses its compositional transparency (a speaker of modern English does not hear *loaf-guardian* in *Lord*); its phonetic form simplifies under articulatory pressure; its meaning extends and shifts under social-historical pressure. *Hlāfweard → Lord* is a perfect textbook case of *apabhraṃśa*-style decay used across a thousand years of a language without engineered preservation. The contrast the chapter immediately develops — Sanskrit *dhātu* preserved across many more generations without comparable decay — is the contrast the book's central thesis turns on.
+Sources: Joseph Bosworth and T. Northcote Toller, *An Anglo-Saxon Dictionary*, s.v. *hlāford*; University of Michigan, [*Middle English Dictionary*, s.v. *lōrd*](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED26078).
 
 ---
 
@@ -3807,6 +3867,14 @@ Standard references: see endnote `staal-mendeleev-varga-comparison` for Staal's 
 
 ### `western-linguistic-encounter-sanskrit-1786-1879`
 
+<!-- SOURCE-RECORDS
+- jones-third-anniversary-discourse-1786 | pp. 415-431
+- schlegel-language-wisdom-indians-1808 | publication and argument
+- bopp-conjugationssystem-1816 | publication record
+- bohtlingk-panini-eight-books-1839 | publication record
+- whitney-sanskrit-grammar-1879 | publication record
+-->
+
 **Short:** Five foundational works trace the European-philological encounter with Sanskrit grammar from 1786 through 1879 — Sir William Jones, "The Third Anniversary Discourse, on the Hindus" (Calcutta 1786; *Asiatic Researches* 1, 1788) → Friedrich Schlegel, *Über die Sprache und Weisheit der Indier* (Heidelberg, 1808) → Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816) → Otto von Böhtlingk, *Pâṇini's acht Bücher grammatischer Regeln* (Bonn, 1839–1840, first European critical edition of the *Aṣṭādhyāyī*) → William Dwight Whitney, *Sanskrit Grammar* (Leipzig / London, 1879) — followed by the phonetic association's founding in 1886, its first alphabet in 1888, and its first full chart in 1900.
 
 **Deployments:** Chapter 20 §20.2, “The Pyramid Steals the Sonomer” — the consolidated citation anchor for the European encounter with Sanskrit across 1786–1879 before the first full IPA chart appeared in 1900.
@@ -3815,7 +3883,7 @@ Five foundational works shaped the European-philological encounter with Sanskrit
 
 - **Sir William Jones, "The Third Anniversary Discourse, on the Hindus"** (Calcutta, 1786; published *Asiatic Researches* 1, 1788) — the founding recognition of Sanskrit's structural relationship to Greek, Latin, Gothic, Celtic, and Old Persian; the inaugural moment of comparative philology. See endnote `jones-1786-third-anniversary-discourse` for the full passage and modern scholarly treatments.
 
-- **Friedrich Schlegel, *Über die Sprache und Weisheit der Indier*** (Heidelberg: Mohr und Zimmer, 1808) — the German introduction of Sanskrit grammatical analysis into European philology; the work that brought Sanskrit's structural categories into the German Romantic-philological imagination and named the *Indogermanisch* category that the subsequent comparative project adopted.
+- **Friedrich Schlegel, *Über die Sprache und Weisheit der Indier*** (Heidelberg: Mohr und Zimmer, 1808) — an influential German presentation of Sanskrit and comparative grammar. Schlegel did not coin *Indogermanisch*: Conrad Malte-Brun used the French *indo-germanique* in 1810, and Julius Klaproth used the German form in 1823.
 
 - **Franz Bopp, *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** (Frankfurt am Main, 1816) — the work that established the systematic-comparative method, with Sanskrit verbal morphology positioned as the structural anchor against which the other Indo-European systems were compared. See endnote `bopp-1816-conjugationssystem` for the full treatment in Appendix Part 1 §1.4.
 
@@ -3823,13 +3891,19 @@ Five foundational works shaped the European-philological encounter with Sanskrit
 
 - **William Dwight Whitney, *Sanskrit Grammar*** (Leipzig: Breitkopf and Härtel; London: Trübner; 1879; second edition 1889) — the standard English-language reference grammar of Sanskrit through the twentieth century. Whitney's *Roots, Verb-Forms, and Primary Derivatives of the Sanskrit Language* (Leipzig, 1885) became the standard lexicographical reference for the dhātu inventory.
 
-The chronological sequence in the body prose: 1786 (Jones / opening) → 1808 (Schlegel / German absorption) → 1816 (Bopp / systematic comparative method) → 1839–40 (Böhtlingk / *Aṣṭādhyāyī* in front of European linguistics) → 1879 (Whitney / standard English-language reference) → 1886 (phonetic association founded) → 1888 (first international alphabet) → 1894 (first chart-format experiment) → 1900 (first full IPA chart). The 1900 chart presents a two-axis structure already preserved by the *varṇamālā*.
+The sequence establishes more than a century of sustained European work with Sanskrit before the first full IPA chart: 1786 (Jones), 1808 (Schlegel), 1816 (Bopp), 1839–40 (Böhtlingk), 1879 (Whitney), 1886 (the phonetic association), 1888 (its first international alphabet), 1894 (French and German phoneme charts), and 1900 (its first full chart). The separate endnotes on the IPA and the history of linguistics distinguish that chronology from the book's argument about appropriation.
 
 ---
 
 ### `early-19c-comparative-philology-bopp-pott`
 
-**Short:** Three foundational works of the early-19th-century comparative-philological project, positioning Sanskrit at the source position of Indo-European etymological chains: Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816); Franz Bopp, *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (Berlin, 1833–1852, six fascicles); August Friedrich Pott, *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen* (Lemgo: Meyer, 1833–1836; expanded 1859–1876, five volumes). The post-1861 Schleicher inversion moved the anchor from Sanskrit to reconstructed PIE.
+<!-- SOURCE-RECORDS
+- bopp-conjugationssystem-1816 | publication record
+- ut-reader-bopp-1816 | analytical role of Sanskrit morphology
+- pott-etymologische-forschungen-halle | publication record and language coverage
+-->
+
+**Short:** Three foundational works show how deeply early comparative philology depended upon Sanskrit: Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816); Bopp's *Vergleichende Grammatik* (Berlin, 1833–1852); and August Friedrich Pott, *Etymologische Forschungen* (1833–1836; expanded 1859–1876). Bopp used Sanskrit verbal morphology as the principal analytical template for comparing Greek, Latin, Persian, Germanic, and other languages. These works do not establish that Bopp or Pott treated Sanskrit itself as the genealogical parent of the entire family.
 
 **Deployments:** Chapter 19 §19.6 — the citation anchor for the early-19th-century comparative-philology works that positioned Sanskrit at the source position of Indo-European etymological chains, before the post-1861 Schleicher inversion moved the anchor from Sanskrit to the reconstructed proto-language. Chapter 20 §20.2, “The Pyramid Steals the Sonomer” — the citation anchor for the generations of European philological engagement with Sanskrit before PIE, Esperanto, and the IPA.
 
@@ -3837,11 +3911,11 @@ Three foundational works:
 
 - **Franz Bopp, *Über das Conjugationssystem der Sanskritsprache*** (Frankfurt am Main, 1816) — see endnote `bopp-1816-conjugationssystem` for full treatment.
 
-- **Franz Bopp, *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen*** (Berlin, 1833–1852, six fascicles) — the extension of Bopp's comparative method across the full Indo-European family. Sanskrit remained the structural anchor through this work.
+- **Franz Bopp, *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen*** (Berlin, 1833–1852, published in parts) — the extension of Bopp's comparative method across a wider set of languages. Sanskrit remained the principal analytical template through this work.
 
-- **August Friedrich Pott, *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen*** (Lemgo: Meyer, 1833–1836, two volumes; second expanded edition 1859–1876, five volumes) — the etymological-research extension of the comparative method, extending the structural comparison into vocabulary. Pott's work, alongside Bopp's *Vergleichende Grammatik*, defined the standard first-generation comparative-philological project. Like Bopp, Pott positioned Sanskrit at or near the source position of Indo-European etymological chains.
+- **August Friedrich Pott, *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen*** (Lemgo: Meyer, 1833–1836, two volumes; second expanded edition 1859–1876) — the etymological extension of the comparative project across Sanskrit, Greek, Latin, Lithuanian, Gothic, and related languages.
 
-Through this entire early period (1816–1860), Sanskrit was treated as the source-language of the family the comparative method was constructing — the analytical anchor against which the Greek, Latin, Persian, and Germanic forms were compared. The post-1861 Schleicher inversion (introducing the reconstructed common ancestor *distinct from* any real recorded language) moved the anchor from Sanskrit to PIE; the *bake* the Appendix Part 1 prosecutes is the inversion that displaced Sanskrit from this source position.
+Sanskrit supplied much of the grammatical material through which the early comparative project learned to compare the languages. That analytical dependence is the point used by Chapters 19 and 20. The stronger claim that the whole early period treated Sanskrit as the actual source-language is not supported by these works: William Jones had already proposed a lost common source in 1786, and Bopp's project compared related grammatical systems rather than declaring every language a descendant of Sanskrit. Schleicher later systematized a reconstructed common ancestor distinct from every recorded language.
 
 ---
 
@@ -3867,59 +3941,47 @@ Standard references: Sir William Jones, "The Third Anniversary Discourse, on the
 
 ### `ipa-1886-1900-chart`
 
-**Short:** The phonetic teachers' association led by Paul Passy was founded in Paris in 1886 and published its first international alphabet in 1888. A German phoneme table provided its first chart-format experiment in 1894. The Association published its first full IPA chart in 1900, arranging consonants by place and manner of articulation on the same two-axis principle that Sanskrit preserves as *sthāna* and *prayatna*.
+<!-- SOURCE-RECORDS
+- ipa-historical-charts | 1888 alphabet, 1894 French and German phoneme charts, 1900 full chart
+- ipa-chart-projects | Association's account of the historical-chart archive
+-->
 
-**Deployments:** Chapter 20 §20.2, “The Pyramid Steals the Sonomer” — the citation anchor for the founding of the Association in 1886, the first alphabet in 1888, the chart-format experiment in 1894, and the first full IPA chart in 1900.
+**Short:** The phonetic teachers' association led by Paul Passy was founded in Paris in 1886 and published the first version of its international alphabet in 1888. Its journal printed French and German phoneme charts in 1894. The Association published its first full IPA chart in 1900, arranging consonants by place and manner of articulation on the same two-axis principle that Sanskrit uses as *sthāna* and *prayatna*.
+
+**Deployments:** Chapter 20 §20.2, “The Pyramid Steals the Sonomer” — the citation anchor for the founding of the Association in 1886, the first alphabet in 1888, the 1894 phoneme charts, and the first full IPA chart in 1900.
 
 The organization that became the International Phonetic Association began in Paris in 1886 under Paul Passy. It brought together French and English language teachers seeking a common phonetic alphabet for language teaching and transcription. Henry Sweet became its honorary president in 1888. Daniel Jones belonged to a later generation and eventually served as president from 1950 to 1967; he was not involved in the 1886 founding.
 
-The Association published its first international alphabet in the August–September 1888 issue of *The Phonetic Teacher*. That publication established symbols and principles but did not yet present the familiar full chart. A German phoneme table published in 1894 supplied the first chart-format experiment in the Association's journal. The first full IPA chart appeared in 1900 in the *Exposé des principes de l'Association Phonétique Internationale*. It organized consonants by place and manner of articulation and added explicit columns for place.
+The Association published the first version of the International Phonetic Alphabet in the August–September 1888 issue of *The Phonetic Teacher*. The Association's archive separately classifies French and German phoneme tables published in 1894 as “other charts”; it does not call either one the first chart-format experiment. The first full IPA chart appeared in 1900 in the *Exposé des principes de l'Association Phonétique Internationale*. It organized consonants by place and manner of articulation and added explicit columns for place.
 
 The 1900 chart used European phonetic terminology and included European consonantal contents. Its organizing architecture nevertheless repeated the two axes already preserved by the *varṇamālā*: place of articulation across and physical manner of production down. Later revisions expanded both axes to represent additional sounds while retaining that organizing principle.
 
 The IPA chart was revised periodically after 1900, including major revisions in 1932, 1989 at the Kiel Convention, 1993, 1996, and 2005. These revisions added sounds and refined the categories while retaining the same structural form: place of articulation along one axis and manner of articulation along the other.
 
-By 1900, European philology had studied Sanskrit grammar for generations. Schlegel's work appeared in 1808, Bopp's in 1816, Böhtlingk's *Aṣṭādhyāyī* edition in 1839–1840, and Whitney's *Sanskrit Grammar* in 1879. The European establishment that created the IPA chart therefore knew the older Sanskrit analysis of speech. It retained the two-axis architecture while leaving its Sanskrit provenance unacknowledged.
+By 1900, European philology had studied Sanskrit grammar for generations. Schlegel's work appeared in 1808, Bopp's in 1816, Böhtlingk's *Aṣṭādhyāyī* edition in 1839–1840, and Whitney's *Sanskrit Grammar* in 1879. The historical record therefore establishes prior access to Sanskrit's analysis of speech. The structural comparison between the IPA chart and the *varṇamālā*, and the book's conclusion about unacknowledged appropriation, rest on setting those two architectures beside that chronology. No drafting record currently found traces the 1900 chart directly to the *varṇamālā*.
 
-The standard history of the IPA traces European predecessors such as Bell, Sweet, Passy, and the *Romic* alphabet experiments. It does not credit the Sanskrit framework as the source of the two-axis organization. Appendix Part 3 places that omission inside the wider nineteenth-century absorption of Sanskrit knowledge and identifies it as erased provenance.
-
-Standard references: International Phonetic Association, ["Historical charts of the International Phonetic Alphabet"](https://www.internationalphoneticassociation.org/IPAcharts/IPA_charts_H/IPA_charts_H.html); International Phonetic Association, *Handbook of the International Phonetic Association: A Guide to the Use of the International Phonetic Alphabet* (Cambridge University Press, 1999); Michael K. C. MacMahon, "Phonetic Notation," in Peter T. Daniels and William Bright, eds., *The World's Writing Systems* (Oxford University Press, 1996), pages 821–846; R. H. Robins, *A Short History of Linguistics* (Longman, 4th edition 1997), Chapter 17; Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Routledge, 1998).
+Sources: International Phonetic Association, ["Historical charts of the International Phonetic Alphabet"](https://www.internationalphoneticassociation.org/IPAcharts/IPA_hist/IPA_hist_2018.html), entries for 1888, 1894, and 1900; International Phonetic Association, ["The IPA Chart projects"](https://www.internationalphoneticassociation.org/content/ipa-chart-projects); International Phonetic Association, *Handbook of the International Phonetic Association* (Cambridge University Press, 1999).
 
 ---
 
 ### `history-of-linguistics-sanskrit-influence`
 
-**Short:** The standard history-of-linguistics literature — R. H. Robins, *A Short History of Linguistics* (Longman, 4th ed. 1997); Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Routledge, 1998); Hartmut Scharfe, *Grammatical Literature* (Harrassowitz, 1977); George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988); John E. Joseph, *From Whitney to Chomsky* (Benjamins, 2002); Madhav Deshpande, *The Idea of the Independent Word in Pāṇinian Grammatical Tradition* (American Oriental Society, 1992) — documents the substantial European-philological absorption of Sanskrit *vyākaraṇa* (व्याकरण) analytical framework across the long 19th century: the phoneme concept, the morpheme concept, the generative-rule format, the 2D phonetic-classification grid.
+<!-- SOURCE-RECORDS
+- robins-history-linguistics-1997 | chapters on Indian and nineteenth-century linguistics
+- morpurgo-davies-nineteenth-century-1998 | Sanskrit and comparative philology
+- elsevier-discovery-sanskrit-europeans | European adoption of Sanskrit analytical concepts
+- oxford-indian-grammatical-tradition | influence beyond the subcontinent
+-->
+
+**Short:** Histories of linguistics document Sanskrit's decisive role in the formation of European comparative philology. European scholars learned Sanskrit analytical concepts and procedures from Sanskrit texts and scholars, including analysis through roots, suffixes, substitutions, and articulatory processes. The exact claim that the IPA's two-axis chart was copied from the *varṇamālā* is this book's conclusion from structural identity, chronological access, and missing acknowledgment; the cited histories do not provide a drafting-room record of that transfer.
 
 **Deployments:** Chapter 20 §20.2, “The Pyramid Steals the Sonomer” — the citation anchor for the European philological establishment's absorption of the Sanskrit *vyākaraṇa* discipline before it produced the IPA chart.
 
-The standard history-of-linguistics literature recognizes the Sanskrit vyākaraṇa discipline as a major source of analytical infrastructure and theoretical framework for nineteenth-century European linguistics. The principal references:
+The standard histories recognize the Sanskrit *vyākaraṇa* discipline as a major source of analytical material for nineteenth-century European linguistics. R. H. Robins treats ancient Indian linguistic theory before tracing Sanskrit's role in nineteenth-century comparative work. Anna Morpurgo Davies documents the same encounter in greater detail. The *International Encyclopedia of the Social and Behavioral Sciences* entry “The Discovery of Sanskrit by Europeans” states that European scholars learned analytical concepts such as roots, suffixes, substitution, and articulatory processes through their encounter with Sanskrit scholarship.
 
-1. **R. H. Robins, *A Short History of Linguistics*** (Longman, 4th edition 1997). The standard one-volume history. Chapter 6 (Indian linguistic theory) develops Pāṇini's *Aṣṭādhyāyī* and the Sanskrit vyākaraṇa discipline's analytical framework. Chapter 7 (Nineteenth-century linguistics) traces the European absorption of the Sanskrit framework across the comparative-philological project.
+Those sources establish deep access and substantial methodological influence. They do not, taken together, prove every stronger lineage once listed in this note. In particular, they do not by themselves establish that the European phoneme and morpheme concepts descend directly from Sanskrit categories, or that an identifiable drafter converted the *varṇamālā* into the 1900 IPA chart. The chapter's charge rests on the narrower documented sequence: European philology absorbed Sanskrit grammatical analysis for more than a century; the IPA then published a place-by-manner chart structurally equivalent to Sanskrit's *sthāna*-by-*prayatna* arrangement; its institutional history did not acknowledge that older architecture.
 
-2. **Anna Morpurgo Davies, *Nineteenth-Century Linguistics*** (Volume IV of the Routledge *History of Linguistics*, 1998). The authoritative academic history of nineteenth-century European linguistics. Chapters 1–3 develop the foundational role of Sanskrit grammatical analysis in establishing the comparative method.
-
-3. **Hartmut Scharfe, *Grammatical Literature*** (Volume V, Fascicle 2 of Jan Gonda's *A History of Indian Literature*, Otto Harrassowitz, 1977). The standard reference for the Sanskrit vyākaraṇa discipline itself.
-
-4. **George Cardona, *Pāṇini: His Work and Its Traditions*** (Motilal Banarsidass, 1988). The standard modern philological reconstruction of Pāṇini's work and its reception across both the Indian and European traditions.
-
-5. **John E. Joseph, *From Whitney to Chomsky: Essays in the History of American Linguistics*** (John Benjamins, 2002). Treats the specific American-linguistics tradition's engagement with Sanskrit, including Whitney's standard-reference role.
-
-6. **Madhav Deshpande, *The Idea of the Independent Word in Pāṇinian Grammatical Tradition*** (American Oriental Society, 1992). Specialist treatment of the *padam* (word) concept in Pāṇinian analysis and its influence on later linguistic analysis.
-
-The convergent historical claim across these references: the European-philological absorption of Sanskrit grammatical analysis across the long nineteenth century was substantial, structural, and acknowledged. Specific lines of influence:
-
-- **The phoneme concept.** European phonology's distinction between the phoneme as an abstract underlying unit and its phonetic realizations follows the *varṇa* / *ucchāraṇa* distinction used by the Sanskrit discipline.
-
-- **The morpheme concept.** European morphology's analysis of words into constituent morphemes follows the Sanskrit discipline's analysis of words into dhātu + affix combinations.
-
-- **The generative-rule format.** European generative phonology and generative syntax in the mid-twentieth century (Chomsky, Halle, the early formal-linguistics tradition) explicitly cited Pāṇini's *sūtra* format as the methodological precedent for rule-based linguistic description.
-
-- **The 2D phonetic-classification grid.** The IPA's full 1900 chart organizes consonants by place and manner on the same two-axis structure preserved by the *varga* matrix.
-
-The chapter's deployment: the standard history-of-linguistics literature documents the lines of influence in detail. The chapter's broader argument — that the contemporary phonological framework is structurally absorbed from Sanskrit — is anchored at this standard history. The English terms (labial, dental, retroflex, palatal, velar) have their own Greek and Latin anatomical etymologies, independent of Sanskrit; but the *systematic deployment* of these terms as a unified 2D phonological grid follows the Sanskrit framework absorbed across the nineteenth century.
-
-Standard references as enumerated above. The body of work is large and well-documented; the chapter's citation gestures at the standard history-of-linguistics literature without attempting an exhaustive enumeration.
+Sources: R. H. Robins, *A Short History of Linguistics*, 4th ed. (Longman, 1997), chapters 6–7; Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Routledge, 1998), chapters 1–3; “The Discovery of Sanskrit by Europeans,” *International Encyclopedia of the Social and Behavioral Sciences*; Oxford Bibliographies, “Indian Grammatical Tradition”; Hartmut Scharfe, *Grammatical Literature* (Harrassowitz, 1977); George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988).
 
 ---
 
@@ -4362,21 +4424,20 @@ Sources: *Ṛgveda* 1.1.1 in the Śākala recension; [*Ṛgveda-Prātiśākhya* 
 
 ### `muller-eic-rigveda`
 
-**Short:** Friedrich Max Müller, *Rig-Veda-Saṃhitā: The Sacred Hymns of the Brahmans, together with the Commentary of Sayanacharya* (Oxford University Press, 1849–1874, six volumes) — produced across a quarter-century at Oxford under East India Company patronage; Müller never visited the subcontinent. The broader *Sacred Books of the East* series (Oxford, 1879–1910, fifty volumes) was framed by a Christian-Protestant account of evolving religious consciousness — the *church of progress* in mid-19th-century philological vocabulary, the textual machinery through which the racial Arya thesis entered Sanskrit scholarship at scale.
+<!-- SOURCE-RECORDS
+- max-muller-autobiography-gutenberg | pp. 180–182 and 201–203
+- wellcome-muller-rigveda | six-volume bibliographic record
+-->
 
-**Deployments:** Chapter 18 §18.6 — the citation anchor for Max Müller's East India Company-funded Oxford edition of the *Ṛgveda* and the broader *Sacred Books of the East* enterprise.
+**Short:** Max Müller's six-volume *Rig-Veda-Saṃhitā* was printed at Oxford from 1849 to 1874 with the commentary of Sāyaṇa. Müller's autobiography records that H. H. Wilson and Bunsen secured East India Company support and that the Company bore the expense of printing the edition.
 
-Friedrich Max Müller (1823–1900), German philologist working at Oxford, produced his critical edition of the *Ṛgveda* under the patronage of the English East India Company across a quarter-century at Oxford. The edition:
+**Deployments:** Chapter 18 §18.6 — the East India Company support behind Müller's Oxford edition of the *Ṛgveda*.
 
-**Max Müller, *Rig-Veda-Saṃhitā: The Sacred Hymns of the Brahmans, together with the Commentary of Sayanacharya*** (six volumes, Oxford University Press, 1849–1874). The edition presented the *Ṛgveda Saṃhitā* text alongside Sāyaṇa's medieval commentary, with Müller's own scholarly apparatus. The work was funded across the quarter-century of production by the East India Company.
+Müller describes the project in *My Autobiography*. He first planned six quarto volumes and sought manuscripts held by the East India Company library and other European collections. On pp. 201–203, he states that Wilson and Bunsen supported his proposal, the East India Company agreed to bear the printing expense, and the arrangement enabled him to remain in London and complete the work. The Wellcome Collection's bibliographic record confirms the six-volume edition and its 1849–1874 publication range.
 
-Müller never visited the subcontinent. His engagement with Sanskrit was philological, mediated through the textual corpus available in European libraries and the manuscripts the East India Company's collecting machinery had brought to Oxford. His broader *Sacred Books of the East* project — fifty volumes published by Oxford University Press from 1879 to 1910 — extended the philological ecosystem to the received religious texts of multiple non-Western traditions (Hindu, Buddhist, Jain, Zoroastrian, Confucian, Taoist, Islamic). The series was the foundational scholarly enterprise by which the non-Western religious literatures entered European-academic engagement.
+These sources establish the institutional relationship used in Chapter 18: the Company that ruled India financed the European edition through which Müller presented the *Ṛgveda* and Sāyaṇa's commentary at large scale. The chapter's argument about the racial Arya thesis is developed elsewhere and does not depend upon adding a general account of Müller's theology to this note.
 
-The structural-religious apparatus Müller's machinery used: a Christian-Protestant comparative-philological reading system that treated Christianity as the implicit standard against which the other traditions were to be read. Müller's *Lectures on the Science of Religion* (1870) and his subsequent works develop the system explicitly — the religions of the world are stages of the evolution-of-religious-consciousness, with the Vedic religion representing an early stage, the Hindu / Buddhist / Zoroastrian traditions representing middle stages, and the Christian / Lutheran tradition representing the (implicitly highest) culminating stage. The structural assumption — that the religions can be plotted on a developmental sequence with Protestant Christianity at the terminus — is the church-of-progress apparatus expressed in mid-nineteenth-century philological vocabulary.
-
-The prosecutorial burden for Chapter 18: Müller's edition of the *Ṛgveda*, funded by the East India Company, is the textual machinery through which the racial Arya thesis entered Sanskrit scholarship at scale. The external-origin claim, the *ārya*-as-race category, the *dāsa*-as-aboriginal category, the dating of the *Ṛgveda* to a specific narrow chronological window — these are claims developed in and around Müller's edition. Chapter 18 does not require Müller to have been ill-intentioned; the structural fact is that the machinery exported the pyramid's account into the broader scholarly engagement with the *Ṛgveda* across the subsequent century.
-
-Standard references: Max Müller, *Rig-Veda-Saṃhitā* (Oxford, 1849–1874, six volumes); the *Sacred Books of the East* series (Oxford, 1879–1910, fifty volumes). Müller's autobiographical and methodological works: *My Autobiography: A Fragment* (Longmans, Green and Co., 1901, posthumous); *India: What Can It Teach Us?* (Longmans, Green and Co., 1883); *Lectures on the Science of Language* (Scribner, 1861–1864, two volumes); *Lectures on the Science of Religion* (Scribner, 1870). Scholarly treatments: Lourens van den Bosch, *Friedrich Max Müller: A Life Devoted to the Humanities* (Brill, 2002); Sharada Sugirtharajah, *Imagining Hinduism: A Postcolonial Perspective* (Routledge, 2003) on the colonial-philological framing; Edwin Bryant, *The Quest for the Origins of Vedic Culture* (Oxford University Press, 2001) on the racial Arya framing.
+Sources: F. Max Müller, *My Autobiography: A Fragment* (Longmans, Green, 1901), pp. 180–182 and 201–203; F. Max Müller, *Rig-Veda-Saṃhitā: The Sacred Hymns of the Brahmans, together with the Commentary of Sayanacharya* (Oxford, 1849–1874), six volumes; Wellcome Collection bibliographic record for the edition.
 
 ---
 
@@ -4650,31 +4711,19 @@ Source: Paul Arsenault, “Retroflexion in South Asia: Typological, Genetic, and
 
 ### `kailasa-temple-ellora-engineering`
 
-**Short:** The ***Kailāsa Temple*** (कैलास मन्दिर) at Ellora (Cave 16, Aurangabad district, Maharashtra) — one of the largest monolithic rock-cut structures in the world, carved top-down from a single basalt cliff-face (~200,000 tons of stone removed to expose a complete temple with *śikhara*, colonnades, surrounding shrines, and continuous figural friezes) — was designed by architects whose names the historical record does not preserve; the engineering is visible in the stone, testable, structurally rigorous. The structural analog to the *varṇamālā*: engineering is visible in what stands before us — the architecture itself is the evidence.
+<!-- SOURCE-RECORDS
+- unesco-ellora | Cave 16, monolithic construction, and structural innovation
+-->
 
-**Deployments:** Chapter 18 §18.1 — the Kailāsa temple analogy: a structure whose designer is unknown is still a designed structure, not an outgrowth of the basalt.
+**Short:** UNESCO identifies Cave 16 at Ellora as the complex's largest monolithic temple, an example of structural innovation, and a technological achievement without equal when the excavation of the rock alone is considered. Its architecture remains evidence of deliberate construction even though the identities of its designers are not available with modern biographical precision.
 
-**Candidate deployment:** Restore in Chapter 9 or Chapter 10 if the anonymous-engineering analogy is needed again: Kailasa temple at Ellora as the architectural analog to engineering visible without named designers.
+**Deployments:** Chapter 18 §18.1 — a structure whose designers are unnamed remains a designed structure rather than an outgrowth of its stone.
 
-The ***Kailāsa Temple (कैलास मन्दिर)*** at Ellora (Cave 16 of the Ellora cave-temple complex in the Aurangabad district of Maharashtra) is one of the largest monolithic rock-cut structures in the world. The temple is carved from a single basalt cliff-face, top-down, removing approximately 200,000 tons of stone to produce the temple's exposed structure. The construction is conventionally dated by the establishment historiography to the Rashtrakuta dynasty under King Krishna I (the book applies *strategic refusal* to Indic chronology and does not affirm the conventional dating).
+The Kailāsa Temple is Cave 16 of the Ellora complex in Maharashtra. UNESCO calls it the largest monolithic temple at Ellora, describes it as an example of structural innovation and the culmination of Indian rock-cut architecture, and notes that it translates models from constructed architecture into excavated rock. The source also records its elaborate workmanship, proportions, sculpture, and painted remains.
 
-The temple's structural features:
+That evidence is enough for the chapter's analogy. The structure was deliberately specified and made. Naming its designers is not a prerequisite for recognizing its engineering. Claims about an exact quantity of removed stone, a fully documented top-down sequence, or recoverable load calculations are not needed and have been removed from this note because the cited institutional source does not establish them.
 
-- **Single-block carving** — the entire temple, including its tall *śikhara* (spire), surrounding cave-shrines, free-standing colonnades, intricately sculpted figural panels, and surrounding courtyard, was carved from a single contiguous block of basalt. There are no joints; there is no assembly of separately-quarried stones. The structure is monolithic.
-
-- **Top-down carving sequence** — the carving proceeded from the top of the cliff face downward, with the temple's roof carved first and progressively excavated downward to expose the structure. The technique required the architects to anticipate, with full structural precision, the temple's internal geometry before any of it had been exposed.
-
-- **Structural-load modeling** — the top-down carving produced a building rather than a pile of rubble because the architects had modeled the structural-load distribution accurately. Each column, each wall, each ceiling-section bears load that the architects had calculated before the carving operation began.
-
-- **Multi-storey shrines** — the temple includes multiple levels of interior shrines, surrounding cave-spaces, and connecting passages that interlink the monolithic structure into a functional ritual complex.
-
-- **Iconographic program** — the temple's sculptural panels depict scenes from the *Rāmāyaṇa*, the *Mahābhārata*, and the broader *Itihāsa-Purāṇa* narrative world in continuous figural-narrative friezes that wrap the temple's exterior surfaces.
-
-The architects who designed the Kailāsa temple are anonymous to the historical record. No signed plans, no recorded biographies, no contemporary chronicle attributing the design to specific named individuals. The conventional historiography attributes the construction to royal patronage under Krishna I of the Rashtrakuta dynasty, but the *designers* — the figures who specified the rock-cutting sequence, the load distribution, the proportions, the iconographic program — are not named.
-
-The structural significance the chapter establishes: the Kailāsa temple is the architectural analog to the *varṇamālā*'s situation. Any engineer can walk the site, verify the rock-removal sequence, check the structural-load modeling, count the columns, measure the proportions. The architecture is testable. The architecture's designers are not named in the record. The architecture does not require the designers to be named for the architecture itself to be evidence of engineering. The *varṇamālā* has the same epistemic shape: the engineered phonetic system is present today, audible in every Sanskrit recitation, with its design constraints recoverable from its structure. No designing agents are visible in the record; the engineering-logic is visible everywhere in the grid; the architecture preserves the result.
-
-Standard references: M. K. Dhavalikar, *Cultural Imperialism: Indian Influence on Asia* (Books and Books, 1973), on the broader rock-cut temple lineage; Lisa N. Owen, *Carving Devotion in the Jain Caves at Ellora* (Brill, 2012); the Archaeological Survey of India's standard documentation on the Ellora cave-temple complex; Mary B. Cuddy, *Kailasanatha: The Iconology and Architecture of Cave 16 at Ellora* (Routledge, 2017); George Michell, *The Hindu Temple: An Introduction to Its Meaning and Forms* (University of Chicago Press, 1988) for the broader Hindu temple architecture framework; Stella Kramrisch, *The Hindu Temple* (University of Calcutta, 1946) — the classical scholarly engagement. The temple is also extensively documented in the contemporary archaeological-conservation literature and is a UNESCO World Heritage Site (inscribed 1983, as part of the Ellora Caves complex).
+Source: UNESCO World Heritage Centre, “Ellora Caves,” dossier 243, especially the descriptions of Cave 16 under “Brief synthesis” and Criterion (i).
 
 ---
 
@@ -5128,25 +5177,38 @@ Sources: Shady H. Nasser, “The Canonizations of the Qurʾān: Political Decree
 
 ### `conlangs-tolkien-okrand`
 
-**Short:** J. R. R. Tolkien (1892–1973; Merton Professor of English Language and Literature at Oxford) built ***Quenya*** and ***Sindarin*** for his Middle-earth legendarium across five decades — Latin-and-Finnish and Welsh-and-Old-English aesthetics respectively, with full phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words; Marc Okrand (PhD linguistics, UC Berkeley 1977) built ***Klingon*** (*tlhIngan Hol*) for Paramount Pictures starting with *Star Trek III* (1984), with a deliberate-foreignness phonology and a non-Indo-European typological profile (object-verb-subject word order, suffix-stacking apparatus). Both honest about what they are — invented-from-scratch creative constructions, not recovered ancestor-languages; the honesty Schleicher's 1868 *Avis akvāsas ka* lacks.
+<!-- SOURCE-RECORDS
+- tolkien-estate-invented-languages | Tolkien's invented languages
+- klingon-language-institute-new-words | creator-authorized lexical additions
+- dothraki-creator-site | creation and continuing vocabulary expansion
+- orwell-newspeak-appendix | deliberate contraction of Newspeak vocabulary
+-->
+
+**Short:** Quenya, Sindarin, Klingon, Dothraki, and Newspeak are openly presented as deliberately created languages. They all possess grammatical operations. Chapter 2 places them in its low-generativity quadrant because their reusable vocabularies remain bounded by an author, an authorized corpus, or creator-approved additions rather than by the absence of grammar.
 
 **Deployments:** Chapter 2 §2.3 — examples of deliberately constructed languages; Chapter 19 §19.1 — the citation anchor for the modern constructed-language (*conlang*) tradition's honest self-presentation as invented-from-scratch artificial languages.
 
-The constructed-language (*conlang*) tradition explicitly acknowledges that the languages are *invented* — built from scratch for fictional worlds or for specific creative purposes, not descended from any historical language community. The two foundational examples the chapter cites:
+Tolkien described himself as having made imaginary languages since childhood and called the principal languages of his legendarium his own construction. The Tolkien Estate's account traces the changing phonology, grammar, and vocabulary of Quenya and Sindarin across his manuscripts. The languages were never presented as the recovered speech of a historical community.
 
-**J. R. R. Tolkien (1892–1973)** built ***Quenya*** and ***Sindarin*** — the two principal Elvish languages of his Middle-earth legendarium — across approximately five decades of philological invention. Tolkien was Professor of Anglo-Saxon (Bosworth and Rawlinson chair, 1925–1945) and then Merton Professor of English Language and Literature (1945–1959) at Oxford. His philological training informed the conlang project: Quenya was modeled on a Latin-and-Finnish phonological aesthetic; Sindarin on a Welsh-and-Old-English aesthetic. Both languages have full phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words. Tolkien's *History of Middle-earth* (twelve volumes, posthumously edited by Christopher Tolkien, HarperCollins, 1983–1996) preserves the extensive philological notes and successive drafts of the language-construction work. The standard references: Christopher Tolkien, ed., *The History of Middle-earth*; the *Vinyar Tengwar* and *Parma Eldalamberon* journals (the official Tolkien-Estate-authorized publications of Tolkien's linguistic papers); David Salo, *A Gateway to Sindarin: A Grammar of an Elvish Language from J.R.R. Tolkien's Lord of the Rings* (University of Utah Press, 2004).
+Marc Okrand created Klingon for *Star Trek*. The Klingon Language Institute's list of later words records the source of each addition and distinguishes words supplied by Okrand from other material. David J. Peterson's Dothraki site likewise identifies him as the language's creator and describes a vocabulary that continues to grow. In both cases, the creator or an authorized source still determines which additions enter the canonical language.
 
-**Marc Okrand (born 1948)** built ***Klingon (tlhIngan Hol)*** for Paramount Pictures, starting with the language work for *Star Trek III: The Search for Spock* (1984) and continuing through the subsequent *Star Trek* franchise productions. Okrand has a Ph.D. in linguistics from the University of California, Berkeley (1977; dissertation on Mutsun, a now-dormant Indigenous California language). His Klingon construction includes a complete phonology with the deliberate-foreignness aesthetic (heavy aspiration, retroflex articulations, glottal-stop phonemes), agglutinative case-and-aspect morphology with a non-Indo-European typological profile (object-verb-subject word order, suffix-stacking grammatical apparatus), and a vocabulary the Klingon-speaking community has since extended through the *Klingon Language Institute* (founded 1992). The standard references: Marc Okrand, *The Klingon Dictionary* (Pocket Books, 1985; revised editions); *The Klingon Way* (Pocket Books, 1996); *Klingon for the Galactic Traveler* (Pocket Books, 1997); the *Klingon Language Institute* publications at kli.org.
+Newspeak is a deliberately restrictive case. Orwell's appendix to *Nineteen Eighty-Four* states that it was designed to reduce the range of thought and that its vocabulary would shrink rather than expand. It belongs in the same quadrant for a different reason: restriction was its stated purpose.
 
-The structural significance the chapter establishes: both conlang projects are *honest* about what they are. Tolkien and Okrand do not claim that Quenya or Klingon descend from any historical language community; they acknowledge the languages as invented-from-scratch creative constructions. The contrast the chapter develops: Schleicher's 1868 Proto-Indo-European fable was *also* an invented-from-scratch construction, but the philological dogma has treated it as the recovered ancestor of a real historical language family. The conlang tradition displays the honesty the PIE reconstruction project lacks; the chapter's prosecutorial mode at this passage exposes the structural-typological similarity (both projects build artificial languages from scratch) while flagging the categorical difference (the conlang tradition acknowledges the invention; the PIE reconstruction project does not).
+The chapter's term *low generativity* does not mean that these languages lack morphology, syntax, or the ability to form sentences. It identifies their dependence on a bounded lexicon whose canonical extension still comes from an author, fictional corpus, or authorized source. That is the book's analytical category rather than a standard classification used by conlang creators.
 
-Standard references as enumerated above.
+Sources: Carl F. Hostetter, [“Tolkien's Invented Languages,” Tolkien Estate](https://www.tolkienestate.com/scholarship/carl-hostetter-tolkiens-invented-languages/); Klingon Language Institute, [“New Klingon Words”](https://www.kli.org/about-klingon/new-klingon-words/all/); David J. Peterson, [“About Dothraki”](https://dothraki.com/about-dothraki/); George Orwell, [“The Principles of Newspeak,” appendix to *Nineteen Eighty-Four*](https://orwell.ru/library/novels/1984/english/en_app).
 
 ---
 
 ### `pie-term-history`
 
-**Short:** The term ***Proto-Indo-European*** (PIE) as a stable academic reference is *recent* — Schleicher's 1861 *Compendium* and 1868 fable used *indogermanisch* / *Ursprache*; *Proto-Indo-European* enters the literature around 1905; the *PIE* abbreviation routinizes mid-20th century (Watkins's *American Heritage* IE Roots Appendix 1969; Pokorny's *Indogermanisches etymologisches Wörterbuch* 1959 uses *idg.* but English-secondary literature standardizes on *PIE*); ubiquitous in routine online reference (etymonline 2001, Wiktionary) only in the past quarter century. The apparent solidity is recent consolidation, not ancient certainty.
+<!-- SOURCE-RECORDS
+- schleicher-compendium-1874-english | nineteenth-century English terminology
+- etymonline-proto-indo-european | adjective recorded by 1905
+- lehmann-pie-phonology-1952 | term in title and abbreviation in scholarly use
+-->
+
+**Short:** The reconstructed object is older than its current English name. Schleicher's 1861 *Compendium* and 1868 fable used *indogermanisch* and *Ursprache*. The adjective *Proto-Indo-European* is recorded by 1905. Winfred P. Lehmann's *Proto-Indo-European Phonology* shows that both the full term and the abbreviation *PIE* were established scholarly language by 1952. The currently available sources do not establish a precise first appearance or the decade in which the abbreviation became routine.
 
 **Deployments:** Chapter 19 §19.4 ¶ — the citation anchor for the historical chronology of *Proto-Indo-European* as a stable term.
 
@@ -5156,35 +5218,40 @@ The term ***Proto-Indo-European*** (PIE) enters the academic literature as a sta
 
 - **Late nineteenth century**: The neogrammarian period (Brugmann's *Grundriss*, 1886–1893; the Karl Verner contributions; the broader Junggrammatiker school) consolidates the reconstruction methodology. The terminology stabilizes around *indogermanisch* in German scholarship and *Indo-European* in English-language scholarship; the proto-language is referred to as the *Ursprache* or *the parent language* or *common Indo-European*.
 
-- **Early twentieth century**: The term *Proto-Indo-European* enters the academic literature around 1905 (the conventional dating in standard history-of-linguistics references). The term is used initially in specialized publications and gradually generalizes through the early-to-mid twentieth century.
+- **Early twentieth century**: The adjective *Proto-Indo-European* is recorded by 1905. That date establishes use by that year; it does not establish the first occurrence or prove that the expression was already the field's stable default.
 
-- **Mid-twentieth century**: The *PIE* abbreviation enters routine academic usage in mid-twentieth-century scholarship. Watkins's contributions to the *American Heritage Dictionary*'s Indo-European Roots Appendix (first edition 1969) use *PIE* as the standard abbreviation; Pokorny's *Indogermanisches etymologisches Wörterbuch* (1959) uses *idg.* as the German abbreviation but the English secondary literature standardizes on *PIE*.
+- **Mid-twentieth century**: Winfred P. Lehmann's *Proto-Indo-European Phonology* (1952) uses the full term in its title and *PIE* throughout the work. Pokorny's *Indogermanisches etymologisches Wörterbuch* (1959) continued to use the German abbreviation *idg.*. These records establish concurrent usage; they do not by themselves date when *PIE* became routine across the whole field.
 
 - **Late twentieth century onward**: *PIE* becomes ubiquitous in routine academic and reference usage. The Online Etymology Dictionary (etymonline.com, launched 2001), Wiktionary, and the broader online etymological-reference ecosystem standardize on *PIE* as the routine terminological reference.
 
-The structural significance the chapter establishes: the apparent solidity of *Proto-Indo-European* as a stable academic reference is *recent* — substantially a mid-twentieth-century consolidation that became routine fast enough that current students do not realize how recent the routine is. The chapter is not arguing against an ancient certainty; it is arguing against a recent academic-reference-ecosystem consolidation that has been cemented in routine reference works during the past quarter century (see endnote `pie-cementing-recent-decades`).
+The sources securely establish a change in terminology: Schleicher wrote of an Indo-European or Indo-Germanic original language, while twentieth-century English scholarship standardized the present name and abbreviation. A precise claim about when the term became stable or routine requires a dedicated bibliographic corpus search. See endnote `pie-cementing-recent-decades` for the separate growth of PIE notation in recent dictionaries and online references.
 
-Standard references: R. H. Robins, *A Short History of Linguistics* (Longman, 4th edition 1997); Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Routledge, 1998); Calvert Watkins, *The American Heritage Dictionary of Indo-European Roots* (Houghton Mifflin, multiple editions since 1969); Julius Pokorny, *Indogermanisches etymologisches Wörterbuch* (Francke Verlag, 1959); the history-of-PIE-terminology discussion in: George Cardona, *The Indo-Aryan Languages* (Routledge, 2003); J. P. Mallory and Douglas Q. Adams, *Encyclopedia of Indo-European Culture* (Fitzroy Dearborn, 1997).
+Sources: August Schleicher, *A Compendium of the Comparative Grammar of the Indo-European, Sanskrit, Greek and Latin Languages*, trans. Herbert Bendall (London: Trübner, 1874), printed pp. 5 and 8; [Online Etymology Dictionary, “Proto-Indo-European”](https://www.etymonline.com/word/Proto-Indo-European), for use by 1905; Winfred P. Lehmann, [*Proto-Indo-European Phonology*](https://lrc.la.utexas.edu/books/piep/index) (University of Texas Press and Linguistic Society of America, 1952), title and passim.
 
 ---
 
 ### `thomason-kaufman-1988`
 
-**Short:** Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988) — foundational account in language-contact theory: any feature (structural or lexical) can in principle transfer between languages in contact; the intensity and duration of contact predicts the depth of structural transfer (four-level scale from casual contact to very strong cultural pressure, with predicted contact-transfer depths at each level). The account supports the chapter's reversal hypothesis: prolonged multi-generational Sanskrit-bearing specialist contact with Central / West Asian languages would produce extreme structural-transfer effects.
+<!-- SOURCE-RECORDS
+- thomason-kaufman-1988 | pp. 14 and 74–76
+- ucpress-thomason-kaufman | publication record
+-->
+
+**Short:** Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988) argues that, under sufficient contact, structural as well as lexical features can transfer between languages. Its borrowing scale has **five levels**, from casual contact through very strong cultural pressure, with progressively deeper effects predicted at each level. The scale supports the possibility of extensive transfer under prolonged contact; it does not determine the historical direction of any particular Sanskrit encounter.
 
 **Deployments:** Chapter 19 §19.7 — the citation anchor for the Thomason-Kaufman account of language contact and structural borrowing.
 
 Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988). The book is the foundational late-twentieth-century reframing of language-contact theory in historical linguistics. The two principal claims the chapter draws on:
 
-**First**, any feature — structural or lexical — can in principle transfer between languages in contact. The older assumption (going back to the neogrammarian period and earlier) that *grammar is borrowing-proof* — that contact can transfer vocabulary but cannot transfer structural-grammatical features — is definitively rejected. Thomason and Kaufman demonstrate, through extensive cross-linguistic case studies (the Australian situations, the African Pidgin/Creole continuum, the Anatolian-Indo-European contact zone, the Hindi-Persian-Arabic contact in early-modern north India, the broader contact-typology literature), that grammatical features routinely transfer between contact languages under sufficiently intense and prolonged contact.
+**First**, Thomason and Kaufman state that any linguistic feature can in principle be transferred from one language to another. Their cases demonstrate that sufficiently intense and prolonged contact can transfer grammar as well as vocabulary.
 
-**Second**, the intensity and duration of contact predicts the depth of structural transfer. Light/brief contact transfers vocabulary primarily; intense/prolonged contact transfers vocabulary, phonology, morphology, and syntax. Thomason and Kaufman develop a four-level scale of contact intensity (casual contact; slightly more intense contact; more intense contact; intense contact; very strong cultural pressure) with predicted contact-transfer depths at each level.
+**Second**, the intensity and duration of contact predict the depth of transfer. Light contact primarily transfers vocabulary; stronger contact can also transfer phonology, morphology, and syntax. Thomason and Kaufman develop a **five-level** scale: casual contact, slightly more intense contact, more intense contact, strong cultural pressure, and very strong cultural pressure. See pp. 74–76.
 
-The structural significance the chapter establishes: the reversal hypothesis the chapter develops — that the contact-transfer direction in pre-historic Indic-and-Indo-European contact ran from *Sanskrit-bearing specialists* outward to the Central-and-West-Asian natural languages, not inward to Indic — posits *exactly* the contact conditions Thomason and Kaufman identify as producing extreme contact effects. The Mitanni record (see endnote `mitanni-sanskritic-evidence`) is direct documentation of multi-generational specialist contact between Sanskrit-bearing experts and a non-Indic ruling apparatus in northern Mesopotamia. The Thomason-Kaufman account supports the chapter's analytical move: prolonged, multi-generational engagement of Sanskrit-bearing specialists with the natural languages of Central and West Asia would have produced exactly the kind of structural transfer the reversal hypothesis posits.
+The scale establishes that deep structural transfer is possible under sustained contact. It does not establish that the relevant historical contact occurred, identify its carriers, or determine its direction. Chapter 19 argues those points separately and uses the Mitanni record as one documented instance of Sanskritic specialist vocabulary within a non-Indic political setting.
 
 Subsequent literature extending the Thomason-Kaufman account: Thomason, *Language Contact: An Introduction* (Edinburgh University Press, 2001); Yaron Matras, *Language Contact* (Cambridge University Press, 2009); Donald Winford, *An Introduction to Contact Linguistics* (Wiley-Blackwell, 2003); the *Journal of Language Contact* (Brill, 2007–present).
 
-Standard reference: Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988).
+Standard reference: Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988), especially p. 14 and pp. 74–76.
 
 ---
 
@@ -5232,6 +5299,11 @@ Sources: *Ṛgveda* 10.129.1 and 10.129.6; *Dhātupāṭha*, entries **असँ
 
 ### `vyutpatti-fivefold-method`
 
+<!-- SOURCE-RECORDS
+- kashika-ashtadhyayi-6-3-109 | fivefold nirukta verse and textual location
+- sanskritdocuments-dhatupatha-index | Sanskrit atom inventory used in the worked comparisons
+-->
+
 **Short:** The lineage-preserved fivefold method of *nirukta* and *vyutpatti* records four sound operations within Sanskrit word-analysis — addition, transposition, modification, and loss — together with a semantic extension grounded in the *dhātu*. Appendix Part 1 extends those categories into a repeatable student exercise: begin with the PIE image, gather the recorded forms, render their approximate sounds in Devanagari, and map consonants, vowels, and meaning separately.
 
 **Deployments:** Chapter 19 §19.7 — the compact *yuj / yoke* demonstration; Appendix Part 1 §1.5 — the complete method and expanded comparative cases; Epilogue, "Where the Nectar Rises" — the research protocol for Greek, Latin, Persian, and other receiving languages.
@@ -5266,11 +5338,18 @@ Sources: *Kāśikāvṛtti* on *Aṣṭādhyāyī* 6.3.109, [पृषोदर�
 
 ### `yuj-bhr-radiance-method`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 1.6.1, 7.87.4, 10.101.3, and 10.102.6
+- ashtadhyayi-rule-cluster-digital | 6.1.4, 8.2.30, and 8.4.55
+- hemacandra-prakrit-grammar-8-1-187 | aspirated stops to h between vowels
+- ut-indo-european-lexicon-yuj-bhr | entries yeu-g- and bher-
+-->
+
 **Short:** Chapter 19 places the PIE yoke image and its receiving-language forms before the Sanskrit evidence, then renders each form approximately in Devanagari. Appendix Part 1 expands the comparison. The Veda supplies **युञ्जन्ति / युगा / युक्त (*yuñjanti / yugā / yukta*)** and **बिभर्ति (*bibharti*)** before Pāṇini documents the relevant Sanskrit operations. The first family displays **ज → ग → क (*j → g → k*)**; the second places **ब (*b*)** and **भ (*bh*)** inside one Vedic word.
 
 **Deployments:** Chapter 19 §19.7; Appendix Part 1 §1.5; Epilogue, "Where the Nectar Rises."
 
-Ṛgveda 1.6.1 uses **युञ्जन्ति (*yuñjanti*)**, "they yoke." Ṛgveda 10.101.3 uses **युगा (*yugā*)**, "the yokes," and Ṛgveda 10.102.9 uses **युक्त (*yukta*)**, "yoked" or "joined." These Vedic forms place palatal **ज (*j*)**, voiced velar **ग (*g*)**, and voiceless velar **क (*k*)** inside one semantic family. Pāṇini later documents the movements between their grid addresses through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. His rules govern Sanskrit under stated conditions; the chapter does not present them as rules applied inside Greek or Latin.
+Ṛgveda 1.6.1 uses **युञ्जन्ति (*yuñjanti*)**, "they yoke." Ṛgveda 10.101.3 uses **युगा (*yugā*)**, "the yokes," and Ṛgveda **10.102.6** uses **युक्त (*yukta*)**, "yoked" or "joined." Verse 10.102.9 instead has **युञ्जम् (*yuñjam*)**. These Vedic forms place palatal **ज (*j*)**, voiced velar **ग (*g*)**, and voiceless velar **क (*k*)** inside one semantic family. Pāṇini later documents the movements between their grid addresses through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. His rules govern Sanskrit under stated conditions; the chapter does not present them as rules applied inside Greek or Latin.
 
 The comparative family includes Greek **ζυγόν (*zygon*)**, Latin ***iugum***, Gothic ***juk***, and English ***yoke***. The usual reconstruction places **\*yeug- / \*yug-** above them. The chapter presents that account first, then shows that the recorded Sanskrit atom **⟪युज्⟫**, its generated family, and the Vedic **j / g / k** forms contain the physical and semantic relationships that the starred image claims to explain.
 
@@ -5278,11 +5357,18 @@ The comparative family includes Greek **ζυγόν (*zygon*)**, Latin ***iugum**
 
 The proposed project must therefore keep three levels distinct: Vedic forms establish what Sanskrit already uses; Pāṇini documents Sanskrit's controlled operations; Hemacandra records changes in Prakrit and Apabhraṃśa. The comparison with Greek, Latin, Germanic, and other receiving languages is a separate research test. Repetition across many families, semantic continuity, and historically plausible paths of Sanskritic radiance must establish the larger case.
 
-Sources: *Ṛgveda* 1.6.1, 10.101.3, 10.102.9, and 7.87.4; *Dhātupāṭha*, **युजिँर् योगे**, **डुभृञ् धारणपोषणयोः**, and **भृञ् भरणे**; *Aṣṭādhyāyī* 8.2.30, [चोः कुः](https://ashtadhyayi.com/sutraani/8/2/30), 8.4.55, **खरि च**, and 6.1.4, **पूर्वोऽभ्यासः**; the lineage's derivation of [योग](https://ashtadhyayi.com/amara/3.3?page=kosha&search=%E0%A4%AF%E0%A5%8B%E0%A4%97); Hemacandra, *Siddha-Hema* 8.1.187; University of Texas Linguistics Research Center, Indo-European Lexicon entries for [*yeu-g-*](https://lrc.la.utexas.edu/lex/master/0785), [*bher-*](https://lrc.la.utexas.edu/lex/master/0229), and [*gen-*](https://lrc.la.utexas.edu/lex/master/0566).
+Sources: *Ṛgveda* 1.6.1, 10.101.3, 10.102.6, and 7.87.4; *Dhātupāṭha*, **युजिँर् योगे**, **डुभृञ् धारणपोषणयोः**, and **भृञ् भरणे**; *Aṣṭādhyāyī* 8.2.30, [चोः कुः](https://ashtadhyayi.com/sutraani/8/2/30), 8.4.55, **खरि च**, and 6.1.4, **पूर्वोऽभ्यासः**; the lineage's derivation of [योग](https://ashtadhyayi.com/amara/3.3?page=kosha&search=%E0%A4%AF%E0%A5%8B%E0%A4%97); Hemacandra, *Siddha-Hema* 8.1.187, which gives **ख घ थ ध भाम्** and examples including *mukha → muha*, *megha → meha*, and *svabhāva → sahāva*; University of Texas Linguistics Research Center, Indo-European Lexicon entries for [*yeu-g-*](https://lrc.la.utexas.edu/lex/master/0785), [*bher-*](https://lrc.la.utexas.edu/lex/master/0229), and [*gen-*](https://lrc.la.utexas.edu/lex/master/0566).
 
 ---
 
 ### `upasarga-radiance-apa`
+
+<!-- SOURCE-RECORDS
+- ashtadhyayi-rule-1-4-59 | upasargāḥ kriyāyoge
+- zanchi-multiple-preverbs-2019 | Vedic and Homeric preverbs
+- lsj-apo | Greek preposition and preverb
+- lewis-short-ab-abs | Latin preposition and compound element
+-->
 
 **Short:** Sanskrit **अप (*apa*)**, Greek **ἀπό (*apó*)**, and Latin ***ab / abs*** provide the pilot case for extending the Radiance Mapping Project from atoms to directional operators. The conventional comparison places reconstructed **\*h₂epo** above the three forms. The book begins instead from the recorded Sanskrit operator and tests whether the receiving languages preserve parts of its repeated behavior.
 
@@ -5298,27 +5384,38 @@ The conventional PIE account and the comparative preverb evidence are documented
 
 ### `agastya-sources`
 
-**Short:** The ***Agastya*** (अगस्त्य) lineage is documented across both northern and southern textual lineages: northern sources (*Ṛgveda* hymns 1.165–1.191 attributed to Agastya with Lopāmudrā; *Mahābhārata Vana Parva adhyāyas* 96–108 with the *Vindhya-bowing* episode; *Rāmāyaṇa* references in the *Araṇya Kāṇḍa*) and southern Tamil sources (the ***Agattiyam*** (अगत्तियम्) — first Tamil grammar attributed to Agastya, non-extant today but cited in *Tolkāppiyam* commentaries; the *Velvikkudi* and *Chinnamanoor* copper-plate inscriptions citing Agastya as priest, Tamil teacher, and Pandya-dynasty coronation-performer). Both lineages agree on north-to-south travel, teaching role, and foundational status — calibrant transmission as absorption, not replacement.
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 1.165-191; RV 1.179 dialogue
+- tamil-university-agastya-tamil-tradition | absence from Tolkāppiyam and later commentarial tradition
+- epigraphia-indica-17-velvikkudi | pp. 291-309; Agastya in Pandya genealogy
+- mahabharata-vana-agastya | Vana Parva Agastya cycle
+-->
+
+**Short:** Vedic and post-Vedic sources remember Agastya in the north, while later Tamil literary and inscriptional traditions place him deeply within the south. The *Ṛgveda* attributes 1.165–1.191 to the Agastya lineage; 1.179 is the dialogue of Agastya and Lopāmudrā. The *Mahābhārata* and *Rāmāyaṇa* remember his movement south. Tamil tradition attributes the lost *Agattiyam* to him, and the Velvikkudi grant places him in Pandya royal memory as the dynasty's family priest.
 
 **Deployments:** Chapter 20 §20.1 ¶ — the citation anchor for the *Agastya* lineage and the dual northern-and-southern textual evidence for his role.
 
-The *Agastya* lineage is documented across multiple bodies of textual evidence:
+The *Ṛgveda* attribution is to the Agastya lineage, not jointly to Agastya and Lopāmudrā throughout the whole sequence. Lopāmudrā appears specifically in the dialogue hymn RV 1.179. The *Mahābhārata* develops an Agastya cycle in the *Vana Parva*, including the Vindhya episode, and the *Rāmāyaṇa* places Agastya in its southern geography.
 
-**Northern (Vedic and post-Vedic) sources**: *Ṛgveda* hymns 1.165–1.191 are attributed to *Agastya* (co-authored with *Lopāmudrā*); the *Mahābhārata* (*Vana Parva*, *adhyāyas* 96–108) develops the Agastya narrative substantially, including the famous *Vindhya-bowing* episode (Agastya travels south, crosses the Vindhyas, and the Vindhya mountain bows in respect, agreeing to remain bowed until Agastya returns from the south — a narrative the lineage-chain reads as the metaphorical opening of the southern subcontinent to Vedic transmission); the *Rāmāyaṇa* references Agastya at multiple points in the *Aranya Kaṇḍa*.
+The southern evidence belongs to later Tamil memory. Agastya is not named in the *Tolkāppiyam* or in Panamparanar's preface. Medieval commentators, however, attribute an earlier grammar called the *Agattiyam* to him and present it as a source or predecessor of the *Tolkāppiyam*. The work itself is lost. The eighth-century Velvikkudi copper plates place Agastya in the Pandya genealogy as family priest. These witnesses establish the depth of the southern tradition without turning every later attribution into a contemporary record of Agastya's life.
 
-**Southern Tamil-lineage sources**: the *Agattiyam* (अगत्तियम्) — credited in Tamil sources as the first Tamil grammar, attributed to Agastya. The text is *non-extant today*; it is referenced in fragments and citations by medieval Tamil commentators, including in the *Tolkāppiyam* commentarial literature. The *Velvikkudi* and *Chinnamanoor* copper-plate inscriptions of the Pandya dynasty record Agastya as priest, Tamil teacher, and coronation-performer for the Pandya royal lineage; the *Velvikkudi* grant (dated to the eighth century CE by the conventional chronology) cites Agastya in the genealogical preamble.
+Chapter 20 uses the convergence as lineage memory of a carrier: Vedic tradition remembers Agastya; epic narrative remembers movement south; Tamil literary tradition remembers a teacher of Tamil; and Pandya inscriptional memory attaches him to the dynasty. The further claim that this pattern exemplifies transmission by absorption rather than replacement belongs to the book's argument.
 
-**The convergence**: both northern and southern lineages agree on (a) Agastya's *north-to-south travel*, (b) his *teaching role*, and (c) his foundational status in the southern textual continuum. The differences are in *emphasis*: northern legends emphasize his role in spreading the Vedic corpus; southern lineages emphasize his role in spreading agriculture, irrigation, and Tamil grammar. The two emphases are complementary, not contradictory.
-
-Structural significance: the calibrant transmission analyzed here — the transmission of analytical infrastructure across the linguistic-and-cultural boundary between Sanskrit and Tamil — did not require the receiving lineage to be *erased*. It required the receiving lineage to *absorb* a new analytical infrastructure transmitted by an expert. Tamil sources record the absorption gracefully — Agastya is *the father of the Tamil language*, not its *replacer*. The Tamil continuum continues, with the absorbed system extending the lineage's analytical reach rather than displacing the Tamil-internal content.
-
-Standard references: For the northern textual evidence: *Ṛgveda* 1.165–1.191; *Mahābhārata*, *Vana Parva*, *adhyāyas* 96–108. For the southern Tamil evidence: Kamil Zvelebil, *The Smile of Murugan* (Brill, 1973); A. Veluppillai, *Epigraphical Evidences for Tamil Studies* (International Institute of Tamil Studies, 1980); the *Velvikkudi* inscription in *Epigraphia Indica* Volume 17; T. P. Meenakshisundaran, *A History of Tamil Literature* (Annamalai University, 1965). For the broader Agastya lineage: Madeleine Biardeau, *Hinduism: The Anthropology of a Civilization* (Oxford University Press, 1994); Stephanie Jamison and Joel Brereton, translators, *The Rigveda: The Earliest Religious Poetry of India* (Oxford University Press, 2014), three-volume translation with Agastya-attributed hymns in volume 1.
+Sources: *Ṛgveda* 1.165–1.191, especially 1.179; *Mahābhārata*, *Vana Parva*, Agastya cycle; S. V. Shanmugam, “Agastya in Tamil Grammatical Tradition,” Tamil University, especially the discussion of the *Tolkāppiyam* and its commentators; H. Krishna Sastri, “The Velvikudi Grant of Nedunjadaiyan,” *Epigraphia Indica* 17 (1923–24), pp. 291–309; Kamil Zvelebil, *The Smile of Murugan* (Brill, 1973).
 
 ---
 
 ### `mitanni-sanskritic-evidence`
 
-**Short:** The Mitanni kingdom (northern Mesopotamia, c. 16th–14th centuries BCE conventional chronology) preserves four distinct lines of Sanskritic-linguistic evidence: (1) the Hittite-Mitanni treaty (CTH 51 / KBo I 1) invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* as treaty-witness deities; (2) the Kikkuli horse-training treatise (CTH 284–286) uses *aika* (a receiving-language rendering of Sanskrit *eka*), *tera* (*tri*), *panza* (*pañca*), *satta* (*sapta*), *na* (*nava*), and *vartana* (*vartana*); (3) Mitanni throne names (*Tushratta* = *Tveṣaratha*, *Shattiwaza* = *Sātivāja*, *Indaruda* = *Indrota*, *Artashumara* = *Ṛtasmara*); (4) the *marya* warrior-class term. The record dates the reception of Sanskritic content in Mitanni, not the formation of Sanskrit.
+<!-- SOURCE-RECORDS
+- iranica-earliest-iranian-evidence | Mitanni treaty deities and Kikkuli aika-vartana
+- thieme-mitanni-treaty-deities-1960 | JAOS 80.4, pp. 301-317
+- mayrhofer-mitanni-names | royal and personal names
+- iranica-artassumara | royal name and Indo-Aryan analysis
+- oracc-mitanni-royal-names | cuneiform name records
+-->
+
+**Short:** Records from Mitanni and its Near Eastern setting preserve several kinds of Sanskritic material. The Hittite-Mitanni treaty invokes *Mitra-Varuṇa*, *Indra*, and the two *Nāsatyas*. The Kikkuli horse-training text uses terms including *aika-vartana*, “one turn.” Royal and personal names in the same documentary field have long received Indo-Aryan analyses, including Tushratta and Artashumara. The evidence dates the written reception of this material outside India; it does not date Sanskrit's formation.
 
 **Deployments:** Chapter 20 §20.1 ¶ — the citation anchor for the Mitanni Sanskritic-linguistic evidence.
 
@@ -5337,16 +5434,16 @@ The *Mitanni* kingdom of northern Mesopotamia (modern-day eastern Turkey, northe
 
 Sanskrit's analytical continuum derives **एक (*eka*)** internally from the atom ⟪इ⟫ — **इण् गतौ (*iṇ gatau*)** — with the Uṇādi affix **कन् (*kan*)**. *Uṇādi-sūtra* 3.43 gives the operation directly: **इण्भीकापाशल्यतिमर्चिभ्यः कन् (*iṇ-bhī-kai-pā-śal-yati-marci-bhyaḥ kan*)**. The final *n* receives the marker designation under *Aṣṭādhyāyī* 1.3.3 and disappears under 1.3.9, leaving *ka*; *guṇa* under 7.3.84 changes **इ (*i*)** to **ए (*e*)**. The result is *eka*. Within the book's architectural account, *eka* is therefore an engineered Sanskrit molecule rather than a contraction descended from Mitanni *aika*. The direction runs from Sanskrit into the receiving language: *aika* records how the Mitanni linguistic setting rendered *eka*. The tablet dates that reception; it does not date the Sanskrit formation.
 
-**Mitanni rulers' throne names.** The Mitanni royal lineage includes Sanskritic-derivable throne names:
+**Royal and personal names.** Several names in Mitanni and neighboring records have received Indo-Aryan analyses:
 
 - *Tushratta* → *Tveṣaratha* (*tveṣa-ratha* = brilliant-chariot).
 - *Shattiwaza* → *Sātivāja* (*sāti-vāja* = victorious-power).
-- *Indaruda* → *Indrota* (*indra-uta* = aided-by-Indra).
+- *Indaruda* → *Indrota* (*indra-uta* = aided-by-Indra). Indaruda belongs to the wider Syrian-Palestinian documentary field and should not be listed as a Mitanni king.
 - *Artashumara* → Mitanni Sanskritic *Artasmara* / Vedic cognate *Ṛtasmara* (*r̥ta-smara* = recalling-*r̥ta* / cosmic order).
 
-**The *marya* warrior-class.** Mitanni warriors are called *marya* — the Sanskrit term for *(young) warrior*. The term is documented in the Hittite-Mitanni records and is preserved in the political-administrative vocabulary of the Mitanni state.
+**The *maryannu* designation.** Near Eastern records use *maryannu* for a chariot-warrior class associated with the Mitanni political world. Scholars commonly compare its first element with Vedic **मर्य (*marya*)**, “young man” or “warrior,” while recognizing that the recorded term belongs to a receiving linguistic setting.
 
-Structural significance: the Mitanni Sanskritic evidence is the historical-empirical anchor for Wave 1 of the calibrant transmission — the transmission of Sanskritic linguistic, cultural, and intellectual architecture by expert specialists into non-Indic political-cultural zones. The evidence is in a non-Indic diplomatic document, in a non-Indic horse-training manual, in non-Indic royal nomenclature, in non-Indic warrior-class vocabulary. The Sanskritic content is *not* the inherited tradition of the Mitanni state; it is the absorbed-from-elsewhere expert architecture the Mitanni ruling elite used alongside their own Hurrian-language tradition.
+The treaty and horse-training vocabulary are the strongest direct evidence. The onomastic and *maryannu* evidence broadens the pattern but depends upon linguistic analysis rather than an explicit statement of origin. Chapter 20 interprets the combined record as evidence of specialist transmission into a Hurrian-speaking political setting.
 
 Standard references: Paul Thieme, "The 'Aryan' Gods of the Mitanni Treaties," *Journal of the American Oriental Society* 80.4 (1960): 301–317 — the standard settlement of the treaty-deity identifications. Manfred Mayrhofer, *Die Indo-Arier im alten Vorderasien: Mit einer analytischen Bibliographie* (Otto Harrassowitz, Wiesbaden, 1966) — the standard bibliographic-analytical reference on the Indo-Aryan content in the Near East; Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Carl Winter, Heidelberg, 1992–2001) for the onomastic corpus. Annelies Kammenhuber, *Die Arier im Vorderen Orient — ein Mythos?* (Carl Winter, Heidelberg, 1968) — the skeptical-argumentative companion that scholars have continued to engage. Edwin Bryant, *The Quest for the Origins of Vedic Culture: The Indo-Aryan Migration Debate* (Oxford University Press, 2001), the linguistic-evidence chapters on the Mitanni record; Edwin Bryant and Laurie Patton, eds., *The Indo-Aryan Controversy: Evidence and Inference in Indian History* (Routledge, 2005) — the standard edited volume in the debate. Frits Staal, *Discovering the Vedas* (Penguin India, 2008) for the broader contextual analysis. For the Kikkuli text: Annelies Kammenhuber, *Hippologia hethitica* (Otto Harrassowitz, Wiesbaden, 1961); Frank Starke, *Ausbildung und Training von Streitwagenpferden: Eine hippologisch orientierte Interpretation des Kikkuli-Textes* (Studien zu den Boğazköy-Texten 41, Otto Harrassowitz, 1995); Peter Raulwing, *The Kikkuli Text: Hittite Training Instructions for Chariot Horses* (open-access via LRGAF, 2009) — modern interdisciplinary survey. For the *maryannu* institutional account: Eva von Dassow, *State and Society in the Late Bronze Age: Alalaḫ under the Mittani Empire* (CDL Press, 2008). For the broader linguistic positioning: Alexander Lubotsky, "The Indo-Iranian Substratum," in C. Carpelan et al., eds., *Early Contacts between Uralic and Indo-European* (Mémoires de la Société Finno-Ougrienne, 2001).
 
@@ -5354,89 +5451,119 @@ Standard references: Paul Thieme, "The 'Aryan' Gods of the Mitanni Treaties," *J
 
 ### `behistun-inscription`
 
-**Short:** The Behistun Inscription (*Bīsotūn*; multilingual rock relief at Mount Behistun, western Iran; commissioned by Darius I, c. 522–486 BCE; in Old Persian, Elamite, Akkadian; deciphered by Henry Rawlinson 1835–1847) — when transliterated into Devanāgarī, the Old Persian text reads with a fluent student of Sanskrit, while a fluent modern Persian speaker does *not* have the same experience (modern Persian has drifted substantially while Sanskrit preserves the engineered form). The smaller worked-example anchor for the calibrant's anti-entropy function: Sanskrit preserves, contact-zone languages of Iran-and-beyond drift.
+<!-- SOURCE-RECORDS
+- ut-old-persian-behistun | Behistun text, grammar, and vocabulary
+- iranica-bisotun-inscription | monument, languages, and publication history
+- oxford-behistun-relief | inscription overview
+-->
+
+**Short:** The Old Persian text of the Behistun inscription contains forms that remain readily recognizable to a Sanskrit student: *tuvam / tvam*, *martiya / martya*, *nāma / nāma*, *kartam / kṛtam*, *abavam / abhavam*, and *brātā / bhrātā*. Old Persian is also highly inflected and marks grammatical relations through forms familiar from Sanskrit study. Chapter 20 uses these correspondences as a direct reader experiment.
 
 **Deployments:** Chapter 20 §20.1 ¶ — the citation anchor for the Behistun inscription as the secondary empirical anchor for the Sanskritic-Persian cognate proximity.
 
 The *Behistun Inscription* — *Bīsotūn* in modern Persian — is a multilingual rock relief carved on a cliff face at Mount Behistun in western Iran, commissioned by the Achaemenid king Darius I (reigned 522–486 BCE). The inscription is carved in three languages: *Old Persian* (the principal language), *Elamite*, and *Akkadian* (Babylonian). The text narrates Darius's accession to the throne and his suppression of rebellions across the Achaemenid Empire.
 
-The decipherment of the Old Persian text by Henry Rawlinson across 1835–1847, building on earlier work by Grotefend, was foundational to nineteenth-century Iranian and Mesopotamian philology. The inscription's structural feature relevant to the chapter:
+The University of Texas Old Persian lessons print the Behistun text beside a grammatical analysis. The inscription repeatedly uses forms such as *tuvam* (“you”), *martiya* (“man”), *nāma* (“name”), *kartam* (“done”), *abavam* (“I became”), and *brātā* (“brother”). A Sanskrit student can compare these directly with **त्वम् (*tvam*)**, **मर्त्य (*martya*)**, **नाम (*nāma*)**, **कृतम् (*kṛtam*)**, **अभवम् (*abhavam*)**, and **भ्राता (*bhrātā*)**. The same lessons document nominal cases, person, number, tense, mood, and flexible word order in Old Persian.
 
-When transliterated into Devanāgarī, the Behistun inscription can be read today by a fluent student of Sanskrit. The grammar, the verbal structures, much of the vocabulary — all of it sits within recognizable distance of the language a modern Indian student is trained in. The Old Persian forms display systematic phonological correspondences to Sanskrit forms (the Indo-Iranian *s* → *h* shift; the Old Persian preservation of certain consonant clusters Sanskrit simplifies; the Old Persian-Sanskrit cognate sets for common vocabulary).
+Modern Persian developed from later Iranian forms and no longer retains this whole inflectional system. The chapter's comparison therefore does not rest on a general impression that the languages sound alike. It rests on recognizable words and grammatical forms in the inscription itself. The larger claim that Sanskrit remained close to these old forms because it retained a calibrant is the architectural conclusion developed across the book.
 
-Structural significance: a fluent *modern* speaker of Persian, presented with the same text, does *not* have the same experience. Modern Persian has drifted substantially from the Old Persian form — vocabulary cycled, phonology shifted, grammar simplified. Modern Persian preserves the *cognate-shadow* of the Old Persian; Sanskrit preserves the engineered specification that shaped Old Persian through contact. The two languages — Old Persian and Vedic Sanskrit — were close kin in their recorded forms; they have ended up in radically different relationships to their own past. Sanskrit serves today as the calibrant-anchored language that preserves the engineered form; Persian exists today as the natural-language descendant of its Old Persian form, with the descent visible in the drift.
-
-The Behistun observation is the smaller worked-example anchor for the broader claim about the calibrant-transmission asymmetry: Sanskrit preserves; the contact-zone languages of Iran-and-beyond drift; the calibrant resists entropy across the depth of time.
-
-Standard references: Roland G. Kent, *Old Persian: Grammar, Texts, Lexicon* (American Oriental Society, second edition 1953); Rüdiger Schmitt, *The Bisitun Inscriptions of Darius the Great: Old Persian Text* (Corpus Inscriptionum Iranicarum, Part I, Volume I, Texts I; School of Oriental and African Studies, 1991); the broader Old Persian philological literature in *Acta Iranica* and the *Corpus Inscriptionum Iranicarum* series; J. Wiesehöfer, *Ancient Persia* (I.B. Tauris, 2001) for the historical-political context.
+Sources: University of Texas Linguistics Research Center, “Old Persian: excerpts from the Behistun inscription,” lessons 7–8; Rüdiger Schmitt, *The Bisitun Inscriptions of Darius the Great: Old Persian Text* (SOAS, 1991); Roland G. Kent, *Old Persian: Grammar, Texts, Lexicon*, 2nd ed. (American Oriental Society, 1953); *Encyclopaedia Iranica*, “Bīsotūn III: Darius's Inscriptions”; Oxford, “The Behistun Relief and Inscription.”
 
 ---
 
 ### `dionysius-thrax-techne`
 
-**Short:** ***Dionysius Thrax*** (Διονύσιος ὁ Θρᾷξ, c. 170–90 BCE), Alexandrian grammarian, composed the ***Téchnē Grammatikē*** (Τέχνη Γραμματική — *Art of Grammar*) — the first complete systematic Greek grammar with phonology, the eight parts of speech, morphological paradigms, and analytical apparatus; active during the period of sustained Greco-Indic contact (Megasthenes c. 302 BCE; Seleucid-Mauryan exchanges; Greco-Bactrian and Indo-Greek kingdoms; Ashokan bilingual edicts; the Buddhist mission to the Hellenistic world). Earlier Greek engagements with language (Plato's *Cratylus*, Aristotle, the Stoics) produced no complete formal description; the complete formal description appears in Alexandria, in the post-contact period — what the calibrant-transmission hypothesis predicts.
+<!-- SOURCE-RECORDS
+- oxford-dionysius-thrax | contents, influence, no syntax, and authorship controversy
+- uhlig-techne-grammatike-1883 | Greek text
+- law-sluiter-dionysius-techne-1995 | specialist history
+-->
+
+**Short:** The *Téchnē Grammatikē* attributed to Dionysius Thrax is the earliest surviving systematic handbook of Greek grammar. It classifies letters, stops, accents, syllables, parts of speech, grammatical categories, and inflectional paradigms. It does not treat syntax, and modern scholarship disputes whether the whole received text was written by Dionysius himself. Its date and form still place the work after sustained Greco-Indic contact and before its large influence on Latin grammar.
 
 **Deployments:** Chapter 20 §20.2 ¶ (Greek-grammar paragraph) — the citation anchor for Dionysius Thrax's *Téchnē Grammatikē* as the first systematic Greek grammar.
 
-***Dionysius Thrax (Διονύσιος ὁ Θρᾷξ)*** (c. 170 BCE – c. 90 BCE), Alexandrian grammarian, composed the ***Téchnē Grammatikē (Τέχνη Γραμματική — Art of Grammar)*** in Alexandria during the late Hellenistic period. The text is the first complete systematic Greek grammar — covering phonology, morphology (the eight parts of speech, with their case-and-tense paradigms), syntax in introductory form, and the broader analytical apparatus of grammatical description.
+***Dionysius Thrax (Διονύσιος ὁ Θρᾷξ)*** lived approximately 170–90 BCE and belonged to the Alexandrian grammatical tradition. The brief ***Téchnē Grammatikē (Τέχνη Γραμματική — Art of Grammar)*** transmitted under his name classifies letters, stops, accents, syllables, the parts of speech and their grammatical categories, and several inflectional paradigms. It contains no treatment of syntax. The attribution of the complete received work to Dionysius has also been disputed, which is why Chapter 20 says “attributed to Dionysius Thrax.”
 
 The dating context: Dionysius Thrax was active in Alexandria during the period of sustained Greco-Indic contact following Alexander's campaigns (334–323 BCE), the Mauryan-Seleucid exchanges (Megasthenes's residence at the Mauryan court c. 302 BCE; the Seleucid dynastic intermarriage with the Mauryans; the broader Hellenistic-Mauryan diplomatic apparatus), the Greco-Bactrian and Indo-Greek kingdoms (200 BCE onward), Ashoka's Greek-language edicts (the bilingual Aramaic-Greek edicts at Kandahar, third century BCE), the Buddhist mission to the Hellenistic world (third century BCE forward), and the well-documented intellectual circulation between Alexandria and the subcontinent.
 
-The Greek philosophical tradition before Dionysius Thrax had been speculating about language for centuries: Plato (in the *Cratylus*) asked whether names are conventional or natural; Aristotle (in the *De Interpretatione* and the *Categories*) made grammatical observations in passing; the Stoics developed a parts-of-speech analysis. None of these earlier engagements produced a complete formal description. The complete formal description appears in Alexandria, in the post-contact period.
+Greek thinkers had examined language for centuries: Plato considered the status of names, Aristotle developed logical and grammatical categories, and the Stoics analyzed parts of speech. The *Téchnē* gives the earliest surviving compact handbook that gathers a substantial set of grammatical categories into one instructional sequence.
 
-Structural significance: the timing is not proof of Indic transmission — but it is what the calibrant-transmission hypothesis *predicts*. The Pāṇinian analytical apparatus had been in use in the subcontinent for many generations before Dionysius Thrax. The hypothesis posits that the methodology — the systematic-formal grammar with parts of speech, morphological paradigms, and rule-based descriptions — was transmitted from the Pāṇinian discipline through the contact channels into the Alexandrian intellectual milieu, where Dionysius Thrax's text consolidated it for the Greek-language tradition.
+The Pāṇinian analytical apparatus was already available in the subcontinent before this Greek handbook. The centuries preceding it included Alexander's campaigns, Mauryan-Seleucid exchanges, Greco-Bactrian and Indo-Greek kingdoms, Aśoka's Greek inscriptions, and Buddhist movement through the Hellenistic world. Those routes make transmission possible. No source found for this note records a particular Sanskrit teacher or text entering the composition of the *Téchnē*. The Pāṇinian route remains this book's proposal from chronology, contact, and structural comparison.
 
-Standard references: the *Téchnē Grammatikē* in its standard editions. *Grammatici Graeci* Volume I (G. Uhlig, ed., Teubner, 1883) is the standard scholarly edition. Translation: Alan Kemp, "The Tekhne Grammatike of Dionysius Thrax" (in *Historiographia Linguistica* 13, 1986). Modern scholarly treatments: Vivien Law and Ineke Sluiter, eds., *Dionysius Thrax and the Technē Grammatikē* (Nodus Publikationen, 1995); Andrew Robins, *A Short History of Linguistics* (Longman, 4th edition 1997), Chapter 2; Daniel J. Taylor, *Declinatio: A Study of the Linguistic Theory of Marcus Terentius Varro* (John Benjamins, 1974) for the broader Greco-Roman grammatical tradition.
+Sources: Oxford Classical Dictionary, “Dionysius Thrax,” for contents, influence, lack of syntax, and the authorship dispute; G. Uhlig, ed., *Grammatici Graeci*, vol. 1 (Teubner, 1883); Alan Kemp, “The Tekhne Grammatike of Dionysius Thrax,” *Historiographia Linguistica* 13 (1986); Vivien Law and Ineke Sluiter, eds., *Dionysius Thrax and the Technē Grammatikē* (Nodus, 1995).
 
 ---
 
 ### `donatus-priscian-grammars`
 
-**Short:** ***Aelius Donatus*** (c. 320–380 CE) composed the ***Ars Maior*** (and *Ars Minor*) — the standard Latin grammars formalizing Latin analysis on the Greek model with the eight parts of speech and Latinized Greek terminology; ***Priscian*** (Priscianus Caesariensis, early 6th c. CE) composed the ***Institutiones Grammaticae*** in Constantinople in eighteen books covering Latin phonology, morphology, syntax, and rhetorical-stylistic analysis — the standard reference text for Latin grammatical study across the medieval European period. Both transparently secondary to Greek methodology — three diffusion-steps from Pāṇinian methodology (Pāṇini → Greek → Latin → medieval European).
+<!-- SOURCE-RECORDS
+- cambridge-donatus-priscian-medieval-grammar | Greek model and medieval use
+- cambridge-before-modistae | Priscian's eighteen books and syntax in 17-18
+- british-library-priscian-institutiones | manuscript and work description
+-->
+
+**Short:** Aelius Donatus's *Ars Minor* and *Ars Maior* became standard Latin teaching grammars. Priscian's *Institutiones Grammaticae* provided a larger eighteen-book account; books 17–18 treat syntax. Both adapted Greek grammatical terminology and categories to Latin, and both shaped medieval European grammar. The further Pāṇinian → Greek → Latin route remains conditional upon the Greek transmission proposed in the preceding note.
 
 **Deployments:** Chapter 20 §20.2 ¶ (Latin-grammar paragraph) — the citation anchor for Donatus's *Ars Maior* and Priscian's *Institutiones Grammaticae* as the foundational Latin grammars transparently modeled on Greek grammatical methodology.
 
 ***Aelius Donatus*** (c. 320 – c. 380 CE), Roman grammarian, composed the ***Ars Maior*** (and the shorter *Ars Minor*) — the standard Latin grammars of the late Roman period. Donatus's works formalized Latin grammatical analysis on the Greek grammatical model, using Greek terminology adapted to Latin material. The eight parts of speech of the Greek tradition (the *Téchnē Grammatikē*'s apparatus) become the eight parts of speech of Donatus's Latin grammatical apparatus.
 
-***Priscian (Priscianus Caesariensis)*** (early sixth century CE), Latin grammarian active in Constantinople, composed the ***Institutiones Grammaticae*** in approximately the early-to-mid sixth century. The work is the most extensive Latin grammar produced in antiquity — eighteen books covering Latin phonology, morphology, syntax, and rhetorical-stylistic analysis. Priscian's work was the standard reference text for Latin grammatical study across the medieval European period.
+***Priscian (Priscianus Caesariensis)***, a Latin grammarian active in Constantinople in the early sixth century, composed the eighteen-book ***Institutiones Grammaticae***. The first sixteen books chiefly examine the parts of speech; books 17 and 18 treat syntax. It became a principal reference for medieval grammatical study.
 
 Both texts are transparently modeled on Greek grammatical methodology. They use Greek terminology (often Latinized but recognizable), Greek analytical categories (the eight parts of speech, the case-system apparatus, the morphological-paradigm presentation), and Greek analytical structure (the discrete-rules-applied-to-categories format) applied to Latin material. The Greek grammatical tradition's influence is acknowledged in the texts themselves — Donatus and Priscian both cite Greek grammarians as their methodological antecedents.
 
-Structural significance: if Greek grammar derives from Pāṇinian methodology (the hypothesis at endnote `dionysius-thrax-techne`), Latin grammar is *doubly so*. The European grammatical tradition that becomes the foundation of medieval and Renaissance linguistic thought — the tradition that produced Schleicher's family-tree model and the entire nineteenth-century ecosystem of comparative philology — is the *great-grandchild* of Pāṇini, three diffusion-steps removed (Pāṇinian → Greek → Latin → medieval European) and still preserving the methodological DNA of the original engineered apparatus.
+The Greek-to-Latin step is documented. The earlier Pāṇinian-to-Greek step is the proposal examined in `dionysius-thrax-techne`. If that proposal is correct, Donatus and Priscian preserve the next stage of the route into medieval European grammar. This note does not treat the full chain as independently proved by the Latin evidence.
 
-Standard references: *Donati Ars Grammatica* in *Grammatici Latini* Volume IV (H. Keil, ed., Teubner, 1864). Translation: Wayland Johnson Chase, *The Ars Minor of Donatus* (University of Wisconsin Press, 1926); Louis Holtz, *Donat et la tradition de l'enseignement grammatical* (Editions du CNRS, 1981). For Priscian: *Prisciani Institutiones Grammaticae* in *Grammatici Latini* Volumes II–III (H. Keil, ed., Teubner, 1855–1859); Marc Baratin, *La naissance de la syntaxe à Rome* (Editions de Minuit, 1989); R. H. Robins, *Ancient and Mediaeval Grammatical Theory in Europe* (Bell, 1951). For the broader influence chain: Vivien Law, *The History of Linguistics in Europe: From Plato to 1600* (Cambridge University Press, 2003).
+Sources: *Donati Ars Grammatica* in H. Keil, ed., *Grammatici Latini*, vol. 4 (Teubner, 1864); Priscian, *Institutiones Grammaticae*, in *Grammatici Latini*, vols. 2–3 (1855–59); Michael A. Covington, “Before the Modistae,” in *Syntactic Theory in the High Middle Ages* (Cambridge University Press), pp. 4–21; Vivien Law, *The History of Linguistics in Europe: From Plato to 1600* (Cambridge University Press, 2003).
 
 ---
 
 ### `thonmi-sambhota-tibetan-grammars`
 
-**Short:** ***Thonmi Sambhoṭa*** — traditionally credited founder of Tibetan grammatical analysis and originator of the Tibetan script; dispatched to India by Tibetan king ***Songtsen Gampo*** (Srong-btsan sgam-po, reigned c. 618–649 CE) to study Sanskrit grammatical methodology. Returned with: (a) the Tibetan script (Brāhmī-derived, mirroring the *varṇamālā*'s *sthāna* organization), (b) the foundational Tibetan grammars ***Sum cu pa*** (*Sum-cu-pa* — *The Thirty Verses*) and ***Rtags kyi 'jug pa*** (*rTags kyi 'jug pa* — *The Application of Signs*), both explicitly Pāṇinian in methodology (*sūtra* format, systematic phonological-morphological categorization, abbreviation conventions, metarule apparatus). Documentary anchor for direct Pāṇinian transmission across a major linguistic-cultural boundary.
+<!-- SOURCE-RECORDS
+- vollmann-tibetan-grammaticography-2008 | pp. 3-6; traditional account and historiographical caution
+- miller-tibetan-grammatical-tradition-1976 | foundational works and later tradition
+- namami-buddhist-literary-heritage | traditional mission and script account
+-->
 
-**Deployments:** Chapter 20 §20.2 ¶ (Tibetan-grammar paragraph) — the citation anchor for Thonmi Sambhoṭa's foundational works of Tibetan grammatical analysis as explicitly Pāṇinian.
+**Short:** Tibetan historical tradition says that Songtsen Gampo sent Thonmi Sambhoṭa to India to study and to create a Tibetan script and grammatical description. It credits him with the *Sum cu pa* and *Rtags kyi 'jug pa*, the two works upon which much later Tibetan grammar rests. Modern histories repeat the tradition while warning that the surviving evidence does not permit every biographical detail to be treated as independently established.
+
+**Deployments:** Chapter 20 §20.2 ¶ (Tibetan-grammar paragraph) — the citation anchor for the traditional journey to India, the two foundational grammatical works, and the Brāhmī-derived Tibetan script.
 
 ***Thonmi Sambhoṭa*** (Thon-mi Sam-bho-ṭa, transliterated variously) is the traditionally-credited founder of Tibetan grammatical analysis and the originator of the Tibetan script. Traditional Tibetan-historiographical accounts (preserved in the standard Tibetan religious-historical chronicles — the *Bka' chems ka khol ma*, the *Mani bka' 'bum*, the broader Tibetan-language historical literature) record:
 
 - In the seventh century CE, the Tibetan king ***Songtsen Gampo*** (Srong-btsan sgam-po, reigned c. 618–649 CE) dispatched a mission to India specifically to study Sanskrit grammatical methodology and to develop a writing system for the Tibetan language.
 
-- Thonmi Sambhoṭa led the mission. He spent several years in India studying with Sanskrit *vaiyākaraṇāḥ* (the specific teachers named vary across the sources; the *Lalitavistara* tradition and various Tibetan-historiographical accounts cite Indian *paṇḍitas* whose Sanskrit names are preserved in Tibetan transliteration).
+- Thonmi Sambhoṭa led the mission and studied in India. Later accounts differ about his teachers and other biographical details.
 
 - On his return, Thonmi Sambhoṭa is credited with: (a) the design of the Tibetan script (modeled on Brāhmī, with adaptations for the Tibetan phonological inventory); and (b) the authorship of the two foundational Tibetan grammatical works, ***Sum cu pa (Sum-cu-pa — The Thirty Verses)*** and ***Rtags kyi 'jug pa (rTags kyi 'jug pa — The Application of Signs)***.
 
-Both Tibetan grammatical works are explicitly Pāṇinian in methodology — the sūtra-based rule format, the systematic phonological-and-morphological categorization, the abbreviation-conventions for compact rule-statement, the metarule-and-precedence apparatus for handling rule interactions. Both are foundational to every subsequent work in the Tibetan grammatical tradition; the medieval Tibetan grammatical commentators (across the *Sa-skya*, *Bka'-brgyud*, *dGe-lugs*, and *rNying-ma* schools' grammatical commentaries) work within the apparatus Thonmi Sambhoṭa's foundational texts established.
+The two works are foundational within Tibetan grammatical tradition. They show Indic influence in their setting, categories, and compact rule form, but the sources checked for this note do not establish every older claim that they reproduce Pāṇinian abbreviations, metarules, and rule-precedence machinery.
 
-The Tibetan script is *Brāhmī-derived*. The script's structural organization mirrors the *varṇamālā*'s organization: consonants by *sthāna* (place of articulation), with the velar / palatal / retroflex / dental / labial sequence preserved, with the four-fold voicing-and-aspiration array on each *varga* preserved in the Tibetan adaptation, with the vowel system adapted for the Tibetan phonological inventory.
+The Tibetan script belongs to the Brāhmī-derived family and was adapted to Tibetan. Its letter order and organization retain Indic features, but Tibetan does not reproduce the complete Sanskrit *varṇamālā* without change.
 
-Structural significance: the Tibetan case is the documentary anchor for direct Pāṇinian transmission across a major linguistic-cultural boundary. The Tibetan tradition is *not* coy about the transmission — Tibetan-historiographical accounts explicitly name India as the source of the grammatical methodology and the writing system. Thonmi Sambhoṭa's mission is documented; the Tibetan grammatical works' Pāṇinian methodology is documented; the Brāhmī-derivation of the Tibetan script is documented. The broader argument about Pāṇinian methodology's transmission outward into non-Indic intellectual contexts is *directly* anchored at the Tibetan case.
+The Tibetan case is unusually direct at the level of remembered transmission: the tradition itself names the journey to India and connects that journey with the script and the foundational grammars. Chapter 20 accurately presents this as a traditional account rather than as an independently documented travel record.
 
-Standard references: Roy Andrew Miller, *Studies in the Grammatical Tradition in Tibet* (John Benjamins, 1976); the standard Tibetan grammatical-historical references: Karma sNang-rdor, *Bod kyi brda sprod rig pa'i lo rgyus* (in Tibetan, multiple editions); David Snellgrove, *The Hevajra Tantra* (Oxford University Press, 1959) for the broader Tibetan philological context; Rolf Stein, *Tibetan Civilization* (Stanford University Press, 1972) for the historical-cultural context of Songtsen Gampo's reign. For Thonmi Sambhoṭa specifically: Joseph Edward Walters, "An Introduction to the Tibetan Grammar" (in *The Indian Journal of Buddhist Studies*); the standard *Bka' chems ka khol ma* historical chronicle.
+Sources: Ralf Vollmann, “Tibetan Indigenous Grammaticography,” in *The Emergence of Linguistic Form* 50 (2008), especially the account of the traditional mission and the caution about its historicity; Roy Andrew Miller, *Studies in the Grammatical Tradition in Tibet* (John Benjamins, 1976); Government of India, *Buddhist Literary Heritage in India*, discussion of Thonmi Sambhoṭa and the Tibetan script.
 
 ---
 
 ### `buddhist-asia-radiance`
 
+<!-- SOURCE-RECORDS
+- shi-buddhist-sanskrit-chinese-2015 | pp. 236–247
+- duanmu-kubozono-japanese-phonology | Sanskrit origin of gojūon grid structure
+- university-tokyo-gojuon-sanskrit | public explanation of row and column order
+- dila-mahavyutpatti | early ninth-century translation glossary
+- bronkhorst-sanskrit-southeast-asia | pp. 263–276
+- unesco-ayutthaya | name and historical model
+- unesco-angkor-advisory-1992 | Angkor through nokor from nagara
+-->
+
 **Short:** Buddhist translation and teaching carried Sanskritic vocabulary and sound-analysis into East Asia, where receiving languages adapted both to their own phonology and analytical needs. **ध्यान (*dhyāna*) → 禪 (*chán*) → 禅 (*zen*)** gives the clearest lexical path. Japanese *gojūon* ordering reflects the Sanskrit sound table studied through Siddham; Sanskrit and Siddham study also stimulated systematic Chinese analysis of initials, finals, and tones. In Tibet, the *Mahāvyutpatti* standardized Sanskrit-Tibetan translation terminology after Tibetan scholars had adapted Indic grammatical method. Southeast Asian examples traveled through several Sanskritic routes, including Sanskrit, Pāli, trade, teaching, monastic transmission, and courtly use; the umbrella *Sanskritic* is therefore more accurate than direct-Sanskrit attribution in every case.
 
-**Deployments:** Chapter 20 §20.2 — the lexical, phonological, Tibetan-translation, and Southeast Asian evidence for receiving-language endowment.
+**Deployments:** Chapter 19 §19.7, where the carrier model points forward to the Asian evidence; Chapter 20 §20.2, for the lexical, phonological, Tibetan-translation, and Southeast Asian evidence for receiving-language endowment.
 
 **East Asian vocabulary.** Buddhist translation brought a large Sanskritic vocabulary into Chinese, after which Chinese forms entered Japanese, Korean, and Vietnamese. The chapter uses three compact paths:
 
@@ -5467,35 +5594,40 @@ Johannes Bronkhorst, ["The Spread of Sanskrit in Southeast Asia"](https://www.ca
 
 ### `sibawayh-al-kitab`
 
-**Short:** ***Sibawayh*** (Sībūyih, c. 760–796 CE), Persian linguist in the Basran intellectual milieu of the early Abbasid period, composed ***Al-Kitāb*** (الكتاب — *The Book*) — the foundational and definitive Arabic grammar, basis of Arabic grammatical science to this day. Methodological signature: formal abbreviation conventions (analogous to Pāṇini's *pratyāhāra*), substitution-based analysis (analogous to *adeśa*), integrated multi-level phonological-and-morphological treatment. The Barmakid family (Buddhist-Bactrian-origin Persian viziers) oversaw translation programs bringing Indic mathematical, medical, and philosophical works into Arabic at exactly the moment Sibawayh composed *Al-Kitāb* — the *parallel development* claim must explain why grammar would be the one Indic export Basra somehow developed independently.
+<!-- SOURCE-RECORDS
+- iranica-sibawayh-al-kitab | Persian origin, Basran school, and continuing authority
+- carter-sibawayh-principles | Islamic-law origin argument
+- cambridge-sibawayh-origins-2022 | contested Greek and internal origin accounts
+- barmakids-indic-medical-translation | Yaḥyā ibn Khālid and Indian medical translation
+-->
+
+**Short:** The Persian grammarian Sībawayh composed *Al-Kitāb* in the Basran intellectual world of the late eighth century. It became the most authoritative exposition of Arabic grammar. Its creation belongs to the early Abbasid period, when Indian works were also entering Arabic. The historical setting makes Sanskritic influence possible, but no direct document establishes that transmission.
 
 **Deployments:** Chapter 2 §2.1 (Arabic as the pyramid's apparent confirming case for codification); Chapter 20 §20.2 ¶ (Arabic-grammar paragraph — the citation anchor for Sibawayh's *Al-Kitāb* as the foundational Arabic grammar and its methodological-and-contextual proximity to the Pāṇinian-Basran intellectual milieu).
 
-***Sibawayh*** (Persian: *Sībūyih*; Arabic: *Sībawayh*) (c. 760 – c. 796 CE), Persian linguist working in the Basran intellectual milieu in the early Abbasid period, composed ***Al-Kitāb (الكتاب — The Book)*** — the foundational and definitive Arabic grammar. The work remains the basis of Arabic grammatical science to this day, and the subsequent Arabic grammatical tradition (the *Kūfan* school's responses, the *Baṣran* school's continuations, the medieval and modern grammatical commentaries) developed within the apparatus *Al-Kitāb* established.
+*Encyclopaedia Iranica* identifies Sībawayh as Persian, places him in the Basran school, and calls *Al-Kitāb* the most authoritative exposition of Arabic grammar. That evidence supports Chapter 2's use: Arabic possessed a major written grammar that later authorities could teach and enforce alongside a guarded Quranic form.
 
-The methodological signature of *Al-Kitāb*:
+The origin of Arabic grammatical method remains disputed. Michael Carter argues that Arabic grammar adapted methods developed within Islamic law rather than borrowing them from Greek or another foreign source. A later survey of the debate finds both internal Islamic and possible Greek routes in Sībawayh's intellectual setting. These sources do not establish a Pāṇinian route, nor do they identify Sībawayh's abbreviations with Pāṇini's *pratyāhāras*.
 
-- **Formal abbreviation conventions** — Sibawayh uses a system of formal abbreviations and notation conventions to compact the grammatical rules into terse, sūtra-like formulations, analogous to Pāṇini's *pratyāhāra* and metarule conventions in the *Aṣṭādhyāyī*.
+Indian knowledge was nevertheless entering the early Abbasid world during the same period. Yaḥyā ibn Khālid al-Barmakī commissioned an Arabic translation of Indian medical material, and Indian astronomy and mathematics also entered Arabic through identifiable translations. Chapter 20 combines that contact setting with its own comparison of the two grammatical architectures and proposes a possible Sanskritic route. The proposal is an inference. No source currently records a teacher, text, or translation carrying Pāṇinian grammar into Sībawayh's work.
 
-- **Substitution-based analysis** — the grammar uses systematic substitution rules (one form replaces another under specified conditions), analogous to Pāṇini's *adeśa* (substitution) rule-format.
-
-- **Multi-level treatment of phonological and morphological structure** — the work is organized in a layered manner, with phonological analysis (the *taṣrīf* tradition) layered on top of morphological analysis (the *naḥw* tradition), in parallel to the *Aṣṭādhyāyī*'s integrated phonological-and-morphological apparatus.
-
-Multiple scholars (including Carter, Versteegh, Owens) have noted that *Al-Kitāb*'s methodological signature shares specific features with Pāṇinian methodology. The philological machinery's response to the observation has been *parallel development* — the claim that Sibawayh independently developed a methodology structurally similar to Pāṇini's because both languages have certain typological similarities that make the methodology natural.
-
-The book's position on the parallel-development claim: Sibawayh was working in a milieu where Indic intellectual material was being *systematically translated*. The Barmakid family — the powerful Persian vizierial family of Buddhist Bactrian origin who served as Abbasid viziers — oversaw the translation programs that brought Indic mathematical, medical, and philosophical works into Arabic. The same period and milieu gave the Arabic-Islamic world: the Arabic numerals (Indic in origin); the decimal positional system (Indic); the numeral zero (Indic); the Indic astronomical-mathematical works (translated into Arabic from Sanskrit sources). Given this context — that Indic intellectual material was being translated into Arabic at exactly the moment Sibawayh was composing *Al-Kitāb* — the burden of proof should sit with the parallel-development claim. *Why would grammar be the one Indic export Basra somehow developed independently?*
-
-Standard references: *Al-Kitāb* in its standard editions. The standard scholarly edition: Sibawayh, *Al-Kitāb*, edited by ʿAbd al-Salām Muḥammad Hārūn (Maktabat al-Khānjī, Cairo, multiple editions). Translation: Michael G. Carter, "Sibawayhi" entry in *Encyclopaedia of Islam* (second edition); Kees Versteegh, *The Arabic Linguistic Tradition* (Routledge, 1997); Carter, *Sibawayhi* (Oxford University Press, 2004). For the Pāṇinian-methodological proximity: J. Owens, *The Foundations of Grammar: An Introduction to Medieval Arabic Grammatical Theory* (John Benjamins, 1988); R. H. Robins, *A Short History of Linguistics* (Longman, 4th edition 1997), Chapter 5. For the broader Indic-Arabic intellectual transmission in the Abbasid period: Dimitri Gutas, *Greek Thought, Arabic Culture* (Routledge, 1998).
+Sources: [“Arabic Language iv. Arabic Literature in Iran,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/arabic-iv/); Michael G. Carter, [*Sibawayhi's Principles: Arabic Grammar and Law in Early Islamic Thought*](https://www.jstor.org/stable/j.ctvvndcz) (Lockwood Press, 2016); Nicola Reggiani, [“The Greek Death of Sībawayhi and the Origins of Arabic Grammar,” *Bulletin of the School of Oriental and African Studies* 85.2 (2022), 173–193](https://doi.org/10.1017/S0041977X22000593); [“Why Do We Translate? Arabic Sources on Translation,” NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK622612/?report=reader), lines 167–171 and notes 83–84, for the Arabic translation of the *Suśruta-Saṃhitā* ordered by Yaḥyā ibn Khālid.
 
 ---
 
 ### `medieval-hebrew-grammarians`
 
-**Short:** Hebrew grammar was codified medievally under explicit Arabic grammatical influence: ***Saadia Gaon*** (Saʿadyāh ben Yōsēf al-Fayyūmī, 882–942 CE, Egyptian-born Gaon of Sura; the *Ha-Egron* dictionary and *Kutub al-Lugha* — earliest systematic Hebrew grammars, in Judeo-Arabic); ***Judah ben David Hayyuj*** (c. 945–1000 CE, Cordoba; three-letter-base analysis); ***Jonah ibn Janah*** (c. 990–1055 CE, Cordoba / Saragossa; *Kitāb al-Tanqīḥ*); ***Abraham ibn Ezra*** (1089–1164 CE, transmitted the tradition to Christian Europe in Hebrew); ***David Kimhi*** (Radak, c. 1160–1235 CE, Provence; *Sefer Mikhlol*). If Arabic grammar derives from Pāṇinian methodology, Hebrew grammar is *triply* derived — Indic → Arabic → Hebrew.
+<!-- SOURCE-RECORDS
+- vidro-kasher-hebrew-arabic-grammar-2014 | pp. 173-174; borrowing of concepts, terminology, and passages
+- maman-comparative-semitic-philology | medieval Hebrew and Arabic analysis
+- brill-encyclopedia-hebrew-language | grammarian biographies and works
+-->
+
+**Short:** Medieval Hebrew grammar developed under direct Arabic grammatical influence. Hebrew grammarians wrote in Judeo-Arabic and borrowed concepts, terminology, and passages from Arabic linguistic works. Saadia Gaon, Judah ben David Hayyuj, Jonah ibn Janah, Abraham ibn Ezra, and David Kimhi mark major stages of that development. The earlier Indic → Arabic step remains the separate proposal examined in the Sībawayh note.
 
 **Deployments:** Chapter 20 §20.2 ¶ (Hebrew-grammar paragraph) — the citation anchor for the medieval Hebrew grammarians who codified Hebrew grammar under explicit Arabic grammatical influence.
 
-Hebrew grammar was codified medievally, in the period from the tenth century CE onward, under explicit Arabic grammatical influence. The principal medieval Hebrew grammarians:
+Hebrew grammar developed from the tenth century onward under explicit Arabic grammatical influence. The principal medieval Hebrew grammarians include:
 
 - ***Saadia Gaon*** (Saʿadyāh ben Yōsēf al-Fayyūmī) (882–942 CE), Egyptian-born Jewish scholar serving as Gaon of the Sura academy in Babylonia. Saadia's grammatical works — the *Ha-Egron* (the first Hebrew dictionary, in two parts) and *Kutub al-Lugha* (Books of the Language, in Judeo-Arabic) — are the earliest systematic Hebrew grammars, composed in Judeo-Arabic with explicit references to Arabic grammatical methodology.
 
@@ -5507,13 +5639,20 @@ Hebrew grammar was codified medievally, in the period from the tenth century CE 
 
 - ***David Kimhi*** (Radak) (c. 1160 – c. 1235 CE), Provençal Jewish scholar. *Sefer Mikhlol* (the comprehensive Hebrew grammar) and *Sefer ha-Shorashim* (the dictionary) became the standard reference works for Hebrew grammar across the late-medieval and early-modern Jewish world.
 
-Structural claim: the medieval Hebrew grammarians cite Arabic grammarians, use Arabic methodology adapted to Hebrew material, and produce the first systematic grammars of Hebrew. If Arabic grammar derives from Pāṇinian methodology (the hypothesis at endnote `sibawayh-al-kitab`), Hebrew grammar is *triply* derived — Indic → Arabic → Hebrew. The methodology reaches the Abrahamic intellectual core through the chain *three diffusion steps* later than Greek to Latin but no less continuously.
+The Arabic-to-Hebrew transmission is directly documented. Nadia Vidro and Almog Kasher note that Jewish grammarians borrowed concepts, terminology, and entire passages from Muslim linguists. The proposed Indic-to-Arabic step is not established by that evidence. If the Sībawayh hypothesis developed in Chapter 20 is correct, Hebrew preserves the next stage of the route; this note does not use the documented second stage to presume the first.
 
-Standard references: Geoffrey Khan, ed., *Encyclopedia of Hebrew Language and Linguistics* (Brill, 2013, four volumes) — the standard reference; David Téné, "Hebrew Linguistic Literature" entry in the *Encyclopaedia Judaica* (multiple editions); Aaron Maman, *Comparative Semitic Philology in the Middle Ages: From Saʿadiah Gaon to Ibn Barūn (10th–12th c.)* (Brill, 2004); Kees Versteegh, *Greek Elements in Arabic Linguistic Thinking* (Brill, 1977) for the broader medieval Arabic-Hebrew grammatical context.
+Sources: Nadia Vidro and Almog Kasher, “How Medieval Jews Studied Classical Arabic Grammar: A Kūfan Primer from the Cairo Genizah,” *Jerusalem Studies in Arabic and Islam* 41 (2014), pp. 173–217, especially pp. 173–74; Geoffrey Khan, ed., *Encyclopedia of Hebrew Language and Linguistics* (Brill, 2013); Aaron Maman, *Comparative Semitic Philology in the Middle Ages* (Brill, 2004).
 
 ---
 
 ### `romani-diaspora-evidence`
+
+<!-- SOURCE-RECORDS
+- council-europe-romani-india-europe | Indo-Aryan classification and Persian, Armenian, Greek contact layers
+- council-europe-romani-general-history | Indian origin and route established principally through linguistic evidence
+- matras-romani-linguistic-introduction | grammar, vocabulary, and contact history
+- silverman-romani-routes | regional musical participation
+-->
 
 **Short:** Romani languages retain substantial Indo-Aryan grammar and core vocabulary after a long westward migration and sustained contact with Iranian, Armenian, Greek, Slavic, Romance, and Germanic languages. Familiar words remain audible to some Hindi and Punjabi speakers, but the languages are not mutually intelligible without study. Romani communities have also shaped several European musical and performance cultures, with the route and depth of that influence varying by region.
 
@@ -5525,11 +5664,15 @@ Romani communities endured enslavement, expulsion, forced settlement, cultural s
 
 The musical claim is deliberately regional rather than universal. Romani musicians and communities became important participants in several European performance worlds, including Andalusian flamenco, Hungarian and Balkan professional music, Russian Romani song, and Manouche jazz. Each history involves exchange with surrounding communities; none should be reduced to a claim that one population created an entire regional form alone.
 
-References: Yaron Matras, *Romani: A Linguistic Introduction* (Cambridge University Press, 2002), for classification, grammatical structure, migration layers, and contact history; Ian Hancock, *We Are the Romani People* (University of Hertfordshire Press, 2002), for Romani history and identity; Donald Kenrick and Grattan Puxon, *Gypsies Under the Swastika* (University of Hertfordshire Press, revised edition 2009), for the twentieth-century genocide; Carol Silverman, *Romani Routes: Cultural Politics and Balkan Music in Diaspora* (Oxford University Press, 2012), for music, performance, and diaspora; Michael Dregni, *Django: The Life and Music of a Gypsy Legend* (Oxford University Press, 2004), for Manouche jazz.
+References: Council of Europe, *From India to Europe* and *General Introduction*, factsheets on Romani history; Yaron Matras, *Romani: A Linguistic Introduction* (Cambridge University Press, 2002), for classification, grammatical structure, migration layers, and contact history; Ian Hancock, *We Are the Romani People* (University of Hertfordshire Press, 2002), for Romani history and identity; Donald Kenrick and Grattan Puxon, *Gypsies Under the Swastika* (University of Hertfordshire Press, revised edition 2009), for the twentieth-century genocide; Carol Silverman, *Romani Routes: Cultural Politics and Balkan Music in Diaspora* (Oxford University Press, 2012), for music, performance, and diaspora; Michael Dregni, *Django: The Life and Music of a Gypsy Legend* (Oxford University Press, 2004), for Manouche jazz.
 
 ---
 
 ### `jones-1786-anniversary-address`
+
+<!-- SOURCE-RECORDS
+- jones-third-anniversary-discourse-1786 | address text, date, and common-source proposal
+-->
 
 **Short:** Forward-pointer to the main `jones-1786-third-anniversary-discourse` endnote — Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered February 2, 1786 at the Asiatic Society of Bengal, Calcutta (*Asiatic Researches* 1, 1788: 415–431); deployed in Appendix Part 1 as the moment when European philology acknowledged Sanskrit's extraordinary depth while proposing a common source for Sanskrit, Greek, and Latin. The bake had not yet been baked.
 
@@ -5549,31 +5692,37 @@ Standard references: see endnote `jones-1786-third-anniversary-discourse` for th
 
 ### `boden-chair-1832-evangelical-purpose`
 
-**Short:** The ***Boden Chair of Sanskrit*** at the University of Oxford (endowed 1832 from the will of Lieutenant Colonel Joseph Boden, 1751–1811, Bombay Native Infantry) has a charter directing the chair to enable *"the conversion of Indians to Christianity"* through the agency of the Sanskrit-literate; Boden's will preserved the explicit framing. Chairholders: ***Horace Hayman Wilson*** (1832–1860, *Sanskrit-English Dictionary* 1819); ***Sir Monier Monier-Williams*** (1860–1899, elected in the famous 1860 contested election against Max Müller — the chair's evangelical charter decisive in Williams's favor; the *Monier-Williams Sanskrit-English Dictionary* 1872 / 1899 remains standard today). The lexicographical machinery of Sanskrit-English scholarship was produced in a chair endowed for the conversion of Indians to Christianity.
+<!-- SOURCE-RECORDS
+- oxford-boden-monier-williams | official Oxford history of the chair, election, and dictionary
+- minkowski-boden-chair-inaugural | Joseph Boden's will and the 1860 election
+-->
+
+**Short:** Joseph Boden endowed Oxford's Sanskrit chair to assist the Christian conversion of Indians. Horace Hayman Wilson and Monier Monier-Williams, its first two holders, both produced Sanskrit-English dictionaries; the revised Monier-Williams dictionary remains widely used.
 
 **Deployments:** Chapter 1 §1.4 — "Install the apex-one" method. Appendix Part 1 §1.2 — the citation anchor for the Boden Chair of Sanskrit at the University of Oxford and its evangelical-conversion charter.
 
-The ***Boden Chair of Sanskrit*** at the University of Oxford was endowed in 1832 with funds left in the will of ***Lieutenant Colonel Joseph Boden*** (1751–1811), an officer of the Bombay Native Infantry. Boden's will specifically directed that the chair be used to enable *the conversion of Indians to Christianity* through the agency of the Sanskrit-literate. The full intent, as set out in Boden's will (preserved in the documentary record):
+The ***Boden Chair of Sanskrit*** at the University of Oxford was established in 1832 with funds left by Lieutenant Colonel Joseph Boden, an officer of the Bombay Native Infantry. His will stated the purpose directly:
 
 > *"... my particular wish is to promote the translation of the Scriptures into Sanskrit; so as to enable his countrymen to proceed in the conversion of the natives of India to the Christian religion."*
 
-The chair was established at Oxford after Boden's bequest had accumulated sufficient endowment income (across the two decades following his death). The chair has been occupied continuously since 1832, with the chairholders:
+The first two chairholders were:
 
-- ***Horace Hayman Wilson*** (1832–1860). Wilson had served in India (Calcutta, with the Asiatic Society of Bengal and the East India Company's medical service) and brought substantial Sanskrit-textual expertise to the chair. His *Sanskrit-English Dictionary* (1819, with subsequent revised editions) was the standard reference.
+- ***Horace Hayman Wilson*** (1832–1860), whose *Sanskrit-English Dictionary* appeared in 1819.
 
-- ***Monier Williams (later Sir Monier Monier-Williams)*** (1860–1899). Williams was elected to the chair in the famous 1860 contested election against Max Müller — an election in which the explicitly-evangelical character of the chair's charter was decisive in Williams's favor over the more philologically-rigorous Müller, whose Christian-conversion commitments were less politically reliable. Williams's *Sanskrit-English Dictionary* (1872, with the comprehensive 1899 revised edition co-authored with Ernst Leumann and Carl Cappeller) became the standard reference and remains so today as the *Monier-Williams Sanskrit-English Dictionary*.
+- ***Monier Williams (later Sir Monier Monier-Williams)*** (1860–1899), who defeated Max Müller in the contested election of 1860. His *Sanskrit-English Dictionary* appeared in 1872; the expanded 1899 edition remains widely used.
 
-- Subsequent chairholders across the twentieth century (Arthur Anthony Macdonell; Frederick William Thomas; Arthur Berriedale Keith; the post-Independence-era chairholders) continued the Sanskrit-lexicographical and philological work at Oxford under the chair's institutional umbrella.
+The sources establish the conversion purpose, the succession, and the dictionaries. They also show that Williams emphasized the chair's Christian purpose during the election. Chapter 1 draws its institutional conclusion from those documented facts.
 
-The structural significance the Appendix establishes: Sanskrit lexicography in the English-reading world was substantially produced by men whose institutional charter was the *evangelical conversion of India*. The evangelical language has been preserved in the documents the institutional successors continue to acknowledge — the *Boden* in *Boden Chair of Sanskrit* is on the public record at Oxford; the chair's evangelical-conversion charter is part of the documentary machinery the chair remains bound by, even as the contemporary chairholders may distance themselves from that original purpose.
-
-The Appendix's case: the institutional charter of the chair is *not* an embarrassing historical artifact to be quietly dropped; it is the structural origin of the lexicographical enterprise that contemporary academic Indology continues to sustain. The *Monier-Williams Dictionary* — the standard reference for Sanskrit-English lexicography today — was produced by the second Boden Professor, in a chair endowed for the conversion of Indians to Christianity. The lexicographical machinery takes the institutional charter's framing forward in subtle ways the chapter develops.
-
-Standard references: the documentary record of Joseph Boden's will (preserved in the Oxford University archives); Linda Colley, *Captives: Britain, Empire and the World, 1600–1850* (Pimlico, 2003) for the broader colonial-military-and-evangelical context; Christopher A. Bayly, *Empire and Information: Intelligence Gathering and Social Communication in India, 1780–1870* (Cambridge University Press, 1996) for the East India Company's intelligence-and-conversion machinery; the institutional history of the Boden Chair in *Oxford University Calendar* and the *Encyclopaedia Britannica*'s entries on Wilson and Williams.
+Sources: Christopher Minkowski, [“The Inaugural Lectures of the Boden Professors of Sanskrit”](https://ora.ox.ac.uk/objects/uuid:d01d86f6-e787-4dbc-a222-939b6656c4ee), especially pp. 3–8; University of Oxford, [“The Indian Institute, Monier-Williams and Empire”](https://oxfordandempire.web.ox.ac.uk/article/indian-institute-monier-williams-and-empire).
 
 ---
 
 ### `indian-epic-critical-editions`
+
+<!-- SOURCE-RECORDS
+- bori-mahabharata-critical-edition | BORI Mahābhārata project
+- msu-valmiki-ramayana-critical-edition | Baroda Rāmāyaṇa project and publication span
+-->
 
 **Short:** The Bhandarkar Oriental Research Institute produced the Critical Edition of the *Mahābhārata*. The Critical Edition of the *Vālmīki Rāmāyaṇa* was a separate project of the Oriental Institute at the Maharaja Sayajirao University of Baroda.
 
@@ -5587,6 +5736,11 @@ Sources: Bhandarkar Oriental Research Institute, [official publication catalogue
 
 ### `grierson-lsi-classification`
 
+<!-- SOURCE-RECORDS
+- dsal-linguistic-survey-india | original volumes, family organization, specimens, and comparative vocabulary
+- census-india-language-division | government account of the survey's continuing classificatory role
+-->
+
 **Short:** Grierson's *Linguistic Survey of India* classified the languages of the Indian subcontinent through genealogical families and documented more than vocabulary: the survey includes grammatical descriptions, phonetic transcription, language specimens, and a comparative vocabulary.
 
 **Deployments:** Appendix Part 2 §2.1 — supports the criticism of the genealogical silos without falsely reducing the survey to surface vocabulary.
@@ -5599,17 +5753,29 @@ Sources: George A. Grierson, [*Linguistic Survey of India*, original government 
 
 ### `deccan-dictionary-project-method`
 
-**Short:** Deccan College's own digital dictionary portal states that the project was conceived in 1948 under a Professor of Indo-European Philology, uses a corpus of 1,469 Sanskrit treatises, assigns the corpus an approximate span from the Vedas around 1400 BCE to 1850 CE, and has published thirty-five volumes. The Government of India's digital-preservation project reports more than ten million reference slips.
+<!-- SOURCE-RECORDS
+- koshashri-project-portal | corpus, volumes, pages, chronology, and project history
+- shri-encyclopedic-sanskrit-dictionary | digitization scale and reference-slip totals
+-->
+
+**Short:** Deccan College's digital dictionary portal states that the project was conceived in 1948 under a Professor of Indo-European Philology, draws its primary corpus from 1,469 Sanskrit works, and has published thirty-five volumes totaling 6,056 pages. Its project description rounds the corpus to about 1,500 texts. The Government of India's digital-preservation project reports more than ten million reference slips gathered from 1948 to 1973.
 
 **Deployments:** Appendix Part 2 §§2.3–2.4 and §2.8 — supports the project's scale, institutional history, adopted dates, and stated historical method.
 
-The KoshaSHRI portal describes the project as an *Encyclopaedic Dictionary of Sanskrit on Historical Principles*, records its 1948 conception, identifies its founder's chair as Indo-European Philology, and describes a primary corpus of 1,469 Sanskrit treatises. It assigns the corpus a conventional chronological range from the Vedas around 1400 BCE to *Hāsyarṇava* in 1850 CE. The portal reports thirty-five published volumes. The Government of India's SHRI project page reports an existing database of fifteen lakh vocables and more than one crore reference slips and describes the conversion of the published volumes into structured data.
+The KoshaSHRI portal describes the project as an *Encyclopaedic Dictionary of Sanskrit on Historical Principles*, records its 1948 conception, identifies its founder's chair as Indo-European Philology, and describes a primary corpus of 1,469 Sanskrit works. A separate stage description on the same portal rounds that number to about 1,500 corpus texts. It assigns the corpus a conventional chronological range from the Vedas around 1400 BCE to *Hāsyarṇava* in 1850 CE and reports thirty-five published volumes totaling 6,056 pages. The Government of India's SHRI project page reports an existing database of fifteen lakh vocables and more than one crore reference slips gathered from 1948 through 1973.
+
+The portal is inconsistent about the first printed installment: its introductory metadata gives 1978 for the first volume, while its publication list dates the first part to 1976. The appendix does not depend on either date and therefore retains only the securely reported project scale and 1948 starting point.
 
 Sources: Deccan College and C-DAC, [KoshaSHRI project portal](https://koshashri-dc.ac.in/); Government of India, Science and Heritage Research Initiative, [Digital Preservation and Online Portal for Encyclopedic Sanskrit Dictionary](https://www.xn--11bx2e6a3b.xn--h2brj9c/index.aspx?id=project_details&projectId=DigitalPreservationandOnlinePortalforEncyclopedicSanskritDictionary).
 
 ---
 
 ### `jya-trijya-mathematical-terms`
+
+<!-- SOURCE-RECORDS
+- namami-history-mathematics-india | jyā as R·sin θ and trijyā as radius
+- somasiddhanta-trijya | trijyā as the jyā of ninety degrees
+-->
 
 **Short:** In Indian mathematical astronomy, **ज्या (*jyā*)** denotes the half-chord or the quantity corresponding to R·sin θ, while **त्रिज्या (*trijyā*)** denotes the radius, equivalently the ज्या (*jyā*) of a right angle.
 
@@ -5622,6 +5788,11 @@ Source: Government of India, National Mission for Manuscripts, [*History and Dev
 ---
 
 ### `appendix-dhatu-case-sources`
+
+<!-- SOURCE-RECORDS
+- sanskritdocuments-dhatupatha-index | Sanskrit atom entries used in Cases 4–7
+- ahd-indo-european-roots | reconstructed families used on the comparative side
+-->
 
 **Short:** The Sanskrit evidence in Appendix Part 1 Cases 4–7 comes from the recorded धातवः (*dhātavaḥ*) and generated families preserved in the धातुपाठ (*Dhātupāṭha*) and Sanskrit dictionaries. The PIE divisions come from the reference works the appendix indicts. The proposed direction from Sanskrit into receiving languages remains the book's Radiance Thesis.
 
@@ -5637,7 +5808,12 @@ Sanskrit sources: the Pāṇinian *Dhātupāṭha*; Monier-Williams, *A Sanskrit
 
 ### `deccan-college-founding-arc`
 
-**Short:** Deccan College Pune's institutional arc: founded 1821 as Sanskrit *Pāṭhaśālā* / *Hindoo College* under ***Mountstuart Elphinstone*** (Governor of Bombay Presidency 1819–1827), redirecting the ***Dakṣiṇā*** (दक्षिणा) charitable endowment that Peshwa Bajirao II had used to subsidize Sanskrit pundits in Pune; renamed *Poona College* (1851), *Deccan College* (1864), reconstituted post-Independence (1948) as the *Deccan College Post-Graduate and Research Institute* — institutional home of the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The moment of institutional capture: Maratha-state patronage framework for lineage-internal Sanskrit teaching converted into a hybrid colonial-educational institution.
+<!-- SOURCE-RECORDS
+- deccan-college-institutional-history | official institutional chronology
+- deccan-college-centenary-history | detailed founding and reopening chronology
+-->
+
+**Short:** Deccan College Pune began in 1821 as a Sanskrit *Pāṭhaśālā* / *Hindoo College* under Mountstuart Elphinstone, using the older दक्षिणा (*dakṣiṇā*) endowment. It became *Poona College* in 1851 and took the name *Deccan College* during the move begun in 1864. The present postgraduate and research institute reopened on 17 August 1939, before independence; its connection with the University of Poona dates from 1948.
 
 **Deployments:** Appendix Part 1 §1.2 — the citation anchor for the founding arc of Deccan College, Pune.
 
@@ -5647,27 +5823,32 @@ Sanskrit sources: the Pāṇinian *Dhātupāṭha*; Monier-Williams, *A Sanskrit
 
 - **1851**: Renamed the ***Poona College***. The institution by this date had been reorganized as a more general college with Sanskrit-and-English-and-other-subject offerings.
 
-- **1864**: Renamed the ***Deccan College***. By this date the institution had been substantially reorganized as a graduate research institution at the Bombay Presidency's direction. The colonial-administrative machinery had reshaped the institution toward research-and-graduate-instruction functions.
+- **1864–1868**: The institution took the name ***Deccan College*** as its move to the new campus began. The campus opened in 1868.
 
-- **1939**: The Bombay Presidency closed the Deccan College's undergraduate operations; the institution became a graduate-and-research institute.
+- **1939**: The present ***Deccan College Post-Graduate and Research Institute*** reopened on 17 August, before independence.
 
-- **1948** (post-Independence): Reconstituted as the ***Deccan College Post-Graduate and Research Institute***, with the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* project established as its flagship scholarly enterprise — see the Appendix for the full institutional case.
+- **1948**: The institute became connected with the newly established University of Poona. The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* was conceived in the same year.
 
 Across the entire nineteenth century, Deccan College was the western Indian Sanskrit-knowledge enterprise's institutional home. The pundits trained there read Sanskrit at a depth no European philological machinery could match. Their work was Sanskrit-internal: textual editing, manuscript collation, grammatical commentary, the architecture of *vyākaraṇa* and *darśana* studies the lineage-chain had preserved across the ages. The institution's structural problem the Appendix prosecutes: the pundits' depth was put in service of an institutional ecosystem that was producing the upstream-philological materials the European-philological project would reverse-engineer into PIE. The local Sanskrit depth and the upstream colonial-academic operation were two faces of the same institutional machinery.
 
 The post-Independence continuation: the institution preserved the colonial-philological framework across the post-1948 period without substantial structural reorientation. The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* project, beginning in 1948 and continuing to the present, applies the same comparative-philological methodology that the colonial framework established — with the predictable consequence that the *historical principles* embedded in the dictionary's framing are the *Western philological* historical principles, projecting their developmental-sequence assumptions onto the Sanskrit corpus the dictionary catalogs.
 
-Standard references: K. C. Varadachari, *History of Sanskrit Education in Bombay Presidency* (Bombay, 1959); the *Deccan College Post-Graduate and Research Institute Centenary Volume* (Pune, 1964); the institutional documentation at the Deccan College website (deccancollegepune.ac.in); A. M. Ghatage, ed., *An Encyclopaedic Dictionary of Sanskrit on Historical Principles*, Volume I (Deccan College, 1976; subsequent volumes continuing). For the broader colonial-educational context: Gauri Viswanathan, *Masks of Conquest: Literary Study and British Rule in India* (Columbia University Press, 1989); Krishna Kumar, *Political Agenda of Education: A Study of Colonialist and Nationalist Ideas* (Sage, 1991).
+Standard references: Deccan College Post-Graduate and Research Institute, official institutional history; *Deccan College Post-Graduate and Research Institute Centenary Volume*; K. C. Varadachari, *History of Sanskrit Education in Bombay Presidency* (Bombay, 1959); A. M. Ghatage, ed., *An Encyclopaedic Dictionary of Sanskrit on Historical Principles*. For the broader colonial-educational context: Gauri Viswanathan, *Masks of Conquest: Literary Study and British Rule in India* (Columbia University Press, 1989); Krishna Kumar, *Political Agenda of Education: A Study of Colonialist and Nationalist Ideas* (Sage, 1991).
 
 ---
 
 ### `shabdakalpadruma-deb-1858`
 
-**Short:** ***Sir Rādhākānta Deb*** (1784–1867), Calcutta-Bengali scholar of the Asiatic Society of Bengal milieu, compiled the ***Śabdakalpadruma*** (शब्दकल्पद्रुम — *The Wishing-Tree of Words*) — comprehensive Sanskrit lexicographical work in eight volumes, completed 1858, the deepest Sanskrit-internal lexicographical work of the 19th century, produced entirely from within the lineage-chain with entries in Sanskrit organized according to the *vyākaraṇa* discipline's analytical categories. Deb was knighted by the British colonial state; his generation continued to engage the European philological project before the inversion that produced PIE was visible — the fraud had not yet been baked.
+<!-- SOURCE-RECORDS
+- british-library-shabdakalpadruma-catalog | issue dates and volume structure
+- cdsl-shabdakalpadruma-guide | seven-volume publication record
+-->
+
+**Short:** Rādhākānta Deb's शब्दकल्पद्रुम (*Śabdakalpadruma*) appeared as seven main volumes between 1822 and 1852, followed by an appendix in 1858 that catalogues often count as an eighth volume. Modern reprints use different bindings and volume counts.
 
 **Deployments:** Appendix Part 1 §1.3 — the citation anchor for Rādhākānta Deb's *Śabdakalpadruma*.
 
-***Sir Rādhākānta Deb*** (1784–1867), Calcutta-Bengali scholar and intellectual of the Asiatic Society of Bengal milieu, compiled the ***Śabdakalpadruma (शब्दकल्पद्रुम — The Wishing-Tree of Words)*** — a comprehensive Sanskrit lexicographical work in eight volumes, completed in 1858. The *Śabdakalpadruma* is the deepest Sanskrit-internal lexicographical work of the nineteenth century, produced entirely from within the lineage-chain. The work:
+***Sir Rādhākānta Deb*** (1784–1867), Calcutta-Bengali scholar and intellectual of the Asiatic Society of Bengal milieu, compiled the ***Śabdakalpadruma (शब्दकल्पद्रुम — The Wishing-Tree of Words)***. Its seven main volumes appeared from 1822 to 1852. An appendix followed in 1858 and is often catalogued as volume eight. The work:
 
 - Catalogs Sanskrit vocabulary with detailed grammatical, etymological, and textual-citation information.
 - Written in Sanskrit itself, with the entries written in Sanskrit and the explanatory apparatus organized according to the *vyākaraṇa* discipline's analytical categories.
@@ -5678,17 +5859,21 @@ Deb completed the work across decades of personal scholarly effort and patronage
 
 The structural significance the Appendix establishes: Deb was conducting Sanskrit-internal work for lineage-internal purposes. The *Śabdakalpadruma* was not a strategic contribution to the European-philological project; it was a deep lexicographical resource produced from within the lineage-chain for the lineage-chain's own continuity. The work's later instrumentalization by the European-philological ecosystem — being mined for cognate-evidence to feed the PIE reconstruction — was not visible to Deb at the time of composition. The fraud had not yet been baked. Deb's generation of senior Indian Sanskritists who continued to engage the European philological project did so before the inversion that produced PIE was visible.
 
-Standard references: Rādhākānta Deb, *Śabdakalpadruma* (Calcutta, eight volumes, 1822–1858; reprinted Nag Publishers, Delhi, 1967, five volumes); the standard scholarly references on nineteenth-century Bengali intellectual history: David Kopf, *British Orientalism and the Bengal Renaissance: The Dynamics of Indian Modernization, 1773–1835* (University of California Press, 1969); Sumit Sarkar, *Modern India, 1885–1947* (Macmillan, 1983) for the broader Bengali intellectual context.
+Standard references: Rādhākānta Deb, *Śabdakalpadruma* (Calcutta, seven main volumes, 1822–1852; appendix, 1858), British Library catalogue record; David Kopf, *British Orientalism and the Bengal Renaissance: The Dynamics of Indian Modernization, 1773–1835* (University of California Press, 1969).
 
 ---
 
 ### `vacaspatyam-taranatha-1873`
 
-**Short:** ***Tārānātha Tarkavācaspati*** (1812–1885), Calcutta-Bengali scholar of the second generation engaging the European-philological project, compiled the ***Vācaspatyam*** (वाचस्पत्यम् — *That Which Belongs to the Lord of Speech*) — six-volume Sanskrit lexicographical work completed 1873, organized according to *vyākaraṇa* and *nyāya* (न्याय) discipline categories, with extensive citations from the *Vedic*, *Mahābhārata*, *Purāṇa*, *Kāvya*, *Śāstra*, *Darśana*, and *Smṛti* literature. Tarkavācaspati was associated with the Calcutta Sanskrit College; alongside Deb's *Śabdakalpadruma*, the work constitutes the deep Sanskrit-internal scholarly resource the European-philological project drew on for the PIE-reconstruction project.
+<!-- SOURCE-RECORDS
+- cdsl-vacaspatyam-guide | seven-volume 1873–1884 publication record
+-->
+
+**Short:** Tārānātha Tarkavācaspati's वाचस्पत्यम् (*Vācaspatyam*) was originally issued in seven volumes from 1873 through 1884. Later reprints sometimes bind it in six volumes; 1873 is the beginning of publication, not the completion date.
 
 **Deployments:** Appendix Part 1 §1.3 — the citation anchor for Tārānātha Tarkavācaspati's *Vācaspatyam*.
 
-***Tārānātha Tarkavācaspati*** (1812–1885), Calcutta-Bengali scholar of the second generation of Indian Sanskritists engaging the European-philological project, compiled the ***Vācaspatyam (वाचस्पत्यम् — That Which Belongs to the Lord of Speech)*** — a comprehensive Sanskrit lexicographical work in six volumes, completed in 1873. The work is the second major nineteenth-century Sanskrit-internal lexicographical compilation, alongside Deb's *Śabdakalpadruma*. The *Vācaspatyam*:
+***Tārānātha Tarkavācaspati*** (1812–1885), Calcutta-Bengali scholar of the second generation of Indian Sanskritists engaging the European-philological project, compiled the ***Vācaspatyam (वाचस्पत्यम् — That Which Belongs to the Lord of Speech)***. The original seven volumes appeared from 1873 through 1884. Later editions sometimes rebind the work in six volumes. The *Vācaspatyam*:
 
 - Catalogs Sanskrit vocabulary with substantial grammatical, etymological, and textual-citation information.
 - Written in Sanskrit, with the analytical framework organized according to the *vyākaraṇa* and *nyāya* (logical-philosophical) disciplines' categories.
@@ -5699,19 +5884,25 @@ Tarkavācaspati was associated with the Calcutta Sanskrit College and the Asiati
 
 The combination of Deb's *Śabdakalpadruma* and Tarkavācaspati's *Vācaspatyam* — together with the broader nineteenth-century Bengali, Banaras, and Pune lexicographical-and-grammatical work — constitutes the deep Sanskrit-internal scholarly resource pool that the European-philological project drew on across the second half of the nineteenth century. The Appendix's structure: the lineage-internal scholarship was honest; its upstream instrumentalization by the philological machinery was not.
 
-Standard references: Tārānātha Tarkavācaspati, *Vācaspatyam* (Calcutta, six volumes, 1873; reprinted in multiple modern editions including Chowkhamba Sanskrit Series, Varanasi, 1962 and Rashtriya Sanskrit Sansthan editions). For Tarkavācaspati's broader biographical context: the standard nineteenth-century Bengali intellectual-history references; the *Asiatic Society of Bengal* journals from the relevant period.
+Standard reference: Tārānātha Tarkavācaspati, *Vācaspatyam* (Calcutta, seven volumes, 1873–1884), as recorded by the Cologne Digital Sanskrit Lexicon project.
 
 ---
 
 ### `rg-bhandarkar-honors`
 
-**Short:** ***Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar*** (1837–1925), western-Indian Sanskritist; M.A. from Elphinstone College Bombay (1866), Professor of Sanskrit at Elphinstone (1869–1881) and Deccan College Pune (1882–1893); imperial honors ***CIE*** (1889) and ***KCIE*** (1911); Supreme and Bombay Legislative Council appointments (1903–1905); honorary doctorates from Göttingen (1885 — the Indo-European philology center), Edinburgh, Bombay, Calcutta; sustained correspondence with Max Müller, Albrecht Weber, Theodor Aufrecht. The historical-record exemplar of the post-1860s generation's *priests-of-progress* elevation pattern — lineage-internal authority converted to dogma-sanctifying imprimatur through the colonial honors system (Ch3 §3.4 outward-absorption mechanism).
+<!-- SOURCE-RECORDS
+- golden-book-india-bhandarkar | degrees and imperial honors
+- whos-who-india-1911-bhandarkar-kcie | KCIE investiture at the 1911 Coronation Durbar
+- bori-institutional-history | BORI founding date and Bhandarkar's age
+-->
+
+**Short:** Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar received his B.A. in 1862 and M.A. in 1863, not 1866. The biographical record also supports the CIE in 1889 and KCIE in 1911. BORI states that the institute was founded on 6 July 1917, his eighty-first birthday, not his eightieth.
 
 **Deployments:** Appendix Part 1 §1.3 ¶ — the citation anchor for Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar's institutional honors and elevation in the post-1860s generation.
 
 ***Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar*** (1837–1925), western-Indian Sanskritist and philologist. The detailed institutional-honors record the Appendix cites:
 
-- **Training**: M.A. from Elphinstone College, Bombay (1866) — one of the earliest Indians to take a Western-style university degree in Sanskrit.
+- **Training**: B.A. in 1862 and M.A. in 1863. A separate examination distinction recorded in 1866 should not be substituted for the M.A. date.
 
 - **Appointments**: Professor of Sanskrit and Oriental Languages at Elphinstone College, Bombay (1869–1881); Professor of Sanskrit at Deccan College, Pune (1882–1893). Bhāṇḍārkar's institutional career spanned the two principal western-Indian colonial-academic institutions for Sanskrit study.
 
@@ -5723,17 +5914,21 @@ Standard references: Tārānātha Tarkavācaspati, *Vācaspatyam* (Calcutta, six
 
 - **Scholarly exchange**: Bhāṇḍārkar was in continuous correspondence with the leading German and British Indologists of his generation — ***Max Müller*** (Oxford), ***Albrecht Weber*** (Berlin), ***Theodor Aufrecht*** (Edinburgh), and the broader Indo-European philology community.
 
-- **Institutional naming**: The ***Bhandarkar Oriental Research Institute (BORI)*** was established at Pune on July 6, 1917 — Bhāṇḍārkar's eightieth birthday — in his honor. BORI remains one of the most significant Indian scholarly institutions for Sanskrit-textual research, including the multi-decade *Mahābhārata Critical Edition* project (1933–1966 in its first phase).
+- **Institutional naming**: The ***Bhandarkar Oriental Research Institute (BORI)*** was established at Pune on July 6, 1917 — Bhāṇḍārkar's eighty-first birthday — in his honor. BORI remains one of the most significant Indian scholarly institutions for Sanskrit-textual research, including the multi-decade *Mahābhārata Critical Edition* project.
 
 The structural significance the Appendix establishes: Bhāṇḍārkar's generation served as the *priests of progress* of the local Indian machinery. Their Sanskrit-internal credentials were unimpeachable on their own terms — Bhāṇḍārkar's textual-critical work on the *Mahābhārata* and his philological studies of Sanskrit grammar stand as serious scholarship. But the *structural use* to which those credentials were put — by the upstream ecosystem that conferred their honors, and by the wider Anglophone reading public the ecosystem addressed — was to *sanctify* the European philological account of Sanskrit as authoritative.
 
 The mechanism: the KCIE was the imperial state saying *this man is now a peer of our scholarly enterprise*. The Royal Asiatic Society fellowships and the Göttingen-Edinburgh-Bombay-Calcutta honorary doctorates were the trans-imperial enterprise saying *this man is one of us*. What flowed back, structurally, was the Indian-scholarly imprimatur the pyramid needed: *the leading Indian Sanskritist of his generation is in continuous scholarly correspondence with our Indologists and concurs with our account*. The pyramid's account of Sanskrit had been sanctified by elevated scholars from the lineage-chain itself.
 
-Standard references: C. Hayavadana Rao, *The Indian Biographical Dictionary* (1915), entry for Rāmakṛṣṇa Gopāla Bhāṇḍārkar, which gives **C.I.E. (1889)** and repeats **C.I.E., 1889** inside the entry; V. S. Sukthankar, ed., *The Mahābhārata for the First Time Critically Edited* (Bhandarkar Oriental Research Institute, Pune, 1933–1966) — the project Bhāṇḍārkar's intellectual descendants conducted; the *Bhandarkar Oriental Research Institute Annual Reports* and Centenary publications; T. G. Mainkar, ed., *Writings and Speeches of Sir R. G. Bhandarkar* (BORI Pune, 1933); Krishna Kumar, *Political Agenda of Education* (Sage, 1991) for the broader colonial-academic-institutional analysis; Vinay Lal, *The History of History: Politics and Scholarship in Modern India* (Oxford University Press, 2003) for the structural critique of the colonial-academic machinery.
+Standard references: Sir Roper Lethbridge, *The Golden Book of India* (1893), entry for Rāmakṛṣṇa Gopāla Bhāṇḍārkar; Bhandarkar Oriental Research Institute, official institutional history; C. Hayavadana Rao, *The Indian Biographical Dictionary* (1915), entry for Bhāṇḍārkar; T. G. Mainkar, ed., *Writings and Speeches of Sir R. G. Bhandarkar* (BORI Pune, 1933).
 
 ---
 
 ### `bopp-1816-conjugationssystem`
+
+<!-- SOURCE-RECORDS
+- ut-reader-bopp-1816 | publication, method, and Sanskrit's analytical role
+-->
 
 **Short:** ***Franz Bopp*** (1791–1867; trained at Paris under Antoine-Léonard de Chézy and at London under Henry Thomas Colebrooke), ***Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** (Frankfurt am Main: Andreaeische Buchhandlung, 1816) — *where the operation begins*. The work treats Sanskrit verbal morphology as the structural anchor against which Greek, Latin, Persian, and Germanic verbal systems are compared. The post-1861 construction retained the comparisons but moved the anchor above every recorded language.
 
@@ -5755,19 +5950,25 @@ Standard references: Franz Bopp, *Über das Conjugationssystem der Sanskritsprac
 
 ### `schleicher-1861-compendium`
 
-**Short:** ***August Schleicher*** (1821–1868), ***Compendium der vergleichenden Grammatik der indogermanischen Sprachen*** (Hermann Böhlau, Weimar, 1861; 2nd ed. 1866) — *the inversion moment*. The work gives the family-tree theory and a common ancestor distinct from every recorded language a mature comparative grammar; Sanskrit, previously the principal anchor, becomes one daughter among siblings. Schleicher's 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* made the biological-organic framing explicit. *The bake* at its central moment.
+<!-- SOURCE-RECORDS
+- schleicher-compendium-1874-english | printed pp. 1, 5, and 8
+- deutsche-biographie-schleicher | education and career
+- schleicher-darwin-1863 | biological-organic account
+-->
+
+**Short:** ***August Schleicher*** (1821–1868), ***Compendium der vergleichenden Grammatik der indogermanischen Sprachen*** (Hermann Böhlau, Weimar, 1861; 2nd ed. 1866) gave a reconstructed common ancestor distinct from every recorded language a mature comparative grammar. The English translation states that the Indo-European languages derive from “one common original language” and says that the work places the inferred original language beside its recorded descendants. Schleicher's 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* made his biological-organic account of language explicit.
 
 **Deployments:** Chapter 19 §19.1, Appendix Part 1 §1.4, and Appendix Part 5 §5.9 — the citation anchor for August Schleicher's 1861 *Compendium* and the family-tree model used in the language-factory contrast.
 
 ***August Schleicher*** (1821–1868), German philologist at Jena, published the ***Compendium der vergleichenden Grammatik der indogermanischen Sprachen*** (Weimar: Hermann Böhlau, 1861, with a second edition 1866). Earlier nineteenth-century scholarship had already used genealogical trees. Schleicher's *Compendium* gave the model a mature comparative grammar built around one common ancestor distinct from every recorded language.
 
-The structural shift is clear. Sanskrit, which had supplied the principal template for Bopp's comparison, is now *one daughter language among siblings*. The reconstructed common ancestor (*Ursprache*) sits above every recorded language, including Sanskrit. The asterisk marks forms posited by reconstruction rather than preserved in a text, inscription, or recitation lineage. The Appendix does not depend on assigning the invention of that notation to Schleicher.
+The structural shift is clear. Sanskrit, which had supplied the principal template for Bopp's comparison, is now *one daughter language among siblings*. The reconstructed common ancestor (*Ursprache*) sits above every recorded language, including Sanskrit. The asterisk marks forms posited by reconstruction rather than recorded forms. The Appendix does not depend on assigning the invention of that notation to Schleicher.
 
-The English translation states Schleicher's claim directly: the Indo-European languages are "clearly and undoubtedly derived from one common original language." His 1868 title, *Eine Fabel in indogermanischer Ursprache*, likewise presents the fable as written in the Indo-European *original language*.
+The English translation states Schleicher's claim directly on printed p. 5: the Indo-European languages are “clearly and undoubtedly derived from one common original language.” Printed p. 8 says that the work sets out the inferred Indo-European original language beside its recorded descendants and explicitly rejects the claim that the non-Indian languages derived from Sanskrit. His 1868 title, *Eine Fabel in indogermanischer Ursprache*, likewise presents the fable as written in the Indo-European *original language*.
 
-The biological-organic framing that shapes the *Compendium*: Schleicher trained as a botanist before turning to linguistics, and the imported metaphor was not casual but doctrinal. Languages, in Schleicher's framing, are *Naturorganismen* (natural organisms) that grow, branch, reproduce, decay, and die like biological species. The family-tree diagram is the biological-organism's genealogy applied to linguistic descent. Schleicher's 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* (*The Darwinian Theory and the Science of Language*; Weimar: Hermann Böhlau) made the Darwinian framing explicit — Darwin's theory of natural selection, on Schleicher's account, applied directly to language change: languages evolved through descent with modification under selective pressures.
+Schleicher studied theology, Oriental languages, classical philology, and linguistics; he was not trained as a botanist. His work nevertheless treats language through an organic and natural-historical frame. The opening of the English *Compendium* calls the science of language part of the natural history of humanity and describes languages as products of growth. Schleicher's 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* (*The Darwinian Theory and the Science of Language*; Weimar: Hermann Böhlau) then made his engagement with Darwin explicit.
 
-The structural significance the Appendix establishes: Schleicher's 1861 *Compendium* is the *inversion moment*. Before 1861, the comparative-philological project still treated Sanskrit as the source. From 1861 onward, the project's structural commitment is to a reconstructed proto-language distinct from any real recorded language — including Sanskrit. The inversion is the *bake* at its central moment: the manufacture of an ancestor-form from comparative-method work on the daughter languages, with the comparative-method's internal consistency standing in for empirical evidence the operation could not provide and did not require.
+The *Compendium* did not invent either the common-source proposal or the family-tree model. Its significance is that it systematized a reconstructed proto-language distinct from Sanskrit and every other recorded language. Chapter 19 calls this the *bake*: comparative work on recorded languages produces reconstructed forms, and the reconstruction is then placed above the evidence from which it was made.
 
 The 1868 fable (*Avis akvāsas ka* — see endnote `schleicher-1868-fable`) was the operational follow-up to the *Compendium*: Schleicher produced a complete text composed entirely in the reconstructed proto-language, every word starred, demonstrating that the machinery could sustain an extended text. The *bake had produced its first finished good*.
 
@@ -5776,6 +5977,10 @@ Standard references: August Schleicher, *Compendium der vergleichenden Grammatik
 ---
 
 ### `brugmann-grundriss-1886`
+
+<!-- SOURCE-RECORDS
+- brugmann-grundriss-bibliographic-record | publication sequence of the Grundriss
+-->
 
 **Short:** ***Karl Brugmann*** (1849–1919), of the Leipzig ***Junggrammatiker*** (Neogrammarian) school, ***Grundriss der vergleichenden Grammatik der indogermanischen Sprachen*** (Karl J. Trübner, Strasbourg, 1886–1893; revised 1897–1916, with Berthold Delbrück's syntactic volumes) — *the cementing moment*. The work systematized the comparative method around the ***Ausnahmslosigkeit der Lautgesetze*** doctrine (sound laws operate without exception, licensing reverse-engineering) and consolidated a comprehensive reconstructed PIE — phonology, morphology, lexicon — on the basis of comparative-method work. The reconstructed ecosystem became a self-validating system in which methodology and output were mutually reinforcing. *The bake's industrial-scale production line*.
 
@@ -5797,6 +6002,10 @@ Standard references: Karl Brugmann (and Berthold Delbrück for the syntactic vol
 
 ### `pac-pakva-ashtadhyayi-8-2-52`
 
+<!-- SOURCE-RECORDS
+- gretil-ashtadhyayi | rules 8.2.30 and 8.2.52
+-->
+
 **Short:** The past participle of ⟪पच्⟫ (*pac*) is पक्वः (*pakvaḥ*), not *paktaḥ*. *Aṣṭādhyāyī* 8.2.30, चोः कुः (*coḥ kuḥ*), accounts for the guttural क् (*k*), and 8.2.52, पचो वः (*paco vaḥ*), supplies व् (*v*) in the participle.
 
 **Deployments:** Appendix Part 5 §5.6 — verifies the पक्वः (*pakvaḥ*) row in the Yenpro generative-reach table and the corresponding *v* → *w* cipher mapping.
@@ -5809,11 +6018,17 @@ Sources: [Pāṇini, *Aṣṭādhyāyī* 8.2.30 and 8.2.52, GRETIL electronic te
 
 ### `japanese-loanword-phonotactic-adaptation`
 
-**Short:** Japanese normally repairs consonant clusters and disallowed word-final consonants in borrowed words by inserting vowels. /u/ is the common default; /o/ commonly follows /t/ and /d/, while /i/ appears in some palatal environments. The moraic nasal /N/ remains a permitted consonantal mora. Appendix Part 5 uses these tendencies only as a simplified adaptation layer, not as a complete grammar of Japanese loanword formation.
+<!-- SOURCE-RECORDS
+- kubozono-japanese-loanword-prosody-2002 | Japanese loanword syllable structure
+- shoji-japanese-vowel-epenthesis-2013 | epenthetic vowel patterns
+- japanese-epenthesis-pmc-2021 | review and experimental evidence for vowel selection
+-->
+
+**Short:** Japanese normally repairs consonant clusters and disallowed word-final consonants in borrowed words by inserting vowels. /u/ is the common default; /o/ commonly follows /t/ and /d/, while /i/ commonly follows palatal affricates such as /tɕ/ and /dʑ/. The moraic nasal /N/ remains a permitted consonantal mora. Appendix Part 5 uses these tendencies only as a simplified adaptation layer, not as a complete grammar of Japanese loanword formation.
 
 **Deployments:** Appendix Part 5 §5.7 — the Japanese-facing adaptation of Yenpro forms after the fixed sound substitution.
 
-Japanese loanword adaptation does not apply one vowel mechanically after every consonant. The receiving language repairs sound sequences according to the preceding consonant and the sound shapes available in Japanese. /u/ is the most frequent epenthetic vowel. /o/ commonly appears after /t/ and /d/, where /u/ would interact with the Japanese realizations of those consonants. /i/ occurs after some palatal consonants. The exact result also depends on the donor form, the period of borrowing, orthography, and current loanword conventions.
+Japanese loanword adaptation does not apply one vowel mechanically after every consonant. The receiving language repairs sound sequences according to the preceding consonant and the sound shapes available in Japanese. /u/, usually realized without strong lip rounding, is the most frequent epenthetic vowel. /o/ commonly appears after /t/ and /d/, while /i/ commonly follows palatal affricates. The exact result also depends on the donor form, the period of borrowing, orthography, and current loanword conventions.
 
 The appendix therefore presents two deliberately simplified operations rather than claiming a complete Japanese phonology: insert an appropriate vowel inside a disallowed cluster, and insert one after a disallowed final consonant. The worked forms show what this additional layer does to the cipher. They do not claim that Yenpuro is Japanese or that every Japanese speaker would select the same adaptation.
 
@@ -6104,6 +6319,10 @@ Sources: [*Aṣṭādhyāyī* 2.4.75](https://sanskritdocuments.org/learning_too
 
 ### `racana-gana-matrix`
 
+<!-- SOURCE-RECORDS
+- project-dhatupatha-analysis | racanā-by-gaṇa script, matrix, and reproduced totals
+-->
+
 **Short:** Appendix Part 6 §6.4 cross-tabulates the current Ch 10 top-ten *racanā* scaffolds against the ten verbal *gaṇāḥ*. Reproducibility script: `analysis/dhatupatha/scripts/analyze_racana_by_gana.py`; outputs: `analysis/dhatupatha/data/derived/racana_by_gana.csv` and `.md`; figure script: `figures/ganah/racana_gana_matrix.py`; figure output: `figures/ganah/racana_gana_matrix.svg`. Current result after the anubandha/scaffold cleanup: 2,168 *Dhātupāṭha* entries, 47 observed *racanāḥ*, top ten *racanāḥ* covering 1,973 entries (**91.01%**), and 140 populated *racanā* × *gaṇa* cells out of 470 possible.
 
 **Deployments:** Appendix Part 6 §6.4 (the construction-axis / operation-axis matrix).
@@ -6210,37 +6429,51 @@ Sources: Patañjali, ***Mahābhāṣya***, Kielhorn's edition, vol. I, pp. 30–
 
 ### `generative-reach-inversion-natural-language`
 
+<!-- SOURCE-RECORDS
+- lieberman-english-irregular-verbs-2007 | frequency and retention of English irregular forms
+- project-dhatupatha-analysis | Path A particle-count and estimated-reach calculation
+- project-prayoga-analysis | Path C particle-count and combinatorial-reach calculation
+-->
+
 **Short:** High-frequency verbs in natural languages often preserve irregular forms. The Sanskrit audit asks a different question: whether particle count relates to the number of derivatives and grammatical combinations recorded for a *dhātuḥ*. Both Sanskrit calculations find greater reach among smaller atoms. The appendix does not claim that it has completed a cross-language comparison of paradigm irregularity.
 
 **Deployments:** Appendix Part 6 §§6.2–6.3 — qualifies the natural-language comparison and anchors the two Sanskrit reach calculations.
 
-Natural-language morphology has repeatedly observed that high-frequency verbs often retain irregular or suppletive forms. Familiar examples include:
+English supplies a directly measured example. Lieberman and colleagues tracked 177 Old English irregular verbs across 1,200 years and found that frequently used irregular verbs regularized more slowly than less frequent ones. Familiar paradigms in other natural languages illustrate the same broader contrast:
 
 - **English** *be / have / do*: paradigmatically broken — *be* has the suppletive paradigm *am / are / is / was / were / been*; *have* has irregular past *had* and third-person *has*; *do* has irregular past *did* and third-person *does*.
 - **Latin** *esse / ire / ferre*: similarly suppletive — *sum / es / est / fui / esse*; *eo / is / it / ivi / ire*; *fero / fers / fert / tuli / latum / ferre*.
 - **Greek** *eimi / oida / phēmi*: same pattern.
 - **Russian** *byt'* (to be): near-absence of present-tense forms.
-- **Spanish, French, German**: same correlation.
 
-One common explanation is that speakers learn frequent forms as complete units, allowing those forms to resist the analogical regularization that reshapes less frequent forms.
+The cross-language list is illustrative, not the dataset used by the Sanskrit audit. One common explanation is that speakers learn frequent forms as complete units, allowing those forms to resist the analogical regularization that reshapes less frequent forms.
 
 The Sanskrit audit does not compare complete verb paradigms across languages. It tests a different relation. In the 138-atom Path A sample, particle count and estimated derivative reach have a Spearman correlation of **−0.485**. Path C independently compares particle count with recorded combinations of prefix and grammatical form-class across 3,839 normalized verb lemmas and gives **−0.4334**. Both results show greater reach among smaller atoms. Appendix Part 6 presents this compactness-and-reach result without converting it into an unsupported claim that every high-reach Sanskrit paradigm is regular.
 
-Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and Form* (Benjamins); Haspelmath 2002, *Understanding Morphology* (Hodder); Greenberg 1966, *Language Universals* (Mouton); Bybee & Hopper 2001 (eds.), *Frequency and the Emergence of Linguistic Structure* (Benjamins) — these document the natural-language frequency-irregularity correlation. Monier-Williams 1899 and V. S. Apte 1890 for the Sanskrit generative-reach counts; reproducibility bundle at `analysis/dhatupatha/` for the curated sample and the analysis script.
+Source: Erez Lieberman, Jean-Baptiste Michel, Joe Jackson, Tina Tang, and Martin A. Nowak, “Quantifying the Evolutionary Dynamics of Language,” *Nature* 449 (2007): 713–716, DOI 10.1038/nature06137, especially the 177-verb dataset and frequency result. Monier-Williams 1899 and V. S. Apte 1890 supply the dictionary material behind Path A; the reproducibility bundles at `analysis/dhatupatha/` and `analysis/ganah/` contain the two Sanskrit calculations.
 
 ---
 
 ### `deva-pie-etymology`
 
+<!-- SOURCE-RECORDS
+- ahd-indo-european-roots | dyeu- entry
+- de-vaan-latin-etymological-dictionary | p. 167, deus
+-->
+
 **Short:** The Western philological account projects Latin *deus* and Sanskrit *devaḥ* back to a reconstructed PIE **\*deiwós** ("deity") under **\*dyew-** ("to shine"); the book treats the shared "shine" semantics as reflections of the engineered Sanskrit calibrant rather than evidence of a vanished common ancestor.
 
 **Deployments:** Ch19 §19.7 (the *deva* chain); Figure 19.6.
 
-Source: Michiel de Vaan, *Etymological Dictionary of Latin and the Other Italic Languages* (Leiden: Brill, 2008), entries for *deus* / *dīus*; verify exact reconstruction and wording against the edition used for final citation.
+The *American Heritage Dictionary* Indo-European Roots Appendix gives **\*dyeu-**, “to shine,” its zero-grade **\*diw-**, and the noun **\*deiwos**, “god”; the same entry lists Latin *deus* and Sanskrit *devaḥ*. Michiel de Vaan's *Etymological Dictionary of Latin and the Other Italic Languages* (Brill, 2008), p. 167, derives Latin *deus* through Proto-Italic **\*deiwo-** and prints Sanskrit *devá-* among the cognates. The exact accent and laryngeal notation vary across modern references; the body uses the familiar forms **\*deiwós** and **\*dyew-**.
 
 ---
 
 ### `dhatu-endowment-families`
+
+<!-- SOURCE-RECORDS
+- ahd-indo-european-roots | entries stā-, genə-, weid-, dhē-, bher-, and mē-
+-->
 
 **Short:** The six rows use the Western etymological apparatus's own correspondence sets. Its starred reconstructions and its Greek, Latin, and Germanic branches are reported here as data; the Radiance Thesis reverses the direction assigned to them. The Sanskrit forms are recorded atoms, while the proposed PIE forms are inferred from the correspondences. The directional interpretation belongs to the book's argument rather than to the cited Western reference.
 
@@ -6285,7 +6518,16 @@ Sources: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*, vo
 
 ### `bakers-story-category-theft`
 
-**Short:** The pyramid's category theft was built by four named European comparativists across the 19th century: ***Franz Bopp*** (1791–1867), *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816) — the systematic comparative method's founding work; ***August Schleicher*** (1821–1868), *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (Weimar, 1861) — the family-tree theory formalized; ***Max Müller*** (1823–1900) — Oxford's pedagogical machinery, the *Ṛgveda* edition (1849–1874), the *Sacred Books of the East* (1879–1910); ***Karl Brugmann*** (1849–1919), *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (Strasbourg, 1886–1893) — the neogrammarian synthesis. Together their framework classified Sanskrit as natural speech, gave it a foreign ancestor and foreign carriers, and placed Pāṇini at the boundary between Vedic and Classical Sanskrit.
+<!-- SOURCE-RECORDS
+- bopp-conjugationssystem-1816 | comparative conjugation study
+- mpi-schleicher-tree-1853 | Schleicher's first language-family tree
+- mueller-rigveda-sacred-books | Oxford editions and lectures
+- brugmann-grundriss-1886 | Neogrammarian synthesis
+- epg-pathshala-history-sanskrit | Indian university teaching of Vedic and Classical Sanskrit
+- narasimhan-south-central-asia-2019 | current ancestry and migration model
+-->
+
+**Short:** Nineteenth-century European comparativists built the framework that placed Sanskrit beneath a reconstructed ancestor. Contemporary teaching combines that linguistic ancestry with a migration into India and commonly places Pāṇini at the boundary between Vedic and Classical Sanskrit.
 
 **Deployments:** Chapter 2 §§2.1 and 2.7 (the codification claim and the three acts of category theft).
 
@@ -6293,14 +6535,14 @@ The account Chapter 2 §2.7 lays out is the skeleton of textbook Indo-European l
 
 - **Franz Bopp** (1791–1867), *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache* (Frankfurt am Main: Andräische Buchhandlung, 1816) — the founding work of the systematic comparative method.
 - **August Schleicher** (1821–1868), *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (Weimar: Hermann Böhlau, 1861; 2nd ed. 1866) — the family-tree theory (*Stammbaumtheorie*) formalized.
-- **Max Müller** (1823–1900) — the Boden Chair at Oxford (1860–1899) and the pedagogical machinery: the editions of the *Ṛgveda* (1849–1874), the *Sacred Books of the East* series (1879–1910), the *Lectures on the Science of Language* (1861–1864).
+- **Max Müller** (1823–1900) — an Oxford professor and editor whose works included the edition of the *Ṛgveda* (1849–1874), the *Sacred Books of the East* series (1879–1910), and the *Lectures on the Science of Language* (1861–1864). He did not hold the Boden Chair; Monier Monier-Williams defeated him in the 1860 election.
 - **Karl Brugmann** (1849–1919), *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (Strasbourg: Trübner, 1886–1893; revised 1897–1916) — the neogrammarian synthesis that consolidated PIE reconstruction methodology.
 
 These four are the named figures. The category theft is the cumulative product of the framework they built across the nineteenth century. Subsequent scholarship refined the details without changing its central structure: Sanskrit remains a natural daughter language beneath PIE, the Racial Arya Thesis carries it into India, and Pāṇini divides Vedic from Classical Sanskrit.
 
-The contemporary softened dogma — Cardona, Houben, Pollock, Kiparsky and adjacent scholarship — preserves the structure while softening the vocabulary. The *codified* concession at the Pāṇini level is the contemporary vocabulary; the remaining claims continue as background premises in the framework. The book contests both the explicit nineteenth-century version and its softer contemporary form.
+The framework continues in present teaching. Indian university material divides Sanskrit into an older Vedic form and a Classical form described as codified and standardized by Pāṇini. The current migration model places ancestry associated with Steppe pastoralists in South Asia during the second millennium BCE. Chapter 2 presents these as parts of one account and then tests the codification claim against Arabic and Tamil.
 
-Source: Standard histories of Indo-European linguistics — Holger Pedersen, *The Discovery of Language: Linguistic Science in the Nineteenth Century* (1931, English trans. 1962); Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Longman, 1998); Pedro Ramat & Anna Giacalone Ramat (eds.), *The Indo-European Languages* (Routledge, 1998); Trautmann, *Aryans and British India* (University of California Press, 1997) for the colonial-philological context.
+Sources: Holger Pedersen, *The Discovery of Language: Linguistic Science in the Nineteenth Century* (1931; English trans. 1962); Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Longman, 1998); Thomas R. Trautmann, *Aryans and British India* (University of California Press, 1997); Government of India e-PG Pathshala, “History of Sanskrit Literature”; Vagheesh M. Narasimhan et al., [“The Formation of Human Populations in South and Central Asia”](https://doi.org/10.1126/science.aat7487), *Science* 365.6457 (2019).
 
 ---
 
@@ -6336,9 +6578,15 @@ Sources: Eva Wilden, [*Manuscript, Print and Memory: Relics of the Caṅkam in T
 
 ### `1858-religious-neutrality-after-war`
 
+<!-- SOURCE-RECORDS
+- hansard-lords-india-christianity-1858 | 3 May 1858 debate
+- hansard-commons-government-india-1858 | 30 July 1858 debate
+- victoria-proclamation-1858 | 1 November 1858 proclamation
+-->
+
 **Short:** The British state's formal promise of religious non-interference followed the Anglo-Indian War of 1857. Parliamentary debate in 1858 openly connected official neutrality with the political danger created by state support for Christian conversion. The concession limited overt government action; it did not end missionary activity or colonial interference through education and other institutions.
 
-**Deployments:** Chapter 2 §2.9 (the change in the attack after the war); paired with `orl-three-apex-nexus`, which carries the author's larger argument from *Tatya Tope's Operation Red Lotus*.
+**Deployments:** Preface, “Beyond the Red Lotus”; Chapter 2 §2.9 (the change in the attack after the war); paired with `orl-three-apex-nexus`, which carries the author's larger argument from *Tatya Tope's Operation Red Lotus*.
 
 The House of Lords debate of 3 May 1858 records the government's commitment to “absolute neutrality in matters of religion” and discusses the political danger created when government action appeared to support missionary conversion. The House of Commons debate of 30 July 1858 likewise discusses the coming proclamation in terms of protection against compulsory interference, bribery, and coercion in religion. Queen Victoria's Proclamation of 1 November 1858 then transferred rule from the East India Company to the Crown and formally promised non-interference in religious belief and worship.
 
@@ -6350,6 +6598,12 @@ Sources: UK Parliament, [House of Lords debate, “India—Christianity in India
 
 ### `language-origin-standardization-form`
 
+<!-- SOURCE-RECORDS
+- haugen-dialect-language-nation-1966 | selection, codification, elaboration, and acceptance
+- ayres-bennett-language-standards-2024 | current review of standardization models
+- milroy-authority-language-1999 | standard-language ideology and authority
+-->
+
 **Short:** Chapter 2 separates three questions that are often collapsed in popular accounts: how a language originates, how institutions standardize one of its forms, and whether a bounded form remains relatively fixed. Natural and constructed describe origin. Standardization describes an institutional process applied to a selected norm. *Petrification* is the book's diagnostic term for the stronger condition in which external authority fixes a bounded form while ordinary speech continues changing around it.
 
 **Deployments:** Chapter 2 §2.3 (the distinction between origin, generativity, standardization, and guarded forms); paired with `petrified-bounded-forms` and `botanical-drift-prestige-memory`.
@@ -6360,7 +6614,7 @@ A fixed classical or scriptural form requires a further distinction. The guarded
 
 The constructed-language category describes origin. Deliberate construction alone does not determine a language's later position: a planned language may remain dependent on its creator or documentary authority, may possess internal resources that continue to generate words and forms, or may acquire a speaking community whose usage changes it. Figure 2.1 classifies languages and forms by origin and adaptive generativity; it does not claim that conventional linguistics recognizes four mutually exclusive species of language.
 
-Sources: Einar Haugen, ["Dialect, Language, Nation," *American Anthropologist* 68, no. 4 (1966), 922–935](https://doi.org/10.1525/aa.1966.68.4.02a00040); Wendy Ayres-Bennett, ["Researching Language Standards and Standard Languages: Theories, Models and Methods," *Transactions of the Philological Society* 122, no. 2 (2024), 151–169](https://doi.org/10.1111/1467-968X.12298); James Milroy and Lesley Milroy, *Authority in Language: Investigating Standard English*, 3rd ed. (Routledge, 1999). See also the sources under `botanical-drift-prestige-memory` and `petrified-bounded-forms`.
+Sources: Einar Haugen, ["Dialect, Language, Nation," *American Anthropologist* 68, no. 4 (1966), 922–935](https://doi.org/10.1525/aa.1966.68.4.02a00040); Wendy Ayres-Bennett, ["Researching Language Standards and Standard Languages: Theories, Models and Methods," *Transactions of the Philological Society* 122, no. 2 (2024), 496–503](https://doi.org/10.1111/1467-968X.12298); James Milroy and Lesley Milroy, *Authority in Language: Investigating Standard English*, 3rd ed. (Routledge, 1999). See also the sources under `botanical-drift-prestige-memory` and `petrified-bounded-forms`.
 
 ---
 
@@ -6449,7 +6703,7 @@ Sources: Arthur A. Macdonell, [*A Vedic Grammar for Students*](https://archive.o
 
 **Short:** Pāṇini's *Aṣṭādhyāyī* uses several operational scope markers. ***Chandasi*** (छन्दसि) marks specified operations in Vedic scope, while ***bhāṣāyām*** (भाषायाम्) marks specified operations in *laukika* use. Other markers include ***mantre*** (मन्त्रे), ***amantre*** (अमन्त्रे), ***brāhmaṇe*** (ब्राह्मणे), ***nigame*** (निगमे), and labels tied to a particular Vedic text or lineage. These markers identify where an operation applies; they do not turn one Sanskrit domain into the chronological descendant of another.
 
-**Deployments:** Chapter 2 §2.7 (the *two-versions* claim's refutation); Chapter 6 §6.6 claim 5 (accent system "erosion"); Chapter 14 §14.5 (the calibration matrix's two-domain operation); Chapter 17 §17.4 (the retroflex lateral).
+**Deployments:** Chapter 2 §2.7 (the *two-versions* claim's refutation); Chapter 6 §6.6 claim 5 (accent system “erosion”); Chapter 14 §14.5 (the calibration matrix's two-domain operation); Chapter 17 §17.8 (the retroflex lateral).
 
 These scopes overlap. *Aṣṭādhyāyī* 3.1.35, ***kāspratyayād ām amantre liṭi***, applies outside mantra; the *Nyāsa* expressly includes both Brāhmaṇa and *bhāṣā* within that scope. Pāṇini's labels therefore cannot be reduced to two mutually exclusive boxes.
 
@@ -6501,15 +6755,26 @@ Source: Internal to the argument — Ch20 §20.4 establishes the account; Chapte
 
 ### `dictionary-audit-sources`
 
-**Short:** The dictionary audit measures each *dhātuḥ*'s generative spread using the two standard Sanskrit–English dictionaries — Monier-Williams (*A Sanskrit–English Dictionary*) and V. S. Apte (*The Practical Sanskrit–English Dictionary*).
+<!-- SOURCE-RECORDS
+- cologne-mw-1899 | dictionary source for Path A
+- cologne-apte-1890 | dictionary source for Path A
+- project-dhatupatha-analysis | curated Path A sample and calculation
+-->
+
+**Short:** Path A uses a hand-curated sample of 138 *dhātavaḥ* to estimate generative spread from entries in Monier-Williams and V. S. Apte. The counts are approximate; their ranking and the relation between estimated reach and particle count carry the comparison.
 
 **Deployments:** Appendix Part 6 §6.3 after the Chapter 11 restructure.
 
-For each *dhātuḥ*, the dictionary audit counts the derivative forms the dictionary records — a measure of generative spread — using Monier-Williams (*A Sanskrit–English Dictionary*, Oxford, 1899) and V. S. Apte (*The Practical Sanskrit–English Dictionary*). It is the reference-based instrument that the corpus-based *prayoga* audit (Digital Corpus of Sanskrit) is compared against; on the matched subset the two correlate at +0.66. Final production should confirm the exact editions.
+For each *dhātuḥ*, the Path A dataset records an approximate hand-curated estimate of the derivative forms identified from Monier-Williams, *A Sanskrit–English Dictionary* (Oxford, 1899), and V. S. Apte, *The Practical Sanskrit–English Dictionary* (Poona, 1890). The dataset itself marks the estimates as approximate to about ±20 percent and treats ranking as the operative result. It is the dictionary-based instrument compared with the corpus-based *prayoga* audit. On the 121 matched atoms, the two rankings correlate at +0.6647. The checked-in dataset does not yet preserve a headword-by-headword count ledger, so the sample is reproducible as a calculation but not yet as a fresh dictionary extraction.
 
 ---
 
 ### `prayoga-audit-valency`
+
+<!-- SOURCE-RECORDS
+- dcs-sanskrit-repository-04e0778 | immutable DCS corpus snapshot
+- project-prayoga-analysis | scripts, derived data, correlations, and tier counts
+-->
 
 **Short:** Appendix Part 6 calculates *prayoga* reactivity from forms recorded in the corpus: distinct (*upasarga*, *pratyaya-class*) bonds found in the Digital Corpus of Sanskrit, with dictionary and future *śāstra* audits kept separate.
 
@@ -6543,6 +6808,10 @@ The ***vikaraṇa*** (विकरण) is the traditional umbrella term for the 
 
 ### `varga-column-as-engineering-axis`
 
+<!-- SOURCE-RECORDS
+- project-prayoga-analysis | column-axis tests and reproduced heterogeneity indices
+-->
+
 **Short:** Appendix Part 6 uses the first-consonant *varga* column as one structural axis in the periodic-axes figure for *dhātavaḥ*: a property already present in the *varṇamālā* grid and supported by the *prayoga* audit.
 
 **Deployments:** Appendix Part 6 §6.4 — uses the *varga* column (C1–C5) as a structural axis in the periodic-axes figure.
@@ -6553,15 +6822,24 @@ The first-consonant ***varga* column** — C1 (unvoiced unaspirate), C2 (unvoice
 
 ### `inherent-vowel-secondary-axis`
 
-**Short:** The inherent vowel is an orthogonal architectural dimension: it does not replace the *varga* column, but it sharply separates the hyper-reactive open-vowel core from the closed-vowel cluster.
+<!-- SOURCE-RECORDS
+- project-prayoga-analysis | inherent-vowel grouping and reproduced heterogeneity indices
+-->
+
+**Short:** The inherent vowel is an orthogonal architectural dimension: it does not replace the *varga* column, but it sharply separates the high-reactivity *a/ā/ṛ* group from the *i/ī/u/ū* group.
 
 **Deployments:** Appendix Part 6 §6.4 — places the inherent vowel alongside the *varga* column in the periodic-axes figure.
 
-The atom's **inherent vowel** — the vowel at its phonological nucleus — is a structural property of the atom independent of the consonantal *varga* column, and runs alongside the *varga* column as an orthogonal architectural dimension. The *prayoga* audit surfaced the inherent vowel as the empirically sharpest split among the four candidate axes tested (heterogeneity index 3.4472, against 2.10 for the *varga* column and 2.02 for articulation place). The "open-vowel core" — atoms with inherent vowel *a* (अ), *ā* (आ), or *ṛ* (ऋ) — captures seven of the nine reference polyvalent atoms (*gam, sthā, jñā, dā, dhā, kṛ, hṛ*); the closed-vowel cluster (*i, ī, u, ū*) captures the remaining two (*nī, bhū*). The vowel is not a competing claim of chemical periodicity; it is an empirical-confirmation move inside the grammatical periodic-axes figure. The two axes are orthogonal — knowing an atom's *varga* column does not determine its inherent vowel and vice versa — so the architecture rides on both independently. See the companion `analysis/ganah/FINDINGS.md` Addendum (2026-05-19) for the joint deployment rule.
+The atom's **inherent vowel** — the vowel at its phonological nucleus — is a structural property of the atom independent of the consonantal *varga* column, and runs alongside the *varga* column as an orthogonal architectural dimension. The *prayoga* audit surfaced the inherent vowel as the empirically sharpest split among the four candidate axes tested (heterogeneity index 3.4472, against 2.10 for the *varga* column and 2.02 for articulation place). Atoms with inherent vowel *a* (अ), *ā* (आ), or *ṛ* (ऋ) include seven of the nine reference polyvalent atoms (*gam, sthā, jñā, dā, dhā, kṛ, hṛ*); the *i, ī, u, ū* group includes the remaining two (*nī, bhū*). The earlier label “open-vowel core” has been removed because ऋ (*ṛ*) is not phonetically an open vowel. The two axes are orthogonal — knowing an atom's *varga* column does not determine its inherent vowel and vice versa — so the architecture uses both independently. See the companion `analysis/ganah/FINDINGS.md` Addendum (2026-05-19) for the joint deployment rule.
 
 ---
 
 ### `dcs-vs-dhatupatha-count`
+
+<!-- SOURCE-RECORDS
+- project-dhatupatha-analysis | 2,168 listed entries and structural counts
+- project-prayoga-analysis | 3,839 normalized DCS verb lemmas
+-->
 
 **Short:** Appendix Part 6 distinguishes three units: **2,168 listed *Dhātupāṭha* entries**, the **138-atom Path A dictionary sample**, and **3,839 normalized verb lemmas produced by the Digital Corpus of Sanskrit parser**. These totals answer different questions and must not be presented as competing counts of one inventory.
 
@@ -6575,19 +6853,28 @@ Sources: `analysis/ganah/data/derived/path_c_valency.csv` (DCS *dhātuḥ* label
 
 ### `cross-corpus-invariance`
 
-**Short:** The hyper-reactive polyvalent core is not an artifact of one corpus: the nine reference high-valency *dhātavaḥ* recur across *śruti* and *smṛti* sub-corpora, with genre-specific atoms entering only at the edges.
+<!-- SOURCE-RECORDS
+- dcs-sanskrit-repository-04e0778 | four analyzed DCS sub-corpora
+- project-prayoga-analysis | cross-corpus script and reproduced output
+-->
+
+**Short:** The nine reference high-valency *dhātavaḥ* appear in each of the four checked *śruti* and *smṛti* sub-corpora. Their rankings differ by corpus, and only six of the nine enter each Vedic top twenty. The result establishes recurrence across the four corpora, not an invariant rank or level of use.
 
 **Deployments:** Appendix Part 6 §6.3 — anchors the cross-corpus continuity claim after the Chapter 11 restructure.
 
-The hyper-reactive polyvalent core is invariant across the *śruti* / *smṛti* design-purpose split. The cross-corpus portion of the *prayoga* audit compared four DCS sub-corpora — Ṛgveda (*śruti*, 1,028 CoNLL-U files), Atharvaveda Śaunaka (*śruti*, 519 files), Mahābhārata (*smṛti*, 1,995 files), Rāmāyaṇa (*smṛti*, 606 files) — on per-sub-corpus valency. The nine reference polyvalent atoms (*kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*) are 9/9 visible in every sub-corpus; the *smṛti* corpora include the full reference set in their top-20 lists; the *śruti* corpora include six of nine in their top-20 lists, with ritual-specific atoms (*vah, yam, bhṛ, cakṣ*) substituting in the *śruti* top tier. Sub-corpus-vs-full-corpus Spearman ρ: Ṛgveda +0.6710, Atharvaveda +0.7027, Mahābhārata +0.8636, Rāmāyaṇa +0.8064. Pairwise: *śruti* × *śruti* +0.7229; *smṛti* × *smṛti* +0.8700; cross-style +0.46–0.57. Note: the original corpus brief named the Bhagavadgītā as the *smṛti* exemplar; the DCS Mahābhārata excises the standard BhG range (book six, chapters 23–40), so Rāmāyaṇa substitutes as the *smṛti* epic; the structural test is unaffected. See the companion `analysis/ganah/data/derived/cross_corpus_comparison.txt` for the full per-sub-corpus tables.
+The cross-corpus portion of the *prayoga* audit compared four DCS sub-corpora — Ṛgveda (*śruti*, 1,028 CoNLL-U files), Atharvaveda Śaunaka (*śruti*, 519 files), Mahābhārata (*smṛti*, 1,995 files), Rāmāyaṇa (*smṛti*, 606 files) — on per-sub-corpus valency. The nine reference polyvalent atoms (*kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*) are 9/9 visible in every sub-corpus; the *smṛti* corpora include the full reference set in their top-20 lists; the *śruti* corpora include six of nine in their top-20 lists, with atoms such as *vah, yam, bhṛ,* and *cakṣ* entering the Vedic top tier. Sub-corpus-vs-full-corpus Spearman ρ: Ṛgveda +0.6710, Atharvaveda +0.7027, Mahābhārata +0.8636, Rāmāyaṇa +0.8064. Pairwise: *śruti* × *śruti* +0.7229; *smṛti* × *smṛti* +0.8700; cross-style +0.46–0.57. Note: the original corpus brief named the Bhagavadgītā as the *smṛti* exemplar; the DCS Mahābhārata excises the standard BhG range (book six, chapters 23–40), so Rāmāyaṇa substitutes as the *smṛti* epic. See the companion `analysis/ganah/data/derived/cross_corpus_comparison.txt` for the full per-sub-corpus tables.
 
 ---
 
 ### `nasadiya-sukta`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 10.129.7
+-->
+
 **Short:** The *Nāsadīya Sūkta* (Ṛgveda 10.129) supplies the epistemic anchor: even on cosmic origin, the corpus preserves humility rather than manufacturing certainty.
 
-**Deployments:** Preface ¶ (the *closing-positioning* paragraph anchored on *Nāsadīya Sūkta* humility-as-received-text); Chapter 18 §18.7 (the honest admission that the origin mechanism is unknown).
+**Deployments:** Chapter 18 §18.7 — the honest admission that the origin mechanism is unknown.
 
 The ***Nāsadīya Sūkta*** (नासदीयसूक्तम्) is *Ṛgveda* 10.129, the famous *Creation Hymn* — seven *ṛcas* on the cosmic-origin question. The hymn's move that matters for origin-honesty is its closing stanza (10.129.7), which states the limit of knowledge directly:
 
@@ -6598,35 +6885,49 @@ The ***Nāsadīya Sūkta*** (नासदीयसूक्तम्) is *Ṛgve
 
 (इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न । यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद ॥)
 
-The closing line — *so aṅga veda yadi vā na veda* / "he indeed knows — or maybe even he does not know" — is the received Indic statement of origin-honesty. The lineage-chain preserves it as *śruti*; the *Mīmāṃsā* discipline reads it as the *apauruṣeya* corpus's own admission of the limit of knowledge; the *Ṛgveda*'s tenth book preserves it as the closing-position poetry on the cosmic origin. The hymn is what makes *we do not know* a lineage-internal position rather than an argumentative concession. See the companion for the full hymn text, the Sāyaṇa *bhāṣya* on 10.129.7, and the comparison with the pyramid's posture (Chapter 3 §3.2 on the *progressive dogma*'s inherited belief-first epistemology; Chapter 18 §18.7 on the two paired speculations).
+The closing line — *so aṅga veda yadi vā na veda*, “he indeed knows, or perhaps he does not know” — places uncertainty about cosmic origin inside the *Ṛgveda* itself. Chapter 18 can therefore say “we do not know” without stepping outside the continuum it describes. The note does not assign a later Mīmāṃsā interpretation to this particular mantra.
 
-Source: *Ṛgveda Saṃhitā*, Maṇḍala 10, Sūkta 129; standard edition Aufrecht 1877, *Die Hymnen des Rigveda*; Sāyaṇa's *bhāṣya*; translations Wendy Doniger (Penguin 1981), Stephanie W. Jamison & Joel P. Brereton (Oxford 2014).
+Source: *Ṛgveda Saṃhitā* 10.129.7, checked against the University of Texas electronic edition of the van Nooten-Holland text; translations consulted include Stephanie W. Jamison and Joel P. Brereton, *The Rigveda* (Oxford University Press, 2014).
 
 ---
 
 ### `migration-trap-movement-not-authorship`
 
+<!-- SOURCE-RECORDS
+- silva-genetic-chronology-2017 | methods, limitations, and male-biased dispersal
+- narasimhan-south-central-asia-2019 | Y-chromosome excess, Swat contrast, and variable sex bias
+- basu-india-populations-2016 | “elite dominance and patriarchy” interpretation
+-->
+
 **Short:** Population-genetic studies compare selected samples and model ancestry, admixture, and movement through several interdependent assumptions. Even when their proposed movement between roughly 2300 BCE and 1500 BCE is granted, the reported male bias does not identify the incoming men as conquerors, refugees, traders, mercenaries, exiles, or authors of Sanskrit.
 
 **Deployments:** Chapter 18 §18.6 — the migration trap; the *movement is not authorship* distinction.
 
-Population-genetic studies begin with selected present-day and ancient samples. Researchers define comparison populations, choose statistical models, and estimate when the modeled populations may have mixed. An archaeological horizon adds material evidence such as pottery, settlement, burial, and trade goods. These methods can support an inference about movement and contact. They cannot identify who specified the *varṇamālā*, engineered the *dhātu* inventory, or built the calibration matrix that protects Sanskrit from deviation.
+Population-genetic studies begin with selected present-day and ancient samples. Researchers define comparison populations, choose statistical models, and estimate when the modeled populations may have mixed. The results support inferences about ancestry, mixture, and movement. They do not identify the language, motives, occupations, or political status of the people represented by a statistical component.
 
 Silva et al. compared maternal, paternal, and genome-wide ancestry and reported a markedly higher proportion of likely West Eurasian lineages on the paternal side than on the maternal side. They described the influx they assigned to this period as strongly male-driven. Narasimhan et al. found an excess of Central Steppe-related ancestry on the Y chromosomes of present-day inhabitants of the Indian subcontinent compared with their autosomal ancestry. They concluded that the introduction of steppe-pastoralist lineages into the ancestors of these present-day populations was mediated mostly by males.
 
 Narasimhan et al. also report the opposite pattern in their later samples from the Swat Valley: within their model, steppe-related ancestry entered those sampled groups largely through females. The authors explicitly state that sex bias varied across the Indian subcontinent. Their own interpretation therefore requires several movements and several kinds of interaction. It cannot recover the motives, occupations, political status, or language of each incoming person.
 
-The terms *steppe ancestry* and *West Eurasian lineage* describe statistical affinities among sampled populations. They do not name a nationality, race, army, or civilizational author. A Y chromosome passes from father to son and can expand widely after a small number of incoming men have children with local women. The same genetic pattern can follow conquest, military service, trade, political exile, captivity, escape, or refuge. Genetics alone cannot choose among those histories.
+The terms *steppe ancestry* and *West Eurasian lineage* describe statistical affinities among sampled populations. They do not name a nationality, race, army, or language. A Y chromosome passes from father to son and can expand widely after a small number of incoming men have children with local women. The same genetic pattern can follow conquest, military service, trade, political exile, captivity, escape, or refuge. Genetics cannot choose among those histories by itself.
 
-The *elite dominance* label comes from the wider genetic interpretation rather than from the chromosome itself. Basu et al. describe asymmetric ancestry in Indian populations as "consistent with elite dominance and patriarchy." That interpretation selects conquest and social dominance from several histories capable of producing male-biased ancestry. The body therefore places the label beside an alternative research program focused on displaced men, refuge, marriage, and absorption.
+The *elite dominance* label is an interpretation placed upon the modeled pattern. Basu and his co-authors describe asymmetric ancestry in Indian populations as “consistent with elite dominance and patriarchy.” The chromosome does not carry that social history inside it. Chapter 18 therefore places the label beside another possible account involving displaced men, marriage, and absorption.
 
-Authorship of an engineered language must therefore be argued from the architecture, its internal consistency, and the disciplines that preserve it. The racial Arya thesis turns evidence of movement into evidence of authorship without supplying that missing step. Appendix Part 3 §3.5 draws the same distinction for scripts: contact is not authorship, and shape is not structure.
+Movement does not establish linguistic authorship. The racial Arya thesis converts one into the other without supplying the missing evidence. Appendix Part 3 §3.5 draws the same distinction for scripts: contact is not authorship, and shape is not structure.
 
 Sources: Marina Silva et al., "A Genetic Chronology for the Indian Subcontinent Points to Heavily Sex-Biased Dispersals," *BMC Evolutionary Biology* 17 (2017), article 88, https://doi.org/10.1186/s12862-017-0936-9; Vagheesh M. Narasimhan et al., "The Formation of Human Populations in South and Central Asia," *Science* 365, no. 6457 (2019), eaat7487, https://doi.org/10.1126/science.aat7487; Analabha Basu et al., "Genomic Reconstruction of the History of Extant Populations of India Reveals Five Distinct Ancestral Components and a Complex Structure," *Proceedings of the National Academy of Sciences* 113, no. 6 (2016), 1594–99, https://doi.org/10.1073/pnas.1513197113.
 
 ---
 
 ### `migration-trap-displacement-routes`
+
+<!-- SOURCE-RECORDS
+- lamberg-karlovsky-oxus-2013 | printed pp. 57–59
+- minardi-ancient-chorasmia-2015 | Khorezm and Kalaly-gyr
+- iranica-afrasiab-site | citadel, walls, canal, and reservoirs
+- british-museum-scythian-mounds | Arzhan and Pazyryk burial mounds
+- margulan-institute-issyk-barrow | dimensions, layered embankment, timber structure, and elite status
+-->
 
 **Short:** The histories of the steppe and the Greco-Roman world contain repeated mechanisms that displaced men: defeated confederacies, broken armies, political exile, mercenary service, captivity, debt, and slavery. The chapter presents these as historically available routes into India, not as a single biography imposed on every incoming paternal lineage.
 
@@ -6636,17 +6937,24 @@ The histories of Central Asia record repeated cycles of confederation, war, defe
 
 None of these identities determined one social role. Men from the same extended movement could appear as refugees in one setting, mercenaries in another, conquerors in a third, and settlers in the next generation.
 
-The monumental remains reveal where ruling formations concentrated labor throughout the period invoked by the genetic account. Between approximately 2300 and 1500 BCE, fortified Bactria–Margiana centers in southern Central Asia and fortified Sintashta settlements in the southern Urals concentrated people, storage, production, and defense behind walls. C. C. Lamberg-Karlovsky describes Bactria–Margiana as a centralized and stratified formation whose authorities organized corvée labor for irrigation works and controlled dependent agricultural workers. Robert D. Drennan, Bryan K. Hanks, and Christian E. Peterson calculate that Sintashta fortifications and occasional burial mounds imposed a substantial public-works burden on the local population; the same evidence shows warfare and strong social inequality but does not establish chattel slavery at those settlements. Khorezm later required long irrigation canals and enormous fortified enclosures; Kalaly-gyr 1 covered approximately seventy hectares and contained a palace complex. Afrasiab had become a fortified city by the seventh or sixth century BCE, with powerful mud-brick walls, a canal, and reservoirs. The royal mounds at Arzhan, Pazyryk, and Issyk concentrated earth, stone, timber, horses, metalwork, and human labor around elite burials. These structures supplied the pyramid's principal demands: agricultural production, military defense, royal administration, urban grandeur, and monumental burial.
+The archaeological literature supplies the Bactria–Margiana example from the interval invoked by the genetic account. Lamberg-Karlovsky reconstructs a centralized and stratified society built around control of scarce water and agricultural land. He describes central authorities organizing corvée labor for irrigation works, maintaining dependent agricultural workers, collecting taxes, and accumulating wealth displayed in royal burials. He also states that many details of its political economy elude us; these labor relations are his archaeological reconstruction rather than an administrative record from that society.
+
+Later Central Asian cities, irrigation systems, royal enclosures, and burial mounds show that states in the same wider corridor continued concentrating labor and resources. Minardi documents the irrigation works and fortified enclosures of ancient Khorezm, including Kalaly-gyr. The *Encyclopaedia Iranica* account of Afrasiab records its citadel, walls, canal, and reservoirs. The British Museum's survey of the Scythian mounds documents the timber chambers, horses, vehicles, and grave goods at Arzhan and Pazyryk. The Margulan Institute of Archaeology records the Issyk barrow's layered embankment, timber burial structure, dimensions, and association with the nomadic elite. These later examples cannot identify the motives of people living between 2300 and 1500 BCE. Chapter 18 uses them to establish recurring routes of displacement: war, political defeat, military service, captivity, and flight.
 
 Greek and Roman societies provide a different set of pressures. Both depended extensively on slavery; war and piracy supplied captives, while armies and imperial conflict also produced mercenaries, deserters, political exiles, and displaced soldiers. Mining, quarrying, agriculture, construction, maritime labor, domestic service, and military logistics placed large numbers of enslaved, captive, indebted, conscripted, and impoverished men beneath the monuments celebrated by surviving histories. These conditions establish escape as a recurring human motive even though the surviving record cannot count how many such men reached India. The regions beyond India's northwestern frontiers gave men many reasons to leave, and genetics cannot distinguish those who fled a pyramid from those who served one.
 
 The chapter uses ***भव्यता (*bhavyatā*)*** and ***दिव्यता (*divyatā*)*** as an architectural contrast. *Bhavyatā* can mean grandeur or magnificence; here it describes grandeur created by concentrating labor and wealth toward an apex. *Divyatā* can mean divine quality, luminosity, or radiance; here it describes radiance that another person can approach and participate in. The contrast does not claim that every grand structure is asuric or that India built no monumental architecture. It distinguishes grandeur used to display an apex from radiance that invites participation.
 
-Sources: C. C. Lamberg-Karlovsky, “The Oxus Civilization,” *Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid* 39 (2013): 21–63, especially 57–58; Robert D. Drennan, Bryan K. Hanks, and Christian E. Peterson, “The Comparative Study of Chiefly Communities in the Eurasian Steppe Region,” *Social Evolution & History* 10, no. 1 (2011); Craig G. R. Benjamin, *The Yuezhi: Origin, Migration and the Conquest of Northern Bactria* (Brepols, 2007); Denis Sinor, ed., *The Cambridge History of Early Inner Asia* (Cambridge University Press, 1990); Paula Doumani Dupuy, "Bronze Age Central Asia," in *The Oxford Handbook of Topics in Archaeology* (Oxford University Press, 2016); Rachel Mairs, *The Hellenistic Far East: Archaeology, Language, and Identity in Greek Central Asia* (University of California Press, 2014); Keith Bradley and Paul Cartledge, eds., *The Cambridge World History of Slavery*, vol. 1, *The Ancient Mediterranean World* (Cambridge University Press, 2011); Michele Minardi, *Ancient Chorasmia: A Polity between the Semi-Nomadic and Sedentary Cultural Areas of Central Asia* (Peeters, 2015); Galina Pugachenkova and Edvard Rtveladze, "Afrasiab: The Archaeological Site," *Encyclopaedia Iranica*; St John Simpson, "Scythians, Ice Mummies and Burial Mounds," British Museum, 2017.
+Sources: C. C. Lamberg-Karlovsky, “The Oxus Civilization,” *Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid* 39 (2013): 21–63, especially 57–59; Craig G. R. Benjamin, *The Yuezhi* (Brepols, 2007); Denis Sinor, ed., *The Cambridge History of Early Inner Asia* (Cambridge University Press, 1990); Keith Bradley and Paul Cartledge, eds., *The Cambridge World History of Slavery*, vol. 1 (Cambridge University Press, 2011); Michele Minardi, *Ancient Chorasmia* (Peeters, 2015); Galina Pugachenkova and Edvard Rtveladze, “Afrāsīāb i. The Archeological Site,” *Encyclopaedia Iranica* I/6 (1984), pp. 576–578; St John Simpson, “Scythians, Ice Mummies and Burial Mounds,” British Museum, 2017; A. H. Margulan Institute of Archaeology, “Issyk, the Barrow,” Archaeology.kz.
 
 ---
 
 ### `migration-trap-india-absorption`
+
+<!-- SOURCE-RECORDS
+- mccrindle-megasthenes-arrian-1877 | printed pp. 32–33
+- asi-besnagar-1908-09 | printed pp. 126–129
+-->
 
 **Short:** Greek testimony and the Heliodorus pillar do not establish the biography of every incoming man. They establish the narrower point needed here: observers and participants from the Hellenistic world encountered an Indian social order into which outsiders could enter.
 
@@ -6674,31 +6982,49 @@ The Vedas are the **calibrant** — अपौरुषेय (*apauruṣeya*), s
 
 ### `vedic-classical-circular-dating`
 
+<!-- SOURCE-RECORDS
+- witzel-vedic-canon-1997 | linguistic levels and internal chronology, especially pp. 270, 282, and 336
+-->
+
 **Short:** Appendix Part 9 exposes the circular method behind the drift story: linguistic features are used to arrange Sanskrit texts into an assumed archaic-to-later sequence, and the resulting sequence is then cited as proof that Sanskrit drifted from Vedic to Classical.
 
 **Deployments:** Appendix Part 9 §9.2, *Chronology Built from Its Own Assumptions*.
 
-The note does not claim that every relative ordering of Sanskrit texts is false. It identifies the methodological risk in the pyramid's drift narrative. If a feature is first classified as "archaic" because the framework assumes it belongs to an earlier stage, and the text containing that feature is then dated earlier on that basis, the same feature cannot be used again as independent proof of an earlier language stage. The conclusion has been folded into the method. Appendix Part 9 therefore asks for a cleaner audit: classify each feature by *vaidika* or *laukika* domain, identify its exact operational scope, and then separate metrical choice, lineage-specific preservation, optionality, and genuine replacement before calling the observed difference "drift." The target is not chronology as such. The target is chronology manufactured by the same machinery whose category collapse the book has already prosecuted.
+Michael Witzel's account provides a direct example of the method under examination. It assigns Vedic texts to numbered linguistic levels, describes Rigvedic forms as replaced by younger forms, and then presents the congruence between linguistic development and the resulting internal chronology as part of the historical sequence. See “The Development of the Vedic Canon and its Schools,” pp. 270, 282, and 336. The description is Witzel's; the charge of circularity is this book's methodological critique.
+
+If a feature is first classified as “archaic” because the framework assigns it to an earlier stage, and the text containing that feature is then dated earlier on that basis, the same feature cannot return as independent proof that the earlier language stage existed. The conclusion has been placed inside the method. Appendix Part 9 therefore proposes a different audit: classify each feature by *vaidika* or *laukika* domain, identify its exact operational scope, and then separate metrical choice, lineage-specific preservation, optionality, and genuine replacement before calling the observed difference “drift.”
 
 ---
 
 ### `calibration-audit-gap`
 
-**Short:** The codification myth requires an empirical audit it has not supplied: pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses should be tested against Pāṇini's documented architecture after classifying each feature by domain and exact scope, then separating meter, lineage-specific preservation, optionality, and actual drift.
+<!-- SOURCE-RECORDS
+- project-designed-variations | 83-row master inventory, prevalence ledger, validators, and eight figures
+-->
+
+**Short:** Appendix Part 9 proposes a corpus-wide calibration audit: test Sanskrit witnesses against the architecture Pāṇini documents after classifying each feature by domain and exact scope, then separate meter, lineage-specific preservation, optionality, and actual replacement.
 
 **Deployments:** Appendix Part 9 §9.4, *A Corpus-Wide Audit*.
 
-The "calibration audit" is the test the codification myth would need to pass. The myth claims that Sanskrit changed enough before Pāṇini that his grammar imposed stable form on a drifting language. That claim can be tested. One would take the Vedic Saṃhitās, Brāhmaṇas, Āraṇyakas, Upaniṣads, *Prātiśākhya* and *Śikṣā* materials, Yāska's *Nirukta*, Sūtra literature, and the pre-Pāṇinian grammatical traces; classify each feature first by *vaidika* or *laukika* domain and then by its exact operational scope; separate metrical alternation from uncontrolled change; separate lineage-specific form from drift; and then identify what genuinely falls outside the architecture Pāṇini documents. The book's initial audit points the other way: the Vedas already use the grammar, the *Dhātupāṭha* shows compressed atomic structure, Patañjali begins from an established word-meaning bond, and variation repeatedly falls into bounded categories rather than unbounded decay.
+The “calibration audit” is a method proposed by this book, not a completed survey attributed to another source. The codification myth claims that Sanskrit changed enough before Pāṇini that his grammar imposed stable form on a drifting language. That claim can be tested. One would take the Vedic Saṃhitās, Brāhmaṇas, Āraṇyakas, Upaniṣads, *Prātiśākhya* and *Śikṣā* materials, Yāska's *Nirukta*, Sūtra literature, and pre-Pāṇinian grammatical traces; classify each feature first by *vaidika* or *laukika* domain and then by its exact operational scope; separate metrical alternation from uncontrolled change; separate lineage-specific form from drift; and then identify what genuinely falls outside the architecture Pāṇini documents. Appendix Part 8 and the Designed Variations project inventory begin that work with 83 documented rows, but they do not constitute the complete corpus-wide audit proposed here.
 
 ---
 
 ### `mitanni-indic-technical-vocabulary`
 
-**Short:** Mitanni Indic vocabulary functions here only as an external stability anchor: the recorded forms look like technical transmission from an already functioning Indic system, not like a language waiting for the late stabilization proposed by the Pāṇinian codification myth.
+<!-- SOURCE-RECORDS
+- iranica-earliest-iranian-evidence | treaty deities and Kikkuli aika-vartana
+- thieme-mitanni-treaty-deities-1960 | JAOS 80.4, pp. 301-317
+- mayrhofer-mitanni-names | Mitanni and Near Eastern Indo-Aryan material
+-->
+
+**Short:** The Mitanni treaty and Kikkuli horse-training material record recognizable Indic names and technical vocabulary outside India before the conventional date assigned to Pāṇini; Appendix Part 9 uses that sequence as an external challenge to the codification myth.
 
 **Deployments:** Appendix Part 9 §9.5, *Bounded Alternatives and an External Anchor*.
 
-The Mitanni material is not the whole case for Sanskrit's antiquity, and Appendix Part 9 does not use it as the sole refutation of the codification myth. It provides an external chronological challenge: Indic technical vocabulary appears outside the Indian subcontinent in a setting the pyramid's chronology places before Pāṇini's supposed codification. That makes it an external anchor for prior stability. A drifting language not yet stabilized does not easily export precise technical vocabulary as a recognizable system. The Mitanni evidence belongs with the Vedic corpus, the *pāṭha* systems, the *Prātiśākhya* disciplines, the pre-Pāṇinian decoders, the *Nirukta*, the *Dhātupāṭha*, and the statistical architecture developed in Chapters 10–11 and Appendix Part 6. Final publication pass should cite the relevant Mitanni treaty / horse-training material and the selected scholarly edition used elsewhere in the book.
+The Hittite-Mitanni treaty invokes Mitra, Varuṇa, Indra, and the Nāsatyas. The Kikkuli horse-training text uses technical forms including *aika-vartana*, “one turn.” Paul Thieme's 1960 article documents the treaty names; the *Encyclopaedia Iranica* survey records both the treaty evidence and Kikkuli's *aika-vartana*. Manfred Mayrhofer supplies the standard larger treatment of the Indo-Aryan material in the ancient Near East.
+
+The external record establishes a sequence within the conventional chronology: recognizable Indic material had reached the Mitanni setting before the date conventionally assigned to Pāṇini. The further inference belongs to this book. Appendix Part 9 places that external sequence beside the Vedic corpus, the *pāṭha* systems, the *Prātiśākhya* disciplines, and the pre-Pāṇinian analytical tradition as evidence that Sanskrit's architecture did not begin with Pāṇini. The fuller inventory and its qualifications appear under `mitanni-sanskritic-evidence`.
 
 ---
 
@@ -6708,21 +7034,23 @@ The Mitanni material is not the whole case for Sanskrit's antiquity, and Appendi
 
 **Deployments:** Chapter 18 §18.5, opening frame for the paired pyramid / honest speculations.
 
-The point is not that all scientific theories are speculation in the same sense. A theory in physics can be mathematical, observationally constrained, predictively useful, and revised under pressure from evidence. The point is narrower: origin-claims often arise at the edge of direct measurement, and institutions often forget that edge once a speculative model becomes the authorized story.
+Chapter 18 presents two accounts of Sanskrit's origin and marks both as speculation because direct evidence ends before either proposed beginning. The distinction is therefore one of epistemic honesty. The book's account admits where it does not know. The PIE account begins with reconstructed forms and a reconstructed community, yet institutions present its conclusions as linguistic history while treating the continuum's account as belief.
 
-Modern cosmology supplies a useful parallel in epistemic posture. Georges Lemaître, a Catholic priest and physicist, used relativistic cosmology to argue for an expanding universe in 1927 and, in 1931, framed cosmic beginning through the image of all the universe's energy packed into "a unique quantum." His later book-length formulation appeared in English as *The Primeval Atom: An Essay on Cosmogony*. Popular-science accounts, most famously Stephen Hawking's *A Brief History of Time: From the Big Bang to Black Holes*, moved Big Bang cosmology into public culture as the authorized account of cosmic origin. The note is not attacking cosmology or denying the model's mathematical and observational strengths. It identifies the epistemic move: when an authorized origin-model is narrated in public as settled knowledge, while another civilization's origin-categories are dismissed as belief or story, the asymmetry is doing cultural work.
-
-Standard references: Georges Lemaître, "Un univers homogène de masse constante et de rayon croissant, rendant compte de la vitesse radiale des nébuleuses extragalactiques," *Annales de la Société Scientifique de Bruxelles* 47A (1927), pp. 49–59; Georges Lemaître, "The Beginning of the World from the Point of View of Quantum Theory," *Nature* 127 (9 May 1931), p. 706, doi:10.1038/127706b0; Georges Lemaître, *The Primeval Atom: An Essay on Cosmogony* (New York: D. Van Nostrand, 1950); Stephen Hawking, *A Brief History of Time: From the Big Bang to Black Holes* (Bantam, 1988).
+This is a synthesis note. It does not depend upon an analogy with modern cosmology, and no such analogy is needed to support the body paragraph.
 
 ---
 
 ### `cross-gana-column-distribution`
 
-**Short:** The cross-*gaṇa* audit shows functional matching: the reduplicating *juhotyādi* class is heavily enriched for C4 voiced aspirates, the most acoustically robust consonant column, especially among corpus-visible entries.
+<!-- SOURCE-RECORDS
+- project-prayoga-analysis | cross-gaṇa column script and reproduced output
+-->
+
+**Short:** The cross-*gaṇa* audit establishes the numerical pattern: the reduplicating *juhotyādi* class contains an unusually large share of C4 voiced aspirates, and that share rises when the count is restricted to corpus-visible entries. The proposed connection between reduplication and acoustic distinctness is the book's architectural interpretation of the count.
 
 **Deployments:** Appendix Part 6 §§6.2 and 6.4 — anchors the per-*gaṇa* C4-enrichment numbers.
 
-The cross-*gaṇa* portion of the *prayoga* audit recomputes the per-*gaṇa* C1–C5 *varga*-column distribution under two filters: (a) full *Dhātupāṭha* inventory and (b) corpus-visible entries only. The *juhotyādi* (gaṇa 3, reduplicated class) shows C4 voiced-aspirate enrichment at 33.3% on the inventory and 42.9% on the corpus-visible set — a +9.5 pp sharpening under corpus restriction; three to four times the C4 rate of any other *gaṇa*. Reduplication requires acoustic robustness, and C4 (voiced aspirate) is the most acoustically robust column. Per-*gaṇa* C4 percentages (inventory / corpus-visible): bhvādi 10.9 / 14.2; adādi 3.0 / 2.9; juhotyādi 33.3 / 42.9; divādi 15.9 / 17.8; svādi 26.3 / 25.0; tudādi 8.7 / 10.5; rudhādi 12.8 / 16.7; tanādi 6.2 / 0.0; kryādi 18.8 / 14.3; curādi 6.9 / 7.8. Methodological note: the 31.8% figure cited in earlier Ch 10 drafts derives from `analysis/dhatupatha/scripts/analyze_varga_distribution.py`, which uses `Ji` as the initial-anubandha prefix where Pāṇini's *ñi* anubandha should be `Yi` in SLP1; corrected to `Yi`, the inventory figure becomes 33.3%. The point survives under either stripping. See the companion `analysis/ganah/data/derived/cross_gana_columns.txt` for the full per-*gaṇa* per-column table.
+The cross-*gaṇa* portion of the *prayoga* audit recomputes the per-*gaṇa* C1–C5 *varga*-column distribution under two filters: (a) full *Dhātupāṭha* inventory and (b) corpus-visible entries only. The *juhotyādi* (gaṇa 3, reduplicated class) shows C4 voiced-aspirate enrichment at 33.3% on the inventory and 42.9% on the corpus-visible set — a +9.5 pp sharpening under corpus restriction; three to four times the C4 rate of any other *gaṇa*. Per-*gaṇa* C4 percentages (inventory / corpus-visible): bhvādi 10.9 / 14.2; adādi 3.0 / 2.9; juhotyādi 33.3 / 42.9; divādi 15.9 / 17.8; svādi 26.3 / 25.0; tudādi 8.7 / 10.5; rudhādi 12.8 / 16.7; tanādi 6.2 / 0.0; kryādi 18.8 / 14.3; curādi 6.9 / 7.8. The count establishes enrichment, not its cause. Appendix Part 6 therefore presents acoustic distinctness under reduplication as an explanation proposed by the book. Methodological note: the 31.8% figure cited in earlier Ch 10 drafts derives from `analysis/dhatupatha/scripts/analyze_varga_distribution.py`, which uses `Ji` as the initial-anubandha prefix where Pāṇini's *ñi* anubandha should be `Yi` in SLP1; corrected to `Yi`, the inventory figure becomes 33.3%. See the companion `analysis/ganah/data/derived/cross_gana_columns.txt` for the full per-*gaṇa* per-column table.
 
 ---
 
@@ -7021,6 +7349,8 @@ Keep **स्वाद् (*svād*)** as reserve if the prose needs a more immed
 
 **Short:** Two names describe one boundary process. From Sanskrit's side, the process is **अपभ्रंश (*apabhraṃśa*)** — falling away from the engineered *śabda*. From the receiving language's side, the same process is **vivimorphosis** — the engineered molecule acquiring organic behavior as a seed and then as an organic form in another language.
 
+**Status:** Verified as the book's declared terminology and synthesis; *vivimorphosis* is a project coinage rather than an externally sourced historical term.
+
 **Deployments:** Chapter 12 §12.7 provides the forward pointer; Chapter 19 §§19.7–19.8 own the boundary analysis and its worked examples (*mātṛ* → *mother*, *yuga* → *yoke*, *devaḥ* → Latin *deus*, *asuraḥ* → Avestan *ahura*).
 
 Chapter 6 establishes the Sanskrit-side term through Patañjali's *Paspaśāhnika*: *apaśabda* and *apabhraṃśa* denote the slipped or fallen-away form that leaves the correct *śabda*. From the contact-language side, the same event looks different. The Sanskrit form has fallen away from the calibrant architecture; in the receiving language, it can generate new words, enter new compounds, and become historically fertile.
@@ -7033,75 +7363,116 @@ The distinction protects the category-theft rejection of the botanical substitut
 
 ### `vedic-reduplication-abhyasa-examples`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 1.164.4, 7.87.4, and 10.107.7
+-->
+
 **Short:** Ṛgveda 1.164.4 has *dadarśa*, Ṛgveda 10.107.7 has *dadāti*, and Ṛgveda 7.87.4 has *bibharti*, so Chapter 17 treats compact reduplication as Vedic evidence first; Pāṇini later documents and names the operation **अभ्यास (*abhyāsa*)**.
 
 **Deployments:** Chapter 17 §17.2.
 
-The compact doubled form is already inside the Vedic corpus. Ṛgveda 1.164.4 uses *dadarśa* from the atom ⟪दृश्⟫ (*dṛś*): *ko dadarśa prathamaṃ jāyamānam*. Ṛgveda 10.107.7 uses *dadāti* from the atom ⟪दा⟫ (*dā*): *dakṣiṇāśvaṃ dakṣiṇā gāṃ dadāti*. Ṛgveda 7.87.4 gives *bibharti* from the atom ⟪भृ⟫ (*bhṛ*). Chapter 17 therefore introduces the phenomenon as Vedic evidence before naming Pāṇini's technical category. Pāṇini does not create the doubling; he documents, names, and regulates an operation already visible in the Veda as **अभ्यास (*abhyāsa*)**. Locators web-verified 2026-06-30 (dadarśa RV 1.164.4; dadāti RV 10.107.7; bibharti RV 7.87.4); accenting and exact saṃhitā / padapāṭha presentation to confirm against the printed Ṛgveda edition at production.
+The compact doubled form is already inside the Vedic corpus. Ṛgveda 1.164.4 uses *dadarśa* from the atom ⟪दृश्⟫ (*dṛś*): *ko dadarśa prathamaṃ jāyamānam*. Ṛgveda 10.107.7 uses *dadāti* from the atom ⟪दा⟫ (*dā*): *dakṣiṇāśvaṃ dakṣiṇā gāṃ dadāti*. Ṛgveda 7.87.4 gives *bibharti* from the atom ⟪भृ⟫ (*bhṛ*). Chapter 17 therefore introduces the phenomenon as Vedic evidence before naming Pāṇini's technical category. Pāṇini does not create the doubling; he documents, names, and regulates an operation already present in the Veda as **अभ्यास (*abhyāsa*)**. The three forms and mantra locators were checked against the University of Texas electronic edition of the van Nooten-Holland text.
 
 ---
 
 ### `ahamkara-ego-management`
 
-**Short:** *Ahaṃkāra* (अहंकार), literally "I-making," is the ego-principle in Indic thought — in Sāṅkhya an evolute of *prakṛti* and part of the inner instrument (*antaḥkaraṇa*) — and the tradition treats it as something to be understood and disciplined, not obeyed.
+<!-- SOURCE-RECORDS
+- samkhya-karika-24 | ahaṃkāra as abhimāna
+- gita-supersite-3-27 | ahaṃkāra and the claim “I am the doer”
+-->
+
+**Short:** *Ahaṃkāra* (अहंकार), literally “I-making,” is the faculty that lays claim to experience and action. Sāṅkhya Kārikā 24 identifies it with **अभिमान (*abhimāna*)**, while Bhagavad Gītā 3.27 describes the person deluded by *ahaṃkāra* as thinking, “I am the doer.”
 
 **Deployments:** Chapter 17 §17.3.
 
-*Ahaṃkāra* (अहंकार) — *aham* ("I") + *kāra* ("making") — is the "I-making" faculty: the principle that generates the sense of a separate, sovereign self. In the Sāṅkhya enumeration it is an evolute of *mahat / buddhi* and part of the inner instrument (*antaḥkaraṇa*), alongside *manas* and *buddhi*; the Bhagavad Gītā and the Yoga and Vedānta streams treat the disciplining and ultimate transcendence of *ahaṃkāra* as central to the path. Chapter 17 uses the term for its grammatical correlate: a worldview that treats the ego as something to be managed rather than served is consistent with a grammar that declines to make the "I" the sovereign agent of every sentence and instead frames the self as a receiver (*sampradāna*). The chapter does not argue a specific Sāṅkhya doctrine; it draws the broad and well-attested point that Indic thought makes the ego an object of analysis and restraint.
+Sāṅkhya Kārikā 24 begins **अभिमानोऽहङ्कारः (*abhimāno 'haṅkāraḥ*)**, “*ahaṃkāra* is self-assertion.” Bhagavad Gītā 3.27 describes the corresponding claim upon action: **अहङ्कारविमूढात्मा कर्ताहमिति मन्यते (*ahaṅkāra-vimūḍhātmā kartāham iti manyate*)**, “the person deluded by *ahaṃkāra* thinks, ‘I am the doer.’” Chapter 17 uses that contrast to interpret a grammar that need not place the “I” at the center of every act. The grammatical connection is the book's architectural inference; neither source is presented as a treatise on Sanskrit syntax.
 
 ---
 
 ### `vedic-receiver-sampradana-examples`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 1.89.6, 1.114.1, 2.12.5, 6.47.10, and 10.71.4
+-->
+
 **Short:** Chapter 17 introduces receiver grammar through Vedic examples first — trust (*śrad asmai dhatta*), peace (*śaṃ … dvipade catuṣpade*), safety (*svasti naḥ*), grace (*indra mṛḷa mahyam*), reverence (*namas* + dative), and knowledge (RV 10.71.4 *tvasmai*). Pāṇini later documents the receiver role through **सम्प्रदान (*sampradāna*)** and related dative operations.
 
 **Deployments:** Chapter 17 §17.3.
 
-The receiver pattern is already visible in the Vedic corpus. Ṛgveda 2.12.5 has *śrad asmai dhatta* — place faith "to him" (trust). Ṛgveda 1.114.1 has *yathā śam asad dvipade catuṣpade* — "so that there be well-being for biped and quadruped" (peace). The *svasti* formula uses *naḥ* — well-being "to us" (safety); Chapter 17 cites the broad RV 1.89.6 family. Ṛgveda 6.47.10 has *indra mṛḷa mahyam jīvātum iccha* — be gracious "to me" (grace). For reverence, *namas* governs the dative: Pāṇini 2.3.16 (*namaḥsvastisvāhāsvadhālaṃvaṣaḍyogāc ca*) assigns the fourth case after *namas*, *svasti*, and the rest, directing reverence toward its object rather than asserting the self. Ṛgveda 10.71.4 gives the epistemic form: Vāc reveals her body *tvasmai*, "to him" (knowledge). The point in Chapter 17 is not that every example follows one narrow sūtra; it is that the Veda repeatedly places inward states — blessing, grace, faith, reverence, and disclosure — toward a receiver. The general recipient role is **सम्प्रदान (*sampradāna*)**, which Pāṇini documents at 1.4.32 with the dative case at 2.3.13; he documents the role, he does not invent it. Locators web-verified 2026-06-30 (śrad asmai RV 2.12.5; śam RV 1.114.1 = *yathā śam asad dvipade catuṣpade*; svasti naḥ RV 1.89.6; mṛḷa mahyam RV 6.47.10; tvasmai RV 10.71.4; Pāṇini 1.4.32 / 2.3.13 / 2.3.16); accenting to confirm against the selected Vedic editions at production.
+The receiver pattern is already visible in the Vedic corpus. Ṛgveda 2.12.5 has *śrad asmai dhatta* — place faith “to him” (trust). Ṛgveda 1.114.1 has *yathā śam asad dvipade catuṣpade* — “so that there be well-being for biped and quadruped” (peace). The *svasti* formula uses *naḥ* — well-being “to us” (safety); Chapter 17 cites RV 1.89.6. Ṛgveda 6.47.10 has *indra mṛḷa mahyam jīvātum iccha* — be gracious “to me” (grace). For reverence, *namas* governs the dative: Pāṇini 2.3.16 (*namaḥsvastisvāhāsvadhālaṃvaṣaḍyogāc ca*) assigns the fourth case after *namas*, *svasti*, and the rest. Ṛgveda 10.71.4 gives the epistemic form: Vāc reveals her body *tvasmai*, “to him” (knowledge). The point in Chapter 17 is not that every example follows one narrow sūtra; it is that the Veda repeatedly directs blessing, grace, faith, reverence, and disclosure toward a receiver. The general recipient role is **सम्प्रदान (*sampradāna*)**, which Pāṇini documents at 1.4.32, with the dative case at 2.3.13. The Rigvedic forms and locators were checked against the University of Texas electronic edition of the van Nooten-Holland text.
 
 ---
 
 ### `karmani-bhave-karta-demotion`
 
-**Short:** Sanskrit's three प्रयोग (*prayoga*) — *kartari* (doer-centered), *karmaṇi* (karman-centered: *Rāmeṇa pustakaṃ paṭhyate*), and *bhāve* (action-centered, agentless: *tena supyate*) — demote the *kartṛ* as a systematic architecture. Tamil supports the same direction through *paṭu* passive constructions; Korku distinguishes intransitive/non-intentional event forms from transitive/intentional action forms; Ho groups intransitive and passive forms and distinguishes object-stressing from action-stressing use; and Mundari relies on pronominal subject marking inside the predicate rather than letting an independent noun-subject serve as the sole anchor.
+<!-- SOURCE-RECORDS
+- kothandaraman-contemporary-literary-tamil-1997 | printed pp. 233–234
+- nagaraja-korku-1999 | printed pp. 47–48, 79, and 81
+- deeney-ho-grammar | printed pp. 29, 42, and 50
+- osada-mundari-experiential-1999 | printed pp. 53–56 and 59–70
+-->
+
+**Short:** Sanskrit's three प्रयोग (*prayoga*) — *kartari* (doer-centered), *karmaṇi* (karman-centered: *Rāmeṇa pustakaṃ paṭhyate*), and *bhāve* (action-centered: *tena supyate*) — allow a sentence to recede from the *kartṛ*. Tamil, Korku, Ho, and Mundari use different grammatical means to keep the independent noun-subject from becoming the only available center of a clause.
 
 **Deployments:** Chapter 17 §17.4.
 
-In Pāṇinian grammar the *kartari / karmaṇi / bhāve prayoga* distinction organizes the clause around the agent, the patient, or the action. *Karmaṇi prayoga* places the *karman* in the प्रथमा (nominative) and the *kartṛ* in the तृतीया (instrumental), the verb agreeing with the *karman* (*Rāmeṇa pustakaṃ paṭhyate*, "by Rāma, the book is read"). *Bhāve prayoga*, characteristic of intransitive verbs, foregrounds the action with the agent in the instrumental and the verb in the third-person singular, with no nominative *karman* at all (*tena supyate*, "by him, there is sleeping"). The chapter's claim is not that all subcontinental languages share *karmaṇi prayoga* — they do not — but that these languages repeatedly reduce the sovereign doer. Tamil demotes the agent through *paṭu* (படு) constructions. Korku, in Nagaraja's grammar, distinguishes intransitive/non-intentional marking from transitive marking tied to intention and purpose. Ho grammar explicitly groups intransitive and passive forms and distinguishes object-stressing from action-stressing uses. Mundari grammar makes the subject relation part of the predicate through pronominal subject marking rather than treating the independent noun-subject as the only anchor. Marathi remains a continuity witness for the full *kartari / karmaṇi / bhāve* taxonomy, not cross-family proof. Working source anchors: Tamil *paṭu* passive descriptions; Nagaraja on Korku transitive/non-intentional marking; Deeney on Ho intransitive/passive and object-stressing/action-stressing forms; Hoffmann/Osada on Mundari pronominal subject marking and predicate behavior. Final production should verify page references against the selected editions of Nagaraja, Deeney, and Hoffmann/Osada.
+In Pāṇinian grammar the *kartari / karmaṇi / bhāve prayoga* distinction can organize the clause around the agent, the patient, or the action. *Karmaṇi prayoga* places the *karman* in the प्रथमा (nominative) and the *kartṛ* in the तृतीया (instrumental), with the verb agreeing with the *karman*: *Rāmeṇa pustakaṃ paṭhyate*, “by Rāma, the book is read.” *Bhāve prayoga*, used with intransitive verbs, places the agent in the instrumental and the verb in the third-person singular: *tena supyate*, “by him, there is sleeping.”
+
+The comparison does not require the other languages to reproduce Sanskrit's three *prayogas*. Tamil passive constructions use the auxiliary படு (*paṭu*) and can omit the agent. Korku distinguishes intransitive or non-intentional event forms from transitive forms associated with intention and purpose. Deeney's Ho grammar describes intransitive and passive forms together and distinguishes object-stressing from action-stressing use; it also records impersonal experiential clauses in which the experiencer is an object and the subject position is empty.
+
+Mundari works differently. Osada records a pronominal subject marker that can attach to the verb or to a word immediately before it, whether that preceding word is the subject or another noun phrase. He also distinguishes experiencer-subject and experiencer-object constructions and expressly notes that Mundari does not have the Indo-Aryan dative-subject construction. Chapter 17 therefore uses Mundari only for the broader point that agreement can carry the subject relation without requiring an independent noun-subject to serve as the clause's sole anchor.
 
 ---
 
 ### `vedic-folded-action-ktva-lyap-examples`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 1.4.8
+- atharvaveda-shaunakiya-4-10 | AVŚ 4.10.2
+-->
+
 **Short:** Chapter 17 introduces folded-action forms through Vedic examples first: Ṛgveda 1.4.8 *pītvā* and Atharvaveda 4.10.2 *hatvā*. Pāṇini later documents this compact prior-action family through operations such as **क्त्वा (*ktvā*)** and **ल्यप् (*lyap*)**.
 
 **Deployments:** Chapter 17 §17.5.
 
-The Vedic corpus already contains compact prior-action forms. Ṛgveda 1.4.8 has *pītvā* in the sense "having drunk." Atharvaveda 4.10.2 has *hatvā* in the line *śaṅkhena hatvā rakṣāṃsy attriṇo vi ṣahāmahe* — "with the conch, having slain the rakṣas, we overcome the devourers." Chapter 17 uses these examples before giving the later grammatical label: a prior action can enter the sentence as one compact form instead of becoming a separate clause. Pāṇini later documents this family through operations such as **क्त्वा (*ktvā*)** and **ल्यप् (*lyap*)**. RV 1.4.8 (*pītvā*) web-verified 2026-06-30; AVŚ 4.10 confirmed as the śaṅkha / pearl-amulet hymn, but the exact verse (4.10.2) and the line *śaṅkhena hatvā rakṣāṃsy attriṇo vi ṣahāmahe* still to confirm against Whitney's Atharva-Veda at production.
+The Vedic corpus already contains compact prior-action forms. Ṛgveda 1.4.8 has *pītvā* in the sense “having drunk.” Atharvaveda Śaunakīya 4.10.2 has *hatvā* in the line *śaṅkhena hatvā rakṣāṃsy attriṇo vi ṣahāmahe* — “with the conch, having slain the rakṣas, we overcome the devourers.” Chapter 17 uses these examples before giving the later grammatical label: a prior action can enter the sentence as one compact form instead of becoming a separate clause. Pāṇini later documents this family through operations such as **क्त्वा (*ktvā*)** and **ल्यप् (*lyap*)**. Both forms and locators were checked against direct electronic Vedic texts.
 
 ---
 
 ### `gerund-coreference-default-not-gate`
 
-**Short:** Pāṇini's rule for the absolutive — *Aṣṭādhyāyī* 3.4.21, *samānakartṛkayoḥ pūrvakāle* — conditions the affix on the same **agent (kartṛ)** and the prior act (*pūrvakāla*); the relation is same-agent, not same grammatical subject, so a passive main clause that keeps the agent (*tena bhuktvā gamyate*) is regular, while genuinely non-canonical-subject cases (Tikkanen 1987; Lowe) show the relation is an agent-thread, not a mechanical gate.
+<!-- SOURCE-RECORDS
+- sanskritdocuments-ashtadhyayi-3-4-21 | samānakartṛkayoḥ pūrvakāle
+-->
+
+**Short:** Pāṇini's rule for the absolutive — *Aṣṭādhyāyī* 3.4.21, *samānakartṛkayoḥ pūrvakāle* — conditions the affix on a prior act performed by the same **agent (kartṛ)**. A passive main clause can therefore satisfy the rule when it retains that agent.
 
 **Deployments:** Chapter 17 §17.5.
 
-Pāṇini's *Aṣṭādhyāyī* 3.4.21, *samānakartṛkayoḥ pūrvakāle*, introduces the *ktvā* affix for the prior-in-time (*pūrvakāla*) of two actions that share one agent (*samānakartṛka*); under an *upasarga* the affix becomes *lyap*. The operative condition is the same **kartṛ** (agent), not the same grammatical subject — a distinction the Western "same-subject constraint" blurs. A passive main clause that preserves the agent therefore satisfies the rule: the standard illustration is *tena bhuktvā gamyate*, literally "by him, having eaten, it is gone," where the *kartṛ* of both acts is the instrumental "he" though no nominative subject is shared. Beyond this, Tikkanen's *The Sanskrit Gerund: A Synchronic, Diachronic and Typological Analysis* (1987) and Lowe's work on non-canonical-subject gerunds document genuinely marginal cases (e.g., dative-experiencer subjects), confirming that the relation is a default agent-thread, not a mechanical same-subject gate — an areal habit converbs across these languages share, themselves relaxing the preference when the converb's subject is inanimate and the act non-volitional. Pāṇini 3.4.21 (*samānakartṛkayoḥ pūrvakāle*) web-verified 2026-06-30; the Tikkanen and Lowe citations and the exact illustrative forms to confirm at production.
+Pāṇini's *Aṣṭādhyāyī* 3.4.21, **समानकर्तृकयोः पूर्वकाले (*samānakartṛkayoḥ pūrvakāle*)**, introduces *ktvā* for the earlier of two actions performed by the same *kartṛ*. Under an *upasarga*, *lyap* replaces *ktvā*. The traditional illustration *caitreṇa bhuktvā gamyate* — “by Caitra, having eaten, it is gone” — shows why “same agent” is more exact than the usual English shorthand “same subject.” Caitra remains the agent of both acts even though the passive construction has no shared nominative subject. The note does not depend upon disputed exceptional gerunds.
 
 ---
 
 ### `phillips-harrison-mundari-mimetic-reduplication`
 
+<!-- SOURCE-RECORDS
+- phillips-harrison-munda-reduplication-2017 | abstract and bibliographic record
+-->
+
 **Short:** Phillips and Harrison's 2017 survey of mimetic reduplication includes Mundari among seven central forest-belt languages where reduplicated forms depict sound, movement, texture, taste, temperature, feelings, and sensations, often occupying more than ten percent of the lexicon.
 
 **Deployments:** Chapter 17 §17.2.
 
-Jacob B. Phillips and K. David Harrison, "Munda Mimetic Reduplication," *Canadian Journal of Linguistics / Revue canadienne de linguistique* 62, no. 2 (2017): 221-242, DOI 10.1017/cnj.2017.13. The article surveys Ho, Kera Mundari, Kharia, Mundari, Remo (Bondo), Santali, and Sora. Its abstract states the useful high-level point for Chapter 17: these languages use mimetic reduplication for sensory domains including sound, space, movement, texture, smell, taste, temperature, feelings, and sensations, and the category often accounts for more than ten percent of the lexicon. Chapter 17 uses this note only for the Mundari / central forest-belt pattern. Exact Mundari lexical examples such as *oṛa-moṛa* should remain in the verification queue until checked against Osada or another direct Mundari source.
+Jacob B. Phillips and K. David Harrison, “Munda Mimetic Reduplication,” *Canadian Journal of Linguistics / Revue canadienne de linguistique* 62, no. 2 (2017): 221–242, DOI 10.1017/cnj.2017.13. The article surveys Ho, Kera Mundari, Kharia, Mundari, Remo (Bondo), Santali, and Sora. Its abstract states the exact high-level point used in Chapter 17: these languages use mimetic reduplication across sensory domains including sound, space, movement, texture, smell, taste, temperature, feelings, and sensations, and the category typically accounts for more than ten percent of the lexicon. The body does not depend upon an unverified Mundari lexical example.
 
 ---
 
 ### `korku-nagaraja-mouth-mind-evidence`
+
+<!-- SOURCE-RECORDS
+- nagaraja-korku-1999 | printed pp. 47–48, 50, 60–61, 79, and 81
+-->
 
 **Short:** The Korku examples in Chapter 17 come from K. S. Nagaraja's *Korku Language: Grammar, Texts, and Vocabulary* (1999): retroflex contrasts and laterals, reduplication, experiencer marking, converb forms, and the *-khe* / *-en* contrast used for intentional/transitive versus non-intentional/intransitive marking.
 
@@ -7109,47 +7480,80 @@ Jacob B. Phillips and K. David Harrison, "Munda Mimetic Reduplication," *Canadia
 
 K. S. Nagaraja's *Korku Language: Grammar, Texts, and Vocabulary* (Tokyo: Institute for the Study of Languages and Cultures of Asia and Africa, Tokyo University of Foreign Studies, 1999) is the working source for the Korku evidence in Chapter 17. The current evidence bank records the retroflex inventory and examples *gaTa* "mire" / *gaTha* "broken grain," *Donga* "boat," *DanDa* "stick," *kaLLa* "become stiff," *naLLa* "bamboo tube," and *seLLa* "meet"; reduplication examples including *DoDo-DoDo* "seeing-seeing" and *bo-boco* "to fall"; the dative-locative / experiencer form *in-en kenDe-khija Do-ken*; converb forms such as *-Done* / *-Ten*, including *pa:rku saRup-Done hen*; and the §17.4 contrast between transitive marking with *-khe*, tied to intention and purpose, and intransitive/non-intentional marking with *-en*.
 
-Nagaraja's inventory also records retroflex aspirates, a retroflex flap, and a retroflex lateral beyond the conservative Korku configuration used in the atlas. Appendix Part 4 records why adding them does not change the published count: the comparison removes aspirated stop rows from every language, while the flap and lateral fall outside the twenty-three Sanskrit base addresses being counted. The working page references are pp. 47-48 for dative-locative markers, p. 50 and pp. 60-61 for reduplication, p. 79 for converb examples, and p. 81 for the experiencer example. Final production should verify the exact page placement and typography against the scan or print copy.
+Nagaraja's inventory also records retroflex aspirates, a retroflex flap, and a retroflex lateral beyond the conservative Korku configuration used in the atlas. Appendix Part 4 records why adding them does not change the published count: the comparison removes aspirated stop rows from every language, while the flap and lateral fall outside the twenty-three Sanskrit base addresses being counted. The checked page references are pp. 47–48 for dative-locative markers, p. 50 and pp. 60–61 for reduplication, p. 79 for converb examples, and p. 81 for the experiencer example. Google Books' indexed text places *higra-higra-Done* on p. 79; a search for the alternate spelling *hijra* returned no occurrence.
 
 ---
 
 ### `nimitta-chariot`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 10.71.4
+- gretil-katha-upanishad | 1.2.23 and 1.3.3–4
+- sanskritdocuments-mundaka | 3.2.3
+- gita-supersite-3-27 | ahaṃkāra and kartṛ
+- gita-supersite-11-33 | nimittamātraṃ bhava savyasācin
+-->
+
 **Short:** The ego-displacement the grammar encodes (receiver *sampradāna*; doer demoted in *karmaṇi/bhāve*) runs through śruti — the Self/knowledge discloses *itself* (RV 10.71.4 *tanvaṃ vi sasre*; Kaṭha 1.2.23 / Muṇḍaka 3.2.3 *vivṛṇute tanūṃ svām*) and the embodied apparatus is instrumental with the Self as its lord (Kaṭha chariot, 1.3.3–4) — and the Gītā states it outright: *nimittamātraṃ bhava savyasācin* (11.33, "be a mere instrument").
 
 **Deployments:** Chapter 17 §17.9.
 
-The chapter reads the Mind features — the receiver *sampradāna* (§17.3) and the *karta*-demotion of *karmaṇi / bhāve* (§17.4) — as the linguistic face of an ego-displacing stance attested across śruti and stated in smṛti. (1) *Disclosure, not seizure.* Ṛgveda 10.71.4 has Vāc disclose her body to the prepared receiver (*uto tvasmai tanvaṃ vi sasre*); Kaṭha Upaniṣad 1.2.23, repeated at Muṇḍaka 3.2.3, has the Self "reveal its own form" (*vivṛṇute tanūṃ svām*) to the one it chooses — *nāyam ātmā pravacanena labhyo na medhayā na bahunā śrutena*, "not won by discourse, intellect, or much hearing." The two phrasings (*tanvaṃ vi sasre* / *tanūṃ svām vivṛṇute*) share one image across the Saṃhitā and Upaniṣad corpora: knowledge discloses itself; the ego does not seize it. (2) *The apparatus is instrumental.* The Kaṭha chariot (1.3.3–4: *ātmānaṃ rathinaṃ viddhi… buddhiṃ tu sārathiṃ viddhi… manaḥ pragraham… indriyāṇi hayān*) casts body, senses, mind, and intellect as chariot, horses, reins, and charioteer; the precision to preserve is that the Self (*ātman*) rides as the lord borne by the chariot, not as one of its instruments. (3) *Stated in smṛti.* Bhagavad Gītā 11.33, *nimittamātraṃ bhava savyasācin* ("be a mere instrument, O Arjuna"); cf. 3.27, *ahaṃkāra-vimūḍhātmā kartāham iti manyate* ("deluded by *ahaṃkāra*, one thinks 'I am the doer'"). The Vedic frame beneath all of it is the मन्त्रद्रष्टृ (*mantra-draṣṭṛ*) position: the seers saw the mantras; they did not author them. The human receives rather than claiming sovereign authorship. *Nimitta* itself is a post-Saṃhitā term; the Saṃhitā and Upaniṣad preserve the concept, not the word. Verses web-verified 2026-06-30 (Kaṭha 1.3.3–4; Kaṭha 1.2.23 = Muṇḍaka 3.2.3; RV 10.71.4; Gītā 11.33 and 3.27); exact wording / accenting to confirm against the chosen editions at production.
+The chapter reads the receiver *sampradāna* and the receding *kartṛ* of *karmaṇi* and *bhāve* as the linguistic face of an ego-displacing stance found across *śruti* and stated directly in *smṛti*. Ṛgveda 10.71.4 has Vāc disclose her body to the prepared receiver: *uto tvasmai tanvaṃ vi sasre*. Kaṭha Upaniṣad 1.2.23, repeated at Muṇḍaka 3.2.3, says that the Self reveals its own form, *vivṛṇute tanūṃ svām*, and that discourse, intellect, and extensive hearing do not compel that disclosure. The line does not say that intellect must be bypassed; it denies that intellect alone can command the result.
+
+The Kaṭha chariot at 1.3.3–4 describes the body as the chariot, the senses as horses, the mind as reins, and the intellect as charioteer, while the Self rides as the lord borne by that apparatus. Bhagavad Gītā 11.33 states the instrument position directly: **निमित्तमात्रं भव सव्यसाचिन् (*nimittamātraṃ bhava savyasācin*)**, “be a mere instrument, O Savyasācin.” Gītā 3.27 supplies the contrasting delusion: **कर्ताहमिति मन्यते (*kartāham iti manyate*)**, “one thinks, ‘I am the doer.’” The book's grammatical connection is an architectural inference placed beside these sources, not a claim that the verses teach Pāṇinian syntax.
 
 ---
 
 ### `borrowing-model-substrate-areal-claims`
 
+<!-- SOURCE-RECORDS
+- emeneau-india-linguistic-area-1956 | article pp. 7–9
+- kuiper-aryans-rigveda-1991 | non-Indo-Aryan substrate account
+- narasimhan-south-central-asia-2019 | ancient-DNA migration model
+-->
+
 **Short:** The positions §17.7 contests are real scholarship, not caricature: retroflexion as substrate/areal (Emeneau 1956; Kuiper; Masica 1991), the absolutive/gerund as a non-Indo-European "stimulus" feature (Emeneau 1956; Tikkanen 1987), and the dative/experiencer subject as subcontinental areal convergence (Verma & Mohanan 1990); the "arrived from outside" premise rests on the Aryan-migration model and the post-2015 steppe-ancestry work (Narasimhan et al. 2019).
 
 **Deployments:** Chapter 17 §17.7.
 
-Chapter 17 argues against sourced positions, not paraphrase. (1) *Retroflexion as substrate/areal:* M. B. Emeneau, "India as a Linguistic Area," *Language* 32, no. 1 (1956): 3–16, treats the retroflex series as a defining subcontinental areal feature shared across Indo-Aryan, Dravidian, and Munda; F. B. J. Kuiper argued a non-Indo-Aryan (Dravidian / Munda) substrate source for the Indo-Aryan retroflexes (*Aryans in the Rigveda*, 1991, and earlier work); Colin P. Masica, *The Indo-Aryan Languages* (Cambridge University Press, 1991), surveys retroflexion in the areal frame. (2) *The absolutive / gerund as a borrowed feature:* Emeneau (1956) singles out the gerund as distinguishing Sanskrit from the other Indo-European languages and looks to non-Indo-European Indian syntax for the stimulus; Bertil Tikkanen, *The Sanskrit Gerund: A Synchronic, Diachronic and Typological Analysis* (1987), develops it typologically (the "named exhibit"). (3) *The dative / experiencer subject as areal convergence:* M. K. Verma and K. P. Mohanan, eds., *Experiencer Subjects in South Asian Languages* (Stanford: CSLI, 1990). (4) *The external-arrival premise:* the Aryan-migration frame (from Müller onward) and the post-2015 ancient-DNA "steppe ancestry" model — Vagheesh M. Narasimhan et al., "The formation of human populations in South and Central Asia," *Science* 365, no. 6457 (2019). The chapter does not deny the features are pan-subcontinental; it reclassifies the *direction* — a cluster shared across families the same scholarship calls unrelated is what construction within the subcontinent predicts, not late contact. References web-verified 2026-06-30 (Emeneau 1956 = *Language* 32.1: 3–16, retroflex + gerund as areal; Masica 1991, Cambridge; Kuiper 1991; Verma & Mohanan 1990, CSLI; Tikkanen 1987, Studia Orientalia 62; Narasimhan et al. 2019 = *Science* 365.6457, eaat7487); page-level locators for the specific in-text claims to confirm at production.
+Emeneau's “India as a Linguistic Area” supplies two of the chapter's named examples. On pp. 7–8, he treats retroflex consonants across Indo-Aryan, Dravidian, and Munda as a defining feature of the Indian linguistic area. On the following page, he singles out the Sanskrit gerund as a feature that distinguishes Sanskrit from the other Indo-European languages and looks to non-Indo-European Indian syntax for its “stimulus.” Kuiper and Masica continue the substrate and areal accounts for retroflexion. Tikkanen develops the Sanskrit gerund comparison, while Verma and Mohanan collect the subcontinental experiencer-subject evidence.
+
+The external-arrival premise appears in the Aryan-migration account and in the ancient-DNA model developed by Narasimhan and his co-authors. Chapter 17 accepts the scholarship's observation that the features are distributed across the subcontinent but reverses its proposed direction: a complete cluster shared across languages assigned to different families is treated as evidence of a subcontinental architecture rather than as a list of unrelated borrowings into an incoming Sanskrit.
+
+Sources: M. B. Emeneau, “India as a Linguistic Area,” *Language* 32, no. 1 (1956): 3–16, especially 7–9; F. B. J. Kuiper, *Aryans in the Rigveda* (Rodopi, 1991); Colin P. Masica, *The Indo-Aryan Languages* (Cambridge University Press, 1991); Bertil Tikkanen, *The Sanskrit Gerund* (Finnish Oriental Society, 1987); M. K. Verma and K. P. Mohanan, eds., *Experiencer Subjects in South Asian Languages* (CSLI, 1990); Vagheesh M. Narasimhan et al., “The Formation of Human Populations in South and Central Asia,” *Science* 365, no. 6457 (2019), eaat7487.
 
 ---
 
 ### `avestan-retroflex-absence`
 
+<!-- SOURCE-RECORDS
+- iranica-avestan-phonology | consonant inventory, especially “Liquids (only r)”
+- emeneau-india-linguistic-area-1956 | article pp. 7–8
+-->
+
 **Short:** Avestan and Old Iranian have no counterpart to the Indic retroflex consonant series; retroflexion is standardly treated as an Indo-Aryan / subcontinental development, not an Indo-Iranian inheritance — so the pyramid's own claimed carrier region lacks the very Mouth feature the borrowing story needs it to transmit.
 
 **Deployments:** Chapter 17 §17.7.
 
-The Indic retroflex stop series (ट ठ ड ढ ण) has no corresponding independent retroflex series in Avestan or Old Persian: retroflexion is an Indo-Aryan innovation, not a shared Proto-Indo-Iranian feature. The cleanest witness is a cognate pair — Sanskrit *sthūṇā* ("pillar," with retroflex *ṇ*) beside Avestan *stūna* (dental) — where Indic retroflexes, Iranian keeps the dental. The areal-feature literature places retroflexion in the linguistic area of the Indian subcontinent, not the Iranian one (Emeneau 1956; Masica 1991; Kuiper's substrate account), and the standard Avestan grammar (Karl Hoffmann and Bernhard Forssman, *Avestische Laut- und Flexionslehre*, Innsbruck, 1996) describes an inventory without the Indic retroflex series. This is the inversion §17.7 turns on: a portable Indo-Iranian import would resemble its claimed carrier, yet the retroflex — the chapter's Mouth signature — is exactly what the carrier region lacks and the subcontinental population exhibits densely. Three precisions: (a) the *retroflex* absence is the strong, well-attested leg; the *syntax* comparison (gerund, dative-subject) stays hedged, needing careful Old Iranian comparison before more is claimed. (b) Avestan is sometimes analyzed as having a single marginal retroflex-like segment (a /ʈ/, or the cluster /tθ/) — not the Indic recurring five-member series; the claim is about the *series*, not the total absence of any retroflex-like sound. (c) Some later / eastern Iranian languages (e.g., Pashto) develop a secondary retroflex series through their own later contact; the claim is about Old Iranian / Avestan, the pyramid's own claimed carrier stage. Core fact and references web-verified 2026-06-30; page-level locators to confirm at production.
+The Avestan consonant inventory has no counterpart to the Indic retroflex stop series **ट ठ ड ढ ण**. Karl Hoffmann's phonological account lists only *r* under liquids and describes the remaining consonant classes without an Indic-style retroflex series. Avestan does contain individual sounds that have received lateral or retroflex-like analyses, but they do not form the recurring five-member series found in Sanskrit. The chapter's claim concerns the series.
+
+Later Eastern Iranian languages such as Pashto and Khotanese developed retroflex consonants under contact with neighboring Indian languages. That later history strengthens the geographical distinction used here: the complete retroflex series belongs to the subcontinental sound field, not to the Old Iranian side of the proposed migration corridor.
+
+Sources: Karl Hoffmann, “Avestan Language ii. The Phonology of Avestan,” *Encyclopaedia Iranica* III/1 (1987), pp. 47–62, consonant sections; M. B. Emeneau, “India as a Linguistic Area,” *Language* 32.1 (1956), pp. 7–8; “Eastern Iranian Languages,” *Encyclopaedia Iranica*, section on Indian influence.
 
 ---
 
 ### `rigveda-five-feature-cluster`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 2.12.3, 2.12.5, 3.1.15, 4.49.1, and 7.4.5
+-->
+
 **Short:** Maṇḍalas 2–7, which historical linguists place in their oldest Rigvedic layer, already contain all five features assembled in Chapter 17: the curled tongue, grammatical reduplication, receiver grammar, a receding doer, and folded action.
 
 **Deployments:** Chapter 17 §17.8.
 
-Historical linguists commonly place the six family books, Maṇḍalas 2–7, in their oldest layer of the *Ṛgveda*. The complete five-feature cluster already appears inside those books. (1) The curled tongue appears in **ईळे (*īḷe*)** at Ṛgveda 3.1.15. (2) Grammatical reduplication appears in **बिभर्ति (*bibharti*)** at 7.4.5. (3) Receiver grammar appears in **श्रदस्मै धत्त (*śrad asmai dhatta*)**, “place trust in him,” at 2.12.5. (4) The doer recedes in **उक्थं मदश्च शस्यते (*ukthaṃ madaś ca śasyate*)**, “the hymn and exhilaration are praised,” at 4.49.1; the passive **शस्यते (*śasyate*)** leaves the doer unexpressed. (5) Folded action appears in **हत्वाहिम् (*hatvāhim*; *hatvā ahim*)**, “having slain the serpent,” at 2.12.3. Every feature therefore appears within the very maṇḍalas that the pyramid places at the beginning of its internal chronology. The family-book classification follows the standard historical-linguistic account represented by Stephanie W. Jamison and Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India* (Oxford University Press, 2014), Introduction, and Michael Witzel, “Ṛgvedic History: Poets, Chieftains and Polities” (1995). Mantra forms and locators were checked against the Van Nooten–Holland Saṃhitā text as presented by Sanskrit Documents. The passive analysis is independently illustrated by the University of Texas Linguistics Research Center, *Ancient Sanskrit Online*, §48, “The passive.”
+Historical linguists commonly place the six family books, Maṇḍalas 2–7, in their oldest layer of the *Ṛgveda*. The complete five-feature cluster already appears inside those books. (1) The curled tongue appears in **ईळे (*īḷe*)** at Ṛgveda 3.1.15. (2) Grammatical reduplication appears in **बिभर्ति (*bibharti*)** at 7.4.5. (3) Receiver grammar appears in **श्रदस्मै धत्त (*śrad asmai dhatta*)**, “place trust in him,” at 2.12.5. (4) The doer recedes in **उक्थं मदश्च शस्यते (*ukthaṃ madaś ca śasyate*)**, “the hymn and exhilaration are praised,” at 4.49.1; the passive **शस्यते (*śasyate*)** leaves the doer unexpressed. (5) Folded action appears in **हत्वाहिम् (*hatvāhim*; *hatvā ahim*)**, “having slain the serpent,” at 2.12.3. Every feature therefore appears within the very maṇḍalas that the pyramid places at the beginning of its internal chronology. The family-book classification follows the standard historical-linguistic account represented by Stephanie W. Jamison and Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India* (Oxford University Press, 2014), Introduction, and Michael Witzel, “Ṛgvedic History: Poets, Chieftains and Polities” (1995). All five mantra forms and locators were checked directly against the University of Texas electronic edition of the van Nooten-Holland text.
 
 ---
 
@@ -7157,12 +7561,16 @@ Historical linguists commonly place the six family books, Maṇḍalas 2–7, in
 
 **Short:** The Mādhyandina and Kāṇva branches of the *Śatapatha Brāhmaṇa* are useful because they show branch-specific preservation rather than temporal decay: related Vedic material can survive in different branch-shapes without implying that Sanskrit moved down a single slope from an earlier "Vedic" stage to a later "Classical" stage.
 
-**Deployments:** Chapter 17 §17.4.
+**Deployments:** Chapter 17 §17.8.
 
-Branch variation is not the same thing as language drift, and the evidentiary value turns on that structural difference. A *śākhā* is a specified transmission line with its own recitational and textual commitments. The *Śatapatha Brāhmaṇa* survives in two major recensions: Mādhyandina and Kāṇva. Standard summaries give different structural profiles for the two: the Kāṇva recension has 17 *kāṇḍas* and 104 *adhyāyas*, while the Mādhyandina recension has 14 *kāṇḍas* and 100 *adhyāyas*.[^madhyandina-kanva-branch-shapes-1] The Sanskrit Library / TITUS metadata for the Mādhyandina electronic text anchors it to Albrecht Weber's edition of the *Śatapatha-Brāhmaṇa in the Mādhyandina-Śākhā*.[^madhyandina-kanva-branch-shapes-2] Ch17 uses this as a branch-shape point, not as a claim that the two recensions alone establish the retroflex-lateral case. The retroflex-lateral case rests on *chandas* mode, *Prātiśākhya* / *śikṣā* classification, and the sounds preserved across living languages of the Indian subcontinent.
+<!-- SOURCE-RECORDS
+- ignca-kanva-satapatha | introduction p. xvii
+- vedic-heritage-satapatha | Mādhyandina structure
+-->
 
-[^madhyandina-kanva-branch-shapes-1]: Swami Harshananda, "Śatapatha Brāhmana," *Hindupedia*, overview of the two recensions. The page summarizes the Kāṇva recension as 17 *kāṇḍas* / 104 *adhyāyas* and the Mādhyandina recension as 14 *kāṇḍas* / 100 *adhyāyas*.
-[^madhyandina-kanva-branch-shapes-2]: Sanskrit Library catalogue entry, *The Śatapatha-Brāhmaṇa: Mādhyandina-Recension*, citing TITUS and the Weber edition basis: Albrecht Weber, *The Śatapatha-Brāhmaṇa in the Mādhyandina-Śākhā*, Berlin 1849; Varanasi reprint, Chowkhamba Sanskrit Series 96, 1964.
+Branch variation is not the same thing as language drift. A *śākhā* is a specified transmission line with its own recitational and textual commitments. The *Śatapatha Brāhmaṇa* has two major recensions. The Kāṇva recension has 17 *kāṇḍas* and 104 *adhyāyas*, while the Mādhyandina recension has 14 *kāṇḍas* and 100 *adhyāyas*. The Kāṇva edition's introduction also notes that the first two *kāṇḍas* occur in the reverse order in the two recensions. These are preserved differences of branch and arrangement, not evidence that one recension decayed into the other.
+
+Sources: *Kāṇvaśatapathabrāhmaṇam*, IGNCA edition, vol. I, introduction, p. xvii; Vedic Heritage Portal, “Śatapatha Brāhmaṇa,” Mādhyandina overview.
 
 ---
 
@@ -7189,13 +7597,21 @@ Sources: H. H. Wilson, trans., *Rig-Veda-Sanhitá: A Collection of Ancient Hindu
 
 ### `orl-three-apex-nexus`
 
-**Short:** Appendix Part 1 cites the author's *Tatya Tope's Operation Red Lotus* for the three-apex nexus of Church, Company, and Crown and for the Anglo-Indian War of 1857 as the political event that checked the Protestant conversion ambition while leaving the attack on Sanskrit in motion.
+<!-- SOURCE-RECORDS
+- tope-operation-red-lotus-2010 | companion book and catalogue record
+-->
 
-**Deployments:** Appendix Part 1 §1.1.
+**Short:** The Preface, Chapter 2, and Appendix Part 1 cite the author's *Tatya Tope's Operation Red Lotus* for the three-power nexus restated here as Church, Company, and Crown, and for the Anglo-Indian War of 1857 as the event that checked overt government-backed Christian conversion while political and economic domination continued.
 
-This note anchors the book-to-book bridge. The appendix's argument about the Sanskrit-knowledge enterprise is one component inside a larger civilizational-political frame already developed in *Tatya Tope's Operation Red Lotus*: commercial extraction, political rule, and missionary ambition reinforced one another as the three apexes of the English pyramid in India. Appendix Part 1 imports that frame only where needed. It does not re-litigate the 1857 argument; it points to the companion work for the full documentary case.
+**Deployments:** Preface, “Beyond the Red Lotus”; Chapter 2 §2.9; Appendix Part 1 §1.1.
 
-Source anchor: Parag Tope, *Tatya Tope's Operation Red Lotus: The Anglo-Indian War of 1857*; cite the final publication edition's chapters on the church / Company / Crown nexus and the Anglo-Indian War of 1857 in production. The present appendix uses ORL as a companion-work pointer, not as a substitute for the appendix's own Sanskrit-knowledge-enterprise evidence.
+**Status:** Verified against the author's publication PDF.
+
+This note anchors the book-to-book bridge. *Tatya Tope's Operation Red Lotus* presents political, economic, and personal freedom as a triad in the Introduction, pp. xxix-xxxii. The same passage identifies the corresponding administrative and military, commercial and financial, and theological and philological powers, then warns that abuse intensifies when two or more combine. Appendix Part 1 restates that three-power structure as Crown, Company, and Church.
+
+The claim about the war's consequence appears repeatedly. The Introduction, p. xxviii, states that India lost political and economic freedom under English rule but that Tatya's 1858 resurgence forced England to retreat from policies directed against India's civilizational continuity. Chapter 17, pp. 264-266, connects personal freedom to resistance against government-backed Christian conversion and presents Victoria's Proclamation as the concession produced by that resistance. The Conclusion returns to the same argument at pp. 308 and 312-314: the war forced England to retreat from overt attempts to impose Christianity while political and economic control continued.
+
+Source: Parag Tope, *Tatya Tope's Operation Red Lotus: The Anglo-Indian War of 1857* (New Delhi: Rupa, 2009), Introduction, pp. xxviii-xxxii; Chapter 17, “Fractional Freedom,” pp. 264-266; Conclusion, pp. 308, 312-314. ISBN 978-81-291-1562-1.
 
 ---
 
@@ -7249,13 +7665,18 @@ Source: George F. Dales, [“The Mythical Massacre at Mohenjo-daro”](https://w
 
 ### `rahu-manthana-svarbhanu-layering`
 
+<!-- SOURCE-RECORDS
+- bhagavata-canto8-sanskrit | 8.9.24-26; Svarbhānu, severing, and eclipse-graha
+- mahabharata-adi-1-17-5-8 | Rāhu, severing, and seizure of Sun and Moon
+-->
+
 **Short:** *Bhāgavata Purāṇa* 8.9.24 calls the nectar thief Svarbhānu; 8.9.25–26 says Hari severed his head, which became immortal and was established as the eclipse-*graha*. *Mahābhārata* Ādi Parva 1.17.5–8 tells the same episode under the name Rāhu and says Rāhu's head continues to seize the Sun and Moon.
 
 **Deployments:** Epilogue, *Where the Nectar Rises* ¶3.
 
 The book's eclipse spine begins with the Vedic account: Svarbhānu the *asura* pierces Sūrya with darkness in RV 5.40.5, and the Atris restore the Sun in RV 5.40.6 and 5.40.8. The *Bhāgavata Purāṇa* supplies the direct name-bridge to the nectar episode. At 8.9.24, **स्वर्भानुः (*svarbhānuḥ*)** disguises himself as a *deva*, enters their row, and drinks while the Sun and Moon expose him. Verses 8.9.25–26 say that Hari severs his head, the body falls, and the immortal head is established as the eclipse-*graha* that pursues the Sun and Moon. *Mahābhārata* Ādi Parva 1.17.5–8 tells the same episode under the name **राहुः (*rāhuḥ*)**: the Sun and Moon identify him, Viṣṇu severs his head, and the head continues to seize them. The two accounts together connect Svarbhānu with Rāhu without requiring the *Mahābhārata* itself to call the intruder Svarbhānu.
 
-Sources: *Bhāgavata Purāṇa* 8.9.24–26, Sanskrit text at <https://srimadbhagavatam.org/downloads/SB-Sanskrit/SB-Sanskrit8.html>; *Mahābhārata*, BORI critical edition, Ādi Parva 1.17.5–8, including 1.17.6 at <https://vedapath.app/hi/mahabharata-bori/adi-parva/17/6>.
+Sources: *Bhāgavata Purāṇa* 8.9.24–26, including the Sanskrit of 8.9.24 at <https://prabhupadabooks.com/sb/8/9/24>; *Mahābhārata*, BORI critical edition, Ādi Parva 1.17.5–8, including 1.17.8 at <https://vedapath.app/hi/mahabharata-bori/adi-parva/17/8>.
 
 ---
 
@@ -7295,11 +7716,17 @@ Their work was not limited to classroom instruction. The Benares institutional h
 
 ### `konkani-marathi-language-pressure`
 
+<!-- SOURCE-RECORDS
+- coelho-goa-official-language | pp. 37-58
+- goa-official-language-act-1987 | §§3-4
+- goa-official-language-department | official-language history and resources
+-->
+
 **Short:** The classification of Konkani as a Marathi dialect became part of the political case for merging Goa into Maharashtra; the resistance established Konkani's independent public and official standing.
 
 **Deployments:** Epilogue, *The Inward Correction*.
 
-After Goa joined India, advocates of merger with Maharashtra argued that Konkani was a dialect of Marathi; that classification became part of the political case for merger. Goa rejected merger in the 1967 Opinion Poll. The Goa, Daman and Diu Official Language Act of 1987 established Konkani as Goa's official language while permitting Marathi for specified official purposes. The example concerns the political pressure created when a stronger neighboring standard claims authority over a living language; it does not deny the close relationship between Konkani and Marathi. Sources: J. P. Coelho, "Official language, state and civil society: Issues concerning the implementation of the 'Official Language Act' in Goa," *Social Science Gazetteer* 9, nos. 1–2 (2014/2016), 37–58; *The Goa, Daman and Diu Official Language Act, 1987* (Act No. 5 of 1987), India Code.
+After Goa joined India, advocates of merger with Maharashtra argued that Konkani was a dialect of Marathi; that classification became part of the political case for merger. Goa rejected merger in the 1967 Opinion Poll. The Goa, Daman and Diu Official Language Act of 1987 established Konkani as Goa's official language while permitting Marathi for specified official purposes. Sources: J. P. Coelho, "Official language, state and civil society: Issues concerning the implementation of the 'Official Language Act' in Goa," *Social Science Gazetteer* 9, nos. 1–2 (2014/2016), pp. 37–58; *The Goa, Daman and Diu Official Language Act, 1987* (Act No. 5 of 1987), §§3–4, available through India Code and the Government of Goa Official Language Department.
 
 ---
 
@@ -7368,6 +7795,12 @@ The passage reads **आ द्विषतो वसु दत्ते, नि�
 
 ### `vedic-vocative-sentence-accent`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 3.25.1 and 1.1.7
+- gretil-rigveda-padapatha | word-separated forms at RV 3.25.1 and 1.1.7
+- whitney-sanskrit-grammar-1879 | §314
+-->
+
 **Short:** Vedic ***स्वर (*svara*, accent)*** responds to sentence position. **अग्ने (*agne*)** receives its ***सम्बोधन (*sambodhana*, vocative)*** accent when it begins a sentence or *pāda* and loses that independent accent when other words precede it.
 
 **Deployments:** Chapter 9 §9.8; Appendix Part 8 §8.3.
@@ -7409,11 +7842,16 @@ The final *pāda* is **नमो भरन्त एमसि (*namo bharanta em
 
 ### `designed-variations-figure-sources`
 
+<!-- SOURCE-RECORDS
+- project-designed-variations | 83-row master, prevalence ledger, validators, and eight figures
+- whitney-sanskrit-grammar-1879 | grammatical inventory locators
+- gretil-rigveda-padapatha | exact-form searches
+- ut-rigveda-metrically-restored | passage and meter checks
+-->
+
 **Short:** The Designed Variations figures separate the existence of a Vedic form from three further findings: an exact passage, a demonstrated local contribution, and a measured prevalence. An open contribution or prevalence cell remains open rather than being printed as zero.
 
 **Deployments:** Appendix Part 8 §8.7.
-
-**Deployment:** Appendix Part 8 §8.4.
 
 The grammatical inventory was assembled from William Dwight Whitney, *Sanskrit Grammar*, Chapters II–VII, especially §§113, 138, 314–320, 327–329, 336–338, 349–365, 371, 414–415, 425, 430–433, 448, 454, 462, 465, 482–486, 492, 499–501, and 509. Exact-form searches used the GRETIL Ṛgveda *padapāṭha*. Passage and meter checks used the University of Texas Linguistics Research Center's metrically restored Ṛgveda. Pāṇini's *Aṣṭādhyāyī* is cited where it documents a form already preserved in the Veda. The figure labels distinguish **FORM**, **PASSAGE**, **FUNCTION**, and **OPEN**, while **RARE**, **ISOLATED**, **DOUBTFUL**, and **ABSENCE** qualify the evidence without converting uncertainty into a demonstrated result.
 
@@ -7466,23 +7904,31 @@ The chapter applies that established principle to Vedic recitation as an archite
 
 ### `vedic-injunctive-vocam`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 1.32.1
+- gretil-rigveda-padapatha | word-separated RV 1.32.1
+- kiparsky-vedic-injunctive-2005 | pp. 219–235, especially p. 223
+-->
+
 **Short:** In Ṛgveda 1.32.1, **प्र वोचम् (*pra vocam*)** performs the declaration "I now proclaim." The form belongs to ***लुङ् (*luṅ*, aorist)*** but appears without the ***अट्-आगम (*aṭ-āgama*, augment)***. English grammars call such a Vedic form an injunctive.
 
 **Deployments:** Appendix Part 8 §8.6.
 
-**Deployment:** Appendix Part 8 §8.6.
-
-The passage begins **इन्द्रस्य नु वीर्याणि प्र वोचम् (*indrasya nu vīryāṇi pra vocam*)**. The particle **नु (*nu*)**, the accented operator **प्र (*prá*)**, and the unaccented **वोचम् (*vocam*)** together present the declaration as it is being made. Laukika **अवोचम् (*avocam*)** carries the augment and ordinarily reports a past act: "I said" or "I proclaimed." The unaugmented form also removes one syllable from the Triṣṭubh *pāda*. Paul Kiparsky analyzes this exact example as a performative, "I (hereby) proclaim Indra's heroic deeds," and argues that the injunctive receives temporal or modal interpretation from its immediate setting. Sources: Ṛgveda 1.32.1; Paul Kiparsky, "The Vedic Injunctive: Historical and Synchronic Implications," in Rajendra Singh, ed. (De Gruyter Mouton, 2005), 219–235.
+The passage begins **इन्द्रस्य नु वीर्याणि प्र वोचम् (*indrasya nu vīryāṇi pra vocam*)**. The particle **नु (*nu*)**, the accented operator **प्र (*prá*)**, and the unaccented **वोचम् (*vocam*)** together present the declaration as it is being made. Laukika **अवोचम् (*avocam*)** carries the augment and ordinarily reports a past act: "I said" or "I proclaimed." The unaugmented form also removes one syllable from the Triṣṭubh *pāda*. Paul Kiparsky analyzes this exact example as a performative, "I (hereby) proclaim Indra's heroic deeds," and argues that the injunctive receives temporal or modal interpretation from its immediate setting. Sources: Ṛgveda 1.32.1; Paul Kiparsky, "The Vedic Injunctive: Historical and Synchronic Implications," in Rajendra Singh, ed. (De Gruyter Mouton, 2005), pp. 219–235, especially p. 223.
 
 ---
 
 ### `vedic-gerund-pitvi`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 3.40.7
+- gretil-rigveda-padapatha | word-separated RV 3.40.7
+- ashtadhyayi-app8-rules | 7.1.49 with Kāśikā
+-->
+
 **Short:** Ṛgveda 3.40.7 uses **पीत्वी (*pītvī*)**, "having drunk," where laukika Sanskrit uses **पीत्वा (*pītvā*)**. Both are forms of the ***क्त्वा-प्रत्यय (*ktvā-pratyaya*)***, commonly called a gerund or conjunctive participle in English.
 
 **Deployments:** Appendix Part 8 §8.6.
-
-**Deployment:** Appendix Part 8 §8.6.
 
 The final *pāda* reads **पीत्वी सोमस्य वावृधे (*pītvī somasya vāvṛdhe*)**, "having drunk Soma, he grew in strength." Pāṇini later documented Vedic forms of this type in Aṣṭādhyāyī 7.1.49, **स्नात्व्यादयश्च (*snātvyādayaś ca*)**; the Kāśikā cites this passage and contrasts **पीत्वी** with expected **पीत्वा**. Both forms have two syllables, so this example establishes the additional Vedic *ktvā* form but does not by itself establish a metrical purpose. The Designed Variation code therefore remains open. Sources: Ṛgveda 3.40.7; Aṣṭādhyāyī 7.1.49 with Kāśikā.
 
@@ -7490,11 +7936,15 @@ The final *pāda* reads **पीत्वी सोमस्य वावृध�
 
 ### `vedic-infinitives-rv-1-24-8`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 1.24.8
+- gretil-rigveda-padapatha | word-separated RV 1.24.8
+- ashtadhyayi-app8-rules | 3.4.9 with Kāśikā
+-->
+
 **Short:** Ṛgveda 1.24.8 places two Vedic ***तुमर्थक रूपाणि (*tumarthaka rūpāṇi*, infinitive forms)*** in one mantra: **अन्वेतवै (*anvetavai*)**, "to follow," and **प्रतिधातवे (*pratidhātave*)**, "to set down."
 
 **Deployments:** Appendix Part 8 §8.6.
-
-**Deployment:** Appendix Part 8 §8.6.
 
 The Saṃhitā text shows **अन्वेतवा उ (*anvetavā u*)**, while the *padapāṭha* resolves the form as **अनु-एतवै (*anu-etavai*)**. The next *pāda* uses **प्रतिधातवे (*pratidhātave*)**. Laukika Sanskrit would ordinarily express the same purposes through **अन्वेतुम् (*anvetum*)** and **प्रतिधातुम् (*pratidhātum*)**. Replacing the Vedic forms with the shorter **-तुम्** formations would shorten their respective Triṣṭubh *pādas*. Pāṇini later listed **-तवै, -तवे**, and several other Vedic infinitive endings in Aṣṭādhyāyī 3.4.9. Sources: Ṛgveda 1.24.8, Saṃhitā and *padapāṭha*; Aṣṭādhyāyī 3.4.9 with Kāśikā.
 
@@ -7502,11 +7952,16 @@ The Saṃhitā text shows **अन्वेतवा उ (*anvetavā u*)**, whil
 
 ### `vedic-participle-cikitvah`
 
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 3.25.1
+- gretil-rigveda-padapatha | RV exact-form count and word-separated passage
+- whitney-sanskrit-grammar-1879 | §462a
+- project-designed-variations | SG-23 ledger and validation
+-->
+
 **Short:** Ṛgveda 3.25.1 addresses Agni as **चिकित्वः (*cikitvaḥ*)**, "O knowing one." It is a ***क्वसु-कृदन्त (*kvasu-kṛdanta*, perfect participle)*** used in ***सम्बोधन (*sambodhana*, vocative)***, where the corresponding laukika form is **चिकित्वन् (*cikitvan*)**.
 
-**Deployments:** Appendix Part 8 §8.6.
-
-**Deployment:** Appendix Part 8 §8.6 and declensional figure SG-23.
+**Deployments:** Appendix Part 8 §8.6 and declensional figure SG-23.
 
 The closing words are **इह यजा चिकित्वः (*iha yajā cikitvaḥ*)**. The exact passage and the direct-address function are secure. A corpus check retained in the appendix prevalence ledger finds **चिकित्वः** in all eleven checked Ṛgvedic occurrences of this lexeme and no **चिकित्वन्** counterpart there. That establishes the Vedic distribution for the checked word, but it does not establish why this passage selects **-वः** rather than **-वन्**. The appendix therefore records the form while leaving its Designed Variation code open. Sources: Ṛgveda 3.25.1; appendix prevalence ledger SG-23; Whitney's discussion of perfect participles.
 
@@ -7533,6 +7988,13 @@ Kerala supplies a lineage-level case. C. M. Neelakandhan's “Oral and Textual T
 
 ### `english-empire-layered-pyramid`
 
+<!-- SOURCE-RECORDS
+- uk-parliament-union-1707 | England and Scotland under one Parliament
+- commons-library-uk-independence | constitutional history of the United Kingdom
+- welsh-government-legal-history | conquest and incorporation of Wales
+- national-archives-irish-partition | Ireland's distinct imperial history
+-->
+
 **Short:** Chapter 1 uses *English Empire* to identify the English- and London-centered apex of the political structure that later called itself British. The phrase describes the location of institutional power, not every person born in England.
 
 **Deployments:** Chapter 1 §1.2.
@@ -7547,11 +8009,17 @@ Sources: UK Parliament, [“United into One Kingdom”](https://www.parliament.u
 
 ### `bhiksha-calibrant-architecture`
 
+<!-- SOURCE-RECORDS
+- gautama-dharmasutra-ch2 | student's bhikṣā procedure
+- baudhayana-dharmasutra-2-10-18 | ascetic's bhikṣā procedure
+- manusmriti-3-94 | householder's gift to mendicant or brahmacārin
+- pib-kumbh-2019-first-shahi-snan | akhara sequence
+- pib-mahakumbh-2025-makar-sankranti | Nāga sādhus and ceremonial procession
+-->
+
 **Short:** The practices of *bhikṣā* connect students and renunciants with householders through direct, distributed support. The Kumbh gives the renunciant orders public and ritual precedence without placing them under one civilizational apex.
 
-**Deployments:** Epilogue L169; Epilogue L175.
-
-**Deployment:** Epilogue, “Order Through Calibration.”
+**Deployments:** Epilogue, “Order Through Calibration.”
 
 The student, householder, forest hermit, and renunciant appear as distinct and interrelated ways of life within the *āśrama* architecture. Patrick Olivelle surveys the textual and institutional development of this architecture in *The Āśrama System: The History and Hermeneutics of a Religious Institution* (Oxford University Press, 1993). The *Dharma-sūtra* and *Dharmaśāstra* literature records the direct *bhikṣā* relationship from both sides. *Gautama-Dharmasūtra* Chapter 2 gives the student's procedure for seeking food and presenting what he receives to his teacher. *Baudhāyana-Dharmasūtra* 2.10.18 gives the ascetic's procedure and restricts what he may seek and consume. *Manusmṛti* 3.94 directs the householder to provide food to the mendicant or *brahmacārin*. These sources differ in detail but preserve the same distributed relation: the recipient asks, the household gives, and the support passes directly between them.
 
@@ -7564,6 +8032,17 @@ The parallel with Vedic transmission rests on the independent *śākhā* evidenc
 ---
 
 ### `where-this-argument-stands`
+
+<!-- SOURCE-RECORDS
+- companion-elst-ait-linguistics-2020 | Out-of-India discussion
+- companion-talageri-out-of-india-2021 | Out-of-India argument and root-family asymmetry
+- companion-kazanas-sanskrit-pie-2004 | criticism of prevailing PIE reconstructions
+- companion-trubetzkoy-ie-problem-1939 | convergence alternative
+- companion-marcantonio-brady-ie-artifacts | reconstruction-method critique
+- companion-briggs-1985-ai | natural and artificial language comparison
+- companion-bhate-kak-panini-computer-science | recursion, generativity, and economy
+- companion-kak-vedic-recursive-architecture | Vedic numerical, astronomical, and recursive architecture
+-->
 
 **Short:** The free *Source and Reference Companion* places *Atomic Sanskrit* beside four neighboring bodies of writing: Out-of-India arguments, Western criticism of PIE reconstruction, formal and computational Sanskrit scholarship, and Subhash Kak's wider research into Vedic architecture.
 
@@ -7579,11 +8058,15 @@ Each neighboring body reaches part of the evidence. The companion essay explains
 
 ### `anti-sanskrit-progress-parliament`
 
+<!-- SOURCE-RECORDS
+- constituent-assembly-jaipal-singh-1949 | Devanagari and progress argument
+- lok-sabha-nehru-raghu-vira-1959 | Nehru's criticism of Raghu Vira's terminology
+- raghu-vira-railway-caricature | later public caricature and attribution record
+-->
+
 **Short:** Parliamentary debate presented Sanskrit-based word formation as an obstacle to modern progress; government schools later amplified the same claim through absurd railway terminology falsely attributed to Raghu Vira.
 
 **Deployments:** Chapter 1 §1.3.
-
-**Deployment:** Chapter 1 §1.3, the attack on Sanskrit's continuing generativity.
 
 Jaipal Singh's Constituent Assembly intervention of 14 September 1949 appears as speech 9.140.115 in the official debate sequence. He said, "I do feel very strongly opposed to the puritanical fanaticism that has gripped many people." Later in the same intervention, he argued that adopting Devanagari would retard India's progress. See [Constitution of India, Constituent Assembly debate, 14 September 1949](https://www.constitutionofindia.net/debates/14-sep-1949/).
 

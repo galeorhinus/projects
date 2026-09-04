@@ -140,9 +140,9 @@ Pāṇini inherited this arrangement. His अष्टाध्यायी (*A�
 
 The botanical metaphor describes natural languages well. They grow through communal use, branch across populations, absorb contact, alter sounds, shed endings, acquire exceptions, and pass changed forms to later generations.
 
-Old English **hlāfweard**, the “bread-guardian,” became **laverd**, then **lorde**, then modern **Lord**.[NOTE: hlafweard-etymology] The sounds changed, and the word's original construction became harder to recognize. No single speaker designed the complete sequence. Each generation received a form and passed another one forward.
+Old English **hlāfweard**, the “bread-guardian,” contracted to **hlāford**. Middle English then recorded changing forms such as **laverd**, **loverd**, and **lorde**, before modern **Lord** became standard.[NOTE: hlafweard-etymology] The sounds changed, and the word's original construction became harder to recognize. No single speaker designed the complete sequence. Each generation received a form and passed another one forward.
 
-In the 1860s, August Schleicher turned this process into the family tree of language.[NOTE: schleicher-stammbaumtheorie] Languages acquired parents, sisters, daughters, roots, stems, and branches. The metaphor made natural change easy to picture, but it also allowed European philology to treat every language as if it belonged to the same botanical category.
+In 1853, August Schleicher drew this process as a family tree. He developed the model through the following decade.[NOTE: schleicher-stammbaumtheorie] Languages acquired parents, sisters, daughters, roots, stems, and branches. The metaphor made natural change easy to picture, but it also allowed European philology to treat every language as if it belonged to the same botanical category.
 
 Sanskrit's own vocabulary identifies a different category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration. Its final portion, **कृतम् (*kṛtam*)**, is the past participle of ⟪कृ⟫ (*kṛ*), the atom for making. It means made, produced, or brought into form. The preceding सम्- (*sam-*) carries completion and integration:
 

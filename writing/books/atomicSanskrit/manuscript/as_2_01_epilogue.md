@@ -8,23 +8,23 @@
 > *yaṃ vai sūryaṃ svarbhānus tamasāvidhyad āsuraḥ |*\
 > *atrayas tam anv avindan nahy anye aśaknuvan ||*
 >
+> The Sun whom Svarbhānu, the *a-sura*, pierced with darkness, the Atris found. No others could.
+>
 > `\hfill`{=latex}*— Ṛgveda 5.40.9*[NOTE: rigveda-5-40-9-atris-find-sun]
 
 :::
 
 \bigskip
 
-## The Eclipse Is Over
+The Prologue opened with Svarbhānu covering the Sun in darkness. The epigraph above completes that Vedic sequence: the Atris find the Sun that had remained behind the darkness.
 
-The same wound-line that opened the Prologue returns here with the other half supplied. Svarbhānu's darkness did not win: the Atris found the Sun.
+This book has removed the seven claims at the core of Sanskrit's eclipse: ***Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language,*** and ***Early Literature***. With those claims removed, readers can examine Sanskrit as an engineered, radiant, calibrant, and fractal architecture.
 
-The core eclipse has passed because the Sun remained. Seven blocks have fallen. They carried the labels ***Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language,*** and ***Early Literature***. With the claims represented by those blocks removed, Sanskrit's radiance is visible again. Institutional custody, public habit, and civilizational self-doubt still cast residual shadows. Teachers, families, institutions, and communities must clear what one book cannot.
+Four obstacles remain: institutional custody, public knowledge lag, civilizational self-doubt, and the Racial Arya Thesis. Presenting the evidence weakens them, but removing them requires continued teaching, inquiry, and public argument.
 
 ![Figure E.12 — Atri Recovery. The Sanskrit-Sun is visible; seven core blocks have fallen, residual shadows remain, and points of caretaking light appear across the world.](figures/eclipse_spine/eclipse_80_epilogue_atri_recovery.svg){#fig:eclipse-epilogue-atri-recovery width=100%}
 
-The mantra says the Atris found the Sun when others could not. This book clears part of the shadow and leaves the remaining responsibility visible.
-
-Recovery is not revenge, because the dharmic account is karmic: action bears consequence, and restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
+The work ahead is not revenge. In a karmic order, harmful actions carry consequences, but a change in conduct also makes correction possible. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: recognizing the wrong, accepting responsibility, and correcting it through action.
 
 ***Break the shadow. Dispel the invented ancestor. Find the Sun. Invite the world. Restore the standard.***
 
@@ -32,7 +32,9 @@ Recovery is not revenge, because the dharmic account is karmic: action bears con
 
 In the **समुद्रमन्थन (*samudra-manthana*)** story, the devas and asuras wrap the serpent Vāsuki around Mount Mandara and pull from opposite sides. They churn the ocean for **अमृत (*amṛta*)**, the nectar of immortality.[NOTE: samudra-manthana-source-anchor] What rises first is **हालहल (*hālahala*)** — poison enough to end the worlds. Śiva contains it in his throat and becomes **नीलकण्ठ (*nīlakaṇṭha*)**, the blue-throated one. Only after the poison does the ocean yield the nectar, and **मोहिनी (*Mohinī*)** gives it to the **देवाः (*devāḥ*)**, the radiant ones of ⟪दिव्⟫.
 
-The pyramid has been churning for two centuries, mostly with hands lower in its academic hierarchy that never controlled the apex narrative. Generation after generation of Sanskrit scholars working through colonial-era institutes at Varanasi, Kolkata, and Pune supplied the Sanskrit expertise.[NOTE: colonial-sanskrit-institutes] Credentialed workers across Oxford, Berlin, Leipzig, St. Petersburg, and other centers kept the rope turning. The apex drew up the *hālahala*: the racial Arya thesis, the cranial index, the nasal index, and the poisons that the twentieth century drank to the bottom.
+For two centuries, scholars across India and Europe have carried out another churning. Sanskrit scholars working through colonial-era institutions in Varanasi, Kolkata, and Pune taught the language and explained its texts and grammar.[NOTE: colonial-sanskrit-institutes] Scholars in Oxford, Berlin, Leipzig, St. Petersburg, and other centers used that knowledge to compare words, compile dictionaries, and construct linguistic histories. Most of the people who performed this work did not control the account that the apex built from it.
+
+The apex turned their accumulated labor into *hālahala*: the racial Arya thesis, the cranial index, the nasal index, and the other poisons that the twentieth century drank to the bottom.
 
 The civilization that bore that poison for a century and a half became the **नीलकण्ठ (*nīlakaṇṭha*)** of this churning. The poison stopped at the throat. It never reached the heart.
 

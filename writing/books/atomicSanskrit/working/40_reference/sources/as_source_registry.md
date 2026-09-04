@@ -287,9 +287,9 @@ do not silently omit the gap.
 - **Archived URL:** Not available.
 - **Accessed:** 2026-09-02.
 - **Local record:** `working/40_reference/sources/archive/web/ut-rigveda-metrically-restored/`
-- **Integrity:** SHA-256: RV00 `f8da518fe2bb195a3388a2d87d3af7f077a0259b34a9e269dd3ab38a8868568f`; RV01 `fef667cf7f98c91d6d32e6d312d956be2f9dee5a6d58153f70e1e9bcc4072132`; RV02 `017fb1d86c17613fa466c81ba61b34f8a0ade061c1d918f61c418cbafe34c94a`; RV03 `cc6ae519d3f5feac5cb8bab6bc529a498a19e3240254fccbb7414afd53cf826a`; RV05 `b29ae3f130617969c8e3da0d9905de6a4f27d22a07817493f4978251f45c588f`; RV06 `1b9e62ef0946bb4064a4a80223e991051e03e7430107a89c71e4751eae340b4f`; RV07 `4af631514dc06a80c1fda64fefdc539f33d4caf856a290e56ed1e0682bd31b18`; RV08 `e77c60e34c1cbdd516252639c0e9cc3615a4999e97cd7d5894d8dd82d118d8fa`; RV10 `1516b3413a3e20b945a461d579748c708091ad9aeef75ffa26bd8a13102e924b`.
+- **Integrity:** SHA-256: RV00 `f8da518fe2bb195a3388a2d87d3af7f077a0259b34a9e269dd3ab38a8868568f`; RV01 `fef667cf7f98c91d6d32e6d312d956be2f9dee5a6d58153f70e1e9bcc4072132`; RV02 `017fb1d86c17613fa466c81ba61b34f8a0ade061c1d918f61c418cbafe34c94a`; RV03 `cc6ae519d3f5feac5cb8bab6bc529a498a19e3240254fccbb7414afd53cf826a`; RV04 `8bb1adf26b87b035b76e46c0b4174f902b77fc30c11b650204a2e57f44a42f86`; RV05 `b29ae3f130617969c8e3da0d9905de6a4f27d22a07817493f4978251f45c588f`; RV06 `1b9e62ef0946bb4064a4a80223e991051e03e7430107a89c71e4751eae340b4f`; RV07 `4af631514dc06a80c1fda64fefdc539f33d4caf856a290e56ed1e0682bd31b18`; RV08 `e77c60e34c1cbdd516252639c0e9cc3615a4999e97cd7d5894d8dd82d118d8fa`; RV10 `1516b3413a3e20b945a461d579748c708091ad9aeef75ffa26bd8a13102e924b`.
 - **Rights/storage:** Research-use HTML pages retained locally; source page states non-commercial research use.
-- **Notes:** Exact book URLs are the base URL followed by the two-digit book number, including the locally retained `RV01`, `RV02`, `RV03`, `RV05`, `RV06`, `RV07`, `RV08`, and `RV10` pages.
+- **Notes:** Exact book URLs are the base URL followed by the two-digit book number, including the locally retained `RV01`, `RV02`, `RV03`, `RV04`, `RV05`, `RV06`, `RV07`, `RV08`, and `RV10` pages.
 
 ### `jamison-brereton-rigveda-2014-dcs`
 
@@ -1134,7 +1134,7 @@ do not silently omit the gap.
 - **Local record:** Not retained; the server rejected command-line archival requests.
 - **Integrity:** Not applicable.
 - **Rights/storage:** Copyrighted public page; metadata only.
-- **Notes:** Explicitly derives ***jalam*** from ⟪जल्⟫ (*jal*), “to harden,” through water's ability to become solid, and explains ***vāri*** through water becoming cloud and covering. The remaining four Chapter 0 derivations require separate lexical verification.
+- **Notes:** Explicitly derives ***jalam*** from ⟪जल्⟫ (*jal*), “to harden,” through water's ability to become solid, and explains ***vāri*** through water becoming cloud and covering. Separate traditional grammatical records now support the Chapter 0 derivations of ***āpaḥ***, ***payas***, ***salila***, and ***udaka***.
 
 ### `mishra-tedx-sanskrit-breath`
 
@@ -2205,14 +2205,14 @@ do not silently omit the gap.
 
 - **Citation:** John Deeney, *Ho Grammar* (Chaibasa: Xavier Ho Publications, 1975).
 - **Source type:** Descriptive grammar.
-- **Canonical locator:** Printed pp. 7-9, “Checked and unchecked vowels.”
+- **Canonical locator:** Printed pp. 7–9, “Checked and unchecked vowels”; p. 29 on the shared past sign of intransitive and passive forms; p. 42 on impersonal experiential clauses; p. 50 on object-stressing and action-stressing use.
 - **Digital URL:** https://michaelyorke.org/wp-content/uploads/2023/08/Ho-Grammar-by-J-Deeney.pdf
 - **Archived URL:** Same as the digital URL.
 - **Accessed:** 2026-09-02.
 - **Local record:** `working/40_reference/sources/archive/documents/ch8-verification/deeney-ho-grammar.pdf`.
 - **Integrity:** SHA-256 `00669d3b6558994d7c4ba277a3ef786799fbf39a51d08cebe4d912464b1ecf2d`.
 - **Rights/storage:** Public research copy retained for verification.
-- **Notes:** Defines the Ho checked vowel as interrupted by a glottal catch and supplies meaning-changing checked/unchecked pairs.
+- **Notes:** Defines the Ho checked vowel and supplies meaning-changing checked/unchecked pairs for Chapter 8. The later locators support the Chapter 17 comparison of impersonal, intransitive, passive, object-stressing, and action-stressing constructions.
 
 ### `arsenault-retroflexion-south-asia-2017`
 
@@ -2231,14 +2231,14 @@ do not silently omit the gap.
 
 - **Citation:** K. S. Nagaraja, *Korku Language: Grammar, Texts and Vocabulary* (Tokyo: Institute for the Study of Languages and Cultures of Asia and Africa, Tokyo University of Foreign Studies, 1999).
 - **Source type:** Descriptive grammar.
-- **Canonical locator:** Chapter I, §1.1, “Inventory of Phonemes,” printed p. 5.
+- **Canonical locator:** Chapter I, §1.1, printed p. 5; pp. 47–48, 50, 60–61, 79, and 81 for the Chapter 17 examples.
 - **Digital URL:** https://dokumen.pub/korku-language-grammar-texts-and-vocabulary.html
 - **Archived URL:** https://books.google.com/books?id=qXgOAAAAYAAJ
 - **Accessed:** 2026-09-03.
 - **Local record:** Metadata and indexed text only; the public host rejected automated archival retrieval.
 - **Integrity:** Not available for a local file.
 - **Rights/storage:** Bibliographic record and public indexed text retained by URL.
-- **Notes:** Supplies the fuller Korku inventory used by the atlas. The aspirated rows are removed by the Chapter 8 comparison before its 23-cell coverage calculation.
+- **Notes:** Supplies the fuller Korku inventory used by the atlas and the Chapter 17 examples of reduplication, experiencer marking, converbs, and transitive/intransitive contrasts. Google Books indexed text places *higra-higra-Done* on p. 79; the alternate spelling *hijra* returned no occurrence. The aspirated rows are removed by the Chapter 8 comparison before its 23-cell coverage calculation.
 
 ### `zide-korku-syllables`
 
@@ -2681,3 +2681,2447 @@ do not silently omit the gap.
 - **Integrity:** SHA-256 `dba7dc55f7bb8f0925add9d9ee65a454fa974c418614239f23738d3a2930d23a`.
 - **Rights/storage:** Copyrighted monograph; bibliographic page only retained.
 - **Notes:** Supports the historical case involving the Sāyaṇa-Mādhava household and its range of Vedic and other Sanskrit work. The endnote retains the attribution caveat.
+
+### `samkhya-karika-24`
+
+- **Citation:** Īśvarakṛṣṇa, *Sāṅkhya Kārikā* 24, with the *Jayamaṅgalā* commentary in the Viśvāsa digital text.
+- **Source type:** Public Sanskrit primary-text edition with commentary.
+- **Canonical locator:** Kārikā 24, **अभिमानोऽहङ्कारः**.
+- **Digital URL:** https://vishvasa.github.io/AgamaH/AryaH/hinduism/branches/sAnkhyam/kArikA/shankaraH_sANkhyasaptatiTIkA_jayamaNgalA/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch17-verification/samkhya-karika-24.html`.
+- **Integrity:** SHA-256 `0478b1dcc8d6a4f847ad53da59980154d14af34432cf5998da9ca4d68156ee7f`.
+- **Rights/storage:** Public Sanskrit text retained for research verification.
+- **Notes:** Confirms that Kārikā 24 identifies *ahaṃkāra* with *abhimāna*.
+
+### `gita-supersite-3-27`
+
+- **Citation:** *Bhagavad Gītā* 3.27, Gītā Supersite, Indian Institute of Technology Kanpur.
+- **Source type:** Institutional primary-text interface.
+- **Canonical locator:** 3.27, **अहङ्कारविमूढात्मा कर्ताहमिति मन्यते**.
+- **Digital URL:** https://www.gitasupersite.iitk.ac.in/srimad?choose=1&etradi=1&field_chapter_value=3&field_nsutra_value=27&scsh=1&setgb=1
+- **Archived URL:** https://www.gitasupersite.iitk.ac.in/
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the server terminated the automated download.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact institutional URL retained.
+- **Notes:** Confirms the connection between *ahaṃkāra* and the assertion “I am the doer.”
+
+### `gita-supersite-11-33`
+
+- **Citation:** *Bhagavad Gītā* 11.33, Gītā Supersite, Indian Institute of Technology Kanpur.
+- **Source type:** Institutional primary-text interface.
+- **Canonical locator:** 11.33, **निमित्तमात्रं भव सव्यसाचिन्**.
+- **Digital URL:** https://www.gitasupersite.iitk.ac.in/srimad?choose=1&etradi=1&field_chapter_value=11&field_nsutra_value=33&scsh=1&setgb=1
+- **Archived URL:** https://www.gitasupersite.iitk.ac.in/
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the server terminated the automated download.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact institutional URL retained.
+- **Notes:** Confirms the instruction to become a *nimittamātra*.
+
+### `kothandaraman-contemporary-literary-tamil-1997`
+
+- **Citation:** Pon Kothandaraman, *A Grammar of Contemporary Literary Tamil* (International Institute of Tamil Studies, 1997).
+- **Source type:** Public institutional scan of a descriptive grammar.
+- **Canonical locator:** Printed pp. 233–234, passive constructions with *paṭu*.
+- **Digital URL:** https://tamildigitallibrary.in/assets/docs/uploads/primary_files/book/TVA_BOK_0017940_Contemporary_Literary_Tamil.pdf
+- **Archived URL:** https://tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZt1jZh8
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/ch17-verification/kothandaraman-contemporary-literary-tamil-passive-excerpt.pdf`.
+- **Integrity:** SHA-256 `00f0587fb73f4f2b02ea1b05d116d9f0117e2ed5d2c928fb7e61f08c10abb399`.
+- **Rights/storage:** Narrow verification excerpt retained from the public institutional scan.
+- **Notes:** Confirms Tamil passive formation with *paṭu* and the optional expression of the agent.
+
+### `osada-mundari-experiential-1999`
+
+- **Citation:** Toshiki Osada, “Experiential Constructions in Mundari,” *Gengo Kenkyu* 1999.115 (1999): 51–76.
+- **Source type:** Open-access scholarly article.
+- **Canonical locator:** Printed pp. 53–56 on pronominal subject placement; pp. 59–70 on experiencer constructions; DOI 10.11435/gengo1939.1999.115_51.
+- **Digital URL:** https://www.jstage.jst.go.jp/article/gengo1939/1999/115/1999_115_51/_pdf/-char/en
+- **Archived URL:** https://www.jstage.jst.go.jp/article/gengo1939/1999/115/1999_115_51/_article/-char/en
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/ch17-verification/osada-mundari-experiential-1999.pdf`.
+- **Integrity:** SHA-256 `8127a651758a338cfeb6c762edddd1cb5bd310a86df624680bc30f23a5f6bf4d`.
+- **Rights/storage:** Open-access research PDF retained.
+- **Notes:** Shows that Mundari subject agreement can attach to the verb or a preceding noun phrase and rejects an Indo-Aryan-style dative-subject analysis for Mundari experiential constructions.
+
+### `atharvaveda-shaunakiya-4-10`
+
+- **Citation:** *Atharvaveda Śaunakīya* 4.10, Vedanta Glossary electronic Sanskrit text.
+- **Source type:** Public electronic primary-text display.
+- **Canonical locator:** 4.10.2, **शङ्खेन हत्वा रक्षांसि**.
+- **Digital URL:** https://glossario.vedanta.com.br/en/library/atharvaveda-shaunakiya-kanda-4
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch17-verification/atharvaveda-shaunakiya-kanda-4.html`.
+- **Integrity:** SHA-256 `c243ca905d7ff06eab80618ce97cd168e036242ccbd328e925a551c19855593b`.
+- **Rights/storage:** Public Vedic text page retained for research verification.
+- **Notes:** Confirms the exact *hatvā* line used in Chapter 17.
+
+### `sanskritdocuments-ashtadhyayi-3-4-21`
+
+- **Citation:** Pāṇini, *Aṣṭādhyāyī* 3.4.21, SanskritDocuments *sūtrapāṭha*.
+- **Source type:** Public Sanskrit primary-text transcription.
+- **Canonical locator:** 3.4.21, **समानकर्तृकयोः पूर्वकाले**.
+- **Digital URL:** https://sanskritdocuments.org/doc_z_misc_major_works/aShTAdhyAyI.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch17-verification/ashtadhyayi-sutrapatha.html`.
+- **Integrity:** SHA-256 `3877cf3213ad7fe571cf66c5f25832e1576bfc5d2b51795f3236828a46a006ab`.
+- **Rights/storage:** Public Sanskrit text retained for research verification.
+- **Notes:** Confirms the same-agent and prior-action conditions used in the gerund note.
+
+### `phillips-harrison-munda-reduplication-2017`
+
+- **Citation:** Jacob B. Phillips and K. David Harrison, “Munda Mimetic Reduplication,” *Canadian Journal of Linguistics* 62.2 (2017): 221–242.
+- **Source type:** Peer-reviewed article landing page and abstract.
+- **Canonical locator:** Abstract; DOI 10.1017/cnj.2017.13.
+- **Digital URL:** https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/munda-mimetic-reduplication/09A49302757AE0AAAF933456AD3C9C58
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch17-verification/phillips-harrison-munda-reduplication.html`.
+- **Integrity:** SHA-256 `b6768248344b72fa6af80b67d2c9eedb115ea3c05d0ef54ab9a10878bf83db81`.
+- **Rights/storage:** Bibliographic page and abstract retained; article text not copied.
+- **Notes:** Confirms the seven-language survey, its sensory domains, and the reported lexical proportion.
+
+### `iranica-avestan-phonology`
+
+- **Citation:** Karl Hoffmann, “Avestan Language ii. The Phonology of Avestan,” *Encyclopaedia Iranica* III.1 (1987): 47–62.
+- **Source type:** Authoritative reference article.
+- **Canonical locator:** Consonant sections, especially “Liquids (only r).”
+- **Digital URL:** https://www.iranicaonline.org/articles/avestan-language/avestan-language-ii-the-phonology-of-avestan/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the host returned HTTP 403 to the archive request.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact public reference URL retained.
+- **Notes:** The inventory lacks an Indic-style recurring retroflex stop series; individual lateral or retroflex-like analyses do not alter that narrower claim.
+
+### `ignca-kanva-satapatha`
+
+- **Citation:** *Kāṇvaśatapathabrāhmaṇam*, vol. I, IGNCA digital edition.
+- **Source type:** Government institutional Sanskrit edition.
+- **Canonical locator:** Introduction, p. xvii.
+- **Digital URL:** https://ignca.gov.in/eBooks/KANVASATAPATHABRAHMAAAM_Vol_I.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained in this pass; exact institutional PDF URL recorded.
+- **Integrity:** No local file.
+- **Rights/storage:** Government institutional source; URL retained.
+- **Notes:** Gives the Kāṇva and Mādhyandina section counts and notes the reversal of the first two *kāṇḍas*.
+
+### `vedic-heritage-satapatha`
+
+- **Citation:** Vedic Heritage Portal, Government of India, “Śatapatha Brāhmaṇa.”
+- **Source type:** Government institutional reference page.
+- **Canonical locator:** Mādhyandina overview.
+- **Digital URL:** https://vedicheritage.gov.in/hi/brahmanas/shatapatha-brahmana/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the host did not resolve during the local archive attempt.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact government URL retained.
+- **Notes:** States that the Mādhyandina recension has 14 *kāṇḍas* and 100 *adhyāyas*.
+
+### `max-muller-autobiography-gutenberg`
+
+- **Citation:** F. Max Müller, *My Autobiography: A Fragment* (Longmans, Green, 1901).
+- **Source type:** Public-domain electronic book.
+- **Canonical locator:** Printed pp. 180–182 and 201–203.
+- **Digital URL:** https://www.gutenberg.org/files/30269/30269-h/30269-h.htm
+- **Archived URL:** https://www.gutenberg.org/ebooks/30269
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch18-verification/max-muller-autobiography.html`.
+- **Integrity:** SHA-256 `7e03a60a0414aa5fb3d88fce11789c9139e004d31c0343dde66e98b274195d18`.
+- **Rights/storage:** Public-domain text retained for research verification.
+- **Notes:** Records the proposed six-volume plan, the European manuscript collections, and East India Company support for printing the edition.
+
+### `wellcome-muller-rigveda`
+
+- **Citation:** Wellcome Collection, bibliographic record for Max Müller's *Rig-Veda-Sanhita*.
+- **Source type:** Institutional library catalogue record.
+- **Canonical locator:** Work ID `uuae2chf`.
+- **Digital URL:** https://wellcomecollection.org/works/uuae2chf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch18-verification/wellcome-muller-rigveda.html`.
+- **Integrity:** SHA-256 `3fd63be6adffd830c5e52319d9ae73fa2ec8b9a6058ae2f026aa5b6a13494c5f`.
+- **Rights/storage:** Public catalogue page retained.
+- **Notes:** Confirms the title, East India Company patronage statement, six volumes, and publication range.
+
+### `unesco-ellora`
+
+- **Citation:** UNESCO World Heritage Centre, “Ellora Caves,” dossier 243.
+- **Source type:** Official heritage-site record.
+- **Canonical locator:** “Brief synthesis” and Criterion (i), Cave 16.
+- **Digital URL:** https://whc.unesco.org/en/list/243
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the host returned HTTP 403 to the archive request.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact official URL retained.
+- **Notes:** Identifies Kailāsa as Ellora's largest monolithic temple, an example of structural innovation, and a technological achievement without equal when excavation alone is considered.
+
+### `silva-genetic-chronology-2017`
+
+- **Citation:** Marina Silva et al., “A Genetic Chronology for the Indian Subcontinent Points to Heavily Sex-Biased Dispersals,” *BMC Evolutionary Biology* 17 (2017), article 88.
+- **Source type:** Open-access peer-reviewed article.
+- **Canonical locator:** DOI 10.1186/s12862-017-0936-9; methods, limitations, and sex-bias discussion.
+- **Digital URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC5364613/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch18-verification/silva-genetic-chronology.html`.
+- **Integrity:** SHA-256 `7ca8f3f697cb372ae9898de4b17d922f4d371b431b6ef7ba59c2184cffb82d5a`.
+- **Rights/storage:** Open-access article retained for verification.
+- **Notes:** Supports the modeled male bias and states the methodological assumptions and limitations behind the inference.
+
+### `narasimhan-south-central-asia-2019`
+
+- **Citation:** Vagheesh M. Narasimhan et al., “The Formation of Human Populations in South and Central Asia,” *Science* 365.6457 (2019), eaat7487.
+- **Source type:** Peer-reviewed article in an open full-text repository.
+- **Canonical locator:** DOI 10.1126/science.aat7487; sex-bias analysis and Swat comparison.
+- **Digital URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC6822619/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch18-verification/narasimhan-populations.html`.
+- **Integrity:** SHA-256 `c8222804df21c2f0f4c3a67412aa9cf54fbb8cfaff5b2addc84d1783b65df4`.
+- **Rights/storage:** Repository full text retained for verification.
+- **Notes:** Reports excess Central Steppe-related ancestry on present-day Y chromosomes, a different female-mediated pattern in sampled Swat groups, and variation in sex bias across the subcontinent.
+
+### `basu-india-populations-2016`
+
+- **Citation:** Analabha Basu et al., “Genomic Reconstruction of the History of Extant Populations of India Reveals Five Distinct Ancestral Components and a Complex Structure,” *PNAS* 113.6 (2016): 1594–1599.
+- **Source type:** Open-access peer-reviewed article.
+- **Canonical locator:** DOI 10.1073/pnas.1513197113; discussion phrase “consistent with elite dominance and patriarchy.”
+- **Digital URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC4760789/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch18-verification/basu-populations.html`.
+- **Integrity:** SHA-256 `2acbaf1be651c98fd09570d5b71eecd8f238ecc893d5c330c4f40fa076f9b5ec`.
+- **Rights/storage:** Open-access article retained for verification.
+- **Notes:** Establishes that *elite dominance* is an interpretation used in the genetic literature, not a fact encoded by the chromosome itself.
+
+### `lamberg-karlovsky-oxus-2013`
+
+- **Citation:** C. C. Lamberg-Karlovsky, “The Oxus Civilization,” *Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid* 39 (2013): 21–63.
+- **Source type:** Open-access scholarly article.
+- **Canonical locator:** Printed pp. 57–59.
+- **Digital URL:** https://dialnet.unirioja.es/servlet/articulo?codigo=4531975
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/ch18-verification/lamberg-karlovsky-oxus-2013.pdf`.
+- **Integrity:** SHA-256 `4fbeaacd19e6fd753d625492591f337425c50a794b05634c9994f32be4bbf721`.
+- **Rights/storage:** Open scholarly PDF retained for research verification.
+- **Notes:** Infers centralized authority, corvée labor, irrigation control, and attached laborers while expressly stating that much of the political economy remains uncertain.
+
+### `drennan-hanks-peterson-sintashta-2011`
+
+- **Citation:** Robert D. Drennan, Bryan K. Hanks, and Christian E. Peterson, “The Comparative Study of Chiefly Communities in the Eurasian Steppe Region,” *Social Evolution & History* 10.1 (2011): 149–186.
+- **Source type:** Open-access peer-reviewed article.
+- **Canonical locator:** Printed p. 168.
+- **Digital URL:** https://www.socionauki.ru/journal/files/seh/2011_1/the_comparative_study_of_chiefly_communities.pdf
+- **Archived URL:** https://www.socionauki.ru/journal/articles/133612/
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/ch18-verification/drennan-hanks-peterson-sintashta-2011.pdf`.
+- **Integrity:** SHA-256 `a072b436f24205438f4fb793ecc3aa55b31cbc3a7d2fd2be5038909201052238`.
+- **Rights/storage:** Open scholarly PDF retained for research verification.
+- **Notes:** Estimates the labor required for Sintashta fortifications and occasional burial mounds and characterizes it as greater than the Tripol'ye comparison but not an enormous annual burden.
+
+### `mccrindle-megasthenes-arrian-1877`
+
+- **Citation:** J. W. McCrindle, trans., *Ancient India as Described by Megasthenes and Arrian* (Calcutta: Thacker, Spink, 1877).
+- **Source type:** Public-domain scanned book.
+- **Canonical locator:** Printed pp. 32–33, Arrian's *Indica* 10.
+- **Digital URL:** https://archive.org/details/ancientindiaasd00mccrgoog
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/ch18-verification/mccrindle-megasthenes-arrian-1877.pdf`.
+- **Integrity:** SHA-256 `913c411f836fd8d32f8db0889ad3bb07da7e188e93eedbb774ff099cfdff43a3`.
+- **Rights/storage:** Public-domain scan retained for research verification.
+- **Notes:** Contains Arrian's report that all Indians were free and explicitly contrasts the report with the Helots of Sparta.
+
+### `asi-besnagar-1908-09`
+
+- **Citation:** J. Ph. Vogel, “The Garuḍa Pillar of Besnagar,” *Archaeological Survey of India Annual Report 1908–09* (1912), pp. 126–129.
+- **Source type:** Open-access government archaeological report.
+- **Canonical locator:** Printed pp. 126–129.
+- **Digital URL:** https://ir.nbu.ac.in/handle/123456789/2462
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/ch18-verification/asi-annual-report-1908-09.pdf`.
+- **Integrity:** SHA-256 `c44920ba13aa30a72307a0ea456a86f1622bdc875b52b3adb63927338fdf1988`.
+- **Rights/storage:** Public government report retained for research verification.
+- **Notes:** Records Heliodorus as the Yavana ambassador from Taxila, a *bhāgavata*, and the dedicator of a Garuḍa standard to Vāsudeva.
+
+### `minardi-ancient-chorasmia-2015`
+
+- **Citation:** Michele Minardi, *Ancient Chorasmia: A Polity between the Semi-Nomadic and Sedentary Cultural Areas of Central Asia* (Peeters, 2015).
+- **Source type:** Copyrighted scholarly monograph; library catalogue record.
+- **Canonical locator:** ISBN 978-90-429-3138-1; sections on irrigation and Kalaly-gyr.
+- **Digital URL:** https://kansalliskirjasto.finna.fi/Record/fikka.3014332?lng=en-gb
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Bibliographic record and source locator only.
+- **Notes:** Supports the later Khorezm and Kalaly-gyr examples; these do not establish conditions in the earlier Bactria–Margiana interval.
+
+### `iranica-afrasiab-site`
+
+- **Citation:** Galina Pugachenkova and Edvard Rtveladze, “Afrāsīāb i. The Archeological Site,” *Encyclopaedia Iranica* I.6 (1984): 576–578.
+- **Source type:** Authoritative reference article.
+- **Canonical locator:** Opening archaeological description and first settlement phase.
+- **Digital URL:** https://www.iranicaonline.org/articles/afrasiab-turanian-king/afrasiab-the-ruined-site/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the host rejected automated archive retrieval.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact public reference URL retained.
+- **Notes:** Records the citadel, fortress walls, canal, reservoirs, and the seventh-to-sixth-century BCE city.
+
+### `british-museum-scythian-mounds`
+
+- **Citation:** St John Simpson, “Scythians, Ice Mummies and Burial Mounds,” British Museum, 23 August 2017.
+- **Source type:** Institutional museum article.
+- **Canonical locator:** Arzhan-2 and Pazyryk sections.
+- **Digital URL:** https://www.britishmuseum.org/blog/scythians-ice-mummies-and-burial-mounds
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact institutional URL retained.
+- **Notes:** Documents large burial mounds, timber tomb chambers, sacrificed horses, vehicles, and grave goods at Arzhan and Pazyryk.
+
+### `margulan-institute-issyk-barrow`
+
+- **Citation:** A. H. Margulan Institute of Archaeology, “Issyk, the Barrow,” Archaeology.kz.
+- **Source type:** Institutional archaeological-site record.
+- **Canonical locator:** Description, especially the barrow dimensions, construction, burial structure, and social interpretation.
+- **Digital URL:** https://archaeology.kz/en/heritages/54-esik-obasy
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch18-verification/archaeology-kz-issyk-barrow.html`.
+- **Integrity:** SHA-256 `a7ea3da7354a2e00be8f9fa42df7a4c285dd7b54df2311864a5c025a64d4dfe8`.
+- **Rights/storage:** Public institutional webpage retained for research verification.
+- **Notes:** Records the Issyk barrow as a 60-meter-wide, 6-meter-high layered embankment containing a timber burial structure and identifies it as one of Zhetysu's elite barrows.
+
+### `gita-supersite-1-2`
+
+- **Citation:** *Bhagavad Gītā* 1.2, Gītā Supersite, Indian Institute of Technology Kanpur.
+- **Source type:** Institutional primary-text web presentation.
+- **Canonical locator:** Bhagavad Gītā 1.2.
+- **Digital URL:** https://www.gitasupersite.iitk.ac.in/srimad?ecsiva=1&etgb=1&etsiva=1&etssa=1&field_chapter_value=1&field_nsutra_value=2&language=dv&scsh=1&setgb=1
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the host rejected automated retrieval.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact institutional URL retained.
+- **Notes:** Confirms the text of the verse; the metrical analysis in the endnote counts the fourth pāda directly.
+
+### `mpi-schleicher-tree-1853`
+
+- **Citation:** August Schleicher, “Die ersten Spaltungen des indogermanischen Urvolkes,” *Allgemeine Monatsschrift für Wissenschaft und Literatur* 3 (1853): 786–787.
+- **Source type:** Institutional publication record.
+- **Canonical locator:** Max Planck Institute item 2381174; printed pp. 786–787.
+- **Digital URL:** https://www.mpi.nl/publications/item2381174/die-ersten-spaltungen-des-indogermanischen-urvolkes
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/mpi-schleicher-1853.html`.
+- **Integrity:** SHA-256 `815a3e94ec911a5cdc20b17bdc78fe8f802a40ad1e4a0beaa9b1e33a341a53ca`.
+- **Rights/storage:** Institutional metadata page retained.
+- **Notes:** Establishes that Schleicher printed a language-family tree before the 1860s.
+
+### `saw-schleicher-tree-1861`
+
+- **Citation:** August Schleicher, “Stammbaum der Sprachentwicklung,” manuscript associated with the 1861 *Compendium*.
+- **Source type:** Institutional manuscript and publication record.
+- **Canonical locator:** Saxon Academy virtual archive; *Compendium*, p. 7.
+- **Digital URL:** https://archiv.saw-leipzig.de/saw-archive/publikationen-quellen/quellen/stammbaum-der-sprachentwicklung
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/saw-schleicher-tree.html`.
+- **Integrity:** SHA-256 `658be260ba5c899f38bf90bf0a6af1741d8a114f7cc9519ad955bae87dbd53f4`.
+- **Rights/storage:** Institutional archive page retained.
+- **Notes:** Links the manuscript tree with the simplified tree printed at the opening of Schleicher's comparative grammar.
+
+### `deutsche-biographie-schleicher`
+
+- **Citation:** Gertrud Bense, “Schleicher, August,” *Neue Deutsche Biographie* 23 (2007), 50.
+- **Source type:** Authoritative biographical reference.
+- **Canonical locator:** NDB volume 23, p. 50.
+- **Digital URL:** https://www.deutsche-biographie.de/gnd118759302.html?language=en
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/deutsche-biographie-schleicher.html`.
+- **Integrity:** SHA-256 `8e02706f232f684a759cc8f553fa129057dfe1ad2bd3e0427ee05dd2cdeae975`.
+- **Rights/storage:** Public biographical record retained.
+- **Notes:** Used to correct the earlier claim that Schleicher trained as a botanist.
+
+### `bosworth-toller-hlaford`
+
+- **Citation:** Joseph Bosworth and T. Northcote Toller, *An Anglo-Saxon Dictionary*, s.v. “hláford.”
+- **Source type:** Historical dictionary, digital edition.
+- **Canonical locator:** Headword “hláford.”
+- **Digital URL:** https://bosworthtoller.com/19179
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact public dictionary URL retained.
+- **Notes:** Gives the Old English form and points to *hlāf-weard*.
+
+### `middle-english-dictionary-lord`
+
+- **Citation:** *Middle English Dictionary*, s.v. “lōrd,” University of Michigan.
+- **Source type:** Institutional historical dictionary.
+- **Canonical locator:** MED entry 26078.
+- **Digital URL:** https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED26078
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/med-lord.html`.
+- **Integrity:** SHA-256 `76bdfa280dd0db38b07ca3bd8134d5f93cc11bc14ce4450fdb50da4b262501c8`.
+- **Rights/storage:** Public institutional dictionary page retained.
+- **Notes:** Records overlapping Middle English variants rather than one strict sequence.
+
+### `tolkien-estate-invented-languages`
+
+- **Citation:** Carl F. Hostetter, “Tolkien's Invented Languages,” Tolkien Estate.
+- **Source type:** Estate-authorized scholarly web essay.
+- **Canonical locator:** Sections on Tolkien's language invention, Quenya, and Sindarin.
+- **Digital URL:** https://www.tolkienestate.com/scholarship/carl-hostetter-tolkiens-invented-languages/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/tolkien-invented-languages.html`.
+- **Integrity:** SHA-256 `1fc7992c3599a170b2448775f5f43d2eecc7163cf482a0c3d484705810ea6ddc`.
+- **Rights/storage:** Public research capture retained.
+- **Notes:** Supports the deliberate construction and continuing development of Tolkien's languages.
+
+### `klingon-language-institute-new-words`
+
+- **Citation:** Klingon Language Institute, “New Klingon Words.”
+- **Source type:** Community reference page documenting creator-authorized additions.
+- **Canonical locator:** Complete new-words list and source labels.
+- **Digital URL:** https://www.kli.org/about-klingon/new-klingon-words/all/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/kli-new-words.html`.
+- **Integrity:** SHA-256 `ca9ab2e12560fe3a156a7eabc2d1d3f03e77de39b5a875f08a908923d980b32e`.
+- **Rights/storage:** Public research capture retained.
+- **Notes:** Identifies the source of later lexical additions and their relation to Marc Okrand.
+
+### `dothraki-creator-site`
+
+- **Citation:** David J. Peterson, “About Dothraki.”
+- **Source type:** Language creator's official web page.
+- **Canonical locator:** About page.
+- **Digital URL:** https://dothraki.com/about-dothraki/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/dothraki-about.html`.
+- **Integrity:** SHA-256 `3326bee2196c4e8637ade377cf3991347a886337bc0a52eda9f9559574a21108`.
+- **Rights/storage:** Public research capture retained.
+- **Notes:** Identifies Peterson as creator and describes continuing vocabulary expansion.
+
+### `orwell-newspeak-appendix`
+
+- **Citation:** George Orwell, “The Principles of Newspeak,” appendix to *Nineteen Eighty-Four*.
+- **Source type:** Public web presentation of a literary appendix.
+- **Canonical locator:** “The Principles of Newspeak.”
+- **Digital URL:** https://orwell.ru/library/novels/1984/english/en_app
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/orwell-newspeak.html`.
+- **Integrity:** SHA-256 `5d122b19c8eb5f3d565b110964fab90ee7c171396081c03b8359df534208eb29`.
+- **Rights/storage:** Research capture retained.
+- **Notes:** Supports Newspeak's deliberate reduction of vocabulary and expressive range.
+
+### `iranica-sibawayh-al-kitab`
+
+- **Citation:** “Arabic Language iv. Arabic Literature in Iran,” *Encyclopaedia Iranica*.
+- **Source type:** Authoritative reference article.
+- **Canonical locator:** Opening discussion of Sībawayh and *Al-Kitāb*.
+- **Digital URL:** https://www.iranicaonline.org/articles/arabic-iv/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/iranica-arabic-iv.html`.
+- **Integrity:** SHA-256 `739e6fa144f6c49df548550b65138c8aa5ff3a4d8e5a2cc46f1963c66c243d88`.
+- **Rights/storage:** Public reference page retained.
+- **Notes:** Supports Sībawayh's Persian origin, Basran setting, and the authority of *Al-Kitāb*.
+
+### `carter-sibawayh-principles`
+
+- **Citation:** Michael G. Carter, *Sibawayhi's Principles: Arabic Grammar and Law in Early Islamic Thought* (Lockwood Press, 2016).
+- **Source type:** Scholarly monograph record and preview.
+- **Canonical locator:** JSTOR stable identifier j.ctvvndcz.
+- **Digital URL:** https://www.jstor.org/stable/j.ctvvndcz
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/carter-sibawayh-jstor.html`.
+- **Integrity:** SHA-256 `32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea`.
+- **Rights/storage:** Bibliographic and preview page retained.
+- **Notes:** Presents the argument that Arabic grammatical method developed from Islamic legal thought.
+
+### `cambridge-sibawayh-origins-2022`
+
+- **Citation:** Nicola Reggiani, “The Greek Death of Sībawayhi and the Origins of Arabic Grammar,” *Bulletin of the School of Oriental and African Studies* 85.2 (2022): 173–193.
+- **Source type:** Peer-reviewed article record.
+- **Canonical locator:** DOI 10.1017/S0041977X22000593.
+- **Digital URL:** https://doi.org/10.1017/S0041977X22000593
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/cambridge-sibawayh-origins.html`.
+- **Integrity:** SHA-256 `49f767ddfe703e8d2c7a5b6696a33451897a0fd95d79cce602dcf6e50377a270`.
+- **Rights/storage:** Publisher article page retained.
+- **Notes:** Surveys competing accounts of the origin of Arabic grammar.
+
+### `barmakids-indic-medical-translation`
+
+- **Citation:** “Why Do We Translate? Arabic Sources on Translation,” in *Why Translate Science?*, NCBI Bookshelf.
+- **Source type:** Open scholarly source anthology.
+- **Canonical locator:** Lines 167–171 and notes 83–84 in the reader presentation.
+- **Digital URL:** https://www.ncbi.nlm.nih.gov/books/NBK622612/?report=reader
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/ncbi-arabic-translations.html`.
+- **Integrity:** SHA-256 `5690292247d81c2ffb70ddb30c94e4d2d0ad989541d6dfbeff2a47752657985e`.
+- **Rights/storage:** Open NCBI Bookshelf page retained.
+- **Notes:** Records an Arabic translation of the *Suśruta-Saṃhitā* ordered by Yaḥyā ibn Khālid.
+
+### `oxford-boden-monier-williams`
+
+- **Citation:** University of Oxford, “The Indian Institute, Monier-Williams and Empire.”
+- **Source type:** Institutional history.
+- **Canonical locator:** Sections on the Boden Chair, the 1860 election, and Monier-Williams's dictionary.
+- **Digital URL:** https://oxfordandempire.web.ox.ac.uk/article/indian-institute-monier-williams-and-empire
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/oxford-boden-monier-williams.html`.
+- **Integrity:** SHA-256 `c4c4c38efe98ac2c69de70bc986fbbd123074ce7cc9fdbef63ab75678d4b148b`.
+- **Rights/storage:** Institutional history page retained.
+- **Notes:** Supports the chair's purpose, the contested election, and the dictionary history.
+
+### `minkowski-boden-chair-inaugural`
+
+- **Citation:** Christopher Minkowski, “The Inaugural Lectures of the Boden Professors of Sanskrit.”
+- **Source type:** Open scholarly article.
+- **Canonical locator:** Oxford Research Archive; especially pp. 3–8.
+- **Digital URL:** https://ora.ox.ac.uk/objects/uuid:d01d86f6-e787-4dbc-a222-939b6656c4ee
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/preface-ch3-verification/minkowski-boden-chair-inaugural.pdf`.
+- **Integrity:** SHA-256 `92621890701b974bf2a0d4f239c7489630c9e365b0b5c22285d7a9dddaa73538`.
+- **Rights/storage:** Open repository PDF retained.
+- **Notes:** Reproduces the relevant language from Boden's will and documents the 1860 contest.
+
+### `bopp-conjugationssystem-1816`
+
+- **Citation:** Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt am Main, 1816).
+- **Source type:** Public-domain scanned book.
+- **Canonical locator:** Internet Archive identifier 10711905bsb.
+- **Digital URL:** https://archive.org/details/10711905bsb
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public-domain repository URL retained.
+- **Notes:** Used as the 1816 anchor for Bopp's comparative conjugation study.
+
+### `mueller-rigveda-sacred-books`
+
+- **Citation:** F. Max Müller, ed., *Rig-Veda-Sanhita* (1849–1874); ed., *Sacred Books of the East* (1879–1910); *Lectures on the Science of Language* (1861–1864).
+- **Source type:** Public-domain publication records and scans.
+- **Canonical locator:** Internet Archive collection record for the *Rig-Veda-Sanhita*.
+- **Digital URL:** https://archive.org/details/rig-veda-sanhita
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public-domain repository URL retained.
+- **Notes:** Establishes Müller's editorial and pedagogical role; he was not the Boden Professor.
+
+### `brugmann-grundriss-1886`
+
+- **Citation:** Karl Brugmann and Berthold Delbrück, *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (Strasbourg, 1886 onward).
+- **Source type:** Public-domain scanned book.
+- **Canonical locator:** Internet Archive identifier grundrissderver01delbgoog.
+- **Digital URL:** https://archive.org/details/grundrissderver01delbgoog
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public-domain repository URL retained.
+- **Notes:** Used as the publication anchor for the Neogrammarian synthesis.
+
+### `epg-pathshala-history-sanskrit`
+
+- **Citation:** Government of India e-PG Pathshala, “Languages of South Asia,” Historical and Comparative Linguistics module.
+- **Source type:** Government-supported university teaching PDF.
+- **Canonical locator:** Module M023413, discussion of Old Indo-Aryan and Classical Sanskrit.
+- **Digital URL:** https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000022LS/P001756/M023413/ET/1506322131Lings-P7-M21.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the host rejected direct archive retrieval.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact institutional PDF URL retained.
+- **Notes:** States that Classical Sanskrit was codified and standardized by Pāṇini, documenting the category used in current Indian university teaching.
+
+### `hansard-lords-india-christianity-1858`
+
+- **Citation:** UK Parliament, House of Lords debate, “India—Christianity in India,” 3 May 1858.
+- **Source type:** Official parliamentary record.
+- **Canonical locator:** House of Lords, 3 May 1858.
+- **Digital URL:** https://hansard.parliament.uk/Lords/1858-05-03/debates/9955453a-2d2d-4f0a-84cd-d16d71b77b29/India%E2%80%94ChristianityInIndia
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/hansard-lords-1858.html`.
+- **Integrity:** SHA-256 `73b72eae9cf987175715957df986ca9e53bc87c31e67ef1df0dfa3b81505a395`.
+- **Rights/storage:** Official parliamentary record retained.
+- **Notes:** Contains the commitment to “absolute neutrality in matters of religion” and discussion of conversion.
+
+### `hansard-commons-government-india-1858`
+
+- **Citation:** UK Parliament, House of Commons debate, “Government of India (No. 3) Bill,” 30 July 1858.
+- **Source type:** Official parliamentary record.
+- **Canonical locator:** House of Commons, 30 July 1858.
+- **Digital URL:** https://hansard.parliament.uk/Commons/1858-07-30/debates/129a2166-253f-43d0-930b-05b8072a93b7/GovernmentOfIndia%28No3%29Bill
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/hansard-commons-1858.html`.
+- **Integrity:** SHA-256 `a140bbf75fed0b26b4096a1ff2c20f55d9af21af0281864be4ba2e389dc0445c`.
+- **Rights/storage:** Official parliamentary record retained.
+- **Notes:** Discusses religious non-compulsion and the language of the coming proclamation.
+
+### `victoria-proclamation-1858`
+
+- **Citation:** Queen Victoria's Proclamation transferring government of India to the Crown, Allahabad, 1 November 1858.
+- **Source type:** British Library archival catalogue record.
+- **Canonical locator:** Mss Eur D620; record 032-002273023.
+- **Digital URL:** https://searcharchives.bl.uk/catalog/032-002273023
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact archival catalogue URL retained.
+- **Notes:** Confirms the date, place, and archival copy of the proclamation.
+
+### `haugen-dialect-language-nation-1966`
+
+- **Citation:** Einar Haugen, “Dialect, Language, Nation,” *American Anthropologist* 68.4 (1966): 922–935.
+- **Source type:** Peer-reviewed article record.
+- **Canonical locator:** DOI 10.1525/aa.1966.68.4.02a00040.
+- **Digital URL:** https://doi.org/10.1525/aa.1966.68.4.02a00040
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** DOI and bibliographic record retained.
+- **Notes:** Supplies the standardization sequence of selection, codification, elaboration, and acceptance.
+
+### `ayres-bennett-language-standards-2024`
+
+- **Citation:** Wendy Ayres-Bennett, “Researching Language Standards and Standard Languages: Theories, Models and Methods,” *Transactions of the Philological Society* 122.2 (2024): 496–503.
+- **Source type:** Peer-reviewed review article.
+- **Canonical locator:** DOI 10.1111/1467-968X.12298.
+- **Digital URL:** https://doi.org/10.1111/1467-968X.12298
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** DOI and publisher record retained.
+- **Notes:** Reviews current standardization models and implementation from above.
+
+### `milroy-authority-language-1999`
+
+- **Citation:** James Milroy and Lesley Milroy, *Authority in Language: Investigating Standard English*, 3rd ed. (London: Routledge, 1999).
+- **Source type:** Scholarly monograph catalogue record.
+- **Canonical locator:** WorldCat OCLC 50987367.
+- **Digital URL:** https://search.worldcat.org/title/50987367
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Bibliographic record retained.
+- **Notes:** Supports the distinction between changing speech and standard-language authority.
+
+### `tope-operation-red-lotus-2010`
+
+- **Citation:** Parag Tope, *Tatya Tope's Operation Red Lotus: The Anglo-Indian War of 1857* (New Delhi: Rupa, 2009; catalogued and reviewed in 2010).
+- **Source type:** Author's publication PDF and published-book catalogue record.
+- **Canonical locator:** Introduction, pp. xxviii-xxxii; Chapter 17, pp. 264-266; Conclusion, pp. 308 and 312-314; ISBN 978-81-291-1562-1.
+- **Digital URL:** https://gsl.lbsnaa.gov.in/cgi-bin/koha/opac-detail.pl?biblionumber=83929
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Author's publication PDF at `../../aiWritingStyle/ORL-2020-body.pdf`; catalogue capture at `working/40_reference/sources/archive/web/preface-ch3-verification/orl-catalog.html`.
+- **Integrity:** Publication PDF SHA-256 `a4c626c6455b401bce8e0f0957253c7f7adc6d2e4bdf68ba172b196ae0b584c8`; catalogue capture SHA-256 `cc6275c15d081be0587cc12454ea1e0924920edd77762d52b9289475a1e0fabe`.
+- **Rights/storage:** Author-owned publication PDF remains outside this repository; public library catalogue page retained.
+- **Notes:** The Introduction supplies the triad of freedom and the three corresponding powers. Chapter 17 and the Conclusion supply the argument that resistance in 1857-1858 forced a retreat from overt government-backed Christian conversion while political and economic control continued.
+
+### `uk-parliament-union-1707`
+
+- **Citation:** UK Parliament, “United into One Kingdom.”
+- **Source type:** Official parliamentary history.
+- **Canonical locator:** Act of Union 1707 overview.
+- **Digital URL:** https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/united-into-one-kingdom/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/parliament-union.html`.
+- **Integrity:** SHA-256 `119fcee42a03930175d88382d09f466b004dc99059083ae90e5a8b090b8bd52a`.
+- **Rights/storage:** Official institutional history page retained.
+- **Notes:** Supports the creation of Great Britain and the Westminster Parliament.
+
+### `commons-library-uk-independence`
+
+- **Citation:** House of Commons Library, “The United Kingdom and Independence.”
+- **Source type:** Official parliamentary research briefing.
+- **Canonical locator:** Briefing CBP-10649.
+- **Digital URL:** https://commonslibrary.parliament.uk/research-briefings/cbp-10649/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact official URL retained.
+- **Notes:** Used for the distinct constitutional histories within the United Kingdom.
+
+### `welsh-government-legal-history`
+
+- **Citation:** Welsh Government, consultation material on a separate legal jurisdiction for Wales.
+- **Source type:** Government PDF.
+- **Canonical locator:** Historical discussion of the Statute of Rhuddlan and Laws in Wales Acts.
+- **Digital URL:** https://www.gov.wales/sites/default/files/consultations/2018-01/120326separatelegaljurisdiction.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact government PDF URL retained.
+- **Notes:** Supports the sequence of conquest, administration, and legal incorporation.
+
+### `national-archives-irish-partition`
+
+- **Citation:** The National Archives, “Irish Partition.”
+- **Source type:** Government educational resource.
+- **Canonical locator:** Resource overview and document sequence.
+- **Digital URL:** https://www.nationalarchives.gov.uk/education/resources/irish-partition/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact government URL retained.
+- **Notes:** Supports Ireland's distinct sequence of rule, union, partition, and independence.
+
+### `constituent-assembly-jaipal-singh-1949`
+
+- **Citation:** Constituent Assembly of India Debates, 14 September 1949, speech 9.140.115, Jaipal Singh.
+- **Source type:** Digitized parliamentary debate.
+- **Canonical locator:** Speech 9.140.115.
+- **Digital URL:** https://www.constitutionofindia.net/debates/14-sep-1949/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/constitution-1949.html`.
+- **Integrity:** SHA-256 `70a52ea252d2b07f1adc16a45d8a6560afa180965a3f824367dfdbd15af25d8c`.
+- **Rights/storage:** Public debate page retained.
+- **Notes:** Contains Jaipal Singh's “puritanical fanaticism” and progress arguments.
+
+### `lok-sabha-nehru-raghu-vira-1959`
+
+- **Citation:** Lok Sabha Debates, 4 September 1959, discussion of the Report of the Committee of Parliament on Official Language.
+- **Source type:** Official parliamentary debate and indexed transcript.
+- **Canonical locator:** Printed pp. 435 and 443–444.
+- **Digital URL:** https://eparlib.sansad.in/bitstream/123456789/899679/1/02_VIII_04-09-1959_p73_p103_PII.pdf
+- **Archived URL:** https://nehruarchive.in/documents/in-the-lok-sabha-english-hindi-and-artificiality-4-september-1959-314j2
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/nehru-1959.html`.
+- **Integrity:** SHA-256 `1b40bd3fa8efa248beb733cab0346fc989ad559665878e3ed9632e96148ec198`.
+- **Rights/storage:** Indexed transcript retained; exact official PDF URL recorded.
+- **Notes:** Records Nehru naming Raghu Vira and calling the terminology artificial, unreal, absurd, fantastic, and laughable.
+
+### `raghu-vira-railway-caricature`
+
+- **Citation:** Public accounts of Raghu Vira's railway terminology and the later long-word caricature.
+- **Source type:** Newspaper feature and public commentary.
+- **Canonical locator:** Terms **संयान** and **संकेत**; discussion of falsely attributed long compounds.
+- **Digital URL:** https://www.bhaskar.com/madhurima/news/dr-raghuveer-gave-the-word-sanyan-for-the-train-which-means-a-vehicle-in-which-a-large-number-of-people-travel-together-128309154.html
+- **Archived URL:** https://yash-raj-aishwarya.blogspot.com/2014/07/blog-post_7526.html
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact public URLs retained.
+- **Notes:** These sources support the later caricature, not a claim that the long railway expression was spoken in Parliament.
+
+### `caraka-online-udaka-etymology`
+
+- **Citation:** “Udakavaha Srotas,” *Charaka Samhita Online*.
+- **Source type:** Reviewed digital teaching article on an Ayurvedic term.
+- **Canonical locator:** “Etymology and derivation.”
+- **Digital URL:** https://www.carakasamhitaonline.com/index.php?title=Talk:Udakavaha_Srotas
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/udaka-etymology.html`.
+- **Integrity:** SHA-256 `71af069f5f4624a0f946a9050de7f136d809d99eb9d6df3820382af78a6acd43`.
+- **Rights/storage:** Public research capture retained.
+- **Notes:** Gives “undi kledane” and explains *udaka* as that which wets.
+
+### `amarasudha-apah-etymology`
+
+- **Citation:** Bhānuji Dīkṣita, *Vyākhyāsudhā* (*Rāmāśramī*) on the *Amarakośa*, digital text presented as *Amarasudha*.
+- **Source type:** Traditional grammatical commentary in a searchable digital edition.
+- **Canonical locator:** Headword **आपः**; **आप्नुवन्ति, आप्यन्ते वा**; citation of *Uṇādi-sūtra* 2.58 and ⟪आप्⟫ in the sense of pervasion.
+- **Digital URL:** https://vishvasa.github.io/sanskrit/koshaH/amarakoshaH/amarasudha/?transliteration_target=devanagari
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/amarasudha-water-etymologies.html`.
+- **Integrity:** SHA-256 `d2096c17e1304d22fb26d5dd0a26f3490cfcc9a7eba1134b79d183944ee7de51`.
+- **Rights/storage:** Public traditional-text presentation retained for research verification.
+- **Notes:** Directly derives **आपः (*āpaḥ*)** from ⟪आप्⟫ (*āp*), “to pervade.”
+
+### `sarasvata-vyakarana-payas-etymology`
+
+- **Citation:** *Sārasvata-vyākaraṇa*, third commentary, Shravak Bhimsinh Manek edition (1891), p. 572.
+- **Source type:** Scanned traditional grammar with searchable page text.
+- **Canonical locator:** Page 572, under **वचादेरस्**: **पी पाने। पीयते तत् पयः**.
+- **Digital URL:** https://jainqq.org/explore/010637/572
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/sarasvata-vyakarana-payas-page572.html`.
+- **Integrity:** SHA-256 `252885141c36d871981cd624e809722e502b21d1ed48bd5228f3c286af6edfb1`.
+- **Rights/storage:** Public scan page and searchable text retained for research verification.
+- **Notes:** Directly links **पयस् (*payas*)** with ⟪पी⟫ (*pī*), “to drink.”
+
+### `unadi-salila-etymology`
+
+- **Citation:** *Uṇādi-pāṭha* 1.54 with the *Siddhānta-kaumudī* gloss, digital presentation by Vishvasa.
+- **Source type:** Traditional grammatical text and commentary in a searchable digital edition.
+- **Canonical locator:** 1.54, **सलिकल्य...भूभ्य इलच्**; **सलति गच्छति निम्नमिति सलिलम्**.
+- **Digital URL:** https://vishvasa.github.io/sanskrit/vyAkaraNam/pANinIyam/dhAtu-pratyaya-vidhiH/kRt/uNAdi-pAThaH/?transliteration_target=devanagari
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/preface-ch3-verification/unadi-salila-1-54.html`.
+- **Integrity:** SHA-256 `20b57d4273d175ade9645c4a42c83854d1a34218816f96081da1df007f11cd3b`.
+- **Rights/storage:** Public traditional-text presentation retained for research verification.
+- **Notes:** Derives **सलिल (*salila*)** from ⟪सल्⟫ (*sal*), to move or go, with **इलच् (*ilac*)**.
+
+### `watkins-how-to-kill-a-dragon-1995`
+
+- **Citation:** Calvert Watkins, *How to Kill a Dragon: Aspects of Indo-European Poetics* (Oxford University Press, 1995).
+- **Source type:** Scholarly monograph metadata and limited preview.
+- **Canonical locator:** ISBN 978-0-19-508595-2; Hero-Slays-Serpent formula and Serpent-Slayer chapters.
+- **Digital URL:** https://academic.oup.com/book/47065
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted monograph; bibliographic record and locators only.
+- **Notes:** Supports the reconstructed Indo-European serpent-slayer complex, not an independently recorded ancestral story.
+
+### `sanskritdocuments-dhatupatha-index`
+
+- **Citation:** Pāṇinian *Dhātupāṭha*, searchable index, SanskritDocuments.
+- **Source type:** Digital primary-text index.
+- **Canonical locator:** Entries 6.171 and 7.10, **कृतीँ छेदने** and **कृतीँ वेष्टने**.
+- **Digital URL:** https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha_index_svara.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/dhatupatha-index.html`.
+- **Integrity:** SHA-256 `09a35e7cd31dba5258051a1cfe050e0a8371eced3540de555178a31921091c24`.
+- **Rights/storage:** Public primary-text research capture.
+- **Notes:** Confirms that the cutting and surrounding senses belong to separate homonymous entries.
+
+### `project-path-c-valency-csv`
+
+- **Citation:** *Atomic Sanskrit* Path C valency dataset.
+- **Source type:** Reproducible project dataset.
+- **Canonical locator:** Normalized **kṛt** row: 650 tokens and nineteen prefix labels including null.
+- **Digital URL:** Not applicable.
+- **Archived URL:** Not applicable.
+- **Accessed:** 2026-09-03.
+- **Local record:** `analysis/ganah/data/derived/path_c_valency.csv`.
+- **Integrity:** SHA-256 `85d1e30eaffe9e95789f4e75ed63039dc1cd28b3b71fd71d5f58add89345a3a6`.
+- **Rights/storage:** Project-derived research dataset.
+- **Notes:** Groups homonyms by normalized atom string.
+
+### `project-attestation-index-csv`
+
+- **Citation:** *Atomic Sanskrit* corpus attestation index.
+- **Source type:** Reproducible project dataset.
+- **Canonical locator:** Prefix totals for normalized **kṛt**.
+- **Digital URL:** Not applicable.
+- **Archived URL:** Not applicable.
+- **Accessed:** 2026-09-03.
+- **Local record:** `analysis/ganah/data/derived/attestation_index.csv`.
+- **Integrity:** SHA-256 `848adb8856480c7df550064c7abfee0521dbfa751001b158873a9a43aa5927a9`.
+- **Rights/storage:** Project-derived research dataset.
+- **Notes:** Supplies the eighteen non-null prefix labels used by the Chapter 19 audit.
+
+### `jones-third-anniversary-discourse-1786`
+
+- **Citation:** William Jones, “The Third Anniversary Discourse, on the Hindus,” delivered 1786, published in *Asiatic Researches* 1 (1788).
+- **Source type:** Public-domain historical text.
+- **Canonical locator:** Paragraph comparing Sanskrit, Greek, Latin, Gothic, Celtic, and Old Persian.
+- **Digital URL:** https://sourcebooks.fordham.edu/mod/1786jones-sanskrit.asp
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the passage is also documented under the existing endnote `jones-1786-third-anniversary-discourse`.
+- **Integrity:** No new local file.
+- **Rights/storage:** Public-domain text; exact digital URL retained.
+- **Notes:** Establishes Jones's common-source proposal and the languages he compared.
+
+### `schlegel-language-wisdom-indians-1808`
+
+- **Citation:** Friedrich Schlegel, *Über die Sprache und Weisheit der Indier* (Heidelberg: Mohr und Zimmer, 1808).
+- **Source type:** Public-domain monograph record.
+- **Canonical locator:** 1808 first edition.
+- **Digital URL:** https://archive.org/details/berdiespracheun00schlgoog
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public-domain scan; repository URL retained.
+- **Notes:** Supports Schlegel's early comparative use of Sanskrit; it does not support attributing the term *Indogermanisch* to him.
+
+### `bohtlingk-panini-eight-books-1839`
+
+- **Citation:** Otto von Böhtlingk, *Pâṇini's acht Bücher grammatischer Regeln* (Bonn: König, 1839–1840).
+- **Source type:** Public-domain critical edition record.
+- **Canonical locator:** Two-volume Bonn edition.
+- **Digital URL:** https://archive.org/search?query=title%3A%22Panini%27s+acht+Bucher%22+AND+creator%3ABohtlingk
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public-domain bibliographic search retained.
+- **Notes:** Documents direct nineteenth-century European access to the *Aṣṭādhyāyī*.
+
+### `whitney-sanskrit-grammar-1879`
+
+- **Citation:** William Dwight Whitney, *Sanskrit Grammar* (Leipzig: Breitkopf and Härtel; London: Trübner, 1879; 2nd ed. 1889).
+- **Source type:** Public-domain grammar scan.
+- **Canonical locator:** 1879 first edition and 1889 second edition.
+- **Digital URL:** https://archive.org/details/sanskritgrammar00whit
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/appendix8-verification/whitney-sanskrit-grammar-1879-ocr.txt`.
+- **Integrity:** OCR SHA-256 `80fee9322ac5aefa4b14a5917e18db523e67b8d88b0ae5040be20a3ef0941313`.
+- **Rights/storage:** Public-domain scan OCR retained for research.
+- **Notes:** §314 states the position-dependent Vedic vocative-accent rule; §462a records the Rigvedic masculine vocative **-vas** beside later **-van**; §562 tabulates subjunctive endings. The book also documents the mature nineteenth-century English-language presentation of Sanskrit grammar.
+
+### `ut-reader-bopp-1816`
+
+- **Citation:** University of Texas Linguistics Research Center, “Franz Bopp and the Sanskrit Conjugation System,” Indo-European language and culture reader.
+- **Source type:** University teaching resource.
+- **Canonical locator:** Discussion of Bopp's 1816 *Conjugationssystem* and method.
+- **Digital URL:** https://lrc.la.utexas.edu/books/reader/11-franz-bopp
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/ut-bopp-reader.html`.
+- **Integrity:** SHA-256 `c7a9d5896c8e1955c80150fdb70bd628b698bce6b8b1de6e422f6f75d08020cf`.
+- **Rights/storage:** Public university web capture.
+- **Notes:** Supports Sanskrit verbal morphology as a principal analytical template in Bopp's comparison.
+
+### `pott-etymologische-forschungen-halle`
+
+- **Citation:** August Friedrich Pott, *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen* (1833–1836; expanded 1859–1876), catalogue record at Martin Luther University Halle-Wittenberg.
+- **Source type:** University bibliographic record.
+- **Canonical locator:** First and second editions.
+- **Digital URL:** https://opendata.uni-halle.de/handle/1981185920/34636
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/pott-halle.html`.
+- **Integrity:** SHA-256 `8a32fe11e5927f042d95686216ded9c9098c6e082aaaf67c481209d204eb6a32`.
+- **Rights/storage:** Institutional bibliographic capture.
+- **Notes:** Confirms publication history and comparative language coverage.
+
+### `schleicher-compendium-1874-english`
+
+- **Citation:** August Schleicher, *A Compendium of the Comparative Grammar of the Indo-European, Sanskrit, Greek and Latin Languages*, trans. Herbert Bendall (London: Trübner, 1874).
+- **Source type:** Public-domain book scan.
+- **Canonical locator:** Printed pp. 1, 5, and 8.
+- **Digital URL:** https://commons.wikimedia.org/wiki/File:A_compendium_of_the_comparative_grammar_of_the_Indo-European,_Sanskrit,_Greek_and_Latin_languages_(IA_compendiumofcom01schl).pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/schleicher-compendium-commons.html`.
+- **Integrity:** SHA-256 `7de665098665bd8ca860ca4372cc536201a3b3449e00f8fa491eb9bddbb53872`.
+- **Rights/storage:** Public-domain repository record retained.
+- **Notes:** The quoted common-original-language claim appears on printed p. 5.
+
+### `etymonline-proto-indo-european`
+
+- **Citation:** Online Etymology Dictionary, “Proto-Indo-European.”
+- **Source type:** Digital etymological reference.
+- **Canonical locator:** Headword *Proto-Indo-European*; recorded use by 1905.
+- **Digital URL:** https://www.etymonline.com/word/Proto-Indo-European
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/etymonline-proto-indo-european.html`.
+- **Integrity:** SHA-256 `ec80a38cbfde681fbb41abb100992f4335f303d395fc4e97558a7e0045b16b97`.
+- **Rights/storage:** Public reference-page research capture.
+- **Notes:** Establishes use by 1905, not necessarily the first occurrence.
+
+### `lehmann-pie-phonology-1952`
+
+- **Citation:** Winfred P. Lehmann, *Proto-Indo-European Phonology* (University of Texas Press and Linguistic Society of America, 1952).
+- **Source type:** University-hosted scholarly monograph.
+- **Canonical locator:** Title and passim for the abbreviation *PIE*.
+- **Digital URL:** https://lrc.la.utexas.edu/books/piep/index
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/lehmann-pie-1952.html`.
+- **Integrity:** SHA-256 `f76c34be9af947694f41828c2406dca0a79d236583286be1568a791bfcf78d1a`.
+- **Rights/storage:** Public university-hosted scholarly text capture.
+- **Notes:** Establishes ordinary scholarly use of the full term and abbreviation by 1952.
+
+### `thomason-kaufman-1988`
+
+- **Citation:** Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988).
+- **Source type:** Scholarly monograph.
+- **Canonical locator:** pp. 14 and 74–76.
+- **Digital URL:** https://www.ucpress.edu/books/language-contact-creolization-and-genetic-linguistics/paper
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted monograph; publisher record and page locators retained.
+- **Notes:** Supports structural borrowing and the five-level borrowing scale.
+
+### `ucpress-thomason-kaufman`
+
+- **Citation:** University of California Press, publication record for Thomason and Kaufman, *Language Contact, Creolization, and Genetic Linguistics*.
+- **Source type:** Publisher catalogue record.
+- **Canonical locator:** ISBN 978-0-520-07893-2.
+- **Digital URL:** https://www.ucpress.edu/books/language-contact-creolization-and-genetic-linguistics/paper
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Publisher metadata only.
+- **Notes:** Confirms authorship, title, publisher, and publication record.
+
+### `hemacandra-prakrit-grammar-8-1-187`
+
+- **Citation:** Hemacandra, *Siddha-Hema-Śabdānuśāsana*, Prakrit grammar 8.1.187.
+- **Source type:** Digital primary-text presentation.
+- **Canonical locator:** 8.1.187, **ख घ थ ध भाम्**.
+- **Digital URL:** https://jainqq.org/explore/001885/283
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/hemacandra-prakrit.html`.
+- **Integrity:** SHA-256 `b1fb44420e657f60a066325effbfc83b11de88046777760a50a14204ab37afa7`.
+- **Rights/storage:** Public traditional-text research capture.
+- **Notes:** Supplies the Prakrit sound substitutions used in the radiance worked example.
+
+### `ut-indo-european-lexicon-yuj-bhr`
+
+- **Citation:** University of Texas Linguistics Research Center, Indo-European Lexicon entries *yeu-g-*, *bher-*, and *gen-*.
+- **Source type:** University digital lexicon.
+- **Canonical locator:** Master entries 0785, 0229, and 0566.
+- **Digital URL:** https://lrc.la.utexas.edu/lex/master/0785
+- **Archived URL:** https://lrc.la.utexas.edu/lex/master/0229
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/ut-yuj.html`.
+- **Integrity:** SHA-256 `ac69b5f4ae42baabc01a3f3dc7d1e443b41895113d2b81aa33431fa59da9dad1`.
+- **Rights/storage:** Public university lexicon capture.
+- **Notes:** The third entry is https://lrc.la.utexas.edu/lex/master/0566.
+
+### `ashtadhyayi-rule-1-4-59`
+
+- **Citation:** Pāṇini, *Aṣṭādhyāyī* 1.4.59, **उपसर्गाः क्रियायोगे**.
+- **Source type:** Digital primary-text and commentary interface.
+- **Canonical locator:** 1.4.59.
+- **Digital URL:** https://ashtadhyayi.com/sutraani/1/4/59
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; route URL recorded.
+- **Integrity:** No substantive local capture.
+- **Rights/storage:** Public digital interface.
+- **Notes:** Defines the उपसर्ग (*upasarga*) designation in combination with action.
+
+### `zanchi-multiple-preverbs-2019`
+
+- **Citation:** Chiara Zanchi, *Multiple Preverbs in Ancient Indo-European Languages* (University of Würzburg project and published research, 2019).
+- **Source type:** University research project page and scholarly publication.
+- **Canonical locator:** Project description and Sanskrit/Greek/Latin preverb comparison.
+- **Digital URL:** https://www.phil.uni-wuerzburg.de/en/vgsp/research/projects/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/zanchi-preverbs.html`.
+- **Integrity:** SHA-256 `c343bbb7bc085c8c01f6c5b4198753970e82b21347d4f78747f269bc819807b0`.
+- **Rights/storage:** Public university project-page capture.
+- **Notes:** Supports cross-language comparison of multiple preverbs without determining historical direction.
+
+### `lsj-apo`
+
+- **Citation:** Liddell, Scott, and Jones, *A Greek-English Lexicon*, entry **ἀπό**.
+- **Source type:** Digital classical lexicon.
+- **Canonical locator:** Headword **ἀπό**.
+- **Digital URL:** https://logeion.uchicago.edu/%E1%BC%80%CF%80%CF%8C
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public lexicon interface; exact headword URL retained.
+- **Notes:** Supplies Greek meanings and constructions for comparison with Sanskrit **अप (*apa*)**.
+
+### `lewis-short-ab-abs`
+
+- **Citation:** Charlton T. Lewis and Charles Short, *A Latin Dictionary*, entry **ab/abs**.
+- **Source type:** Digital classical lexicon.
+- **Canonical locator:** Headword **ab**.
+- **Digital URL:** https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n4/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public lexicon interface; exact entry URL retained.
+- **Notes:** Supplies the Latin prefix/preposition for the Sanskrit-Greek-Latin comparison.
+
+### `schleicher-darwin-1863`
+
+- **Citation:** August Schleicher, *Die Darwinsche Theorie und die Sprachwissenschaft* (Weimar: Hermann Böhlau, 1863).
+- **Source type:** Public-domain monograph record.
+- **Canonical locator:** 1863 first edition.
+- **Digital URL:** https://archive.org/details/diedarwinscheth00schlgoog
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public-domain scan; repository URL retained.
+- **Notes:** Documents Schleicher's explicit biological-organic framing of language.
+
+### `ahd-indo-european-roots`
+
+- **Citation:** *The American Heritage Dictionary*, Appendix of Indo-European Roots.
+- **Source type:** Digital etymological reference.
+- **Canonical locator:** Root entries for the families used in Chapters 19 and the appendix.
+- **Digital URL:** https://www.ahdictionary.com/word/indoeurop.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/ahd-ie-roots.html`.
+- **Integrity:** SHA-256 `585cf6a3c6c452afc52b5e8539a7eef88cdcb8be0b95d07492af24bdaac0221a`.
+- **Rights/storage:** Public reference-page research capture.
+- **Notes:** Records the Western reconstructed families examined by the book; it does not establish the book's direction-of-radiance conclusion.
+
+### `de-vaan-latin-etymological-dictionary`
+
+- **Citation:** Michiel de Vaan, *Etymological Dictionary of Latin and the Other Italic Languages* (Brill, 2008).
+- **Source type:** Scholarly etymological dictionary.
+- **Canonical locator:** Latin **deus**, **dīvus**, and related entries.
+- **Digital URL:** https://brill.com/display/title/12612
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted reference work; publisher record and entry locators retained.
+- **Notes:** Supplies the standard Latin etymological comparison used by the note.
+
+### `dayananda-rigvedadi-bhashya-bhumika`
+
+- **Citation:** Dayānanda Sarasvatī, *Ṛgvedādi-bhāṣya-bhūmikā*; digital edition presented by the Arya Samaj eLibrary.
+- **Source type:** Digital edition and publication record.
+- **Canonical locator:** Work-level source for Dayānanda's principles of Vedic interpretation.
+- **Digital URL:** https://elibrary.thearyasamaj.org/book/rigvedadibhashyabhumika
+- **Archived URL:** https://vedicscriptures.in/public/pdf/rigvedadibhashyabhumika-swami-dayanand-sarswati-english.pdf
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact digital-edition URLs retained.
+- **Notes:** Supports the modern Vedic-interpretive role attributed to Dayānanda.
+
+### `kapali-sastry-lights-veda`
+
+- **Citation:** T. V. Kapali Sastry, *Lights on the Veda*.
+- **Source type:** Modern Vedic commentary and publication record.
+- **Canonical locator:** Work-level source.
+- **Digital URL:** https://archive.org/search?query=title%3A%22Lights+on+the+Veda%22+AND+creator%3A%22Kapali+Sastry%22
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Bibliographic record only.
+- **Notes:** Supports Kapali Sastry's continuation of symbolic Vedic interpretation.
+
+### `ojha-vedic-works-catalogue`
+
+- **Citation:** Shri Shankar Shikshayatan, “Pandit Madhusudan Ojha” and catalogue of his works.
+- **Source type:** Institutional author and works catalogue.
+- **Canonical locator:** Entries for *Brahma Vidyā Rahasyam*, *Vyākaraṇavinoda*, and the wider Vedic corpus.
+- **Digital URL:** https://shankarshikshayatan.org/pandit-madhusudan-ojha/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public institutional catalogue URL retained.
+- **Notes:** The page reports approximately 125 works and catalogues the works available through the institution.
+
+### `kak-astronomical-code-rigveda`
+
+- **Citation:** Subhash Kak, *The Astronomical Code of the Ṛgveda* (New Delhi: Munshiram Manoharlal, 2000).
+- **Source type:** Scholarly monograph catalogue and digital copy.
+- **Canonical locator:** ISBN 978-81-215-0986-2; Open Library OL6871440M.
+- **Digital URL:** https://openlibrary.org/books/OL6871440M/The_astronomical_code_of_the_R%CC%A5gveda
+- **Archived URL:** https://ignca.gov.in/Asi_data/82292.pdf
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Bibliographic record and institutional PDF URL retained.
+- **Notes:** Supports the modern structural and astronomical reading attributed to Kak.
+
+### `kapoor-text-interpretation`
+
+- **Citation:** Kapil Kapoor, *Text and Interpretation: The Indian Tradition* (D.K. Printworld, 2005).
+- **Source type:** Scholarly monograph publisher record.
+- **Canonical locator:** ISBN 978-81-246-0337-6.
+- **Digital URL:** https://www.motilalbanarsidass.com/products/text-and-interpretation-the-indian-tradition
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Publisher metadata only.
+- **Notes:** Supports the account of interpretation through Indian textual disciplines.
+
+### `malhotra-battle-sanskrit`
+
+- **Citation:** Rajiv Malhotra, *The Battle for Sanskrit* (HarperCollins India, 2016/2017).
+- **Source type:** Author and publisher record.
+- **Canonical locator:** ISBN 978-93-5264-181-9.
+- **Digital URL:** https://rajivmalhotra.com/product/battle-for-sanskrit/
+- **Archived URL:** https://battleforsanskrit.com/author/
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public author and book-page metadata.
+- **Notes:** Supports the public institutional dispute over Sanskrit interpretation.
+
+### `ipa-historical-charts`
+
+- **Citation:** International Phonetic Association, “IPA historical charts.”
+- **Source type:** Official institutional archive.
+- **Canonical locator:** Entries for 1888, 1894, and 1900.
+- **Digital URL:** https://www.internationalphoneticassociation.org/IPAcharts/IPA_hist/IPA_hist_2018.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch20-verification/ipa-historical-charts-full.html`.
+- **Integrity:** SHA-256 `18e20c62a090ae49cd9b8a3791440d6aa03dadbf3a0e8e103737547fba1cc56d`.
+- **Rights/storage:** Official historical-chart page retained.
+- **Notes:** Classifies the 1894 items as French and German phoneme charts and the 1900 item as the first full IPA chart.
+
+### `ipa-chart-projects`
+
+- **Citation:** International Phonetic Association, “The IPA Chart projects.”
+- **Source type:** Official institutional history.
+- **Canonical locator:** Founding in 1886 and early alphabet history.
+- **Digital URL:** https://www.internationalphoneticassociation.org/content/ipa-chart-projects
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch20-verification/ipa-chart-projects.html`.
+- **Integrity:** SHA-256 `5b2364832a277d639960707ecd9ede12470940cfa81aa15f8c890c02cdf05692`.
+- **Rights/storage:** Official institutional page retained.
+- **Notes:** Supplies the Association's founding and chart-history context.
+
+### `elsevier-discovery-sanskrit-europeans`
+
+- **Citation:** Rosane Rocher, “Discovery of Sanskrit by Europeans,” in *Concise History of the Language Sciences* (Elsevier, 1995), pp. 188–191.
+- **Source type:** Scholarly reference chapter and publisher abstract.
+- **Canonical locator:** DOI 10.1016/B978-0-08-042580-1.50036-2.
+- **Digital URL:** https://www.sciencedirect.com/science/article/abs/pii/B9780080425801500362
+- **Archived URL:** https://doi.org/10.1016/B978-0-08-042580-1.50036-2
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted chapter; abstract, DOI, and page range retained.
+- **Notes:** Directly identifies roots, suffixes, substitutions, and articulatory processes learned from Indian grammarians.
+
+### `oxford-indian-grammatical-tradition`
+
+- **Citation:** Oxford Bibliographies, “Indian Grammatical Tradition.”
+- **Source type:** Scholarly bibliographic survey.
+- **Canonical locator:** Topic article, Indian grammatical tradition.
+- **Digital URL:** https://www.oxfordbibliographies.com/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Subscription reference metadata only.
+- **Notes:** Used as a bibliographic gateway; Robins, Morpurgo Davies, Scharfe, and Cardona carry the historical claim in the endnote.
+
+### `tamil-university-agastya-tamil-tradition`
+
+- **Citation:** S. V. Shanmugam, “Agastya in Tamil Grammatical Tradition,” Tamil University.
+- **Source type:** University research paper.
+- **Canonical locator:** Discussion of the *Tolkāppiyam*, Panamparanar's preface, and later commentators.
+- **Digital URL:** https://www.tamiluniversity.ac.in/english/wp-content/uploads/2018/08/paper_01-PDF.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/ch20-verification/tamil-university-agastya.pdf`.
+- **Integrity:** SHA-256 `247e86e31d14722b4fe2fc676395c2704615a1827060d252c25b5517816a9f7a`.
+- **Rights/storage:** Institutional research PDF retained.
+- **Notes:** Shows that the Agastya grammar account belongs to later Tamil commentary rather than the *Tolkāppiyam* or its earliest preface.
+
+### `epigraphia-indica-17-velvikkudi`
+
+- **Citation:** H. Krishna Sastri, “The Velvikudi Grant of Nedunjadaiyan,” *Epigraphia Indica* 17 (1923–24): 291–309.
+- **Source type:** Archaeological Survey of India epigraphic publication.
+- **Canonical locator:** Vol. 17, pp. 291–309.
+- **Digital URL:** https://ignca.gov.in/epigraphia-indica/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public institutional series index retained.
+- **Notes:** Supports the later Pandya royal memory of Agastya.
+
+### `mahabharata-vana-agastya`
+
+- **Citation:** *Mahābhārata*, Vana Parva, Agastya cycle.
+- **Source type:** Digital primary text.
+- **Canonical locator:** Vana Parva, tīrthayātrā and Agastya narratives.
+- **Digital URL:** https://ambuda.org/texts/mahabharatam/3/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the repository URL and textual locator are recorded.
+- **Integrity:** No local file.
+- **Rights/storage:** Public primary-text interface.
+- **Notes:** Supports Agastya's southern movement in the received narrative tradition.
+
+### `iranica-earliest-iranian-evidence`
+
+- **Citation:** Prods Oktor Skjærvø, “Iran vi. Iranian Languages and Scripts (1): Earliest Evidence,” *Encyclopaedia Iranica*.
+- **Source type:** Scholarly reference article.
+- **Canonical locator:** Vol. XIII.4, pp. 345–348.
+- **Digital URL:** https://www.iranicaonline.org/articles/iran-vi1-earliest-evidence/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated capture was rejected.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact scholarly reference URL retained.
+- **Notes:** Gives the treaty deities and Kikkuli's **aika-vartana**.
+
+### `thieme-mitanni-treaty-deities-1960`
+
+- **Citation:** Paul Thieme, “The ‘Aryan’ Gods of the Mitanni Treaties,” *Journal of the American Oriental Society* 80.4 (1960): 301–317.
+- **Source type:** Peer-reviewed article.
+- **Canonical locator:** DOI 10.2307/595878.
+- **Digital URL:** https://www.jstor.org/stable/595878
+- **Archived URL:** https://doi.org/10.2307/595878
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted article; DOI and page range retained.
+- **Notes:** Standard treatment of the treaty-deity identifications.
+
+### `mayrhofer-mitanni-names`
+
+- **Citation:** Manfred Mayrhofer, *Die Indo-Arier im alten Vorderasien* (Wiesbaden: Harrassowitz, 1966).
+- **Source type:** Scholarly monograph and analytical bibliography.
+- **Canonical locator:** Work-level source for Mitanni and Near Eastern Indo-Aryan names.
+- **Digital URL:** https://search.worldcat.org/search?q=%22Die+Indo-Arier+im+alten+Vorderasien%22
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Bibliographic metadata only.
+- **Notes:** Supports the conventional onomastic analyses; the analyses are not direct self-glosses by the name bearers.
+
+### `iranica-artassumara`
+
+- **Citation:** *Encyclopaedia Iranica*, “Artaššumara.”
+- **Source type:** Scholarly reference article.
+- **Canonical locator:** Mitanni royal name entry.
+- **Digital URL:** https://www.iranicaonline.org/articles/artassumara-ar-ta-as-su-ma-ra-a-mitannian-king-son-of-king-suttarna-ii-brother-of-tusratta-he-was-murdered-after-his-f/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated capture was rejected.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact scholarly reference URL retained.
+- **Notes:** Supports Artashumara's royal status and conventional Indo-Aryan etymology.
+
+### `oracc-mitanni-royal-names`
+
+- **Citation:** Open Richly Annotated Cuneiform Corpus, *The Correspondence of the Kings of Mari*, Mitanni people and royal names.
+- **Source type:** University cuneiform database.
+- **Canonical locator:** Entries Tušratta, Artaššumara, Šuttarna, and related names.
+- **Digital URL:** https://oracc.museum.upenn.edu/tcma/brak/qpn-x-people
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public university database URL retained.
+- **Notes:** Used to distinguish royal names from personal names in the wider documentary field.
+
+### `ut-old-persian-behistun`
+
+- **Citation:** University of Texas Linguistics Research Center, “Old Persian: excerpts from the Behistun inscription,” lessons 7–8.
+- **Source type:** University primary-text teaching edition.
+- **Canonical locator:** Behistun DB IV and DB I excerpts.
+- **Digital URL:** https://lrc.la.utexas.edu/eieol/aveol/70
+- **Archived URL:** https://lrc.la.utexas.edu/eieol/aveol/80
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch20-verification/ut-old-persian-70.html`; `working/40_reference/sources/archive/web/ch20-verification/ut-old-persian-80.html`.
+- **Integrity:** SHA-256 `20be88f9f8964755fa290d03cee1367b46eabed2290f6693e10759b18a05bd0d` and `3fa719a266b089f3eb1c29a35e9920f5d60cff0a94a5a3a3e4ab6623c60c6b3f`.
+- **Rights/storage:** Public university teaching-text captures.
+- **Notes:** Supplies the Old Persian forms compared directly with Sanskrit in Chapter 20.
+
+### `iranica-bisotun-inscription`
+
+- **Citation:** Rüdiger Schmitt, “Bīsotūn iii: Darius's Inscriptions,” *Encyclopaedia Iranica*.
+- **Source type:** Scholarly reference article.
+- **Canonical locator:** Old Persian inscription DB.
+- **Digital URL:** https://www.iranicaonline.org/articles/bisotun-iii/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated capture was rejected.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact reference URL retained.
+- **Notes:** Provides the inscription's textual and historical context.
+
+### `oxford-behistun-relief`
+
+- **Citation:** University of Oxford, “The Behistun Relief and Inscription.”
+- **Source type:** University object and historical record.
+- **Canonical locator:** Behistun monument and trilingual inscription.
+- **Digital URL:** https://www.cabinet.ox.ac.uk/behistun-relief-and-inscription
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated capture was rejected.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact university URL retained.
+- **Notes:** Supports the monument-level description rather than the word-by-word comparison.
+
+### `oxford-dionysius-thrax`
+
+- **Citation:** P. B. R. Forbes, Robert Browning, and Nigel Wilson, “Dionysius Thrax,” *Oxford Classical Dictionary*.
+- **Source type:** Scholarly reference article.
+- **Canonical locator:** DOI 10.1093/acrefore/9780199381135.013.2224.
+- **Digital URL:** https://academic.oup.com/edited-volume/61673/chapter-abstract/548753717
+- **Archived URL:** https://doi.org/10.1093/acrefore/9780199381135.013.2224
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted reference; DOI and abstract retained.
+- **Notes:** Confirms the handbook's contents, influence, absence of syntax, and authorship dispute.
+
+### `uhlig-techne-grammatike-1883`
+
+- **Citation:** Gustav Uhlig, ed., *Dionysii Thracis Ars Grammatica*, *Grammatici Graeci* 1.1 (Leipzig: Teubner, 1883).
+- **Source type:** Public-domain critical edition.
+- **Canonical locator:** *Technē Grammatikē* text.
+- **Digital URL:** https://archive.org/search?query=title%3A%22Dionysii+Thracis+Ars+Grammatica%22
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public-domain bibliographic search retained.
+- **Notes:** Primary critical-edition anchor for the received text.
+
+### `law-sluiter-dionysius-techne-1995`
+
+- **Citation:** Vivien Law and Ineke Sluiter, eds., *Dionysius Thrax and the Technē Grammatikē* (Münster: Nodus, 1995).
+- **Source type:** Scholarly edited volume.
+- **Canonical locator:** Work-level source on authorship and reception.
+- **Digital URL:** https://search.worldcat.org/search?q=%22Dionysius+Thrax+and+the+Techne+Grammatike%22
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Bibliographic metadata only.
+- **Notes:** Supports the modern debate over the composition and authorship of the received handbook.
+
+### `cambridge-donatus-priscian-medieval-grammar`
+
+- **Citation:** Vivien Law, *The History of Linguistics in Europe: From Plato to 1600* (Cambridge University Press, 2003).
+- **Source type:** Scholarly monograph.
+- **Canonical locator:** Chapters on Donatus, Priscian, and medieval grammar.
+- **Digital URL:** https://www.cambridge.org/core/books/history-of-linguistics-in-europe/5D98CE12B8358FE30EB34BA0C08BC529
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted monograph; publisher record retained.
+- **Notes:** Supports the Greek-to-Latin and Latin-to-medieval-European grammatical sequence.
+
+### `cambridge-before-modistae`
+
+- **Citation:** Michael A. Covington, “Before the Modistae,” in *Syntactic Theory in the High Middle Ages* (Cambridge University Press), pp. 4–21.
+- **Source type:** Scholarly book chapter.
+- **Canonical locator:** Chapter 2, pp. 4–21.
+- **Digital URL:** https://www.cambridge.org/core/books/syntactic-theory-in-the-high-middle-ages/before-the-modistae/A5641E4A31B552A8F4721F4C7E2CFADF
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch20-verification/cambridge-before-modistae.html`.
+- **Integrity:** SHA-256 `6e05c47815b7e9e6c64eef434c08e00c07e74e3e906d3240e9acbc888bff6713`.
+- **Rights/storage:** Publisher abstract-page capture.
+- **Notes:** Confirms Priscian's eighteen-book structure and the role of Books 17–18 in syntax.
+
+### `british-library-priscian-institutiones`
+
+- **Citation:** British Library, Harley MS 2775 and Burney MS 235, Priscian's *Institutiones grammaticae*.
+- **Source type:** Institutional manuscript catalogue records.
+- **Canonical locator:** Harley MS 2775; Burney MS 235.
+- **Digital URL:** https://searcharchives.bl.uk/catalog/040-002048606
+- **Archived URL:** https://searcharchives.bl.uk/catalog/040-002237116
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public institutional catalogue URLs retained.
+- **Notes:** Confirms the work's eighteen books and the division of Books 17–18 as *Priscianus minor* or *De constructione*.
+
+### `vollmann-tibetan-grammaticography-2008`
+
+- **Citation:** Ralf Vollmann, “Tibetan Indigenous Grammaticography” (2008).
+- **Source type:** Scholarly article.
+- **Canonical locator:** pp. 3–6 and 74–75.
+- **Digital URL:** https://static.uni-graz.at/fileadmin/_Persoenliche_Webseite/vollmann_ralf/Publikationen/TE50_vollmann_2008_descr_tib_erg.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/ch20-verification/vollmann-tibetan-grammaticography.pdf`.
+- **Integrity:** SHA-256 `2bdc34b0eac8d6c575a7f9286ba259f6909a6876eaa3d073eb47988d9cb4cbb8`.
+- **Rights/storage:** University-hosted scholarly PDF retained.
+- **Notes:** Presents the traditional Thonmi account and the modern historiographical caution.
+
+### `miller-tibetan-grammatical-tradition-1976`
+
+- **Citation:** Roy Andrew Miller, *Studies in the Grammatical Tradition in Tibet* (John Benjamins, 1976).
+- **Source type:** Scholarly monograph.
+- **Canonical locator:** DOI 10.1075/sihols.6; chapters 1 and 6.
+- **Digital URL:** https://www.benjamins.com/catalog/sihols.6
+- **Archived URL:** https://doi.org/10.1075/sihols.6
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted monograph; publisher record and DOI retained.
+- **Notes:** Studies the two grammatical treatises attributed to Thonmi and the later Tibetan tradition.
+
+### `namami-buddhist-literary-heritage`
+
+- **Citation:** Ratna Basu, ed., *Buddhist Literary Heritage in India: Text and Context* (National Mission for Manuscripts, 2007).
+- **Source type:** Government of India publication.
+- **Canonical locator:** Discussion of Thonmi Sambhoṭa and Tibetan script.
+- **Digital URL:** https://www.namami.gov.in/sites/default/files/book_pdf/Buddhist-Literary-Heritage.pdf
+- **Archived URL:** https://namami.gov.in/books/samikshika
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Official publication URL retained.
+- **Notes:** Records the traditional Indian-study and script account.
+
+### `shi-buddhist-sanskrit-chinese-2015`
+
+- **Citation:** Scholarly treatment of Sanskrit and Buddhist translation in China, *Oxford Handbook* chapter.
+- **Source type:** Scholarly handbook chapter.
+- **Canonical locator:** DOI 10.1093/oxfordhb/9780199856336.013.0069.
+- **Digital URL:** https://doi.org/10.1093/oxfordhb/9780199856336.013.0069
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted chapter; DOI retained.
+- **Notes:** Supports the Sanskrit-to-Chinese Buddhist translation route.
+
+### `duanmu-kubozono-japanese-phonology`
+
+- **Citation:** San Duanmu and Haruo Kubozono, eds., research on East Asian and Japanese phonology in the *Current Issues in Linguistic Theory* series.
+- **Source type:** Scholarly edited volume record.
+- **Canonical locator:** John Benjamins CILT 271.
+- **Digital URL:** https://benjamins.com/catalog/cilt.271
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Publisher metadata only.
+- **Notes:** Background source for Japanese phonological organization; the University of Tokyo page carries the direct Sanskrit-order claim.
+
+### `university-tokyo-gojuon-sanskrit`
+
+- **Citation:** University of Tokyo, “Why is the Japanese syllabary ordered *a i u e o / a ka sa ta na*?” interview with Shūji Hizume.
+- **Source type:** University expert interview.
+- **Canonical locator:** Explanation of the *gojūon* order from the Sanskrit letter table.
+- **Digital URL:** https://www.u-tokyo.ac.jp/focus/en/features/z1304_00232.html
+- **Archived URL:** https://www.u-tokyo.ac.jp/focus/ja/features/z1304_00195.html
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public university page; English and Japanese URLs retained.
+- **Notes:** Directly states that the row and column order follows the Indian/Sanskrit letter table.
+
+### `dila-mahavyutpatti`
+
+- **Citation:** Dharma Drum Institute of Liberal Arts, *Mahāvyutpatti* digital glossary.
+- **Source type:** Institutional Buddhist lexicon database.
+- **Canonical locator:** Sanskrit–Tibetan entries in the *Mahāvyutpatti*.
+- **Digital URL:** https://glossaries.dila.edu.tw/glossaries/MVP?locale=en
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/ch19-verification/dila-mahavyutpatti.html`.
+- **Integrity:** SHA-256 `117b6f3da15d49d599802f893794132211a048af48b36bb72749901f4d860410`.
+- **Rights/storage:** Public institutional database-page capture.
+- **Notes:** Documents the organized Sanskrit–Tibetan translation vocabulary.
+
+### `bronkhorst-sanskrit-southeast-asia`
+
+- **Citation:** Johannes Bronkhorst, study of the spread of Sanskrit in Southeast Asia.
+- **Source type:** Peer-reviewed article and book chapter record.
+- **Canonical locator:** DOI 10.1017/S0041977X00062169.
+- **Digital URL:** https://doi.org/10.1017/S0041977X00062169
+- **Archived URL:** https://www.cambridge.org/core/books/abs/early-interactions-between-south-and-southeast-asia/spread-of-sanskrit-in-southeast-asia/1BD7B8481D9B9AF7D1661A8D51C9EF49
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted scholarship; DOI and publisher record retained.
+- **Notes:** Supports the historical spread of Sanskrit in Southeast Asia.
+
+### `unesco-ayutthaya`
+
+- **Citation:** UNESCO World Heritage Centre, “Historic City of Ayutthaya.”
+- **Source type:** Official heritage-site record.
+- **Canonical locator:** World Heritage List 576.
+- **Digital URL:** https://whc.unesco.org/en/list/576
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated capture was not preserved.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact UNESCO URL retained.
+- **Notes:** Supports the Sanskrit-derived royal name and historical setting.
+
+### `vidro-kasher-hebrew-arabic-grammar-2014`
+
+- **Citation:** Nadia Vidro and Almog Kasher, “How Medieval Jews Studied Classical Arabic Grammar: A Kūfan Primer from the Cairo Genizah,” *Jerusalem Studies in Arabic and Islam* 41 (2014): 173–217.
+- **Source type:** Peer-reviewed article.
+- **Canonical locator:** pp. 173–174.
+- **Digital URL:** https://discovery.ucl.ac.uk/1470768/1/Vidro_Kasher_JSAI_41.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/ch20-verification/vidro-kasher-hebrew-arabic-grammar.pdf`.
+- **Integrity:** SHA-256 `70979a5b43c9e7ce9eb0d7c76bfcbd0ae84e07dcaf351c0e334a54298a97ee32`.
+- **Rights/storage:** Institutional-repository PDF retained.
+- **Notes:** Directly documents borrowing of concepts, terminology, and passages from Arabic grammar.
+
+### `maman-comparative-semitic-philology`
+
+- **Citation:** Aaron Maman, *Comparative Semitic Philology in the Middle Ages* (Brill, 2004).
+- **Source type:** Scholarly monograph.
+- **Canonical locator:** ISBN 978-90-04-13620-5.
+- **Digital URL:** https://brill.com/search?q=%22Comparative+Semitic+Philology+in+the+Middle+Ages%22
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Publisher metadata only.
+- **Notes:** Supports the Arabic–Hebrew comparative and grammatical context.
+
+### `brill-encyclopedia-hebrew-language`
+
+- **Citation:** Geoffrey Khan, ed., *Encyclopedia of Hebrew Language and Linguistics* (Brill, 2013).
+- **Source type:** Scholarly reference work.
+- **Canonical locator:** Entries for the named medieval Hebrew grammarians.
+- **Digital URL:** https://referenceworks.brill.com/display/db/ehll
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Subscription reference metadata only.
+- **Notes:** Supplies biographical and work-level reference anchors.
+
+### `council-europe-romani-india-europe`
+
+- **Citation:** Council of Europe, “From India to Europe,” Factsheets on Romani History.
+- **Source type:** Intergovernmental historical factsheet.
+- **Canonical locator:** Indian origin and Persian, Armenian, and Greek contact layers.
+- **Digital URL:** https://rm.coe.int/from-india-to-europe-factsheets-on-romani-history/16808b18ed
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated PDF retrieval was rejected.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact Council of Europe URL retained.
+- **Notes:** Supports Indo-Aryan classification and the westward route reconstructed from linguistic evidence.
+
+### `council-europe-romani-general-history`
+
+- **Citation:** Council of Europe, “General Introduction,” Factsheets on Romani History.
+- **Source type:** Intergovernmental historical factsheet.
+- **Canonical locator:** General history and evidentiary basis for Indian origin.
+- **Digital URL:** https://rm.coe.int/factsheets-on-romani-history-general-introduction/16808b18e9
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated PDF retrieval was rejected.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact Council of Europe URL retained.
+- **Notes:** Explains that linguistic evidence is central to reconstructing the early route.
+
+### `matras-romani-linguistic-introduction`
+
+- **Citation:** Yaron Matras, *Romani: A Linguistic Introduction* (Cambridge University Press, 2002).
+- **Source type:** Scholarly monograph.
+- **Canonical locator:** ISBN 978-0-521-63165-3.
+- **Digital URL:** https://www.cambridge.org/core/books/romani/A8691DE7095181498621EF509C9D7BC5
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted monograph; publisher metadata retained.
+- **Notes:** Supports inherited grammar, core vocabulary, dialect differentiation, and contact layers.
+
+### `silverman-romani-routes`
+
+- **Citation:** Carol Silverman, *Romani Routes: Cultural Politics and Balkan Music in Diaspora* (Oxford University Press, 2012).
+- **Source type:** Scholarly monograph.
+- **Canonical locator:** ISBN 978-0-19-530094-9.
+- **Digital URL:** https://academic.oup.com/book/8755
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted monograph; publisher record retained.
+- **Notes:** Supports the regional, participatory account of Romani musical influence.
+
+### `mahabharata-adi-1-17-5-8`
+
+- **Citation:** *Mahābhārata*, BORI critical edition, Ādi Parva 1.17.5–8.
+- **Source type:** Digital primary-text presentation.
+- **Canonical locator:** Ādi Parva 1.17.5–8, especially 1.17.8.
+- **Digital URL:** https://vedapath.app/hi/mahabharata-bori/adi-parva/17/8
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated retrieval failed.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact primary-text URL retained.
+- **Notes:** Names Rāhu, describes the severing, and states that the head continues to seize the Sun and Moon.
+
+### `coelho-goa-official-language`
+
+- **Citation:** J. P. Coelho, “Official language, state and civil society: Issues concerning the implementation of the ‘Official Language Act’ in Goa,” *Social Science Gazetteer* 9.1–2 (2014/2016): 37–58.
+- **Source type:** Scholarly article and university repository record.
+- **Canonical locator:** pp. 37–58; Goa University repository item 737.
+- **Digital URL:** https://irgu.unigoa.ac.in/drs/handle/unigoa/737
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** University repository metadata retained.
+- **Notes:** Supports the role of the Konkani/Marathi classification dispute in Goa's merger and official-language politics.
+
+### `goa-official-language-act-1987`
+
+- **Citation:** *The Goa, Daman and Diu Official Language Act, 1987*, Act No. 5 of 1987.
+- **Source type:** Official statutory text.
+- **Canonical locator:** Sections 3–4.
+- **Digital URL:** https://www.indiacode.nic.in/bitstream/123456789/6809/1/official_language_act.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; exact India Code PDF URL retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Official public statute.
+- **Notes:** Establishes Konkani in Devanagari as official and permits Marathi for specified official purposes.
+
+### `goa-official-language-department`
+
+- **Citation:** Directorate of Official Language, Government of Goa, department history and language-policy resources.
+- **Source type:** Official government web page.
+- **Canonical locator:** Department introduction and Official Language Act summary.
+- **Digital URL:** https://www.goa.gov.in/department/official-language/
+- **Archived URL:** https://dol.goa.gov.in/about-us/
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact official URLs retained.
+- **Notes:** Confirms implementation history and the respective official uses of Konkani and Marathi.
+
+### `gautama-dharmasutra-ch2`
+
+- **Citation:** *Gautama Dharma-sūtra*, Chapter 2, digital text and translation.
+- **Source type:** Digital primary-text presentation.
+- **Canonical locator:** Chapter 2, student's procedure for seeking food.
+- **Digital URL:** https://www.wisdomlib.org/hinduism/book/gautama-dharmasutra/d/doc116302.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/epilogue-verification/gautama-dharmasutra-ch2.html`.
+- **Integrity:** SHA-256 `f19e71fff64946001dcf39c0014f0cb0852a1353f18ba237624b1cd0a7bf2e15`.
+- **Rights/storage:** Public primary-text research capture.
+- **Notes:** Supplies the student's *bhikṣā* procedure and relation to the teacher.
+
+### `baudhayana-dharmasutra-2-10-18`
+
+- **Citation:** *Baudhāyana Dharma-sūtra* 2.10.18, digital text and translation.
+- **Source type:** Digital primary-text presentation.
+- **Canonical locator:** 2.10.18, ascetic's *bhikṣā* procedure.
+- **Digital URL:** https://www.wisdomlib.org/hinduism/book/baudhayana-dharmasutra/d/doc116432.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/epilogue-verification/baudhayana-dharmasutra-2-10-18.html`.
+- **Integrity:** SHA-256 `03ec62aa37902855021da75386a6e04dd499c1172dc097055ece0b3bbd9ce89f`.
+- **Rights/storage:** Public primary-text research capture.
+- **Notes:** Supplies the renunciant's procedure and limits upon what may be sought and consumed.
+
+### `manusmriti-3-94`
+
+- **Citation:** *Manusmṛti* 3.94, Sanskrit text and translation.
+- **Source type:** Digital primary-text presentation.
+- **Canonical locator:** 3.94.
+- **Digital URL:** https://vedapath.app/en/manusmriti/householder-duties-marriage-the-five-great-sacrifices-hospitality-and-ancestral/94
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact primary-text URL retained.
+- **Notes:** Directs the householder to give food to a mendicant or *brahmacārin*.
+
+### `pib-kumbh-2019-first-shahi-snan`
+
+- **Citation:** Press Information Bureau, Government of India, “First Shahi Snan of Kumbh at Prayagraj,” 2019.
+- **Source type:** Official government report.
+- **Canonical locator:** Sequence in which the akharas entered for the bath.
+- **Digital URL:** https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=187499
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated retrieval failed.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact official URL retained.
+- **Notes:** Supports the public ceremonial sequence of the akharas.
+
+### `pib-mahakumbh-2025-makar-sankranti`
+
+- **Citation:** Press Information Bureau, Government of India, “Makar Sankranti at Maha Kumbh 2025.”
+- **Source type:** Official government report.
+- **Canonical locator:** Nāga sādhus and the Mahanirvani Akhara procession.
+- **Digital URL:** https://www.pib.gov.in/FeaturesDeatils.aspx?ModuleId=2&NoteId=153655
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated retrieval failed.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact official URL retained.
+- **Notes:** Supports the public and ritual precedence of the renunciant order at the gathering.
+
+### `deccan-college-institutional-history`
+
+- **Citation:** Deccan College Post-Graduate and Research Institute, institutional history.
+- **Source type:** Official university web page.
+- **Canonical locator:** Founding in 1821; Poona College in 1851; Deccan College and campus move; reopening on 17 August 1939.
+- **Digital URL:** https://virasat.dcpune.ac.in/jspui/about/default.jsp
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix1-verification/deccan-college.html`.
+- **Integrity:** SHA-256 `371cc1b663eb7436db5d667700a3a99f94a8dec8d7a340579da768e06a3293d2`.
+- **Rights/storage:** Official institutional-page research capture.
+- **Notes:** Establishes that the postgraduate institute predates independence.
+
+### `deccan-college-centenary-history`
+
+- **Citation:** Deccan College Post-Graduate and Research Institute, centenary history.
+- **Source type:** Institutional historical publication.
+- **Canonical locator:** Institutional chronology, including 1864–1868 and 1939.
+- **Digital URL:** https://ignca.gov.in/Asi_data/42455.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated retrieval failed.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact Government of India repository URL retained.
+- **Notes:** Supplies detail behind the official institutional chronology.
+
+### `bori-institutional-history`
+
+- **Citation:** Bhandarkar Oriental Research Institute, “History.”
+- **Source type:** Official institutional web page.
+- **Canonical locator:** Establishment on 6 July 1917, Bhandarkar's eighty-first birthday.
+- **Digital URL:** https://bori.ac.in/about/history/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix1-verification/bori-history.html`.
+- **Integrity:** SHA-256 `4753b0a85a2d3d664e959683198a58001896bcb9aae509fa06c5579cfdaea8e7`.
+- **Rights/storage:** Official institutional-page research capture.
+- **Notes:** Corrects the birthday count in the appendix deployment.
+
+### `golden-book-india-bhandarkar`
+
+- **Citation:** Sir Roper Lethbridge, *The Golden Book of India* (London: Macmillan, 1893), entry for Rāmakṛṣṇa Gopāla Bhāṇḍārkar.
+- **Source type:** Public-domain biographical reference.
+- **Canonical locator:** Bhāṇḍārkar entry.
+- **Digital URL:** https://commons.wikimedia.org/wiki/File:The_Golden_Book_of_India_-_A_Genealogical_and_Biographical_Dictionary_of_the_Ruling_Princes,_Chiefs,_Nobles,_and_Other_Personages,_Titled_or_Decorated,_of_the_Indian_Empire_(IA_goldenbookofindi00leth).pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix1-verification/golden-book-india.pdf`.
+- **Integrity:** SHA-256 `0da2aedc69fd945937a18e3d3214a651ba1363a7d99d156c2a2dc80f2733bfe3`.
+- **Rights/storage:** Public-domain scan retained.
+- **Notes:** Supports the B.A., M.A., 1866 examination degree, and CIE chronology.
+
+### `whos-who-india-1911-bhandarkar-kcie`
+
+- **Citation:** *Supplement to Who's Who in India* (Lucknow: Newul Kishore Press, 1912), Bhandarkar notice.
+- **Source type:** Public-domain contemporary biographical record.
+- **Canonical locator:** Notice of the 1911 Coronation Durbar honors.
+- **Digital URL:** https://rarebooksocietyofindia.org/book_archive/196174216674_10152081831531675.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix1-verification/whos-who-india-1911-supplement.pdf`.
+- **Integrity:** SHA-256 `05d1641766900b2a94e9945d278d39ac8cee583fbf043ca8f5198e015af76ad2`.
+- **Rights/storage:** Public-domain scan retained.
+- **Notes:** Records Bhandarkar's investiture as KCIE at the 1911 Coronation Durbar.
+
+### `british-library-shabdakalpadruma-catalog`
+
+- **Citation:** British Museum, *Catalogue of the Sanskrit Manuscripts and Printed Books*, entry for Rādhākānta Deb's *Śabdakalpadruma*.
+- **Source type:** Public-domain library catalogue.
+- **Canonical locator:** Catalogue entries for the main work and the 1858 appendix.
+- **Digital URL:** https://dsal.uchicago.edu/bibliographic/bmcatalogs/Z7090.B86_1876.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix1-verification/shabdakalpadruma-catalog.pdf`.
+- **Integrity:** SHA-256 `411792b7d48316d2dab0bdc3fa9944bac803f0bbe8b3d836c8168670dcb0fc0b`.
+- **Rights/storage:** Public-domain catalogue scan retained.
+- **Notes:** Records the separate 1858 appendix; used with the CDSL publication record.
+
+### `cdsl-shabdakalpadruma-guide`
+
+- **Citation:** Cologne Digital Sanskrit Lexicon, *Śabdakalpadruma* dictionary guide.
+- **Source type:** University digital-lexicon documentation.
+- **Canonical locator:** Seven-volume Calcutta publication, 1822–1858.
+- **Digital URL:** https://sanskrit-lexicon.github.io/csl-guides/dictionaries/skd
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix1-verification/shabdakalpadruma-cdsl.html`.
+- **Integrity:** SHA-256 `a9ca18051b6055d14aaada6c626b934fb043a291848f31a81da4c172121ea547`.
+- **Rights/storage:** Public university-project capture.
+- **Notes:** Confirms the seven-volume scale and full 1822–1858 publication span.
+
+### `cdsl-vacaspatyam-guide`
+
+- **Citation:** Cologne Digital Sanskrit Lexicon, *Vācaspatyam* dictionary guide.
+- **Source type:** University digital-lexicon documentation.
+- **Canonical locator:** Original seven-volume publication, 1873–1884.
+- **Digital URL:** https://sanskrit-lexicon.github.io/csl-guides/dictionaries/vcp
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix1-verification/vacaspatyam-cdsl.html`.
+- **Integrity:** SHA-256 `4a57f13833ab907f8644954ba0ace2da0c6f0219bdbc5566872a29c7023d0813`.
+- **Rights/storage:** Public university-project capture.
+- **Notes:** Corrects both the original volume count and completion date.
+
+### `kashika-ashtadhyayi-6-3-109`
+
+- **Citation:** *Kāśikāvṛtti* on *Aṣṭādhyāyī* 6.3.109.
+- **Source type:** Digital primary-text presentation.
+- **Canonical locator:** 6.3.109, fivefold *nirukta* verse.
+- **Digital URL:** https://ashtadhyayi.github.io/suutra/6.3/6.3.109/?transliteration_target=iast
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix1-verification/kashika-6-3-109.html`.
+- **Integrity:** SHA-256 `e28ab8491040806d19320809092fb577b0f95693a736b7fd11addffd033781cb`.
+- **Rights/storage:** Public primary-text research capture.
+- **Notes:** Locates the verse securely without attributing it directly to Yāska.
+
+### `brugmann-grundriss-bibliographic-record`
+
+- **Citation:** Karl Brugmann and Berthold Delbrück, *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (Strasbourg: Trübner, 1886–1916).
+- **Source type:** Public-domain bibliographic and scan record.
+- **Canonical locator:** First-edition and revised-edition volume sequence.
+- **Digital URL:** https://archive.org/search?query=title%3A%22Grundriss+der+vergleichenden+Grammatik+der+indogermanischen+Sprachen%22+AND+creator%3ABrugmann
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Public-domain repository query retained.
+- **Notes:** Confirms the multi-volume publication sequence used in Appendix Part 1.
+
+### `bori-mahabharata-critical-edition`
+
+- **Citation:** Bhandarkar Oriental Research Institute, Mahābhārata Department.
+- **Source type:** Official institutional web page.
+- **Canonical locator:** Critical Edition of the *Mahābhārata*.
+- **Digital URL:** https://bori.ac.in/department/mahabharata/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix2-verification/bori-mahabharata.html`.
+- **Integrity:** SHA-256 `fcde5492deb5faf54c056d77b2083ef35573ab205efc51d58f64d008ce13469e`.
+- **Rights/storage:** Official institutional-page research capture.
+- **Notes:** Keeps the Mahābhārata project distinct from the Baroda Rāmāyaṇa project.
+
+### `msu-valmiki-ramayana-critical-edition`
+
+- **Citation:** Maharaja Sayajirao University of Baroda, Oriental Institute, Critical Editions Wing.
+- **Source type:** Official university web page.
+- **Canonical locator:** Seven-volume Critical Edition of the *Vālmīki Rāmāyaṇa*, 1951–1975.
+- **Digital URL:** https://msubaroda.ac.in/academics/OI/department/CEW/aboutdepartment
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix2-verification/msu-critical-editions.html`.
+- **Integrity:** SHA-256 `dba93f4f52aa8848c4107a958d41dbb9077344d00937c1e19b0a5a5f80f18edd`.
+- **Rights/storage:** Official university-page research capture.
+- **Notes:** Supplies institutional attribution and publication span.
+
+### `dsal-linguistic-survey-india`
+
+- **Citation:** George A. Grierson, *Linguistic Survey of India* (Government of India, 1903–1928), digital edition.
+- **Source type:** Public-domain government volumes hosted by a university library.
+- **Canonical locator:** About page and volume index.
+- **Digital URL:** https://dsal.uchicago.edu/books/lsi/about-lsi.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix2-verification/lsi-about.html`.
+- **Integrity:** SHA-256 `59a9c6046df87133046a57c4137bf8cf379bb81fe2461bd69adf9269c5ece032`.
+- **Rights/storage:** Public-domain university-library capture.
+- **Notes:** Supports the publication span, family organization, grammatical descriptions, specimens, and comparative vocabulary.
+
+### `census-india-language-division`
+
+- **Citation:** Office of the Registrar General and Census Commissioner, India, Language Division.
+- **Source type:** Official government web page.
+- **Canonical locator:** Historical role of Grierson's classification.
+- **Digital URL:** https://censusindia.gov.in/census.website/en/node/174
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix2-verification/census-language-division.html`.
+- **Integrity:** SHA-256 `fc4f50755f29b622a6421b67981bff7b23d09837cb9bf5813fbce99f7d4a6c79`.
+- **Rights/storage:** Official government-page research capture.
+- **Notes:** Supports the survey's continuing classificatory role.
+
+### `koshashri-project-portal`
+
+- **Citation:** Deccan College and C-DAC, KoshaSHRI project portal.
+- **Source type:** Official project web page.
+- **Canonical locator:** About the Dictionary and publication metadata.
+- **Digital URL:** https://koshashri-dc.ac.in/contact/aboutDictionary
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix2-verification/koshashri-about-dictionary.html`.
+- **Integrity:** SHA-256 `b78bd0a1e516a1077111ab50021510ba89b97e741e02343daac2a7f3abef42e4`.
+- **Rights/storage:** Official project-page research capture.
+- **Notes:** Reports 1,469 primary works, about 1,500 corpus texts in a rounded project description, thirty-five volumes, and 6,056 pages; its 1976/1978 first-installment metadata is internally inconsistent.
+
+### `shri-encyclopedic-sanskrit-dictionary`
+
+- **Citation:** Government of India, Science and Heritage Research Initiative, “Digital Preservation and Online Portal for Encyclopedic Sanskrit Dictionary.”
+- **Source type:** Official government project page.
+- **Canonical locator:** Database and reference-slip totals.
+- **Digital URL:** https://www.xn--11bx2e6a3b.xn--h2brj9c/index.aspx?id=project_details&projectId=DigitalPreservationandOnlinePortalforEncyclopedicSanskritDictionary
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact official URL retained.
+- **Notes:** Reports fifteen lakh vocables and more than one crore reference slips.
+
+### `namami-history-mathematics-india`
+
+- **Citation:** Government of India, National Mission for Manuscripts, *History and Development of Mathematics in India*.
+- **Source type:** Government publication.
+- **Canonical locator:** p. 296, *jyā* and *trijyā*.
+- **Digital URL:** https://www.namami.gov.in/sites/default/files/book_pdf/History%20and%20Development%20of%20Mathematics%20in%20India.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated retrieval failed.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact Government of India publication URL retained.
+- **Notes:** Gives *jyā* as R·sin θ and *trijyā* as the radius.
+
+### `somasiddhanta-trijya`
+
+- **Citation:** *Somasiddhānta*, Government of India digital edition.
+- **Source type:** Digital primary-text edition.
+- **Canonical locator:** Definition of *trijyā* as the *jyā* of ninety degrees.
+- **Digital URL:** https://www.namami.gov.in/sites/default/files/Prakshika/Somsiddhanta-29-12%20%281%29_0.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated retrieval failed.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact Government of India publication URL retained.
+- **Notes:** Supplies the primary-text formulation corresponding geometrically to the radius.
+
+### `unicode-standard-chapter-14-brahmi`
+
+- **Citation:** Unicode Consortium, *The Unicode Standard*, Chapter 14, “Brāhmī.”
+- **Source type:** Official technical standard.
+- **Canonical locator:** Brāhmī encoding model, vowel signs, virāma, conjuncts, and special signs.
+- **Digital URL:** https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-14/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix3-verification/unicode-ch14.html`.
+- **Integrity:** SHA-256 `be0123813ab2cc528acfd5d4eefefb0a3b075088684d474bbde1d28c91a6d360`.
+- **Rights/storage:** Official standard-page research capture.
+- **Notes:** Also records the Old Tamil-Brāhmī mode in which the unmarked consonant can lack an inherent vowel.
+
+### `unicode-standard-chapter-12-indic`
+
+- **Citation:** Unicode Consortium, *The Unicode Standard*, Chapter 12, “South and Central Asia-I.”
+- **Source type:** Official technical standard.
+- **Canonical locator:** Shared encoding behavior of modern Indic scripts.
+- **Digital URL:** https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix3-verification/unicode-ch12.html`.
+- **Integrity:** SHA-256 `aeed3d7435462d40fd10bd51a09a1bae816bc050e7180053f877837d60b92dc5`.
+- **Rights/storage:** Official standard-page research capture.
+- **Notes:** Supports the shared Indic encoding principle without asserting identical glyphs.
+
+### `salomon-indian-epigraphy-1998`
+
+- **Citation:** Richard Salomon, *Indian Epigraphy* (Oxford University Press, 1998).
+- **Source type:** Scholarly monograph.
+- **Canonical locator:** Chapter 2, inscription contents and media.
+- **Digital URL:** https://academic.oup.com/book/49774
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted monograph; publisher record retained.
+- **Notes:** Supports the range of royal, donative, ritual, administrative, literary, and private inscriptions.
+
+### `asi-bharatshri-about-epigraphy`
+
+- **Citation:** Archaeological Survey of India, BharatSHRI, “About Epigraphy.”
+- **Source type:** Official government web page.
+- **Canonical locator:** Materials and purposes represented in the epigraphic record.
+- **Digital URL:** https://bharatshri.asi.gov.in/AboutEpigraphy?lang=en
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated retrieval failed.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact official URL retained.
+- **Notes:** Supports the durable-archive discussion.
+
+### `daniels-fundamentals-grammatology-1990`
+
+- **Citation:** Peter T. Daniels, “Fundamentals of Grammatology,” *Journal of the American Oriental Society* 110.4 (1990): 727–731.
+- **Source type:** Peer-reviewed article.
+- **Canonical locator:** pp. 727–731; DOI 10.2307/602899.
+- **Digital URL:** https://doi.org/10.2307/602899
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix3-verification/daniels-catalog.html`.
+- **Integrity:** SHA-256 `231e5514ecf6aa51319a8964f97c3175d861427869b40a29bfa7c0253991429f`.
+- **Rights/storage:** Bibliographic capture; DOI retained.
+- **Notes:** Introduces *abjad* and *abugida*; the latter takes its name from the first four Ethiopic signs in Semitic order.
+
+### `kaplan-nothing-that-is-1999`
+
+- **Citation:** Robert Kaplan, *The Nothing That Is: A Natural History of Zero* (Oxford University Press, 1999).
+- **Source type:** Scholarly popular monograph.
+- **Canonical locator:** Mesopotamian placeholder discussion and Indian arithmetic-zero chapters.
+- **Digital URL:** https://people.math.harvard.edu/archive/21a_fall_17/exhibits/xxspindle/KaplanKaplanNothing.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix3-verification/kaplan-nothing.pdf`.
+- **Integrity:** SHA-256 `5fd5c6d650c4b39088cfc23e881097d06f3fa0d6e82033239ed2f1b05aaba4ab`.
+- **Rights/storage:** University-hosted research copy retained.
+- **Notes:** Kaplan explicitly distinguishes earlier placeholders from the Indian development of zero as an arithmetic number.
+
+### `aks-hangeul-english`
+
+- **Citation:** Academy of Korean Studies, *Hangeul*.
+- **Source type:** Official cultural-history publication.
+- **Canonical locator:** Appendix 1, pp. 39–41; *Hunminjeongeum Haerye* design account.
+- **Digital URL:** https://www.aks.ac.kr/ikorea/upload/intl/korean/UserFiles/UKS1_Hangeul_eng.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix3-verification/hangeul-aks.pdf`.
+- **Integrity:** SHA-256 `69f021091336b896c4f1f872f4c0b47620350a9bfcce3017c8669f82de32b5d6`.
+- **Rights/storage:** Official institutional PDF retained.
+- **Notes:** Supports articulator-shaped consonants, added strokes, and systematic vowels.
+
+### `sampson-writing-systems-1985`
+
+- **Citation:** Geoffrey Sampson, *Writing Systems: A Linguistic Introduction* (Stanford University Press, 1985).
+- **Source type:** Scholarly monograph.
+- **Canonical locator:** pp. 120 and 144.
+- **Digital URL:** https://search.worldcat.org/search?q=ti%3A%22Writing+Systems%22+au%3A%22Geoffrey+Sampson%22
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Bibliographic metadata retained.
+- **Notes:** Supplies the *featural* typology and the quoted assessment of Hangul's achievement.
+
+### `unesco-king-sejong-literacy-prize`
+
+- **Citation:** UNESCO, King Sejong Literacy Prize.
+- **Source type:** Official intergovernmental web page.
+- **Canonical locator:** Establishment in 1989.
+- **Digital URL:** https://www.unesco.org/en/prizes/literacy/king-sejong
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix3-verification/unesco-literacy.html`.
+- **Integrity:** SHA-256 `a27f42fc852f8bbda712f2376e7b89bfcafa4a4733dd6ea2701fde615eafc462`.
+- **Rights/storage:** Official web-page research capture.
+- **Notes:** Confirms the date used in Appendix Part 3.
+
+### `chung-hangul-sanskrit-2020`
+
+- **Citation:** Chung Kwang, “Hangul and Sanskrit,” *Journal of Korean Linguistics* 96 (2020): 59–107.
+- **Source type:** Peer-reviewed article.
+- **Canonical locator:** DOI 10.15811/jkl.2020..96.002.
+- **Digital URL:** https://doi.org/10.15811/jkl.2020..96.002
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted article; DOI retained.
+- **Notes:** A published argument for Sanskrit and Siddham influence; not a universally settled causal history.
+
+### `lee-sanskrit-hunminjeongeum-2025`
+
+- **Citation:** Lee Tae-seung, “A Study on the Influence of the Sanskrit Phonological System on the Creation of Hunminjeongeum,” *Korean Journal of Indian Philosophy* 75 (2025): 169–197.
+- **Source type:** Peer-reviewed article.
+- **Canonical locator:** DOI 10.32761/kjip.2025..75.006.
+- **Digital URL:** https://doi.org/10.32761/kjip.2025..75.006
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Copyrighted article; DOI retained.
+- **Notes:** Compares phonological architecture rather than claiming direct copying of glyphs.
+
+### `gretil-ashtadhyayi`
+
+- **Citation:** Pāṇini, *Aṣṭādhyāyī*, GRETIL electronic text.
+- **Source type:** Digital primary text.
+- **Canonical locator:** 8.2.30 and 8.2.52.
+- **Digital URL:** https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_pANini-aSTAdhyAyI.htm
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix5-verification/panini-gretil.html`.
+- **Integrity:** SHA-256 `0bdfe8d64c7d35455ff89f624840dbd63669f09c33a83ec895d9c44cbcc7cd0f`.
+- **Rights/storage:** Public digital primary-text capture.
+- **Notes:** Supports the two rules used in the *pac → pakva* derivation.
+
+### `kubozono-japanese-loanword-prosody-2002`
+
+- **Citation:** Haruo Kubozono, “Prosodic Structure of Loanwords in Japanese,” *Journal of the Phonetic Society of Japan* 6.1 (2002).
+- **Source type:** Peer-reviewed article.
+- **Canonical locator:** DOI 10.24467/onseikenkyu.6.1_79.
+- **Digital URL:** https://doi.org/10.24467/onseikenkyu.6.1_79
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix5-verification/kubozono-2002.html`.
+- **Integrity:** SHA-256 `fad2dd6cf4df36c6aac8f73b0d40014c610f7d7a7faeab9d1eef6e611c90e018`.
+- **Rights/storage:** Publisher-page research capture.
+- **Notes:** Supports Japanese loanword syllable structure and repair patterns.
+
+### `shoji-japanese-vowel-epenthesis-2013`
+
+- **Citation:** Shin-ichi Shoji and Kaori Shoji, “Vowel Epenthesis and Consonant Deletion in Japanese Loanwords from English,” *Proceedings of the Annual Meetings on Phonology* 1 (2013).
+- **Source type:** Scholarly conference paper.
+- **Canonical locator:** Article 16.
+- **Digital URL:** https://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/16
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix5-verification/shoji-shoji-2013.html`.
+- **Integrity:** SHA-256 `e552c1fabfd4c3342aab376df1954f4ddcec9467170f8ec76940bed73b085281`.
+- **Rights/storage:** Public scholarly-page research capture.
+- **Notes:** Supports the default and consonant-conditioned epenthetic-vowel patterns.
+
+### `japanese-epenthesis-pmc-2021`
+
+- **Citation:** Review and experimental study of vowel epenthesis in Japanese loanword phonology, PubMed Central (2021).
+- **Source type:** Peer-reviewed open-access article.
+- **Canonical locator:** Discussion of /u/, /o/, and /i/ selection.
+- **Digital URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC8438165/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix5-verification/japanese-epenthesis-pmc.html`.
+- **Integrity:** SHA-256 `fd4c396bc36a95c0d5f006252ec85dfbb97cf9db0da43e430d894c22704d3659`.
+- **Rights/storage:** Open-access article capture.
+- **Notes:** Supports the narrow statement that /i/ is associated especially with palatal affricates.
+
+### `lieberman-english-irregular-verbs-2007`
+
+- **Citation:** Erez Lieberman, Jean-Baptiste Michel, Joe Jackson, Tina Tang, and Martin A. Nowak, “Quantifying the Evolutionary Dynamics of Language,” *Nature* 449 (2007): 713–716.
+- **Source type:** Peer-reviewed empirical article.
+- **Canonical locator:** DOI 10.1038/nature06137; abstract and study of 177 Old English irregular verbs.
+- **Digital URL:** https://www.nature.com/articles/nature06137
+- **Archived URL:** https://doi.org/10.1038/nature06137
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix6-verification/lieberman-nature-2007.html`.
+- **Integrity:** SHA-256 `cc7ca128b613ccc30297edd973775fddfa550c17a0c86da67a8662ac4758bbb7`.
+- **Rights/storage:** Publisher-page research capture.
+- **Notes:** Establishes the measured English result that frequent irregular verbs regularized more slowly. It does not establish the Sanskrit comparison.
+
+### `cologne-apte-1890`
+
+- **Citation:** Vaman Shivaram Apte, *The Practical Sanskrit-English Dictionary* (Poona, 1890), Cologne Digital Sanskrit Dictionaries edition.
+- **Source type:** Searchable dictionary and scanned-page interface.
+- **Canonical locator:** Cologne dictionary code `AP90`; dictionary headword.
+- **Digital URL:** https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc2/index.php
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix6-verification/apte-1890-index.html`.
+- **Integrity:** SHA-256 `0667da86addf79fd87e46685f45c90d1f572a18d56f43e05f1665743a8d03bcf`.
+- **Rights/storage:** Search-interface capture retained.
+- **Notes:** One of the two dictionaries consulted for the hand-curated Path A estimates.
+
+### `project-dhatupatha-analysis`
+
+- **Citation:** *Atomic Sanskrit* structural and Path A *Dhātupāṭha* analyses.
+- **Source type:** Reproducible project dataset and calculation.
+- **Canonical locator:** `analysis/dhatupatha/README.md` and the scripts named in Appendix Part 6 §6.5.
+- **Digital URL:** Not applicable.
+- **Archived URL:** Not applicable.
+- **Accessed:** 2026-09-03.
+- **Local record:** `analysis/dhatupatha/data/dhatupatha.csv`; `analysis/dhatupatha/data/dhatu_productivity.csv`; `analysis/dhatupatha/data/derived/template_distribution.csv`; `analysis/dhatupatha/data/derived/racana_by_gana.csv`.
+- **Integrity:** SHA-256: base inventory `e491d6cd8c68e3fe455f57098ba6d6ad2762cf0882a74dd585aa45e636eb9d86`; Path A sample `cba57d6167af34e14e2f003e3fd5445e2d6d34cb54b6178daa487983cb8d1c10`; template distribution `795f34adce92e2459f6f2f6076d4cc688341b49100333a4bdcf18fda8d6284ac`; *racanā* matrix `cb110dd480ca8d30af19cd8b76e83b3cb8f452a8a6e65f3035ba885f00a32b6e`.
+- **Rights/storage:** Project source and derived research data.
+- **Notes:** Fresh runs reproduced 2,168 entries, 98.2% one-*akṣara* entries, Path A ρ = −0.485, 47 observed *racanāḥ*, 91.01% top-ten coverage, and 140 populated matrix cells. The Path A derivative estimates remain hand-curated and do not yet have a headword-by-headword extraction ledger.
+
+### `project-prayoga-analysis`
+
+- **Citation:** *Atomic Sanskrit* Path C *prayoga* and cross-corpus analyses.
+- **Source type:** Reproducible project dataset and calculation.
+- **Canonical locator:** `analysis/ganah/README.md`, `FINDINGS.md`, and the scripts named in Appendix Part 6 §6.5.
+- **Digital URL:** Not applicable.
+- **Archived URL:** Not applicable.
+- **Accessed:** 2026-09-03.
+- **Local record:** `analysis/ganah/data/derived/path_c_valency.csv`; `path_a_vs_path_c.csv`; `path_c_with_tiers.csv`; `cross_gana_columns.txt`; `cross_corpus_comparison.txt`; `column_axes.txt`.
+- **Integrity:** SHA-256: Path C valency `85d1e30eaffe9e95789f4e75ed63039dc1cd28b3b71fd71d5f58add89345a3a6`; Path A/C match `58aeceaca2cf38ea97618b2b8d0e80d8375b2f0a2d232438cd1f818111b2ecfb`; tiers `346e48f4ef558c53573cedd8b09deeac7367095e67367f3e689b110c4ca08277`; cross-*gaṇa* `1cf99867582320ba961921074c81930f516a986af505eeafe828cc13a3e02c03`; cross-corpus `93e9416d95085f846c1d631fc237c4f5208165a4cf3d0032baca6f9ffae6c631`; axes `713fa9c3a95b54a89126d0843117bf85c3a1f0eaa5f1fcccdc4eb61f55bc2701`.
+- **Rights/storage:** Project source and derived research data; upstream corpus retained under its stated CC BY 4.0 license.
+- **Notes:** Fresh runs reproduced 3,839 normalized verb lemmas, +0.6647 Path A/C rank correlation, −0.4334 particle/reach correlation, the 67.6/30.5/1.9 use shares, 33.3/42.9 *juhotyādi* C4 shares, all nine reference atoms in all four checked corpora, and the stated axis heterogeneity indices.
+
+### `gretil-rigveda-padapatha`
+
+- **Citation:** *Ṛgveda Padapāṭha*, GRETIL electronic text, mirrored by Druxambha.
+- **Source type:** Electronic Sanskrit primary text.
+- **Canonical locator:** Mantra number within the ten mandala files.
+- **Digital URL:** https://druvx13.github.io/GRETIL-mirror/gretil/1_sanskr/1_veda/1_sam/1_rv/rvpp_01u.htm
+- **Archived URL:** The final two digits change from `01` through `10` for each mandala.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix8-verification/gretil-rv-padapatha/`.
+- **Integrity:** Aggregate SHA-256 over the ten retained mandala files `57577566164d7b963da0b093b5f217b8eda03efe3578be600f91950300e77071`.
+- **Rights/storage:** Public electronic-text research captures.
+- **Notes:** Used for exact word separation and exact-form counts in Appendix Part 8. The passage locators were also checked against the van Nooten-Holland text.
+
+### `kiparsky-vedic-injunctive-2005`
+
+- **Citation:** Paul Kiparsky, “The Vedic Injunctive: Historical and Synchronic Implications,” in Rajendra Singh, ed., *The Yearbook of South Asian Languages and Linguistics 2005* (De Gruyter Mouton, 2005), pp. 219–235.
+- **Source type:** Scholarly article.
+- **Canonical locator:** p. 223, example 6b, RV 1.32.1.
+- **Digital URL:** https://web.stanford.edu/~kiparsky/Papers/injunctive.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/appendix8-verification/kiparsky-vedic-injunctive.pdf`.
+- **Integrity:** SHA-256 `df98a4c6124a863142b322278f4e0fcb1c34044a042f5b8d7bc210efa6e35bc2`.
+- **Rights/storage:** Author-hosted research copy retained.
+- **Notes:** Identifies **vocam** in RV 1.32.1 as a first-person aorist injunctive and translates the form as a performative declaration.
+
+### `ashtadhyayi-app8-rules`
+
+- **Citation:** Pāṇini, *Aṣṭādhyāyī* 3.4.9 and 7.1.49, with *Kāśikāvṛtti* and *Siddhāntakaumudī* material in the Aṣṭādhyāyī Lite display.
+- **Source type:** Digital primary text with traditional commentary.
+- **Canonical locator:** 3.4.9 and 7.1.49.
+- **Digital URL:** https://ashtadhyayi-lite.github.io/sutra/3.4.9.html
+- **Archived URL:** https://ashtadhyayi-lite.github.io/sutra/7.1.49.html
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/appendix8-verification/ashtadhyayi-3.4.9.html`; `ashtadhyayi-7.1.49.html`.
+- **Integrity:** SHA-256: 3.4.9 `dc3cd3d3dc5cf920139ee7cf4ad4cf7cb5d81c2b58ab15f83ffd96adc6c2a607`; 7.1.49 `ed43f4fcaa428e3cad1fdd0e120c6f95c186322cde144dd7b38b6c54fd5bd124`.
+- **Rights/storage:** Public digital grammatical pages retained for research.
+- **Notes:** 3.4.9 lists the Vedic infinitive endings including **-tavai** and **-tave**. The commentary on 7.1.49 cites RV 3.40.7 **pītvī somasya vāvṛdhe** and contrasts the expected **pītvā**.
+
+### `project-designed-variations`
+
+- **Citation:** *Atomic Sanskrit* Designed Variations master inventory and prevalence audit.
+- **Source type:** Reproducible project dataset, evidence ledger, and figures.
+- **Canonical locator:** 83-row master inventory and SG-23 prevalence row.
+- **Digital URL:** Not applicable.
+- **Archived URL:** Not applicable.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/10_active/as_vaidika_laukika_designed_variations_master.csv`; `as_vaidika_laukika_prevalence_ledger.md`; `as_vaidika_laukika_prevalence_figure_data.csv`; `analysis/vaidika_laukika/`; `figures/vaidika_laukika/designed_variations_*.svg`.
+- **Integrity:** Validator SHA-256: prevalence `454f3ab0564697b9b702756399720137c739387e934fd6bcd9c91007ae13a124`; figure validation `6dcb76a58763b16def5ac83a578d0c4e7764159b30546f04676bafe37791153a`.
+- **Rights/storage:** Project research data and generated figures.
+- **Notes:** Fresh validation covered 107 plotted subrows across 83 inventory rows, including 11 open subrows and 2 measured zeros. SG-23 records 11 checked **cikitvaḥ** tokens and no exact **cikitvan** token.
+
+### `companion-elst-ait-linguistics-2020`
+
+- **Citation:** Koenraad Elst, “AIT and the Science of Linguistics,” 2020.
+- **Source type:** Author-hosted essay.
+- **Canonical locator:** Complete essay.
+- **Digital URL:** https://koenraadelst.blogspot.com/2020/04/ait-and-science-of-linguistics.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/companion-verification/elst-ait-linguistics.html`.
+- **Integrity:** SHA-256 `717d5e4c3196a64af2715a2775091b36e10f96a36c90e64bb8ef1caf36a26c38`.
+- **Rights/storage:** Public author page retained for research verification.
+- **Notes:** Supports the companion's placement of Elst within the Out-of-India discussion. The checked essay does not support attributing the active-*dhātuḥ* / isolated-European-word observation to Elst.
+
+### `companion-talageri-out-of-india-2021`
+
+- **Citation:** Shrikant Talageri, “The Complete Linguistic Case for the Out-of-India Theory,” 2021.
+- **Source type:** Author-hosted essay.
+- **Canonical locator:** Discussion of Sanskrit roots and derivative families versus isolated words in other Indo-European languages.
+- **Digital URL:** https://talageri.blogspot.com/2021/09/the-complete-linguistic-case-for-out-of.html
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/companion-verification/talageri-out-of-india.html`.
+- **Integrity:** SHA-256 `a1945857e3a9defec76c63f26e9f3293817b5918107ba2c48222caa4f170f6df`.
+- **Rights/storage:** Public author page retained for research verification.
+- **Notes:** Directly supports the companion's statement that Talageri contrasts Sanskrit roots and derivative families with isolated related words in other Indo-European languages.
+
+### `companion-kazanas-sanskrit-pie-2004`
+
+- **Citation:** Nicholas Kazanas, “Sanskrit and Proto-Indo-European,” 2004.
+- **Source type:** Author-hosted paper.
+- **Canonical locator:** pp. 1-2 and conclusion.
+- **Digital URL:** https://omilosmeleton.gr/wp-content/uploads/2018/01/SPIE.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; the exact PDF URL is recorded.
+- **Integrity:** No local file.
+- **Rights/storage:** Author-hosted research URL retained.
+- **Notes:** Kazanas calls for prevailing PIE reconstructions to be scrapped and rebuilt, treats Vedic Sanskrit as closer to PIE than the other branches, and explicitly says that he does not identify Vedic Sanskrit as the Indo-European mother tongue.
+
+### `companion-trubetzkoy-ie-problem-1939`
+
+- **Citation:** N. S. Trubetzkoy, “Gedanken über das Indogermanenproblem,” *Acta Linguistica* 1 (1939): 81-89; English translation, “Thoughts on the Indo-European Problem,” in *N. S. Trubetzkoy: Studies in General Linguistics and Language Structure*, ed. Anatoly Liberman (Duke University Press, 2001), pp. 87-98.
+- **Source type:** Primary scholarly article and published English translation.
+- **Canonical locator:** German original pp. 81-89; English translation pp. 87-98.
+- **Digital URL:** https://doi.org/10.1080/03740463.1939.10410851
+- **Archived URL:** https://books.google.com/books?id=M5w94-Yx1gAC
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** DOI and bibliographic record retained.
+- **Notes:** Challenges the necessity of descent from one source and proposes convergence among neighboring languages as an alternative account.
+
+### `companion-marcantonio-brady-ie-artifacts`
+
+- **Citation:** Angela Marcantonio and R. M. Brady, “Evidence that Indo-European Reconstructions Are Artefacts of the Linguistic Method of Analysis,” conference paper, 2003; developed in Angela Marcantonio, ed., *The Indo-European Language Family: Questions About Its Status* (Institute for the Study of Man, 2009).
+- **Source type:** Author paper and edited scholarly volume.
+- **Canonical locator:** Paper abstract and statistical argument; 2009 volume chapter of the same title.
+- **Digital URL:** https://ciplnet.com/archive/2003/contributions/S3_AngelaMarcantonio_EvidenceThatIndoEuropean.pdf
+- **Archived URL:** https://books.google.com/books?id=jFMLAQAAMAAJ
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained; automated PDF capture was rejected.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact paper and bibliographic URLs retained.
+- **Notes:** Direct source for the claim that many reconstructions can be artifacts of the analytical method.
+
+### `companion-briggs-1985-ai`
+
+- **Citation:** Rick Briggs, “Knowledge Representation in Sanskrit and Artificial Intelligence,” *AI Magazine* 6.1 (1985): 32-39.
+- **Source type:** Peer-reviewed journal article.
+- **Canonical locator:** Abstract and complete article; DOI 10.1609/aimag.v6i1.466.
+- **Digital URL:** https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/466/0
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/web/companion-verification/briggs-1985-page.html`.
+- **Integrity:** SHA-256 `e7be7d0a85bdac358c8251260bd7627fa9c0d2e2bb63683e0f1c42532105a053`.
+- **Rights/storage:** Open-access article page retained for verification.
+- **Notes:** The abstract explicitly says that Sanskrit is a natural language that can also serve as an artificial language and compares the grammatical analysis with contemporary AI representation.
+
+### `companion-bhate-kak-panini-computer-science`
+
+- **Citation:** Saroja Bhate and Subhash Kak, “Pāṇini's Grammar and Computer Science,” *Annals of the Bhandarkar Oriental Research Institute* 72-73 (1991-1992): 79-94.
+- **Source type:** Scholarly article.
+- **Canonical locator:** pp. 80-83 for generativity, recursion, rule types, and economy.
+- **Digital URL:** https://www.ece.lsu.edu/kak/bhate.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** `working/40_reference/sources/archive/documents/companion-verification/bhate-kak-panini-computer-science.pdf`.
+- **Integrity:** SHA-256 `320d088db2b50644187f3285655c67874d1175edddbe7923860f06feea933228`.
+- **Rights/storage:** Author-hosted research copy retained.
+- **Notes:** Directly supports the companion's summary of recursion, sequential and context-sensitive operations, generative reach, and economy in Pāṇini's documentation.
+
+### `companion-kak-vedic-recursive-architecture`
+
+- **Citation:** Subhash Kak, “From Vedic Science to Vedanta,” *Journal of Hindu-Christian Studies* 10 (1997), article 8; see also *The Astronomical Code of the Ṛgveda* and *The Architecture of Knowledge*.
+- **Source type:** Scholarly article and related monographs.
+- **Canonical locator:** Article abstract and discussion of Vedic equivalences, recursion, altar design, and the organization of the Ṛgveda.
+- **Digital URL:** https://digitalcommons.butler.edu/jhcs/vol10/iss1/8/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-03.
+- **Local record:** Not retained.
+- **Integrity:** No local file.
+- **Rights/storage:** Institutional journal URL retained.
+- **Notes:** Supports the companion's placement of Kak as a neighboring account of the Vedic corpus as numerical, astronomical, recursive, and information-bearing architecture.

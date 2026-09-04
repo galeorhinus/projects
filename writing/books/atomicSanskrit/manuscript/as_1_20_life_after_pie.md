@@ -1,6 +1,6 @@
 # Chapter 20 — Life After PIE
 
-Sanskrit's radiance traveled through people. A teacher might carry a method of analysis into another region; a specialist might carry technical knowledge and vocabulary. When whole communities migrated, they carried living Indic languages, customs, and memory with them.
+For thousands of years, Sanskrit's radiance traveled through people. A teacher might carry a method of analysis into another region; a specialist might carry technical knowledge and vocabulary. When whole communities migrated, they carried living Indic languages, customs, and memory with them.
 
 This chapter distinguishes four kinds of movement. Before Pāṇini, Vedic-trained experts carried Sanskritic structure into other linguistic communities. This book calls that movement **Wave 1**. After Pāṇini, other communities could study his explicit grammatical documentation and adapt its analytical methods to their own languages. That movement becomes **Wave 2**. The **Diasporic Wave** moved through whole communities, whose members took their languages and ways of life into new regions under conditions they had often not chosen. **Wave 3** belongs to the present. Readers who recover a conscious understanding of Sanskrit's architecture can now explain that architecture to the world.
 
@@ -30,7 +30,7 @@ A Hittite-Mitanni treaty provides a written record of Sanskritic forms outside I
 
 The form *aika* deserves closer attention. The Sanskrit analytical continuum derives एक (*eka*) from the atom ⟪इ⟫, **इण् गतौ (*iṇ gatau*)**, with the Uṇādi affix **कन् (*kan*)**. The final *n* marks an instruction and disappears, leaving क (*ka*). गुण (*guṇa*) changes **इ (*i*)** to **ए (*e*)**, producing *eka*. The tablet records how another language rendered this Sanskrit molecule. Its date tells us when that receiving form was written; it does not tell us when Sanskrit first generated एक (*eka*).
 
-The Sanskritic layer extends beyond the treaty and the training manual. Mitanni rulers bore throne names such as Tushratta, from *Tveṣaratha*; Shattiwaza, from *Sātivāja*; Indaruda, from *Indrota*; and Artashumara, from *Artasmara*. Mitanni warriors were called मर्य (*marya*), the Sanskrit term for a young warrior.[NOTE: mitanni-sanskritic-evidence]
+The Sanskritic layer extends beyond the treaty and the training manual. Mitanni rulers bore throne names such as Tushratta, from *Tveṣaratha*; Shattiwaza, from *Sātivāja*; and Artashumara, from *Artasmara*. The related name Indaruda, from *Indrota*, appears in the wider Syrian-Palestinian record. Near Eastern records also use *maryannu* for a chariot-warrior class associated with the Mitanni political world. Scholars compare the first element with Sanskrit **मर्य (*marya*)**, young man or warrior.[NOTE: mitanni-sanskritic-evidence]
 
 ![Figure 20.1 — The Mitanni Sanskritic Layer. The treaty, horse-training manual, royal names, and warrior designation preserve four different kinds of Sanskritic evidence in northern Mesopotamia.](figures/life_after_pie/mitanni_sanskritic_layer.svg){#fig:ch20-mitanni-layer width=100%}
 
@@ -80,7 +80,7 @@ The Hindu continuum had never enclosed this knowledge. Sanskrit scholars taught 
 
 The pyramid responded to that openness with insecurity and jealousy. In the 1860s, European philologists used Sanskrit's atoms and grammatical architecture to construct PIE, then placed their imaginary language above Sanskrit.[NOTE: early-19c-comparative-philology-bopp-pott] In 1887, Esperanto presented engineered generativity as a modern European experiment without acknowledging the complete generative architecture already preserved in Sanskrit.[NOTE: esperanto-engineered-botanical-transition]
 
-The treatment of sound followed the same pattern. The organization that became the International Phonetic Association was founded in Paris in 1886 and published its first alphabet in 1888. It experimented with a chart format in 1894 and published its first full chart in 1900. That chart placed the locations of articulation across one axis and the physical manners of production down the other.[NOTE: ipa-1886-1900-chart]
+The treatment of sound followed the same pattern. The organization that became the International Phonetic Association was founded in Paris in 1886 and published its first alphabet in 1888. Its journal published French and German phoneme charts in 1894, followed by the first full IPA chart in 1900. That chart placed the locations of articulation across one axis and the physical manners of production down the other.[NOTE: ipa-1886-1900-chart]
 
 The chart reproduced the organizing principle of the वर्णमाला (*varṇamālā*): ***स्थान (*sthāna*)*** across and ***प्रयत्न (*prayatna*)*** down. The European labels differed, and the inventory expanded to accommodate sounds from many languages. The architecture underneath remained the same.
 
@@ -136,7 +136,7 @@ India preserves something different in scale. The Vedas, Sanskrit's sound archit
 
 Teachers and specialists carried Sanskritic knowledge through the calibrant waves. Whole communities carried something more extensive when they moved. They took their spoken languages, music, food, ceremonies, family memories, and ways of organizing daily life into their new homes. This book calls that movement the **Diasporic Wave**. Many of its carriers did not choose to leave India freely. Some were displaced, transported as indentured laborers, or driven into regions where the surrounding society treated them as outsiders. What survived the journey depended upon what families and communities could continue teaching under those conditions.
 
-The **Romani** provide the earliest documented example outside the Indian subcontinent. Their languages preserve substantial Indic vocabulary and grammar after dozens of generations of separation. Along the way, sustained contact with Persian, Greek, Slavic, Romance, and Germanic languages changed those forms. Hindi and Punjabi speakers can still hear familiar words in Romani, although they cannot understand the language fully without studying it.
+The **Romani** provide a long-running example outside the Indian subcontinent. Their languages preserve substantial Indic vocabulary and grammar after dozens of generations of separation. Along the way, sustained contact with Persian, Greek, Slavic, Romance, and Germanic languages changed those forms. Hindi and Punjabi speakers can still hear familiar words in Romani, although they cannot understand the language fully without studying it.
 
 European persecution did not erase that Indic inheritance. Romani communities survived medieval expulsions and twentieth-century genocide while continuing to speak their languages. They also enriched musical and performance traditions in several parts of Europe, although the route and extent of that influence differ by region.[NOTE: romani-diaspora-evidence]
 

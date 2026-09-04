@@ -1,0 +1,918 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="x-ua-compatible" content="IE=edge" />
+    <title>
+		Deccan College
+	</title>
+    <meta name="Description" content="Deccan College">
+    <meta name="Keywords" content="Deccan College">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+    <!-- Common CSS -->
+    <link href="/jspui/ds.css" rel="stylesheet" />
+    <link href="/jspui/css/bootstrap.css" rel="stylesheet" />
+    <link href="/jspui/css/ds-style.css" rel="stylesheet" />
+    <link href="/jspui/css/form.css" rel="stylesheet" />
+    <link href="/jspui/css/main.css" rel="stylesheet" />
+    <!-- Common CSS -->
+    <!-- J-Query 1.11.3 -->
+    <script src="/jspui/js/jquery.min.js" type="text/javascript"></script>
+    <!-- J-Query 1.11.3 -->
+    <!-- Bootstrap JS -->
+    <script src="/jspui/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/jspui/js/bootstrap.offcanvas.js" type="text/javascript"></script>
+    <!-- Bootstrap JS -->
+
+    <link href="/jspui/css/metismenu.min.css" rel="stylesheet" />
+    <script src="/jspui/js/metismenu.min.js"></script>
+    <script src="/jspui/js/submenu.js"></script>
+
+
+
+    <link rel="stylesheet" href="/jspui/css/jquery.webui-popover.css" type="text/css">
+    <!-- bin/jquery.slider.min.css -->
+    <link rel="stylesheet" href="/jspui/css1/jslider.css" type="text/css">
+    <!-- end -->
+    <!-- bin/jquery.slider.min.js -->
+    <script type="text/javascript" src="/jspui/js1/tmpl.js"></script>
+    <script type="text/javascript" src="/jspui/js1/jquery.dependClass-0.1.js"></script>
+    <script type="text/javascript" src="/jspui/js1/draggable-0.1.js"></script>
+    <script type="text/javascript" src="/jspui/js1/jquery.slider.js"></script>
+    <!-- end -->
+
+    <script>
+        jQuery(document).ready(function ($) {
+            $("#members-login").on("click", function () {
+                $("#login-area").stop().slideToggle(400);
+            });
+        });
+    </script>
+
+    <script>
+        $(document).mouseup(function (e) {
+            var container = $("#login-area");
+            if (!container.is(e.target) // if the target of the click isn't the container...
+                && container.has(e.target).length === 0) // ... nor a descendant of the container
+            {
+                container.slideUp();
+            }
+        });
+    </script>
+
+    <!--Fancybox Scripts -->
+    <link rel="stylesheet" href="/jspui/css/jquery.fancybox.css" type="text/css" />
+    <script type="text/javascript" src="/jspui/js/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="/jspui/js/jquery.fancybox-media.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".fancybox").fancybox({
+                openEffect: 'fade',
+                closeEffect: 'none',
+                padding: 5,
+                margin: 30,
+                helpers: {
+                    overlay: {
+                        locked: false
+                    }
+                }
+            });
+
+            $(".help").fancybox({
+                maxWidth: 700,
+                fitToView: false,
+                width: '70%',
+                height: 'auto',
+                autoSize: true,
+                closeClick: false,
+                openEffect: 'fade',
+                closeEffect: 'fade',
+                padding: 0
+            });
+
+            $(document).ready(function () {
+                $(".terms").fancybox({
+                    maxWidth: 800,
+                    fitToView: true,
+                    width: '70%',
+                    height: '70%',
+                    autoSize: false,
+                    closeClick: false,
+                    openEffect: 'fade',
+                    closeEffect: 'fade',
+                    padding: 0
+                });
+            });
+        });
+    </script>
+    <!--Fancybox Scripts -->
+</head>
+<body class="body">
+    <div class="wrapper">
+        <!-- HEADER -->
+        
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' src='/jspui/static/js/jquery/jquery-ui.custom.min.js'></script>
+<link rel="stylesheet" href="/jspui/static/css/jquery-ui-1.10.3.custom/redmond/jquery-ui.custom.css" type="text/css" />
+<script>
+	var selectedFilters = [];
+</script>
+<style>
+	.ui-autocomplete{
+		cursor: pointer;
+		overflow-x: hidden;
+		overflow-y: scroll;
+		z-index: 2000;
+		position:fixed !important;
+	}
+	#ui-datepicker-div {
+	    z-index: 2000 !important;
+	}
+	.ui-datepicker-header {
+		 z-index: 2000 !important;
+	}
+	#ui-id-1{
+		z-index: 2000;
+		position:fixed !important;
+	}	
+	.clr-red-br {
+	    border: 2px solid #fcd24a;
+	    background: #fcd24a !important;
+	    color: #c80000;
+	    font-weight: bold;
+	    -webkit-transition: all .3s ease 0s;
+	    -o-transition: all .3s ease 0s;
+	    transition: all .3s ease 0s;
+	    padding: 6px 13px;
+	}
+	.clr-red-br:hover {
+	    border: 2px solid #c80000;
+	    color: #fff !important;
+	    background: #c80000 !important;
+	}
+	#search-toggle:hover {
+      color: white !important;
+    }
+	li>a:focus{
+	  outline: none !important;
+	}
+    
+</style>
+<script src="/jspui/JavaScriptServlet"></script>
+
+<script type="text/javascript">
+	function removeFilters(index){
+		if(selectedFilters.length > 0) {
+			var fieldName = $("#filter_field_"+index).val();
+			var fieldType = $("#filter_type_"+index).val();
+			var fieldValue = $("#filter_value_"+index).val();
+			var fieldNameIndex = selectedFilters.indexOf(fieldName);
+			var fieldValueIndex = selectedFilters.indexOf(fieldValue);
+			if(fieldNameIndex != -1) {
+				selectedFilters.splice(fieldNameIndex, 3);
+			}
+			$("#dynamic_div_"+index).remove();
+		}
+	}
+	function resetAdvanceSearch(){
+		if($("#filtername").val() == "date") {
+			$("#filterquery").attr("onkeypress", "onChangeDynamicFilter(this.value)");
+			$("#filterquery").datepicker("destroy");
+			$("#filterquery2").datepicker("destroy");
+			$("#filterquery2").remove();
+			$("#filterqueryOuterDiv").addClass("col-sm-5");
+			$("#filterqueryOuterDiv").removeClass("col-sm-2");
+			$("#toField").remove();
+			$("#yearFilterName").remove();
+			$("#yearInput").remove();
+		}
+		selectedFilters = [];
+		$("#filtername").prop('selectedIndex', 0);
+		$("#filtertype").prop('selectedIndex', 0);
+		$("#filterquery").val("");
+		$("#resourceTypeName").prop('selectedIndex', 0);
+		$("#scope1").prop('selectedIndex', 0);
+		
+		var dynamicDivLength = $('[id^=dynamic_div]').length;
+		$( 'div[id^=dynamic_div]' ).each(function(el){
+		  var dynamcuDivId = $(this).attr('id');
+		  $("#"+dynamcuDivId).remove();
+		});
+	}
+
+	function filterTypeChange() {
+		if($("#filtername").val() == "date")
+		{
+			if($("#filtertype").val() == "between")
+			{
+				var mainContent = '<div class="col-sm-1" id="yearFilterName">' +
+									'<div class="form-group">' +
+									'<input id="toField" type="text" value="To" disabled>' +
+									'</div>' +
+									'</div>' +
+									'<div class="col-sm-2" id="yearInput">' +
+									'<div class="form-group">' +
+										'<input type="text" id="filterquery2" name="filterquery2" onkeyup="enterForFilter(event)">' +
+									'</div>' +
+								'</div>';
+				
+				$("#filterqueryOuterDiv").removeClass("col-sm-5");
+				$("#filterqueryOuterDiv").addClass("col-sm-2");
+				$("#filterqueryOuterDiv").after(mainContent);
+				$("#filterquery").datepicker({onChangeMonthYear : function(){$(".dropdown-search").css({ display: "block" });}, dateFormat: "yy-mm-dd",changeYear: true,yearRange: "1000:c", onSelect: function(dateText, inst) { $(".dropdown-search").css({ display: "block" }); }});
+				$("#filterquery2").datepicker({onChangeMonthYear : function(){$(".dropdown-search").css({ display: "block" });},dateFormat: "yy-mm-dd",changeYear: true,yearRange: "1000:c", onSelect: function(dateText, inst) { $(".dropdown-search").css({ display: "block" }); }});
+			}else
+			{
+				var element =  document.getElementById("yearInput");
+				if(typeof(element) != 'undefined' && element != null)
+				{
+					$("#filterquery2").datepicker("destroy");
+					$(element).remove();
+					$("#yearFilterName").remove();
+					$("#filterqueryOuterDiv").removeClass("col-sm-2");
+					$("#filterqueryOuterDiv").addClass("col-sm-5");
+				}
+			}
+		}		
+	}
+		
+	function filterNameChange(){	
+		
+		if($("#filtername").val() == "date")
+		{
+			/*$("#filtertype").html('<option value="equals">Equals</option><option value="between">Between</option><option value="before">Before</option><option value="after">After</option>');*/
+			$("#filtertype").html('<option value="equals">Equals</option><option value="between">Between</option>');
+			if ($("#filtertype").val() != "equals" ) {
+				$("#filterquery").datepicker({onChangeMonthYear : function(){$(".dropdown-search").css({ display: "block" });},dateFormat: "yy-mm-dd",changeYear: true,yearRange: "1000:c", onSelect: function(dateText, inst) { $(".dropdown-search").css({ display: "block" }); }});
+			}
+		}
+		else
+		{
+			$("#filtertype").html('<option value="equals">Equals</option><option value="contains">Contains</option><option value="soundslike">Sounds Like</option><option value="notequals">Not Equals</option><option value="notcontains">Not Contains</option>');
+			$("#filterquery").datepicker("destroy");
+			if(selectedFilters.indexOf("date") == -1) {
+				var element =  document.getElementById("yearInput");
+				if(typeof(element) != 'undefined' && element != null)
+				{
+					$("#filterquery2").datepicker("destroy");
+					$(element).remove();
+					$("#dynamicYearSpacer").remove();
+					$("#mainSearchQuery").removeClass("col-sm-2");
+					$("#mainSearchQuery").addClass("col-sm-5");
+				}
+			}
+		}
+		$("#filterquery").prop("disabled", false);
+	}
+
+	$(document).ready(function () {
+		$("#filterquery").autocomplete({
+			source: function(request, response){
+				var filter = $("#filtername").val();
+				$("#scope").val($("#scope1").val());	
+				$("#appliedFilters").val("");		
+				var httpReq = "";
+				if (selectedFilters != null && selectedFilters.length >0 ) 
+				{
+					var idx = 1;
+					for(var i = 0 ; i<=selectedFilters.length-3;i++ ){
+						if(i == 0){
+						 httpReq = httpReq +"?filter_field_"+idx+"="+ selectedFilters[i++];
+						}else{
+						 httpReq = httpReq +"&filter_field_"+idx+"="+ selectedFilters[i++];
+						}
+						 httpReq = httpReq +"&filter_type_"+idx+"="+ selectedFilters[i++];
+						 httpReq = httpReq +"&filter_value_"+idx+"="+ selectedFilters[i];
+						 idx++;
+					}
+				}
+				$.ajax({
+					url: "/jspui/json/discovery/autocomplete" + httpReq,
+					dataType: "json",
+					cache: false,
+					data: {
+						auto_idx: filter,
+						auto_query: $("#filterquery").val(),
+						auto_sort: "count",
+						auto_type: $("#filtertype").val(),
+						location: $("#scope1").val()
+					},
+					success: function(data){
+						response($.map(data.autocomplete, function(item){
+							var displayLabel = item.displayedValue + " (" + item.count + ")";
+							var valueLabel = item.displayedValue;
+							return {label:displayLabel,value:valueLabel}
+						}));
+					}
+				})
+			},
+			select: function(event, ui) {
+				$(".dropdown-search").css({ display: "block" });
+			}
+			
+		});
+	});
+</script>
+
+<script type="text/javascript">
+	function onChangeDynamicFilter(val) {
+		if($("#filtername").val() == "date") {
+			return;
+		}
+		$("#filterquery").autocomplete({
+			source: function(request, response){
+				var filter = $("#filtername").val();			
+				$("#scope").val($("#scope1").val());
+				$("#appliedFilters").val("");			
+				var httpReq = "";
+				if (selectedFilters != null && selectedFilters.length >0 ) 
+				{
+					var idx = 1;
+					for(var i = 0 ; i<=selectedFilters.length-3;i++ ){
+						if(i == 0){
+						 httpReq = httpReq +"?filter_field_"+idx+"="+ selectedFilters[i++];
+						}else{
+						 httpReq = httpReq +"&filter_field_"+idx+"="+ selectedFilters[i++];
+						}
+						 httpReq = httpReq +"&filter_type_"+idx+"="+ selectedFilters[i++];
+						 httpReq = httpReq +"&filter_value_"+idx+"="+ selectedFilters[i];
+						 idx++;
+					}
+				}
+				$.ajax({
+					url: "/jspui/json/discovery/autocomplete" + httpReq,
+					dataType: "json",
+					cache: false,
+					data: {
+						auto_idx: filter,
+						auto_query: $("#filterquery").val(),
+						auto_sort: "count",
+						auto_type: $("#filtertype").val(),
+						location: $("#scope1").val()
+					},
+					success: function(data){
+						response($.map(data.autocomplete, function(item){
+							var displayLabel = item.displayedValue + " (" + item.count + ")";
+							var valueLabel = item.displayedValue;
+							return {label:displayLabel,value:valueLabel}
+						}));
+					}
+				})
+			},
+			select: function(event, ui) {
+				$(".dropdown-search").css({ display: "block" });
+			}
+		});
+	}
+
+	function dateValue() {
+		var value = $("#filterquery").val();	
+		var type = $("#filtertype").val();		
+		if(type == "between")
+		{
+			value = "[" + value + "+TO+" + $("#filterquery2").val() +"]";
+		}
+		/*else if(type == "before")
+		{
+			value = "[0000" + "+TO+" + value +"]";
+		}
+		else if(type == "after")
+		{
+			value = "[" + value + "+TO+*]";
+		}*/
+		return value;
+	}
+
+	var counter = 1;
+
+	$(document).on("click","#btnadd",function(){
+		
+		// validation of filter already selected
+			if (selectedFilters.indexOf($("#filtername").val()) != -1) {
+				alert("Filter already exist!");
+				return;
+			}
+		var value = $("#filterquery").val();
+		if(value.length > 0) {
+			
+			if($("#filtername").val() == "date")
+			{
+				value = dateValue();
+			}
+				
+			selectedFilters.push($("#filtername").val());
+			selectedFilters.push($("#filtertype").val());
+			selectedFilters.push(value);
+			//disabled fields
+			$("#filtername").prop('disabled', true);
+			$("#filtertype").prop('disabled', true);
+			$("#filterquery").prop('disabled', true);
+			
+			// remove and change attr
+			$("#filtername").attr('name', 'filter_field_'+counter);
+			$("#filtername").attr('id', 'filter_field_'+counter);
+			$("#filtername").attr('class', 'filter_field_'+counter);
+			$("#filtertype").attr('name', 'filter_type_'+counter);
+			$("#filtertype").attr('id', 'filter_type_'+counter);
+			$("#filtertype").attr('class', 'filter_type_'+counter);
+			$("#filterquery").attr('name', 'filter_value_'+counter);
+			$("#filterquery").attr('id', 'filter_value_'+counter);
+			$("#filterquery").attr('class', 'filter_value_'+counter);
+			$("#dynamicDiv").attr('id', 'dynamic_div_'+counter);
+			$("#filterqueryOuterDiv").removeAttr('id');
+					
+			var html='                    <div class="row" id="dynamicDiv">'+
+		'        	<div class="col-sm-3">'+
+		'            	<div class="form-group" id="filternameDiv">'+
+		'                	<select id="filtername" name="filtername" onchange="filterNameChange()">'+
+		'						<option value="title">Title</option>'+
+		'						<option value="callno">Call No</option>'+
+		'						<option value="accno">Acc No</option>'+
+		'						<option value="author1">Author1</option>'+
+		'						<option value="language">language</option>'+
+		'						<option value="datecreated">Year of Publication</option>'+
+		'                    </select>'+
+		'				</div>'+
+		'          	</div>'+
+		'          	<div class="col-sm-2">'+
+		'          		<div class="form-group" id="filtertypeDiv">'+
+		'          			<select id="filtertype" name="filtertype"onchange="filterTypeChange()">'+
+		'          				<option value="equals">Equals</option>'+
+		'          	            <option value="contains">Contains</option>'+
+		'          	            <option value="soundslike">Sounds Like</option>'+
+		'          				<option value="notequals">Not Equals</option>'+
+		'          				<option value="notcontains">Not Contains</option>'+
+		'          	        </select>'+
+		'          		</div>'+
+		'          	</div>'+
+		'  			<div class="col-sm-5" id="filterqueryOuterDiv">'+
+		'	            <div class="form-group" id="filterqueryDiv">'+
+		'					<input type="text" id="filterquery" name="filterquery" class="filter" onkeypress="onChangeDynamicFilter(this.value)">'+
+		'                </div>'+
+		'            </div>'+
+		'            <div class="col-sm-2">'+
+		'            	<div class="form-group">'+
+		'                	<button id="btnadd" type="submit" class="clr-brown-br"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;ADD'+'</button>'+
+		'                </div>'+
+		'            </div>';
+
+			$( "#btnadd" ).replaceWith('<a id="remove_'+counter +'" href="#" onclick="removeFilters(' + counter + ')" class="clr-brown-br"><i class="fa fa-minus-circle" aria-hidden="true"></i></a>');
+			$('#advanceSearch').append(html);
+			$("#filtername").prop('selectedIndex', 0);
+			$("#filtertype").prop('selectedIndex', 0);
+			$("#filterquery").val('');
+			$("#filtername").focus();
+			counter++;
+		}	
+	});
+		
+	function onCollectionSpecificFilter1(){
+		var location = document.getElementById("scope1").value;
+		$("#scope").val(location);
+		$("#appliedFilters").val("");
+		var filtername = document.getElementById("filtername").value;
+		var filtertype = document.getElementById("filtertype").value;
+		var filterquery = document.getElementById("filterquery").value;
+		if($("#filtername").val() == "date") {
+			filterquery = dateValue();
+		}
+		var apQuery = "";
+		var rp = "&query=&sort_by=dc.date.accessioned_dt&order=desc&rpp=20&etal=0" ;
+		var baseURL = "/jspui";
+		var url = ""; 
+		if (selectedFilters != null && selectedFilters.length >1 ) 
+		{
+			var idx = 1;
+			for(var i = 0 ; i<=selectedFilters.length-3;i++ ){
+				 apQuery = apQuery +"&filter_field_"+idx+"="+ selectedFilters[i++];
+				 apQuery = apQuery +"&filter_type_"+idx+"="+ selectedFilters[i++];
+				 apQuery = apQuery +"&filter_value_"+idx+"="+ selectedFilters[i];
+				 idx++;
+			}
+			url = baseURL + "/simple-search?location=" + location + rp;
+			if (filterquery == '') {
+				url = url + apQuery;
+			} else {
+				rp = "&filtername=";
+				url = url + rp + filtername + "&filtertype=" + filtertype + "&filterquery=" + filterquery + apQuery;
+			}
+		} else if(selectedFilters.length == 1) {
+			rp = "&filtername=";
+			url = baseURL + "/simple-search?location=" + location + rp + selectedFilters[0] + "&filtertype=" + selectedFilters[1] + "&filterquery=" + selectedFilters[2] + apQuery;
+		} else {
+			if ($("#filterquery").val() === '') {
+				url = baseURL + "/simple-search?location=" + location + rp;
+			} else {
+				rp = "&filtername=";
+				url = baseURL + "/simple-search?location=" + location + rp + filtername + "&filtertype=" + filtertype + "&filterquery=" + filterquery;
+			}
+		}
+		window.location.assign(url);
+	}
+	
+	function querySearch(){
+		var query = $("#query").val();
+		if(!query.match("^[a-zA-Z0-9*/: ]*$")){
+			alert("Special characters not allowed except *, /, and :");
+			event.preventDefault();
+			return;
+		}
+		var encodedQuery = encodeURIComponent(query);
+		var baseURL = "/jspui";
+		var url = baseURL + "/simple-search?query=" + encodedQuery + "&frontend=frontend&rpp=20&sort_by=score&order=desc";
+		
+		window.location.assign(url);
+	}
+	
+	function keyupForQuery(e){
+		if(e.keyCode == 13){
+			querySearch();
+		}
+	}
+</script>
+
+<script>
+	$(document).ready(function () {
+	    // Expand Search Panel
+	    $("#search-toggle").click(function () {
+	        $(".dropdown-search").slideDown();
+	    });
+	
+	    $(".btn-close").click(function () {
+	        $(".dropdown-search").slideUp();
+	    });
+	});
+	
+	$(document).mouseup(function (e) {
+	    var container = $(".dropdown-search");
+	
+	    if (!container.is(e.target) // if the target of the click isn't the container...
+	        && container.has(e.target).length === 0) // ... nor a descendant of the container
+	    {
+	
+	        container.hide();
+	
+	    }
+	});
+</script>
+<script type="text/javascript">
+	
+</script>
+<style>
+	.navbar-nav li.active a, .navbar-nav li a.active {
+		color: var(--primary-green) !important;
+	}
+</style>
+
+<script type="text/javascript">
+
+subdirectory = "null";
+
+document.write('<nav class="navbar navbar-light bg-nav navbar-fixed-top" style="background: #820800;">');
+document.write('            <div class="container">');
+document.write('                <div class="navbar-header col-md-6" style="padding-left:0;"><div class="navbar-brand" style=display:flex;align-items:center;height:100%>');
+document.write('                    <a href="/jspui/">');
+document.write('                    <img src="/jspui/images/logo.png" alt="" title="" class="img-fluid"></a>  <p class="heading-sm">Virasat - The Digital Library Database</p>');
+document.write('                    <button id="offcanvas-toggle" type="button" class="navbar-toggle collapsed offcanvas-toggle hidden-xl-up" data-toggle="offcanvas" data-target="#navbar" aria-expanded="false" aria-controls="navbar">');
+document.write('                        <span class="icon-bar"></span>');
+document.write('                        <span class="icon-bar"></span>');
+document.write('                        <span class="icon-bar"></span>');
+document.write('                    </button>');
+document.write('                </div>');
+document.write('            <div class="navbar-cust-brand-txt">');
+document.write('                    <p style="color: #FFF; font-family: Inter; font-size: 20px; font-style: normal; font-weight: 700; line-height: normal; text-transform: uppercase; margin: 10px 0 10px 0 !important;" class="nav-heading">Virasat - The Digital Library Database</p>');
+document.write('                    <p class="nav-heading" style="color: #FFF; font-family: Inter; font-size: 14px; font-style: normal; font-weight: 500; line-height: normal; text-transform: uppercase; margin: 0 0 5px 0 !important;">Deccan College Post-Graduate & Research Institute </p>');
+document.write('                    <p class="nav-heading" style="color: #FFF; font-family: Inter; font-size: 14px; font-style: normal; font-weight: 400; line-height: normal; margin: 0 0 10px 0 !important;">(Deemed to be University), Pune</p>');
+document.write('                </div>');
+document.write('                </div>');
+document.write('                <div class="search-area text-xl-right text-xs-right">');
+document.write('                    <div class="input-group">');
+document.write('                        <input name="query" id="query" type="text" class="form-control" placeholder="Search" onkeyup="keyupForQuery(event)">');
+document.write('                        <span class="search-btn">');
+document.write('                            <a href="#" onclick="querySearch()" class="search-box"><i class="fa fa-search"></i></a>');
+document.write('                        </span>');
+document.write('                    </div>');
+document.write('                                <div class="nav-item">');
+document.write('<a id="search-toggle" style="color:white !important;" href="#">ADVANCED SEARCH</a>');
+
+document.write('    <div class="dropdown-search"><div class="search_panel">');
+document.write('      <div class="btn-close pull-xs-right" style="width:auto;"><i class="fa fa-times-circle" aria-hidden="true"></i></div>');
+document.write('      <h4 style = "color:#280f00 !important; text-transform: none;"> Advanced Search is useful for more specific search options. </h4>');
+document.write('      <h4 style = "color:#280f00 !important; text-transform: none;"> You can use a single or a combination of fields to perform Advanced Search. </h4>');
+document.write('      <div class="spacer1"></div>');
+
+document.write('<div id="advanceSearch" class="search_data">');
+document.write('    <div class="row">');
+document.write('        <div class="col-sm-3">');
+document.write('            <div class="form-group">');
+document.write('                <select id="resourceTypeName">');
+document.write('                    <option value="ResourceType">Resource Type</option>');
+document.write('                </select>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('        <div class="col-sm-7">');
+document.write('            <div class="form-group">');
+document.write('                <select id="scope1" name="scope1">');
+document.write('                    <option value="">All Collections</option>');
+document.write('                    <option value="123456789/18256">Books</option>');
+document.write('                    <option value="123456789/18259">Deccan College Publications</option>');
+document.write('                    <option value="123456789/18258">Dissertations</option>');
+document.write('                    <option value="123456789/18262">Maps and Atlases</option>');
+document.write('                    <option value="123456789/18261">Manuscripts</option>');
+document.write('                    <option value="123456789/18257">Theses</option>');
+document.write('                    <option value="123456789/18260">Pothi</option>');
+document.write('                    <option value="123456789/18263">Audio Video Collections</option>');
+document.write('                </select>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('    </div>');
+
+document.write('    <div class="row" id="dynamicDiv">');
+document.write('        <div class="col-sm-3">');
+document.write('            <div class="form-group">');
+document.write('                <select id="filtername" name="filtername" onchange="filterNameChange()">');
+document.write('                    <option value="title">Title</option>');
+document.write('                    <option value="callno">Call No</option>');
+document.write('                    <option value="accno">Acc No</option>');
+document.write('                    <option value="author1">Author1</option>');
+document.write('                    <option value="language">language</option>');
+document.write('                    <option value="datecreated">Year of Publication</option>');
+document.write('                </select>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('        <div class="col-sm-2">');
+document.write('            <div class="form-group">');
+document.write('                <select id="filtertype" name="filtertype" onchange="filterTypeChange()">');
+document.write('                    <option value="equals">Equals</option>');
+document.write('                    <option value="contains">Contains</option>');
+document.write('                    <option value="soundslike">Sounds Like</option>');
+document.write('                    <option value="notequals">Not Equals</option>');
+document.write('                    <option value="notcontains">Not Contains</option>');
+document.write('                </select>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('        <div class="col-sm-5" id="filterqueryOuterDiv">');
+document.write('            <div class="form-group">');
+document.write('                <input type="text" id="filterquery" name="filterquery">');
+document.write('            </div>');
+document.write('        </div>');
+document.write('        <div class="col-sm-2">');
+document.write('            <div class="form-group">');
+document.write('                <button id="btnadd" type="submit" class="clr-brown-br"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;ADD</button>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('    </div>');
+
+document.write('    <div class="spacer1"></div>');
+
+document.write('      </div>');
+document.write('    <div class="row">');
+document.write('        <div class="col-sm-12">');
+document.write('            <button type="submit" class="btn-brown" onclick="resetAdvanceSearch()">Reset</button>');
+document.write('            <button type="submit" class="btn-brown" onClick="onCollectionSpecificFilter1()">Search</button>');
+document.write('          </div>');
+document.write('        </div>');
+document.write('    </div>');
+document.write('                                </div>');
+document.write('                </div>');
+document.write('                </div>');
+/* document.write('                    <div id="offcanvas-overlay"></div>'); */
+
+
+
+
+
+document.write('                    <div class="pull-xs-right navbar-offcanvas-right navbar-offcanvas" id="navbar">');/*This line is added on 24-April-2017*/
+document.write('                        <ul class="nav navbar-nav flex navbar-padding">');/*This line is updated on 24-April-2017*/
+if((true) && (true) && (false))
+{
+	document.write('                            <li class="nav-item"><a href="/jspui/batchimport"><span class="hidden-md-up-custom">Upload</span> <i class="fa fa-cloud-upload" aria-hidden="true" title="Bulk Upload"></i></a></li>');
+	document.write('                            <li class="nav-item"><a href="/jspui/submit"><span class="hidden-md-up-custom">Upload</span> <i class="fa fa-upload" aria-hidden="true" title="Upload"></i></a></li>');
+}
+
+if(false)
+{
+	document.write('                            <li class="nav-item"><a href="/jspui/adminDashboard"><span class="hidden-md-up-custom">Administrator</span> <i class="fa fa-cogs" aria-hidden="true" title="Administrator"></i></a></li>');
+}
+
+if(subdirectory == "home"){
+	document.write('                            <li class="nav-item active"><a href="/jspui/">Home</a></li>');
+}else{
+	document.write('                            <li class="nav-item"><a href="/jspui/">Home</a></li>');
+}
+
+if (subdirectory == "about") {
+    document.write('                            <li class="nav-item active"><a href="/jspui/contextInfo?redirect=about">About</a></li>');
+}
+else {
+    document.write('                            <li class="nav-item"><a href="/jspui/contextInfo?redirect=about">About</a></li>');
+}
+
+if (subdirectory == "contact") {
+    document.write('                            <li class="nav-item active"><a href="/jspui/contextInfo?redirect=contact">Contact</a></li>');
+}
+else {
+    document.write('                            <li class="nav-item"><a href="/jspui/contextInfo?redirect=contact">Contact</a></li>');
+}
+if (subdirectory == "myList" && false ) {
+    document.write('                            <li class="nav-item active"><a href="/jspui/mylist?redirect=myList&action=viewList" id="myList">My List <span id="myListItems">(0)</span></a></li>');
+}
+else if(false) {
+    document.write('                            <li class="nav-item"><a href="/jspui/mylist?redirect=myList&action=viewList" id="myList">My List <span id="myListItems">(0)</span></a></li>');
+}
+
+
+/* document.write('                                <li class="nav-item">');
+document.write('<a id="search-toggle" href="#">ADVANCED SEARCH</a>');
+
+document.write('    <div class="dropdown-search"><div class="search_panel">');
+document.write('      <div class="btn-close pull-xs-right" style="width:auto;"><i class="fa fa-times-circle" aria-hidden="true"></i></div>');
+document.write('      <h4 style = "color:#280f00 !important; text-transform: none;"> Advanced Search is useful for more specific search options. </h4>');
+document.write('      <h4 style = "color:#280f00 !important; text-transform: none;"> You can use a single or a combination of fields to perform Advanced Search. </h4>');
+document.write('      <div class="spacer1"></div>');
+
+document.write('<div id="advanceSearch" class="search_data">');
+document.write('    <div class="row">');
+document.write('        <div class="col-sm-3">');
+document.write('            <div class="form-group">');
+document.write('                <select id="resourceTypeName">');
+document.write('                    <option value="ResourceType">Resource Type</option>');
+document.write('                </select>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('        <div class="col-sm-7">');
+document.write('            <div class="form-group">');
+document.write('                <select id="scope1" name="scope1">');
+document.write('                    <option value="">All Collections</option>');
+document.write('                    <option value="123456789/18256">Books</option>');
+document.write('                    <option value="123456789/18259">Deccan College Publications</option>');
+document.write('                    <option value="123456789/18258">Dissertations</option>');
+document.write('                    <option value="123456789/18262">Maps and Atlases</option>');
+document.write('                    <option value="123456789/18261">Manuscripts</option>');
+document.write('                    <option value="123456789/18257">Theses</option>');
+document.write('                    <option value="123456789/18260">Pothi</option>');
+document.write('                    <option value="123456789/18263">Audio Video Collections</option>');
+document.write('                </select>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('    </div>');
+
+document.write('    <div class="row" id="dynamicDiv">');
+document.write('        <div class="col-sm-3">');
+document.write('            <div class="form-group">');
+document.write('                <select id="filtername" name="filtername" onchange="filterNameChange()">');
+document.write('                    <option value="title">Title</option>');
+document.write('                    <option value="callno">Call No</option>');
+document.write('                    <option value="accno">Acc No</option>');
+document.write('                    <option value="author1">Author1</option>');
+document.write('                    <option value="language">language</option>');
+document.write('                    <option value="datecreated">Year of Publication</option>');
+document.write('                </select>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('        <div class="col-sm-2">');
+document.write('            <div class="form-group">');
+document.write('                <select id="filtertype" name="filtertype" onchange="filterTypeChange()">');
+document.write('                    <option value="equals">Equals</option>');
+document.write('                    <option value="contains">Contains</option>');
+document.write('                    <option value="soundslike">Sounds Like</option>');
+document.write('                    <option value="notequals">Not Equals</option>');
+document.write('                    <option value="notcontains">Not Contains</option>');
+document.write('                </select>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('        <div class="col-sm-5" id="filterqueryOuterDiv">');
+document.write('            <div class="form-group">');
+document.write('                <input type="text" id="filterquery" name="filterquery">');
+document.write('            </div>');
+document.write('        </div>');
+document.write('        <div class="col-sm-2">');
+document.write('            <div class="form-group">');
+document.write('                <button id="btnadd" type="submit" class="clr-brown-br"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;ADD</button>');
+document.write('            </div>');
+document.write('        </div>');
+document.write('    </div>');
+
+document.write('    <div class="spacer1"></div>');
+
+document.write('      </div>');
+document.write('    <div class="row">');
+document.write('        <div class="col-sm-12">');
+document.write('            <button type="submit" class="btn-brown" onclick="resetAdvanceSearch()">Reset</button>');
+document.write('            <button type="submit" class="btn-brown" onClick="onCollectionSpecificFilter1()">Search</button>');
+document.write('          </div>');
+document.write('        </div>');
+document.write('    </div>');
+document.write('                                </li>'); */
+document.write('                                <li class="nav-item members-login">');
+if("" === ""){
+    document.write('                                <a id="members-login" href="/jspui/mydspace" class=""><span>Login</span></a>');
+}
+else {
+    document.write('                                <a id="members-login" href="#"><span>Welcome </span> <i class="fa fa-user" aria-hidden="true"></i></a>');
+
+	document.write('                                <div id="login-area" class="login-content">');
+	document.write('                                    <div class="memebers-login-info">');
+	document.write('                                        <ul>');
+	document.write('                                            <li><a href="/jspui/userAccount?rpp=6" style="border-right: 0;">My Account</a></li>');
+	document.write('                                            <li><a href="/jspui/my-account/user-order?action=viewOrders" style="border-right: 0;">My Orders</a></li>');
+	document.write('											<li><a href="/jspui/browsing-history" style="border-right: 0;">My Browsing History</a></li>');	
+	document.write('                                            <li><a href="/jspui/logout?frontend=frontend" style="border-right: 0;">Logout</a></li>');
+	document.write('                                        </ul>');
+	document.write('                                    </div>');
+	document.write('                                </div>');
+}
+
+document.write('                            </li>');
+
+
+document.write('                        </ul>');
+document.write('                </div>');
+document.write('            </div>');
+document.write('        </nav>');
+
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+        <!-- HEADER -->
+        <!-- BODY -->
+        <section class="container-fluid">
+            <div class="row">
+                <div class="spacer4"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-9 col-lg-9">
+                            <div class="row">
+                                <div class="container" style="font-size:16px; text-align:justify;">
+                                    <h1>About</h1>
+									<p>The Deccan College Post-Graduate and Research Institute (Deemed to be University), Pune is the third oldest educational institute in India. Earlier known as Hindoo College, it was started on 6<sup>th</sup>  October 1821 by the Bombay Presidency Government at the initiative of its Governor, Mountstuart Elphinstone by using the <i>Dakshina</i> Grant.<br><br><br>The Library of Deccan College is a vital component of the University and has a special place in the world of higher learning and research, both at the national and international levels. It is a unique library having collections mainly in the fields of Archaeology, Ancient Indian History, Medieval History, Anthropology, Linguistics, Sanskrit, Philosophy, and Religion. The library has also enriched its collections on the fringed and supporting fields such as Science &amp; Technology, Art &amp; Architecture, Botany, Ecology, Geology, Palaeontology, Agriculture, Geography, Sociology, Psychology, Education, Marathi, Ayurveda, Medicine, Mysticism and of course Indology – Orientology. It has inherited a rare collection of books from the old Deccan College whose origins go back to 1821. Now it has a collection of more than one lakh eighty thousand documents. The Deccan College Library is one of the best examples of a specialized research Library with excellent user-friendly facilities, which are being availed by scholars from all parts of India and even outside.<br><br><br> The Digital Library Database, Virasat, is following the tradition of passing down the knowledge stored in the inherited rare, rich, and diverse literature owned by the Library of this University. It contains digitized copies of rare Manuscripts, Pothi’s, Books (published between 1523-1940), University Annual Bulletins, University Publications, Annual Reports, Ph.D. Theses, Dissertations, Maps, Toposheets, and non-print collections (Audio-Videos, CDs, Microfilms, Microfiche), and Question Paper Sets, etc.</p>
+									<h5>Our Legacy:</h5>
+                                    <p>This University has a proud heritage in providing quality education. Our roots are deeply embedded in a tradition of academic excellence, cultural diversity, and holistic development.</p>						
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="push"></div>
+    </div>
+    <!--::: FOOTER :::-->
+    
+
+<script type="text/javascript">
+	document.write('<div class="footer">');
+	document.write('        <div class="container ftr-container text-xs-center">');
+	document.write('            <div class="col-xl-4 col-md-2 col-xs-12 text-xl-left">');
+	<!--document.write('                <img src="../images/logo-asiatic.png" alt="" title="" class="img-fluid" />');-->
+	document.write('            </div>');
+	document.write('            <div class="col-xl-12 col-md-12 col-xs-12 ">');
+	document.write('                <ul class="ftrlist">');
+	document.write('                    <li><a href="/jspui/general-info/terms-conditions.jsp" class="terms fancybox.iframe">TERMS AND CONDITION</a></li>');
+	document.write('                    <li><a href="/jspui/general-info/privacy-policy.jsp" class="terms fancybox.iframe">PRIVACY POLICY</a></li>');
+	document.write('                    <li><a href="/jspui/general-info/copyright.jsp" class="terms fancybox.iframe">COPYRIGHT POLICY</a></li>');
+	document.write('                    <li><a href="/jspui/general-info/return-policy.jsp" class="terms fancybox.iframe">Refund/Return Policy</a></li>');
+	document.write('					<li><a id="faq" href="/jspui/general-info/help.jsp" class="terms fancybox.iframe">HELP</a></li>');
+	document.write('                </ul>');
+	document.write('            </div>');
+	document.write('        </div>');
+	document.write('    </div>');
+	document.write('<a href="#" class="scrollup" title="Scroll Back to Top">');
+	document.write('<i class="fa fa-chevron-up"></i> TOP');
+	document.write('    </a>');
+</script>
+
+<!-- Code for google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-99997609-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Code for google analytics -->
+    <!--::: FOOTER :::-->
+    <!-- Common J-Query -->
+    <script src="/jspui/js/main.min.js" type="text/javascript"></script>
+    <!-- Common J-Query -->
+</body>
+</html>

@@ -1,0 +1,624 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <title>About Sanskrit Dictionary - Digital KoshaSHRI - An Encyclopaedic Dictionary of Sanskrit of Historical Principles</title>
+        <meta name="description" content="The Encyclopaedic Dictionary of Sanskrit on Historical Principles, initiated in 1948 by Professor S. M. Katre and first published in 1978, is a monumental work tracing the linguistic and semantic evolution of Sanskrit from the Vedas (1400 BCE) to the 19th century. Compiled by Deccan College, Pune, it encompasses 62 disciplines and serves as a vital resource for Sanskrit scholars, offering detailed analysis of words, their meanings, and cultural significance. The dictionary's creation involved collecting 10 million reference slips from 1469 texts, making it an unparalleled tool for research in Sanskrit and related fields.">
+        <meta name="keywords" content="KoshaSHRI,C-DAC Pune, Deccan College, Online Sanskrit Portal,Encyclopaedic Dictionary,Dictionary,Sanskrit, Sanskrit Dictionary, Historical Principles, Linguistics, Cultural History, Sanskrit Lexicography, Ancient Texts, Philology, Indology, Computational Linguistics, Scientific subjects,Ancient Lexicons ">
+        <!-- MediaWiki keyboard -->
+        <link  rel="stylesheet" href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/css/jquery.ime.css"/>
+        <link rel="stylesheet" href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/css/ime.css"/>
+        <link  rel="stylesheet" href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/css/jquery-ui.min.css"/>
+        <link rel="stylesheet" href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/css/home.css"/>
+        <!-- Favicons -->
+        <link href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/favicon.png" rel="icon">
+        <link href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+       
+        
+        <!-- Vendor CSS Files -->
+        <link href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+        <link href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+        <!-- Template Main CSS File -->
+        <link href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/css/main.css" rel="stylesheet">
+
+    </head>
+    <body class="d-flex flex-column min-vh-100">
+
+        <!-- ======= Header ======= -->
+        
+
+
+
+
+
+
+
+<meta name="_csrf" content="c27749e2-09cd-402f-aa7f-3ad7c68fd4f4"/>
+<meta name="_csrf_header" content="X-CSRF-TOKEN"/>
+<script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/jquery/jquery-3.6.1.min.js"></script>
+<link rel="stylesheet" href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/css/header-fragment.css"/>
+<link href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/favicon.png" rel="icon">
+<link href="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+<script type="module" src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/js/sockjs.js"></script>
+<script type="module" src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/js/stomp.js"></script>
+<script>
+    var __context = "";
+    var _csrfHeader = $("meta[name='_csrf_header']").attr("content");
+    var _csrfToken = $("meta[name='_csrf']").attr("content");
+    var __cdn = "https://koshashri-dc.ac.in/cdn";
+
+    function formSubmit() {
+        sessionStorage.clear();
+        document.getElementById("logoutForm").submit();
+    }
+</script>
+<style>
+    .active a{
+        color: #fe6500 !important;
+    }
+
+/*    .navbar ul li a{
+        margin-right: 15px;
+    }*/
+
+</style>
+<div class="container-fluid brdr-bottom py-1">
+      <div class="d-flex justify-content-end align-items-center pe-2 gap-2">
+            <div class="flex-grow-1"></div>
+            <div class="line" title="Skip to main content">
+                <a href="#main-content" class=""> 
+                    <span class="d-none d-sm-block">Skip to main content</span>
+                    <i class="fa-solid fa-forward-step d-block d-sm-none"></i>
+                </a>
+            </div>
+                    <!--hiding koshashri font for time being-->
+<!--            <div class="ms-3 line" title="Download font">
+                <a href="/auth/download/font" class="">
+                    <span class="d-none d-sm-block">Download Koshashri Font </span>
+                    <i class="fa-solid fa-download d-block d-sm-none"></i>
+                </a>
+            </div>-->
+<!--            <div class="">Language :</div>-->
+            <div class="ms-2">
+               <select class="form-select lang kosh-n" id="locales">
+                  <option value="en" selected="selected">English</option>
+                   <option value="hi" class="srckoshfont"> हिन्दी</option>
+                   <option value="sa">संस्कृत</option>
+               </select>
+            </div>
+<!--            <div class="ml10"><a href="/auth/download/font" class="">Download Koshashri Font </a></div>-->
+      </div>
+   </div>
+<header id="header" class="header d-flex align-items-center kosh-n">
+    <div class="container-fluid container-xl">
+        <div class="d-flex align-items-center justify-content-between"><a href="/" class="logo d-flex align-items-center"> 
+                <!-- Uncomment the line below if you also wish to use an image logo fixed-top-->
+                <h1> <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/logo.png" alt="KoshaSHRI" class="img-fluid"> 
+                    <!--KoshaSHRI--></h1>
+            </a> <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i> <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+             <nav id="navbar" class="navbar">
+                 <ul>
+                    <li class=""><a href="/" class=" d-block">Home</a></li>
+                    <li class="nav-item dropdown dp">
+                        <a class="nav-link dropdown-toggle" href="/about" id="dropdown1" data-bs-toggle="dropdown" aria-expanded="false">About</a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdown1">
+                            <li>
+                                <a class="dropdown-item" href="/about">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/favicon.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">KoshaSHRI Project</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="/contact/aboutDictionary">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/kosh-header.svg" width="20" height="20">
+                                    <span class="ms-2">Sanskrit Dictionary</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+<!--                    <li class="nav-item dropdown dp">
+                        <a class="nav-link dropdown-toggle" href="/search/publishedVolumes" id="dropdown2" data-bs-toggle="dropdown" aria-expanded="false">Volume Info.</a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdown2">
+                            <li>
+                                <a class="dropdown-item" href="/search/publishedVolumes">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/information.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Volume Search</span>
+                                </a></li>
+                            <li>
+                                <a class="dropdown-item" href="/search/catalog/1/10?searchTerm=अ">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/list.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Vocable Search</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>-->
+                    <li class="nav-item dropdown dp">
+                        <a class="nav-link dropdown-toggle" href="/search/" id="dropdown3" data-bs-toggle="dropdown" aria-expanded="false">Search</a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdown3">
+                            <li>
+                                <a id="basicSearch" class="dropdown-item" href="/search/">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/search.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Basic</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="/search/advancedSearch/1/10">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/advanced-search.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Advanced</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="/search/publishedVolumes">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/information.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Volume</span>
+                                </a></li>
+                            <li>
+                            <li>
+                                <a class="dropdown-item" href="/search/catalog/1/10?searchTerm=अ">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/list.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Vocable</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown dp">
+                        <a class="nav-link dropdown-toggle" href="/search/visuals/1/10"  id="dropdown4" data-bs-toggle="dropdown" aria-expanded="false">Timeline</a>
+                         <ul class="dropdown-menu" aria-labelledby="dropdown4">
+                            <li>
+                                <a class="dropdown-item" href="/search/timeline">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/historicaltimeline.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Historical</span>
+                                </a>
+                            </li>
+                            <!--for time being hiding logical timeline-->
+<!--                            <li>
+                                <a class="dropdown-item" href="/search/visuals/1/10">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/logicalTimeline.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Logical</span>
+                                </a>
+                            </li>-->
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown dp">
+                        <a class="nav-link dropdown-toggle" href="/feedback/" id="dropdown5" data-bs-toggle="dropdown" aria-expanded="false">Reach Us</a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdown5">
+                            <li>
+                                <a href="/feedback/" class="dropdown-item">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/feedback.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Feedback</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/feedback/contactUs" class="dropdown-item">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/contact-us.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Contact Us</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li> 
+                    <li class="nav-item dropdown dp">
+                        <a class="nav-link dropdown-toggle" href="/download/AOB" id="dropdown6" data-bs-toggle="dropdown" aria-expanded="false" target="_blank">Reader's Guide</a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdown6">
+                            <li>
+                                <a class="dropdown-item" href="/download/AOB" target="_blank" title="Abbreviations of Books quoted in the Sanskrit Dictionary">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/privacy-policy.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Book Abbreviations</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="/download/AUB" target="_blank" title="Abbreviations used in the Bibliography">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/copyright.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Bibliography Abbreviations</span>
+                                </a>
+                            </li>  
+                            <li>
+                                <a class="dropdown-item" href="/download/SWC" target="_blank" title='Subject-wise Classification and approximate Chronology of the Works'>
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/terms-and-conditions.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Subject-wise Classification</span>
+                                </a>
+                            </li>  
+                            <li>
+                                <a class="dropdown-item" href="/download/RG" target="_blank" title="Reader's Guide">
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/hyperlink.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Reader's Guide</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="/download/GA" target="_blank" title='General Abbreviations'>
+                                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/disclaimers.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">General Abbreviations</span>
+                                </a>
+                            </li>
+                             <li>
+                                <a class="dropdown-item" href="/search/help" title='Help'>
+                                   <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/icons/information.png" width="20" height="20" class="img-fluid pt-1">
+                                    <span class="ms-2">Help</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item py-1 col-12 col-lg-auto">
+                        <div class="vr d-none d-lg-flex h-100 mx-lg-2 text-muted ms-2"></div>
+                        <hr class="d-lg-none text-muted"/>
+                    </li>
+                    
+                    
+                        <a href="/auth/signin" class="login">Sign In</a>  
+                     
+                </ul>      
+            </nav>
+            <form action="/auth/logout" method="POST" id="logoutForm">
+                <input type="hidden" name="_csrf" value="c27749e2-09cd-402f-aa7f-3ad7c68fd4f4" />
+            </form> 
+        </div>
+    </div>
+</header>
+<nav class="navbarbg" style="height:5px !important; padding:0;"></nav>
+
+</nav>
+<script type="text/javascript">
+    $(document).ready(function(){
+            $("nav .dropdown").hover(function(){
+                var dropdownMenu = $(this).children("nav .dropdown-menu");
+                if(dropdownMenu.is(":visible")){
+                    dropdownMenu.parent().toggleClass("open");
+                }
+            });
+            $('#sidebarCollapse').on('click', function () {
+                    $('#sidebar').toggleClass('active');
+            });$('body, html').css('overflow-x', 'hidden');
+      });  
+
+    $("#basicSearch").on('click', function () {
+        location.href = __context + '/search/searchResult/1/10?searchTerm=' + "" + '&specificSearch=' + "fullText";
+    });
+</script>
+
+            <!-- End Header --> 
+            <div class="main_cont" style="text-align: justify;">
+                <div id="main-content" class="container">
+                    <div class="w-100 lh-lg">
+                        <div class="p-4 bg-white rounded-2">
+                            <h3 class="ptitle mb-3"> About Sanskrit Dictionary </h3>
+                            <h5 class="stitle mb-1">An Encyclopaedic Dictionary of Sanskrit on Historical Principles </h5>
+                            <h5 class="stitle mb-3">Introduction: </h5>
+                            <p>The project for the compilation of <span style="font-weight: bold;"> An Encyclopaedic Dictionary of Sanskrit on Historical Principles </span> was conceived and planned by <span style="font-weight: bold;"> Professor S. M. Katre, former Professor of Indo-European Philology and Director of the Institute in 1948.</span> The well-established Sanskrit Dictionary Project now forms a part of the Department of Sanskrit and Lexicography, Deccan College, Post Graduate Research Institute, Pune. The first general editor Dr. A.M. Ghatage successfully carried out the task and the first volume of the dictionary was published in 1978. As late Professor A.L. Basham has rightly stated in his book <span style="font-weight: bold;">‘The Wonder That Was India’</span>, this dictionary, when completed, will be the greatest work of Sanskrit Lexicography the world has ever seen. It is one of the few Historical Dictionaries of the world and the only one for the ancient and rich language of Sanskrit.  </p>
+                            <br/>
+                            <h5 class="stitle mb-3">Building Blocks of the Dictionary</h5>
+                            <p>Dictionary is based on <span style="font-weight: bold;"> primary Corpus of 1469 Sanskrit treatises </span> covering the range of time span right from the Vedas <span style="font-weight: bold;"> (approx. 1400 BCE) up to Hāsyarṇava (1850 CE).</span> This corpus serves as the main source for the vocables.                                   In addition to it, secondary sources such as other Subject-specific dictionaries, word indices, concordances etc. are also consulted for updating the data. The corpus of the Dictionary expands to <span style="font-weight: bold;">62 branches</span> of ancient knowledge. These can be broadly classified as: </p>
+                            <ul class="listc">
+                                <li> Major disciplines such as <span style="font-weight: bold;">Veda, Darśana, Epics, Dharmaśāstra etc.</span></li>
+                                <li> Other branches such as <span style="font-weight: bold;">Vedāṅga, Vyākaraṇa, Tantras.</span></li>
+                                <li> Ancient Lexicons such as <span style="font-weight: bold;">Amarakośa, Medinīkośa etc.</span></li>
+                                <li><span style="font-weight: bold;"> Literature, Poetics, Dramaturgy, Prosody, Anthologies etc.</span></li>
+                                <li> Scientific subjects such as <span style="font-weight: bold;">Mathematics, Architecture, Alchemy, Agriculture, Medicine, Veterinary Sciences etc.</span></li>
+                                <li> Other branches such as <span style="font-weight: bold;">Music, In-door Games, Inscriptions, Warfare, Arthaśāstra etc.</span> </li>
+                            </ul>
+                            <br/>
+                            <h5 class="stitle mb-3"> Heart of the Sanskrit Dictionary: The Scriptorium</h5>
+                            <p>	The Scriptorium, which houses the ten million slips, is the heart of the Sanskrit Dictionary. <span style="font-weight: bold;">During 1948 to 1973,</span> many eminent scholars and traditional Panḍita contributed to the extraction of the data that enabled the project to build up the Scriptorium which houses over one crore slips. Ten million vocables from the corpus are recorded in these slips. Each slip records the exact vocable, grammatical category, citation to attest the vocable, Śāstrī gloss or commentary if any, abbreviation of the book, exact reference or page-line, date of the text and names of persons who have compiled and checked the slips. <br>This Scriptorium is a permanent asset to Sanskrit studies and serves the needs of Sanskrit scholars for specific information about the use of words in different periods and in different branches.</p>
+                            <br/>
+
+                            <h3 class="stitle mb-3">Encyclopaedic Nature</h3>
+                            <p>This Sanskrit dictionary based on Historical chronology/chronology provides information regarding the exact form of the vocables as a guide. The following data recorded under each vocable makes the dictionary Encyclopaedic in nature: Vocable along with transliteration, its grammatical status and further information regarding its syntactic features, accent, etymology, the recording of important and irregular bases and forms, traditional information from Sanskrit itself; detailed analysis of meaning, peculiarities of usage and idiomatic expressions. Additionally, it also records cultural, historical, archaeological, epigraphic, mythological, geographical, statistical and other relevant information, if called for. It also treats the cases of <span style="font-weight: bold;">homonymy, synonymy, polysemy and hyponymy</span> among words. To give a precise idea of a Dictionary of such a nature it seems best to deal with each one of these aspects in detail, note the problems which are involved therein and arrive at some practical decisions. </p>
+                            <br/>
+                            <h5 class="stitle mb-3">Salient features of the Encyclopaedic Dictionary </h5>
+                            <ul class="listc"><li>The Encyclopaedia traces the linguistic development of Sanskrit words from the ancient text of <span style="font-weight: bold;">Ṛgveda (approx. 1400 BCE)</span> to the latest work of <span style="font-weight: bold;">Hāsyārṇava (1850 CE).</span></li>
+                                <li> It provides the detailed linguistic changes that have occurred in various words and their derivations. </li>
+                                <li> Also, the Encyclopaedia traces the semantic development of various words. It provides the entire range of meanings prevalent in the Vedas and other texts. </li>
+                                <li> The compound words, which are characteristic of Sanskrit, are given here their due place.</li>
+                                <li> The meanings are logically analysed and various nuances and shades are interlinked.</li>
+                                <li> The Encyclopaedia also records the underpinning socio-cultural and other such connotations that are reflected through the vocables.</li>
+                            </ul>
+
+                            <br/>
+                            <h5 class="stitle mb-3">Inner Layout of the Dictionary:</h5>
+                            A typical article on a vocable in a historical dictionary of Sanskrit will have the following form with variations in individual cases,
+                            <ul class="listc"><li> <span style="font-weight: bold;">Vocable</span> – Entry word in its base form (prātipadika/dhātu)</li>
+                                <li> <span style="font-weight: bold;">Transliteration</span> – Entry word in a Roman script</li>
+                                <li> <span style="font-weight: bold;">Grammatical Status</span> – Parts of speech to which the entry word belongs i.e. <span style="font-style: italic">adj.</span> for adjective and others. </li>
+                                <li> <span style="font-weight: bold;">Grammatical Note</span> – Additional grammatical explanation.</li>
+                                <li> <span style="font-weight: bold;">Etymology</span> – Derivation of a word based on etymological dictionaries.</li>
+                                <li> <span style="font-weight: bold;">Conspectus</span> – Summary of meanings.</li>
+                                <li> <span style="font-weight: bold;">English Meaning</span> – Meanings are arranged chronologically. Meaning numbers are assigned as per the change of nuances.</li>
+                                <li> <span style="font-weight: bold;">Citation</span> – The appropriate citations containing the entry word. Citations are also arranged chronologically.</li>
+                                <li> <span style="font-weight: bold;">Reference Book</span> – The name of book, where the citation occurs, in the form of abbreviation.</li>
+                                <li> <span style="font-weight: bold;">Reference Mode</span> – Exact address of the citation.</li>
+                                <li> <span style="font-weight: bold;">Comment</span> – Additional information provided by commentary. </li>
+                                <li> <span style="font-weight: bold;">Cf.</span> – Cross reference of an entry word.</li>
+                                <li> <span style="font-weight: bold;">Other Lexical Meanings</span> – the meaning or gloss of a vocable from various Lexicons.</li>
+                            </ul>
+                            <br/>
+                            <h5 class="stitle mb-3">Significance</h5>
+
+                            <ul class="listc"><li> It is an extremely important and the only tool for tracing the development of Sanskrit language through ages which makes it Encyclopaedic in nature. </li>
+                                <li> It is vital resource for Qualitative and Quantitative Research in the field of Sanskrit, Indology and Oriental Studies. It assists the needs of Higher Research.</li>
+                                <li> Since it covers the entire gamut of Sanskrit literature spread across <span style="font-weight: bold;">62 disciplines</span>, it is an Encyclopaedia for all these disciplines too.</li>
+                                <li> It is the only tool for establishing inter-relation between these various disciplines with respect to word and concepts and their development.</li>
+                                <li> It also notes the references from rarest texts and glosses that are being extinct in due course of time.</li>
+                                <li> The magnitude of data makes it an important tool for various fields such as <span style="font-weight: bold;">history, culture, linguistics, philology, computational linguistics, patents etc.</span></li>
+                                <li> This dictionary will also serve as a compact encyclopaedia of Indian civilisation and scientific thought during the ancient and medieval ages.  </li>
+                            </ul>
+                            <br/>
+                            <h5 class="stitle mb-3">Stages of the Dictionary</h5>
+
+                            <ul class="listc"><li><span style="font-weight: bold;">Stage I :</span> This comprised of collection of vocables from around <span style="font-weight: bold;">1500 corpus</span> texts. texts.</span> </li>
+                                <li><span style="font-weight: bold;">Stage II:</span> Classification of these 10 million reference slips subject-wise and arrangement of the collection alphabetically leading to building up of the Scriptorium.</li>
+                                <li>The first two stages took 25 painstaking years of scholars from <span style="font-weight: bold;">1948 to 1973.</span></li>
+                                <li><span style="font-weight: bold;">Stage III:</span> Editing and publication of the Encyclopaedic Dictionary which began in <span style="font-weight: bold;">1973</span></li>
+                            </ul>
+                            <br/>
+
+                            <h5 class="stitle mb-3">Publication</h5>
+                            <p>From 1973, editing of the Encyclopaedic Dictionary began and in <span style="font-weight: bold;">1976,</span> the first Part of the Dictionary was published. In all, thirty-five volumes have been published till date consisting of <span style="font-weight: bold;">6056 pages</span> alphabetically.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- End #main --> 
+
+            <!-- ======= Footer ======= -->
+        
+
+
+
+
+
+
+
+
+<script>
+    var __context = "";
+</script>
+<style>
+    .logo-scroller {
+        overflow: hidden;
+        position: relative;
+        height: 120px;
+    }
+
+    .logo-track {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        animation: scroll-left 30s linear infinite;
+        width: max-content;
+    }
+
+    .logo-track a {
+        display: inline-block;
+        margin: 0 20px;
+    }
+
+    .logo-track img {
+        height: 75px;
+        width: auto;
+        max-width: 100%;
+    }
+
+    /* Responsive adjustment */
+    @media (max-width: 768px) {
+        .logo-track img {
+            height: 60px;
+        }
+    }
+
+    /* Keyframe for left scroll */
+    @keyframes scroll-left {
+        0% {
+            transform: translateX(0);
+        }
+        100% {
+            transform: translateX(-50%);
+        }
+    }
+
+</style>
+<!-- ======= Footer ======= -->
+<footer id="footer" class="footer mt-auto">
+    <!-- ======= Footer ======= -->
+    <div class="container-fluid text-center">
+        <!-- Owl Carousel Logo Slider -->
+        <div class="container py-3 logo-scroller">
+            <div class="logo-track">
+                <!-- Logos start -->
+                <a href="https://www.education.gov.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/ministry-education-white-logo.png" alt="Ministry of Education">
+                </a>
+                <a href="https://dst.gov.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/dst-logo.png" alt="DST">
+                </a>
+                <a href="https://digitalindia.gov.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/dig_india.png" alt="Digital India">
+                </a>
+                <a href="#"><img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/IYC_Logo.png" alt="IYC"></a>
+                <a href="https://dcpune.ac.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/dc-logo.jpg" alt="DC Pune">
+                </a>
+                <a href="https://dcpune.ac.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/dc-bicentenary.jpg" alt="DC Bicentenary">
+                </a>
+                <a href="https://dcpune.ac.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/SDP-Logo.jpg" alt="SDP Logo">
+                </a>
+                <a href="https://cdac.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/cdac-logo.png" alt="CDAC">
+                </a>
+
+                <!-- Logos duplicate for seamless scroll -->
+                <a href="https://www.education.gov.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/ministry-education-white-logo.png" alt="Ministry of Education">
+                </a>
+                <a href="https://dst.gov.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/dst-logo.png" alt="DST">
+                </a>
+                <a href="https://digitalindia.gov.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/dig_india.png" alt="Digital India">
+                </a>
+                <a href="#"><img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/IYC_Logo.png" alt="IYC"></a>
+                <a href="https://dcpune.ac.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/dc-logo.jpg" alt="DC Pune">
+                </a>
+                <a href="https://dcpune.ac.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/dc-bicentenary.jpg" alt="DC Bicentenary">
+                </a>
+                <a href="https://dcpune.ac.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/SDP-Logo.jpg" alt="SDP Logo">
+                </a>
+                <a href="https://cdac.in/" target="_blank">
+                    <img src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/img/cdac-logo.png" alt="CDAC">
+                </a>
+                <!-- Logos end -->
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="container-fluid text-center mb-3 footer-linkbox"><ul class="footer-link">
+            <li> <a href="/policies/privatePolicy">Privacy Policy</a> </li>
+            <li> <a href="/policies/copyRight">Copyright Policy</a> </li>
+            <li> <a href="/policies/termsAndConditions">Terms & Conditions </a> </li>
+            <li> <a href="/policies/hyperLinking">Hyper Linking Policy</a> </li>
+            <li class="last-li"> <a href="/policies/disclaimers">Disclaimers</a> </li>
+            <li class="last-li"> <a href="/search/help">Help</a> </li>
+            <!--<li class="last-li text-warning">( Last reviewed and updated on &nbsp;Jul 25, 2025&nbsp;)<br />-->
+            </li>
+        </ul>  </div>
+    <div class="container text-left footer2">
+        <div class="row d-flex justify-content-center align-items-center">
+            <div class="col-lg-3 col-md-12">
+            </div>
+            <div class="col-lg-6 col-md-12 text-center">
+                <p class="mb-2">Website Content Owned &amp; Managed by  <a href="https://dcpune.ac.in/" target="_blank">Deccan College, Pune</a> </p> 
+                <p> Designed and Developed by  <a href="https://cdac.in/" target="_blank">C-DAC's Human-Centered Design and Computing Group.</a> </p> 
+                <p class="last-li mt-2 text-warning">
+                    (Last reviewed and updated on&nbsp;Jul 25, 2025&nbsp;)
+                </p>
+
+
+            </div>
+            <div class="col-lg-3 col-md-12">                  
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!--<script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/js/jquery-3.7.1.min.js"></script>-->
+<!--<script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/jquery/jquery-3.6.1.min.js"></script>-->
+
+
+
+
+
+<!-- End Footer --> 
+            <!-- End Footer --> 
+
+            <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+            <div id="preloader"></div>
+
+            <!-- Vendor JS Files --> 
+            <script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script> 
+        <script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/aos/aos.js"></script> 
+        <!--<script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/jquery/jquery-3.6.1.min.js"></script>-->
+        <script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/jquery/jquery-ui.min.js"></script>
+        <script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/jquery/jquery.ime.js"></script>
+        <script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/jquery/jquery.ime.selector.js"></script>
+        <script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/jquery/jquery.ime.preferences.js"></script>
+        <script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/jquery/jquery.ime.inputmethods.js"></script>
+        <script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/vendor/underscore/underscore.js"></script>
+        <!-- Template Main JS File --> 
+        <script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/js/main.js"></script>
+        
+        <!-- push - notification -->
+        
+
+
+
+
+
+
+<script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/js/sockjs.js"></script>
+<script src="https://koshashri-dc.ac.in/cdn/themes/v2/assets/js/stomp.js"></script>
+    <script type="text/javascript">
+      var stompClient = null;
+         var socket = new SockJS('https://koshashri-dc.ac.in//ws');
+            stompClient = Stomp.over(socket);
+            stompClient.connect({}, function (frame) {
+                console.log("----",frame);
+                stompClient.subscribe('/user/specific', function (result) {
+                    show(JSON.parse(result.body));
+                });
+            });
+            
+            var publicStompClient = null;
+            socket = new SockJS('https://koshashri-dc.ac.in//ws');
+            publicStompClient = Stomp.over(socket);
+            publicStompClient.connect({}, function (frame) {
+                publicStompClient.subscribe('/all/messages', function (result) {
+                    show(JSON.parse(result.body));
+                });
+            });
+                
+                
+
+       <!-- stomp push - notification -->
+          
+    function show(message) {
+         $("#message").html(message["text"]);
+         $("#liveToast").removeClass("hide");
+                $("#liveToast").addClass("show");
+                setTimeout(function() {
+                // Your code to run after 2 seconds
+                $("#liveToast").addClass("hide");
+                $("#liveToast").removeClass("show");
+              }, 50000);
+    }
+
+</script>
+<style>
+    .toast-header{
+        color: #101214 !important;
+        background-color: rgb(117 210 216 / 86%) !important;
+    }
+    
+    .toast-body{
+        background-color: #daebeb78 !important;
+    }
+</style>
+<div class="position-fixed top-0 end-0 p-3" style="z-index:1000">
+    <div id="liveToast" class="toast hide" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header">
+            <i class="fa-solid fa-bell"></i>&nbsp;
+            <strong class="me-auto">Notification</strong>
+            <small>
+                <script>
+                    document.write(new Date().toLocaleTimeString('en-US', {hour12: false,
+                        hour: "numeric",
+                        minute: "numeric"}));
+                </script> 
+            </small>
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div id="message" class="toast-body">
+            
+        </div>
+    </div>
+</div>
+
+
+    </body>
+
+</html>
