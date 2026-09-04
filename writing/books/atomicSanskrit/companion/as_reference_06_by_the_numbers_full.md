@@ -1,24 +1,12 @@
-# Source and Reference Companion — Full Technical Appendix
+# Reference Appendix 6 — The Architecture by the Numbers
 
-This file preserves the full technical version of Appendix Part 6 before the book-facing appendix is compressed. It is the long-form Source and Reference Companion appendix for the numerical audit behind Chapters 10 and 11: full tables, prediction/data/verdict cycles, falsification notes, Path A / Path C reproducibility details, and draft reconciliation history.
-
-The live printed-book appendix remains at `as_3_06_by_the_numbers.md`. Future passes should compress the live appendix from this preserved source rather than cutting evidence without a record.
-
----
-
-# Appendix Part 6 — The Architecture by the Numbers
-
-*Draft v3 (2026-05-29). Reorganized layer-by-layer (sonomer / construction / operation / generative reach) to mirror Ch 10's and Ch 11's procedural arc. Folds in the position-role taxonomy, the cluster-joiner specialist class, the* mūrdhanya *dual-role finding, the* ṛ */* ra *bridge, the place × place CVC matrix, and the Path C* prayoga *reactivity material — the deferred items flagged in the v2 SYNC PENDING block. Reconciles the* juhotyādi *C4 share (31.8% → 33.3% inventory, 42.9% Path C-restricted) and the scaffold count (69 → 47). The reproducibility scaffold now covers both bundles:* `analysis/dhatupatha/` *(Path A — structural) and* `analysis/ganah/` *(Path C — corpus-attested).*
-
----
-
-Chapter 10 states the architectural claim. Chapter 11 states the claim one scale up into operation. This appendix is the empirical reservoir behind both — every statistical signal at every layer of the architecture, with the reproducibility bundles that re-derive the numbers.
+Chapters 10 and 11 present the architectural argument. This appendix supplies the calculations, full tables, tests, and reproduction instructions behind it.
 
 The appendix is organized as four layers that mirror the chapters' procedural arc:
 
-- **Part A — The Sonomer Layer** (§§6.2–5.6) — what the *varṇāḥ* (वर्णाः) do inside the atom: column distribution, position-conditional preferences, the cluster-joiner specialist class, the *mūrdhanya* dual-role place, the *ṛ* signal and the *ṛ* / *ra* bridge.
-- **Part B — The Construction Layer** (§§6.7–5.10) — how the sonomers assemble into the scaffold and the atom: compression, clusters, OCP, *vaicitrya*.
-- **Part C — The Operation Layer** (§§6.11–5.12) — how the atom behaves under *gaṇa* / *vikaraṇa* operations: cross-*gaṇa* functional matching, Path C corpus-attested reactivity.
+- **Part A — The Sonomer Layer** (§§6.2–6.6) — what the *varṇāḥ* (वर्णाः) do inside the atom: column distribution, position-conditional preferences, the cluster-joiner specialist class, the *mūrdhanya* dual-role place, the *ṛ* signal and the *ṛ* / *ra* bridge.
+- **Part B — The Construction Layer** (§§6.7–6.10) — how the sonomers assemble into the scaffold and the atom: compression, clusters, OCP, *vaicitrya*.
+- **Part C — The Operation Layer** (§§6.11–6.12) — how the atom behaves under *gaṇa* / *vikaraṇa* operations: cross-*gaṇa* functional matching, Path C corpus-attested reactivity.
 - **Part D — The Generative-Reach Layer** (§6.13) — the bottom-line: small atoms generate large vocabularies; Sanskrit's generative-reach/frequency relationship runs opposite to natural-language drift.
 
 Synthesis (§6.14) and replication (§6.15) close the appendix.
@@ -410,7 +398,7 @@ One engineering signature, three levels, one principle: range preserved where ra
 |---:|:---:|---:|---:|---:|---:|---:|---:|
 | 1 | *bhvādi* | 1,134 | 37.4% | 9.2% | 25.7% | 10.8% | 16.9% |
 | 2 | *adādi* | 76 | 37.3% | 1.5% | 35.8% | 3.0% | 22.4% |
-| **3** | ***juhotyādi*** | **25** | **22.7%** | **0.0%** | **22.7%** | **33.3%** | **22.7%** |
+| **3** | ***juhotyādi*** | **25** | **23.8%** | **0.0%** | **23.8%** | **33.3%** | **19.0%** |
 | 4 | *divādi* | 151 | 36.5% | 2.4% | 22.2% | 15.6% | 23.4% |
 | 5 | *svādi* | 39 | 43.6% | 0.0% | 17.9% | 25.6% | 12.8% |
 | 6 | *tudādi* | 171 | 38.4% | 10.3% | 26.4% | 8.7% | 16.1% |
@@ -427,17 +415,17 @@ One engineering signature, three levels, one principle: range preserved where ra
 
 **The corrected *juhotyādi* number.** Earlier appendix snapshots reported 31.8% for the *juhotyādi* C4 share. The 31.8% came from a pre-correction initial-anubandha table that miscoded the *ñi* initial *anubandha* (Pāṇini's *Aṣṭādhyāyī* 1.3.5) as `Ji` in SLP1, when the correct SLP1 encoding is `Yi` (the SLP1 char for *ñ* is `Y`, not `J`). With correct `Yi` stripping, the entry `YiBI\` (= *bhī*) contributes only its `B` consonant rather than both `Y` and `B`, and the *juhotyādi* C4 share shifts from 7/22 = 31.8% to 7/21 = 33.3%.
 
-**The Path C sharpening.** Under corpus-restriction to *juhotyādi* *dhātavaḥ* actually attested in the Digital Corpus of Sanskrit (the Path C audit, §6.12 below), the C4 share rises from 33.3% inventory to **42.9% corpus-restricted** — a +9.5pp sharpening. The *Dhātupāṭha* over-allocates voiced aspirates to *juhotyādi*; the corpus over-deploys them further.
+**The Path C sharpening.** Under corpus-restriction to *juhotyādi* *dhātavaḥ* actually attested in the Digital Corpus of Sanskrit (the Path C audit, §6.12 below), the C4 share rises from 33.3% inventory to **42.9% corpus-restricted** — a +9.5pp sharpening. The *Dhātupāṭha* shows a higher C4 share in *juhotyādi* than in the other classes. The corpus-visible subset raises that share from 33.3% to 42.9%.
 
-**Why the *juhotyādi* C4 enrichment makes engineering sense.** Reduplication is a redundancy mechanism — the *dhātuḥ*'s initial consonant doubles to form the present-tense form. For the doubled consonant to remain identifiable across the syllable boundary, the consonant must be acoustically robust. C4 — voiced, aspirated, breathy — is the column with the most distinctive acoustic signature; the same property that made C4 less-suppressed than C2 in §6.2. The architecture deploys the most-distinguishable column where distinguishability matters most. **Functional matching.**
+**A possible architectural explanation.** This book proposes that reduplication benefits from an acoustically distinctive initial consonant. The initial consonant recurs across the syllable boundary when the present-tense form is built. C4 consonants combine voicing with aspiration and therefore carry a strong acoustic signature. That signature may help the repeated consonant remain identifiable. The count establishes the enrichment; this explanation describes what that enrichment may contribute.
 
 ## 6.12 *Prayoga* Reactivity — The Path C Audit
 
-§§6.2–5.11 measure the *Dhātupāṭha* itself — the engineered inventory. This section measures **what Sanskrit does with the inventory** — corpus-attested deployment across actual Sanskrit use.
+§§6.2–6.11 measure the *Dhātupāṭha* itself — the engineered inventory. This section measures **what Sanskrit does with the inventory** — corpus-attested deployment across actual Sanskrit use.
 
 **The measurement.** Path C operationalizes reactivity as **corpus-attested combinatorial valency**: the count of distinct (*upasarga*, *pratyaya*-class) pairs in which each *dhātuḥ* surfaces across the Digital Corpus of Sanskrit (DCS) — Hellwig's lemmatized parsed corpus covering Vedic and post-Vedic Sanskrit. The reproducibility bundle is `analysis/ganah/`. Chapter 11 §§11.6–11.9 states the polemic version; this section is the empirical reservoir.
 
-**The dataset.** 15,900 parsed CoNLL-U files. 1,007,361 verb-token occurrences. 35,319 unique (dhātu, prefix, *pratyaya*-class) triples. 3,839 unique bare dhātavaḥ. Coverage spans Vedic (Ṛgveda, Atharvaveda), epic (Mahābhārata, Rāmāyaṇa), grammatical, *śāstric*, *purāṇic*, *kāvya*, Buddhist, medical, ritual, and philosophical material.
+**The dataset.** 15,900 parsed CoNLL-U files. 1,007,361 verb-token occurrences. 35,319 unique (dhātu, prefix, *pratyaya*-class) triples. 3,839 normalized verb lemmas, including corpus-derived forms as well as listed *Dhātupāṭha* atoms. Coverage spans Vedic (Ṛgveda, Atharvaveda), epic (Mahābhārata, Rāmāyaṇa), grammatical, *śāstric*, *purāṇic*, *kāvya*, Buddhist, medical, ritual, and philosophical material.
 
 **Top 20 *dhātavaḥ* by Path C valency:**
 
@@ -476,7 +464,7 @@ The **reference nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, 
 | Path A (MW) vs particles | −0.4900 |
 | **Path C vs particles** | **−0.4334** |
 
-ρ = +0.6647 between Path A and Path C means the two instruments agree strongly: the *dhātavaḥ* that generate widely in the dictionaries also bond widely in actual Sanskrit use. ρ = −0.4334 between Path C and particle count means the compression principle (small atoms have more bonding range) is corpus-empirical, not just lexicographer-empirical. The Path A ρ = −0.4900 reproduces the chapter-cited Path A ρ = −0.485 within rounding.
+ρ = +0.6647 shows substantial positive agreement between the hand-curated Path A estimates and corpus-derived Path C valency: the *dhātavaḥ* that rank widely in the dictionary sample also enter a wide range of combinations in the corpus. ρ = −0.4334 between Path C and particle count shows the same inverse relation between size and range in the corpus. The Path A ρ = −0.4900 reproduces the chapter-cited Path A ρ = −0.485 within rounding.
 
 **The reactivity tier structure.** The 3,839 corpus-visible *dhātavaḥ* arrange into three empirical tiers under a locked cutoff scheme (valency ≥ 50 / 5–49 / ≤ 4):
 
@@ -486,7 +474,7 @@ The **reference nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, 
 | Bivalent — the stable middle | 5–49 | 1,059 | 27.6% | 30.5% | broad-bonding middle |
 | Monovalent — closed-valency specialists | ≤ 4 | 2,633 | **68.6%** | **1.9%** | preserved long tail |
 
-The polyvalent tier — 3.8% of the inventory — generates **67.6%** of all corpus-attested verb tokens. The top 9 alone generate 26.5%. The top 500 cover 94.0%. The compression principle operates, not just inventory-theoretically.
+The polyvalent tier — 3.8% of the inventory — accounts for **67.6%** of the recorded verb-token uses. The top 9 alone account for 26.5%. The top 500 cover 94.0%. The compression principle operates in recorded use as well as in the inventory.
 
 ![Reactivity tiers by atom share and actual Sanskrit use.](figures/ganah/reactivity_tiers.svg){#fig:app5-reactivity-tiers width=100%}
 
@@ -507,11 +495,11 @@ The reference 9 are **9/9 visible in every sub-corpus**. Pairwise Spearman corre
 | *Smṛti* × *Smṛti* (Mahābhārata × Rāmāyaṇa) | **+0.87** |
 | Cross-style (any *śruti* × any *smṛti*) | +0.46 to +0.57 |
 
-Style-internal agreement is higher than cross-style — but cross-style agreement is still strongly positive. The carbon-class core is invariant across the design-purpose split. The Ṛgveda's top-20 includes ritual-specific atoms (*vah* वह्, *yam* यम्, *bhṛ* भृ, *cakṣ* चक्ष्) that don't survive into *smṛti*'s top-20; the reference core remains visible at high valency in every sub-corpus regardless.
+All nine reference atoms recur in each of the four checked corpora, although their ranks change with the work each corpus performs. Six of the nine enter the Ṛgveda's top twenty; the others remain present below that threshold.
 
 ![Rank trajectory of the reference polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/ganah/canonical_rank_trajectory.svg){#fig:app5-canonical-rank-trajectory width=100%}
 
-The deployments vary. The core remains. The result matches the procedural model: a stable set of high-reactivity atoms, different domains applying them to different work, and the same engine driving all of them.
+The ranks vary because the corpora perform different work. The recurrence of all nine nevertheless supports a stable, widely reused set of high-reactivity atoms.
 
 ---
 
@@ -566,11 +554,11 @@ Generative reach by structural pattern:
 
 **Path A Spearman ρ (generative reach vs particle count): −0.485.** Mean particle count, top 20 by generative reach: **2.40**. Mean particle count, bottom 20: **3.50**. Bottom-to-top ratio: 1.46×.
 
-**Path C corroboration.** The corpus-attested valency measure (§6.12) reproduces the inverse relationship: **Path C ρ vs particles = −0.4334** on the full 3,839-dhātu corpus. The compression principle recurs at every measurement scale tested — curated 138-dhātu MW sample, full 3,839-dhātu corpus, both directions.
+**Path C corroboration.** The corpus-attested valency measure (§6.12) reproduces the inverse relationship: **Path C ρ vs particles = −0.4334** on the full 3,839-lemma corpus. The inverse relation recurs in both calculations: the curated 138-*dhātuḥ* Path A sample and the 3,839-lemma Path C corpus audit.
 
 **Verdict — strongly confirmed.** The CV pattern's mean generative reach (32.6) is **2.9×** higher than CCVCC (11.4). The top 20 ranks by generative reach are dominated by 2-particle CV *dhātavaḥ* (11 of 20). ⟪कृ⟫ alone — two particles — anchors 75+ primary derivatives, more than the entire CCVCC sample combined.
 
-**The natural-language inversion.**[NOTE: generative-reach-inversion-natural-language] In natural languages, the most-frequent forms tend toward idiosyncratic irregularity: English *be / have / do* are paradigmatically broken; Latin *esse / ire / ferre* are suppletive; Greek *eimi / oida / phēmi* same pattern. The frequency-irregularity correlation is one of the most-replicated typological findings in natural-language morphology. In Sanskrit's engineered case, the correlation runs the opposite way: the *dhātavaḥ* with the greatest generative reach are *also* the most structurally minimal *and* paradigmatically regular. There is no idiosyncrasy at the top.
+**The natural-language comparison.** Studies of English show that frequent irregular verbs resist regularization more strongly than infrequent ones. The Sanskrit audit tests a different relation. In both Path A and Path C, smaller atoms tend to have wider recorded reach. These calculations do not test paradigm regularity. See the expanded endnote `generative-reach-inversion-natural-language`.
 
 **Future *śāstra* audit (Path B).** A separate audit can be run against the *Aṣṭādhyāyī* itself. That study would not count dictionary derivatives or corpus-visible usage. It would count the formal bonding space the *śāstra* licenses: which *dhātavaḥ* can take which operations, *upasargāḥ*, *vikaraṇāni*, and *pratyayāḥ* under the rule-system. That is future work.
 
@@ -588,8 +576,8 @@ The numbers reveal the architecture operating at eight levels:
 4. **Cluster-joiner specialization** (per consonant × position-role). A six-atom class — the *antaḥsthāḥ* (य, र, ल, व) plus *mūrdhanya* sibilant ष plus boundary specialists फ, न — performs 73% of cluster-joining work. *(§6.4.)*
 5. ***Mūrdhanya* dual-role engineering** (per place). The retroflex place is uniquely loaded with both boundary work (62.8% final) AND cluster-joining work (32.6% inner) — driven by *ra* and *ṣa* at the same articulatory site. *(§6.5; coupled with the *ṛ/ra* bridge at §6.6.)*
 6. **Cross-position OCP** (per *dhātuḥ*). Place-of-articulation avoidance across the syllable operates at 62% below chance. The strongest single empirical signal in the appendix; the place × place matrix visualizes both the OCP suppression and the *mūrdhanya* C₂ asymmetry. *(§6.9.)*
-7. ***Gaṇa*-specific functional matching** (per derivational class). The *juhotyādi* reduplicating class enriches C4 (33.3% inventory → 42.9% corpus-restricted) because reduplication needs acoustic robustness. *(§6.11.)*
-8. **Reach-from-minimum.** The simplest *dhātavaḥ* occupy the high end of two independent measurements. Path A finds ρ = −0.485 between particle count and dictionary-derived generative reach. Path C finds ρ = −0.4334 between particle count and corpus combinatorial reach. The smallest atoms generate the largest derivative fields and enter the widest range of recorded combinations. The *dhātavaḥ* with the greatest reach are also paradigmatically regular. *(§6.13.)*
+7. ***Gaṇa*-specific enrichment.** The *juhotyādi* reduplicating class raises the C4 share from 33.3% in its inventory to 42.9% in its corpus-visible subset. This book proposes that the pattern may reflect the value of an acoustically distinctive consonant during reduplication. *(§6.11.)*
+8. **Reach-from-minimum.** The simplest *dhātavaḥ* occupy the high end of two independent measurements. Path A finds ρ = −0.485 between particle count and dictionary-derived generative reach. Path C finds ρ = −0.4334 between particle count and corpus combinatorial reach. The smallest atoms generate the largest derivative fields and enter the widest range of recorded combinations. *(§6.13.)*
 
 These principles operate simultaneously and reinforce each other. The architecture responds to cost, contrast, position, bonding, place, boundary, class, and range.
 
@@ -603,7 +591,7 @@ Every empirical claim in this appendix is reproducible from one of two self-cont
 
 ### Bundle 1: `analysis/dhatupatha/` (Path A — structural)
 
-Source data and structural-analysis scripts for §§6.1–5.11 and §6.13.
+Source data and structural-analysis scripts for §§6.1–6.11 and §6.13.
 
 - **`data/dhatupatha.csv`** — source data (2,168 entries) from the open-source `sanskrit/vyakarana` GitHub project. Three columns: *gaṇa*-number, position-within-*gaṇa*, *dhātu* in SLP1.
 - **`data/dhatu_productivity.csv`** — curated generative-reach sample (138 *dhātavaḥ*) with derivative-count estimates and source attribution (MW 1899; Apte 1890).
@@ -661,7 +649,7 @@ End-to-end runtime: under 5 minutes on a 2024 M-series laptop.
 
 ### Path B — Future work
 
-Path B is the unbuilt third path: a *śāstra* audit counting the formal bonding space the *Aṣṭādhyāyī* licenses (which *dhātavaḥ* can take which operations, *upasargāḥ*, *vikaraṇāni*, *pratyayāḥ* under the rule-system). Path B would document what Pāṇini's rules license; Path A documents lexicographer compilation; Path C documents corpus-attested deployment. The three paths cross-check the engineering thesis at three independent layers.
+Path B is the unbuilt third path: a *śāstra* audit counting the formal bonding space the *Aṣṭādhyāyī* licenses (which *dhātavaḥ* can take which operations, *upasargāḥ*, *vikaraṇāni*, *pratyayāḥ* under the rule-system). Path B would document what Pāṇini's rules license; Path A documents lexicographer compilation; Path C documents corpus-attested deployment. The three paths would test the engineering thesis against three different records.
 
 ---
 

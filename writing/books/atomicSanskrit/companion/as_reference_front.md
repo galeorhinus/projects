@@ -1,8 +1,8 @@
 # Preface
 
-This volume is the *Source and Reference Companion* to the printed book *Atomic Sanskrit: The Radiant, Calibrant, and Fractal Architecture of Sanātan*. The printed book contains one-sentence endnotes — citation anchors, named references, the one sentence the printed-book reader needs at the point of citation. The companion preserves the full long-form: technical appendices, complete bibliographic citations, primary-source quotes, verification trails, source-history discussions, structural-significance analysis. The two volumes share a single source. The printed book's endnote at *"See expanded endnote for X"* points here.
+This volume is the *Source and Reference Companion* to the printed book *Atomic Sanskrit: The Radiant, Calibrant, and Fractal Architecture of Sanātan*. The printed book contains condensed endnotes that identify the source and state the point needed at that citation. This companion carries the expanded entries: complete citations, primary-source passages, verification trails, source histories, and longer technical discussions. Both versions of an endnote come from the same source and use the same stub-name, so a reader can move from the printed note to its full companion entry.
 
-The companion is for the reader the printed book respects but does not need to slow down for: the serious reader, the reviewer, the critic, the hostile academic. The case the printed book makes is the case the companion documents. Every claim, every citation, every primary source. The case rests on visible architecture; the companion is the apparatus that lets a determined reader verify it.
+The companion is for the reader the printed book respects but does not need to slow down for: the serious reader, the reviewer, the critic, the hostile academic. The case the printed book makes is the case the companion documents. It gathers the sources, calculations, and verification records behind the book's principal checkable claims. The case rests on visible architecture; the companion is the apparatus that lets a determined reader verify it.
 
 ## How to navigate
 

@@ -1878,7 +1878,10 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         path for path in BOOK_DIR.glob(REFERENCE_APPENDIX_GLOB)
         if path != REFERENCE_FRONT_FILE
     )
-    reference_sections = [path.read_text().rstrip() for path in reference_files]
+    reference_sections = [
+        DRAFT_NOTES_RE.sub("", path.read_text()).rstrip()
+        for path in reference_files
+    ]
 
     # Read endnotes source as-is, then strip its existing top-line header note
     # (the `# Atomic Sanskrit — Endnotes (Expanded Prose)` heading and the

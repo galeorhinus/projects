@@ -109,7 +109,7 @@ The surviving sources do not record the engineers' reason for keeping *leṭ* wi
 
 ## Sources
 
-- Ṛgveda 10.186.1.
+- Ṛgveda 6.16.16 and 10.186.1.
 - Aṣṭādhyāyī 3.4.6–8 and 3.4.94–98, with Kāśikā and Mahābhāṣya. The online rule pages used for the ending operations include [3.4.97](https://ashtadhyayi.com/sutraani/3/4/97) and [3.4.98](https://ashtadhyayi.com/sutraani/3/4/98).
 - The traditional *loṭ* paradigms documented under Aṣṭādhyāyī 3.4.85–93.
-- William Dwight Whitney, *Sanskrit Grammar*, §562, for a secondary tabulation of the active and middle subjunctive endings. The table was checked against the Pāṇinian operations above rather than used as the governing analysis.
+- William Dwight Whitney, *Sanskrit Grammar*, §553d for the imperative endings and §562 for the active and middle subjunctive endings. The tables were checked against the Pāṇinian operations above rather than used as the governing analysis.
