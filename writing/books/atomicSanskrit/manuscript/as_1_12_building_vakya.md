@@ -212,16 +212,10 @@ When a Sanskrit form crosses into a natural language, that receiving language ma
 
 ## 12.8 The Architecture Reaches the Sentence
 
-Chapters 11 and 12 have followed one continuous construction from sonomer to sentence. Sonomers form a semantic atom. Sanskrit prepares that atom and adds an ending to create a verb. Head-bonds and tail-bonds extend atoms into other kinds of words.
+Chapters 11 and 12 have followed one continuous construction from sonomer to sentence. Sonomers form a semantic atom. Sanskrit prepares that atom and adds an ending to create a verb. Head-bonds and tail-bonds extend atoms into other kinds of words, while role-endings identify how each completed word relates to the others. Sanskrit then assembles those पदानि (*padāni*) into a वाक्यम् (*vākyam*).
 
-A role-ending tells the listener how each completed word relates to the others. Sanskrit then joins those पदानि (*padāni*) into a वाक्यम् (*vākyam*).
+The architecture is fractal because every larger construction retains the smaller constructions within it. A sentence contains words with identifiable roles. Those words contain their affixes and atoms, while the atoms contain their sonomers.
 
-The architecture is fractal because every larger construction retains the smaller constructions within it. A sentence contains words with identifiable roles. Those words contain their affixes and atoms. The atoms contain their sonomers.
+The Vedas serve as the calibrant because they preserve completed examples across this entire range. They preserve the sound of the sonomers, the transformation of the atoms, the endings of the words, and the relations inside the sentences. The लौकिक (*laukika*) domain gives this architecture radiant reach. Speakers can create new words, compounds, and sentences while the Vedic calibrant remains unchanged. Sanskrit can meet a changing world without surrendering the architecture that holds the language together.
 
-The Vedas serve as the calibrant because they preserve completed examples across this entire range. They preserve the sound of the sonomers, the transformation of the atoms, the endings of the words, and the relations inside the sentences. Exact transmission keeps those examples available for every later generation.
-
-The architecture is radiant because the लौकिक (*laukika*) domain can apply it beyond the received corpus. Speakers can create new words, compounds, and sentences while the Vedic calibrant remains unchanged. Sanskrit can meet a changing world without surrendering the architecture that holds the language together.
-
-Pāṇini made the analysis explicit. He documented the recurring procedures through which a learner can move from atom to sentence and from a completed sentence back to its parts.
-
-Chapter 13 examines how this complete language survives across time. Chapter 14 explains the calibration architecture that keeps लौकिक (*laukika*) Sanskrit aligned with the Vedas. Chapter 16 returns to the two domains in full, and Chapter 19 follows Sanskrit's radiance beyond India.
+Pāṇini made the analysis explicit. He documented the procedures through which a learner can move from atom to sentence and from a completed sentence back to its parts. Chapter 13 now turns from construction to preservation and examines how this complete language survives across time.

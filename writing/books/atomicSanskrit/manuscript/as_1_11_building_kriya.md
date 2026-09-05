@@ -174,14 +174,12 @@ Appendix Part 6 §6.3 examines how far Sanskrit's compact atoms extend across wo
 
 ## 11.6 The Atom Has Become Action
 
-Chapter 10 examined how sonomers form a semantic atom. This chapter has shown how Sanskrit turns that atom into a completed verb.
+Chapter 10 showed how Sanskrit assembles sonomers into a semantic atom. This chapter followed the next stage: Sanskrit prepares that atom and adds a compact ending to create a completed verb. The five examples showed several procedures. Sanskrit may change a vowel, insert a sound, repeat part of the atom, or extend the atom at a specified position. Even after these changes, a learner can trace the completed verb back to its atom.
 
-The five detailed verbs demonstrate how Sanskrit prepares different atoms. It may change a vowel, insert a sound, repeat part of the atom, or add material at a restricted position. In every example, the completed verb preserves enough of its construction for a learner to trace it back to the atom.
+The completed verb also carries grammatical information. Its ending identifies who acts and how many act. Other forms place the action in the present, past, or future, or express a command, possibility, or desire. The Vedas preserve this range together with the pronunciation of each form. Later speakers can therefore check both grammar and sound against an invariant calibrant.
 
-The wider Vedic examples show how much grammatical information these procedures can express. The endings distinguish who acts and how many act. Other forms place the action in the present, past, or future. Commands and modal forms express further relationships between the speaker and the action. The Vedas preserve these completed forms exactly, which allows them to serve as the calibrant for the language.
+The completed verb repeats Sanskrit's fractal construction. It contains a prepared atom and an ending, while the atom contains its sonomers. The smaller units remain identifiable inside the larger form.
 
-A completed verb also repeats Sanskrit's fractal construction. It contains both its ending and its prepared atom, while the atom still contains its sonomers. A learner can therefore identify the smaller units inside the larger verb.
+The लौकिक (*laukika*) domain gives this calibrated architecture radiant reach. Its speakers can tell stories, compose poetry, explain mathematical proofs, calculate planetary movements, conduct trade, and name circumstances that earlier generations never encountered. They can create new expressions because the generative procedures remain available while the Vedic calibrant remains unchanged.
 
-The लौकिक (*laukika*) domain gives this preserved architecture radiant reach. Speakers use it to tell stories and compose poetry. Mathematicians use it to explain proofs, and astronomers use it to record their calculations. Manufacturers and traders can describe their materials, objects, and transactions. Every generation can generate the expressions it needs because the procedures remain available and the calibrant remains unchanged.
-
-The semantic atom has now become a verbal molecule. Chapter 12 follows the next extension. Sanskrit forms several kinds of words from धातवः (*dhātavaḥ*), adds endings that identify each word's relation to the others, and joins the completed forms into a sentence.
+The semantic atom has now become a verbal molecule. Chapter 12 follows the next stage: Sanskrit builds other completed words, marks the relation each bears to the others, and assembles them into a sentence.

@@ -1152,8 +1152,8 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 10.4 | A | Chapter 10 | Gives the chapter an explicit six-part design test instead of relying on a general assertion of engineering. |
 | 10.5 | B | Chapter 10 and Appendix Part 6 | The numerical distributions provide empirical support for compactness and economy; complete tables can remain in the appendix. |
 | 10.6 | A | Chapters 10–12 | Establishes how stable atoms create generative range without an endlessly memorized lexicon. |
-| 10.7 | C | Chapter 10 | The *varṇa-śakti* debate strengthens the fractal interpretation, but the construction does not depend on resolving it. |
-| 10.8 | B | Chapters 5 and 10 | Shows that Sanskrit analysis presupposed stable atoms before Pāṇini; Chapter 5 carries the historical lineage in greater depth. |
+| 10.7 | C | Chapter 10 | Rewritten 2026-09-05. Concrete sound-and-meaning examples now introduce the *varṇa-śakti* debate, which remains as evidence that the continuum recognized Sanskrit's engineering. Repeated conclusions and the excursion into Vedic poetry were removed. Superseded prose: `LF-AR-008`. |
+| 10.8 | B | Chapters 5 and 10 | Consolidated 2026-09-05. The Yāska example now carries the word-level evidence that Sanskrit analysis presupposed stable atoms before Pāṇini. The repeated five-discipline figure was removed because Chapter 14 contains the fuller calibration matrix. Superseded prose: `LF-AR-016`. |
 | 10.9 | B | Chapter 10 | Completes the chapter's fractal inference by applying the *sūtra* discipline at atomic scale, though some recap can be reduced. |
 | 10.10 | C | Chapters 7 and 10 | Oṃ offers a powerful symbolic instance of the fractal, but the engineering of the atom is already established without it. |
 
@@ -1166,7 +1166,7 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 11.3 | A | Chapter 11 | Shows how compact endings encode person and number and connects verbal engineering to free word order. |
 | 11.4 | A | Chapter 11 and Appendix Part 7 | Establishes through broad Vedic evidence that the grammar operated before Pāṇini; the appendix carries the concordance. |
 | 11.5 | A | Chapter 11 | Distinguishes Pāṇini's explicit classification from the pre-existing procedures demonstrated in the Vedas. |
-| 11.6 | B | Chapter 11 | Draws the engineering conclusion from the examples and prepares the move to words and sentences; detailed recap can be trimmed. |
+| 11.6 | B | Chapter 11 | Consolidated 2026-09-05. The conclusion retains the atom-to-verb result, the Vedas as the invariant calibrant for grammar and sound, the fractal construction, लौकिक (*laukika*) generativity, and the transition to Chapter 12. Repeated chapter narration and extended examples were shortened. Superseded prose: `LF-AR-017`. |
 
 ### Chapter 12 — Building the *Vākyam*: Sanskrit's Molecular Assembly
 
@@ -1179,7 +1179,7 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 12.5 | A | Chapter 12 | Shows why free word order serves Vedic meter, memory, and long-term civilizational transmission. |
 | 12.6 | B | Chapters 5 and 12 | Clarifies Pāṇini's analytical contribution at sentence scale; Chapter 5 remains the primary historical treatment. |
 | 12.7 | A | Chapters 12 and 16 | Demonstrates how an invariant Vedic calibrant permits continuing *laukika* generativity. |
-| 12.8 | B | Chapter 12 | Completes the sonomer-to-sentence fractal and closes the construction sequence; repeated summaries can be shortened. |
+| 12.8 | B | Chapter 12 | Consolidated 2026-09-05. The conclusion retains the sonomer-to-sentence fractal, the Vedas as calibrant, लौकिक (*laukika*) generativity, Pāṇini's analysis, and the transition to Chapter 13. The distant chapter roadmap was removed. Superseded prose: `LF-AR-018`. |
 
 ### Chapter 13 — Why Preservation Needs Engineering
 
@@ -1205,9 +1205,9 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 14.5 | A | Chapter 14 | The six overlapping layers are the matrix itself and explain how different departures become detectable. |
 | 14.6 | A | Chapter 14 | Gives meter a precise preservation function as one of the matrix's error-detecting constraints. |
 | 14.7 | C | Chapter 14 | The combinatorial account demonstrates Sanskrit engineering, but the current prose explains the figure several times. Keep the figure, one clear explanation, and the preservation consequence; leave the extended history in the verified endnote. |
-| 14.8 | B | Chapters 10 and 14 | Extends the fractal design test to the whole language, but repeats criteria already established at atomic scale. |
+| 14.8 | B | Chapters 10 and 14 | Consolidated 2026-09-05. The section retains the six-part design test at language scale, the whole-language hammer, and the two-domain division of responsibility. The orbital-language recap and technical examples developed elsewhere were removed. Superseded prose: `LF-AR-019`. |
 | 14.9 | A | Chapters 2 and 14 | The control cases demonstrate that documentation and authority can preserve bounded forms without explaining Sanskrit's distributed invariance. |
-| 14.10 | B | Chapters 5 and 14 | Places Pāṇini inside the already operating matrix; the historical case is established in Chapter 5 and only needs synthesis here. |
+| 14.10 | B | Chapters 5 and 14 | Consolidated 2026-09-05. Chapter 14 now synthesizes Pāṇini's place inside the already operating matrix without repeating the historical case established in Chapters 2, 5, and 13. The selective-praise, heroic-erasure, domains-not-periods, and documentation-not-calibrant hammers remain. Superseded prose: `LF-AR-020`. |
 
 ### Chapter 15 — Aural Architecture
 
@@ -1219,7 +1219,7 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 15.4 | A | Chapter 15 | The error-detecting-code comparison explains in familiar terms how the recitation arrangements expose change. |
 | 15.5 | A | Chapter 15 | Geographically separated transmission supplies the direct test that the standard is distributed rather than centrally issued. |
 | 15.6 | A | Chapter 15 | Connects the demonstrated procedures to the two enemies they defeat. |
-| 15.7 | B | Chapter 15 | States the inference from continued performance to engineering; the preceding sections already carry the evidence. |
+| 15.7 | B | Chapter 15 | Consolidated 2026-09-05. The conclusion retains the inference from continued performance, the eleven-form combinatorial distinction, and the audible demonstration. The descriptions of the Hebrew, Quranic Arabic, and Latin control cases were removed because Chapter 14 already develops them. Superseded prose: `LF-AR-021`. |
 
 ### Chapter 16 — One Architecture, Two Domains
 
@@ -1233,7 +1233,7 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 16.6 | B | Chapters 14–16 | Applies the previously defined preservation checks to specific two-domain examples; some general explanation repeats Chapters 14–15. |
 | 16.7 | A | Chapter 16 | Establishes how open composition keeps Sanskrit useful without changing its architecture. |
 | 16.8 | A | Chapters 11–12 and 16 | States why the invariant Vedic corpus can calibrate the sounds and grammar used in later composition. |
-| 16.9 | B | Chapters 5 and 16 | Places Pāṇini within both domains and defeats the rupture story; earlier chapters provide the fuller proof. |
+| 16.9 | B | Chapters 5 and 16 | Consolidated 2026-09-05. Chapter 16 retains the Vedas as calibrant, Pāṇini's scope rules across both domains, the domains-not-periods distinction, his extraordinary decoding, and the closing hammers without repeating the fuller proof in Chapters 5 and 14. Superseded prose: `LF-AR-022`. |
 | 16.10 | B | Chapter 16 | Shows how one society distributes exact preservation and open composition without assigning the whole architecture to one owner. |
 | 16.11 | A | Chapter 16 | Synthesizes the two-domain response to entropy, capture, and the continuing need for new expression. |
 
@@ -1331,18 +1331,28 @@ The ranking covers **210 argument occurrences**: **121 A**, **75 B**, and **14 C
 - **3.4:** reclassified 2026-09-04. Chapter 3's Vedic containment-and-release examples are evidence rather than repetition and remain in place.
 - **4.7–4.9:** completed 2026-09-04. Chapter 4 now personifies the pyramid's recurring psychology through Hiraṇyakaśipu, preserves the complete distributed-calibration alternative, and closes without repeating the *Assalāyana Sutta*. Superseded prose: `LF-AR-005`.
 - **5.6–5.7:** completed 2026-09-04. The conclusion now joins the evidence around Pāṇini concisely, while the Second Shanti bridge remains intact as a core statement of purpose. Superseded prose: `LF-AR-006`.
-- **8.6:** prepare the retroflex conclusion in one short transition; Chapter 17 owns the developed argument.
+- **8.6:** completed 2026-09-05. The section now states the Central Asian result directly, names the tested sounds, and leaves the developed subcontinental argument to Chapter 17. Superseded prose: `LF-AR-007`.
 - **13.4b:** completed 2026-09-04. Chapter 13 now keeps the script claim needed by the preservation argument and points to Appendix Part 3 for the full treatment.
 - **13.7:** completed 2026-09-04. Chapter 13 now keeps the definitions and transition; Chapter 14 owns the developed control-case comparison. Superseded prose: `LF-AR-002`.
-- **18.12:** conclude Pāṇini's place without another complete account of heroic erasure.
-- **19.10:** retain only if the *asura / ahura* family adds a distinct radiance test after the Chapter 3 reframing.
+- **18.12:** completed 2026-09-05. The conclusion retains Pāṇini's place inside the earlier architecture and the heroic-erasure diagnosis without repeating the complete argument from Chapters 2, 5, and 13. Superseded prose: `LF-AR-009`.
+- **19.10:** completed 2026-09-05. The *asura / ahura* family remains as a distinct radiance test, while the second explanation of the radiance mechanism and one repeated hammer were removed. Superseded prose: `LF-AR-010`.
 
 ### Third Priority — Shorten Historical Excursions
 
-- **Pref.1 and 2.8:** preserve the author's path through *Operation Red Lotus* and the post-1857 motive, but remove historical detail not needed to enter the book's inquiry.
-- **18.7:** retain movement-not-authorship and several plausible reasons for migration; move the extended corridor history and examples to the endnotes.
-- **20.6:** define specialist radiance against whole-community diaspora, then shorten the modern diaspora survey.
-- **Ep.2:** use *samudra-manthana* to turn accumulated philological material from poison toward nectar, but do not let a second large metaphor retell the book.
+- **Pref.1 and 2.8:** retained after review. The revised Preface needs the author's path from *Operation Red Lotus*, while Chapter 2 needs the post-1857 motive for the change in attack. Reconsider only after a complete reader reports that either passage delays the argument.
+- **18.7:** completed 2026-09-05. The section retains movement-not-authorship, the pyramidal order along the proposed corridor, and several reasons men could have entered India without bringing Sanskrit. The extended corridor history moved to `LF-AR-013`.
+- **20.6:** completed 2026-09-05. The section retains the distinction between whole communities carrying a living inheritance and trained specialists carrying Sanskrit's complete calibrant architecture. The extended modern diaspora survey moved to `LF-AR-011`.
+- **Ep.2:** completed in two stages on 2026-09-05. The Epilogue retains the stolen sip, Rāhu, the poison-to-nectar reversal, and a concise Sanskrit Radiance Mapping Project. The repeated metaphor and detailed research procedure moved to `LF-AR-012` and `LF-AR-014`.
+
+### Follow-on Consolidation
+
+- **19.4:** completed 2026-09-05. The section retains the institutional function of PIE, the reconstruction scores, the historical environment, Pokorny, Watkins, and the dictionary transition while shortening the reconstruction timeline. Superseded prose: `LF-AR-015`.
+- **11.6:** completed 2026-09-05. The atom-to-verb conclusion retains the Vedic calibrant, fractal construction, generativity, and transition to Chapter 12. Superseded prose: `LF-AR-017`.
+- **12.8:** completed 2026-09-05. The sonomer-to-sentence conclusion retains the complete construction, the Vedic calibrant, Pāṇini's analysis, and the transition to preservation. Superseded prose: `LF-AR-018`.
+- **14.5:** completed 2026-09-05. The language-scale *sūtra* test and two-domain responsibilities remain, while arguments developed in Chapters 2, 6, 9, and 16 were removed. Superseded prose: `LF-AR-019`.
+- **14.7:** completed 2026-09-05. Pāṇini remains inside the already operating calibration matrix without another full presentation of the historical argument. Superseded prose: `LF-AR-020`.
+- **15.5:** completed 2026-09-05. The eleven recitation forms and the comparison with Hebrew, Quranic Arabic, and Latin remain, while Chapter 14 carries the full control-case descriptions. Superseded prose: `LF-AR-021`.
+- **16.8:** completed 2026-09-05. The section retains the Vedas as calibrant, Pāṇini's scope rules, the domains-not-periods distinction, and the closing hammers without repeating Chapters 5 and 14. Superseded prose: `LF-AR-022`.
 
 ### Protected Bridges — Shorten Carefully
 
@@ -1352,4 +1362,6 @@ The ranking covers **210 argument occurrences**: **121 A**, **75 B**, and **14 C
 
 ### Next Pass
 
-Work from D to C, one chapter at a time. For each target, identify the exact paragraphs, state what unique content must remain, and propose a deletion, move, or shorter replacement before changing the manuscript. Only after the C/D pass should any B-ranked occurrence be examined for sentence-level trimming.
+The main-body C/D reduction pass is complete. The remaining C-ranked passages are retained because they establish the author's motive, the book's antagonistic frame, Oṃ as a fractal instance, or the *Second Shanti* bridge.
+
+Audit the appendices next. Build an argument map for Appendix Parts 1–9, identify material already established in the body, and propose cuts without editing the appendix prose. Preserve calculations, source trails, reproducible methods, and technical evidence that the main body deliberately leaves to the reference apparatus.

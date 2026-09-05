@@ -399,3 +399,184 @@ This file preserves substantive prose removed during the argument-ranking reduct
 > Much of the ocean remains to be turned. The churn stands, the rope is in reach, and the nectar comes up on the side of Sanskrit.
 >
 > The nectar rises when the churn turns toward the Sun. Which side receives it depends on the architecture doing the churning.
+
+## LF-AR-015 — Chapter 19 §19.4 Extended Cementing Timeline
+
+**Recorded:** 2026-09-05
+**Source:** Chapter 19 §19.4, "The Cementing"
+**Disposition:** Condensed in place. The replacement retains the institutional function of PIE, its movement into dictionaries and online references, Figure 19.1, every coverage score, the historical environment, Pokorny's 1959 dictionary, Watkins, and the transition into the dictionary case. It removes a repeated account of the figure's historical lanes and details of the twentieth-century naming history that do not carry the section's argument.
+
+### Superseded Text
+
+> PIE persists because the third pillar remains. The racial pillar has been damaged, and the old theological chronology has receded. The doctrine of linear progress still requires ancient sophistication to descend from something more primitive. Sanskrit as an engineered source violates that doctrine.
+>
+> Chapter 3 explains the institutional consequence. The *progressive dogma* protects PIE because relinquishing PIE would weaken the doctrine itself. The *church of progress* then places PIE throughout the dictionaries and reference works from which each new generation learns.
+>
+> The construct is older than the name by which readers now know it. Schleicher called the reconstructed ancestor the *Ursprache*. The English expression *Proto-Indo-European* is recorded by 1905, and Winfred P. Lehmann used both the full name and the abbreviation *PIE* throughout his 1952 book.[NOTE: pie-term-history] The reconstructed ancestor began as a nineteenth-century construction. Its familiar English name and abbreviation belong to its twentieth-century consolidation.
+>
+> The hardening has continued during the past quarter century. Older dictionaries often stopped with recorded Latin, Greek, or Sanskrit forms. Online dictionaries now routinely extend the chain backward to PIE.
+>
+> For many English speakers, a free etymology website is the first and only place they look for a word's origin. Those sites usually present PIE as the end of the chain. Much of the reference machinery supporting that habit was expanded during the same period. PIE's apparent solidity is therefore not a nineteenth-century relic preserved unchanged. Contemporary reference works continue to manufacture it for each new reader.[NOTE: pie-cementing-recent-decades]
+>
+> The reconstruction history itself can be measured. The figure below tracks five major PIE reconstructions, beginning with Schleicher's nineteenth-century bake and ending with the modern reconstruction. It also places those revisions against selected historical events.
+>
+> The chart uses a simple coverage test. Each reconstructed PIE consonant is placed into a vocal-tract cell: where the sound is made, and how it is made. **Place** means location along the vocal tract — dental, retroflex, palatal, velar, and so on. **Manner** means how the sound is made — through voicing, aspiration, closure, friction, nasalization, and related features. The same place-and-manner grid is then built for Sanskrit and Tamil.
+>
+> In the legend, **Sanskrit ⊇ PIE** means: what fraction of PIE's reconstructed consonants are already covered by Sanskrit's consonant inventory? **Tamil ⊇ PIE** is the control: the same test, run against Tamil, so Sanskrit is not being measured in isolation. The decimal labels are fractions. Schleicher's **0.81** means that 81 percent of his reconstructed PIE consonants matched Sanskrit's place-and-manner inventory. That is exactly what one would expect from the first bake. Schleicher's PIE leaned heavily on Sanskrit.
+>
+> ![Figure 19.1 — PIE Keeps Returning to Sanskrit. The chart measures how much of each reconstructed PIE consonant inventory is covered by Sanskrit, with Tamil as a control. The curve moves away from Sanskrit and then reloads Sanskrit-like material; the historical lanes show context, not causation.](figures/pie_in_sky/sanskrit_containment_trajectory.svg){#fig:ch19-pie-trajectory width=100%}
+>
+> The event lanes below the chart show what the timing reveals. The first lane is internal to PIE: Schleicher in 1862, Brugmann in 1897, the standard / laryngeal reconstruction by 1927, the glottalic turn in 1973, and the modern reload in 2020. The second lane tracks the Western and European environment around the reconstruction: Darwin's tree metaphor in 1859, the retreat of explicit race science after the war, the continued survival of the racial Arya thesis, the hardening of PIE in dictionaries in the 1990s, and the recent public relaunch of PIE through popular books. The third lane tracks the Indic and Sanskrit environment: India's independence in 1947, the founding of Saṃskṛta Bhāratī in 1981, economic opening in 1991, and Hindu civilizational assertion after 2014.
+>
+> The lanes do not claim that one event mechanically caused the next PIE revision. They show the strategic environment. Race science retreats; the racial Arya thesis marches on. Sanskrit reasserts itself; PIE does not disappear. It adjusts.
+>
+> Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. The modern reconstruction then rises again to **0.64**. Against that historical background, the reversal deserves attention. The pattern is not the discovery of a stable ancestor. It is a reconstruction moving around Sanskrit: close at first, then away, then back toward Sanskrit-like material when Sanskrit can no longer be ignored.
+>
+> The reconstruction bakers were only the first shift; a second took the reference shelf. Julius Pokorny's *Indogermanisches etymologisches Wörterbuch* (1959) gathered the starred roots into a cookbook. Calvert Watkins built them into the *American Heritage Dictionary*'s appendix — a pie in every American desk. The free online references a reader now consults, Etymonline and the aggregators, made the starred form the default terminus. More bakers, more pies. The reconstructions did not merely multiply in the journals; they climbed into the dictionaries, edition by edition, until the entry a child reads today ends at a star. The next section follows that climb into one dictionary's own pages.
+
+## LF-AR-016 — Chapter 10 Figure 10.9 and Supporting Explanation
+
+**Recorded:** 2026-09-05
+**Source:** Chapter 10 §10.12, "Engineering Was Common Knowledge"
+**Disposition:** Figure retired from the manuscript. It showed five Sanskrit disciplines, not five शाखाः (*śākhāḥ*) or the eleven पाठाः (*pāṭhāḥ*). Chapter 14 Figure 14.2 now provides the fuller six-layer calibration matrix, so moving this figure there would duplicate the same argument. The replacement retains a short bridge to Chapter 14 and leads directly into Yāska's word-level analysis.
+
+### Superseded Text
+
+> ### What the Disciplines Presuppose
+>
+> ![Figure 10.9 — Five Sanskrit disciplines and the engineering each presupposes.](figures/building_dhatuh/presupposed_engineering_cards.svg){#fig:building-dhatuh-presupposed-engineering width=100%}
+>
+> Figure 10.9 places five Sanskrit disciplines beside the engineering each one presupposes. Each discipline depends on repeatability within the part of Sanskrit it studies. A student must be able to reproduce a sound, count the timing of a verse, repeat a grammatical operation with the expected result, and explain how the identified parts of a word contribute to its meaning. A reciter must also be able to compare every sound with the form received through the lineage. Sanskrit preserves that repeatability at every level.
+
+## LF-AR-017 — Chapter 11 §11.6 Repeated Chapter Summary
+
+**Recorded:** 2026-09-05
+**Source:** Chapter 11 §11.6, "The Atom Has Become Action"
+**Disposition:** Condensed in place. The replacement retains the atom-to-verb conclusion, the five preparation procedures, the grammatical information carried by verbal endings, the Vedas as the invariant calibrant for grammar and sound, the fractal construction of the completed verb, लौकिक (*laukika*) generativity, and the transition to Chapter 12. Repeated chapter narration and the extended occupational examples were shortened.
+
+### Superseded Text
+
+> Chapter 10 examined how sonomers form a semantic atom. This chapter has shown how Sanskrit turns that atom into a completed verb.
+>
+> The five detailed verbs demonstrate how Sanskrit prepares different atoms. It may change a vowel, insert a sound, repeat part of the atom, or add material at a restricted position. In every example, the completed verb preserves enough of its construction for a learner to trace it back to the atom.
+>
+> The wider Vedic examples show how much grammatical information these procedures can express. The endings distinguish who acts and how many act. Other forms place the action in the present, past, or future. Commands and modal forms express further relationships between the speaker and the action. The Vedas preserve these completed forms exactly, which allows them to serve as the calibrant for the language.
+>
+> A completed verb also repeats Sanskrit's fractal construction. It contains both its ending and its prepared atom, while the atom still contains its sonomers. A learner can therefore identify the smaller units inside the larger verb.
+>
+> The लौकिक (*laukika*) domain gives this preserved architecture radiant reach. Speakers use it to tell stories and compose poetry. Mathematicians use it to explain proofs, and astronomers use it to record their calculations. Manufacturers and traders can describe their materials, objects, and transactions. Every generation can generate the expressions it needs because the procedures remain available and the calibrant remains unchanged.
+>
+> The semantic atom has now become a verbal molecule. Chapter 12 follows the next extension. Sanskrit forms several kinds of words from धातवः (*dhātavaḥ*), adds endings that identify each word's relation to the others, and joins the completed forms into a sentence.
+
+## LF-AR-018 — Chapter 12 §12.8 Repeated Construction Summary
+
+**Recorded:** 2026-09-05
+**Source:** Chapter 12 §12.8, "The Architecture Reaches the Sentence"
+**Disposition:** Consolidated in place. The replacement retains the complete sonomer-to-sentence construction, the fractal relationship among its levels, the Vedas as calibrant, लौकिक (*laukika*) generativity, the Pāṇini conclusion, and the transition to Chapter 13. The roadmap to Chapters 14, 16, and 19 was removed because those chapters do not immediately follow and their arguments are already introduced elsewhere.
+
+### Superseded Text
+
+> Chapters 11 and 12 have followed one continuous construction from sonomer to sentence. Sonomers form a semantic atom. Sanskrit prepares that atom and adds an ending to create a verb. Head-bonds and tail-bonds extend atoms into other kinds of words.
+>
+> A role-ending tells the listener how each completed word relates to the others. Sanskrit then joins those पदानि (*padāni*) into a वाक्यम् (*vākyam*).
+>
+> The architecture is fractal because every larger construction retains the smaller constructions within it. A sentence contains words with identifiable roles. Those words contain their affixes and atoms. The atoms contain their sonomers.
+>
+> The Vedas serve as the calibrant because they preserve completed examples across this entire range. They preserve the sound of the sonomers, the transformation of the atoms, the endings of the words, and the relations inside the sentences. Exact transmission keeps those examples available for every later generation.
+>
+> The architecture is radiant because the लौकिक (*laukika*) domain can apply it beyond the received corpus. Speakers can create new words, compounds, and sentences while the Vedic calibrant remains unchanged. Sanskrit can meet a changing world without surrendering the architecture that holds the language together.
+>
+> Pāṇini made the analysis explicit. He documented the recurring procedures through which a learner can move from atom to sentence and from a completed sentence back to its parts.
+>
+> Chapter 13 examines how this complete language survives across time. Chapter 14 explains the calibration architecture that keeps लौकिक (*laukika*) Sanskrit aligned with the Vedas. Chapter 16 returns to the two domains in full, and Chapter 19 follows Sanskrit's radiance beyond India.
+
+## LF-AR-019 — Chapter 14 §14.5 Repeated Category and Two-Domain Explanations
+
+**Recorded:** 2026-09-05
+**Source:** Chapter 14 §14.5, "The Whole Language Follows the सूत्र (*Sūtra*) Discipline"
+**Disposition:** Consolidated in place. The replacement retains the three-way distinction among drift, authority-enforced codification, and distributed calibration; the six characteristics of the सूत्र (*sūtra*) applied at language scale; the whole-language hammer; the two-domain division of responsibility; वैचित्र्य (*vaicitrya*); Pāṇini's documentation of scope; and the pointers to Chapter 16 and Appendix Part 8. It removes the orbital-language recap and technical examples already developed in Chapters 6, 9, and 16.
+
+### Superseded Text
+
+> A language can maintain a standard in three ways. In a natural language, the usage of its speakers continually reshapes the standard. This is the ***प्रकृति (*prakṛti*)*** category. In a codified language, a court, academy, or committee selects and enforces the standard. In Sanskrit, calibration maintains a standard distributed across the architecture and its caretakers. This is the ***संस्कृति (*saṃskṛti*)*** category.
+>
+> Natural languages then divide according to their relation with a calibrant. An orbital language still drifts internally, but continuing contact with Sanskrit limits how far it diverges. A language with no active calibrant drifts without that correction (Chapter 6 §6.7).
+>
+> The same discipline shapes the atomic scale (Chapter 10), and the language itself displays it at system scale. These are relative characteristics. A सूत्र (*sūtra*) is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misunderstood; essence-bearing when measured against speech that conveys less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech preserved by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the सूत्रलक्षणम् (*sūtra-lakṣaṇam*) specifies at the rule scale and seen earlier at the atomic scale.[NOTE: whole-language-sutra-discipline-comparator]
+>
+> 1. It is compact: where ordinary languages accumulate vocabulary and exception by historical layering, Sanskrit uses a finite sonomer inventory, a finite semantic-atom inventory, and compressed rules to generate vast expression.
+> 2. It has no wasted layer: where ordinary language retains residues whose function may no longer be recoverable, every part of the calibration matrix has a task.
+> 3. It is unambiguous: where ordinary speech depends on habit and context to resolve form, Sanskrit specifies sound, timing, accent, meter, and grammar. Within the Vedas, स्वर (*svara*) adds an audible interpretive layer to that specification.
+> 4. It is essence-bearing: where ordinary exposition often expands an idea to make it recoverable, Sanskrit can preserve distilled knowledge in stable forms — mantra, definition, procedure, argument, and philosophical insight.
+> 5. It is many-facing: where specialized language-forms often split apart, the same Sanskrit architecture serves mantra, poetry, शास्त्र (*śāstra*), dialogue, ritual, and philosophy.
+> 6. It is stable through use: where ordinary language changes because people use it, Sanskrit uses performance, hearing, grammar, meter, and lineage to detect deviation and restore form.
+>
+> The whole language follows the sūtra-discipline.
+>
+> ### One Architecture, Two Domains
+>
+> The calibration matrix serves two different responsibilities. Vedic transmission preserves every received passage exactly, including the meaning-bearing उदात्त-अनुदात्त-स्वरित (*udātta-anudātta-svarita*) pitch pattern, प्लुत (*pluta*) duration, contextual उपध्मानीय (*upadhmānīya*), and the **ड → ळ** realization specified by the *Ṛgveda-Prātiśākhya*. Chapter 9 explains why Sanskrit can preserve these sounds under defined conditions without assigning each one an independent grid address in the reusable sonomer inventory.
+>
+> The लौकिक (*laukika*) domain uses the same architecture for new composition. Its sonomers must combine consistently across new words, and an उपसर्ग (*upasarga*) bonds directly with its atom so that a reader can follow a sentence that has never been composed before. The read-only Vedic corpus can preserve a contextual sound or a separated उपसर्ग (*upasarga*) at an exact position because no later reciter may rearrange the passage.
+>
+> The same division appears among verbal forms. The Vedic corpus preserves the लेट्लकार (*leṭ-lakāra*), the injunctive, and other resources required by its passages. The Vedic pitch system adds grammatical information that helps bound the larger range, while the fixed words, syntax, sequence, and inherited interpretation complete the boundary. Speakers in the लौकिक (*laukika*) domain compose without that preserved pitch layer, so they use a tighter set of forms. Each form must remain recoverable in a sentence that has never existed before. Chapter 10 called this ***वैचित्र्य (*vaicitrya*)***, engineered range: Sanskrit preserves additional range where that range performs a defined task.
+>
+> Western philology converts these designed differences into organic mutation across time. Sanskrit instead uses one architecture across its वैदिक (*vaidika*) and लौकिक (*laukika*) domains. Pāṇini states whether particular rules apply in Vedic usage, mantra, Brāhmaṇa prose, a named text or lineage, or लौकिक (*laukika*) use. The लौकिक (*laukika*) library can grow, be selected, and suffer loss while the language remains calibrated. The Vedic corpus remains fixed. Chapter 16 explains the two-domain architecture, and Appendix Part 8 presents the complete technical comparison across sounds, endings, verbal forms, उपसर्ग (*upasarga*) placement, pitch, meter, composition, and transmission.
+
+## LF-AR-020 — Chapter 14 §14.7 Repeated Pāṇini and Heroic-Erasure Argument
+
+**Recorded:** 2026-09-05
+**Source:** Chapter 14 §14.7, "The Engineering Precedes Pāṇini"
+**Disposition:** Consolidated in place. The replacement retains the distributed origin of the calibration matrix, Pāṇini's extraordinary documentation, the selective-praise and heroic-erasure hammers, the distinction between domains and periods, the Vedas as calibrant, the अष्टाध्यायी (*Aṣṭādhyāyī*) as documentation, and the transition to Chapter 15. The detailed "centuries of analysis" response remains available through endnote `architecture-not-analysis-pratisakhya`; repeated formulations already established in Chapters 2, 5, and 13 were removed.
+
+### Superseded Text
+
+> No single named author assembled the calibration matrix. The Vedic corpus is अपौरुषेय (*apauruṣeya*) in the lineage's own account — without human authorship. The प्रातिशाख्य (*Prātiśākhya*) discipline is distributed across recensions. The शिक्षा (*Śikṣā*) texts teach an already established phonetic specification. The धातुपाठ (*Dhātupāṭha*) and वर्णमाला (*Varṇamālā*) record inventories the system already uses. The Vedas already employ the metrical architecture that छन्दस् (*chandas*) later explains explicitly.
+>
+> Pāṇini documented a matrix that Sanskrit already used. He did not originate it.
+>
+> **Pāṇini's praise is selective and therefore dangerously seductive.** The machinery can safely admire the named documenter if admiration makes him look like origin. But Pāṇini is a threat to the pyramid when read correctly. He is not evidence that authority created Sanskrit's order. He is evidence that order already existed deeply enough to be decoded, compressed, and preserved as rule. The pyramid praises him only by turning him into what he was not.
+>
+> The Western philological account calls him a codifier because that word lets the asuric machinery relocate the engineering into a later named figure and erase the anonymous architecture underneath him. The dogma's ***"centuries of analysis"*** hypothesis projects the same fabrication onto the phonological framework: gradual assembly by anonymous प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) authors, built up from observations across many generations. The hypothesis fails the same test. The texts do not show gradual assembly. They do not preserve failed prototypes, provisional sound grids, experimental recitation systems, or incremental discovery notes. They present the complete matrix as an established reality.
+>
+> This is *heroic erasure* at the level of the matrix. The pyramid praises the named documenter and uses that praise to deny the civilization that made his work possible.
+>
+> The प्रातिशाख्य (*Prātiśākhya*) discipline preserves speech rather than inventing it. शिक्षा (*Śikṣā*) trains the mouth rather than inventing it. Pāṇini compresses Sanskrit's grammar rather than inventing Sanskrit. By celebrating the documenter as creator, the pyramid hides the architecture he documented.
+>
+> The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert वैदिक (*vaidika*) and लौकिक (*laukika*) from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2).
+>
+> The sequence begins with engineered architecture embodied in the Vedas. Several disciplines make parts of that architecture explicit, and Pāṇini's compressed rule-system provides its finest grammatical documentation.
+>
+> The Vedas preserve the engineered architecture in performed language. The प्रातिशाख्य (*Prātiśākhya*), शिक्षा (*Śikṣā*), छन्दस् (*Chandas*), and व्याकरणम् (*Vyākaraṇam*) disciplines make different parts of it explicit. Pāṇini's work remains its finest grammatical documentation because he expresses the generative procedures with unmatched precision and compression.
+>
+> Chapter 13 §13.5 states the teaching-level distinction: the Veda preserves each form in use, while the अष्टाध्यायी (*Aṣṭādhyāyī*) explains how Sanskrit derives such forms. Pāṇini's documentation gives learners another route to analysis and correction. It strengthens access to the calibrant; it does not become another calibrant.
+>
+> Heroic erasure reverses that relationship. It presents the named documenter as the source of Sanskrit's stability and moves the Vedic calibrant out of sight. The surviving document then receives credit for creating the architecture that it actually explains.
+>
+> Preserving the matrix relies on the eleven पाठाः (*pāṭhāḥ*), the aural architecture, the combinatorial recitation forms, and the working machinery by which the Vedic sound-body has been preserved without observable deviation across thousands of years (Chapter 15).
+
+## LF-AR-021 — Chapter 15 §15.5 Repeated Preservation Control Cases
+
+**Recorded:** 2026-09-05
+**Source:** Chapter 15 §15.5, "The Living Architecture"
+**Disposition:** Condensed in place. The replacement retains the comparison with Hebrew, Quranic Arabic, and Latin; the unique claim about the Vedic system's eleven recitation forms; the specific combinations those forms use; and the distinction between Chapter 14's architectural comparison and Chapter 15's audible demonstration. The medium-specific descriptions of the three control cases were removed here because Chapter 14 already develops them.
+
+### Superseded Text
+
+> None of the comparison cases examined here documents an ancient linguistic preservation system at this depth. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on writing, with chant traditions added to it.[NOTE: masoretic-codification-timing][NOTE: quran-recitation-vs-pathas-comparison] Only the Vedic system combines connected recitation, word separation, overlapping pairs, reversals, and longer prescribed recombinations of the same passage. Chapter 14 §14.6 established the architectural comparison; this chapter has shown how the Vedic system performs it in sound.
+
+## LF-AR-022 — Chapter 16 §16.8 Repeated Pāṇini Explanation
+
+**Recorded:** 2026-09-05
+**Source:** Chapter 16 §16.8, "How the Veda Calibrates लौकिक (*Laukika*) Sanskrit"
+**Disposition:** Consolidated in place. The replacement retains the Vedas as calibrant, the वैयाकरणाः (*vaiyākaraṇāḥ*) as analysts of both domains, Pāṇini's scope rules, the domains-not-periods distinction, his extraordinary decoding, and the two closing hammers. The general explanation of what analysis provides and the repeated statement that Sanskrit already used the architecture were removed because Chapters 5 and 14 establish them.
+
+### Superseded Text
+
+> The ***वैयाकरणाः (*vaiyākaraṇāḥ*)*** documented both domains, but they did not calibrate the Vedas. The Vedas were the calibrant. Their analysis made the preserved architecture explicit and helped लौकिक (*laukika*) speakers remain within it.
+>
+> Pāṇini inherited this arrangement and documented operations found across both domains. His rules state whether a particular operation applies broadly in the वैदिक (*vaidika*) domain, only in mantra, in Brāhmaṇa usage, in a named text, or in लौकिक (*laukika*) use. This documentation helps a student read and understand inherited Vedic forms and use Sanskrit for new लौकिक (*laukika*) composition. These boundaries do not describe an old Sanskrit becoming a newer Sanskrit.
+>
+> Nothing in the अष्टाध्यायी (*Aṣṭādhyāyī*) shows Pāṇini rewriting a mantra, correcting the Vedic corpus, or converting a drifting natural language into Sanskrit. He documented an architecture that Sanskrit already used in both domains. His decoding is the finest account of that architecture, but it is neither the architecture's origin nor the source of the Vedas' stability.
+>
+> The Vedas did not survive because Pāṇini stabilized them. Pāṇini could document Sanskrit because its architecture was already encoded and preserved within them.

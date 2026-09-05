@@ -105,7 +105,7 @@ The layers overlap because they check different features of the same language. A
 
 छन्दस् (*Chandas*) turns poetic meter into a countable design. A poet begins with a fixed duration. A लघु (*laghu*) syllable occupies one मात्रा (*mātrā*), while a गुरु (*guru*) syllable occupies two. Once the duration is fixed, the discipline can ask how many valid patterns of short and long syllables will fill it exactly.
 
-![Figure 14.3 — Chandas as mātrā tiling. The fillings of three, four, and five मात्राः (*mātrāḥ*); each measure is built from the two shorter ones, so the counts add.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=100%}
+![Figure 14.3 — Chandas as mātrā tiling. The fillings of three, four, and five मात्राः (*mātrāḥ*); each measure is built from the two shorter ones, so the counts add.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=96%}
 
 Figure 14.3 shows three ways to fill three मात्राः (*mātrāḥ*), five ways to fill four, and eight ways to fill five. Every pattern begins with either a one-*mātrā* लघु (*laghu*) or a two-*mātrā* गुरु (*guru*). The remaining duration can therefore be filled in the number of ways already counted for one of the two shorter measures. The counts become 1, 2, 3, 5, 8, 13: the sequence the modern world calls Fibonacci.[NOTE: chandas-laghu-guru-virahanka-sequence]
 
@@ -113,30 +113,26 @@ The same constraint assists preservation. The received words must fit their metr
 
 ## 14.5 The Whole Language Follows the सूत्र (*Sūtra*) Discipline
 
-A language can maintain a standard in three ways. In a natural language, the usage of its speakers continually reshapes the standard. This is the ***प्रकृति (*prakṛti*)*** category. In a codified language, a court, academy, or committee selects and enforces the standard. In Sanskrit, calibration maintains a standard distributed across the architecture and its caretakers. This is the ***संस्कृति (*saṃskṛti*)*** category.
+Chapters 2 and 6 distinguished natural drift, authority-enforced codification, and distributed calibration. Sanskrit belongs to the third category. Its architecture and caretakers keep the standard available without giving a court, academy, or committee ownership of the language.
 
-Natural languages then divide according to their relation with a calibrant. An orbital language still drifts internally, but continuing contact with Sanskrit limits how far it diverges. A language with no active calibrant drifts without that correction (Chapter 6 §6.7).
+Chapter 10 found the six characteristics of a सूत्र (*sūtra*) within the semantic atom. The same characteristics appear when the complete language is compared with natural speech shaped by changing usage and accumulated history:[NOTE: whole-language-sutra-discipline-comparator]
 
-The same discipline shapes the atomic scale (Chapter 10), and the language itself displays it at system scale. These are relative characteristics. A सूत्र (*sūtra*) is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misunderstood; essence-bearing when measured against speech that conveys less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech preserved by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the सूत्रलक्षणम् (*sūtra-lakṣaṇam*) specifies at the rule scale and seen earlier at the atomic scale.[NOTE: whole-language-sutra-discipline-comparator]
+1. It is compact: where ordinary languages accumulate vocabulary and exceptions through historical change, Sanskrit uses a finite sonomer inventory, a finite semantic-atom inventory, and compressed rules to generate vast expression.
+2. It has no wasted layer: where ordinary language retains residues whose purpose may no longer be recoverable, every part of the calibration matrix performs a task.
+3. It is unambiguous: where ordinary speech depends on habit and context, Sanskrit specifies sound, timing, accent, meter, and grammar. Within the Vedas, स्वर (*svara*) adds an audible layer of interpretation.
+4. It is essence-bearing: where ordinary explanation often requires many words, Sanskrit can preserve distilled knowledge in a mantra, definition, procedure, argument, or philosophical statement.
+5. It is many-facing: the same Sanskrit architecture serves mantra, poetry, शास्त्र (*śāstra*), dialogue, ritual, and philosophy.
+6. It is stable through use: Sanskrit uses performance, hearing, grammar, meter, and distributed transmission to detect deviation and correct it against the calibrant.
 
-1. It is compact: where ordinary languages accumulate vocabulary and exception by historical layering, Sanskrit uses a finite sonomer inventory, a finite semantic-atom inventory, and compressed rules to generate vast expression.
-2. It has no wasted layer: where ordinary language retains residues whose function may no longer be recoverable, every part of the calibration matrix has a task.
-3. It is unambiguous: where ordinary speech depends on habit and context to resolve form, Sanskrit specifies sound, timing, accent, meter, and grammar. Within the Vedas, स्वर (*svara*) adds an audible interpretive layer to that specification.
-4. It is essence-bearing: where ordinary exposition often expands an idea to make it recoverable, Sanskrit can preserve distilled knowledge in stable forms — mantra, definition, procedure, argument, and philosophical insight.
-5. It is many-facing: where specialized language-forms often split apart, the same Sanskrit architecture serves mantra, poetry, शास्त्र (*śāstra*), dialogue, ritual, and philosophy.
-6. It is stable through use: where ordinary language changes because people use it, Sanskrit uses performance, hearing, grammar, meter, and lineage to detect deviation and restore form.
-
-The whole language follows the sūtra-discipline.
+The whole language follows the *sūtra*-discipline.
 
 ### One Architecture, Two Domains
 
-The calibration matrix serves two different responsibilities. Vedic transmission preserves every received passage exactly, including the meaning-bearing उदात्त-अनुदात्त-स्वरित (*udātta-anudātta-svarita*) pitch pattern, प्लुत (*pluta*) duration, contextual उपध्मानीय (*upadhmānīya*), and the **ड → ळ** realization specified by the *Ṛgveda-Prātiśākhya*. Chapter 9 explains why Sanskrit can preserve these sounds under defined conditions without assigning each one an independent grid address in the reusable sonomer inventory.
+The calibration matrix serves two responsibilities. In the वैदिक (*vaidika*) domain, it preserves each received passage exactly. This includes its wording, sequence, meter, meaning-bearing pitch, duration, and contextual sounds. Because every form occupies a known place in an invariant passage, this domain can preserve features restricted to a particular passage or lineage.
 
-The लौकिक (*laukika*) domain uses the same architecture for new composition. Its sonomers must combine consistently across new words, and an उपसर्ग (*upasarga*) bonds directly with its atom so that a reader can follow a sentence that has never been composed before. The read-only Vedic corpus can preserve a contextual sound or a separated उपसर्ग (*upasarga*) at an exact position because no later reciter may rearrange the passage.
+The लौकिक (*laukika*) domain uses the same architecture for new composition. A new word or sentence cannot depend on a known passage to make its structure clear. Its sounds and grammatical relations must remain recoverable in combinations that no earlier speaker composed. This division of responsibility is ***वैचित्र्य (*vaicitrya*)***, engineered range: Sanskrit retains additional range where that range performs a defined purpose.
 
-The same division appears among verbal forms. The Vedic corpus preserves the लेट्लकार (*leṭ-lakāra*), the injunctive, and other resources required by its passages. The Vedic pitch system adds grammatical information that helps bound the larger range, while the fixed words, syntax, sequence, and inherited interpretation complete the boundary. Speakers in the लौकिक (*laukika*) domain compose without that preserved pitch layer, so they use a tighter set of forms. Each form must remain recoverable in a sentence that has never existed before. Chapter 10 called this ***वैचित्र्य (*vaicitrya*)***, engineered range: Sanskrit preserves additional range where that range performs a defined task.
-
-Western philology converts these designed differences into organic mutation across time. Sanskrit instead uses one architecture across its वैदिक (*vaidika*) and लौकिक (*laukika*) domains. Pāṇini states whether particular rules apply in Vedic usage, mantra, Brāhmaṇa prose, a named text or lineage, or लौकिक (*laukika*) use. The लौकिक (*laukika*) library can grow, be selected, and suffer loss while the language remains calibrated. The Vedic corpus remains fixed. Chapter 16 explains the two-domain architecture, and Appendix Part 8 presents the complete technical comparison across sounds, endings, verbal forms, उपसर्ग (*upasarga*) placement, pitch, meter, composition, and transmission.
+Western philology converts these designed differences into organic mutation across time. Sanskrit uses one architecture across two domains. Pāṇini documents that distinction by stating where particular rules apply: in Vedic usage, mantra, Brāhmaṇa prose, a named text or lineage, or लौकिक (*laukika*) composition. The Vedic corpus remains fixed while the लौकिक (*laukika*) library can grow and change. Chapter 16 develops this two-domain architecture, while Appendix Part 8 provides the detailed technical comparison.
 
 ## 14.6 Control Cases: Codification by Authority
 
@@ -194,29 +190,15 @@ The three benchmark traditions are not Sanskrit's independent peers. They are Sa
 
 ## 14.7 The Engineering Precedes Pāṇini
 
-No single named author assembled the calibration matrix. The Vedic corpus is अपौरुषेय (*apauruṣeya*) in the lineage's own account — without human authorship. The प्रातिशाख्य (*Prātiśākhya*) discipline is distributed across recensions. The शिक्षा (*Śikṣā*) texts teach an already established phonetic specification. The धातुपाठ (*Dhātupāṭha*) and वर्णमाला (*Varṇamālā*) record inventories the system already uses. The Vedas already employ the metrical architecture that छन्दस् (*chandas*) later explains explicitly.
+No single named author assembled the calibration matrix. The Vedic corpus is अपौरुषेय (*apauruṣeya*) in the lineage's own account: without human authorship. The प्रातिशाख्य (*Prātiśākhya*) discipline is distributed across recensions. शिक्षा (*Śikṣā*) teaches an already established phonetic specification. The धातुपाठ (*Dhātupāṭha*) and वर्णमाला (*Varṇamālā*) record inventories that Sanskrit already uses, while the Vedas employ the metrical architecture that छन्दस् (*chandas*) later explains.
 
 Pāṇini documented a matrix that Sanskrit already used. He did not originate it.
 
-**Pāṇini's praise is selective and therefore dangerously seductive.** The machinery can safely admire the named documenter if admiration makes him look like origin. But Pāṇini is a threat to the pyramid when read correctly. He is not evidence that authority created Sanskrit's order. He is evidence that order already existed deeply enough to be decoded, compressed, and preserved as rule. The pyramid praises him only by turning him into what he was not.
+**Pāṇini's praise is selective and therefore dangerously seductive.** The pyramid can admire a named documenter if that admiration makes him appear to be the source. Read correctly, Pāṇini threatens its account. His work demonstrates that Sanskrit's order already existed deeply enough to be decoded and compressed into rules. Calling him a codifier moves the engineering to a later named figure and hides the architecture beneath him. The pyramid praises him only by turning him into what he was not.
 
-The Western philological account calls him a codifier because that word lets the asuric machinery relocate the engineering into a later named figure and erase the anonymous architecture underneath him. The dogma's ***"centuries of analysis"*** hypothesis projects the same fabrication onto the phonological framework: gradual assembly by anonymous प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) authors, built up from observations across many generations. The hypothesis fails the same test. The texts do not show gradual assembly. They do not preserve failed prototypes, provisional sound grids, experimental recitation systems, or incremental discovery notes. They present the complete matrix as an established reality.
+This is *heroic erasure*: praise the documenter, then use that praise to deny the civilization that made his work possible. The same move converts वैदिक (*vaidika*) and लौकिक (*laukika*) from two domains into a before-and-after chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. Calling him a codifier is a grammatical sleight of hand with civilizational consequences.
 
-This is *heroic erasure* at the level of the matrix. The pyramid praises the named documenter and uses that praise to deny the civilization that made his work possible.
-
-The प्रातिशाख्य (*Prātiśākhya*) discipline preserves speech rather than inventing it. शिक्षा (*Śikṣā*) trains the mouth rather than inventing it. Pāṇini compresses Sanskrit's grammar rather than inventing Sanskrit. By celebrating the documenter as creator, the pyramid hides the architecture he documented.
-
-The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert वैदिक (*vaidika*) and लौकिक (*laukika*) from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2).
-
-The sequence begins with engineered architecture embodied in the Vedas. Several disciplines make parts of that architecture explicit, and Pāṇini's compressed rule-system provides its finest grammatical documentation.
-
-The Vedas preserve the engineered architecture in performed language. The प्रातिशाख्य (*Prātiśākhya*), शिक्षा (*Śikṣā*), छन्दस् (*Chandas*), and व्याकरणम् (*Vyākaraṇam*) disciplines make different parts of it explicit. Pāṇini's work remains its finest grammatical documentation because he expresses the generative procedures with unmatched precision and compression.
-
-Chapter 13 §13.5 states the teaching-level distinction: the Veda preserves each form in use, while the अष्टाध्यायी (*Aṣṭādhyāyī*) explains how Sanskrit derives such forms. Pāṇini's documentation gives learners another route to analysis and correction. It strengthens access to the calibrant; it does not become another calibrant.
-
-Heroic erasure reverses that relationship. It presents the named documenter as the source of Sanskrit's stability and moves the Vedic calibrant out of sight. The surviving document then receives credit for creating the architecture that it actually explains.
-
-Preserving the matrix relies on the eleven पाठाः (*pāṭhāḥ*), the aural architecture, the combinatorial recitation forms, and the working machinery by which the Vedic sound-body has been preserved without observable deviation across thousands of years (Chapter 15).
+The Vedas preserve Sanskrit in performed language. The supporting disciplines make different parts of that architecture explicit. The अष्टाध्यायी (*Aṣṭādhyāyī*) explains how Sanskrit derives its forms and gives learners another route to teaching, analysis, and correction. Pāṇini's work remains the finest grammatical documentation of that architecture. It strengthens access to the calibrant; it does not become another calibrant.
 
 The radiant matrix kept the architecture present. Manuscripts burn, institutions fall, libraries close, and centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the गुरु-शिष्य (*guru-śiṣya*) chain, and verified by the listening audience has no single institution to bring down.
 
@@ -226,6 +208,6 @@ At the linguistic scale, the conclusion is already concrete. Order can exist wit
 
 This architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. Sanskrit therefore provides living evidence of calibrant order. Later *Second Shanti* volumes will follow the same architecture from language into संस्कृति (*saṃskṛti*) and society.
 
-The matrix depends on its most important medium: sound preserved by disciplined hearing (Chapter 15).
+Chapter 15 now turns to the eleven पाठाः (*pāṭhāḥ*) and the aural machinery through which the Vedic sound-body has remained invariant across thousands of years.
 
 The radiant matrix outlasted the pyramids built over it. It will outlast the pyramids built against it.

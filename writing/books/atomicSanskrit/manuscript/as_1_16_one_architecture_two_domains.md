@@ -300,13 +300,9 @@ The Vedas therefore encode an *implicit* language manual. Their passages use the
 
 The surrounding disciplines make that implicit manual teachable. शिक्षा (*śikṣā*) explains sound and instruction. The प्रातिशाख्य (*Prātiśākhya*) texts document phonetic requirements associated with particular Vedic corpora. छन्दस् (*chandas*) examines metrical composition. निरुक्त (*nirukta*) unfolds words through their actions and formations. व्याकरणम् (*vyākaraṇam*) analyzes the operations that make Sanskrit expressions intelligible.
 
-The ***वैयाकरणाः (*vaiyākaraṇāḥ*)*** documented both domains, but they did not calibrate the Vedas. The Vedas were the calibrant. Their analysis made the preserved architecture explicit and helped लौकिक (*laukika*) speakers remain within it.
+The ***वैयाकरणाः (*vaiyākaraṇāḥ*)*** analyzed both domains, but they did not calibrate the Vedas. The Vedas are the calibrant. Pāṇini inherited this arrangement and documented where each operation applies: throughout the वैदिक (*vaidika*) domain, only in mantra, in Brāhmaṇa usage, in a named text, or in लौकिक (*laukika*) composition. These boundaries help learners interpret inherited Vedic forms and compose new लौकिक (*laukika*) Sanskrit. They describe domains, not an old language becoming a newer one.
 
-Pāṇini inherited this arrangement and documented operations found across both domains. His rules state whether a particular operation applies broadly in the वैदिक (*vaidika*) domain, only in mantra, in Brāhmaṇa usage, in a named text, or in लौकिक (*laukika*) use. This documentation helps a student read and understand inherited Vedic forms and use Sanskrit for new लौकिक (*laukika*) composition. These boundaries do not describe an old Sanskrit becoming a newer Sanskrit.
-
-Nothing in the अष्टाध्यायी (*Aṣṭādhyāyī*) shows Pāṇini rewriting a mantra, correcting the Vedic corpus, or converting a drifting natural language into Sanskrit. He documented an architecture that Sanskrit already used in both domains. His decoding is the finest account of that architecture, but it is neither the architecture's origin nor the source of the Vedas' stability.
-
-The Vedas did not survive because Pāṇini stabilized them. Pāṇini could document Sanskrit because its architecture was already encoded and preserved within them.
+Nothing in the अष्टाध्यायी (*Aṣṭādhyāyī*) shows Pāṇini rewriting a mantra, correcting the Vedic corpus, or converting a drifting natural language into Sanskrit. His decoding is the finest account of the grammatical architecture, but it is neither that architecture's origin nor the source of the Vedas' stability. The Vedas did not survive because Pāṇini stabilized them. Pāṇini could document Sanskrit because its architecture was already encoded and preserved within them.
 
 ## 16.9 One Society, Two Responsibilities
 
