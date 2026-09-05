@@ -2194,50 +2194,91 @@ def section_join(sections: list[str]) -> list[str]:
 
 _ENTRY_HEADING_RE = re.compile(r"^### (`[a-z0-9_-]+`)\s*$", re.M)
 _ENTRY_STATUS_RE = re.compile(r"^\*\*Status:\*\*\s*(\w+)", re.M)
+_ENTRY_DEPLOY_RE = re.compile(r"^\*\*Deployments:\*\*\s*(.+)$", re.M)
+_STUB_REF_RE = re.compile(r"`([a-z0-9_-]+)`")
 # Statuses that keep an entry out of the companion entirely.
 _COMPANION_OMITTED_STATUS = {"Parked", "Retired"}
 
 
 def select_companion_entries(entries_body: str, numbers: dict[str, int]):
-    """Choose which endnote entries the companion prints, and how.
+    """Order and filter the endnote corpus for the companion.
 
-    Three kinds of entry reach this point. One the book cites gets the number
-    the book prints beside its note. One marked **Status:** Supporting is
-    printed without a number: the book does not cite it directly, but an entry
-    the book does cite depends on it, so a reader following a citation has to
-    be able to reach it. One marked Parked or Retired is left out — the source
-    file keeps such material deliberately, and reprinting it in a reference
-    volume would present withdrawn evidence as current.
+    The source file groups entries by topic, which is how they are written and
+    revised. A reader holding the printed book has a number, so the companion
+    prints them in note order 1..N instead: the two volumes then agree on
+    sequence as well as identity, and finding note 212 means turning to where
+    212 falls rather than searching. The source file is left in its own order —
+    this reordering happens only here.
 
-    Anything else is an error rather than a fourth category. A citation
-    dropped from a chapter during editing produces exactly this state, and it
-    is indistinguishable from deliberately undeployed material unless someone
-    says which it is. Promoting the heading level happens here too, so the
-    hierarchy runs # Endnotes -> ## entry rather than the gapped ### the
-    source file uses.
+    Three kinds of entry are printed or dropped. One the book cites takes the
+    number the book prints. One marked **Status:** Supporting has no number of
+    its own; it sits under the note that depends on it, in a Supporting Sources
+    block, because its reason to exist is that a cited entry points at it. One
+    marked Parked or Retired is left out — the source file keeps withdrawn
+    material deliberately, and reprinting it here would present it as current.
+
+    Anything else is an error rather than a fourth category. A citation dropped
+    from a chapter during editing produces exactly that state, and nothing
+    distinguishes it from deliberately undeployed material unless someone says
+    which it is.
     """
     parts = _ENTRY_HEADING_RE.split(entries_body)
-    out = [parts[0]] if parts[0].strip() else []
-    kept = supporting = 0
+    lead = parts[0]
+    bodies = {parts[i].strip("`"): parts[i + 1] for i in range(1, len(parts), 2)}
+
+    cited: dict[str, int] = {}
+    children: dict[str, list[str]] = {}
     omitted: list[str] = []
     unexplained: list[str] = []
-    for i in range(1, len(parts), 2):
-        heading, body = parts[i], parts[i + 1]
-        stub = heading.strip("`")
+    unanchored: list[tuple[str, str]] = []
+
+    for stub, body in bodies.items():
         number = numbers.get(stub)
         found = _ENTRY_STATUS_RE.search(body)
         status = found.group(1) if found else ""
         if number is not None:
-            out.append(f"## [{number}] {heading}{body}")
-            kept += 1
+            cited[stub] = number
         elif status == "Supporting":
-            out.append(f"## {heading}{body}")
-            supporting += 1
+            # The Deployments line says which entry depends on this one
+            # ("Supports `parent-stub` at ..."). Take the first reference that
+            # is itself an entry, so an incidental backticked word cannot be
+            # mistaken for the parent.
+            deploy = _ENTRY_DEPLOY_RE.search(body)
+            parent = next(
+                (ref for ref in _STUB_REF_RE.findall(deploy.group(1) if deploy else "")
+                 if ref in bodies and ref != stub),
+                "",
+            )
+            children.setdefault(parent, []).append(stub)
         elif status in _COMPANION_OMITTED_STATUS:
             omitted.append(stub)
         else:
             unexplained.append(stub)
-    return "".join(out), kept, supporting, omitted, unexplained
+
+    # A supporting entry whose parent is itself unprinted has nothing to sit
+    # under. Print it at the end rather than dropping it, and report it: the
+    # parent was probably parked after this entry was written for it.
+    for parent in list(children):
+        if parent not in cited:
+            for stub in children.pop(parent):
+                unanchored.append((stub, parent))
+
+    out = [lead] if lead.strip() else []
+    supporting = 0
+    for stub, number in sorted(cited.items(), key=lambda item: item[1]):
+        out.append(f"## [{number}] `{stub}`\n\n{bodies[stub].strip()}\n\n")
+        kids = children.get(stub, [])
+        if kids:
+            out.append("### Supporting Sources\n\n")
+            for kid in kids:
+                out.append(f"#### `{kid}`\n\n{bodies[kid].strip()}\n\n")
+                supporting += 1
+    if unanchored:
+        out.append("## Supporting Sources Without a Cited Parent\n\n")
+        for stub, _parent in unanchored:
+            out.append(f"### `{stub}`\n\n{bodies[stub].strip()}\n\n")
+            supporting += 1
+    return "".join(out), len(cited), supporting, omitted, unexplained, unanchored
 
 
 def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS_PAGES) -> int:
@@ -2310,7 +2351,7 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     number_map = json.loads(NOTE_NUMBER_MAP.read_text())
     numbers = number_map["notes"]
 
-    entries_body, kept, supporting, omitted, unexplained = \
+    entries_body, kept, supporting, omitted, unexplained, unanchored = \
         select_companion_entries(entries_body, numbers)
     if unexplained:
         print(
@@ -2326,9 +2367,15 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
             file=sys.stderr,
         )
         return 1
-    print(f"  endnote entries: {kept} numbered from the book build of "
-          f"{number_map['generated']}, {supporting} supporting, "
+    print(f"  endnote entries: {kept} in note order 1-{kept} from the book "
+          f"build of {number_map['generated']}, {supporting} supporting, "
           f"{len(omitted)} parked or retired")
+    for stub, parent in unanchored:
+        print(f"  WARNING: supporting entry {stub} names {parent or '(no parent)'} "
+              "as the entry that depends on it, but that entry is not printed "
+              "here.")
+        print("           Printed at the end instead. Either unpark the parent "
+              "or park this entry with it.")
 
     # The source uses thematic breaks to delimit endnote records. In the
     # reference PDF, the promoted entry heading and its vertical spacing
