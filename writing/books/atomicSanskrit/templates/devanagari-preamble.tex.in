@@ -47,6 +47,7 @@
 % i to cdxxvi, because \mainmatter was neutered and nothing restored it.
 % Substituted by build_book.py from the `defer_mainmatter` setting.
 __MAINMATTER_DEFERRAL__
+__BACKMATTER_SIZES__
 
 % Chapter-opening folio. book-class chapter, part and contents openers all
 % call \thispagestyle{plain}, which prints the page number bottom-centre

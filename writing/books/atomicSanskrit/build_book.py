@@ -190,6 +190,16 @@ STUB_FILES = {
 
 PRESENTATION_DEFAULTS = {
     "linestretch": "1.10",
+    # Back matter is consulted, not read straight through, so a layout may set
+    # it smaller than the body without touching the reading experience. None
+    # means "follow the body". Appendices and endnotes are a third of the b5
+    # book's 526 pages, so this buys more pages than shrinking the body would,
+    # and pays for them out of pages nobody reads linearly. Do not go below
+    # 9pt: the Devanagari loses its conjuncts and matra strokes before the
+    # Latin looks small.
+    "appendix_fontsize": None,
+    "endnotes_fontsize": None,
+    "endnotes_linestretch": None,
     # Print the folio on chapter/part/contents openers. See
     # _SUPPRESS_PLAIN_FOLIO for what turning this off does.
     "chapter_folio": True,
@@ -223,6 +233,9 @@ LAYOUTS = {
     "b5": {
         "geometry": "b5paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
         "fontsize": "10.5pt",
+        "appendix_fontsize": "9.5pt",
+        "endnotes_fontsize": "9pt",
+        "endnotes_linestretch": "1.0",
         "chapter_folio": False,
     },
     # ~4.5x7.5 text block centered on 8.5x11 — book-page mock-up on letter paper.
@@ -1309,10 +1322,52 @@ _DEFER_MAINMATTER_TEX = (
 )
 
 
+def _backmatter_size_tex(appendix_fontsize: str | None,
+                         endnotes_fontsize: str | None,
+                         endnotes_linestretch: str | None) -> str:
+    """Define the markers cmd_assemble() emits at the back-matter boundaries.
+
+    The assembled markdown is shared by every page size, so it cannot carry a
+    point value — b5 wants 9.5pt appendices and `phone` at 3.5in wide does
+    not. It emits a named marker instead, and the preamble, which IS rendered
+    per build, decides what the marker does.
+
+    \\changefontsizes comes from scrextend and recalculates the whole size
+    ladder — headings, captions, notes, lists — where a bare \\small would
+    only shrink body text. It is referenced, not required: the macro body is
+    expanded in the document, long after fontsize_cli_args() has had its
+    chance to load scrextend, and falls back to a plain size switch for a
+    layout on a standard class size that never loads it."""
+    def switch(size: str) -> str:
+        points = float(_FONTSIZE_RE.fullmatch(size.strip()).group("points"))
+        return f"\\atomicsetsize{{{size.strip()}}}{{{round(points * 1.2, 2)}pt}}"
+
+    lines = [
+        r"\makeatletter",
+        r"\newcommand{\atomicsetsize}[2]{%",
+        r"  \@ifundefined{changefontsizes}{\fontsize{#1}{#2}\selectfont}%",
+        r"                                {\changefontsizes[#2]{#1}}%",
+        r"}",
+        r"\makeatother",
+    ]
+    appendix = switch(appendix_fontsize) if appendix_fontsize else r"\relax"
+    endnotes = switch(endnotes_fontsize) if endnotes_fontsize else r"\relax"
+    if endnotes_linestretch:
+        endnotes += f"\\setstretch{{{endnotes_linestretch}}}"
+    lines += [
+        f"\\newcommand{{\\atomicappendixmatter}}{{{appendix}}}",
+        f"\\newcommand{{\\atomicendnotematter}}{{{endnotes}}}",
+    ]
+    return "\n".join(lines)
+
+
 def render_devanagari_preamble(
     metadata_file: Path,
     chapter_folio: bool = True,
     defer_mainmatter: bool = True,
+    appendix_fontsize: str | None = None,
+    endnotes_fontsize: str | None = None,
+    endnotes_linestretch: str | None = None,
 ) -> Path:
     """Substitute the Devanagari font name and its fontspec options into the
     preamble template, writing the rendered build artifact.
@@ -1331,6 +1386,11 @@ def render_devanagari_preamble(
     )
     text = text.replace(
         "__MAINMATTER_DEFERRAL__", _DEFER_MAINMATTER_TEX if defer_mainmatter else ""
+    )
+    text = text.replace(
+        "__BACKMATTER_SIZES__",
+        _backmatter_size_tex(appendix_fontsize, endnotes_fontsize,
+                             endnotes_linestretch),
     )
     out = BUILD_DIR / "devanagari-preamble.tex"
     out.write_text(text)
@@ -1537,6 +1597,7 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
     # Count them instead and report one summary line.
     counts = {"chapter": 0, "part opener": 0, "dedication": 0}
     endnote_summary = ""
+    appendix_started = False
     for entry in ASSEMBLY:
         if entry.get("html_only") == "true":
             continue
@@ -1617,6 +1678,10 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
                 # Keep a complete Markdown block boundary after the generated
                 # notes. Back matter may follow the Endnotes entry, and a
                 # single newline would fold its H1 into the final note.
+                # Everything from here to the end of the volume is back
+                # matter, so the size set here is not restored: "About the
+                # Author" follows the Endnotes and belongs at the same size.
+                chunks.append("\n\n```{=latex}\n\\atomicendnotematter\n```\n\n")
                 chunks.append("\n\n" + unified.rstrip() + "\n\n")
                 mode_label = "short" if endnotes_mode == "short" else "full"
                 endnote_summary = (f"  endnotes: {len(notes)} entries "
@@ -1630,6 +1695,13 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
             print(f"  MISSING: {filename}", file=sys.stderr)
             missing.append(filename)
             continue
+
+        # The appendix parts are `kind: end` like the other back matter, so
+        # the filename zone prefix is what identifies them (see CLAUDE.md's
+        # filename convention: zone 3 is the appendix).
+        if not appendix_started and Path(filename).name.startswith("as_3_"):
+            appendix_started = True
+            chunks.append("\n```{=latex}\n\\atomicappendixmatter\n```\n\n")
 
         cleaned = clean_chapter(path.read_text(), title)
         chunks.append(cleaned + "\n")
@@ -2042,6 +2114,9 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
     generated_preamble = render_devanagari_preamble(
         METADATA_FILE, chapter_folio,
         defer_mainmatter=setting("book", layout, "defer_mainmatter"),
+        appendix_fontsize=setting("book", layout, "appendix_fontsize"),
+        endnotes_fontsize=setting("book", layout, "endnotes_fontsize"),
+        endnotes_linestretch=setting("book", layout, "endnotes_linestretch"),
     )
 
     geometry = setting("book", layout, "geometry")
@@ -2207,6 +2282,9 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         REFERENCE_METADATA_FILE,
         setting("companion", layout, "chapter_folio"),
         defer_mainmatter=setting("companion", layout, "defer_mainmatter"),
+        appendix_fontsize=setting("companion", layout, "appendix_fontsize"),
+        endnotes_fontsize=setting("companion", layout, "endnotes_fontsize"),
+        endnotes_linestretch=setting("companion", layout, "endnotes_linestretch"),
     )
 
     geometry = setting("companion", layout, "geometry")
