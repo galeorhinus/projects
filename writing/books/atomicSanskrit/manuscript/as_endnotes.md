@@ -6903,7 +6903,9 @@ The cross-corpus portion of the *prayoga* audit compared four DCS sub-corpora �
 
 **Short:** The *Nāsadīya Sūkta* (Ṛgveda 10.129) supplies the epistemic anchor: even on cosmic origin, the corpus preserves humility rather than manufacturing certainty.
 
-**Deployments:** Chapter 18 §18.7 — the honest admission that the origin mechanism is unknown.
+**Deployments:** Parked — no current manuscript deployment.
+
+**Status:** Parked — the entry previously carried a Chapter 18 §18.7 citation for the honest admission that the origin mechanism is unknown; that citation is no longer in the chapter. Retained for the closing stanza's statement of the limit of knowledge.
 
 The ***Nāsadīya Sūkta*** (नासदीयसूक्तम्) is *Ṛgveda* 10.129, the famous *Creation Hymn* — seven *ṛcas* on the cosmic-origin question. The hymn's move that matters for origin-honesty is its closing stanza (10.129.7), which states the limit of knowledge directly:
 

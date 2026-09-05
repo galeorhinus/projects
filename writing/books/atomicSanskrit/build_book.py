@@ -2192,6 +2192,54 @@ def section_join(sections: list[str]) -> list[str]:
     return joined
 
 
+_ENTRY_HEADING_RE = re.compile(r"^### (`[a-z0-9_-]+`)\s*$", re.M)
+_ENTRY_STATUS_RE = re.compile(r"^\*\*Status:\*\*\s*(\w+)", re.M)
+# Statuses that keep an entry out of the companion entirely.
+_COMPANION_OMITTED_STATUS = {"Parked", "Retired"}
+
+
+def select_companion_entries(entries_body: str, numbers: dict[str, int]):
+    """Choose which endnote entries the companion prints, and how.
+
+    Three kinds of entry reach this point. One the book cites gets the number
+    the book prints beside its note. One marked **Status:** Supporting is
+    printed without a number: the book does not cite it directly, but an entry
+    the book does cite depends on it, so a reader following a citation has to
+    be able to reach it. One marked Parked or Retired is left out — the source
+    file keeps such material deliberately, and reprinting it in a reference
+    volume would present withdrawn evidence as current.
+
+    Anything else is an error rather than a fourth category. A citation
+    dropped from a chapter during editing produces exactly this state, and it
+    is indistinguishable from deliberately undeployed material unless someone
+    says which it is. Promoting the heading level happens here too, so the
+    hierarchy runs # Endnotes -> ## entry rather than the gapped ### the
+    source file uses.
+    """
+    parts = _ENTRY_HEADING_RE.split(entries_body)
+    out = [parts[0]] if parts[0].strip() else []
+    kept = supporting = 0
+    omitted: list[str] = []
+    unexplained: list[str] = []
+    for i in range(1, len(parts), 2):
+        heading, body = parts[i], parts[i + 1]
+        stub = heading.strip("`")
+        number = numbers.get(stub)
+        found = _ENTRY_STATUS_RE.search(body)
+        status = found.group(1) if found else ""
+        if number is not None:
+            out.append(f"## [{number}] {heading}{body}")
+            kept += 1
+        elif status == "Supporting":
+            out.append(f"## {heading}{body}")
+            supporting += 1
+        elif status in _COMPANION_OMITTED_STATUS:
+            omitted.append(stub)
+        else:
+            unexplained.append(stub)
+    return "".join(out), kept, supporting, omitted, unexplained
+
+
 def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS_PAGES) -> int:
     """Build the Source and Reference Companion as a standalone PDF.
 
@@ -2261,32 +2309,26 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         return 1
     number_map = json.loads(NOTE_NUMBER_MAP.read_text())
     numbers = number_map["notes"]
-    uncited = []
 
-    def promote(match: re.Match) -> str:
-        stub = match.group(1).strip("`")
-        number = numbers.get(stub)
-        if number is None:
-            # An entry the book never cites has no number to share. Print it
-            # rather than failing — the corpus is allowed to hold material the
-            # main text does not point at — but say how many, so a marker that
-            # went missing from a chapter does not pass unnoticed.
-            uncited.append(stub)
-            return f"## {match.group(1)}"
-        return f"## [{number}] {match.group(1)}"
-
-    entries_body = re.sub(
-        r"^### (`[a-z0-9_-]+`)\s*$",
-        promote,
-        entries_body,
-        flags=re.MULTILINE,
-    )
-    print(f"  note numbers: {len(numbers)} from the book build of "
-          f"{number_map['generated']}")
-    if uncited:
-        print(f"  {len(uncited)} entr{'y' if len(uncited) == 1 else 'ies'} not "
-              f"cited by the book — printed unnumbered: "
-              f"{', '.join(uncited[:4])}{' …' if len(uncited) > 4 else ''}")
+    entries_body, kept, supporting, omitted, unexplained = \
+        select_companion_entries(entries_body, numbers)
+    if unexplained:
+        print(
+            f"{len(unexplained)} endnote entr"
+            f"{'y is' if len(unexplained) == 1 else 'ies are'} never cited by "
+            "the book and carry no Status:\n"
+            + "".join(f"    {stub}\n" for stub in unexplained)
+            + "A citation dropped from a chapter during editing looks exactly "
+              "like this, so the companion will not silently absorb it. Either "
+              "restore the [NOTE: ...] marker in the chapter, or add a "
+              "**Status:** line to the entry — Supporting to print it here "
+              "without a number, Parked or Retired to leave it out.",
+            file=sys.stderr,
+        )
+        return 1
+    print(f"  endnote entries: {kept} numbered from the book build of "
+          f"{number_map['generated']}, {supporting} supporting, "
+          f"{len(omitted)} parked or retired")
 
     # The source uses thematic breaks to delimit endnote records. In the
     # reference PDF, the promoted entry heading and its vertical spacing

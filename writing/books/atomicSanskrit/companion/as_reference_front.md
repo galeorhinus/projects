@@ -6,16 +6,18 @@ The companion is for the reader the printed book respects but does not need to s
 
 ## How to navigate
 
-Reference-only technical appendices appear before the endnotes. After that, each endnote entry begins with its **stub-name** as a section heading — a lowercase-hyphenated identifier like `samskrtam-morphology` or `eleven-pathas`. The same stub-names appear in the printed book's endnotes; both volumes share the identifiers.
+Reference-only technical appendices appear before the endnotes. After that, each endnote entry begins with its printed-book note number and its **stub-name** as a section heading — `[55] apad-ahastah-vrtra-enclosure`. The printed book prints the same number and the same stub-name beside its note, so either one resolves an entry here.
+
+**Entries without a number.** A few entries appear under the stub-name alone. The printed book does not cite them directly, but an entry it does cite depends on them for a source, a derivation, or a parallel passage, so this volume sets them out in full: following a citation should reach the evidence behind it rather than a dead reference. Material the book has withdrawn from use is left out of this volume entirely.
 
 Each entry's structure:
 
-- The stub-name as section heading.
+- The note number and stub-name as section heading, or the stub-name alone for a supporting entry.
 - **Short:** *The one-sentence summary that appears in the printed book's endnotes section. Preserved here as a quick preview when scanning.*
 - **Deployments:** *Chapter and section references showing where the entry is cited in the printed book.*
 - The full long-form content: citation, primary-source quotes, verification trail, source-history discussion, structural-significance analysis.
 
-**To find a specific entry:** use your PDF reader's search function on the stub-name. Stub-names are stable identifiers; pointers from the printed book resolve here exactly.
+**To find a specific entry:** use your PDF reader's search function on the note number in brackets — `[55]` — or on the stub-name. Both are stable identifiers; pointers from the printed book resolve here exactly.
 
 **Ordering:** entries follow the topical clustering of the underlying source file. The order is not strictly chronological with respect to the printed book's chapter sequence; the *Deployments* line on each entry supplies the chapter-by-chapter reverse index.
 
