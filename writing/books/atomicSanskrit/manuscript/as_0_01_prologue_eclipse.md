@@ -54,23 +54,15 @@ That living example threatens the pyramid's claim that order requires an apex. F
 
 ## The Pyramid's Clock
 
-**सनातन (*Sanātan*)** has no first day and no final day. It understands time through **कालचक्र (*kālacakra*)**, the wheel of time. That wheel turns without a beginning, within **अनादि (*anādi*)**, and without an end, within **अनन्त (*ananta*)**.
-
-The pyramid imposes its finite clock upon that unbounded span. The clock becomes another block placed before the Sun.
+**सनातन (*Sanātan*)** has no first day and no final day. It understands time through **कालचक्र (*kālacakra*)**, the wheel of time. That wheel turns within **अनादि (*anādi*)**, without beginning, and **अनन्त (*ananta*)**, without end. The pyramid imposes a finite clock upon that unbounded span and uses the clock to create a hierarchy. What it labels early becomes primitive; what it labels late becomes developed. The clock becomes another block placed before the Sun.
 
 **The beginningless and the endless deny the apex what it needs most: a first point it can own.**
 
-Chronology has a proper role. It can arrange recorded events in sequence. Comparison can identify relationships among languages. But neither can decide, before examining Sanskrit's architecture, whether the language is naturally drifting or deliberately calibrated.
+Chronology can arrange recorded events in sequence. It cannot decide, before Sanskrit's architecture is examined, whether the language drifted naturally or was deliberately calibrated. Yet the pyramid's chronology turns Sanskrit's two domains into historical periods. It presents *"Vedic Sanskrit"* as an early and changing form of the language. It then places *"Classical Sanskrit"* after Pāṇini and claims that his codification stopped the change.
 
-A botanical model may describe a naturally changing language, but it distorts an engineered calibrant. The same *mantra* can be recited across ages without becoming a different *mantra*. Its authority does not come from its age, and repetition does not diminish it.
+This book argues the opposite: Sanskrit has one architecture with two domains. One domain keeps the received Vedic content unchanged. The other uses the same language for new composition. These are different responsibilities within one language, not stages in its evolution. The Vedas kept Sanskrit calibrated before Pāṇini and have continued to do so after him. Pāṇini documented that architecture; he did not create its invariance by codifying drifting speech.
 
-The pyramid forces the unbounded into a finite clock because that clock allows it to turn sequence into hierarchy. It labels one form early and another late, then treats the early form as primitive and the later form as developed.
-
-The same move converts Sanskrit's two domains into two historical periods. Different modes of use become evolutionary stages. An engineered architecture is then presented as the result of natural language change.
-
-That invented chronology creates the codification myth. It places changing *"Vedic"* Sanskrit before Pāṇini and fixed *"Classical"* Sanskrit after him. Pāṇini becomes the apex who supposedly imposed order upon a drifting language. The Vedas' role as Sanskrit's calibrant disappears.
-
-This book does not replace one invented timeline with another. It examines the architecture first. When an exact date contributes nothing to the argument, the book says *thousands of years*; when a date helps establish a sequence, it provides one.[NOTE: chronology-asymmetry-rationale] Chronology can then arrange the evidence in sequence instead of deciding in advance what kind of language Sanskrit must be.
+This book examines the architecture first. It uses dates when they establish a useful sequence and *thousands of years* when a more exact date contributes nothing.[NOTE: chronology-asymmetry-rationale] Chapters 1 and 3 expose how the pyramid turns chronology into an instrument of classification and control.
 
 ## The Śaṅkha Sounds
 

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="3.68in" viewBox="0 0 1200 930">
+<svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="3.09in" viewBox="0 0 1200 780">
   <defs>
     <marker id="arrow-gold" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
       <path d="M0,0 L10,5 L0,10 Z" fill="#9a7d3c"/>
@@ -7,7 +7,7 @@
       <path d="M10,0 L0,5 L10,10 Z" fill="#9a5147"/>
     </marker>
   </defs>
-  <rect width="1200" height="930" fill="#f7f6f2"/>
+  <rect width="1200" height="780" fill="#f7f6f2"/>
   <style>
     .title { font-family: "EB Garamond", serif; font-size: 42px; font-weight: 700; fill: #292724; }
     .subtitle { font-family: "EB Garamond", serif; font-size: 27px; font-style: italic; fill: #6a6258; }
@@ -39,59 +39,68 @@
     <text x="269" y="66" text-anchor="middle" class="projection">*h₂n̥su-  <tspan class="projection-note">contested</tspan></text>
   </g>
 
+  <g transform="translate(57 181) scale(0.52)" color="#8a352a" aria-label="PIE projection">
+    <path d="M 52.79 11.31 L 89.21 80.69 Q 92 86 86 86 L 14 86 Q 8 86 10.79 80.69 L 47.21 11.31 Q 50 6 52.79 11.31 Z" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round" stroke-dasharray="7 6"/>
+    <g stroke="currentColor" stroke-width="6" stroke-linecap="round">
+      <line x1="50" y1="73" x2="50" y2="43"/>
+      <line x1="37.01" y1="65.5" x2="62.99" y2="50.5"/>
+      <line x1="37.01" y1="50.5" x2="62.99" y2="65.5"/>
+    </g>
+  </g>
+  <g transform="translate(635 181) scale(0.52)" color="#8a352a" aria-label="PIE projection">
+    <path d="M 52.79 11.31 L 89.21 80.69 Q 92 86 86 86 L 14 86 Q 8 86 10.79 80.69 L 47.21 11.31 Q 50 6 52.79 11.31 Z" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round" stroke-dasharray="7 6"/>
+    <g stroke="currentColor" stroke-width="6" stroke-linecap="round">
+      <line x1="50" y1="73" x2="50" y2="43"/>
+      <line x1="37.01" y1="65.5" x2="62.99" y2="50.5"/>
+      <line x1="37.01" y1="50.5" x2="62.99" y2="65.5"/>
+    </g>
+  </g>
+
   <line x1="311" y1="286" x2="311" y2="254" stroke="#9a5147" stroke-width="3" stroke-dasharray="8 7" marker-end="url(#arrow-red)"/>
   <line x1="889" y1="286" x2="889" y2="254" stroke="#9a5147" stroke-width="3" stroke-dasharray="8 7" marker-end="url(#arrow-red)"/>
 
   <g transform="translate(42 286)">
     <rect width="538" height="105" rx="8" fill="#e8e1cf" stroke="#9a7d3c" stroke-width="2.5"/>
-    <text x="22" y="29" class="stage"><tspan class="dev-stage">धातुः</tspan> (dhātuḥ) · CONSTITUENT</text>
-    <text x="269" y="67" text-anchor="middle" class="main"><tspan class="dev">⟪दिव्⟫</tspan>  div</text>
-    <text x="269" y="94" text-anchor="middle" class="body">to shine</text>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">शब्दः</tspan> (śabdaḥ) · SANSKRIT WORD</text>
+    <text x="269" y="68" text-anchor="middle" class="main"><tspan class="dev">देवः</tspan>  devaḥ</text>
+    <text x="269" y="95" text-anchor="middle" class="body">the shining one</text>
   </g>
   <g transform="translate(620 286)">
     <rect width="538" height="105" rx="8" fill="#e8e1cf" stroke="#9a7d3c" stroke-width="2.5"/>
-    <text x="22" y="29" class="stage"><tspan class="dev-stage">शब्दः</tspan> (śabdaḥ) · RECORDED SANSKRIT FORM</text>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">शब्दः</tspan> (śabdaḥ) · SANSKRIT WORD</text>
     <text x="269" y="68" text-anchor="middle" class="main"><tspan class="dev">असुरः</tspan>  asura</text>
     <text x="269" y="95" text-anchor="middle" class="body">spoken form · no hyphen</text>
   </g>
 
   <line x1="311" y1="391" x2="311" y2="423" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
-  <line x1="889" y1="391" x2="889" y2="569" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
+  <line x1="889" y1="391" x2="889" y2="423" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
 
   <g transform="translate(42 432)">
-    <rect width="538" height="105" rx="8" fill="#e1e8df" stroke="#70856d" stroke-width="2.5"/>
-    <text x="22" y="29" class="stage"><tspan class="dev-stage">शब्दः</tspan> (śabdaḥ) · SANSKRIT WORD</text>
-    <text x="269" y="68" text-anchor="middle" class="main"><tspan class="dev">देवः</tspan>  devaḥ</text>
-    <text x="269" y="95" text-anchor="middle" class="body">the shining one</text>
-  </g>
-  <line x1="311" y1="537" x2="311" y2="569" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
-
-  <g transform="translate(42 578)">
     <rect width="538" height="94" rx="8" fill="#f0ece3" stroke="#77736d" stroke-width="2.5"/>
     <text x="22" y="29" class="stage"><tspan class="dev-stage">बीजम्</tspan> (bījam) · LISTENER'S SEED</text>
     <text x="269" y="67" text-anchor="middle" class="body">received by an Italic listener</text>
   </g>
-  <g transform="translate(620 578)">
+  <g transform="translate(620 432)">
     <rect width="538" height="94" rx="8" fill="#f0ece3" stroke="#77736d" stroke-width="2.5"/>
     <text x="22" y="29" class="stage"><tspan class="dev-stage">बीजम्</tspan> (bījam) · LISTENER'S SEED</text>
     <text x="269" y="67" text-anchor="middle" class="body">received by an Iranian listener</text>
   </g>
 
-  <line x1="311" y1="672" x2="311" y2="704" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
-  <line x1="889" y1="672" x2="889" y2="704" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
+  <line x1="311" y1="526" x2="311" y2="558" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
+  <line x1="889" y1="526" x2="889" y2="558" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
 
-  <g transform="translate(42 713)">
+  <g transform="translate(42 567)">
     <rect width="538" height="92" rx="8" fill="#e5e2dd" stroke="#77736d" stroke-width="2.5"/>
     <text x="22" y="29" class="stage"><tspan class="dev-stage">अपशब्दः</tspan> (apaśabdaḥ) · RECEIVING WORD</text>
     <text x="269" y="67" text-anchor="middle" class="main">Latin  deus</text>
   </g>
-  <g transform="translate(620 713)">
+  <g transform="translate(620 567)">
     <rect width="538" height="92" rx="8" fill="#e5e2dd" stroke="#77736d" stroke-width="2.5"/>
     <text x="22" y="29" class="stage"><tspan class="dev-stage">अपशब्दः</tspan> (apaśabdaḥ) · RECEIVING WORD</text>
     <text x="269" y="67" text-anchor="middle" class="main">Avestan  ahura</text>
   </g>
 
-  <g transform="translate(42 837)">
+  <g transform="translate(42 691)">
     <rect width="1116" height="65" rx="8" fill="#eee0dc" stroke="#9a5147" stroke-width="2.5"/>
     <text x="558" y="41" text-anchor="middle" class="callout">Sanskrit has several internal analyses. The spoken form enters the Iranian chain without a hyphen.</text>
   </g>

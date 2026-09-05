@@ -1005,7 +1005,7 @@ The **primary home** identifies where the complete argument should remain. An oc
 | Pro.1 | A | Prologue | Establishes the controlling eclipse metaphor and assigns Sanskrit, the pyramid, and PIE their roles. |
 | Pro.2 | A | Prologue | Introduces the eleven-block visual spine that organizes the parts and chapters. |
 | Pro.3 | B | Prologue | Prevents the metaphor from implying that Sanskrit itself disappeared; the architecture remains available for examination. |
-| Pro.4 | C | Chapter 1 | Chronology capture is developed in Chapters 1 and 3; the Prologue needs only a brief indication of it. |
+| Pro.4 | B | Prologue and Chapters 1–3 | Consolidated 2026-09-04. The Prologue now introduces the finite-clock operation, states the one-architecture/two-domains alternative, and points to Chapters 1 and 3 for the developed chronology argument. Superseded prose: `LF-AR-003`. |
 | Pro.5 | B | Prologue and Epilogue | Gives the reader a role in the recovery and prepares the Atris' return at the end. |
 
 ### Chapter 0 — Zero, Seekers, and the Infinite
@@ -1015,7 +1015,7 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 0.1 | C | Chapter 0 | Establishes the seeker's intellectual setting, but it is philosophical orientation rather than evidence for Sanskrit's engineering. |
 | 0.2 | B | Chapter 0 | Defines the attained human categories that the racial account later misclassifies. |
 | 0.3 | A | Chapter 0 | Places Sanskrit in the category of deliberate creation and begins the book's direct argument. |
-| 0.4 | C | Chapters 1–3 | Introduces chronology capture, but the later chapters explain and prove the operation. |
+| 0.4 | B | Chapter 0 and Chapters 1–3 | Consolidated 2026-09-04. Chapter 0 retains the concrete *Vedānta* example and distinguishes sequential placement from time of composition; the general chronology argument remains in the Prologue and Chapters 1–3. Superseded prose: `LF-AR-004`. |
 | 0.5 | B | Chapter 0 | The zero-and-language comparison gives non-specialists a concrete model for finite architecture with unbounded expression. |
 | 0.6 | A | Chapter 0 | Establishes the *sat–asat* diagnostic that frames conduct throughout the book. |
 | 0.7 | A | Chapter 0 | Introduces the two architectures of order that connect *Atomic Sanskrit* to the *Second Shanti* series. |
@@ -1056,7 +1056,7 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 3.1 | A | Chapter 3 | Connects the family tree to the pyramid's racial, theological, and progressive requirements. |
 | 3.2 | A | Chapters 3 and 18 | Identifies the racial displacement that survives the move from invasion to migration. |
 | 3.3 | B | Chapters 1 and 3 | Applies chronology capture to the Hindu continuum and the progress story. |
-| 3.4 | C | Chapter 1 | Repackages four of Chapter 1's eight methods; this occurrence is a consolidation candidate rather than a second full explanation. |
+| 3.4 | B | Chapters 1 and 3 | Reclassified 2026-09-04. Chapter 1 names the eight recurring methods; Chapter 3 supplies the direct Vedic demonstration of containment and release. The two passages perform different work. |
 | 3.5 | A | Chapter 3 | Establishes that power and *māyā* receive alignment from purpose and action. |
 | 3.6 | A | Chapter 3 | States the action-versus-faction argument that governs the contested Vedic labels. |
 | 3.7 | B | Chapter 3 | Gives the diagnostic direct Vedic content through containment, release, radiance, and *svasti*. |
@@ -1072,9 +1072,9 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 4.4 | B | Chapters 3–4 | Explains how institutions reproduce the dogmas after they are created. |
 | 4.5 | C | Chapter 4 | The missionary–jihadi–priest taxonomy is rhetorically useful but not necessary to prove the institutional structure. |
 | 4.6 | A | Chapter 4 | Bandin and Aṣṭāvakra provide the chapter's strongest positive contrast to credential-gated review. |
-| 4.7 | C | Chapter 3 | Repeats the conduct-over-identity principle after Chapter 3 has established it; a short callback may suffice. |
-| 4.8 | C | Chapters 14–15 | Repeats the distributed-calibration counterexample before the preservation chapters prove it. |
-| 4.9 | C | Chapter 4 | Restates the chapter's opening claim and institutional mechanism; the close can likely carry this in fewer words. |
+| 4.7 | B | Chapters 3–4 | Consolidated 2026-09-04. Chapter 3 establishes conduct over identity; Chapter 4 now personifies the pyramid's narcissism, inferiority panic, and envy through Hiraṇyakaśipu and retains only a short conduct callback. Superseded prose: `LF-AR-005`. |
+| 4.8 | A | Chapter 4 and Chapters 14–15 | Reclassified 2026-09-04. The distributed alternative is the chapter's essential bridge from institutional critique to calibrant order; Chapters 14–15 later demonstrate its linguistic machinery. |
+| 4.9 | B | Chapter 4 | Consolidated 2026-09-04. The close now distinguishes the two architectures directly and removes the repeated *Assalāyana Sutta* callback. Superseded prose: `LF-AR-005`. |
 
 ### Chapter 5 — सिद्ध (*Siddha*) and कार्य (*Kārya*)
 
@@ -1085,8 +1085,8 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 5.3 | A | Chapter 5 | Patañjali's stated purposes show what grammar was understood to do and exclude the codifier role. |
 | 5.4 | A | Chapter 5 | The opening axiom supplies the chapter's strongest internal evidence that the bond already stands. |
 | 5.5 | B | Chapter 5 | Explains the conceptual difference between established architecture and something continually produced by use. |
-| 5.6 | C | Chapter 5 | Summarizes the evidence already established by 5.1–5.5; the conclusion can be concise. |
-| 5.7 | C | Preface and Chapter 14 | Connects grammar to calibrant order, but the book has already introduced the connection and later demonstrates it fully. |
+| 5.6 | B | Chapter 5 | Consolidated 2026-09-04. The conclusion now joins the evidence from before and after Pāṇini without repeating the complete demonstrations in §§5.1–5.4. Superseded prose: `LF-AR-006`. |
+| 5.7 | A | Chapter 5 and the *Second Shanti* spine | Reclassified 2026-09-04. The self-correcting calibrant and higher-scale extension are essential to the book's purpose, not an optional repetition of later preservation chapters. |
 
 ### Chapter 6 — *Apabhraṃśa* and Entropy
 
@@ -1189,10 +1189,10 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 13.2 | A | Chapter 13 | Defines the functional distinction among what may change, what must remain calibrated, and the enduring ground beneath both. |
 | 13.3 | A | Chapter 13 | Establishes why a destructible and capturable physical medium cannot carry the complete preservation burden. |
 | 13.4a | A | Chapter 13 | Sound precedes script: Sanskrit selected sonances and promoted sonomers before Brāhmī or another script rendered the architecture. |
-| 13.4b | C | Appendix Part 3 | The full *abugida*, Brāhmī-from-Aramaic, chronology, and heroic-erasure prosecution belongs in the appendix; Chapter 13 needs only a short pointer. |
+| 13.4b | B | Appendix Part 3 | Consolidated 2026-09-04. Chapter 13 now retains only the sound-before-script distinction, the medium-risk argument, and a short pointer. The full *abugida*, Brāhmī-from-Aramaic, chronology, and heroic-erasure prosecution remains in Appendix Part 3. |
 | 13.5 | A | Chapters 13 and 15 | Replaces the broad label *oral tradition* with the trained production, hearing, and correction that the next chapters demonstrate. |
 | 13.6 | A | Chapters 13–14 | Defines the difference between authority-bound codification and distributed calibration. |
-| 13.7 | C | Chapter 14 | The asymmetry in how the pyramid names preservation belongs with Chapter 14's developed control-case comparison; Chapter 13 needs only a transition. |
+| 13.7 | B | Chapters 13–14 | Consolidated 2026-09-04. Chapter 13 now defines petrification and revivification in a short transition; Chapter 14 retains the developed authority-bound control cases and the asymmetry in how the pyramid names preservation. Superseded prose: `LF-AR-002`. |
 
 ### Chapter 14 — The Calibration Matrix
 
@@ -1204,7 +1204,7 @@ The **primary home** identifies where the complete argument should remain. An oc
 | 14.4 | A | Chapters 14–15 | Defines the public correction mechanism that turns recitation from memory alone into distributed calibration. |
 | 14.5 | A | Chapter 14 | The six overlapping layers are the matrix itself and explain how different departures become detectable. |
 | 14.6 | A | Chapter 14 | Gives meter a precise preservation function as one of the matrix's error-detecting constraints. |
-| 14.7 | D | Chapter 14 | The combinatorial history associated with Vedic meter is interesting, but removing it would not weaken the chapter's demonstration of the calibration matrix. |
+| 14.7 | C | Chapter 14 | The combinatorial account demonstrates Sanskrit engineering, but the current prose explains the figure several times. Keep the figure, one clear explanation, and the preservation consequence; leave the extended history in the verified endnote. |
 | 14.8 | B | Chapters 10 and 14 | Extends the fractal design test to the whole language, but repeats criteria already established at atomic scale. |
 | 14.9 | A | Chapters 2 and 14 | The control cases demonstrate that documentation and authority can preserve bounded forms without explaining Sanskrit's distributed invariance. |
 | 14.10 | B | Chapters 5 and 14 | Places Pāṇini inside the already operating matrix; the historical case is established in Chapter 5 and only needs synthesis here. |
@@ -1318,20 +1318,22 @@ The **primary home** identifies where the complete argument should remain. An oc
 
 ## Reduction Priorities — No Manuscript Edits Yet
 
-The ranking covers **210 argument occurrences**: **119 A**, **67 B**, **23 C**, and **1 D**. The small D count is deliberate. The map records chapter-level arguments rather than every paragraph, so most low-risk reduction will come from shortening repeated or overdeveloped occurrences instead of deleting whole ideas.
+The ranking covers **210 argument occurrences**: **121 A**, **75 B**, and **14 C**. The Chapter 13 consolidation removed the final D-ranked candidate by clarifying what must remain and what can be shortened. The map records chapter-level arguments rather than every paragraph, so most low-risk reduction will come from shortening repeated or overdeveloped occurrences instead of deleting whole ideas.
 
-### First Priority — Remove Without Loss
+### First Priority — Shorten Without Loss
 
-- **14.7 — Vedic meter and the Fibonacci sequence:** remove the historical excursion or move it entirely to an endnote. Chapter 14 retains its complete account of *chandas* as an error-detecting layer without it.
+- **14.7 — Vedic meter and the Fibonacci sequence:** completed 2026-09-04. Figure 14.3 and one clear account of the additive sequence remain. The repeated walkthrough was removed, and the section now closes directly on meter as a check against deviation. Reduction: 274 words. Superseded prose: `LF-AR-001`.
 
 ### Second Priority — Consolidate Repeated Arguments
 
-- **Pro.4 and 0.4:** keep chronology capture as a brief early signal; Chapters 1 and 3 provide the explanation.
-- **3.4:** point back to Chapter 1's eight methods instead of explaining a partial list again.
-- **4.7–4.9:** retain a concise close connecting conduct, calibration, and the fourth religion; remove repeated proof already supplied by Chapters 3 and 14–15.
-- **5.6–5.7:** close directly from Patañjali and the earlier *vaiyākaraṇāḥ*; avoid repeating the complete calibrant-order argument.
+- **Pro.4:** completed 2026-09-04. The Prologue now gives the reader the finite-clock premise and the book's one-architecture/two-domains answer without repeating the developed argument. Superseded prose: `LF-AR-003`.
+- **0.4:** completed 2026-09-04. Chapter 0 now explains *anta* through the ending of a story, retains both concrete examples, and leaves the general chronology argument to the Prologue and Chapters 1–3. Superseded prose: `LF-AR-004`.
+- **3.4:** reclassified 2026-09-04. Chapter 3's Vedic containment-and-release examples are evidence rather than repetition and remain in place.
+- **4.7–4.9:** completed 2026-09-04. Chapter 4 now personifies the pyramid's recurring psychology through Hiraṇyakaśipu, preserves the complete distributed-calibration alternative, and closes without repeating the *Assalāyana Sutta*. Superseded prose: `LF-AR-005`.
+- **5.6–5.7:** completed 2026-09-04. The conclusion now joins the evidence around Pāṇini concisely, while the Second Shanti bridge remains intact as a core statement of purpose. Superseded prose: `LF-AR-006`.
 - **8.6:** prepare the retroflex conclusion in one short transition; Chapter 17 owns the developed argument.
-- **13.4b and 13.7:** keep only the script claim needed by the preservation argument and point to Appendix Part 3 and Chapter 14 for the full treatments.
+- **13.4b:** completed 2026-09-04. Chapter 13 now keeps the script claim needed by the preservation argument and points to Appendix Part 3 for the full treatment.
+- **13.7:** completed 2026-09-04. Chapter 13 now keeps the definitions and transition; Chapter 14 owns the developed control-case comparison. Superseded prose: `LF-AR-002`.
 - **18.12:** conclude Pāṇini's place without another complete account of heroic erasure.
 - **19.10:** retain only if the *asura / ahura* family adds a distinct radiance test after the Chapter 3 reframing.
 

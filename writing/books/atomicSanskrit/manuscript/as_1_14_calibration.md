@@ -103,27 +103,13 @@ The layers overlap because they check different features of the same language. A
 
 ## 14.4 छन्दस् (*Chandas*) Counts the Possibilities of Poetry
 
-छन्दस् (*Chandas*) treats meter as measured possibility. A poem is not only a sequence of meanings. It is a timed structure that has to be filled without breaking sound, duration, pause, accent, or memory.
-
-The मात्रा (*mātrā*) makes this aid to memory countable. A learner remembers the words together with a pattern of short and long syllables. A लघु (*laghu*) occupies one मात्रा (*mātrā*), while a गुरु (*guru*) occupies two. That timed pattern narrows what can follow, guides recall, and exposes a syllable that no longer fits.
-
-A composer working inside a timed line has to know what the line can contain. The need begins in poetry before it becomes a counting problem. The poet fills the line with syllables of different durations. Once the duration is fixed, a question follows: how many valid patterns of लघु (*laghu*) and गुरु (*guru*) can fill it exactly?
+छन्दस् (*Chandas*) turns poetic meter into a countable design. A poet begins with a fixed duration. A लघु (*laghu*) syllable occupies one मात्रा (*mātrā*), while a गुरु (*guru*) syllable occupies two. Once the duration is fixed, the discipline can ask how many valid patterns of short and long syllables will fill it exactly.
 
 ![Figure 14.3 — Chandas as mātrā tiling. The fillings of three, four, and five मात्राः (*mātrāḥ*); each measure is built from the two shorter ones, so the counts add.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=100%}
 
-Figure 14.3 lays out the count. Three मात्राः (*mātrāḥ*) can be filled in three ways, four मात्राः (*mātrāḥ*) in five ways, and five मात्राः (*mātrāḥ*) in eight ways. The figure also shows why those numbers follow one another.
+Figure 14.3 shows three ways to fill three मात्राः (*mātrāḥ*), five ways to fill four, and eight ways to fill five. Every pattern begins with either a one-*mātrā* लघु (*laghu*) or a two-*mātrā* गुरु (*guru*). The remaining duration can therefore be filled in the number of ways already counted for one of the two shorter measures. The counts become 1, 2, 3, 5, 8, 13: the sequence the modern world calls Fibonacci.[NOTE: chandas-laghu-guru-virahanka-sequence]
 
-Every five-मात्रा (*mātrā*) pattern begins with either a गुरु (*guru*) or a लघु (*laghu*). Place a गुरु (*guru*) first, and three मात्राः (*mātrāḥ*) remain; those can be filled in three ways. Place a लघु (*laghu*) first, and four मात्राः (*mātrāḥ*) remain; those can be filled in five ways. The total is therefore three plus five: eight.
-
-The same relation continues. The number of ways to fill a duration equals the counts for the two preceding durations added together.
-
-The counts add accordingly: one plus two is three, two plus three is five, three plus five is eight. Continue and the run is 1, 2, 3, 5, 8, 13 — the sequence the modern world calls Fibonacci.[NOTE: chandas-laghu-guru-virahanka-sequence] The figure makes it a structure to read off the page rather than a formula to take on trust: each measure's fillings are visibly built from the two before it. Sanskrit prosody reaches the sequence through sound, duration, and poetic necessity.
-
-छन्दस् (*Chandas*) treats meter as an architecture to be discovered. The discipline identifies valid forms, charts their patterns, and trains poets to use them.
-
-The same relationship appeared in the preceding chapters. The mouth was mapped, grammar was decoded, and meter was discovered. In each case, the Sanskrit discipline explains an existing architecture rather than imposing one through authority.
-
-छन्दस् (*Chandas*) belongs inside the calibration matrix because meter does more than beautify a verse. It defines what a valid timed form can be, gives the poet a design space, gives the reciter a checksum, and gives the listener a way to hear deviation. Poetry, mathematics, and preservation meet in the same measured line.
+The same constraint assists preservation. The received words must fit their metrical pattern. A change in vowel duration, an omitted syllable, or an added syllable can break that fit and alert the reciter or listener. छन्दस् (*Chandas*) therefore gives the poet a known set of possibilities and gives Auditure another way to detect deviation.
 
 ## 14.5 The Whole Language Follows the सूत्र (*Sūtra*) Discipline
 

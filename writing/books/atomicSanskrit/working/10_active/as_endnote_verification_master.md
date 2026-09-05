@@ -17,7 +17,7 @@ Do not record an endnote as **Pass** merely because it contains a plausible cita
 | Endnote definitions | 371 |
 | Unique definitions | 371 |
 | Unique directly deployed notes | 341 |
-| Live marker occurrences | 491 |
+| Live marker occurrences | 489 |
 | Definitions without a direct manuscript marker | 30 |
 | Live markers without a definition | 0 |
 | Duplicate definitions | 0 |
@@ -120,12 +120,12 @@ Each factual batch checks:
 | `writing-medium-fire-and-authority` | Chapter 13 L101 | 1 | P0 | Pass | [B040](endnote_verification_batches/batch_040_chapter13_writing_medium.md) | 2026-09-04 | OK |
 | `daniels-abjad-abugida-typology` | Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended L137 (2 uses) | 2 | P1 | Strengthened | [B034](endnote_verification_batches/batch_034_appendix_part3_audiography.md) | 2026-09-03 | OK |
 | `aksara-imperishable-name` | Chapter 9 L164 | 1 | P1 | Verified | [B018](endnote_verification_batches/batch_018_chapter9_sonomeric_grid.md) | 2026-09-03 | OK |
-| `chronology-asymmetry-rationale` | Prologue — The Eclipse L73 | 1 | P0 | Corrected | [B008](endnote_verification_batches/batch_008_opening_architecture.md) | 2026-09-02 | OK |
-| `vedanta-anta-chronology-capture` | Chapter 0 L155 | 1 | P1 | Strengthened | [B000](endnote_verification_batches/batch_000_random_pilot.md) | 2026-09-01 | OK |
+| `chronology-asymmetry-rationale` | Prologue — The Eclipse L65 | 1 | P0 | Corrected | [B008](endnote_verification_batches/batch_008_opening_architecture.md) | 2026-09-02 | OK |
+| `vedanta-anta-chronology-capture` | Chapter 0 L153 | 1 | P1 | Strengthened | [B000](endnote_verification_batches/batch_000_random_pilot.md) | 2026-09-01 | OK |
 | `vedanta-textual-placement` | Chapter 0 L149 | 1 | P1 | Verified | [B008](endnote_verification_batches/batch_008_opening_architecture.md) | 2026-09-02 | OK |
 | `ramayana-homer-chronology-capture` | Chapter 3 L95 | 1 | P0 | Strengthened | [B011](endnote_verification_batches/batch_011_chapter3_order_and_faction.md) | 2026-09-02 | OK |
 | `indo-european-narrative-inheritance` | Chapter 19 L68 | 1 | P1 | Verified | [B029](endnote_verification_batches/batch_029_chapter19_pie_in_sky.md) | 2026-09-03 | OK |
-| `satyam-bhutahitam-mahabharata` | Chapter 0 L278; Epilogue — The Atris Find the Sun L123; Part I L31 | 3 | P1 | Reconfirmed | [B031](endnote_verification_batches/batch_031_epilogue.md) | 2026-09-03 | OK |
+| `satyam-bhutahitam-mahabharata` | Chapter 0 L276; Epilogue — The Atris Find the Sun L123; Part I L31 | 3 | P1 | Reconfirmed | [B031](endnote_verification_batches/batch_031_epilogue.md) | 2026-09-03 | OK |
 | `nanartha-homonymy` | No direct manuscript marker | 0 | P1 | Corrected | [B003](endnote_verification_batches/batch_003_explicit_verify_markers.md) | 2026-09-01 | OK |
 | `sura-dhatu-dipti` | Chapter 3 L143 | 1 | P0 | Corrected | [B003](endnote_verification_batches/batch_003_explicit_verify_markers.md) | 2026-09-01 | OK |
 | `s-mobile-root-extension-confessions` | Chapter 19 L134 | 1 | P0 | Reconfirmed | [B029](endnote_verification_batches/batch_029_chapter19_pie_in_sky.md) | 2026-09-03 | OK |
@@ -161,7 +161,7 @@ Each factual batch checks:
 | `paundraka-vasudeva` | Chapter 1 L133 | 1 | P1 | Verified | [B009](endnote_verification_batches/batch_009_eight_methods_examples.md) | 2026-09-02 | OK |
 | `vrkasura-bhasmasura-boon-reversal` | Chapter 1 L135 | 1 | P0 | Corrected | [B009](endnote_verification_batches/batch_009_eight_methods_examples.md) | 2026-09-02 | OK |
 | `raktabija-multiplication` | Chapter 1 L137 | 1 | P2 | Strengthened | [B000](endnote_verification_batches/batch_000_random_pilot.md) | 2026-09-01 | OK |
-| `shumbha-nishumbha-devi-mahatmyam` | Chapter 1 L139; Chapter 4 L233 | 2 | P1 | Strengthened | [B009](endnote_verification_batches/batch_009_eight_methods_examples.md) | 2026-09-02 | OK |
+| `shumbha-nishumbha-devi-mahatmyam` | Chapter 1 L139 | 1 | P1 | Strengthened | [B009](endnote_verification_batches/batch_009_eight_methods_examples.md) | 2026-09-02 | OK |
 | `andhakasura-shiva-purana` | Chapter 1 L139 | 1 | P1 | Strengthened | [B009](endnote_verification_batches/batch_009_eight_methods_examples.md) | 2026-09-02 | OK |
 | `jalandhara-vrinda-shiva-purana` | Chapter 1 L139 | 1 | P1 | Strengthened | [B010](endnote_verification_batches/batch_010_chapter1_to_containment.md) | 2026-09-02 | OK |
 | `virocana-chandogya-8-7-8-8` | Chapter 1 L141 | 1 | P0 | Corrected | [B010](endnote_verification_batches/batch_010_chapter1_to_containment.md) | 2026-09-02 | OK |
@@ -196,15 +196,15 @@ Each factual batch checks:
 | `english-sanskrit-loanwords` | Chapter 0 L65 | 1 | P1 | Corrected | [B007](endnote_verification_batches/batch_007_chapter0_foundations.md) | 2026-09-02 | OK |
 | `sanskrit-names-as-attributes` | Chapter 0 L71 (2 uses) | 2 | P0 | Verified and strengthened | [B028](endnote_verification_batches/batch_028_preface_chapter3_completion.md) | 2026-09-03 | OK |
 | `yaska-deva-derivation` | No direct manuscript marker | 0 | — | Supporting | — | — | OK |
-| `veda-vyasa-division` | Chapter 0 L159; Chapter 18 L317 | 2 | P1 | Reconfirmed as continuum account | [B027](endnote_verification_batches/batch_027_chapter18_wrong_question.md) | 2026-09-03 | OK |
-| `sanskrit-generative-wordspace` | Chapter 0 L183; Chapter 12 L205 | 2 | P0 | Reproduced | [B021](endnote_verification_batches/batch_021_chapter12_building_vakya.md) | 2026-09-03 | OK |
-| `place-value-arabic-transmission` | Chapter 0 L173 | 1 | P1 | Corrected | [B008](endnote_verification_batches/batch_008_opening_architecture.md) | 2026-09-02 | OK |
-| `protagonist-sat-epithets` | Chapter 0 L260 | 1 | P1 | Corrected | [B004](endnote_verification_batches/batch_004_asura_maya_evidence_lock.md) | 2026-09-02 | OK |
-| `rv-10-72-2-sat-born-from-asat` | Chapter 0 L209; Chapter 18 L237 | 2 | P0 | Reconfirmed | [B027](endnote_verification_batches/batch_027_chapter18_wrong_question.md) | 2026-09-03 | OK |
-| `rv-10-190-1-rta-satya-cocreated` | Chapter 0 L220 | 1 | P1 | Strengthened | [B007](endnote_verification_batches/batch_007_chapter0_foundations.md) | 2026-09-02 | OK |
-| `sat-rta-cosmogonic-sequence-inference` | Chapter 0 L228; Chapter 18 L237 | 2 | P1 | Reconfirmed as inference | [B027](endnote_verification_batches/batch_027_chapter18_wrong_question.md) | 2026-09-03 | OK |
-| `rv-7-104-12-13-sat-asat-vrjina-soma` | Chapter 0 L248 (2 uses) | 2 | P0 | Corrected | [B007](endnote_verification_batches/batch_007_chapter0_foundations.md) | 2026-09-02 | OK |
-| `rv-5-51-15-svasti-panthanam` | Chapter 0 L270 | 1 | P1 | Narrowed | [B007](endnote_verification_batches/batch_007_chapter0_foundations.md) | 2026-09-02 | OK |
+| `veda-vyasa-division` | Chapter 0 L157; Chapter 18 L317 | 2 | P1 | Reconfirmed as continuum account | [B027](endnote_verification_batches/batch_027_chapter18_wrong_question.md) | 2026-09-03 | OK |
+| `sanskrit-generative-wordspace` | Chapter 0 L181; Chapter 12 L205 | 2 | P0 | Reproduced | [B021](endnote_verification_batches/batch_021_chapter12_building_vakya.md) | 2026-09-03 | OK |
+| `place-value-arabic-transmission` | Chapter 0 L171 | 1 | P1 | Corrected | [B008](endnote_verification_batches/batch_008_opening_architecture.md) | 2026-09-02 | OK |
+| `protagonist-sat-epithets` | Chapter 0 L258 | 1 | P1 | Corrected | [B004](endnote_verification_batches/batch_004_asura_maya_evidence_lock.md) | 2026-09-02 | OK |
+| `rv-10-72-2-sat-born-from-asat` | Chapter 0 L207; Chapter 18 L237 | 2 | P0 | Reconfirmed | [B027](endnote_verification_batches/batch_027_chapter18_wrong_question.md) | 2026-09-03 | OK |
+| `rv-10-190-1-rta-satya-cocreated` | Chapter 0 L218 | 1 | P1 | Strengthened | [B007](endnote_verification_batches/batch_007_chapter0_foundations.md) | 2026-09-02 | OK |
+| `sat-rta-cosmogonic-sequence-inference` | Chapter 0 L226; Chapter 18 L237 | 2 | P1 | Reconfirmed as inference | [B027](endnote_verification_batches/batch_027_chapter18_wrong_question.md) | 2026-09-03 | OK |
+| `rv-7-104-12-13-sat-asat-vrjina-soma` | Chapter 0 L246 (2 uses) | 2 | P0 | Corrected | [B007](endnote_verification_batches/batch_007_chapter0_foundations.md) | 2026-09-02 | OK |
+| `rv-5-51-15-svasti-panthanam` | Chapter 0 L268 | 1 | P1 | Narrowed | [B007](endnote_verification_batches/batch_007_chapter0_foundations.md) | 2026-09-02 | OK |
 | `kaplan-zero-erasure` | Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended L166 | 1 | P0 | Corrected | [B034](endnote_verification_batches/batch_034_appendix_part3_audiography.md) | 2026-09-03 | OK |
 | `sound-script-standard-matrix` | Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended L174 (2 uses) | 2 | P1 | Strengthened | [B034](endnote_verification_batches/batch_034_appendix_part3_audiography.md) | 2026-09-03 | OK |
 | `siddham-east-asia-sonomeric-field` | Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended L198 (2 uses); Appendix Part 5 — The Language Factory L46 | 3 | P0 | Reconfirmed | [B036](endnote_verification_batches/batch_036_appendix_part5_language_factory.md) | 2026-09-03 | OK |
@@ -216,7 +216,7 @@ Each factual batch checks:
 | `ephesians-slavery-6-5` | Chapter 3 L59 | 1 | P0 | Narrowed | [B011](endnote_verification_batches/batch_011_chapter3_order_and_faction.md) | 2026-09-02 | OK |
 | `quran-slavery-citations` | Chapter 3 L59 | 1 | P0 | Narrowed | [B011](endnote_verification_batches/batch_011_chapter3_order_and_faction.md) | 2026-09-02 | OK |
 | `delhi-sultanate-mamluk` | Chapter 3 L59 | 1 | P0 | Narrowed | [B011](endnote_verification_batches/batch_011_chapter3_order_and_faction.md) | 2026-09-02 | OK |
-| `assalayana-sutta` | Chapter 3 L61; Chapter 4 L265 | 2 | P0 | Corrected | [B011](endnote_verification_batches/batch_011_chapter3_order_and_faction.md) | 2026-09-02 | OK |
+| `assalayana-sutta` | Chapter 3 L61 | 1 | P0 | Corrected | [B011](endnote_verification_batches/batch_011_chapter3_order_and_faction.md) | 2026-09-02 | OK |
 | `caste-colonial-census-hardening` | Chapter 6 L198 | 1 | P0 | Strengthened | [B015](endnote_verification_batches/batch_015_chapter6_entropy.md) | 2026-09-02 | OK |
 | `liber-aravan-etymology` | Chapter 3 L99 | 1 | P1 | Strengthened | [B011](endnote_verification_batches/batch_011_chapter3_order_and_faction.md) | 2026-09-02 | OK |
 | `rosa-law-2013` | Chapter 6 L186 | 1 | P1 | Corrected | [B015](endnote_verification_batches/batch_015_chapter6_entropy.md) | 2026-09-02 | OK |
@@ -300,10 +300,10 @@ Each factual batch checks:
 | `shruti-as-auditure` | Chapter 14 L44 | 1 | P0 | Corrected | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
 | `auditory-temporal-gap-resolution` | Chapter 14 L66 | 1 | P0 | Verified | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
 | `metered-verbal-pattern-error-detection` | Chapter 14 L74 | 1 | P1 | Verified | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
-| `masoretic-engineered-preservation` | Chapter 14 L163; Appendix Part 2 — The Encyclopaedic Confirmation L91 | 2 | P0 | Reconfirmed | [B033](endnote_verification_batches/batch_033_appendix_part2_encyclopaedic.md) | 2026-09-03 | OK |
-| `quranic-engineered-preservation` | Chapter 2 L53; Chapter 14 L165; Appendix Part 2 — The Encyclopaedic Confirmation L93 | 3 | P0 | Reconfirmed | [B033](endnote_verification_batches/batch_033_appendix_part2_encyclopaedic.md) | 2026-09-03 | OK |
-| `arabic-religio-political-authority` | Chapter 2 L27 (4 uses); Chapter 13 L155; Chapter 14 L157 (2 uses) | 7 | P0 | Reconfirmed | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
-| `latin-vulgate-engineered-preservation` | Chapter 14 L167 | 1 | P0 | Corrected | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
+| `masoretic-engineered-preservation` | Chapter 14 L149; Appendix Part 2 — The Encyclopaedic Confirmation L91 | 2 | P0 | Reconfirmed | [B033](endnote_verification_batches/batch_033_appendix_part2_encyclopaedic.md) | 2026-09-03 | OK |
+| `quranic-engineered-preservation` | Chapter 2 L53; Chapter 14 L151; Appendix Part 2 — The Encyclopaedic Confirmation L93 | 3 | P0 | Reconfirmed | [B033](endnote_verification_batches/batch_033_appendix_part2_encyclopaedic.md) | 2026-09-03 | OK |
+| `arabic-religio-political-authority` | Chapter 2 L27 (4 uses); Chapter 13 L149; Chapter 14 L143 (2 uses) | 7 | P0 | Reconfirmed | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
+| `latin-vulgate-engineered-preservation` | Chapter 14 L153 | 1 | P0 | Corrected | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
 | `shiksha-texts-standard-list` | Chapter 15 L19 | 1 | P0 | Corrected | [B024](endnote_verification_batches/batch_024_chapter15_aural.md) | 2026-09-03 | OK |
 | `shiksha-first-vedanga-priority` | Chapter 15 L29 | 1 | P1 | Qualified | [B024](endnote_verification_batches/batch_024_chapter15_aural.md) | 2026-09-03 | OK |
 | `eleven-pathas-full-list` | Chapter 15 L35 | 1 | P0 | Corrected | [B024](endnote_verification_batches/batch_024_chapter15_aural.md) | 2026-09-03 | OK |
@@ -365,7 +365,7 @@ Each factual batch checks:
 | `rigveda-2-23-1-vakya` | Chapter 12 L121 | 1 | P0 | Verified | [B021](endnote_verification_batches/batch_021_chapter12_building_vakya.md) | 2026-09-03 | OK |
 | `vedic-kriyapadas-before-panini` | Chapter 11 L17 | 1 | P0 | Verified | [B020](endnote_verification_batches/batch_020_chapter11_building_kriya.md) | 2026-09-02 | OK |
 | `apadam-constraint` | Chapter 11 L5; Chapter 12 L61 | 2 | P0 | Reconfirmed | [B021](endnote_verification_batches/batch_021_chapter12_building_vakya.md) | 2026-09-03 | OK |
-| `juhotyadibhyah-shluh-dadhati` | Chapter 13 L199 | 1 | P0 | Verified | [B022](endnote_verification_batches/batch_022_chapter13_preservation.md) | 2026-09-03 | OK |
+| `juhotyadibhyah-shluh-dadhati` | Chapter 13 L189 | 1 | P0 | Verified | [B022](endnote_verification_batches/batch_022_chapter13_preservation.md) | 2026-09-03 | OK |
 | `racana-gana-matrix` | Appendix Part 6 — The Architecture by the Numbers L186 | 1 | P1 | Reproduced | [B037](endnote_verification_batches/batch_037_appendix_part6_by_numbers.md) | 2026-09-03 | OK |
 | `vyakarana-etymology` | Chapter 5 L25 | 1 | P0 | Verified and strengthened | [B014](endnote_verification_batches/batch_014_chapter5_grammar_before_panini.md) | 2026-09-02 | OK |
 | `vaiyakarana-role-title` | Chapter 5 L25 | 1 | P0 | Verified and strengthened | [B014](endnote_verification_batches/batch_014_chapter5_grammar_before_panini.md) | 2026-09-02 | OK |
@@ -377,12 +377,12 @@ Each factual batch checks:
 | `dhatu-endowment-families` | Chapter 19 L247 | 1 | P0 | Strengthened | [B029](endnote_verification_batches/batch_029_chapter19_pie_in_sky.md) | 2026-09-03 | OK |
 | `asura-standard-etymology-contested` | Chapter 19 L318 | 1 | P0 | Reconfirmed | [B029](endnote_verification_batches/batch_029_chapter19_pie_in_sky.md) | 2026-09-03 | OK |
 | `bakers-story-category-theft` | Preface — Beyond the Red Lotus L90; Chapter 2 L25 | 2 | P0 | Corrected | [B028](endnote_verification_batches/batch_028_preface_chapter3_completion.md) | 2026-09-03 | OK |
-| `tolkappiyam-grammar-and-tamil-change` | Chapter 2 L29 (2 uses); Chapter 14 L157 | 3 | P0 | Verified | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
+| `tolkappiyam-grammar-and-tamil-change` | Chapter 2 L29 (2 uses); Chapter 14 L143 | 3 | P0 | Verified | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
 | `tamil-sanskrit-distributed-grammar` | Chapter 2 L69; Chapter 17 L193 | 2 | P1 | Reconfirmed as synthesis | [B027](endnote_verification_batches/batch_027_chapter18_wrong_question.md) | 2026-09-03 | OK |
 | `1858-religious-neutrality-after-war` | Preface — Beyond the Red Lotus L3; Chapter 2 L211 | 2 | P0 | Strengthened | [B028](endnote_verification_batches/batch_028_preface_chapter3_completion.md) | 2026-09-03 | OK |
 | `language-origin-standardization-form` | Chapter 2 L83 | 1 | P1 | Strengthened | [B028](endnote_verification_batches/batch_028_preface_chapter3_completion.md) | 2026-09-03 | OK |
-| `botanical-drift-prestige-memory` | Chapter 14 L185 | 1 | P1 | Verified and qualified | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
-| `petrified-bounded-forms` | Chapter 2 L59 (2 uses); Chapter 13 L155 (2 uses); Chapter 14 L173 (2 uses) | 6 | P1 | Qualified | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
+| `botanical-drift-prestige-memory` | Chapter 14 L171 | 1 | P1 | Verified and qualified | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
+| `petrified-bounded-forms` | Chapter 2 L59 (2 uses); Chapter 13 L151 (2 uses); Chapter 14 L159 (2 uses) | 6 | P1 | Qualified | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
 | `esperanto-engineered-botanical-transition` | Chapter 2 L105; Chapter 6 L114; Chapter 20 L81 | 3 | P1 | Reconfirmed | [B030](endnote_verification_batches/batch_030_chapter20_life_after_pie.md) | 2026-09-03 | OK |
 | `vedic-variation-eight-claims` | Chapter 6 L158 | 1 | P0 | Corrected | [B015](endnote_verification_batches/batch_015_chapter6_entropy.md) | 2026-09-02 | OK |
 | `chandasi-bhashayam-mode-markers` | Chapter 2 L183; Chapter 17 L167 | 2 | P1 | Strengthened | [B026](endnote_verification_batches/batch_026_chapter17_subcontinental_mouth_mind_order.md) | 2026-09-03 | OK |
@@ -410,8 +410,8 @@ Each factual batch checks:
 | `yoga-sutra-1-2` | Chapter 10 L368 | 1 | P1 | Verified | [B019](endnote_verification_batches/batch_019_chapter10_building_dhatu.md) | 2026-09-02 | OK |
 | `nyaya-sutra-pramana-1-1-3` | Chapter 10 L370 | 1 | P1 | Verified | [B019](endnote_verification_batches/batch_019_chapter10_building_dhatu.md) | 2026-09-02 | OK |
 | `varnamala-comparative-sound-inventories` | Chapter 9 L96 | 1 | P1 | Qualified | [B018](endnote_verification_batches/batch_018_chapter9_sonomeric_grid.md) | 2026-09-03 | OK |
-| `chandas-laghu-guru-virahanka-sequence` | Chapter 14 L120 | 1 | P1 | Reconfirmed | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
-| `whole-language-sutra-discipline-comparator` | Chapter 14 L134 | 1 | P1 | Verified as synthesis | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
+| `chandas-laghu-guru-virahanka-sequence` | Chapter 14 L110 | 1 | P1 | Reconfirmed | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
+| `whole-language-sutra-discipline-comparator` | Chapter 14 L120 | 1 | P1 | Verified as synthesis | [B023](endnote_verification_batches/batch_023_chapter14_calibration.md) | 2026-09-03 | OK |
 | `rigveda-1-164-39-akshara-assembly` | Chapter 12 L21 | 1 | P0 | Corrected | [B021](endnote_verification_batches/batch_021_chapter12_building_vakya.md) | 2026-09-03 | OK |
 | `nirukta-namany-akhyatajani` | Chapter 12 L31 | 1 | P0 | Verified | [B021](endnote_verification_batches/batch_021_chapter12_building_vakya.md) | 2026-09-03 | OK |
 | `kr-bonding-examples` | Chapter 12 L199 | 1 | P1 | Verified | [B021](endnote_verification_batches/batch_021_chapter12_building_vakya.md) | 2026-09-03 | OK |
@@ -432,7 +432,7 @@ Each factual batch checks:
 | `madhyandina-kanva-branch-shapes` | Chapter 17 L169 | 1 | P0 | Corrected | [B026](endnote_verification_batches/batch_026_chapter17_subcontinental_mouth_mind_order.md) | 2026-09-03 | OK |
 | `rigveda-9635-wilson-griffith` | Chapter 1 L129; Chapter 4 L179; Epilogue — The Atris Find the Sun L153 | 3 | P0 | Reconfirmed | [B031](endnote_verification_batches/batch_031_epilogue.md) | 2026-09-03 | OK |
 | `orl-three-apex-nexus` | Preface — Beyond the Red Lotus L3; Chapter 2 L211; Appendix Part 1 — Baking the Mother Tongue L25 | 3 | P0 | Reconfirmed | [B032](endnote_verification_batches/batch_032_appendix_part1_baking.md) | 2026-09-03 | OK |
-| `dharmo-rakshati-rakshitah` | Chapter 0 L300 | 1 | P1 | Verified | [B008](endnote_verification_batches/batch_008_opening_architecture.md) | 2026-09-02 | OK |
+| `dharmo-rakshati-rakshitah` | Chapter 0 L298 | 1 | P1 | Verified | [B008](endnote_verification_batches/batch_008_opening_architecture.md) | 2026-09-02 | OK |
 | `samudra-manthana-source-anchor` | Epilogue — The Atris Find the Sun L33 | 1 | P1 | Reconfirmed | [B031](endnote_verification_batches/batch_031_epilogue.md) | 2026-09-03 | OK |
 | `wheeler-mohenjo-daro-overreach` | Chapter 6 L160 | 1 | P0 | Corrected | [B015](endnote_verification_batches/batch_015_chapter6_entropy.md) | 2026-09-02 | OK |
 | `rahu-manthana-svarbhanu-layering` | Epilogue — The Atris Find the Sun L41 | 1 | P0 | Strengthened | [B031](endnote_verification_batches/batch_031_epilogue.md) | 2026-09-03 | OK |

@@ -138,23 +138,21 @@ The Vedas did not survive because Pāṇini stabilized them. Pāṇini could doc
 
 ### When अन्त (*Anta*) Becomes a Date
 
-The pyramid plays the same chronological game inside the Vedic corpus.
+The pyramid repeats the same chronology capture inside the Vedic corpus.
 
-Ask an English-speaking Hindu what **वेदान्त (*Vedānta*)** means, and many will give two answers at once. They correctly recognize that the Upaniṣads form the structural culmination—the अन्त (*anta*) or philosophical end—of the Vedas. But they also assume this "end" is a chronological date, believing the texts were written centuries later in a Vedāntic period. The pyramid creates its chronology by merging structure and timeline into a single answer.
+**अन्त (*anta*)** means an ending. A story has an ending, and someone hearing the story in sequence reaches that ending last. That does not mean the ending was composed after every earlier part of the story.
 
-The word ***अन्त (*anta*)*** can describe a position within an arrangement. It can also describe a culmination, purpose, or goal, like the epilogue of a book. Neither meaning establishes when the material was composed. A structural end and a chronological end belong to different categories, and chronology requires evidence of its own.
+**वेदान्त (*Vedānta*)** works the same way. When the Vedas are taught or recited in sequence, Vedānta comes at the end. Its position describes where the listener reaches it. It does not establish that the material was written or composed later.
 
-The pyramid merges them. Because the Upaniṣads are called वेदान्त (*Vedānta*), their place at the culmination of Vedic knowledge becomes evidence that they were composed last. The resulting chronology then arranges Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad as successive historical stages. Their different functions and styles are made to tell a story in which Vedic thought moved from mantra, through यज्ञ (*yajña*), and finally into philosophy.
+The pyramid turns that simple sequence into a chronology of composition. It arranges Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad as successive historical stages and presents Vedic thought as a movement from mantra and यज्ञ (*yajña*) toward philosophy.
 
-The corpus itself refuses that neat sequence. The Aitareya Upaniṣad appears within the second of the Aitareya Āraṇyaka's five divisions, with three divisions following it, while the Īśopaniṣad appears inside the Vājasaneyī Saṃhitā. Upaniṣadic material therefore does not occupy one uniform final layer from which a date can be inferred.[NOTE: vedanta-textual-placement]
+The Vedas do not follow that neat arrangement. The Aitareya Upaniṣad appears within the second of the Aitareya Āraṇyaka's five divisions, with three divisions after it. The Īśopaniṣad appears inside the Vājasaneyī Saṃhitā. Upaniṣadic material therefore does not occupy one uniform final layer from which a date can be inferred.[NOTE: vedanta-textual-placement]
 
-The term *Vedāntic period* is the pyramid's invention.
+The term *Vedāntic period* is the pyramid's invention. Hindu chronology names yugas, manvantaras, dynasties, and reigns. **वेदान्त (*Vedānta*)** instead names the culmination of Vedic knowledge and the teachings carried through the Upaniṣads, Bhagavad Gītā, Brahmasūtras, and the Vedānta darśanas. It does not name an age.
 
-Hindu chronology describes yugas, manvantaras, dynasties, reigns, and lineages. वेदान्त (*Vedānta*) instead identifies the culmination and purpose of Vedic knowledge. It also identifies the interpretive tradition carried through the Upaniṣads, the Bhagavad Gītā, the Brahmasūtras, and the several Vedānta darśanas. These are textual, philosophical, and pedagogical relationships. None of them turns वेदान्त (*Vedānta*) into the name of an age.
+The Government of India's Vedic Heritage Portal now repeats the category theft. It first defines **वेदान्त (*Vedānta*)** as the conclusion and goal of the Vedas, then declares that the Upaniṣads came chronologically at the end of a *Vedic period*.[NOTE: vedanta-anta-chronology-capture]
 
-Unfortunately, chronology capture has now entered institutions that should have protected this distinction. The Government of India's Vedic Heritage Portal defines वेदान्त (*Vedānta*) as the conclusion and goal of the Vedas, then immediately declares that the Upaniṣads came chronologically at the end of a *Vedic period*. The structural meaning remains intact, but it is made to carry a chronology that it cannot establish.[NOTE: vedanta-anta-chronology-capture]
-
-This is category theft through chronology capture. A structural end becomes a chronological end. Culmination becomes lateness. Purpose becomes period.
+**A structural end becomes a chronological end. Culmination becomes lateness. Purpose becomes period.**
 
 At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, and *Atharvaveda*. Across the four Vedas are their saṃhitās and associated Brāhmaṇa, Āraṇyaka, and Upaniṣadic material. Together, their Upaniṣadic culminations form ***वेदान्त (*Vedānta*)***. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the वैदिक (*vaidika*) domain, preserved in ***छन्दस् (*chandas*)***, the metrical mode.
 

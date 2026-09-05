@@ -208,9 +208,10 @@ LAYOUTS = {
     },
     # A4 with 1in margins — for the `convert` subcommand / non-US page size.
     "a4": {
-        "geometry": "a4paper,inner=1.125in,outer=1in,top=0.60in,bottom=0.40in",
+        "geometry": "a4paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
         "fontsize": "10.5pt",
-        "linestretch": "1.15",
+        "linestretch": "1.2",
+        "chapter_folio": False,
     },
     # Comfortable A4 handout for pre-publication readers. The wider margins
     # keep the line length readable when the PDF is printed at full size.
@@ -220,8 +221,8 @@ LAYOUTS = {
         "linestretch": "1.15",
     },
     "b5": {
-        "geometry": "b5paper,inner=1.125in,outer=0.4in,top=0.60in,bottom=0.4in",
-        "fontsize": "10.25pt",
+        "geometry": "b5paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
+        "fontsize": "10.5pt",
         # No folio on openers, so the 0.4in foot has nothing to clear.
         "chapter_folio": False,
     },
@@ -542,6 +543,15 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
     # narrow so common IAST diacritics (ṃ ṛ ṣ ā ī ū ḥ ñ ṅ etc.) are NOT
     # switched mid-word. The list is the closed set of characters the
     # assembled book uses that STIX Two Text cannot render.
+    # Characters STIX Two Text DOES have, but which the full-book build drew
+    # from a leaked script font -- Greek printed as .notdef boxes on the page
+    # while xelatex reported them "missing" from Tiro Devanagari Sanskrit.
+    # Building the same chapter alone renders them correctly, so the fault is
+    # ambient font state at book scale, not markup or coverage. Selecting the
+    # family explicitly makes the run immune to whatever leaked. Greek
+    # Extended is deliberately NOT here: STIX lacks all five forms the book
+    # uses, so those stay on \symbolfont below.
+    (r"\latinfont",       re.compile(r"[\u0370-\u03FF\u026D\u0105\u02B0]+")),
     (r"\symbolfont",      re.compile(
         r"["
         r"←→"      # ← →
@@ -654,7 +664,10 @@ def _assert_script_fonts_declared(fired: set[str]) -> None:
     two files that disagree. Catch it here instead, before pandoc runs.
     """
     declared = set(
-        re.findall(r"\\newfontfamily\{(\\[a-z]+font)\}", PREAMBLE_TEMPLATE.read_text())
+        re.findall(
+            r"\\(?:newfontfamily|newcommand)\{(\\[a-z]+font)\}",
+            PREAMBLE_TEMPLATE.read_text(),
+        )
     )
     missing = sorted(f for f in fired if f not in declared)
     if missing:

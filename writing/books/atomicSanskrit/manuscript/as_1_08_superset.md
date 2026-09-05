@@ -177,13 +177,11 @@ The mouth permits a continuous range of nearby sounds. Sanskrit selects precise 
 
 ## 8.6 The Retroflex Band
 
-Retroflexion is widespread across the Indian subcontinent. It appears in southern languages, central forest-belt languages, and languages of western and northern India. Outside the region, fewer languages use it, and complete retroflex series occur much less often. Chapter 17 examines that global distribution and tests the claim that retroflexion entered Sanskrit from somewhere else.[NOTE: retroflex-global-distribution]
+Retroflexion appears across the Indian subcontinent. Southern languages use it, as do languages in the central forest belt and in western and northern India. Sanskrit selects a complete stop-and-nasal row from this regional band: **ट ठ ड ढ ण**. It gives that row a regular place in its anatomical grid and adds **ष** as a retroflex sibilant.
 
-Retroflex consonants recur across such a wide part of the Indian subcontinent that they form a regional band. Sanskrit selects a complete stop-and-nasal row from that band: **ट ठ ड ढ ण**. The row occupies a regular position inside the larger anatomical grid, and **ष** adds a retroflex sibilant. Regional languages also use related retroflex laterals. Marathi continues to use **ळ**, while southern languages distinguish related retroflex laterals in ways specific to each language. Sanskrit's recitation, grammar, and script preserve its selected arrangement together.
+The subcontinental inventory extends beyond Sanskrit's reusable row. Marathi uses **ळ**, while southern languages distinguish additional retroflex laterals. Outside India, retroflex sounds occur less often, and complete series are rarer. Chapter 17 examines that global distribution and tests the claim that Sanskrit acquired retroflexion elsewhere.[NOTE: retroflex-global-distribution]
 
-The migration claim must explain why the proposed external source lacks this dense regional pattern while Sanskrit places a complete retroflex row at the center of its consonantal architecture. It must then explain why the same pattern extends across Indian languages that the pyramid assigns to separate families.
-
-The retroflex row belongs to the mouth of the Indian subcontinent. Sanskrit organized it with systematic anatomical precision.
+The racial Arya thesis claims that Sanskrit-speaking Aryans carried the language into India through Central Asia. Yet Tajik, Kazakh, and Kyrgyz contain none of the four Sanskrit retroflex sounds tested here: **ट, ड, ण,** or **ष**. The racial story therefore reverses the evidence. The languages spoken along the path of its “real” Aryans do not use the Sanskrit retroflex sounds tested here. Retroflexion instead runs through the “Dravidian” and “Austroasiatic” languages that the same story separates from Sanskrit.
 
 ## 8.7 Breath Above the Base
 

@@ -130,6 +130,14 @@ __CHAPTER_OPENING_FOLIO__
 % un-suffixed family) was tried but not all macOS systems ship it — only
 % script-specific variants like "Noto Sans Devanagari" are present there.)
 \newfontfamily{\symbolfont}{DejaVu Sans}
+% Restores the document's main (Latin) family. Not a new face: \rmfamily
+% keeps the current series and shape, so bold and italic survive. Used by
+% SCRIPT_WRAPS for characters STIX Two Text HAS but that the full-book
+% build was drawing from a leaked script font (a chapter-alone build of
+% the same source renders them correctly, so the selection -- not the
+% glyph coverage -- is what fails at book scale).
+\newcommand{\latinfont}{\rmfamily}
+
 
 % --- Sanskrit chapter-opening epigraph typography ---
 %

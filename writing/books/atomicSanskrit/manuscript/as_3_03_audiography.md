@@ -70,7 +70,7 @@ That is the trick. The pyramid praises an unnamed Indian figure for adapting a b
 
 The account praises an unnamed adapter for adapting a borrowed script. It does not credit India with the achievements that an independent architecture would require: isolating the sonomers, designing the वर्णमाला (*varṇamālā*), mapping the mouth, and specifying sounds across several axes.
 
-This is **heroic erasure**, the method Chapter 13 §13.3 exposed and Chapter 1 §1.6 established as a standing convention. The *church of progress* elevates a secondary operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The प्रातिशाख्य (*Prātiśākhya*) authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the वर्णमाला (*varṇamālā*) disappears.
+This is **heroic erasure**, the method Chapter 2 §2.8 established and Chapter 13 §13.3 exposed at the script level. The *church of progress* elevates a secondary operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The प्रातिशाख्य (*Prātiśākhya*) authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the वर्णमाला (*varṇamālā*) disappears.
 
 The brilliance the pyramid locates in the adapter is the architecture the adapter was rendering.
 

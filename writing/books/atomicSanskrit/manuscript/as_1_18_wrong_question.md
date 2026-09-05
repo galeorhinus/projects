@@ -178,25 +178,13 @@ The pyramid labels this pattern ***elite dominance***. It assigns Sanskrit to th
 
 #### Why Men Would Leave the Pyramid
 
-Every pyramid extracts food and wealth from the people below. It fortifies territory and builds an administrative hierarchy to keep that extraction flowing. It then turns the accumulated wealth and labor into physical displays of apex power. Fortified cities control the living, while burial monuments extend the ruler's presence after death. These structures overwhelm the pyramid's subjects and intimidate its enemies.
+A paternal genetic signal can therefore record several kinds of movement. It cannot tell us whether the men who carried it arrived as conquerors, defeated soldiers, escaped laborers, captives, deserters, exiles, or refugees.
 
-During roughly 2300–1500 BCE, the interval used in the genetic account, Bactria–Margiana displayed a pyramidal system. Central authorities controlled scarce water and agricultural land, directed dependent labor, and accumulated wealth at the apex. This concentration of power turned large construction into compulsory service. Corvée workers built and maintained irrigation systems, while other workers raised palaces, fortifications, and royal burials for the people above them.
+During roughly 2300–1500 BCE, the period the pyramid assigns to its paternal-migration claim, Bactria–Margiana displayed a pyramidal order. Central authorities controlled scarce water and agricultural land, directed dependent labor, and accumulated wealth at the apex. Across the adjoining corridor, workers built irrigation systems, fortifications, palaces, and royal burials. These projects converted human labor into **भव्यता (*bhavyatā*)**, the grandiosity through which an apex displays its power. The men compelled to create that grandeur had reason to leave.[NOTE: migration-trap-displacement-routes]
 
-The pattern continued across the same corridor. In Khorezm, laborers dug canals. At Afrasiab, they raised walls and citadels. At Kalaly-gyr, they built an enormous royal enclosure. At Arzhan, Pazyryk, and Issyk, they piled earth, stone, and timber into monumental burial mounds. These projects increased the grandeur of the apex through the labor of the people below. Those workers had every reason to search for a way out.[NOTE: migration-trap-displacement-routes]
+The labels differed according to circumstance. One man was a slave, another a captive, another a conscript, and another a worker bound by debt. Each remained subject to a power he did not control. For many, escape offered the only release.
 
-The pyramid used many legal labels for the men beneath it. A slave belonged to a master. A captive belonged to the victor. A conscript belonged to the army. Debt and poverty could bind a nominally free worker almost as tightly. Their position inside the pyramid remained the same. They quarried stone for palaces, extracted ore from mines, rowed warships, cultivated estates, dug canals, and raised walls around cities that they did not control. For many of these men, the only path out was escape.
-
-The pyramid displayed ***भव्यता (*bhavyatā*)***, grandiosity created by concentrating wealth, labor, and power toward the apex. The palace, acropolis, fortress, and monument displayed the master's power to his subjects and enemies. The oppressed laborer who built that grandeur for someone else had every reason to search for a life beyond it.
-
-War produced another stream of uprooted men. Military defeat scattered soldiers after their commanders and territories had disappeared. Dynastic conflict expelled political rivals. Retreating armies abandoned mercenaries and captives far from home. The steppes and the Greco-Roman world subjected men to these pressures for centuries.[NOTE: migration-trap-displacement-routes]
-
-The pattern continued long after 1500 BCE. The Yuezhi moved west after the Xiongnu defeated them during the second century BCE, and their movement displaced Saka groups toward the south. Centuries later, Huna formations emerged from the same violent world, where confederacies repeatedly expanded and fractured. These events occurred centuries after the interval used in the genetic account. They show that the same corridor continued to produce displaced men for centuries.
-
-Each upheaval stripped men of the people and institutions around which they had built their lives. The armies and war-bands that broke apart were overwhelmingly male. Some survivors later became conquerors themselves. Others entered another army or made a living through trade. Marriage and new land allowed them to begin again.[NOTE: migration-trap-displacement-routes]
-
-The Hellenistic and Roman pyramids produced more uprooted men. Their wars moved armies across enormous distances and fed captives into slave markets. Soldiers deserted, captives escaped, and political exiles fled. Mercenaries also had to find another place when the ruler who paid them fell.
-
-The Seleucid, Bactrian, and Indo-Greek corridors connected that world directly with India. Men fleeing western and Central Asian pyramids did not need to invent India as a destination. The roads already led there.[NOTE: migration-trap-displacement-routes]
+War displaced still more men. Defeated armies scattered soldiers after their commanders and territories disappeared. Dynastic struggles expelled political rivals, while retreating armies abandoned captives and mercenaries far from home. The routes connecting Central Asia and the Mediterranean world with India already existed. Men escaping those pyramids did not need to invent India as a destination.[NOTE: migration-trap-displacement-routes]
 
 #### Why India Could Receive Them
 
@@ -343,10 +331,8 @@ The two speculations are mirror inversions.
 ![Figure 18.2 — Two accounts of Sanskrit. The pyramid arranges the domains as a chronology of linguistic descent; the engineering thesis treats them as complementary domains joined by calibration.](figures/wrong_question/two_accounts_of_sanskrit.svg){#fig:ch18-two-accounts width=100%}
 
 
-The figure places Pāṇini within the architecture without diminishing his achievement. The Vedas preserved the architecture; generations of वैयाकरणाः (*vaiyākaraṇāḥ*) decoded it; Pāṇini articulated its operations with unmatched precision. Chapter 13 §13.5 explains how the *Aṣṭādhyāyī* made those operations directly available to students and teachers.
+The figure places Pāṇini inside the architecture without diminishing his achievement. The Vedas kept Sanskrit calibrated. Generations of वैयाकरणाः (*vaiyākaraṇāḥ*) decoded its grammar, and Pāṇini inherited their work. Chapter 13 §13.5 explains how the *Aṣṭādhyāyī* made that grammar directly available to students and teachers.
 
-By imposing a chronology on the two domains, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, लौकिक (*laukika*) Sanskrit as a descendant, and अपभ्रंशः (*apabhraṃśa*) as a stage in descent rather than the tendency the calibrant corrects. The doctrine requires this inversion; it is not a stylistic choice. These are structural opposites. The descent thesis makes Sanskrit the result of linguistic change; the engineering thesis explains it as a constructed and calibrated architecture.
+The pyramid reverses this sequence. It presents Vedic Sanskrit as primitive, Classical Sanskrit as refined, and Pāṇini as the authority who imposed order upon drifting speech. This is *heroic erasure*, the move described in Chapter 2 §2.8 and Chapter 13 §13.3: praise for Pāṇini directs attention toward the codification myth and away from the Vedic calibrant.
 
-This is the *heroic-erasure* move described in Chapter 1 §1.6 and Chapter 13 §13.3. The pyramid celebrates Pāṇini as the codifier of Sanskrit so that readers overlook the engineering he inherited and decoded. It uses admiration for Pāṇini to turn civilizational memory toward the codification myth and away from the Vedic calibrant.
-
-The battle therefore lies with the present machinery that tells Hindus what Pāṇini should mean. It preserves their reverence for him but redirects that reverence toward a false account of his achievement. Sanskrit's continuous architecture restores his actual place: Sanskrit was engineered before Pāṇini, articulated by Pāṇini, and calibrated across the generations that followed him.
+Pāṇini's achievement does not need that myth. He articulated the grammar of an existing, calibrated language with unmatched precision.

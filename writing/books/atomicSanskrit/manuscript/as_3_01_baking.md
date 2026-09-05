@@ -118,7 +118,7 @@ The recipe leaves residue. The residue sits in the ecosystem's own reference pag
 
 Sanskrit provides unified semantic atoms and documents the relationships among their sound-forms. PIE reconstruction begins with recorded words in several languages, reconstructs a starred form from their correspondences, and places that form above the Sanskrit atom. Chapter 19 §19.7 introduces a different direction through the yoke family: begin with the Sanskrit atom and its generated molecules, then trace the forms that appear in receiving languages. The first three cases below develop that method. The remaining cases show the reconstruction splitting ranges of meaning that Sanskrit keeps together.
 
-### The Reusable Research Record
+### A Reusable Research Method
 
 Each case begins by placing the pyramid's starred image beside the recorded forms, including the Sanskrit atom and its generated family. Approximate Devanagari renderings allow readers to hear the comparison, after which consonants can be located by **स्थान (*sthāna*, articulatory position)** and **प्रयत्न (*prayatna*, articulatory effort)**. Vowels and meanings need their own analyses because a consonant correspondence cannot explain them.
 

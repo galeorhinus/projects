@@ -227,21 +227,19 @@ The other four cards show the same continuity. **⟪भू⟫ (*bhū*)** carries
 
 The words become larger and more specific, while the core meaning of the atom remains recognizable within the family. This is सारवत् (*sāravat*) at the scale of the धातुः (*dhātuḥ*).
 
-### A Deeper Debate: Do Sonomers Themselves Carry Meaning?
+### Do the Sonomers Help Carry the Meaning?
 
-सारवत् (*Sāravat*) identifies the core meaning carried by the assembled धातुः (*dhātuḥ*). The next question concerns the sonomers inside that atom. Does meaning belong only to the complete atom, or can each sonomer inside it contribute semantic power?
+सारवत् (*Sāravat*) describes the core meaning carried by an assembled धातुः (*dhātuḥ*). But does that meaning belong only to the complete धातुः (*dhātuḥ*)? Or do the sonomers inside it also contribute?
 
-The Hindu continuum asked this question directly. Patañjali's ***Mahābhāṣya*** records one side stating **अर्थवन्तो वर्णाः (*arthavanto varṇāḥ*)** — the sounds carry meaning. This side points to one-sound धातवः (*dhātavaḥ*), stems, suffixes, and particles that carry meaning. The other side argues that a separate meaning cannot be found for every sound. It points to grammatical derivations in which sounds are added, removed, replaced, or reordered while meaning does not change in a corresponding way.[NOTE: varnavada-presupposes-engineering]
+Consider **सर् (*sar*), चल् (*cal*),** and **चर् (*car*)**. Each indicates a different kind of movement, and their sounds resemble one another.
 
-The *Mahābhāṣya* therefore records a real debate about **वर्णशक्ति (*varṇa-śakti*)**, the semantic power of an individual sonomer. Whatever conclusion a reader reaches, the debate itself establishes that the continuum examined meaning at two scales: the complete धातुः (*dhātuḥ*) and the sonomers assembled within it.
+Now listen to **क्षय् (*kṣay*), क्षत् (*kṣat*), क्षण् (*kṣaṇ*), क्षम् (*kṣam*), क्लम् (*klam*), क्षुद् (*kṣud*),** and **क्षप् (*kṣap*)**. Their harder sound-shapes accompany meanings connected with abrasion, damage, loss, strain, endurance, and cutting.
 
-The धातुः (*dhātuḥ*) inventory gives the reader something concrete to examine. Words for flowing actions often gather around liquid and continuing sounds: **सर् (*sar*), चल् (*cal*), चर् (*car*), द्रु (*dru*), प्लु (*plu*), स्रु (*sru*),** and **क्षर् (*kṣar*)**. Actions involving abrasion, damage, diminishment, strain, endurance, and cutting gather around harder sound-shapes: **क्षय् (*kṣay*), क्षत् (*kṣat*), क्षण् (*kṣaṇ*), क्षम् (*kṣam*), क्लम् (*klam*), क्षुद् (*kṣud*),** and **क्षप् (*kṣap*)**.
+Is that relationship accidental? Or do the sonomers help form the meaning of the धातुः (*dhātuḥ*)?
 
-If sonomers carry stable semantic power, the sound architecture must keep them distinct, stable, and able to bond inside a धातुः (*dhātuḥ*). The वर्णमाला (*varṇamālā*) provides those conditions. Section 10.14 returns to the fractal implication: a sonomer may contribute to a धातुः (*dhātuḥ*) as a word contributes to a सूत्र (*sūtra*).
+Sanskrit's grammatical continuum debated this question directly. The debate concerns **वर्णशक्ति (*varṇa-śakti*)**, the semantic power of an individual sonomer. Patañjali's ***Mahābhāṣya*** records one side declaring **अर्थवन्तो वर्णाः (*arthavanto varṇāḥ*)**: the sounds carry meaning. It also records the opposing argument.[NOTE: varnavada-presupposes-engineering]
 
-The Vedas make the relationship between sound and meaning especially audible because they are poems. Meter, alliteration, and sonic movement shape the verse alongside its meaning. **मन्त्र (*mantra*)**, generated from **⟪मन्⟫ (*man*)**, joins sound with contemplation. Engineering gives this poetry the precision that makes it memorable and lets it strike home.
-
-Figure 10.7 establishes सारवत् (*sāravat*) at the atomic scale. The debate over वर्णशक्ति (*varṇa-śakti*) then asks whether the sonomers inside the atom also contribute to meaning. The धातुः (*dhātuḥ*) passes the fourth test: it is compact, essence-bearing, and able to carry its core meaning into larger forms.
+The debate itself is significant. Sanskrit's analysts did not stop at words or even at धातवः (*dhātavaḥ*). They examined whether each sonomer inside the atom contributed to its meaning. The continuum understood Sanskrit as an architecture assembled at more than one scale.
 
 ## 10.10 विश्वतोमुखम् (*Viśvatomukham*) — Generative Range
 

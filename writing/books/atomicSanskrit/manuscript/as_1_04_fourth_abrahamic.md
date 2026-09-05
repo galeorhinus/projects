@@ -222,23 +222,15 @@ Asuric architecture has a characteristic geometry: the pyramid. Authority concen
 
 Each containment pillar repeats that geometry. The racial pillar places Europe at the apex, colonial administrators and certifiers in the middle, and ranked populations at the base. The theological pillar places an authorized text at the apex, priestly interpreters in the middle, and the laity below them. The progress pillar places journals and chairs at the apex, the *priests of progress* of §4.4 in the middle, and civilizational populations whose knowledge the academy refuses to recognize as peers at the base. Their convergence produces the asuric pyramid.
 
-**Diagnosis.** Modern language would call this civilizational envy, inferiority panic, and collective narcissism. The pyramid sees an architecture it did not create, cannot equal, and cannot control. It therefore cannot allow that architecture to stand in its own category. Collective narcissism requires the pyramid to remain ancestor, arbiter, or owner. If Sanskrit is too great to dismiss, it must be co-owned. If it cannot be co-owned, it must be demoted. That is the psychological engine underneath the philological machinery.
+The pyramid is an architecture, yet through people and institutions it exhibits a recognizable personality. Hindu stories personify that personality in figures such as Hiraṇyakaśipu. He demands recognition as the supreme power and cannot tolerate Prahlāda's devotion to Viṣṇu because that devotion acknowledges an order beyond his command.
 
-In the ternary introduced in the front matter, this is exactly **विकृति (*vikṛti*)**—recurrence deliberately distorted into control. The pyramid does not impose hierarchy once and stop. It reproduces hierarchy through doctrine, institutions, funding, credentials, and inherited obedience.
+The same personality appears in the pyramid's conduct: narcissism, inferiority panic, and envy toward an architecture it did not create, cannot equal, and cannot control. The pyramid must remain the ancestor, arbiter, or owner. If Sanskrit is too great to dismiss, it must be co-owned. If it cannot be co-owned, it must be demoted.
 
-The three pyramids converge on a single target. The racial pillar attacks *Sanātan* through the engineered language that preserves it. The theological pillar attacks through the chronology that contains it. The progress pillar attacks through the linear-time framework that cannot accommodate the cyclical-time civilizational memory the Indic continuum preserves. Three vectors; same target.
+In the ternary introduced in the front matter, this is **विकृति (*vikṛti*)**: a created capacity deliberately bent toward control. The racial, theological, and progress pillars all turn that capacity against the civilizational memory preserved through Sanskrit.
 
-*Sanātan* is not silent about asuric action. Rāma and Rāvaṇa are both powerful. Durgā and Mahiṣāsura are both powerful. The continuum distinguishes them through the purposes their power serves and the actions they perform.
+Hindu stories do not classify an actor by the amount of power he possesses. Rāma and Rāvaṇa are both powerful. Durgā and Mahiṣāsura are both powerful. Their purposes and actions place them on opposing sides. The stories carry recurring patterns of choice, action, and consequence so that each generation can recognize the same conduct in new forms.
 
-The इतिहास (*Itihāsa*) and पुराण (*Purāṇa*) corpus presents the distinction through recurring forms of conduct. **Hiraṇyakaśipu** gives the दैत्य (*daitya*) form of apex command: power consolidated through a boon engineered to be irrevocable; the boon's structural blind-spot becomes the defeat. **Mahiṣāsura** gives the disguise-and-shape-shift form: control accumulated through forms that Durgā's discriminating intelligence can pierce. **Śumbha** gives the possession-and-subordination form. He treats the Goddess as something he can claim and demands that she submit to his authority. His power does not make him an antagonist. His attempt to possess another being and subordinate her to his will does.[NOTE: shumbha-nishumbha-devi-mahatmyam] **Vṛtra** gives the obstruction form: waters withheld from circulation until Indra restores the flow.
-
-Each story is a recipe. Sanskrit's corpus preserves the recipes; the civilization has transmitted them across thousands of years through recitation, temple, festival, theatre, household narration, regional performance, commentary, and teacher-student lineages.
-
-Asuric action does not remain inside sacred narratives. Institutions can repeat it, and individuals can choose to perform it.
-
-By the 1860s, Schleicher had access to Sanskrit's engineered architecture. Bopp had already carried Sanskrit grammar into German philology, while generations of Indian scholars had supplied European institutions with the अष्टाध्यायी (*Aṣṭādhyāyī*), धातुपाठ (*Dhātupāṭha*), प्रातिशाख्य (*Prātiśākhya*), and वर्णमाला (*varṇamālā*). Schleicher knew the architecture and refused to explain Sanskrit through it.
-
-He built the botanical tree instead. That construction reduced Sanskrit to one branch beneath an imaginary European ancestor. Crediting the architecture as Indic would have damaged the European hierarchy that his work protected. Appendix Part 5 §5.9 develops the evidence.
+People and institutions can repeat that conduct. Schleicher's botanical tree placed Sanskrit beneath an imaginary European ancestor even though Sanskrit's architecture was already available to European philology. Appendix Part 5 §5.9 examines that choice and its motive.
 
 ### The Distributed Alternative
 
@@ -262,9 +254,7 @@ A system that displays दिव्यता (*divyatā*) and preserves लो�
 
 The fourth Abrahamic religion is the institutional formation that has tried to absorb, contain, or overwrite that architecture. Earlier formations did it through military and administrative power. The fourth does it through academic, cultural, legal, and developmental power. The vocabulary has secularized. The structural project has not.
 
-The *Assalāyana Sutta* shows that आर्य (*ārya*) and दास (*dāsa*) describe social positions that can reverse. An आर्य (*ārya*) can become a दास (*dāsa*), and a दास (*dāsa*) can become an आर्य (*ārya*). They are not races fixed by birth.[NOTE: assalayana-sutta] Chapter 3 §3.2 presents the passage in full; the Epilogue returns to आर्यत्व (*āryatva*) as invitation rather than race.
-
-The two architectures do not fight in the same way. The fourth Abrahamic religion tries to force an integrated civilization into an imported binary. The architecture of *Sanātan* survives by remaining distributed throughout society, even when the political regime changes.
+The two architectures create order in different ways. The fourth Abrahamic religion places authorized institutions above society. *Sanātan* keeps its calibrants distributed throughout society, even when the political regime changes.
 
 Each stage exposes a different layer of the same pyramid:
 

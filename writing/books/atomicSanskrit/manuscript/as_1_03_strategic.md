@@ -206,7 +206,7 @@ Every age must make this distinction again. As long as **विवेक (*vivek
 
 ## 3.7 Containment and Release in the Veda
 
-Chapter 1 identified four methods used by the architecture of containment. The encounters examined here reveal how the protagonists defeat that architecture. Vṛtra blocks the waters, the Paṇis enclose cattle and light inside Vala, and Svarbhānu covers the Sun. In every encounter, the protagonist breaks the obstruction and restores circulation.
+Chapter 1 identified eight recurring methods of the asuric pyramid. The Vedic encounters examined here show how the protagonists oppose them. Vṛtra blocks the waters, the Paṇis enclose cattle and light inside Vala, and Svarbhānu covers the Sun. In every encounter, the protagonist breaks the obstruction and restores circulation.
 
 वृत्र (*Vṛtra*), whose name comes from **⟪वृ⟫** (*vṛ*, to cover or obstruct), dams the waters on the mountain. Indra's वज्र (*vajra*) splits the enclosure, and the rivers run toward the sea (RV 1.32).[NOTE: rv-1-32-vrtra]
 

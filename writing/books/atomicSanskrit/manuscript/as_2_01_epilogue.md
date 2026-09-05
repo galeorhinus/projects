@@ -28,27 +28,21 @@ The work ahead is not revenge. In a karmic order, harmful actions carry conseque
 
 ***Break the shadow. Dispel the invented ancestor. Find the Sun. Invite the world. Restore the standard.***
 
-## Where the Nectar Rises
+## The Stolen Sip and the Rising Nectar
 
-In the **समुद्रमन्थन (*samudra-manthana*)** story, the devas and asuras wrap the serpent Vāsuki around Mount Mandara and pull from opposite sides. They churn the ocean for **अमृत (*amṛta*)**, the nectar of immortality.[NOTE: samudra-manthana-source-anchor] What rises first is **हालहल (*hālahala*)** — poison enough to end the worlds. Śiva contains it in his throat and becomes **नीलकण्ठ (*nīlakaṇṭha*)**, the blue-throated one. Only after the poison does the ocean yield the nectar, and **मोहिनी (*Mohinī*)** gives it to the **देवाः (*devāḥ*)**, the radiant ones of ⟪दिव्⟫.
+In the **समुद्रमन्थन (*samudra-manthana*)** story, the devas and asuras churn the ocean for **अमृत (*amṛta*)**, the nectar of immortality.[NOTE: samudra-manthana-source-anchor] The first substance to emerge is **हालहल (*hālahala*)**, a poison powerful enough to destroy the worlds. Śiva prevents that destruction by holding the poison in his throat and becoming **नीलकण्ठ (*nīlakaṇṭha*)**, the blue-throated one. The nectar rises only after the poison has been contained.
 
-For two centuries, scholars across India and Europe have carried out another churning. Sanskrit scholars working through colonial-era institutions in Varanasi, Kolkata, and Pune taught the language and explained its texts and grammar.[NOTE: colonial-sanskrit-institutes] Scholars in Oxford, Berlin, Leipzig, St. Petersburg, and other centers used that knowledge to compare words, compile dictionaries, and construct linguistic histories. Most of the people who performed this work did not control the account that the apex built from it.
+Sanskrit scholarship produced a similar sequence over the past two centuries. Indian scholars taught the language and explained its grammar. European scholars used that knowledge to compare words, compile dictionaries, and construct linguistic histories.[NOTE: colonial-sanskrit-institutes] Most of the people who performed this work did not control the account that the apex eventually built from it.
 
-The apex turned their accumulated labor into *hālahala*: the racial Arya thesis, the cranial index, the nasal index, and the other poisons that the twentieth century drank to the bottom.
+The apex turned their accumulated labor into *hālahala*. It created the Racial Arya Thesis and supported it with racial classifications that damaged India and later spread far beyond it. India bore that poison without surrendering Sanskrit or the civilizational memory carried through the language. In this churning, India became **नीलकण्ठ (*nīlakaṇṭha*)**. The poison reached its throat but never entered its heart.
 
-The civilization that bore that poison for a century and a half became the **नीलकण्ठ (*nīlakaṇṭha*)** of this churning. The poison stopped at the throat. It never reached the heart.
+The story also gives this book its image of Rāhu. The *Bhāgavata Purāṇa* calls the intruder Svarbhānu. He steals a sip of the nectar before Hari severs his head. Because the nectar has already made the head undying, Rāhu continues to seize the Sun and Moon.[NOTE: rahu-manthana-svarbhanu-layering]
 
-The *Bhāgavata Purāṇa* calls the intruder Svarbhānu. He slipped into the ranks of the *devāḥ* at the distribution and drank. Hari severed his head, but the stolen sip had made it undying. The *Mahābhārata* tells the same episode under the name Rāhu, the severed head that continues to seize the Sun and Moon. This book therefore uses Rāhu as the eclipse-device running through its spine.[NOTE: rahu-manthana-svarbhanu-layering]
+The pyramid repeated that pattern with PIE. It took Sanskrit's own data and the correspondences that Sanskrit had made legible. From that stolen sip, it created an imaginary ancestor and placed the bodiless head between Sanskrit and the observer.
 
-The pyramid repeated that pattern. It drank one stolen sip of Sanskrit's nectar — the calibrant's own data, the correspondences only Sanskrit made legible — and from that sip it made PIE: a head without a body, an ancestor made immortal precisely because it was never alive enough to die. *Amṛta* carried across the line does not enlighten the *asura*; it becomes an eclipse that shadows Sanskrit's radiance.
+Yet the scholarship accumulated during that churning can still serve another purpose. Its dictionaries and tables can help researchers identify Sanskrit's atoms, trace their reflections in other languages, and explain how each receiving language reshaped what reached it.
 
-With PIE destroyed, the eclipse is broken, and the ocean's yield can return to the *devāḥ*. To give the *amṛta* back to the radiant ones is to let Sanskrit's calibrant and fractal architecture emerge from the shadow.
-
-The same accumulated scholarship can now serve another purpose. Its correspondences and dictionaries can help researchers identify Sanskrit's atoms, trace their reflections in receiving languages, and describe how each receiving language reshaped what reached it.
-
-One distinction within this story explains what the churning produces. The *devāḥ* sustain light and order through flow, circulation, and radiance. The asuric action contains and withholds what should flow. **अमृत (*amṛta*)** is the un-dying.[NOTE: amrta-anti-entropy-principles]
-
-Pour the un-dying into the principles of flow, and the system renews itself across time. Give the same endurance to the withholder, and the obstruction becomes permanent. An undying flow is a world that renews; an undying container, a permanent eclipse.
+**अमृत (*amṛta*)** renews a system when it circulates. When it is seized and withheld, the same endurance allows the obstruction to remain.[NOTE: amrta-anti-entropy-principles]
 
 The same distinction appears at the scale of language. Calibration preserves a generative architecture and keeps it available throughout a distributed system. Codification places permanence around a bounded object controlled by authority.
 
@@ -66,47 +60,21 @@ The limits of codification and the survival of Sanskrit prove the same point fro
 
 If the pyramid changes how it distributes authority, directs knowledge, and treats correction, that change would not be surrender. It would be *prāyaścitta* expressed through conduct.
 
-Like Svarbhānu, the pyramid reached for what belonged to the radiant. Its apex bent two centuries of accumulated labor toward one intent: to bury Sanskrit beneath PIE. Scholars below it collected the cognates, tabulated the sound-shifts, compiled the dictionaries, indexed the inscriptions, and compared the families. The accumulation became the largest searchable corpus of Sanskrit’s reflections ever assembled.
+Like Svarbhānu, the pyramid reached for what belonged to the radiant. Its apex directed two centuries of accumulated scholarship toward burying Sanskrit beneath PIE. Scholars collected cognates, compared sound changes, compiled dictionaries, indexed inscriptions, and assembled an enormous searchable record of Sanskrit's reflections.
 
-That is the nectar.
+**That is the nectar.**
 
-Now is the time for those on the side of Sanskrit's radiance to act. The materials are already available. Western etymological dictionaries list thousands of starred entries. The *Dhātupāṭha* preserves over two thousand *dhātavaḥ*, each recited, accented, and semantically specified across thousands of years. One inventory contains hypothetical forms that no community is known to have spoken; the other contains Sanskrit's recorded semantic atoms.
+The materials required to recover it already exist. Western etymological dictionaries contain thousands of starred reconstructions. The *Dhātupāṭha* contains more than two thousand recorded Sanskrit atoms, each transmitted with its sound, accent, and range of meanings. One inventory contains hypothetical ancestors. The other contains the recorded atoms and generated families that the hypothetical ancestors were created to explain.
 
-Place the two inventories beside one another. For each family, determine whether a Sanskrit atom and its generated molecules explain the recorded words more directly than the starred reconstruction. Follow the range of meanings to see whether it remained whole, narrowed, or split, and map every sound that was added, moved, changed, or lost. Keep the honest cases, publish the weak ones, and let the full pattern establish the reach of Sanskrit's radiance.
+Place those inventories beside one another. For each family, ask whether a Sanskrit atom and its generated words explain the recorded evidence more directly than the starred reconstruction. Follow the meanings and identify every sound that was added, moved, changed, or lost. Publish the strong results together with the weak cases and unresolved problems.
 
-Chapter 19 §19.7 introduces the method with the pyramid's **\*yeug- / \*yug-** image. It renders the Greek, Latin, Gothic, and English forms approximately in Devanagari and then places them against Vedic **युज् / युग् / युक् (*yuj / yug / yuk*)**. It then uses **अप (*apa*) / ἀπό (*apó*) / *ab*** to extend the investigation from atoms to directional operators. Appendix Part 1 develops the complete research record, tests a second physical route through **⟪भृ⟫**, and returns to the larger **⟪जन्⟫ → *gen / kin / king*** family. It places those examples beside the families built from **⟪स्था⟫**, **⟪दिव्⟫**, **⟪कृत्⟫**, and **⟪मा⟫**. The rest of the ocean stands there, indexed, waiting. PIE no longer gets default parenthood. Every starred form must be set beside Sanskrit and tested before the pyramid installs it above Sanskrit as an ancestor.
+Chapter 19 §19.7 introduces this method through **युज् (*yuj*)** and the operator **अप (*apa*)**. Appendix Part 1 §1.5 sets out a reusable research method and applies it to seven Sanskrit atoms. Section 1.6 extends the same method to Sanskrit operators.
 
-Indian universities can organize that exercise as the **Sanskrit Radiance Mapping Project**, *A Dhātupāṭha and Vyutpatti Analysis of Reconstructed PIE Families*. Sanskrit departments can begin with the *Dhātupāṭha*, the *upasarga* inventory, and the lineage-preserved fivefold method of *vyutpatti*. Scholars of Greek, Latin, Persian, and other receiving languages can supply their recorded word-families and operators, while computational linguistics departments test whether the same transformations recur across hundreds and then thousands of forms.
+Indian universities can organize the larger investigation as the **Sanskrit Radiance Mapping Project**. Sanskrit departments can supply the *Dhātupāṭha*, the operators, the Vedic evidence, and the methods of *vyutpatti*. Scholars of Greek, Latin, Persian, and other receiving languages can provide their recorded word families. Computational linguists can test whether the same transformations recur across hundreds and eventually thousands of cases.
 
-Repeating the exercise word-family by word-family can show where Sanskrit's radiance entered Greek, Latin, and other receiving languages and how those languages reshaped it through vivimorphosis.
+Such an investigation can map two different relationships: languages that remained in Sanskrit's orbit and languages that preserve reflections of its outward radiance.
 
-The method can be repeated:
-
-1. Begin with the starred PIE image and the meaning assigned to it.
-2. Gather the recorded Greek, Latin, Persian, Germanic, or other forms one language at a time, preserving their original scripts where available.
-3. Render the approximate pronunciation of each form in Devanagari so that its sounds can be placed against the *varṇamālā*.
-4. Search the *Dhātupāṭha* for a Sanskrit atom that fits both sound and meaning, and locate its Vedic forms before turning to later documentation.
-5. Map the consonants by **स्थान (*sthāna*)**, voicing, aspiration, closure, and effort. Map the vowels separately.
-6. Bring in Pāṇini where he documents the corresponding Sanskrit operation. Bring in Hemacandra where his Prakrit or Apabhraṃśa evidence clarifies a natural transformation.
-7. Apply the fivefold *vyutpatti* method to identify each sound added, moved, changed, or lost and to trace each semantic extension back to the Sanskrit atom.
-8. Compare the result across several families and identify a plausible route through which Sanskrit's radiance could have traveled.
-9. Publish the strong cases together with the weak cases, counterexamples, and unresolved sounds or meanings.
-
-Sound correspondences, cognate tables, etymological dictionaries, and inscriptional corpora already contain the material. University departments have the people and tools required to examine it. Indian scholars can turn that machinery around and map two patterns: the languages held in orbit by Sanskritic gravity, and the reflections carried outward by Sanskritic radiance before the receiving languages drifted and diverged from Sanskrit.
-
-The *Dhātupāṭha* is a scientific object: an inventory of semantic atoms in ten *gaṇāḥ*. Researchers can model it and test it against regular *apaśabda* generation in the Indic *prākṛtika* languages and the Indo-European contact family.
-
-The *Aṣṭādhyāyī* is engineering documentation. Its formal compression and generative reach attracted the computational community before much of the philological establishment recognized their significance.
-
-The recitation lineages provide living evidence. Across Kerala, Maharashtra, Tamil Nadu, Kashmir, and the northern plains, the eleven *pāṭhas* continue to operate as parallel error-detecting codes that preserve phonetic constants across thousands of years.
-
-The Brāhmī thesis becomes testable by engineering content rather than corridor-of-origin chronology. Stone dates the surviving inscription; it does not date the sound architecture the script renders. A harder investigation can then begin: whether Brāhmī or its precursor rode Wave 1 outward, leaving the corridor scripts a diminished reflection of an Indic audiographic logic (Appendix Part 3 §§3.5–3.6). The language factory demonstrates Sanskrit's generative capacity directly. After a consistent remapping into a Japanese sound inventory, selected Sanskrit operations continue to generate forms that can be reproduced and analyzed.
-
-The schools can end the dead-language inversion too: post-independence pedagogy taught Sanskrit as Europe taught Latin — a relic parsed for examination — while the imaginary ancestor was given explanatory life. Sanskrit is alive as calibrant, recitation, grammar, and generative capacity. PIE was never alive.
-
-Much of the ocean remains to be turned. The churn stands, the rope is in reach, and the nectar comes up on the side of Sanskrit.
-
-The nectar rises when the churn turns toward the Sun. Which side receives it depends on the architecture doing the churning.
+Much of the ocean remains to be churned. The rope is within reach, and the nectar can rise again.
 
 ## The Contest of Architectures
 

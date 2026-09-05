@@ -292,7 +292,7 @@ The Sanskrit row contains the recorded atom **⟪युज्⟫ (*yuj*)** and a
 
 The वर्णमाला (*varṇamālā*) provides the anatomical coordinates and grid addresses needed to compare those sounds. Sanskrit's specified vowel relation also connects **उ (*u*)** with **ओ (*o*)** in **योग (*yoga*)**. Pāṇini later documented these operations; the Vedic forms show that he did not create them.[NOTE: yuj-bhr-radiance-method]
 
-The complete procedure first renders each receiving form approximately in Devanagari. It then maps consonants by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)** before examining vowels and meanings separately. Pāṇini, Hemacandra, a प्रातिशाख्य (*Prātiśākhya*), or another Indic source enters the analysis where its documentation applies. A single family demonstrates the procedure. Repeated families and plausible routes of contact establish the direction in which Sanskrit's radiance traveled. Appendix Part 1 provides the reusable research record and applies it to ⟪युज्⟫, ⟪भृ⟫, ⟪जन्⟫, and further atoms.
+The complete procedure first renders each receiving form approximately in Devanagari. It then maps consonants by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)** before examining vowels and meanings separately. Pāṇini, Hemacandra, a प्रातिशाख्य (*Prātiśākhya*), or another Indic source enters the analysis where its documentation applies. A single family demonstrates the procedure. Repeated families and plausible routes of contact establish the direction in which Sanskrit's radiance traveled. Appendix Part 1 sets out the reusable research method and applies it to ⟪युज्⟫, ⟪भृ⟫, ⟪जन्⟫, and further atoms.
 
 ### Operators Traveled with the Atoms
 
@@ -313,43 +313,35 @@ Greek preserves both mobile and attached preverbs, while Latin preserves the dir
 
 ## 19.8 PIE Is a Lie: असुर (*asura*) and *ahura*
 
-The relationship between Sanskrit असुर (*asura*) and Avestan *ahura* exposes the reversal.
+The relationship between Sanskrit असुर (*asura*) and Avestan *ahura* provides a final example of the reversal.
 
-Western philology places reconstructed Proto-Indo-Iranian **\*Hásura-** behind the two recorded forms. One contested proposal then places PIE **\*h₂n̥s-u(ro)-**, associated with “lord” or “king,” behind that reconstruction.[NOTE: asura-standard-etymology-contested] The pyramid takes this stack of imaginary forms and assigns it greater authority than the recorded Sanskrit word and its internal analyses.
+Western philology places reconstructed Proto-Indo-Iranian **\*Hásura-** behind the two recorded forms. One contested proposal places PIE **\*h₂n̥s-u(ro)-**, associated with “lord” or “king,” behind that reconstruction.[NOTE: asura-standard-etymology-contested] Two imaginary forms are thus placed above the Sanskrit word that people actually spoke.
 
-**PIE is a lie.**
-
-The contact chain begins with forms that people could actually hear:
+The recorded contact can be represented without an imaginary ancestor:
 
 **Sanskrit असुर (*asura*) →**\
 **बीज (*bīja*) in the Iranian listener's mind →**\
 **Avestan 𐬀𐬵𐬎𐬭𐬀 (*ahura*, अपशब्द (*apaśabda*))**
 
-Chapter 3 established that Sanskrit has two distinct words that share the sound-form ***asura***. That distinction belongs inside Sanskrit. A spoken word carries no hyphen across a mountain. The Iranian listener heard ***asura***. The evidence does not tell us which formation that listener understood.
+Chapter 3 showed that Sanskrit permits two analyses of the sound-form ***asura***. The evidence does not tell us which analysis an Iranian listener understood. That uncertainty does not alter what traveled. A spoken word carries no hyphen across a mountain. The listener heard ***asura***.
 
-The traveling form was ***asura***.
-
-Iranian speech then reshaped what the listener had received. Sanskrit ***s*** appears as Iranian ***h***, the same correspondence Chapter 9 §9.5 traces in सिन्धुः (*Sindhuḥ*) and *Hinduš*. Avestan gave the received form its own ending and its own place within Iranian religious thought.
+Iranian speech then reshaped the word. Sanskrit ***s*** appears as Iranian ***h***, the same correspondence Chapter 9 §9.5 traces in सिन्धुः (*Sindhuḥ*) and *Hinduš*. Avestan gave the received form its own ending and its own place within Iranian religious thought.
 
 This is vivimorphosis at a contact boundary. The Sanskrit word enters the listener's mind as बीज (*bīja*). The receiving language develops its own प्रतिबिम्ब (*pratibimba*) through repeated use.
 
-The pyramid reverses that movement. It observes the Sanskrit and Avestan forms, constructs an unrecorded ancestor behind them, and then places that construction above both. The imaginary reconstruction becomes the source. The complete Sanskrit architecture becomes one descendant among many.
-
-The अपशब्द (*apaśabda*) *ahura* became part of the central theological vocabulary of the Zoroastrian tradition. A forthcoming volume in the *Second Shanti* series will examine what Iranian religious thought made from that received form. This section follows the linguistic relationship: Sanskrit radiance carried a word into Iranian speech, and Iranian speech developed its own reflection.
+A later volume in the *Second Shanti* series will examine what Iranian religious thought made from that received form.
 
 ![Figure 19.9 — Recorded Chains and Projected Ancestors. The solid chains follow Sanskrit forms into the listener's seed and the receiving-language form. The dashed boxes show the imaginary ancestor that the pyramid projects backward above each recorded chain.](figures/pie_in_sky/deva_asura_vivimorphosis_chains.svg){#fig:ch19-deva-asura-vivimorphosis width=100%}
 
-Figure 19.9 restores the missing middle. Sanskrit provides the engineered calibrant. A listener receives a word as बीज (*bīja*), and the receiving language reshapes it into a प्रतिबिम्ब (*pratibimba*) through repeated use.
+Figure 19.9 shows what the PIE reconstruction removes: the listener and the receiving language. A person hears a Sanskrit word. The word remains in the listener's mind. The receiving language then changes its sounds and gives it a new life.
 
-Comparative philology begins with correspondences among those reflections. Because it assumes common descent, it averages them into a vanished ancestor. The calibrant account explains the same correspondences by tracing Sanskritic radiance outward. The sequence therefore runs in the other direction: formed Speech first, reflections afterward.
+The pyramid begins with the Sanskrit and Avestan forms, constructs an unrecorded ancestor behind them, and places that construction above both. The imaginary reconstruction becomes the source. Sanskrit becomes one descendant among many.
 
-Sanskrit as calibrant. The natural languages of Central and West Asia as calibrated. Their प्रतिबिम्ब (*pratibimba*) projected backward by nineteenth-century European philologists as PIE.
-
-The inversion is complete: the pyramid declared the living language dead and granted life to the imaginary ancestor. Sanskrit was preserved, recited, taught, spoken, and remained generative. PIE was preserved nowhere, recited nowhere, and spoken by no known human community. Yet the machinery buried the living architecture and animated the ghost.
+The inversion is complete. Sanskrit has remained audible, teachable, and generative. PIE was recited nowhere and spoken by no known human community. Yet the pyramid placed the imaginary ancestor above the living architecture.
 
 The Rāhu image from the Prologue now becomes literal: a head without a body, granted position without life.
 
-The false split around Pāṇini collapses with it. Sanskrit before Pāṇini was not प्रकृति (*prakṛti*) waiting for an ancestor, and Sanskrit after Pāṇini was not the product of the codification myth. The same calibrated architecture runs through the Veda, through Pāṇini, and beyond him.
+The false split around Pāṇini collapses with it. One calibrated Sanskrit architecture runs through the Vedas, through Pāṇini, and beyond him.
 
 PIE is in the sky. PIE is imaginary. The architecture is on the ground.
 

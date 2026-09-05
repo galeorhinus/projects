@@ -146,21 +146,11 @@ The label *oral tradition* tells the reader nothing about the architecture. It t
 
 ## 13.5 *Calibrated*, Not *Codified*
 
-### Guarded Form and Living Speech
+Chapter 2 showed why codification cannot explain Sanskrit's invariance. A grammar can describe a language in detail, but Tamil continued to change after the *Tolkāppiyam*. An institution can hold one selected form stable, but the Arabic spoken in homes and communities continued to change around the guarded Quranic and formal forms.[NOTE: arabic-religio-political-authority]
 
-Chapter 2 tests the claim that Pāṇini stopped Sanskrit from drifting by codifying it. Arabic and Tamil expose the problem with that claim. A grammar can document a language, and an institution can preserve a selected form, while the language spoken around it continues to change.
+This book calls the second arrangement **petrification**. Authority preserves a bounded form while ordinary speech continues changing around it. Chapter 14 examines several languages preserved in this way and compares their systems with Sanskrit's distributed architecture.[NOTE: petrified-bounded-forms]
 
-An authority can preserve a selected form for centuries, but its control over that form does not stop speakers elsewhere from changing their language. Petrification therefore produces two streams: institutions preserve a bounded form through text, school, clergy, or state, while children continue acquiring and changing the speech used at home and in ordinary life.
-
-Latin shows the pattern clearly. Classical and ecclesiastical forms remained under textual and church custody while spoken varieties developed into the Romance languages. Religious and political authorities guarded Quranic Arabic through the *muṣḥaf*, recitation, memorization, and authorized readings while Moroccan, Egyptian, Levantine, Gulf, and other spoken Arabics continued changing. Classical Greek remained available through texts and schooling as Koine, Byzantine, and modern forms developed. Literary Tibetan likewise remained a learned form while spoken Tibetan varieties changed. In each case, the guarded form and the changing speech continued beside one another.[NOTE: arabic-religio-political-authority][NOTE: petrified-bounded-forms]
-
-### Revivification
-
-Modern Hebrew followed a rarer path. The movement that returned Hebrew to household speech, childhood acquisition, education, administration, and ordinary public life turned a guarded language into daily speech again. The book calls that return **revivification**.
-
-The Hebrew placed into daily use drew upon Biblical, Mishnaic, medieval, and modern Hebrew, while contact with other languages shaped its growing vocabulary and usage. As children and communities began using Hebrew for every circumstance, pronunciation, syntax, vocabulary, idiom, and regional variation resumed botanical change.[NOTE: petrified-bounded-forms]
-
-These histories separate two movements that the word *codification* tends to blur. Petrification occurs when authority fixes an organic form in place. Revivification returns such a form to ordinary speech, where daily usage resumes botanical change. Latin, Greek, Arabic, and Tibetan retained guarded forms beside parallel changing streams; Modern Hebrew crossed back into botanical life.
+Modern Hebrew demonstrates the movement in the other direction. Once Hebrew returned to household speech and children began acquiring it as a first language, daily use began changing it again. This book calls that return **revivification**.[NOTE: petrified-bounded-forms]
 
 ### Preservation by Calibration
 
