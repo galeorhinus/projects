@@ -1533,6 +1533,11 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
     # the assembled markdown pure content avoids duplication / drift.
 
     missing: list[str] = []
+    # The per-file "include ..." lines were 40-odd rows of scrollback that
+    # pushed the warnings the build actually wants read off the screen.
+    # Count them instead and report one summary line.
+    counts = {"chapter": 0, "part opener": 0, "dedication": 0}
+    endnote_summary = ""
     for entry in ASSEMBLY:
         if entry.get("html_only") == "true":
             continue
@@ -1549,7 +1554,7 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
             text = path.read_text().strip()
             if text:
                 chunks.append(text + "\n\n")
-                print(f"  include {filename} (dedication)")
+                counts["dedication"] += 1
             continue
         if kind == "part":
             # Raw-LaTeX part break (pandoc passes through inside this fence).
@@ -1592,7 +1597,7 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
                 text = PART_HEADER_RE.sub("", text.lstrip(), count=1).strip()
                 if text:
                     chunks.append(text + "\n\n")
-                    print(f"  include {filename} (part opener)")
+                    counts["part opener"] += 1
             continue
 
         # When we reach as_endnotes.md, replace the three-section endnote
@@ -1615,8 +1620,8 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
                 # single newline would fold its H1 into the final note.
                 chunks.append("\n\n" + unified.rstrip() + "\n\n")
                 mode_label = "short" if endnotes_mode == "short" else "full"
-                print(f"  include unified Endnotes ({len(notes)} entries, "
-                      f"mode={mode_label})")
+                endnote_summary = (f"  endnotes: {len(notes)} entries "
+                                   f"(mode={mode_label})")
             # Skip the as_endnotes.md raw include — its content is now folded
             # into the unified Endnotes by load_drafted_endnotes().
             continue
@@ -1629,7 +1634,13 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
 
         cleaned = clean_chapter(path.read_text(), title)
         chunks.append(cleaned + "\n")
-        print(f"  include {filename}")
+        counts["chapter"] += 1
+
+    detail = ", ".join(f"{n} {label}{'s' if n != 1 and not label.endswith('s') else ''}"
+                       for label, n in counts.items() if n)
+    print(f"  included {sum(counts.values())} files ({detail})")
+    if endnote_summary:
+        print(endnote_summary)
 
     assembled = "".join(chunks)
     assembled = prefer_png_images_for_pdf(assembled)
