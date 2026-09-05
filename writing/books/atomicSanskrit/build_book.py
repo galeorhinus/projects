@@ -223,7 +223,6 @@ LAYOUTS = {
     "b5": {
         "geometry": "b5paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
         "fontsize": "10.5pt",
-        # No folio on openers, so the 0.4in foot has nothing to clear.
         "chapter_folio": False,
     },
     # ~4.5x7.5 text block centered on 8.5x11 — book-page mock-up on letter paper.
@@ -1663,6 +1662,79 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
     return 0
 
 
+_FLOAT_WARN_RE = re.compile(r"Float too large for page by ([\d.]+)pt on input line (\d+)")
+
+
+def report_oversized_floats(stderr: str, cmd: list[str]) -> None:
+    """Name the figures behind LaTeX's "Float too large for page" warnings.
+
+    The warning identifies the offender only by a line number into the LaTeX
+    pandoc generated internally and then deleted, so the build printed three
+    anonymous overflow amounts and left you to find them by hand. Regenerating
+    that LaTeX is cheap -- the 160s is xelatex's four passes, not the markdown
+    conversion -- and the same input through the same filters and options
+    produces the same line numbering, so the numbers map exactly.
+
+    Predicting overflow instead of reading it back was the tempting shortcut
+    and the wrong one: LaTeX's float arithmetic folds in caption reflow,
+    \\textfloatsep and float-page fractions, and an estimate that disagrees
+    with the real warning is worse than no estimate."""
+    # Two things have to be flattened before the line number can be read off.
+    # pandoc wraps its warnings ("... on\n  input line 79."), and the run is
+    # captured through a pty, so lines end \r\n -- rejoining on \n alone
+    # leaves the \r sitting inside "on\r input line" and the match fails.
+    # Collapse every whitespace run instead.
+    flat = re.sub(r"\s+", " ", stderr)
+    hits = _FLOAT_WARN_RE.findall(flat)
+    if not hits:
+        return
+    print(f"  {len(hits)} figure(s) overflow the page:")
+
+    tex_cmd, tex_path = [], BOOK_DIR / "build" / "_float_report.tex"
+    skip = False
+    for arg in cmd:
+        if skip:
+            skip = False
+            continue
+        if arg == "-o":
+            skip = True
+            continue
+        if arg.startswith("--pdf-engine"):
+            continue
+        tex_cmd.append(arg)
+    tex_cmd += ["-s", "-o", str(tex_path)]
+    try:
+        subprocess.run(tex_cmd, capture_output=True, check=True)
+        lines = tex_path.read_text().splitlines()
+    except Exception as exc:
+        for over, line in hits:
+            print(f"     {over}pt over (LaTeX line {line})")
+        print(f"     (could not name them — {type(exc).__name__}: {exc})")
+        return
+
+    for over, line in sorted(hits, key=lambda h: -float(h[0])):
+        # LaTeX reports the line where it noticed the overflow, which may be
+        # the \begin{figure} or the \end{figure}. Bound the block by the
+        # environment in both directions rather than by a fixed window: a
+        # caption wraps across several lines, and a window that clips the
+        # closing bracket makes the caption unmatchable.
+        n = int(line) - 1
+        start = next((i for i in range(min(n, len(lines) - 1), max(0, n - 200), -1)
+                      if lines[i].startswith(r"\begin{figure}")), None)
+        stop = next((i for i in range(n, min(len(lines), n + 200))
+                     if lines[i].startswith(r"\end{figure}")), None)
+        block = ("\n".join(lines[start:(stop + 1) if stop is not None else n + 40])
+                 if start is not None else "")
+        cap = re.search(r"\\caption\[([^\]]*)\]", block) or \
+              re.search(r"\\caption\{(.{0,90})", block, re.S)
+        src = re.search(r"\\include(?:graphics|svg)(?:\[[^\]]*\])?\{([^}]*)\}", block)
+        name = " ".join(cap.group(1).split()) if cap else f"LaTeX line {line}"
+        print(f"     {float(over):6.1f}pt over  {name[:64]}")
+        if src:
+            print(f"                   {src.group(1)}")
+    tex_path.unlink(missing_ok=True)
+
+
 def prefer_local_texlive() -> str | None:
     """Put a /usr/local/texlive install ahead of the system TeX on PATH.
 
@@ -1695,7 +1767,12 @@ def have(cmd: str) -> bool:
 DEFAULT_PROGRESS_PAGES = 20
 PAGE_BRACKET_RE = re.compile(r"\[(\d+)\]")
 LATEX_RUN_RE = re.compile(r"\[INFO\] \[makePDF\] LaTeX run number (\d+)")
-WARNING_LINE_RE = re.compile(r"^.*\[WARNING\].*$", re.MULTILINE)
+# A pandoc warning can continue onto following indented lines, and TeX
+# wraps its log at ~79 columns, so "Float too large for page by 47.8pt on"
+# and "input line 4156." arrive as two lines. Keeping only the [WARNING]
+# line threw away every line number, which is the one part of the warning
+# that identifies which figure overflowed.
+WARNING_LINE_RE = re.compile(r"^.*\[WARNING\].*(?:\n[ \t]+\S.*)*$", re.MULTILINE)
 
 
 class ProcResult:
@@ -2002,6 +2079,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
     if result.stderr.strip():
         print("pandoc warnings:")
         print(result.stderr[:1000])
+        report_oversized_floats(result.stderr, cmd)
     print(f"PDF rendered → {pdf_path.relative_to(BOOK_DIR)}")
     verify_figures_present(pdf_path, md_path.read_text())
     return 0
