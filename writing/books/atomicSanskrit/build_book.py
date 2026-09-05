@@ -646,39 +646,29 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
     # family explicitly makes the run immune to whatever leaked. Greek
     # Extended is deliberately NOT here: STIX lacks all five forms the book
     # uses, so those stay on \symbolfont below.
-    # Every non-ASCII character the assembled book uses that STIX Two Text
-    # covers in all four faces. \latinfont is \rmfamily, so wrapping is a
-    # no-op when the font state is already right and a repair when it is not:
-    # the full-book build was drawing these from a leaked Devanagari family
-    # and printing .notdef boxes on the page (a chapter-alone build of the
-    # same source renders them correctly). Enumerating the characters that
-    # happened to warn is whack-a-mole -- the leak hits anything Tiro lacks --
-    # so this routes the whole verified-covered set at once. Regenerate with
-    # the coverage scan in tools/ if the manuscript gains a new character.
-    # Verified 2026-09-05 against build/atomic_sanskrit.short.md: 68 unwrapped
-    # non-ASCII characters, all covered by STIX, no overlap with \symbolfont
-    # (which keeps the forms STIX genuinely lacks).
+    # Characters a leaked Devanagari run would DROP: the ones Tiro Devanagari
+    # Sanskrit cannot draw. \latinfont is \rmfamily, so wrapping selects the
+    # main family explicitly and the run survives whatever font is current.
+    #
+    # The set is chosen by that test rather than by which characters happened
+    # to warn -- enumerating warnings is whack-a-mole, since the leak hits
+    # anything the leaked face lacks. It is also deliberately NOT "everything
+    # STIX covers": Tiro has the punctuation, Latin-1 accents and IAST
+    # diacritics, so wrapping those bought no protection while putting 1,208
+    # raw-LaTeX spans into captions, part titles and TOC entries -- one of
+    # which printed as "Part IV '---'=latex The Sun's Atoms".
+    #
+    # Greek Extended stays on \symbolfont below: STIX lacks all five forms
+    # the book uses, so those need DejaVu, not the main family.
     (r"\latinfont",       re.compile(
         "(?:["
-        "\u0370-\u03FF"                 # Greek block (ζυγόν, ἀπό's tail, etc.)
-        "\u00A7\u00A9\u00B7\u00BD\u00D7"   # § © · ½ ×
-        "\u00DC\u00E0-\u00E2\u00E4"        # Ü à á â ä
-        "\u00E8\u00E9\u00ED\u00EE\u00F1"   # è é í î ñ
-        "\u00F3\u00F4\u00F6\u00FA\u00FC"   # ó ô ö ú ü
-        "\u0100\u0101\u012A\u012B"         # Ā ā Ī ī
-        "\u0105"                            # ą
-        "\u015A\u015B\u0161\u016A\u016B"   # Ś ś š Ū ū
-        "\u01C0\u01C1\u01C3"                # ǀ ǁ ǃ  click letters
-        "\u0250\u0255\u0263\u026D"         # ɐ ɕ ɣ ɭ
-        "\u026F\u0270\u0278"                # ɯ ɰ ɸ
-        "\u0283\u028B\u0291"                # ʃ ʋ ʑ
-        "\u02B0\u02D0"                      # ʰ ː
-        "\u1E0D\u1E25\u1E37\u1E3B"         # ḍ ḥ ḷ ḻ
-        "\u1E43\u1E45\u1E47\u1E49"         # ṃ ṅ ṇ ṉ
-        "\u1E5A\u1E5B\u1E5F"                # Ṛ ṛ ṟ
-        "\u1E62\u1E63\u1E6D"                # Ṣ ṣ ṭ
-        "\u2013\u2014\u2018\u2019"         # – — ' '
-        "\u201C\u201D\u2026\u2212"         # " " … −
+        "\u0370-\u03FF"                      # Greek block (ζυγόν, ἀπό's tail)
+        "\u01C0\u01C1\u01C3"                 # ǀ ǁ ǃ  click letters
+        "\u0105"                             # ą
+        "\u0250\u0255\u0263\u026D"          # ɐ ɕ ɣ ɭ
+        "\u026F\u0270\u0278"                 # ɯ ɰ ɸ
+        "\u0283\u028B\u0291"                 # ʃ ʋ ʑ
+        "\u02B0\u02D0"                       # ʰ ː
         "]"
         # Keep a combining mark inside its base's group -- splitting the two
         # across a font switch breaks the composition.
@@ -1647,11 +1637,14 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
     # pandoc's LaTeX writer — convert them to a raw-LaTeX \includegraphics
     # call before the script-wrapping pass below.
     assembled = render_scaffold_icons_for_pdf(assembled)
+    # Count the assembled content before font wrappers add LaTeX commands
+    # containing spaces. Those commands are typesetting instructions, not
+    # words in the manuscript.
+    word_count = len(assembled.split())
     # Wrap non-Latin scripts in raw-LaTeX font-switch commands. See
     # wrap_scripts_for_latex / SCRIPT_WRAPS for the per-script ranges.
     assembled = wrap_scripts_for_latex(assembled)
     out_path.write_text(assembled)
-    word_count = len(assembled.split())
     print(f"\nAssembled → {out_path.relative_to(BOOK_DIR)} ({word_count:,} words)")
     warn_uncovered_characters(assembled, METADATA_FILE)
     if missing:
@@ -2096,6 +2089,9 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         "",
     ])
     assembled = prefer_png_images_for_pdf(assembled)
+    # Count source content before typesetting-only font wrappers inflate the
+    # whitespace-delimited total.
+    word_count = len(assembled.split())
     # Wrap non-Latin scripts in raw-LaTeX font-switch commands per the same
     # convention cmd_assemble uses.
     assembled = wrap_scripts_for_latex(assembled)
@@ -2104,7 +2100,6 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     md_path = BUILD_DIR / "atomic_sanskrit_reference.md"
     pdf_path = BUILD_DIR / f"atomic_sanskrit_reference{layout_suffix}.pdf"
     md_path.write_text(assembled)
-    word_count = len(assembled.split())
     print(f"Assembled companion → {md_path.relative_to(BOOK_DIR)} ({word_count:,} words)")
     warn_uncovered_characters(assembled, REFERENCE_METADATA_FILE)
 
