@@ -363,6 +363,104 @@ _SUPPRESS_PLAIN_FOLIO = r"\makeatletter\let\ps@plain\ps@empty\makeatother"
 _WRAPPED_SPAN_RE = re.compile(r"`\{\\[a-zA-Z]+font\s(.*?)\}`\{=latex\}", re.S)
 
 
+# Font-name -> declaration in the preamble template, so the coverage check can
+# ask the same face xelatex will. A placeholder like __DEVANAGARIFONT__ is
+# resolved from the book's metadata, the way render_devanagari_preamble() does.
+_FONT_DECL_RE = re.compile(
+    r"\\newfontfamily\{(\\[a-z]+font)\}(?:\[[^\]]*\])?\{([^}]*)\}"
+)
+# Same spans as _WRAPPED_SPAN_RE, but keeping the font macro as well as the body.
+_WRAPPED_SPAN_FONT_RE = re.compile(
+    r"`\{(\\[a-zA-Z]+font)\s(.*?)\}`\{=latex\}", re.S
+)
+
+
+def _resolve_font_file(name: str, metadata_file: Path) -> str:
+    """Absolute path to a face, given either a filename or a family name.
+
+    The main font is loaded by path (as_book.yaml's `mainfont` +
+    `mainfontdir`), so handing its *filename* to fc-match would silently match
+    some unrelated installed family and check coverage against the wrong face.
+    Try the declared directory first; fall back to fontconfig for the script
+    fonts, which are named by family."""
+    import subprocess
+    if Path(name).suffix.lower() in {".otf", ".ttf", ".ttc"}:
+        directory = read_yaml_value_opt(metadata_file, "mainfontdir")
+        if directory:
+            candidate = BOOK_DIR / directory / name
+            if candidate.exists():
+                return str(candidate)
+    return subprocess.run(
+        ["fc-match", "-f", "%{file}", name],
+        capture_output=True, text=True, check=True,
+    ).stdout.strip()
+
+
+def _font_coverage(name: str, metadata_file: Path) -> set[int]:
+    """Codepoints a face can draw. Cached — assembly asks for the same handful."""
+    from fontTools.ttLib import TTCollection, TTFont
+    cache = _font_coverage.__dict__.setdefault("_cache", {})
+    if name not in cache:
+        path = _resolve_font_file(name, metadata_file)
+        font = (TTCollection(path).fonts[0] if path.lower().endswith(".ttc")
+                else TTFont(path, fontNumber=0))
+        cache[name] = set(font.getBestCmap())
+    return cache[name]
+
+
+def _script_font_families(metadata_file: Path) -> dict[str, str]:
+    """Map each wrap macro to the family the preamble binds it to."""
+    text = PREAMBLE_TEMPLATE.read_text()
+    families: dict[str, str] = {}
+    for macro, family in _FONT_DECL_RE.findall(text):
+        if family.startswith("__") and family.endswith("__"):
+            family = read_yaml_value_opt(
+                metadata_file, family.strip("_").lower()
+            ) or family
+        families[macro] = family
+    # \latinfont is \rmfamily, i.e. whatever the document's main font is.
+    if "\\newcommand{\\latinfont}" in text:
+        families["\\latinfont"] = read_yaml_value(metadata_file, "mainfont")
+    return families
+
+
+def _warn_uncovered_script_characters(md_text: str, metadata_file: Path) -> None:
+    """Warn when a wrap routes a character to a font that cannot draw it.
+
+    warn_uncovered_characters() strips every wrapped span before checking,
+    because those spans are precisely the text the main font does NOT have to
+    draw. That leaves a blind spot: a character sent to a script font the
+    wrap's own face lacks is invisible to it. On 2026-09-05 Greek, IPA, and
+    the click letters were reaching Tiro Devanagari Sanskrit and printing as
+    .notdef boxes, and nothing flagged it at assembly -- the evidence was a
+    wall of xelatex "Missing character" lines nobody reads. Check the inside
+    of the spans too."""
+    families = _script_font_families(metadata_file)
+    missing: dict[tuple[str, str], dict[str, int]] = {}
+    for macro, body in _WRAPPED_SPAN_FONT_RE.findall(md_text):
+        family = families.get(macro)
+        if not family:
+            continue  # _assert_script_fonts_declared already covers this
+        try:
+            covered = _font_coverage(family, metadata_file)
+        except Exception:
+            continue  # unresolvable face — the main-font check reports the tooling
+        for ch in body:
+            if ord(ch) < 0x00A0 or ord(ch) in covered or ch.isspace():
+                continue
+            slot = missing.setdefault((macro, family), {})
+            slot[ch] = slot.get(ch, 0) + 1
+    if not missing:
+        return
+    for (macro, family), chars in sorted(missing.items()):
+        print(f"  WARNING: {len(chars)} character(s) are routed to {macro} "
+              f"({family}),")
+        print("           which cannot draw them — XeLaTeX will DROP them:")
+        for ch, n in sorted(chars.items(), key=lambda kv: -kv[1]):
+            print(f"             U+{ord(ch):04X} {ch!r}  x{n}")
+        print("           Move them to a wrap whose face covers them.")
+
+
 def warn_uncovered_characters(md_text: str, metadata_file: Path) -> None:
     """Warn about characters the main font cannot draw and no wrap rescues.
 
@@ -385,10 +483,7 @@ def warn_uncovered_characters(md_text: str, metadata_file: Path) -> None:
         return
     try:
         family = read_yaml_value(metadata_file, "mainfont")
-        path = subprocess.run(
-            ["fc-match", "-f", "%{file}", family],
-            capture_output=True, text=True, check=True,
-        ).stdout.strip()
+        path = _resolve_font_file(family, metadata_file)
         font = TTCollection(path).fonts[0] if path.lower().endswith(".ttc") else TTFont(path, fontNumber=0)
         covered = set(font.getBestCmap())
     except Exception as exc:
@@ -402,13 +497,13 @@ def warn_uncovered_characters(md_text: str, metadata_file: Path) -> None:
         if o < 0x00A0 or o in covered or ch.isspace():
             continue
         missing[ch] = missing.get(ch, 0) + 1
-    if not missing:
-        return
-    print(f"  WARNING: {len(missing)} character(s) are not in {family} and are not")
-    print("           routed to any script/symbol font — XeLaTeX will DROP them:")
-    for ch, n in sorted(missing.items(), key=lambda kv: -kv[1]):
-        print(f"             U+{ord(ch):04X} {ch!r}  x{n}")
-    print("           Add them to a SCRIPT_WRAPS entry in this file.")
+    if missing:
+        print(f"  WARNING: {len(missing)} character(s) are not in {family} and are not")
+        print("           routed to any script/symbol font — XeLaTeX will DROP them:")
+        for ch, n in sorted(missing.items(), key=lambda kv: -kv[1]):
+            print(f"             U+{ord(ch):04X} {ch!r}  x{n}")
+        print("           Add them to a SCRIPT_WRAPS entry in this file.")
+    _warn_uncovered_script_characters(md_text, metadata_file)
 
 
 _assert_presentation_tables_sane()
@@ -551,7 +646,49 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
     # family explicitly makes the run immune to whatever leaked. Greek
     # Extended is deliberately NOT here: STIX lacks all five forms the book
     # uses, so those stay on \symbolfont below.
-    (r"\latinfont",       re.compile(r"[\u0370-\u03FF\u026D\u0105\u02B0]+")),
+    # Every non-ASCII character the assembled book uses that STIX Two Text
+    # covers in all four faces. \latinfont is \rmfamily, so wrapping is a
+    # no-op when the font state is already right and a repair when it is not:
+    # the full-book build was drawing these from a leaked Devanagari family
+    # and printing .notdef boxes on the page (a chapter-alone build of the
+    # same source renders them correctly). Enumerating the characters that
+    # happened to warn is whack-a-mole -- the leak hits anything Tiro lacks --
+    # so this routes the whole verified-covered set at once. Regenerate with
+    # the coverage scan in tools/ if the manuscript gains a new character.
+    # Verified 2026-09-05 against build/atomic_sanskrit.short.md: 68 unwrapped
+    # non-ASCII characters, all covered by STIX, no overlap with \symbolfont
+    # (which keeps the forms STIX genuinely lacks).
+    (r"\latinfont",       re.compile(
+        "(?:["
+        "\u0370-\u03FF"                 # Greek block (ζυγόν, ἀπό's tail, etc.)
+        "\u00A7\u00A9\u00B7\u00BD\u00D7"   # § © · ½ ×
+        "\u00DC\u00E0-\u00E2\u00E4"        # Ü à á â ä
+        "\u00E8\u00E9\u00ED\u00EE\u00F1"   # è é í î ñ
+        "\u00F3\u00F4\u00F6\u00FA\u00FC"   # ó ô ö ú ü
+        "\u0100\u0101\u012A\u012B"         # Ā ā Ī ī
+        "\u0105"                            # ą
+        "\u015A\u015B\u0161\u016A\u016B"   # Ś ś š Ū ū
+        "\u01C0\u01C1\u01C3"                # ǀ ǁ ǃ  click letters
+        "\u0250\u0255\u0263\u026D"         # ɐ ɕ ɣ ɭ
+        "\u026F\u0270\u0278"                # ɯ ɰ ɸ
+        "\u0283\u028B\u0291"                # ʃ ʋ ʑ
+        "\u02B0\u02D0"                      # ʰ ː
+        "\u1E0D\u1E25\u1E37\u1E3B"         # ḍ ḥ ḷ ḻ
+        "\u1E43\u1E45\u1E47\u1E49"         # ṃ ṅ ṇ ṉ
+        "\u1E5A\u1E5B\u1E5F"                # Ṛ ṛ ṟ
+        "\u1E62\u1E63\u1E6D"                # Ṣ ṣ ṭ
+        "\u2013\u2014\u2018\u2019"         # – — ' '
+        "\u201C\u201D\u2026\u2212"         # " " … −
+        "]"
+        # Keep a combining mark inside its base's group -- splitting the two
+        # across a font switch breaks the composition.
+        "[\u0300-\u036F]*)+"
+        # An ASCII base carrying a combining mark (r̥, r̩, m̐) needs the same
+        # protection: Tiro has no U+0329, so a leaked run drops the mark and
+        # silently changes the phonetic form. The + is load-bearing -- without
+        # it this branch would match every ordinary letter in the book.
+        "|[A-Za-z][\u0300-\u036F]+"
+    )),
     (r"\symbolfont",      re.compile(
         r"["
         r"←→"      # ← →
@@ -632,6 +769,19 @@ def _devanagari_with_breaks(run: str) -> str:
     return "\\allowbreak{}".join(_devanagari_aksaras(run))
 
 
+# A wrap must never fire inside a markdown code span. The emitted form is
+# itself backtick-delimited, so wrapping a character that already sits between
+# backticks nests them: pandoc then reads the whole region as inline code and
+# escapes the braces, leaving `\devanagarifont` as a live command with no group
+# to close it. That switch never reverts, and every later character the
+# Devanagari face lacks is dropped from the page -- which is exactly how Greek,
+# IPA, and the click letters were vanishing from the full-book build while a
+# chapter-alone build of the same source stayed clean (traced 2026-09-05 to
+# `∞` in Ch 9 and Ch 13). Matching code spans in the same pass and returning
+# them untouched is what keeps the emitted spans from being re-wrapped too.
+_MD_CODE_SPAN = r"```.*?```|`+[^`\n]*`+"
+
+
 def wrap_scripts_for_latex(md_text: str) -> str:
     """Wrap every non-Latin script run in raw-LaTeX `{\\<fontname> …}`.
     Applied during assembly so the rendered PDF has unconditional font
@@ -639,11 +789,18 @@ def wrap_scripts_for_latex(md_text: str) -> str:
     fired: set[str] = set()
     for font_cmd, pattern in SCRIPT_WRAPS:
         prep = _devanagari_with_breaks if font_cmd == r"\devanagarifont" else (lambda t: t)
-        md_text, n = pattern.subn(
-            lambda m, _f=font_cmd, _p=prep: f"`{{{_f} {_p(m.group(0))}}}`{{=latex}}",
-            md_text,
-        )
-        if n:
+        counted = [0]
+
+        def replace(m, _f=font_cmd, _p=prep, _n=counted):
+            if m.group("code") is not None:
+                return m.group(0)
+            _n[0] += 1
+            return f"`{{{_f} {_p(m.group('hit'))}}}`{{=latex}}"
+
+        md_text = re.compile(
+            f"(?P<code>{_MD_CODE_SPAN})|(?P<hit>{pattern.pattern})", re.S
+        ).sub(replace, md_text)
+        if counted[0]:
             fired.add(font_cmd)
     _assert_script_fonts_declared(fired)
     return md_text

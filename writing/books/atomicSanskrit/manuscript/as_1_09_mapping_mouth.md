@@ -431,7 +431,7 @@ A **sonomer** is that measured sound-particle. An **audiograph** is the written 
 
 The वर्णमाला (*varṇamālā*) orders those sounds by the way the mouth produces them. It moves from throat to lip, distinguishes full contact from open tone and turbulent breath, and records short and long duration. Alphabetical order such as *a, b, c* does not display a comparable physical map.
 
-The sound-grid therefore comes first. A script gives that grid a visible interface, just as written digits give the place-value system a visible form. The marks can change without changing the architecture they represent. The infinity glyph `∞` likewise makes the unbounded easier to write; the symbol did not invent the idea of infinity.
+The sound-grid therefore comes first. A script gives that grid a visible interface, just as written digits give the place-value system a visible form. The marks can change without changing the architecture they represent. The infinity glyph ∞ likewise makes the unbounded easier to write; the symbol did not invent the idea of infinity.
 
 When the pyramid files the architecture under its interface and calls it an alphabet, वर्ण (*varṇa*) becomes “letter,” अक्षर (*akṣara*) becomes “syllable-sign,” and the sonomeric grid becomes an ABC. The written marks remain visible while the physical order beneath disappears from view. The interface eclipses the architecture.
 

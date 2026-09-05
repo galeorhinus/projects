@@ -76,7 +76,7 @@ The great innovation was that prior sound architecture, not the glyph. Brāhmī 
 
 The place-value system provides a familiar parallel. Its architecture makes position determine value and therefore needs a way to hold an empty position. The physical symbol for zero answers that need. The mark is a consequence of the decimal place-value architecture; it did not create that architecture. Another shape could perform the same function.
 
-The infinity glyph provides a second example. The mark `∞` makes the unbounded easier to write, but it did not make the unbounded thinkable. Sanskrit already expresses that idea through पूर्णम् (*pūrṇam*), अनादि (*anādi*), and अनन्त (*ananta*).
+The infinity glyph provides a second example. The mark ∞ makes the unbounded easier to write, but it did not make the unbounded thinkable. Sanskrit already expresses that idea through पूर्णम् (*pūrṇam*), अनादि (*anādi*), and अनन्त (*ananta*).
 
 Brāhmī stands in the same relationship to Sanskrit's sound architecture. The sonomeric grid and the अक्षर (*akṣara*) exist first. लिपि (*Lipi*) then gives their pronounced forms visible marks.
 
