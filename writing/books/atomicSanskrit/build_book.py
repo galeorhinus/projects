@@ -82,6 +82,7 @@ import argparse
 import datetime
 import os
 import pty
+import json
 import re
 import select
 import shutil
@@ -233,7 +234,9 @@ LAYOUTS = {
     "b5": {
         "geometry": "b5paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
         "fontsize": "10.5pt",
-        "appendix_fontsize": "9.5pt",
+        "linestretch": "1.10",
+        "appendix_fontsize": "9.75pt",
+        "appendix__linestretch": "1.05",
         "endnotes_fontsize": "9pt",
         "endnotes_linestretch": "1.0",
         "chapter_folio": False,
@@ -1115,6 +1118,23 @@ def cmd_grayscale_images(force: bool = False) -> int:
 NOTE_MARKER_RE = re.compile(r"\[NOTE:\s*([a-z0-9_-]+)\s*\]")
 
 
+# Written by the book build, read by the companion build. The companion never
+# assembles the book's body, so it cannot derive these numbers itself: they
+# come from the order [NOTE: ...] markers first appear in the running text.
+NOTE_NUMBER_MAP = BUILD_DIR / "note_numbers.json"
+
+
+def write_note_number_map(notes: list[tuple[int, str]]) -> None:
+    """Record stub -> printed note number so the companion can cite the same
+    numbers the book prints."""
+    NOTE_NUMBER_MAP.parent.mkdir(parents=True, exist_ok=True)
+    NOTE_NUMBER_MAP.write_text(json.dumps({
+        "generated": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
+        "count": len(notes),
+        "notes": {stub: number for number, stub in notes},
+    }, indent=2) + "\n")
+
+
 def number_note_markers(md_text: str, start: int = 1) -> tuple[str, list[tuple[int, str]]]:
     """Replace inline [NOTE: stub-name] markers with numbered references.
     Repeated stub names reuse their first number. Returns processed text and
@@ -1672,6 +1692,7 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
         if Path(filename).name == "as_endnotes.md":
             body_so_far = "".join(chunks)
             numbered_body, notes = number_note_markers(body_so_far)
+            write_note_number_map(notes)
             chunks[:] = [numbered_body]
             unified = render_unified_endnotes(notes, mode=endnotes_mode)
             if unified:
@@ -2226,12 +2247,46 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     # chapter so the level hierarchy is # Endnotes → ## stub-name, not the
     # gapped # Endnotes → ### stub-name. Use a careful regex that only
     # matches entry headings (`### \`stub\``), not arbitrary ### usage.
+    # Cite the same numbers the book prints. A reader holding the printed
+    # volume has a number, not a stub name, and hunting a hyphenated slug
+    # through 200-odd pages is not a cross-reference. The book's numbering is
+    # authoritative, so read its map rather than re-deriving it here: the
+    # numbers come from marker order in the assembled body, which this build
+    # never produces.
+    if not NOTE_NUMBER_MAP.exists():
+        print(f"Missing {NOTE_NUMBER_MAP.relative_to(BOOK_DIR)} — the note "
+              "numbers come from the book build.\n"
+              "Run:  python build_book.py assemble   (or any book pdf build)\n"
+              "first, then rebuild the companion.", file=sys.stderr)
+        return 1
+    number_map = json.loads(NOTE_NUMBER_MAP.read_text())
+    numbers = number_map["notes"]
+    uncited = []
+
+    def promote(match: re.Match) -> str:
+        stub = match.group(1).strip("`")
+        number = numbers.get(stub)
+        if number is None:
+            # An entry the book never cites has no number to share. Print it
+            # rather than failing — the corpus is allowed to hold material the
+            # main text does not point at — but say how many, so a marker that
+            # went missing from a chapter does not pass unnoticed.
+            uncited.append(stub)
+            return f"## {match.group(1)}"
+        return f"## [{number}] {match.group(1)}"
+
     entries_body = re.sub(
         r"^### (`[a-z0-9_-]+`)\s*$",
-        r"## \1",
+        promote,
         entries_body,
         flags=re.MULTILINE,
     )
+    print(f"  note numbers: {len(numbers)} from the book build of "
+          f"{number_map['generated']}")
+    if uncited:
+        print(f"  {len(uncited)} entr{'y' if len(uncited) == 1 else 'ies'} not "
+              f"cited by the book — printed unnumbered: "
+              f"{', '.join(uncited[:4])}{' …' if len(uncited) > 4 else ''}")
 
     # The source uses thematic breaks to delimit endnote records. In the
     # reference PDF, the promoted entry heading and its vertical spacing
