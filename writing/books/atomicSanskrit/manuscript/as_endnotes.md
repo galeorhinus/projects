@@ -2420,7 +2420,7 @@ Sources: Sampadananda Mishra, [“Is Sanskrit Relevant Today?”](https://renais
 
 **Short:** Yāska (*Nirukta* 7.15) derives *deva* from action — *dānāt* (giving), *dīpanāt* (kindling), *dyotanāt* (illumining) — with a fourth, locational derivation, *dyusthānaḥ* (abiding in the bright realm).
 
-**Status:** Supporting source entry; no separate body marker.
+**Status:** Parked — its supporting parent, `deva-sur-div-radiance-field`, has no current manuscript deployment. Retained with that note as source material.
 
 **Deployments:** Supports `deva-sur-div-radiance-field`, which uses Yāska's derivations of *deva*.
 

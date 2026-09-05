@@ -2194,6 +2194,7 @@ def section_join(sections: list[str]) -> list[str]:
 
 _ENTRY_HEADING_RE = re.compile(r"^### (`[a-z0-9_-]+`)\s*$", re.M)
 _ENTRY_STATUS_RE = re.compile(r"^\*\*Status:\*\*\s*(\w+)", re.M)
+_ENTRY_STATUS_RE_FULL = re.compile(r"^\*\*Status:\*\*\s*(.+)$", re.M)
 _ENTRY_DEPLOY_RE = re.compile(r"^\*\*Deployments:\*\*\s*(.+)$", re.M)
 _STUB_REF_RE = re.compile(r"`([a-z0-9_-]+)`")
 # Statuses that keep an entry out of the companion entirely.
@@ -2230,7 +2231,7 @@ def select_companion_entries(entries_body: str, numbers: dict[str, int]):
     children: dict[str, list[str]] = {}
     omitted: list[str] = []
     unexplained: list[str] = []
-    unanchored: list[tuple[str, str]] = []
+    skipped: list[tuple[str, str]] = []
 
     for stub, body in bodies.items():
         number = numbers.get(stub)
@@ -2255,13 +2256,27 @@ def select_companion_entries(entries_body: str, numbers: dict[str, int]):
         else:
             unexplained.append(stub)
 
-    # A supporting entry whose parent is itself unprinted has nothing to sit
-    # under. Print it at the end rather than dropping it, and report it: the
-    # parent was probably parked after this entry was written for it.
+    # A supporting entry whose parent is not printed has nothing to sit under,
+    # and printing it alone would put internal research inventory in a reader's
+    # volume. Skip it — but say so, because a supporting entry orphaned by its
+    # parent being parked is a broken citation chain, not a clean omission.
     for parent in list(children):
         if parent not in cited:
             for stub in children.pop(parent):
-                unanchored.append((stub, parent))
+                skipped.append((stub, parent))
+
+    # The same break reached from the other side: an entry parked *because* its
+    # parent was parked names that parent in its Status line. Report it in the
+    # same words, so the chain is visible however it came to be broken.
+    for stub in omitted:
+        found = _ENTRY_STATUS_RE_FULL.search(bodies[stub])
+        parent = next(
+            (ref for ref in _STUB_REF_RE.findall(found.group(1) if found else "")
+             if ref in bodies and ref != stub and ref not in cited),
+            "",
+        )
+        if parent:
+            skipped.append((stub, parent))
 
     out = [lead] if lead.strip() else []
     supporting = 0
@@ -2273,12 +2288,7 @@ def select_companion_entries(entries_body: str, numbers: dict[str, int]):
             for kid in kids:
                 out.append(f"#### `{kid}`\n\n{bodies[kid].strip()}\n\n")
                 supporting += 1
-    if unanchored:
-        out.append("## Supporting Sources Without a Cited Parent\n\n")
-        for stub, _parent in unanchored:
-            out.append(f"### `{stub}`\n\n{bodies[stub].strip()}\n\n")
-            supporting += 1
-    return "".join(out), len(cited), supporting, omitted, unexplained, unanchored
+    return "".join(out), len(cited), supporting, omitted, unexplained, skipped
 
 
 def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS_PAGES) -> int:
@@ -2351,7 +2361,7 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     number_map = json.loads(NOTE_NUMBER_MAP.read_text())
     numbers = number_map["notes"]
 
-    entries_body, kept, supporting, omitted, unexplained, unanchored = \
+    entries_body, kept, supporting, omitted, unexplained, skipped = \
         select_companion_entries(entries_body, numbers)
     if unexplained:
         print(
@@ -2370,12 +2380,9 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     print(f"  endnote entries: {kept} in note order 1-{kept} from the book "
           f"build of {number_map['generated']}, {supporting} supporting, "
           f"{len(omitted)} parked or retired")
-    for stub, parent in unanchored:
-        print(f"  WARNING: supporting entry {stub} names {parent or '(no parent)'} "
-              "as the entry that depends on it, but that entry is not printed "
-              "here.")
-        print("           Printed at the end instead. Either unpark the parent "
-              "or park this entry with it.")
+    for stub, parent in skipped:
+        print(f"  Skipped supporting note {stub}:")
+        print(f"    parent {parent} is parked.")
 
     # The source uses thematic breaks to delimit endnote records. In the
     # reference PDF, the promoted entry heading and its vertical spacing
