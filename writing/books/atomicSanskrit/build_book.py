@@ -113,7 +113,6 @@ LATEX_STRIKEOUT_FILTER = BOOK_DIR / "filters" / "latex-strikeout.lua"
 # cosmetic problem, in two-column mode.
 LATEX_ENDNOTE_TABLES_FILTER = BOOK_DIR / "filters" / "endnote-tables-twocolumn.lua"
 LATEX_SHORT_FIGURE_CAPTIONS_FILTER = BOOK_DIR / "filters" / "latex-short-figure-captions.lua"
-LATEX_BREAKABLE_CODE_FILTER = BOOK_DIR / "filters" / "latex-breakable-code.lua"
 
 # Reuse the existing figure lineage comment writer. The helper lives under
 # figures/_shared, so expose figures/ as an import root for this script.
@@ -252,6 +251,16 @@ LAYOUTS = {
         "endnotes_linestretch": "1.0",
         "chapter_folio": False,
     },
+    "a5": {
+        "geometry": "a5paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
+        "fontsize": "10.5pt",
+        "linestretch": "1.10",
+        "appendix_fontsize": "9.75pt",
+        "appendix__linestretch": "1.05",
+        "endnotes_fontsize": "9pt",
+        "endnotes_linestretch": "1.0",
+        "chapter_folio": False,
+    },
     # ~4.5x7.5 text block centered on 8.5x11 — book-page mock-up on letter paper.
     "book-on-letter": {
         "geometry": "paperwidth=8.5in,paperheight=11in,textwidth=4.75in,textheight=8.0in,centering",
@@ -289,13 +298,26 @@ PUBLICATIONS = {
         # entry under by_layout to differ.
         "fontsize": "11pt",
         "defer_mainmatter": False,
-        # The endnotes are 80% of the volume (188 of 236 pages) and are the
-        # part with the measure problem; the reference appendices ahead of them
-        # stay single-column because their tables need longtable to break
-        # across pages.
-        "endnotes_twocolumn": True,
+        # Declared here so the book's choices cannot leak in. Layout keys
+        # resolve before publication ones, and LAYOUTS["b5"] carries appendix
+        # and endnote sizes picked for the book, which a b5 companion would
+        # otherwise inherit without anyone deciding it should.
+        "appendix_fontsize": None,
+        "endnotes_fontsize": None,
+        # Two columns are a property of the measure, not of the volume, so
+        # they belong per page size rather than here. Halving a 180mm A4 text
+        # block gives a 55-character column; halving a 6in trade block gives
+        # 35, which is as unreadable as the 108 the columns were meant to fix.
+        # On only where a column still clears about 45 characters; a new page
+        # size therefore starts single-column until someone measures it.
+        "endnotes_twocolumn": False,
         "by_layout": {
-            "b5": {"linestretch": "1.10"},
+            "b5": {
+                "linestretch": "1.10",
+                # 203pt column: 10pt keeps it near 47 characters.
+                "endnotes_fontsize": "10pt",
+                "endnotes_twocolumn": True,
+            },
             "a4": { "geometry": "a4paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
                     "fontsize": "11pt",
                     # Appendices keep the body size — they are single-column
@@ -305,7 +327,11 @@ PUBLICATIONS = {
                     # line are what buy the room.
                     "appendix_fontsize": None,
                     "endnotes_fontsize": "10.5pt",
+                    "endnotes_twocolumn": True,
                 },
+            # 230pt and 257pt columns — 48 and 54 characters.
+            "letter": {"endnotes_twocolumn": True},
+            "trade-crop": {"endnotes_twocolumn": True},
         },
     },
 }
@@ -2186,7 +2212,6 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         "--include-before-body", str(BOOK_DIR / "templates" / "review-frontmatter.tex"),
         "--lua-filter", str(LATEX_SHORT_FIGURE_CAPTIONS_FILTER),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
-        "--lua-filter", str(LATEX_BREAKABLE_CODE_FILTER),
         # Layout geometry and fontsize are layout-specific (CLI-driven), so
         # they stay outside YAML.
         "-V", f"geometry:{geometry}",
@@ -2532,7 +2557,6 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         "--pdf-engine=xelatex",
         "--metadata-file", str(REFERENCE_METADATA_FILE),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
-        "--lua-filter", str(LATEX_BREAKABLE_CODE_FILTER),
         *(("--lua-filter", str(LATEX_ENDNOTE_TABLES_FILTER))
           if setting("companion", layout, "endnotes_twocolumn") else ()),
         "-V", f"geometry:{geometry}",
@@ -2612,7 +2636,6 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
         "-o", str(pdf_path),
         "--pdf-engine=xelatex",
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
-        "--lua-filter", str(LATEX_BREAKABLE_CODE_FILTER),
         "-V", f"geometry:{setting('book', layout, 'geometry')}",
         "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),
