@@ -2,9 +2,7 @@
 
 Appendix Part 8 §8.5 begins its *leṭ* analysis with **ब्रवाणि (*bravāṇi*)** from Ṛgveda 6.16.16. The mantra uses it as ***लेट् (*leṭ*)***, although the same visible form belongs to ***लोट् (*loṭ*)*** in *laukika* Sanskrit used for new composition. The appendix then places it beside **तारिषत् (*tāriṣat*)** from Ṛgveda 10.186.1, where *leṭ* adds a desired or prospective force without producing the same visible collision.
 
-Together, the two passages show the benefit and the cost of the additional Vedic *lakāra*. The *laukika* domain expresses much of the same range through *loṭ*, ***लिङ् (*liṅ*)***, ***आशीर्लिङ् (*āśīrliṅ*)***, and ***लृट् (*lṛṭ*)***. This appendix compares all eighteen person-number-*pada* coordinates to see what would happen if *leṭ* also operated as a complete paradigm available for new *laukika* composition.
-
-The result has two parts. Exact formal collisions cluster in the first person, where *laukika loṭ* and Vedic *leṭ* use the same forms. Semantic overlap is much wider because Pāṇini explicitly assigns *leṭ* to meanings also served by *liṅ*. The evidence supports the coordinate test as an architectural inference. It does not prove why Sanskrit's engineers selected this division between the two domains.
+Together, the two passages show the benefit and cost of the additional Vedic *lakāra*. The *laukika* domain expresses much of the same range through *loṭ*, ***लिङ् (*liṅ*)***, ***आशीर्लिङ् (*āśīrliṅ*)***, and ***लृट् (*lṛṭ*)***. This appendix compares all eighteen person-number-*pada* coordinates to test what would happen if *leṭ* also became available for new *laukika* composition.
 
 ## What the Vedic Passages Preserve
 
@@ -103,9 +101,7 @@ The evidence supports four findings:
 3. **The semantic overlap is broad.** Pāṇini directly relates *leṭ* to *liṅ* meanings, while *laukika* Sanskrit also uses *loṭ, āśīrliṅ,* and *lṛṭ* across adjacent territory.
 4. **Pitch and the fixed passage bound the ambiguity.** The Vedic pitch system contributes an audible layer of grammatical interpretation. The words, syntax, sequence, and inherited meaning remain fixed with it. Unrestricted *laukika* composition would have to recover the intended analysis in newly created sentences without that pitch layer.
 
-The pattern makes *leṭ* a strong example of domain-specific engineering. The read-only domain can sustain greater grammatical breadth because pitch and the invariant passage keep that breadth bounded. The read-write domain operates without the Vedic pitch layer and avoids carrying a complete additional paradigm whose unique benefit is limited, whose meanings overlap with existing resources, and whose first-person forms can be identical to *loṭ* forms used in new composition.
-
-The surviving sources do not record the engineers' reason for keeping *leṭ* within Vedic scope. The architecture nevertheless permits a direct comparison of benefit and confusion. A reusable element must contribute enough distinctive value to justify the ambiguity and complexity it adds. *Leṭ* provides useful grammatical range inside invariant Vedic passages; across unrestricted *laukika* composition, it would repeatedly collide with forms and meanings already expressed through the *laukika* system.
+The read-only Vedic domain can carry this additional range because pitch and the invariant passage help identify each form. New *laukika* composition does not have that Vedic pitch layer. A complete reusable *leṭ* paradigm would therefore add meanings already served elsewhere and first-person forms that can become identical to *loṭ*. The sources do not state why *leṭ* remained in Vedic scope; the coordinate test shows the architectural consequence.
 
 ## Sources
 

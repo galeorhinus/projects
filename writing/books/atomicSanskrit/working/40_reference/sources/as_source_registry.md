@@ -1576,7 +1576,7 @@ do not silently omit the gap.
 - **Local record:** `working/40_reference/sources/archive/web/ch4-secular-eschatology/scriptural-mapping/`
 - **Integrity:** SHA-256: Deuteronomy 7:6 `3f16b38ac12f624a272727e337b7f67fd49fc0aad062ab13811f85f46bc0ae30`; Isaiah 11 `3bbb8bf783668c8045e49ecaa4829148bb8b5c63bc20f0700d41e5eeeb2c65b2`; Matthew 28:19-20 `cf4e7453c76fad8af6bb3172d445a968d997a43aa3e9b653303a4c103094fe87`; Revelation 20 `d2007180a034f779a04df07bb7b3d8cd73305074da688180e94eb2ea6f7e7990`; Revelation 21 `fc622f0da2937b5e40eef54759abeedb2a23609af0e5f385cdedbcd4e875f005`; Quran 3:110 `26ae635714d42a221be18e6a3816506e0250df1354f7b155ef155fd259564d74`; Quran 75 `afd8d4876e595e28b8f8dbd143e650ca9258ae4f04a915788824844f27bd4d7a`.
 - **Rights/storage:** Public-domain Bible text and public Quran API research captures.
-- **Notes:** The passages anchor the chosen-community, Christian-mission, and eschatology columns in Figures 4.1a-b. Judaism's covenantal boundary is not a universal conversion command.
+- **Notes:** The passages anchor the chosen-community, Christian-mission, and eschatology entries in Chapter 4's seven comparison cards. Judaism's covenantal boundary is not a universal conversion command.
 
 ### `lemaitre-hawking-cosmology-creation`
 
@@ -3735,6 +3735,19 @@ do not silently omit the gap.
 - **Rights/storage:** Public digital interface.
 - **Notes:** Defines the उपसर्ग (*upasarga*) designation in combination with action.
 
+### `namami-upasarga-sanskrit-language`
+
+- **Citation:** Subhendu Manna, "Upasarga in Sanskrit Language," *Samīkṣikā Series* 11, Government of India NAMAMI publication, p. 141 onward.
+- **Source type:** Government-hosted scholarly article in a collected PDF.
+- **Canonical locator:** Article "Upasarga in Sanskrit Language"; discussion of the twenty उपसर्गाः (*upasargāḥ*) and the conditioned forms of **निस् / निर् (*nis / nir*)** and **दुस् / दुर् (*dus / dur*)**.
+- **Digital URL:** https://namami.gov.in/sites/default/files/book_pdf/Samiksika%20Series%2011.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-06.
+- **Local record:** Pending capture; the government host was unavailable during the glossary audit.
+- **Integrity:** Pending capture.
+- **Rights/storage:** Government-hosted research publication; metadata and route retained.
+- **Notes:** Used to distinguish the twenty-item grammatical inventory from teaching and analysis lists that print conditioned forms as separate labels.
+
 ### `zanchi-multiple-preverbs-2019`
 
 - **Citation:** Chiara Zanchi, *Multiple Preverbs in Ancient Indo-European Languages* (University of Würzburg project and published research, 2019).
@@ -4514,6 +4527,45 @@ do not silently omit the gap.
 - **Integrity:** No local file.
 - **Rights/storage:** Exact Government of India repository URL retained.
 - **Notes:** Supplies detail behind the official institutional chronology.
+
+### `bhandarkar-wilson-lectures-1877`
+
+- **Citation:** R. G. Bhāṇḍārkar, *Wilson Philological Lectures on Sanskrit and the Derived Languages*, delivered in 1877 (Bombay, collected edition, 1914).
+- **Source type:** Public-domain book scan.
+- **Canonical locator:** Preface; Lecture I, especially printed pp. 5 and 15–16.
+- **Digital URL:** https://upload.wikimedia.org/wikipedia/commons/d/d1/Wilson_philological_lectures_on_Sanskrit_and_the_derived_languages_delivered_in_1877_%28IA_wilsonphilologic00bhaniala%29.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-05.
+- **Local record:** Not retained; stable public-domain scan URL recorded.
+- **Integrity:** No local file.
+- **Rights/storage:** Public-domain scan.
+- **Notes:** Bhāṇḍārkar states that he follows a historical method. Lecture I discusses phonetic decay, the Aryan or Indo-European family, and change within Vedic Sanskrit.
+
+### `bhandarkar-critical-comparative-method-1888`
+
+- **Citation:** R. G. Bhāṇḍārkar, *The Critical, Comparative, and Historical Method of Inquiry, as Applied to Sanskrit Scholarship and Philology and Indian Archaeology* (Bombay: Nirnaya-sagara Press, 1888).
+- **Source type:** Public-domain book scan.
+- **Canonical locator:** Title page and address title.
+- **Digital URL:** https://www.rarebooksocietyofindia.org/book_archive/196174216674_10151875237406675.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-05.
+- **Local record:** Not retained; stable public-domain scan URL recorded.
+- **Integrity:** No local file.
+- **Rights/storage:** Public-domain scan.
+- **Notes:** Records Bhāṇḍārkar's explicit presentation of the critical, comparative, and historical method as a method for Sanskrit scholarship.
+
+### `marathi-vishwakosh-satavalekar`
+
+- **Citation:** Marathi Vishwakosh, “Sātavaḷekar, Śrīpād Dāmodar.”
+- **Source type:** State encyclopedia biographical entry.
+- **Canonical locator:** The paragraphs covering *Vaidika Rāṣṭragīta*, *Vaidika Prārthanāñcī Tejasvitā*, British confiscation and burning, imprisonment, the 1918 founding of Swādhyāya Maṇḍala, and the approximately four hundred published books.
+- **Digital URL:** https://vishwakosh.marathi.gov.in/25490/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-05.
+- **Local record:** Not retained; the source was inspected through its live digital record because direct archival retrieval failed.
+- **Integrity:** No local file.
+- **Rights/storage:** Exact Maharashtra state encyclopedia URL retained.
+- **Notes:** Supports the Appendix Part 1 contrast between Bhāṇḍārkar's imperial elevation and Sātavaḷekar's Vedic work under colonial suppression.
 
 ### `bori-institutional-history`
 

@@ -113,6 +113,7 @@ LATEX_STRIKEOUT_FILTER = BOOK_DIR / "filters" / "latex-strikeout.lua"
 # cosmetic problem, in two-column mode.
 LATEX_ENDNOTE_TABLES_FILTER = BOOK_DIR / "filters" / "endnote-tables-twocolumn.lua"
 LATEX_SHORT_FIGURE_CAPTIONS_FILTER = BOOK_DIR / "filters" / "latex-short-figure-captions.lua"
+LATEX_BREAKABLE_CODE_FILTER = BOOK_DIR / "filters" / "latex-breakable-code.lua"
 
 # Reuse the existing figure lineage comment writer. The helper lives under
 # figures/_shared, so expose figures/ as an import root for this script.
@@ -2185,6 +2186,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         "--include-before-body", str(BOOK_DIR / "templates" / "review-frontmatter.tex"),
         "--lua-filter", str(LATEX_SHORT_FIGURE_CAPTIONS_FILTER),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
+        "--lua-filter", str(LATEX_BREAKABLE_CODE_FILTER),
         # Layout geometry and fontsize are layout-specific (CLI-driven), so
         # they stay outside YAML.
         "-V", f"geometry:{geometry}",
@@ -2530,6 +2532,7 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         "--pdf-engine=xelatex",
         "--metadata-file", str(REFERENCE_METADATA_FILE),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
+        "--lua-filter", str(LATEX_BREAKABLE_CODE_FILTER),
         *(("--lua-filter", str(LATEX_ENDNOTE_TABLES_FILTER))
           if setting("companion", layout, "endnotes_twocolumn") else ()),
         "-V", f"geometry:{geometry}",
@@ -2609,6 +2612,7 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
         "-o", str(pdf_path),
         "--pdf-engine=xelatex",
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
+        "--lua-filter", str(LATEX_BREAKABLE_CODE_FILTER),
         "-V", f"geometry:{setting('book', layout, 'geometry')}",
         "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),
