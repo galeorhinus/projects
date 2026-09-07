@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Cleaned from the Adobe Illustrator export. Production geometry: two ISO B5
-     panels (176 x 250 mm), a provisional 28 mm spine, and 3 mm outer bleed.
+     panels (176 x 250 mm), a provisional 26.4 mm spine for the 500-page
+     75 gsm body, and 3 mm outer bleed.
      Recalculate the spine from the printer's final paper and binding specification. -->
 <svg version="1.1" id="as-book-b5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="386mm" height="256mm" viewBox="-8.5039 -8.5039 1094.2078 725.7078" style="enable-background:new -8.5039 -8.5039 1094.2078 725.7078;" xml:space="preserve">
+	 width="384.4mm" height="256mm" viewBox="-8.5039 -8.5039 1089.6724 725.7078" style="enable-background:new -8.5039 -8.5039 1089.6724 725.7078;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFF6E1;}
 	.st1{fill:#ECE4D3;stroke:#9A7833;stroke-width:1.1754;}
@@ -48,7 +49,7 @@
 	.st43{fill:none;stroke:#7C5E29;stroke-width:1.4038;}
 	.st44{font-size:10.9989px;}
 </style>
-<rect id="bleed-background" x="-8.5039" y="-8.5039" class="st0" width="1094.2078" height="725.7078"/>
+<rect id="bleed-background" x="-8.5039" y="-8.5039" class="st0" width="1089.6724" height="725.7078"/>
 <g id="back">
 	<g id="cov-bk-l-f">
 		<rect y="0" class="st0" width="498.9" height="708.7"/>
@@ -398,8 +399,8 @@
 		<text transform="matrix(1 0 0 1 249.45 680.3147)" text-anchor="middle" class="st18 st15 st19">Text and pagination may change before publication.</text>
 	</g>
 </g>
-<g id="spine_2_">
-	<rect id="spine_3_" x="496.1" class="st0" width="85" height="708.7"/>
+<g id="spine_2_" transform="translate(-2.2677 0)">
+	<rect id="spine_3_" x="498.3677" class="st0" width="80.4646" height="708.7"/>
 	<text transform="matrix(0 1 -1 0 528.9907 255.118)" class="st20"><tspan x="0" y="0" class="st21 st3 st22">Atomic</tspan><tspan dx="8" class="st23 st3 st22">Sanskrit</tspan></text>
 	<text transform="matrix(0 1 -1 0 533.1874 538.5828)" class="st23 st12 st24">Parag Tope</text>
 	<text transform="matrix(0 1 -1 0 534.3862 91.572)" class="st25 st15 st26">Second Shanti · 1</text>
@@ -414,7 +415,7 @@
 			l-4.3-2.5 M408.8-123.9h-8 M410.9-116.4l-4.3,2.5 M416.4-110.9l-4,7 M423.9-108.9v4.9 M431.4-110.9l4,7 M436.8-116.4l4.3,2.5"/>
 	</g>
 </g>
-<g id="front">
+<g id="front" transform="translate(-4.5354 0)">
 	<rect id="front_1_" x="578.3" class="st0" width="498.9" height="708.7"/>
 	<g id="text_and_icons_2_">
 		<text transform="matrix(1 0 0 1 773.6572 279.4623)" class="st21 st3 st32">Atomic</text>
