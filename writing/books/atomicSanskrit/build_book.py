@@ -2234,6 +2234,40 @@ _STUB_REF_RE = re.compile(r"`([a-z0-9_-]+)`")
 _COMPANION_OMITTED_STATUS = {"Parked", "Retired"}
 
 
+def _entry_heading(command: str, label: str, stub: str) -> str:
+    """A companion entry heading whose stub-name may break across lines.
+
+    38% of entry headings are wider than a two-column measure, and the worst
+    ran off the page edge, because \\texttt is an unbreakable box. url.sty's
+    \\path breaks at the separators without inserting a hyphen, so nothing is
+    added that could be misread as part of the identifier.
+
+    \\path cannot go everywhere the heading goes, which is why this is emitted
+    whole rather than left to the inline-code filter: the optional argument
+    keeps the .toc copy plain (entries sit below toc-depth and are never
+    printed, but LaTeX still writes them), and \\texorpdfstring keeps the PDF
+    bookmark plain, which is what the reader navigates by. Only the typeset
+    heading gets the breakable form.
+    """
+    plain = f"{label}{stub}"
+    # \path was the first attempt and is not enough by itself: url.sty offers
+    # its breaks at a penalty, and inside a heading TeX prefers an overfull
+    # line to taking one, so the longest stub-names still ran into the
+    # neighbouring column. \allowbreak is penalty zero, which TeX takes
+    # rather than overrun, and adds no hyphen that could be misread as part
+    # of the identifier.
+    marked = stub.replace("-", "-\\allowbreak{}").replace("_", "_\\allowbreak{}")
+    # \raggedright is the third of three needed pieces. With a justified
+    # heading TeX weighs the break against the badness of a short first
+    # line, decides the stretch is worse than the overrun, and keeps the
+    # overfull box; ragged setting makes any break free, so the penalty-zero
+    # opportunities above are actually taken.
+    breakable = f"\\raggedright {label}\\texttt{{{marked}}}"
+    return ("```{=latex}\n"
+            f"\\{command}[{{{plain}}}]{{\\texorpdfstring{{{breakable}}}{{{plain}}}}}\n"
+            "```\n\n")
+
+
 def select_companion_entries(entries_body: str, numbers: dict[str, int]):
     """Order and filter the endnote corpus for the companion.
 
@@ -2314,12 +2348,14 @@ def select_companion_entries(entries_body: str, numbers: dict[str, int]):
     out = [lead] if lead.strip() else []
     supporting = 0
     for stub, number in sorted(cited.items(), key=lambda item: item[1]):
-        out.append(f"## [{number}] `{stub}`\n\n{bodies[stub].strip()}\n\n")
+        out.append(_entry_heading("section", f"[{number}] ", stub))
+        out.append(f"{bodies[stub].strip()}\n\n")
         kids = children.get(stub, [])
         if kids:
             out.append("### Supporting Sources\n\n")
             for kid in kids:
-                out.append(f"#### `{kid}`\n\n{bodies[kid].strip()}\n\n")
+                out.append(_entry_heading("subsubsection", "", kid))
+                out.append(f"{bodies[kid].strip()}\n\n")
                 supporting += 1
     return "".join(out), len(cited), supporting, omitted, unexplained, skipped
 

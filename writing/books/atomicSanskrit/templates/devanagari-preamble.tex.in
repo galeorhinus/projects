@@ -54,6 +54,14 @@ __MAINMATTER_DEFERRAL__
 % removes that trigger while the output still uses \toprule and friends.
 % Loading it here is a no-op when pandoc has already done so.
 \usepackage{booktabs}
+% url.sty, which supplies \path, offers no break after a hyphen or
+% underscore by default -- and every endnote stub-name is hyphen-separated,
+% so \path alone still left most of them as unbreakable boxes running into
+% the neighbouring column. Added at begin-document because header-includes
+% may be read before hyperref has pulled url.sty in.
+\makeatletter
+\AtBeginDocument{\@ifundefined{UrlBreaks}{}{\g@addto@macro\UrlBreaks{\do\-\do\_}}}
+\makeatother
 __BACKMATTER_SIZES__
 
 % Chapter-opening folio. book-class chapter, part and contents openers all
