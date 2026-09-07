@@ -1,431 +1,482 @@
 # Appendix Part 10 — Glossary
 
-> A reference for the book's technical vocabulary. Each entry flags whether the term is **standard** Sanskrit usage, the book's **coinage** (an English or compound-Sanskrit term newly coined for a specific technical sense), or **repurposed** (a standard word deployed with a specific technical meaning the book makes operative). Pāṇinian / निरुक्त (*Nirukta*) / Monier-Williams citations are given where applicable.
+> This glossary is a reference for the book's technical vocabulary. Each definition identifies the term as **standard**, **book-coined**, **book-controlled**, or **repurposed** for a specific technical use. The chapters and endnotes provide the evidence behind the definitions.
 
-## A Note on Restored Terms
+## Why This Book Coins Terms
 
-This book coins English terms only where English has already displaced a Sanskrit category. The coinage is not decoration. It is repair.
+This book coins English terms where English has displaced a Sanskrit category or left an important part of the architecture unnamed. The coinage is not decoration. It is repair.
 
-Although the Sanskrit terms already exist, English habits have trained even Sanskrit-literate readers to translate precise architectural categories like वर्ण (*varṇa*), अक्षर (*akṣara*), and धातुः (*dhātuḥ*) into smaller, misleading words—reducing वर्ण (*varṇa*) to "sound," "letter," or "phoneme," अक्षर (*akṣara*) to "letter" or "alphabet," and धातुः (*dhātuḥ*) to a botanical unit.
+English habits have trained even Sanskrit-literate readers to translate वर्ण (*varṇa*), अक्षर (*akṣara*), and धातुः (*dhātuḥ*) into smaller and often misleading words. *Letter* makes writing primary where sound must remain primary. *Alphabet* hides the anatomical grid. *Root* moves Sanskrit's semantic atom into a botanical metaphor.
 
-These substitutions actively harm the reader's understanding, as the botanical substitute imports the plant metaphor into Sanskrit's semantic atom, "letter" makes script primary where sound must remain primary, and "alphabet" hides the sonomeric grid, guaranteeing that each mistranslation moves the reader into the wrong architecture before the argument even begins.
+The book's coined terms lead the reader back to Sanskrit's own categories. **Sonomer** names the reusable sound-particle Sanskrit calls वर्ण (*varṇa*). **Audiograph** names the visible rendering of an अक्षर (*akṣara*). **Atom** names the sustaining semantic constituent Sanskrit calls धातुः (*dhātuḥ*). The purpose is to stop English from flattening the architecture before the inquiry begins.
 
-The book's coined terms are therefore bridges back to Sanskrit's own categories. **Sonomer** is the measured sound-particle Sanskrit calls वर्ण (*varṇa*). **Audiograph** is the visible rendering of an अक्षर (*akṣara*). **Atom** is the sustaining semantic constituent Sanskrit calls धातुः (*dhātuḥ*). The purpose is not novelty. The purpose is to make English stop flattening Sanskrit.
+The glossary is organized by the work each term performs:
 
-The glossary is organized in three groups:
+1. **Sound and script architecture**
+2. **Atomic and grammatical architecture**
+3. **Language behavior and radiance**
+4. **Preservation and calibrant architecture**
+5. **Sanskrit and civilizational vocabulary**
+6. **Diagnostic vocabulary**
 
-1. **Engineering core vocabulary** — the chemistry idiom the book uses across chapters.
-2. **Technical Sanskrit vocabulary** — standard grammatical and śāstric terms whose precise meanings support the diagnosis.
-3. **Diagnostic vocabulary** — the cluster terms the book uses for the pyramid and its formations.
+## Index of Book-Coined Terms
+
+This index records the book's new words and coined technical phrases. Their definitions appear in the conceptual sections named after each group.
+
+- **sonomer**, **sonomeric**, and **off-grid sonance** — Sound and script architecture
+- **धातुरचना (*dhāturacanā*)**, in the book's technical sense, and **atomic scaffold** — Atomic and grammatical architecture
+- **audiograph** and **Audiography** — Sound and script architecture
+- **Radiance Thesis** — Language behavior and radiance
+- **calibrant contact** — Language behavior and radiance
+- **PASS: the Principle of Architectural Selection and Scope** — Language behavior and radiance
+- **vivimorphosis** — Language behavior and radiance
+- **Mnemoniture**, **Flexture**, and **Auditure** — Preservation and calibrant architecture
+- **calibrant order** and **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)** — Preservation and calibrant architecture
+- **Atomic Corollary** and **Fractal Signature** — Preservation and calibrant architecture
+- **pyramid's account**, **certified intellectuals**, and **asuric pyramid** — Diagnostic vocabulary
+- **church of progress**, **priests of progress**, **missionaries of progress**, and **jihadis of progress** — Diagnostic vocabulary
+- **Racial Arya Thesis**, **heroic erasure**, **category theft**, **chronology capture**, and **codification myth** — Diagnostic vocabulary
 
 ---
 
-## 1. Engineering core vocabulary
-
-> **How to read the pairs below.** Each entry binds a Sanskrit term to its English equivalent. The Sanskrit is primary in lineage, recitation, and grammar; the English supplies the engineering and chemistry idiom. Neither is decoration. They denote one object from two directions — धातुः (*dhātuḥ*) and *atom* are not a word and its translation, but one constituent seen from the lineage-chain's side and from the engineer's.
+## 1. Sound and Script Architecture
 
 ### **वर्ण (*varṇa*)** / **वर्णाः (*varṇāḥ*)**
 
-**Standard.** Phonetic unit; the discrete sound-particle of the वर्णमाला (*varṇamālā*). Cited in every प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*). Monier-Williams: वर्ण (*varṇa*) — sound, character, letter; also class, kind.
+**Standard, book-elevated.** वर्ण (*Varṇa*) has a broad Sanskrit range that includes sound, class, color, and written character. In the sound architecture, it names a discrete unit selected, classified, and placed within the वर्णमाला (*varṇamālā*).
 
-**English pair**: *sonomer* / *sound-particle* / *atomic particle*. The chemistry analogue.
+**English pair:** *sonomer* or *sound-particle* when the independently reusable unit is intended.
 
 ### **sonomer**
 
-**Book-coined English.** The book's English name for वर्ण (*varṇa*) when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. A sonomer is stronger: a measured sound-particle, articulated by place and effort, timed by मात्रा (*mātrā*), classified inside the वर्णमाला (*varṇamālā*), renderable through the audiographic system, and available for grammatical operation. On the consonant plane, a sonomer is a sonance with an independent address. Speakers can choose it freely when they build new words.
+**Book-coined English.** The independently reusable sound-particle Sanskrit places at an address within the वर्णमाला (*varṇamālā*). A sonomer is specified by the body's production of it, classified within the sound grid, measured by मात्रा (*mātrā*), and available to grammatical construction. On the consonant plane, a sonomer is a sonance promoted to an independent grid address.
 
-**Sanskrit pair**: वर्ण (*varṇa*) / वर्णाः (*varṇāḥ*).
-
-**Use in book**: Chapter 8 — वर्ण (*varṇa*) as selected sound-unit. Chapter 9 — selected sound moving toward अक्षर (*akṣara*) and धातुः (*dhātuḥ*). Chapter 10 — the धातुः (*dhātuḥ*) built from sonomers. Chapter 11 — Vedic verbs demonstrating how sonomeric atoms extend into क्रियापदानि (*kriyāpadāni*). Appendix Part 6 retains the detailed grammatical classification.
+**Sanskrit pair:** वर्ण (*varṇa*) / वर्णाः (*varṇāḥ*).
 
 ### **sonomeric**
 
-**Book-coined English adjective.** Built from sonomers or applied at the sonomeric level, the measured sound-particles Sanskrit calls वर्णाः (*varṇāḥ*). The term signals Sanskrit's deeper engineering layer: before a sonomer becomes visible as an audiograph, it already exists as a measured sound-particle available to grammar.
-
-**Use in book**: Appendix Part 3 states the hierarchy directly: Sanskrit is sonomeric before it is audiographic. Chapters 10 and 11 use *sonomeric* for the construction of the धातुः (*dhātuḥ*) and the activation of the क्रिया (*kriyā*). The term also captures the continuity across scale: Sanskrit does not lose the sonomer as it builds upward from वर्णमाला (*varṇamālā*) to धातुः (*dhātuḥ*), from conjugation to case, from word to sentence.
+**Book-coined English adjective.** Built from sonomers or operating at the sonomer level. A sonomer exists as a measured sound-particle before लिपि (*lipi*) renders it as an audiograph. The adjective also describes the continuity of those particles as Sanskrit builds larger forms from them.
 
 ### **sonance**
 
-**Standard English, book-repurposed.** *Sonance* means a sound or the act of sounding. This book uses it for a consonantal sound selected into Sanskrit's architecture. A sonance may receive an independent address and become a sonomer. It may instead remain outside the grid and appear only under a stated condition or within a named Vedic lineage. The human mouth can produce many other sounds, but Sanskrit does not treat them as sonances unless its architecture assigns them a role.
-
-**Use in book**: Chapter 8 introduces sonances and distinguishes them from sonomers selected for independent reuse. Chapter 9 tests that selection against the complete consonantal grid. Chapter 16 applies the distinction across the वैदिक (*vaidika*) and लौकिक (*laukika*) domains.
+**Standard English, book-repurposed.** A consonantal sound deliberately selected into Sanskrit's architecture. A sonance may receive an independent grid address and become a sonomer. It may instead remain off-grid and appear only under a stated condition or within a named Vedic lineage. A sound the human mouth can produce is not a Sanskrit sonance unless the architecture assigns it a role.
 
 ### **off-grid sonance**
 
-**Book-coined English phrase.** A sonance that Sanskrit preserves or generates without assigning it an independent address in the sonomer grid. A Restricted off-grid sonance appears only when the sounds around it satisfy a stated condition. A Lineage-Bounded off-grid sonance remains attached to the received passages of a named Vedic lineage.
+**Book-coined English phrase.** A sonance that Sanskrit recognizes without assigning it an independent address in the sonomer grid. A **Restricted off-grid sonance** appears when specified neighboring sounds generate it. A **Lineage-Bounded off-grid sonance** remains attached to the Vedic passages and recitation lineages that preserve it. Chapter 9 develops the distinction through ऋग्वैदिक (*Ṛgvedic*) **ळ / ळ्ह**, जिह्वामूलीय (*jihvāmūlīya*), and उपध्मानीय (*upadhmānīya*).
 
-**Use in book**: Chapter 9 introduces the distinction through Ṛgvedic **ळ/ळ्ह**, ***जिह्वामूलीय (*jihvāmūlīya*)***, and ***उपध्मानीय (*upadhmānīya*)***. Chapter 16 explains why the invariant Vedic domain can preserve a wider range of off-grid sonances without allowing speakers to choose them freely when creating लौकिक (*laukika*) words.
+### **anatomical coordinates** / **grid address** / **snap to grid**
 
-### **धातुः (*dhātuḥ*)** / **धातवः (*dhātavaḥ*)**
+**Book-controlled engineering vocabulary.** These terms name three related but different operations.
 
-**Standard, multi-domain.** The foundational constituent. In grammar: the semantic atom that combines with affixes (Pāṇini's धातुपाठ (*Dhātupāṭha*)). In metallurgy: the elemental constituent of an alloy. In रसशास्त्र (*Rasaśāstra*) and आयुर्वेद (*Āyurveda*): the body's foundational constituents. Cross-domain semantic constancy: "that which holds, sustains, supports." Etymology from ⟪धा⟫ (*dhā*) — to place, hold, sustain.
-
-**English pair**: *atom* / *semantic atom*. The chemistry analogue, deployed throughout the book.
-
-**Formal notation**: when a धातुः (*dhātuḥ*) is shown as an atom or operand, the book writes it inside double angle brackets: ⟪कृ⟫ (*kṛ*), ⟪गम्⟫ (*gam*), ⟪भू⟫ (*bhū*). The brackets mark the semantic atom, not a botanical category.
-
-### **रचना (*racanā*)** / **रचनाः (*racanāḥ*)**
-
-**Standard.** Construction, arrangement, composition. From रच् (*rac*) — to fashion, form, compose. Monier-Williams: arrangement, disposition; literary composition.
-
-**English pair**: *scaffold* / *atomic scaffold*. Used in the book for the abstract scaffold into which वर्णाः (*varṇāḥ*) are arranged to form a धातुः (*dhātuḥ*).
-
-### **धातुरचना (*dhāturacanā*)**
-
-**Book-coined compound, in the specific technical sense used here.** धातु (*Dhātu*) + रचना (*racanā*) is morphologically valid Sanskrit (a standard तत्पुरुषसमास (*tatpuruṣa samāsa*)) but using it for the *abstract phonetic scaffold that a dhātuḥ fills* — the C / V1 / V2 timing-aware shape that classifies the 2,168-entry धातुपाठ (*Dhātupāṭha*) into 47 observed scaffolds — is the book's coinage. A reader checking Monier-Williams for धातुरचना (*dhāturacanā*) will not find this exact technical sense; the term is constructed for this book's analytical framework.
-
-**English pair**: *atomic scaffold*.
-
-**Use in book**: Chapter 10 §10.4 onward.
-
-### **शब्द (*śabda*)** / **शब्दाः (*śabdāḥ*)**
-
-**Standard, multi-domain.** Word; sound; in मीमांसा (*Mīmāṃsā*), the eternal sound-substance (शब्दब्रह्मन् (*śabda-brahman*)). Monier-Williams: sound, noise, word.
-
-**English pair**: *word* / *lexical molecule*. The chemistry analogue when the focus is the architecture (*varṇāḥ → dhātavaḥ → śabdāḥ* = particles → atoms → molecules).
-
-### **उपसर्ग (*upasarga*)** / **उपसर्गाः (*upasargāḥ*)**
-
-**Standard.** The 22 directional / aspectual prefix-particles that bond with धातवः (*dhātavaḥ*) in derivation. Pāṇini A.1.4.59 lists them collectively; the received list (*pra, parā, apa, sam, anu, ava, niḥ, duḥ, vi, ā, ni, adhi, api, ati, su, ud, abhi, prati, pari, upa* + two contested forms) is fixed.
-
-**English pair**: *prefix*. In the chemistry idiom: *head-bond* (Chapter 12 vocabulary stack).
-
-### **प्रत्यय (*pratyaya*)** / **प्रत्ययाः (*pratyayāḥ*)**
-
-**Standard.** Affix; suffix. Pāṇini's vast प्रत्यय (*pratyaya*) inventory covers कृत् (*kṛt*) (primary derivational), तद्धित (*taddhita*) (secondary derivational), सुप् (*sup*) (case-ending), तिङ् (*tiṅ*) (finite verb ending), विकरण (*vikaraṇa*) (class-affix), and several other functional classes.
-
-**English pair**: *suffix*. In the chemistry idiom: *tail-bond* (Chapter 12 vocabulary stack).
-
-### **atom** / **atoms** / **semantic atom**
-
-**Book-coined English (repurposed from chemistry).** The book's English name for धातुः (*dhātuḥ*). Reframes Sanskrit's foundational semantic constituent through the atomic analogue: atoms preserve identity through bonding, generate molecular lexical forms combinatorially, and arrange in patterned distributions rather than random scatter.
-
-The book's title — ***Atomic Sanskrit*** — captures this thesis. The full stack is: वर्ण (*varṇa*) / sonomer / particle → धातुः (*dhātuḥ*) / atom → शब्द (*śabda*) / molecule, with उपसर्ग (*upasarga*) + प्रत्यय (*pratyaya*) as the bonding procedure and रचना (*racanā*) as the structural scaffold.
-
-**Sanskrit pair**: धातुः (*dhātuḥ*) / धातवः (*dhātavaḥ*).
-
-**Use in book**: Chapter 2 rejects the philological botanical mistranslation; Chapter 10 establishes धातुः (*dhātuḥ*) as semantic atom, builds the inventory, and tests the धातुः (*dhātuḥ*) against the six सूत्रलक्षणानि (*sūtra-lakṣaṇāni*) at atomic scale; Chapter 11 follows atoms into completed Vedic verbs; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that keeps the atomic inventory stable across time.
-
-### **atomic scaffold**
-
-**Book-coined English.** The book's English name for धातुरचना (*dhāturacanā*). The chemistry analogue (compound architecture from atomic-level scaffolds) is the book's analytical framing.
-
-**Sanskrit pair**: धातुरचना (*dhāturacanā*).
-
-### **atomic particle**
-
-**Book-coined English.** The book's English name for वर्ण (*varṇa*) when the chemistry idiom is in deployment.
-
-**Sanskrit pair**: वर्ण (*varṇa*).
-
-### **audiograph**
-
-**Book-coined English.** The visible mark through which लिपि (*lipi*) renders an अक्षर (*akṣara*) built from sonomers. Introduced in Chapter 9 §9.12 and developed with Audiography in Chapter 13 §13.3 and Appendix Part 3.
-
-**Sanskrit relation**: लिपि (*lipi*) renders an अक्षर (*akṣara*) in visible form; the resulting form is the audiograph.
-
-### **Audiography**
-
-**Book-coined English.** The visual system that renders Sanskrit's prior sonomeric architecture through audiographs. Brāhmī, Devanāgarī, and other Indic scripts are implementations of that system. Audiography renders the calibrant, while Auditure keeps it calibrated.
-
-### **calibrant** / **calibration matrix**
-
-**Book-coined English, repurposed engineering vocabulary.** A calibrant is an invariant standard against which a participant can align and correct itself. The Vedas are the primary calibrant for Sanskrit and संस्कृति (*saṃskṛti*). Their received sounds, words, grammar, and distinctions remain available across generations. The लौकिक (*laukika*) domain can therefore create new expression while continuing to align with the वैदिक (*vaidika*) standard. At the outward scale, complete Sanskrit becomes a calibrant for languages reached by its radiance. The *calibration matrix* is the distributed architecture that keeps the standard available without placing it under one apex (Chapters 13–15).
-
-### **Radiance Thesis**
-
-**Book-coined analytical framework.** The Radiance Thesis explains how Sanskrit reached other languages without making Sanskrit descend from an imaginary parent. Real carriers take Sanskrit words, atoms, operators, sound arrangements, or analytical methods into another speech community. The receiving language reshapes what it receives and produces a प्रतिबिम्ब (*Pratibimba*). Chapter 19 §19.7 states the complete movement; Chapter 20 follows the carriers.
-
-### **calibrant contact**
-
-**Book-coined English.** The encounter in which another speech community receives material from Sanskrit as an engineered calibrant. Radiance brings Sanskrit to the encounter. The receiving mind retains a बीज (*bīja*), vivimorphosis reshapes it inside the receiving language, and the resulting form or method becomes a प्रतिबिम्ब (*Pratibimba*). The receiving language remains itself.
-
-### **PASS — Principle of Architectural Selection and Scope**
-
-**Book-coined English.** The analytical principle used to explain why Sanskrit gives a sound, form, or operation one scope rather than another. The analysis identifies the resource's **contribution**, the **load** created by duplication or collision, and the **bounding support** that can contain that load. It then identifies the appropriate **scope**: Included in the reusable architecture, Restricted to a stated condition, Vaidika, Lineage-Bounded, or Excluded from independent use. Chapter 9 introduces PASS through the sonomer grid; Chapter 16 applies it to the two Sanskrit domains; Appendix Part 8 preserves the technical profiles.
-
-### **drift** / **deviation** / **divergence**
-
-**Book-controlled English.** The three terms describe entropy from different positions. **Drift** is change within a natural language as generations use it. **Deviation** is a detectable departure within a calibrated architecture; लौकिक (*laukika*) Sanskrit usage can deviate from established Sanskrit शब्द (*śabda*) or grammar because the calibrant remains available. Left uncorrected, repeated deviations can accumulate into drift. **Divergence** is the growing distance between another language and Sanskrit as that language drifts through its own use. An **orbital** language may drift while remaining close enough for renewed calibration. A language beyond the active orbit can continue to diverge after Sanskrit's **radiance** has reached it. Chapter 6 establishes the distinction; Chapter 19 applies it to Greek, Latin, and other receiving languages.
-
-### **vivimorphosis**
-
-**Book-coined English.** The transition in which an engineered Sanskrit form crosses the calibrant boundary and acquires organic behavior inside a natural language. The term combines Latin *vivus* (alive) with Greek *morphōsis* (shaping or formation). From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the received form's distance from the calibrated molecule; from the receiving language's side, **vivimorphosis** describes what the new language grows from that seed. Sanskrit itself remains engineered and calibrated. Chapter 19 §19.7 develops the movement from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)** and applies it inside the Radiance Thesis.
-
-### **revivification**
-
-**Book-repurposed English.** The return of a petrified language-form to everyday and childhood speech, after which ordinary usage resumes botanical change. It is the reverse arrow from **Petrified Languages** to **Natural Languages** in Chapter 2's origin-and-generativity figure. Linguistic studies of Modern Hebrew commonly call the same transition **revernacularization**. Revivification differs from vivimorphosis because it returns an organic but petrified form to botanical life; vivimorphosis carries an engineered Sanskrit form into a separate natural language. Chapter 13 §13.5 develops Modern Hebrew as the comparative case.
-
-### **fractal**
-
-**Standard English, book-repurposed.** A pattern whose design principle recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing from mouth to language — mouth, sonomer, अक्षर (*akṣara*), धातुः (*dhātuḥ*), क्रियापद (*kriyāpada*), शब्द (*śabda*), वाक्य (*vākya*), सूत्र (*sūtra*), recitation, and calibration-matrix scale.
-
-**Use in book**: The front matter lays out the distinction between natural fractal, balanced civilizational fractal, and distorted civilizational fractal. Chapter 10 is the technical spine: it tests whether the धातुः (*dhātuḥ*) displays the same लक्षणानि (*lakṣaṇāni*) an engineered सूत्र (*sūtra*) displays. Chapters 19–20 contrast PIE chronology with Sanskrit's scale-recurring architecture.
-
-### **Fractal Corollary**
-
-**Book-coined English.** The extension of the Atomic Corollary: if Sanskrit is engineered, the engineering should recur across scales. Chapter 10 tests this at the धातुः (*dhātuḥ*) scale through the six सूत्रलक्षणानि (*sūtra-lakṣaṇāni*). The volume as a whole follows the recurrence from mouth to language; later *Second Shanti* volumes take the same inquiry from language into civilizational architecture.
-
----
-
-## 2. Technical Sanskrit vocabulary
-
-### **व्याकरणम् (*vyākaraṇam*)**
-
-**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + ⟪कृ⟫ (*kṛ*, to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the structural point the book makes against the codification myth. Reference Yāska's निरुक्त (*Nirukta*) and the *Pāṇinian* discipline.
-
-### **वैयाकरणाः (*vaiyākaraṇāḥ*)**
-
-**Standard.** Practitioners of व्याकरण (*vyākaraṇa*). In the book's engineering vocabulary: the *decoders* and documenters — those who unfold and state the architecture the *Vedas* encode. The English word *grammarians* is avoided for the Sanskrit tradition because it brings a letter-facing and schoolroom-rule sense that does not match the role-title.
-
-### **अष्टाध्यायी (*Aṣṭādhyāyī*)**
-
-**Standard, book-controlled deployment.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The standard व्याकरण (*vyākaraṇa*) text. The codification myth treats it as the late stabilization of a previously drifting language; the counter-category is the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 9; the codified → decoded correction is central to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
-
-### **परम्परा (*paramparā*)**
-
-**Standard.** The unbroken lineage-chain and transmission-chain through which knowledge is transmitted across generations. गुरुशिष्यपरम्परा (*guru-śiṣya-paramparā*) — the teacher-student transmission chain. At system scale, परम्परा (*paramparā*) is distributed transmission architecture: vertical lineage-chains preserving custody across generations, and horizontal transmission-networks moving knowledge across villages, towns, assemblies, and regions.
-
-**English pair**: *lineage* / *chain*; at architectural scale, *transmission architecture* / *transmission network*. In this book, परम्परा (*paramparā*) does not mean "tradition" as inherited custom. It denotes the Indic continuity mechanism itself.
-
-### **श्रुति (*śruti*)** / **स्मृति (*smṛti*)**
-
-**Standard.** श्रुति (*śruti*) — that which is heard; the eternal heard-corpus (the *Vedas*). स्मृति (*smṛti*) — that which is remembered; the secondary corpus (epics, पुराणानि (*purāṇāni*), धर्मशास्त्र (*dharmaśāstra*)). The pair structures the architecture of the Sanskrit textual continuum.
-
-### **छन्दस् (*chandas*)** / **भाषा (*bhāṣā*)**
-
-**Scope-sensitive terms.** छन्दस् (*Chandas*) means meter; भाषा (*bhāṣā*) means speech or language. Their locative forms can serve as Pāṇinian rule markers: छन्दसि (*chandasi*) marks specified Vedic usage, while भाषायाम् (*bhāṣāyām*) marks specified लौकिक (*laukika*) use. They are two members of a larger scope system that also includes मन्त्रे (*mantre*), अमन्त्रे (*amantre*), ब्राह्मणे (*brāhmaṇe*), निगमे (*nigame*), and narrower textual labels. Use वैदिक (*vaidika*) and लौकिक (*laukika*) for the book's broad domains.
-
-### **वैदिक (*vaidika*)** / **लौकिक (*laukika*)**
-
-**Standard.** Vedic domain / worldly-learned domain. Documented in Patañjali's महाभाष्य (*Mahābhāṣya*). Concurrent civilizational domains, not stages on a timeline.
-
-### **सनातन (*Sanātan*)**
-
-**Standard.** The eternal / unchanging order; the civilizational continuum the book treats as the alternative architecture to the asuric pyramid. Used as a proper noun in the book — no English partner; *Sanātan* is the term.
-
-**Form discipline for the following triad.** प्रकृति (*Prakṛti*), संस्कृति (*saṃskṛti*), and विकृति (*vikṛti*) are nouns and category names. Their ordinary adjective forms are प्राकृतिक (*prākṛtika*), सांस्कृतिक (*sāṃskṛtika*), and वैकृतिक (*vaikṛtika*). Established compounds such as प्रकृतिपाठ (*prakṛti-pāṭha*), विकृतिपाठ (*vikṛti-pāṭha*), and प्रकृतिभाव (*prakṛti-bhāva*) retain the noun. The form प्राकृत (*prākṛta*) describes what is naturally formed and also identifies a historical प्राकृत (*Prākṛta*) language or linguistic form. संस्कृत (*Saṃskṛta*) denotes the wholly created form and the language; *Sanskritic* is the English adjective for something pertaining to Sanskrit. When the adjective belongs to संस्कृति (*saṃskṛti*), the form is सांस्कृतिक (*sāṃskṛtika*).
-
-### **प्रकृति (*prakṛti*)**
-
-**Standard Sanskrit, book-controlled deployment.** Nature; original condition; natural recurrence. In the book's fractal vocabulary, प्रकृति (*prakṛti*) denotes the natural fractal: the forms and efficiencies nature produces without deliberate civilizational cultivation. Natural languages belong in this category. Sanskrit shares many of their efficiencies, but the book argues that Sanskrit is not reducible to प्रकृति (*prakṛti*).
-
-### **संस्कृति (*saṃskṛti*)**
-
-**Standard Sanskrit, book-controlled deployment.** Cultivated, refined, formed order; the balanced civilizational fractal oriented toward well-being. In the book's diagnosis, Sanskrit is the linguistic layer of संस्कृति (*saṃskṛti*): engineered, disciplined, distributed, calibrated architecture. संस्कृति (*Saṃskṛti*) keeps balance across scale. The pyramid's botanical metaphor steals this category by subordinating Sanskrit to natural drift rather than recognizing it as created order.
-
-### **विकृति (*vikṛti*)**
-
-**Standard Sanskrit, book-controlled deployment.** Distortion, deformation, misformed recurrence. In the book's civilizational vocabulary, विकृति (*vikṛti*) denotes the distorted civilizational fractal: recurrence captured by control, extraction, hierarchy, and concealment. विकृति (*Vikṛti*) distorts balance across scale. The body prose usually calls this the *asuric pyramid*; विकृति (*vikṛti*) is used sparingly at category-setting moments.
-
-### **सत्-असत्-विवेक (*sat-asat-viveka*)**
-
-**Standard Sanskrit compound, book-deployed as ethical discernment.** Discernment between सत् (*sat*) and असत् (*asat*) — what stands in truth and what does not. The book uses this as an individual faculty, not an institutional label. It is tied to the dharmic standard *yat bhūta-hitam atyantaṃ tat satyam*: that which serves the deep welfare of living beings is truth.
-
-### **माया (*māyā*)** / **दैवी माया (*daivī māyā*)** / **आसुरी माया (*āsurī māyā*)**
-
-**Standard Sanskrit, with a specific deployment in this book.** Power capable of forming, presenting, concealing, or transforming an appearance. The purpose it serves determines its direction. This book uses **दैवी माया (*daivī māyā*)** for power directed toward radiance, protection, and release, and **आसुरी माया (*āsurī māyā*)** for power directed toward concealment, obstruction, and control.
-
-### **आवरण (*āvaraṇa*)** / **विक्षेप (*vikṣepa*)**
-
-**Standard Vedāntic analytical terms.** Two actions through which आसुरी माया (*āsurī māyā*) hides what remains present and places a substitute before the observer. **आवरण (*āvaraṇa*)** conceals. **विक्षेप (*vikṣepa*)** projects the replacement. Chapter 1 introduces the pair through the actions of Vṛtra, Svarbhānu, Pūtanā, Mārīca, and Kālanemi. Chapter 2 supplies the वेदान्तसार (*Vedāntasāra*) terminology and applies it to the pyramid's treatment of Sanskrit.
-
-### **देवभाषा (*devabhāṣā*)**
-
-**Standard lineage epithet, book-elevated.** *The language of the devas* — the radiant ones. The lineage-name for Sanskrit. The book treats this as more than ornament: it captures what the language *did* — radiated light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit changed surrounding subcontinental and Indo-European languages, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
-
-### **जिज्ञासा (*jijñāsā*)**
-
-**Standard.** The active disposition toward inquiry; the desire to know. मीमांसासूत्र (*Mīmāṃsā Sūtra*) 1.1.1 opens with धर्मजिज्ञासा (*dharmajijñāsā*) (inquiry into धर्म (*dharma*)); ब्रह्मसूत्र (*Brahmasūtra*) 1.1.1 opens with ब्रह्मजिज्ञासा (*brahmajijñāsā*) (inquiry into ब्रह्म (*brahman*)). The book deploys जिज्ञासा (*jijñāsā*) as the civilizational orientation that produces the analytical disciplines (व्याकरणम् (*vyākaraṇam*), निरुक्त (*nirukta*), छन्दस् (*chandas*), शिक्षा (*śikṣā*), मीमांसा (*mīmāṃsā*)). The seeking precedes the engineering; the seeking is also what the engineering serves. Chapter 0 §0.2 establishes.
-
-### **अपौरुषेयत्व (*apauruṣeyatva*)**
-
-**Standard.** The मीमांसा (*Mīmāṃsā*) doctrine of the *Vedas* as not-of-human-authorship. The architecture observable today is what the eternal शब्द (*śabda*) manifests. Established in Jaimini's मीमांसासूत्र (*Mīmāṃsā Sūtra*) 1.1.5, Śabara's भाष्य (*Bhāṣya*), Kumārila's श्लोकवार्त्तिक (*Ślokavārttika*). Load-bearing for the book's engineering thesis: the *Vedas* are the encoded form; the मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*) and मन्त्रद्रष्ट्र्यः (*mantra-draṣṭryaḥ*) saw the mantras rather than composing them; the continuum does not place a separate human designer at their origin.
-
-### **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** / **मन्त्रद्रष्ट्र्यः (*mantra-draṣṭryaḥ*)**
-
-**Standard.** The male and female seers of the mantras. The agent noun द्रष्टृ (*draṣṭṛ*) means one who sees; its masculine plural is द्रष्टारः (*draṣṭāraḥ*) and its feminine plural is द्रष्ट्र्यः (*draṣṭryaḥ*). The terms distinguish those who saw the mantras from मन्त्रकर्तारः (*mantra-kartāraḥ*), composers of mantras. The seers are the lineage-internal conduits, not a class of human designers.
-
-### **सिद्ध (*siddha*)** / **कार्य (*kārya*)**
-
-**Standard (Patañjali's distinction), book-elevated.** सिद्ध (*Siddha*) — established, accomplished, the engineered form that stands. कार्य (*Kārya*) — that which is being produced or made; the ongoing variants. Patañjali's महाभाष्य (*Mahābhāṣya*) uses the pair to distinguish the engineered word (*siddha*) from the variants ordinary usage produces. The book restores this distinction as the structural opposite of the dogma's *drift* framing: the सिद्ध (*siddha*) is what remains established; कार्य (*kārya*) denotes the variation the architecture tolerates without ever becoming the architecture's substance. The architecture is सिद्ध (*siddha*); everything else is कार्य (*kārya*). Chapter 1 §1.7 deploys; Chapter 4 develops in full.
-
-### **अपभ्रंशः (*apabhraṃśa*)** / **अपभ्रंशाः (*apabhraṃśāḥ*)**
-
-**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The lineage vocabulary for what deviates from the सिद्ध (*siddha*) form. Patañjali's महाभाष्य (*Mahābhāṣya*) labels it explicitly; the lineage recognizes अपभ्रंशः (*apabhraṃśa*) as the natural product of ordinary speech that the calibration architecture is designed to refuse. The dogma recodes अपभ्रंशः (*apabhraṃśa*) as Sanskrit's nature; the architecture treats अपभ्रंशः (*apabhraṃśa*) as exactly the entropy the engineering is built against. The Preface introduces it; Chapter 6 develops it; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
-
-### **धातुपाठ (*Dhātupāṭha*)**
-
-**Standard.** The operational enumeration of धातवः (*dhātavaḥ*) organized as an appendix to Pāṇini's *Aṣṭādhyāyī*. The standard count is approximately 1,943 to 2,014 entries depending on the recension. Ten गणाः (*gaṇāḥ*) (classes). Used as the working corpus throughout Chapters 10–11 (the book uses a 2,168-entry recension).
-
-### **गण (*gaṇa*)** / **गणाः (*gaṇāḥ*)**
-
-**Standard.** Verb classes in the धातुपाठ (*Dhātupāṭha*). Ten classes total: भ्वादि (*bhvādi*), अदादि (*adādi*), जुहोत्यादि (*juhotyādi*), दिवादि (*divādi*), स्वादि (*svādi*), तुदादि (*tudādi*), रुधादि (*rudhādi*), तनादि (*tanādi*), क्र्यादि (*kryādi*), चुरादि (*curādi*). Each गण (*gaṇa*) is defined by the विकरण (*vikaraṇa*) signature its धातवः (*dhātavaḥ*) take in conjugation.
+- **Anatomical coordinates** identify where and how the speaking body produces a sound. स्थान (*Sthāna*) supplies the place; प्रयत्न (*prayatna*) supplies the articulatory effort.
+- A **grid address** identifies the cell assigned to an independently reusable sonomer within the वर्णमाला (*varṇamālā*). The anatomical coordinates generate the address, but the address belongs to the grid rather than to the body.
+- **Snap to grid** describes a boundary operation that resolves a contextual sound to an established Sanskrit address. Some सन्धि (*sandhi*) operations work this way. The phrase does not describe every kind of सन्धि (*sandhi*).
 
 ### **अक्षर (*akṣara*)**
 
-**Standard.** "The imperishable"; the syllabic sound-bond — a स्वरः (*svaraḥ*) with any consonantal contacts that surround it. The stable acoustic unit; the audiograph's referent.
+**Standard, book-elevated.** Literally *imperishable*. In the book's sound analysis, an अक्षर (*akṣara*) is a syllabic sound-bond organized around a vowel, with any consonantal contacts that precede or follow it. The sounded unit exists before any script renders it.
 
 ### **मात्रा (*mātrā*)**
 
-**Standard.** Unit of duration. ह्रस्वस्वर (*hrasva-svara*) = 1 मात्रा (*mātrā*); दीर्घस्वर (*dīrgha-svara*) = 2 मात्राः (*mātrās*); व्यञ्जन (*vyañjana*) = ½ मात्रा (*mātrā*); प्लुतस्वर (*pluta-svara*) = 3 मात्राः (*mātrās*). Specified across the शिक्षा (*Śikṣā*) texts (esp. पाणिनीयशिक्षा (*Pāṇinīya Śikṣā*)).
-
-### **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)**
-
-**Standard compound, book-deployed as engineering test.** The defining features of a सूत्र (*sūtra*). The standard formulation lists six लक्षणानि (*lakṣaṇāni*): अल्पाक्षरम् (*alpākṣaram*) (few-syllabled), असन्दिग्धम् (*asandigdham*) (unambiguous), सारवत् (*sāravat*) (essence-bearing), विश्वतोमुखम् (*viśvatomukham*) (facing in every direction), अस्तोभम् (*astobham*) (without padding), and अनवद्यम् (*anavadyam*) (faultless). Chapter 10 uses these not as ornament but as a test at atomic scale: a धातुः (*dhātuḥ*) should be small, waste-free, unambiguous, essence-bearing, many-facing, and stable in use.
+**Standard.** A unit of duration. A short vowel occupies one मात्रा (*mātrā*), a long vowel two, and a prolonged vowel three. A consonant contributes a half-मात्रा (*mātrā*) event. Chapters 9 and 10 use these durations to measure अक्षराणि (*akṣarāṇi*) and atomic scaffolds.
 
 ### **स्थान (*sthāna*)** / **प्रयत्न (*prayatna*)** / **स्पर्श (*sparśa*)**
 
-**Standard (Śikṣā vocabulary).** The mouth-map terms of Sanskrit's phonetic engineering.
+**Standard sound-analysis vocabulary.**
 
-- **स्थान (*sthāna*)** — place of articulation. Five positions: **कण्ठ (*kaṇṭha*)** throat, **तालु (*tālu*)** palate, **मूर्धा (*mūrdhā*)** roof, **दन्त (*danta*)** teeth, **ओष्ठ (*oṣṭha*)** lips.
-- **प्रयत्न (*prayatna*)** — effort / manner of articulation: contact, partial contact, breath release, etc.
-- ***स्पर्श (*sparśa*)*** — the contact-stop class; the 5×5 वर्ग (*varga*) matrix of stops produced at the five स्थान (*sthāna*)-positions.
+- **स्थान (*sthāna*)** names the place of articulation: कण्ठ (*kaṇṭha*), तालु (*tālu*), मूर्धा (*mūrdhā*), दन्त (*danta*), or ओष्ठ (*oṣṭha*).
+- **प्रयत्न (*prayatna*)** names what the body does there: full contact, partial contact, breath release, and other articulatory efforts.
+- **स्पर्श (*sparśa*)** names the contact-stop class. Its five places and five oral-nasal settings produce the familiar 5×5 वर्ग (*varga*) matrix.
 
-Together they specify the engineered grid of consonantal positions. Chapter 7 develops; the वर्णमाला (*varṇamālā*)'s 5×5 वर्ग (*varga*) matrix is the cross-product of स्थान (*sthāna*) × प्रयत्न (*prayatna*).
+Together, स्थान (*sthāna*) and प्रयत्न (*prayatna*) provide the anatomical coordinates from which the consonant grid receives its addresses.
+
+### **audiograph**
+
+**Book-coined English.** The visible mark through which लिपि (*lipi*) renders a sounded अक्षर (*akṣara*). The sound architecture comes first. The audiograph records it through a particular writing technology.
+
+### **Audiography**
+
+**Book-coined English.** The visual system that renders Sanskrit's prior sonomeric architecture through audiographs. Brāhmī, Devanāgarī, and other Indic scripts are implementations of Audiography. Their written forms can change while the sounded architecture remains recognizable. Audiography renders the calibrant; Auditure keeps it calibrated.
 
 ---
 
-## 3. Diagnostic vocabulary
+## 2. Atomic and Grammatical Architecture
 
-### **dogma**
+### **धातुः (*dhātuḥ*)** / **धातवः (*dhātavaḥ*)**
 
-**Book-controlled English.** The protected belief-content the pyramid requires the reader to accept: Sanskrit below, progress upward, origins elsewhere. Use when prosecuting the claim-system itself; use *doctrine* when explaining the structured teaching without maximal heat. When specific, use ***progressive dogma*** (linear-progress axis) or ***foundational dogma*** (corridor-of-origin axis). The word *orthodoxy* is not the book's vocabulary — it frames the fight as an inside-the-pyramid doctrinal dispute, and the book prosecutes the pyramid from outside; it appears only when quoting or discussing another writer's category.
+**Standard, multi-domain.** A foundational constituent that supports a larger form. In grammar, the धातुः (*dhātuḥ*) is the sound-bearing semantic atom that combines with grammatical operations. The same constituent sense appears in metallurgy, रसशास्त्र (*Rasaśāstra*), and आयुर्वेद (*Āyurveda*). The word is related to ⟪धा⟫ (*dhā*), to place, hold, or sustain.
 
-### **Western philological dogma**
+**English pair:** *atom* or *semantic atom*.
 
-**Book-controlled phrase.** The Sanskrit / PIE belief-content: the Sanskrit-as-derivative story built through comparative philology, PIE reconstruction, racial Arya framing, textbook lineage, and reference authority. Use when the target is the claim-system itself; use *philological machinery* when the target is the institutions and processes that repeat it.
+When the book displays a धातुः (*dhātuḥ*) as an atom or operand, it places the form inside double angle brackets: ⟪कृ⟫ (*kṛ*), ⟪गम्⟫ (*gam*), and ⟪भू⟫ (*bhū*). The brackets mark the semantic atom rather than a botanical root.
 
-### **progressive dogma**
+### **atom** / **semantic atom**
 
-**Book-coined cluster.** The doctrine built on linear-progress teleology: earlier means primitive, later means advanced, and ancient sophistication must be explained away, borrowed, or subordinated. Also ***linear-progress dogma*** when the time-axis is the point. Chapter 4 establishes the larger structure.
+**Book-controlled English.** The English engineering name for धातुः (*dhātuḥ*). See **धातुः (*dhātuḥ*)**.
 
-### **foundational dogma**
+### **रचना (*racanā*)** / **रचनाः (*racanāḥ*)**
 
-**Book-coined cluster.** The doctrine built on the corridor-of-origin axis: authority flows from a preferred origin-zone, and Sanskrit must be made to derive from that corridor. Use when the argument is about origin-control, not merely progress-control.
+**Standard.** Construction, arrangement, or composition. The book uses रचना (*racanā*) for the recurring sound-and-duration scaffold into which sonomers are arranged to form a धातुः (*dhātuḥ*).
 
-### **pyramid's account**
+**English pair:** *scaffold* or *atomic scaffold*.
 
-**Book-controlled phrase.** The reader-facing story the dogma produces and the machinery repeats: the version printed in references, taught in curricula, and presented as settled. Variants: ***pyramid's version***, ***manufactured account***. Replaces *standard account* and *textbook account* in the book's own prose.
+### **धातुरचना (*dhāturacanā*)**
 
-### **certified intellectuals**
+**Book-coined compound in this technical sense.** धातु (*Dhātu*) + रचना (*racanā*) names the abstract scaffold occupied by a धातुः (*dhātuḥ*). The scaffold records consonant and vowel positions together with their timing. Chapter 10 classifies the 2,168 analyzed forms into forty-seven observed धातुरचनाः (*dhāturacanāḥ*).
 
-**Book-coined English.** The institutionally certified carriers below the apex who repeat, translate, popularize, and defend the dogma. The respectable public face of the राक्षस (*rākṣasa*)-retainer layer. Chapter 4 develops the class.
+**English pair:** *atomic scaffold*.
 
-### **linear-progress teleology**
+### **atomic scaffold**
 
-**Standard English + book deployment.** The assumption that history moves upward from primitive to advanced in a single line. The book treats this as one pillar of the architecture of containment because it cannot tolerate ancient engineered sophistication.
+**Book-controlled English.** The English engineering name for धातुरचना (*dhāturacanā*). See **धातुरचना (*dhāturacanā*)**.
 
-### **church of progress**
+### **शब्द (*śabda*)** / **शब्दाः (*śabdāḥ*)**
 
-**Book-coined cluster.** The institutional carrier of the progressive dogma: the academy, reference works, journals, museums, universities, foundations, credentialing systems that make the doctrine durable. Chapter 4 establishes.
+**Standard, multi-domain.** Sound or word. In the book's assembly sequence, a शब्द (*śabda*) is a complete meaning-bearing form built through Sanskrit's grammatical operations. When the chemistry comparison is active, the धातुः (*dhātuḥ*) is the atom and the completed शब्द (*śabda*) is the molecule.
 
-### **academy**
+### **उपसर्ग (*upasarga*)** / **उपसर्गाः (*upasargāḥ*)**
 
-**Book-controlled English.** The institutional layer of the church of progress when it appears as universities, departments, journals, peer review, appointments, reference works, and credentials. Use when the target is institutional authority rather than doctrine itself.
+**Standard.** A pre-verbal operator that joins a धातुः (*dhātuḥ*) and directs or modifies its action. Pāṇini identifies the प्रादयः (*prādayaḥ*) as उपसर्गाः (*upasargāḥ*) when they occur in relation to an action.
 
-### **priests of progress**
+The traditional inventory contains twenty underlying items. Two appear in paired forms: निस् / निर् (*nis / nir*) and दुस् / दुर् (*dus / dur*). Lists that print both members of each pair therefore show twenty-two forms while counting twenty उपसर्गाः (*upasargāḥ*).
 
-**Book-coined cluster.** The interpretive class inside the church of progress: certified intellectuals, editors, reviewers, and public authorities who sanctify the doctrine and declare what counts as admissible knowledge.
+**English pair:** *prefix*; in the book's chemistry idiom, *head-bond*.
 
-### **missionaries of progress**
+### **प्रत्यय (*pratyaya*)** / **प्रत्ययाः (*pratyayāḥ*)**
 
-**Book-coined cluster.** The export class inside the church of progress: writers, popularizers, institutional advocates, and civilizational managers who advance the doctrine outward under public vocabulary such as modernization, development, reform, science, or rights.
+**Standard.** An affix added through a grammatical operation. The प्रत्यय (*pratyaya*) inventory includes कृत् (*kṛt*) and तद्धित (*taddhita*) derivational affixes, सुप् (*sup*) case-endings, तिङ् (*tiṅ*) verb-endings, and विकरण (*vikaraṇa*) class-markers.
 
-### **jihadis of progress**
+**English pair:** *affix* or *suffix*; in the chemistry idiom, *tail-bond*.
 
-**Book-coined cluster.** The enforcement class inside the church of progress: the actors who police boundaries through cancellation, gatekeeping, contamination labels, reputational threat, and institutional exclusion.
+### **व्याकरणम् (*vyākaraṇam*)**
 
-### **fourth Abrahamic religion**
+**Standard.** Grammar and the analytical discipline that makes grammatical operations explicit. The book presents the word through वि (*vi*, apart) + आ (*ā*, fully or toward) + ⟪कृ⟫ (*kṛ*, to do or make): taking apart so that the construction can be understood. व्याकरणम् (*Vyākaraṇam*) decodes an architecture already present in Sanskrit; it does not create Sanskrit by decree.
 
-**Book-coined cluster.** The genealogical indictment of the deeper Abrahamic structure of the church of progress: a successor formation that inherits the Abrahamic claim-to-singular-truth without calling itself religious. Deploy sparingly. Chapter 4 establishes.
+### **वैयाकरणाः (*vaiyākaraṇāḥ*)**
 
-### **asuric pyramid**
+**Standard.** Practitioners of व्याकरणम् (*vyākaraṇam*). The book calls them **decoders and documenters** because they analyze Sanskrit's existing architecture and state its operations explicitly. Pāṇini belongs to an analytical lineage that preceded and continued after him.
 
-**Book-coined cluster (Sanskrit + English).** The ontological diagnosis underneath the dogma and its machinery: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. The structural opposite of *Sanātan*. Chapter 4 §4.6 establishes.
+### **अष्टाध्यायी (*Aṣṭādhyāyī*)**
 
-### **asuric machinery**
+**Standard, book-controlled deployment.** Pāṇini's *Eight-Chapter* grammatical work. The codification myth places it between a drifting *"Vedic Sanskrit"* and a fixed *"Classical Sanskrit."* This book presents it as the finest decoding and documentation of an architecture already in use in the Vedas.
 
-**Book-controlled phrase.** The working machinery of the asuric pyramid in a specific domain. Use sparingly when the emphasis is operational rather than ontological.
+### **धातुपाठ (*Dhātupāṭha*)**
 
-### **philological machinery**
+**Standard.** The operational enumeration of धातवः (*dhātavaḥ*) transmitted with the Pāṇinian grammatical tradition and organized into ten गणाः (*gaṇāḥ*). Counts differ among editions and recensions. The machine-readable source used by this book contains 2,235 instructional rows. After the stated removal of instructional markers, the structural analysis contains 2,168 pronounced forms.
 
-**Book-controlled phrase.** The technical and institutional system that turns philological claims into durable public knowledge: reconstructions, dictionaries, grammars, textbooks, citations, peer review, curricula, and reference authority.
+### **गण (*gaṇa*)** / **गणाः (*gaṇāḥ*)**
 
-### **reference ecosystem**
+**Standard.** The ten operational classes through which धातवः (*dhātavaḥ*) form verbal bases: भ्वादि (*bhvādi*), अदादि (*adādi*), जुहोत्यादि (*juhotyādi*), दिवादि (*divādi*), स्वादि (*svādi*), तुदादि (*tudādi*), रुधादि (*rudhādi*), तनादि (*tanādi*), क्र्यादि (*kryādi*), and चुरादि (*curādi*). Vedic usage already displays the different behaviors. Pāṇini identified and classified their recurring patterns.
 
-**Book-controlled phrase.** The surrounding environment that makes a claim feel settled: dictionaries, encyclopedias, handbooks, syllabi, museum labels, popular books, searchable databases, and classroom defaults.
+### **सिद्ध (*siddha*)** / **कार्य (*kārya*)**
 
-### **rākṣasa-retainers**
+**Standard, book-elevated.** सिद्ध (*Siddha*) names what already stands established. कार्य (*Kārya*) names what is produced or remains to be made. Patañjali begins with the bond between word and meaning as सिद्ध (*siddha*). Meaning prompts worldly usage, and grammar then regulates that usage. Chapter 5 develops the distinction and explains why Pāṇini did not create the bond he documented.
 
-**Book-coined Sanskrit + English metaphor.** The lower retainer layer inside the asuric pyramid: institutionally certified carriers who translate the pyramid's verdict into respectable prose, public language, and institutional repetition.
+### **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)**
 
-### **bakers / bake / recipe**
+**Standard compound, book-deployed as an engineering test.** The defining characteristics of a सूत्र (*sūtra*): अल्पाक्षरम् (*alpākṣaram*), brief; असन्दिग्धम् (*asandigdham*), unambiguous; सारवत् (*sāravat*), essence-bearing; विश्वतोमुखम् (*viśvatomukham*), facing in many directions; अस्तोभम् (*astobham*), without padding; and अनवद्यम् (*anavadyam*), faultless. Chapter 10 tests whether the same discipline appears at the scale of the धातुः (*dhātuḥ*).
 
-**Book-coined metaphor.** The book's shorthand for constructed doctrine: a story assembled from ingredients, baked into reference form, and served as settled knowledge. Used especially for PIE and the botanical metaphor.
+---
+
+## 3. Language Behavior and Radiance
+
+### **generativity** / **the four language categories**
+
+**Book-controlled analytical vocabulary.** Generativity is the ability of a language architecture to produce expressions that no earlier speaker or document listed. Chapter 2 separates that ability from a language's origin and creates four categories:
+
+- A **Natural Language** arises through communal speech and remains highly generative. It changes as generations use it.
+- A **Petrified Form** is a selected form held stable by an institution while ordinary speech continues changing around it.
+- A **Lexicon-Dependent Conlang** begins with an engineered plan but depends upon additions to its listed vocabulary when speakers meet new circumstances.
+- A **Generative Architecture** begins with deliberate engineering and can create new expression through reusable internal operations. Sanskrit and Esperanto occupy this category, but only Sanskrit joins generativity to an invariant Vedic calibrant.
+
+### **drift** / **deviation** / **divergence**
+
+**Book-controlled English.** These terms describe entropy from different positions.
+
+- **Drift** is change within a natural language as generations use it.
+- **Deviation** is a detectable departure within a calibrated architecture. Because the calibrant remains available, the departure can be identified and corrected. If deviation is left uncorrected long enough, it can accumulate into drift.
+- **Divergence** is the growing distance between another language and Sanskrit as that language follows its own drift.
+
+An orbital language may drift while remaining close enough for renewed calibration. A language touched by Sanskrit's outward radiance can continue diverging after active contact ends.
+
+### **अपभ्रंशः (*apabhraṃśa*)** / **अपभ्रंशाः (*apabhraṃśāḥ*)**
+
+**Standard, book-elevated.** Falling away from an established form. Patañjali uses अपभ्रंशाः (*apabhraṃśāḥ*) for the many corruptions that can arise from one calibrated शब्द (*śabda*). The Prologue introduces the term; Chapter 6 develops it through the example of गौः (*gauḥ*) and its fallings-away.
+
+### **vivification**
+
+**Standard English, book-repurposed.** The process through which an engineered language begins acquiring the changing communal life of a natural language. Esperanto is the book's principal example. Its generative design allowed widespread use, and that use also allowed variation and drift to begin. Vivification differs from vivimorphosis, which describes what happens when a Sanskrit form enters another language.
+
+### **revivification**
+
+**Standard English, book-repurposed.** The return of a petrified language-form to household and childhood speech. Once people again acquire it as an everyday language, ordinary use resumes natural change. The book uses Modern Hebrew as the principal comparison. Linguistic studies often call the process *revernacularization*.
+
+### **Radiance Thesis**
+
+**Book-coined analytical framework.** The account of how Sanskrit reached other languages without descending from an imaginary parent. Human carriers took Sanskrit words, atoms, operators, sound arrangements, knowledge, and analytical methods into other speech communities. Each receiving language reshaped what it received. Chapter 19 states the movement; Chapter 20 follows several routes and carriers.
+
+### **calibrant contact**
+
+**Book-coined English.** An encounter in which another speech community receives a Sanskrit word, operation, or method while Sanskrit remains the complete calibrant. The receiving language remains itself. It gives the received material another sound-form and grammatical life.
+
+### **बीज (*bīja*)**
+
+**Standard Sanskrit, book-repurposed.** A seed. In the Radiance Thesis, it is what a listener retains when Sanskritic radiance reaches another language. The बीज (*bīja*) carries enough of the Sanskrit form, meaning, operation, or method for the receiving language to develop a related expression.
+
+### **अपशब्द (*apaśabda*)** / **अपशब्दाः (*apaśabdāḥ*)**
+
+**Standard, book-repurposed within the radiance sequence.** A faulty word or non-word when judged against the calibrated Sanskrit form. After calibrant contact, the receiving language gives the बीज (*bīja*) a form of its own. That form is an अपशब्द (*apaśabda*) from Sanskrit's side, but it can become an ordinary and productive word inside the receiving language.
+
+### **vivimorphosis**
+
+**Book-coined English.** The change through which an engineered Sanskrit form acquires organic behavior inside a receiving natural language. From Sanskrit's side, अपभ्रंशः (*apabhraṃśa*) measures the falling-away from the calibrated शब्द (*śabda*). From the receiving language's side, vivimorphosis describes how that received seed takes on another language's sounds and grammar.
+
+### **प्रतिबिम्ब (*pratibimba*)** / **प्रतिबिम्बानि (*pratibimbāni*)**
+
+**Standard Sanskrit, book-repurposed.** A reflection cast from an original. In the Radiance Thesis, प्रतिबिम्ब (*pratibimba*) names the word, pattern, or method that remains in another language after calibrant contact and vivimorphosis. Greek, Latin, and other Eurasian languages preserve such partial reflections of Sanskrit's outward radiance.
+
+The sequence is:
+
+> **Sanskrit's radiance → calibrant contact → बीज (*bīja*) → vivimorphosis → प्रतिबिम्ब (*pratibimba*)**
+
+### **PASS — the Principle of Architectural Selection and Scope**
+
+**Book-coined English.** The analysis used to explain why Sanskrit gives a sound, form, or operation one scope rather than another. PASS identifies the contribution a resource makes, the load created by duplication or collision, and the support available to contain that load. It then assigns the appropriate scope: independently reusable, Restricted, Vaidika, Lineage-Bounded, or Excluded. Chapter 9 introduces PASS through the sonomer grid; Chapter 16 applies it across the two Sanskrit domains.
+
+---
+
+## 4. Preservation and Calibrant Architecture
+
+### **the four preservation modes: Writing, Mnemoniture, Flexture, and Auditure**
+
+**One established term and three book coinages.** Chapter 14 distinguishes four ways of preserving different kinds of material.
+
+- **Writing** preserves records, commentary, administration, and other material through लिपि (*lipi*) on a physical medium.
+- **Mnemoniture** preserves stories and civilizational patterns through memory, retelling, song, and repeated narrative. Its principal Sanskrit relation is स्मृति (*smṛti*), that which is remembered.
+- **Flexture** preserves embodied knowledge through trained gesture, posture, expression, and repeated performance. मुद्रा (*Mudrā*), हस्त (*hasta*), and the नाट्यशास्त्र (*Nāṭyaśāstra*) disciplines provide its Sanskrit setting.
+- **Auditure** preserves exact sound through trained production, hearing, comparison, and correction. Its principal Sanskrit relation is श्रुति (*śruti*), that which is heard.
+
+### **Scripture**
+
+**Book-controlled English.** Writing becomes Scripture when an institution makes a written corpus the sovereign source of doctrine and controls its authorized form. Sanskritic preservation keeps writing as one useful support among several. It does not place लिपि (*lipi*) above the sounded calibrant.
+
+### **calibrant** / **calibration**
+
+**Standard engineering vocabulary, book-repurposed.** A calibrant is an invariant standard against which a person or instrument can compare an output. Calibration is the act of making that comparison and correcting a departure. The Vedas are Sanskrit's primary calibrant because they keep its sounds and grammar available in use. लौकिक (*laukika*) speakers can therefore create new expressions while continuing to compare their language with an invariant वैदिक (*vaidika*) standard.
+
+### **calibration matrix**
+
+**Book-controlled English.** The mutually checking preservation layers that keep the Vedic calibrant available: the Vedas in use, the प्रातिशाख्य (*Prātiśākhya*) disciplines, व्याकरणम् (*vyākaraṇam*), the धातुपाठ (*Dhātupāṭha*), the वर्णमाला (*varṇamālā*), and छन्दस् (*chandas*), with शिक्षा (*śikṣā*) training the human being across them. No single layer owns the whole standard.
+
+### **calibrant order**
+
+**Book-controlled English.** An architecture of order that keeps an invariant and widely available standard at its center without allowing an apex to own it. People align themselves with the calibrant and correct departures through comparison. Individuals and institutions may protect the order, but they do not create the standard or possess exclusive authority over it. Chapters 13–16 demonstrate calibrant order at the scale of language; the Epilogue points toward its extension into society.
+
+### **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**
+
+**Book-coined Sanskrit compound.** The fixed-standard or calibrant language. ध्रुव (*Dhruva*) supplies the fixed reference, मान (*māna*) the measure or standard, and भाषा (*bhāṣā*) the language. The term names Sanskrit's role within the wider ecology of changing natural languages.
+
+### **परम्परा (*paramparā*)**
+
+**Standard, book-elevated.** The chain through which knowledge passes across generations. गुरु-शिष्य-परम्परा (*Guru-śiṣya-paramparā*) names teacher-student transmission. At architectural scale, परम्परा (*paramparā*) combines vertical continuity across generations with horizontal movement among communities. It is a distributed transmission mechanism, not merely inherited custom.
+
+### **श्रुति (*śruti*)** / **स्मृति (*smṛti*)**
+
+**Standard.** श्रुति (*Śruti*) means that which is heard and names the Vedas as received sound. स्मृति (*Smṛti*) means that which is remembered and includes civilizational works carried through memory, teaching, recitation, and retelling. Auditure and Mnemoniture name their different preservation burdens in the book's English taxonomy.
+
+### **छन्दस् (*chandas*)** / **भाषा (*bhāṣā*)**
+
+**Standard, scope-sensitive terms.** छन्दस् (*Chandas*) means meter; भाषा (*bhāṣā*) means speech or language. Their locative forms also serve as Pāṇinian scope markers. छन्दसि (*Chandasi*) identifies specified Vedic use, while भाषायाम् (*bhāṣāyām*) identifies specified लौकिक (*laukika*) use. They belong to a larger scope vocabulary that includes मन्त्रे (*mantre*), अमन्त्रे (*amantre*), ब्राह्मणे (*brāhmaṇe*), and narrower labels.
+
+### **वैदिक (*vaidika*)** / **लौकिक (*laukika*)**
+
+**Standard, book-elevated.** The Vedic and worldly domains of one Sanskrit architecture. The वैदिक (*vaidika*) domain keeps received expressions invariant. The लौकिक (*laukika*) domain permits new composition through the same sounds and grammar. They operate concurrently and do not name two chronological stages of Sanskrit.
+
+### **अपौरुषेय (*apauruṣeya*)**
+
+**Standard.** Not of human authorship. The Sanskrit continuum applies this description to the Vedas. The ऋषयः (*ṛṣayaḥ*) and ऋषिकाः (*ṛṣikāḥ*) saw the mantras; they did not claim to compose them. The book treats this as the continuum's account of origin while examining the architecture available in the Vedas today.
+
+### **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** / **मन्त्रद्रष्ट्र्यः (*mantra-draṣṭryaḥ*)**
+
+**Standard.** The male and female seers of the mantras. द्रष्टृ (*Draṣṭṛ*) means one who sees. The masculine plural is द्रष्टारः (*draṣṭāraḥ*); the feminine plural is द्रष्ट्र्यः (*draṣṭryaḥ*). The terms place the ऋषयः (*ṛṣayaḥ*) and ऋषिकाः (*ṛṣikāḥ*) as receivers of the mantras rather than their authors.
+
+### **fractal**
+
+**Standard English, book-repurposed.** A pattern whose organizing principle recurs across scale. The book does not claim strict mathematical self-similarity. It identifies a repeating architecture in which smaller constituents retain their identity while combining into larger forms: sonomer, अक्षर (*akṣara*), धातुः (*dhātuḥ*), word, sentence, सूत्र (*sūtra*), recitation, and calibration matrix.
+
+### **Atomic Corollary**
+
+**Book-coined English.** The धातुः (*dhātuḥ*) is Sanskrit's unit of stable semantic identity. It remains identifiable as उपसर्गाः (*upasargāḥ*), प्रत्ययाः (*pratyayāḥ*), and other operations build larger expressions around it. Sanskrit gains generative reach through bonding rather than through mutation of the atom.
+
+### **Fractal Signature**
+
+**Book-coined English.** The recurrence of the same engineering discipline at more than one scale. Chapter 10 compares the compact, unambiguous, essence-bearing, many-facing, waste-free, and stable form of the सूत्र (*sūtra*) with the construction of the धातुः (*dhātuḥ*). The volume then follows related structural recurrence from mouth to language. Later *Second Shanti* volumes extend the inquiry into civilizational architecture.
+
+### **engineered** / **encoded** / **decoded** / **codified**
+
+**Standard English, book-controlled deployment.** The four words name different operations.
+
+- **Engineered** describes Sanskrit's observable internal design and the larger Vedic system that keeps it calibrated against entropy and deliberate attack.
+- **Encoded** describes the Vedas carrying Sanskrit's sounds and grammar in use through words, meter, pitch, recitation, and grammatical relations.
+- **Decoded** describes the analytical work of the वैयाकरणाः (*vaiyākaraṇāḥ*) and related disciplines. They make an existing architecture explicit. Pāṇini's decoding is the finest.
+- **Codified** names the pyramid's contrary account in which an authority imposed order upon drifting speech. The book uses the term in scare quotes when attributing that claim.
+
+The sequence is:
+
+> ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.***
+
+---
+
+## 5. Sanskrit and Civilizational Vocabulary
+
+### **सनातन (*Sanātan*)**
+
+**Standard, book-elevated.** Eternal or enduring. The book uses सनातन (*Sanātan*) as the proper name of the civilizational continuum and the architecture of order opposed to the asuric pyramid. The Sanskrit term stands without an English substitute.
+
+### **प्रकृति (*prakṛti*)** / **संस्कृति (*saṃskṛti*)** / **विकृति (*vikṛti*)**
+
+**Standard Sanskrit, book-controlled deployment.** The three words distinguish natural formation, cultivated order, and deformation.
+
+- **प्रकृति (*prakṛti*)** names nature, an original condition, and forms produced through natural recurrence. Natural languages belong here.
+- **संस्कृति (*saṃskṛti*)** names cultivated and wholly formed order. The book presents Sanskrit as the linguistic architecture of संस्कृति (*saṃskṛti*).
+- **विकृति (*vikṛti*)** names distortion or deformation. The pyramid is a created fractal of विकृति (*vikṛti*) because its pattern of containment repeats across scale.
+
+Their ordinary Sanskrit adjectives are प्राकृतिक (*prākṛtika*), सांस्कृतिक (*sāṃskṛtika*), and वैकृतिक (*vaikṛtika*). प्राकृत (*Prākṛta*) also names naturally formed speech and particular historical languages. संस्कृत (*Saṃskṛta*) names the wholly formed language; *Sanskritic* is the book's English adjective for something pertaining to Sanskrit.
+
+### **सत् (*sat*)** / **असत् (*asat*)** / **ऋत (*ṛta*)** / **विवेक (*viveka*)**
+
+**Standard Sanskrit, book-controlled relationship.** These terms have larger philosophical ranges. The book uses them together to describe discernment and durable order.
+
+- **सत् (*sat*)** is that which is and that which acts in alignment with enduring order.
+- **असत् (*asat*)** is that which is not and that which acts against such order through obstruction, containment, or destruction.
+- **ऋत (*ṛta*)** is the order through which सत् (*sat*) becomes durable, repeatable, and available across time.
+- **विवेक (*viveka*)** is the discernment required to distinguish सत् (*sat*) from असत् (*asat*) by examining purpose and action.
+
+The compound सत्-असत्-विवेक (*sat-asat-viveka*) names that exercise of discernment.
+
+### **माया (*māyā*)** / **दैवी माया (*daivī māyā*)** / **आसुरी माया (*āsurī māyā*)**
+
+**Standard Sanskrit, book-controlled deployment.** माया (*Māyā*) is power capable of forming, presenting, concealing, or transforming an appearance. Power does not determine its own alignment. The purpose it serves does. **दैवी माया (*daivī māyā*)** serves radiance, protection, and release. **आसुरी माया (*āsurī māyā*)** serves concealment, obstruction, and control.
+
+### **आवरण (*āvaraṇa*)** / **विक्षेप (*vikṣepa*)**
+
+**Standard Vedāntic analytical terms.** Two powers of माया (*māyā*). आवरण (*Āvaraṇa*) conceals what remains present. विक्षेप (*Vikṣepa*) projects a substitute that draws attention away from it. The book uses Svarbhānu's eclipse to show both operations and applies the pair to PIE's concealment of Sanskrit's radiant architecture.
+
+### **देव (*deva*)** / **असुर (*asura*)** / ***a-sura*** / ***asu-ra***
+
+**Standard Sanskrit with a book-specific usage rule.** The book does not automatically translate देव (*deva*) as *god* or असुर (*asura*) as *demon*. Sanskrit permits the distinct analyses ***a-sura*** and ***asu-ra***, but the surrounding words do not always reveal which analysis a Vedic occurrence carries.
+
+After Chapter 3 establishes that uncertainty, the book uses ***a-sura*** as the diagnostic name for an antagonist who turns power against radiance. It uses ***asu-ra*** when the life-breath analysis is specifically intended. In quoted Vedic passages, *asura* remains undivided unless the source supplies the division. Conduct and purpose establish alignment; faction does not.
 
 ### **असुरत्व (*asuratva*)**
 
-**Standard Sanskrit + book deployment.** The quality of the ***a-sura***: a recurring mode of action that concentrates power through hierarchy, uses deception to protect that power, and obstructs light or circulation. Chapter 3 §3.6 establishes the book's use of ***a-sura***; Chapter 4 §4.6 applies असुरत्व (*asuratva*) to the pyramid.
+**Standard Sanskrit, book-controlled deployment.** The quality of the ***a-sura***: conduct that concentrates power, obstructs circulation or radiance, and uses concealment to protect control. असुरत्व (*Asuratva*) names a mode of action rather than an inherited identity.
 
-### **आर्यत्व (*āryatva*)**
+### **आर्य (*ārya*)** / **आर्यत्व (*āryatva*)**
 
-**Standard Sanskrit + book deployment.** The quality of being आर्य (*ārya*): disciplined mastery exercised in service of लोकक्षेम (*lokakṣema*). The book contrasts आर्यत्व (*āryatva*) with असुरत्व (*asuratva*) through purpose and action, not faction or inherited identity. Chapter 17 establishes.
+**Standard Sanskrit, book-controlled deployment.** आर्य (*Ārya*) names a person whose discipline, mastery, and conduct serve लोकक्षेम (*lokakṣema*). आर्यत्व (*Āryatva*) names that quality. Neither term names a race. The Epilogue's invitation to make the world आर्य (*ārya*) asks people to acquire the discipline, not to join a bloodline or faction.
 
-### **Racial Arya Thesis (RAT)**
+### **धर्म (*dharma*)** / **लोकक्षेम (*lokakṣema*)**
 
-**Book term.** The shared premise underneath both the older invasion account and the softened migration account, defining आर्य (*ārya*) as race, peoplehood, or bloodline rather than discipline and achievement. While invasion and migration function merely as mechanisms inside the thesis, the thesis itself runs deeper, casting Sanskrit as transported cargo brought into the subcontinent by an external population belonging to a different race. Chapter 3 introduces the pillar; Chapter 17 refutes it at the mouth.
+**Standard.** धर्म (*Dharma*) is that which sustains an order and the conduct through which a person sustains it. लोकक्षेम (*Lokakṣema*) is the well-being, security, and flourishing of the world. The book uses लोकक्षेम (*lokakṣema*) as the purpose against which power and action can be judged.
 
-**Use in book**: The book uses **Racial Arya Thesis (RAT)** to expose the premise beneath AIT and AMT, reinforcing that invasion and migration describe mechanisms while RAT supplies the foundational thesis. The full phrase remains the default in sober body prose. Avoid the acronym in solemn passages such as the Preface and Epilogue.
+### **वाच् (*vāc*)** / **वाक् (*vāk*)** / **वाग्देवी (*Vāgdevī*)**
 
-### **लोकक्षेम (*lokakṣema*)**
+**Standard.** Speech as expression, principle, and power. वाच् (*Vāc*) is the stem used when the principle is named in English discussion. वाक् (*Vāk*) is the Sanskrit nominative singular. Before a voiced consonant, the final sound appears as **वाग् (*vāg*)**, as in वाग्देवी (*Vāgdevī*), Speech personified as Devī. The different visible forms belong to the same Sanskrit word.
 
-**Standard.** The welfare of the world; the orienting goal of *Sanātan*'s architecture. Used as a proper noun in the book's diagnostic vocabulary.
+### **जिज्ञासा (*jijñāsā*)**
 
-### **heroic erasure**
-
-**Book-coined English.** The pyramid's tactic of praising a named figure within Sanātan or a named discipline for some surface contribution — so-called codification, documentation, transmission, adaptation — while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 1 introduces the pattern; Chapter 2 §2.8 applies it to Pāṇini and the codification myth; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
-
-### **category theft**
-
-**Book-coined English.** The tactic that removes Sanskrit from its own category, संस्कृति (*saṃskṛti*), and forces it into something else: प्रकृति (*prakṛti*) before Pāṇini, the codification myth after Pāṇini.
-
-### **chronology capture**
-
-**Book-coined English.** The tactic that turns beginningless architecture into a dated object to be sequenced, ranked, delayed, interpolated, borrowed, or subordinated. Chapter 1 introduces why chronology obsession serves the apex.
-
-### **codification myth**
-
-**Book-controlled English.** The false account in which Pāṇini imposed order on a drifting natural language and produced the form later called *"Classical Sanskrit"*. The myth recodes his decoding of an architecture Sanskrit already used as codification by authority.
-
-### **memory recoded as mythology**
-
-**Book-coined English.** The tactic that turns a civilization's preserved memory-forms into "mythology" while asking the same civilization to treat the pyramid's constructed ancestor as science.
-
-### **प्रतिबिम्ब (*Pratibimba*)**
-
-**Standard Sanskrit term, book-repurposed as diagnostic category.** A reflection — what appears in a mirror, cast from an original. The book uses प्रतिबिम्ब (*Pratibimba*) for the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are प्रतिबिम्बानि (*Pratibimbāni*) — reflections of the original engineered Sanskrit forms. मातृ (*Mātṛ*) is the etymon of *mother*; *pater* is a प्रतिबिम्ब (*Pratibimba*) of पितृ (*pitṛ*). The Preface introduces the hook; Chapter 2 exposes the category theft; Chapter 19 §19.7 develops the calibrant-and-reflection architecture in full.
-
-### **engineered / encoded / decoded / codified**
-
-**Standard English; book-controlled deployment.** Specific senses lock:
-- ***Engineered*** applies at two connected scales. Sanskrit's internal engineering is observable in the वर्णमाला (*varṇamālā*), धातुपाठ (*Dhātupāṭha*), grammar, and generative architecture. The greater engineering feat is the Vedic system that keeps the language calibrated against unintended entropy and deliberate asuric attack while remaining distributed across society.
-- ***Encoded***: the *Vedas* carry Sanskrit's sounds and grammar in use. छन्दस् (*chandas*), श्रुति (*śruti*), recitation procedures, and the lineage-chain keep that architecture available across generations.
-- ***Decoded***: what Sanskrit's analytical disciplines did. The वैयाकरणाः (*vaiyākaraṇāḥ*), including Pāṇini, Patañjali, and the pre-Pāṇinian grammatical analysts, made grammar explicit. Yāska's निरुक्त (*Nirukta*) made derivation and meaning explicit. Together, these disciplines recovered the specification from the encoded corpus.
-- ***Codified*** (the pyramid's misnaming): scare-quoted; runs in the wrong structural direction.
-
-Book refrain: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.***
-
-The refrain states the sequence. Chapters 6 and 13–16 establish the larger feat: the calibrant has resisted entropy and asuric attack for thousands of years, and the system still lives.
+**Standard.** The active desire to know and the disposition toward inquiry. धर्मजिज्ञासा (*Dharmajijñāsā*) opens the Mīmāṃsā inquiry into धर्म (*dharma*), while ब्रह्मजिज्ञासा (*brahmajijñāsā*) opens the inquiry into ब्रह्मन् (*Brahman*). Chapter 0 presents जिज्ञासा (*jijñāsā*) as the civilizational orientation behind Sanskrit's analytical disciplines.
 
 ---
 
-## Conventions for using this glossary
+## 6. Diagnostic Vocabulary
 
-- In ordinary reader-facing prose, every Sanskrit technical term appears in Devanagari followed immediately by italic IAST in parentheses. Devanagari leads; IAST keeps the term accessible to readers who do not know the script.
-- Treat the Devanagari-IAST pair as one indivisible Sanskrit unit. Place English possessives, plurals, and other grammar around the pair rather than attaching English endings to either Sanskrit form.
-- The English explanation need not accompany every occurrence. After the term has been explained, the paired Sanskrit form can stand without repeating that explanation.
-- Derivation chains, paradigms, source passages, figures, and keyed graphical systems may use concise notation after the full forms have been identified nearby. Familiar names may remain in their established form unless their Sanskrit spelling or derivation becomes evidence.
-- Do not bold every Devanagari occurrence. Reserve bold Devanagari for installation moments, tables, figures, hammers, and terms being defined.
-- Where a chapter introduces a coined compound such as धातुरचना (*dhāturacanā*) for the first time, anchor it in the etymology: *"धातु (*dhātu*, atom) + रचना (*racanā*, arrangement) — atomic scaffold"*. Do not meta-narrate ("what this book calls").
-- Per-term endnotes preserve the rationale where the etymology alone is not enough.
+### **dogma** / **progressive dogma** / **foundational dogma**
+
+**Book-controlled English.** Dogma is protected belief-content that the pyramid requires its institutions to repeat. **Progressive dogma** places history on one ascending line, so ancient sophistication must be dismissed, subordinated, or assigned elsewhere. **Foundational dogma** places origin and authority in a preferred external zone, so Sanskrit must be made to descend from that zone. The book uses *doctrine* when it needs the structured teaching without the stronger charge carried by *dogma*.
+
+### **pyramid's account**
+
+**Book-coined phrase.** The public story produced by the dogma and repeated through curricula, dictionaries, references, museums, and popular explanation. The phrase replaces supposedly neutral expressions such as *standard account* when the book is naming the pyramid's own narrative.
+
+### **certified intellectuals**
+
+**Book-coined English.** The institutionally credentialed people who repeat, translate, popularize, and defend the pyramid's account. Certification gives them standing within the pyramid; it does not establish the truth of what they repeat.
+
+### **linear-progress teleology**
+
+**Standard English, book-controlled deployment.** The assumption that history moves in one direction from primitive to advanced. Within that account, an ancient engineered architecture must be explained away, assigned a later date, or credited to another source.
+
+### **church of progress**
+
+**Book-coined phrase.** The institutional carrier of progressive dogma. Universities, journals, reference works, museums, foundations, credentialing systems, and state-supported cultural bodies give the doctrine durable authority.
+
+### **academy**
+
+**Book-controlled English.** The part of the church of progress that operates through departments, appointments, journals, peer review, curricula, credentials, and reference works. The term identifies institutional authority rather than every individual scholar.
+
+### **priests of progress**
+
+**Book-coined phrase.** The interpretive class that declares what the church of progress will accept as knowledge and who possesses standing to speak within it.
+
+### **missionaries of progress**
+
+**Book-coined phrase.** The people and institutions that carry progressive dogma outward through the languages of modernization, development, reform, science, culture, and rights.
+
+### **jihadis of progress**
+
+**Book-coined phrase.** The enforcement class that guards the doctrine through exclusion, contamination labels, reputational threat, cancellation, and institutional punishment.
+
+### **fourth Abrahamic religion**
+
+**Book-coined phrase.** The book's name for Progressivism as a successor formation that removes God from its vocabulary while retaining the Abrahamic architecture of singular truth, authorized interpretation, conversion, exclusion, and an approaching judgment. Chapter 4 develops the genealogy.
+
+### **asuric pyramid**
+
+**Book-coined phrase.** The architecture of containment: an apex above controlled doctrine, dependent layers, and restricted circulation beneath it. The pyramid creates order through command and punishment, then reproduces the same geometry across institutions and scales. Its alignment is asuric because its conduct serves containment rather than radiance.
+
+### **asuric machinery**
+
+**Book-controlled phrase.** The processes through which the asuric pyramid performs its work in a particular domain. The term names operations rather than every person employed by an institution.
+
+### **philological machinery**
+
+**Book-controlled phrase.** The reconstructions, dictionaries, grammars, citations, peer review, curricula, and institutional relationships that turn philological claims into durable public belief.
+
+### **bakers** / **bake** / **recipe**
+
+**Book-coined metaphor.** The book's shorthand for a doctrine assembled from selected ingredients and then served through references as settled knowledge. It appears most often in the analysis of PIE and the botanical metaphor.
+
+### **Racial Arya Thesis (RAT)**
+
+**Book-coined term.** The premise shared by the older invasion account and the later migration account: आर्य (*ārya*) names an external race or people who carried Sanskrit into India. Invasion and migration provide different mechanisms, while the racial premise remains. The full phrase is preferred in solemn passages; the acronym appears where the book deliberately exposes the category.
+
+### **heroic erasure**
+
+**Book-coined English.** The tactic of praising an Indian figure for a surface contribution while allowing that praise to erase the architecture the figure inherited. Pāṇini becomes the exemplary codifier, and the Vedic grammar that preceded him disappears. The praise performs the erasure.
+
+### **category theft**
+
+**Book-coined English.** The tactic of placing Sanskrit in categories that conceal its own architecture. Before Pāṇini, the pyramid treats Sanskrit as a Natural Language undergoing drift. After Pāṇini, it treats Sanskrit as a Petrified Form held stable by codification. Both assignments remove Sanskrit from the category Chapter 2 establishes: a Generative Architecture joined to a distributed calibrant.
+
+### **chronology capture**
+
+**Book-coined English.** The tactic of converting a continuing architecture into a sequence of dated stages that can be ranked, delayed, interpolated, borrowed, or subordinated. The sequence then carries assumptions that the evidence was supposed to test.
+
+### **codification myth**
+
+**Book-controlled English.** The account in which Pāṇini imposed order upon a drifting natural language and created the form later called *"Classical Sanskrit."* The myth reverses his role. He decoded and documented an architecture already used in the Vedas.
+
+---
+
+## Conventions for Using This Glossary
+
+- In ordinary reader-facing prose, a Sanskrit technical term appears in Devanagari followed by italic IAST in parentheses. Devanagari leads; IAST keeps the term accessible to readers who do not know the script.
+- Treat the Devanagari-IAST pair as one Sanskrit unit. Place English possessives, plurals, and other grammar around the pair rather than attaching English endings to either form.
+- The English explanation need not accompany every occurrence. Once the term has been explained, the paired Sanskrit form can stand without another gloss.
+- Derivation chains, paradigms, source passages, figures, and established graphical keys may use concise notation after the full forms have been identified nearby.
+- Familiar names may remain in their established form unless their Sanskrit spelling or derivation becomes part of the evidence.
+- Do not bold every Devanagari occurrence. Reserve bold for installation moments, definitions, tables, figures, and hammers.
+- When a chapter introduces a coined compound such as धातुरचना (*dhāturacanā*), anchor it in its parts instead of announcing that the book has coined it.

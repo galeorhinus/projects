@@ -4,8 +4,7 @@ fig_canonical_rank_trajectory.py — Visualizes the canonical-9 polyvalent
 core's rank across DCS sub-corpora to land the empirical invariance claim.
 
 Y-axis: rank by verb-token count within each sub-corpus (inverted so #1
-sits at the top). X-axis: sub-corpora ordered by total verb tokens, with
-the small *Aṣṭāvakragīta* sample at the right as a tight stress test.
+sits at the top). X-axis: two Vedic and two epic sub-corpora.
 
 One line per canonical dhātu (kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ).
 A flat line near the top = the dhātu stays in the top-N across the corpus
@@ -36,18 +35,29 @@ CSV_IN = (Path(__file__).resolve().parent.parent.parent /
 
 CANONICAL = ["kṛ", "bhū", "sthā", "gam", "jñā", "dā", "dhā", "nī", "hṛ"]
 
-# Order sub-corpora left-to-right; place AṣG last as the small-sample stress.
+# Order the two Vedic corpora before the two epic corpora.
 CORPUS_ORDER = [
     "Ṛgveda",
     "Atharvaveda (Śaunaka)",
     "Mahābhārata",
     "Rāmāyaṇa",
-    "Aṣṭāvakragīta",
 ]
 
 CORPUS_LABEL_OVERRIDE = {
     "Atharvaveda (Śaunaka)": "Atharvaveda",
-    "Aṣṭāvakragīta": "Aṣṭāvakragītā",
+}
+
+# Separate the direct labels where nearby ranks would otherwise collide.
+RIGHT_LABEL_RANK = {
+    "kṛ": 2,
+    "bhū": 5,
+    "sthā": 9,
+    "gam": 1,
+    "jñā": 16,
+    "dā": 12,
+    "dhā": 38,
+    "nī": 28,
+    "hṛ": 21,
 }
 
 
@@ -96,12 +106,20 @@ def main():
                 alpha=0.85, label=root,
                 zorder=3 if root == "kṛ" else 2)
 
-        # Label the line at the rightmost data point
+        # Label the line at the rightmost data point. A few labels are moved
+        # slightly and connected back to their measured rank to prevent overlap.
         if xs_drawn:
+            label_y = RIGHT_LABEL_RANK[root]
             ax.annotate(root,
                         xy=(xs_drawn[-1], ys_drawn[-1]),
-                        xytext=(xs_drawn[-1] + 0.12, ys_drawn[-1]),
-                        fontsize=7.5, va="center",
+                        xytext=(xs_drawn[-1] + 0.14, label_y),
+                        textcoords="data",
+                        arrowprops=(
+                            {"arrowstyle": "-", "color": ACCENT,
+                             "linewidth": 0.35, "shrinkA": 0, "shrinkB": 2}
+                            if label_y != ys_drawn[-1] else None
+                        ),
+                        fontsize=7.25, va="center",
                         fontweight="bold" if root == "kṛ" else "normal")
 
     # Y-axis: ranks 1–50, inverted so #1 is at top
@@ -124,7 +142,7 @@ def main():
     ax.spines["right"].set_visible(False)
     ax.grid(True, axis="y", which="major", alpha=0.25, linewidth=0.3)
 
-    ax.set_title("Canonical-9 dhātu rank across DCS sub-corpora",
+    ax.set_title("Nine high-reach dhātavaḥ across four Sanskrit corpora",
                  fontsize=9.5, pad=8)
 
     plt.tight_layout()

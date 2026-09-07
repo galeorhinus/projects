@@ -15,6 +15,42 @@ codification claim. This file preserves the complete pre-reduction text. It
 therefore contains every passage removed during the reduction, including
 passages partly retained or rewritten in the new appendix.
 
+## 2026-09-06 Conservative Reduction
+
+The following wording was replaced during the final Appendix Part 9 reduction. The replacement removed repeated chapter orientation, corrected the categorical claim about what every codifier must do, and clarified the work performed by the Mitanni evidence.
+
+> The pyramid teaches a familiar sequence. Sanskrit begins as an older and less regular language called *"Vedic Sanskrit."* Over time, its forms supposedly change, its accent weakens, its infinitives narrow, and its subjunctive disappears.
+>
+> Pāṇini then enters the story. The pyramid praises the brilliance of his description while claiming that he “codified” the form later called *"Classical Sanskrit."*
+>
+> Chapter 2 has already classified Sanskrit as a **Generative Architecture** rather than a natural language or a petrified language. Chapter 16 has shown that वैदिक (*vaidika*) and लौकिक (*laukika*) are two domains within that architecture rather than two periods separated by Pāṇini. Appendix Part 8 provides the grammatical evidence for their designed differences.
+>
+> This appendix performs one remaining task: it states what the codification myth would have to demonstrate and proposes a way to test it.
+
+> The first concerns variation within the Vedic corpus. The pyramid points to differences across the four Vedas, मण्डलानि (*maṇḍalas*), textual forms, शाखा (*śākhā*) lineages, accent systems, and word forms. It presents those differences as evidence that Sanskrit changed continuously within the Vedic corpus.
+
+> Chapter 5 establishes the analytical lineage before Pāṇini and explains Patañjali's statement that the bond between word and meaning is already ***siddha***, established. Chapter 14 describes the distributed calibration architecture. Chapter 16 explains why the two domains receive different permissions. Appendix Part 7 identifies Pāṇinian operations inside Vedic mantras, while Appendix Part 8 records the differences between the domains in detail.
+>
+> Together, this evidence does not show a disordered language waiting for one authority to fix it. The Vedas use the architecture, earlier analysts examine it, Pāṇini documents it, and speakers apply it to लौकिक (*laukika*) composition.
+
+> The analyses completed for this book provide an initial result:
+>
+> > Sanskrit preserves bounded differences between its two domains while their shared architecture remains intact.
+>
+> A corpus-wide audit can test that result passage by passage. The codification myth should face the same test. It must identify the architecture that supposedly changed, demonstrate the change, and establish that Pāṇini's authority stopped it.
+
+> Pāṇini documents alternatives through operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)**. He also states where a rule applies. A codifier would eliminate alternatives and impose one authorized surface. Pāṇini instead records the conditions under which more than one form remains valid.
+>
+> An engineered architecture can allow alternatives without losing precision. The distinction lies between bounded alternatives and uncontrolled replacement. A Vedic passage preserves its selected form exactly. Pāṇini records contexts in which Sanskrit permits another form. Neither fact establishes that one historical stage drifted into another.
+
+> The Mitanni evidence challenges the codification story from outside the Sanskrit corpus. Indic technical vocabulary appears in a Hittite-Mitanni setting that the pyramid's own chronology places before Pāṇini's supposed codification.[NOTE: mitanni-indic-technical-vocabulary] Recognizable technical terms had therefore traveled beyond the Indian subcontinent before Pāṇini.
+>
+> Mitanni adds evidence from outside India to the Vedic corpus, recitation disciplines, pre-Pāṇinian analytical continuum, and Sanskrit's atomic inventory. Together, these sources establish that Sanskrit already possessed its architecture before Pāṇini.
+
+> The evidence establishes another sequence. The Vedas encode Sanskrit's architecture. Earlier analysts examine it. Pāṇini inherits that analytical continuum and produces its most compressed grammatical documentation. लौकिक (*Laukika*) speakers continue using the same architecture for new expression.
+>
+> Pāṇini's contribution becomes greater when it is described accurately. He did not impose order on a drifting language. He decoded an architecture already in use.
+
 ---
 
 # Appendix Part 9 — The Codification Story, Refuted
@@ -114,20 +150,20 @@ The contrast becomes clearer when passages from both languages are placed side b
 
 The opening of the Ṛgveda supplies the first Sanskrit passage:
 
-> अग्निम् ईळे पुरोहितं यज्ञस्य देवम् ऋत्विजम् ।  
+> अग्निम् ईळे पुरोहितं यज्ञस्य देवम् ऋत्विजम् ।
 > होतारं रत्नधातमम् ॥
 >
-> *agnim īḷe purohitaṃ yajñasya devam ṛtvijam |*  
+> *agnim īḷe purohitaṃ yajñasya devam ṛtvijam |*
 > *hotāraṃ ratnadhātamam ||*
 
 The grammatical architecture is already visible. **अग्निम् (*agnim*)**, **पुरोहितम् (*purohitam*)**, **देवम् (*devam*)**, **ऋत्विजम् (*ṛtvijam*)**, and **होतारम् (*hotāram*)** use the accusative. **यज्ञस्य (*yajñasya*)** uses the genitive. **ईळे (*īḷe*)** occupies a recognizable verbal position. Compounds, case endings, sound junctions, and meter operate together inside the verse.
 
 The Nāsadīya Sūkta uses a different style:
 
-> नासदासीन्नो सदासीत्तदानीं  
+> नासदासीन्नो सदासीत्तदानीं
 > नासीद्रजो नो व्योमा परो यत् ॥
 >
-> *nāsad āsīn no sad āsīt tadānīṃ*  
+> *nāsad āsīn no sad āsīt tadānīṃ*
 > *nāsīd rajo no vyomā paro yat ||*
 
 The negation, the verb **आसीत् (*āsīt*)**, the neuter forms **सत् (*sat*)**, **असत् (*asat*)**, and **रजः (*rajaḥ*)**, the relative **यत् (*yat*)**, and the specified sound junctions all belong to the same analyzable architecture. The style and purpose have changed; the language has not become an unordered precursor waiting for a documenter.
@@ -172,8 +208,8 @@ A modern reader may recognize the ancestors of *father*, *our*, and *heaven*, bu
 
 The opening of *Beowulf* makes the architectural change still clearer:
 
-> *Hwæt. Wē Gār-Dena in geārdagum,*  
-> *þēodcyninga, þrym gefrūnon,*  
+> *Hwæt. Wē Gār-Dena in geārdagum,*
+> *þēodcyninga, þrym gefrūnon,*
 > *hū ðā æþelingas ellen fremedon.*
 
 The modern reader needs a translation before entering the passage. ***Geārdagum*** preserves an old dative plural; ***þēodcyninga*** uses a genitive plural; ***gefrūnon*** is no longer a transparent verb; and words such as ***æþelingas*** and ***ellen*** survive, if at all, as historical traces. Old English had a developed case system and grammatical gender. Modern English has lost most of both and relies far more heavily on fixed word order.

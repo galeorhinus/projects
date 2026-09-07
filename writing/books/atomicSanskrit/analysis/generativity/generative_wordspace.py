@@ -2,7 +2,7 @@
 """Reproduce the schematic word-space arithmetic used by the endnote audit."""
 
 DHATUS = 2_168
-PREFIX_STATES = 23  # no prefix plus 22 listed upasargas
+PREFIX_STATES = 23  # no prefix plus 22 listed surface labels
 LAKARAS = 10
 PERSON_NUMBER_SLOTS = 9
 PADA_SERIES = 2

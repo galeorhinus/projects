@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the master dataset and the complete Designed Variations SVG series."""
+"""Validate the master dataset and the complete Designed Variations card series."""
 
 from __future__ import annotations
 
@@ -17,7 +17,7 @@ MASTER = (
     / "working/10_active/as_vaidika_laukika_designed_variations_master.csv"
 )
 FIGURE_DIR = PROJECT_ROOT / "figures/vaidika_laukika"
-ROW_ID_RE = re.compile(r">((?:SG|DU|PL|CL|NU|AC)-\d{2})</text>")
+ROW_ID_RE = re.compile(r"<title>Designed variation ((?:SG|DU|PL|CL|NU|AC)-\d{2})</title>")
 EXPECTED_COUNTS = {
     "SG": 29,
     "DU": 12,
@@ -37,14 +37,9 @@ KNOWN_PLOT_STATUSES = {
     "duplicate",
 }
 FIGURES = [
-    "designed_variations_ekavacanam_01.svg",
-    "designed_variations_ekavacanam_02.svg",
-    "designed_variations_dvivacanam.svg",
-    "designed_variations_bahuvacanam_01.svg",
-    "designed_variations_bahuvacanam_02.svg",
-    "designed_variations_word_classes.svg",
-    "designed_variations_numerals.svg",
-    "designed_variations_accent_recitation.svg",
+    f"designed_variation_{prefix.lower()}_{number:02d}.svg"
+    for prefix, count in EXPECTED_COUNTS.items()
+    for number in range(1, count + 1)
 ]
 
 
@@ -90,8 +85,13 @@ def main() -> None:
         if not path.exists():
             fail(f"Missing canonical figure {path}")
         content = path.read_text(encoding="utf-8")
-        figure_occurrences.update(ROW_ID_RE.findall(content))
+        if "…" in content:
+            fail(f"Truncated label remains in {path}")
         source = path.with_name(path.name.replace(".svg", ".from-py.svg"))
+        source_content = source.read_text(encoding="utf-8") if source.exists() else ""
+        if re.search(r"[āīūṛṝḷṅñṭḍṇśṣṃṁḥ]", source_content):
+            fail(f"IAST remains in the visible source card {source}")
+        figure_occurrences.update(ROW_ID_RE.findall(content))
         if not source.exists():
             fail(f"Missing canonical source {source}")
         result = subprocess.run(
@@ -138,7 +138,7 @@ def main() -> None:
     print(
         "validated "
         f"{len(rows)} master subrows, {len(by_id)} inventory rows, "
-        f"{len(FIGURES)} SVG pages, {len(open_subrows)} open subrows, "
+        f"{len(FIGURES)} SVG data cards, {len(open_subrows)} open subrows, "
         f"and {len(zero_subrows)} measured zeros"
     )
 

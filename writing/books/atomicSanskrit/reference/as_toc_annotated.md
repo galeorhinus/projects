@@ -293,17 +293,17 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 **Appendix Part 1 — Baking the Mother Tongue** *(drafted)* — *The PIE-fabrication appendix. Names the colonial Sanskrit-knowledge enterprise as the data pipeline; Deccan College Pune as the named exemplar; the German neogrammarian project as the bakery in which Sanskrit's* dhātavaḥ *were converted to PIE* apaśabdas. *The cooking/baking cluster supplies the fraud vocabulary;* manufactured *is reserved for Sanskrit's engineering.*
 
-- 1.1 The Conversion-Extraction Nexus · 1.2 The Pipeline · 1.3 The Pundits and the Priests · 1.4 The German Bake · 1.5 Recipe After Recipe — The Dhātu Cluster Evidence · 1.6 The Verdict — Continuity Across Independence
+- 1.1 The Documented Conversion Mandate · 1.2 The Institutions That Supplied the Pipeline · 1.3 The Honors and the Choice They Rewarded · 1.4 From Sanskrit Anchor to Imaginary Ancestor · 1.5 Recipe After Recipe — The Dhātu Cluster Evidence · 1.6 Operators in Motion · 1.7 How the Philological Categories Survived Independence
 
 **Appendix Part 2 — The Encyclopaedic Confirmation** *(drafted; analogous to ORL's* Chapter Zero) — *Institutional indictment of the* Encyclopaedic Dictionary of Sanskrit on Historical Principles *(Deccan College, Pune, 1948–present). Indicts the post-independence choice to rubber-stamp the OED's* historical-principles *methodology and deny Sanskrit the engineered-preservation framing the same discipline applied to Hebrew. Closes on the invitation: only the framework has to change.*
 
-- 2.1 The Fleet · 2.2 A Choice, Not an Inheritance · 2.3 The Project and Its Method · 2.4 The Double Standard · 2.5 Three Layers of Variation · 2.6 The English Contrast · 2.7 What the Project Cannot Show · 2.8 The Reframe · 2.9 Remove PIE from the Sanskrit Syllabus · 2.10 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
+- 2.1 The Institutional Network · 2.2 The Choice of 1948 · 2.3 The Project and Its Method · 2.4 The Double Standard · 2.5 Five Kinds of Evidence · 2.6 The English Contrast · 2.7 What the Dictionary Tests · 2.8 Reclassifying the Evidence · 2.9 Remove PIE from the Sanskrit Syllabus · 2.10 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
 
 **Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended** *(drafted)* — *Reframes the script argument around the sonomer-first claim: Sanskrit is sonomeric before it is audiographic. Prosecutes the Brāhmī-from-Aramaic account as an interface trap; coins **audiography**; runs the place-value / Roman-numerals logic test in full (all alphabetic systems sit at the Roman-numeral level; all audiographic systems at the place-value level; the marks are the easy part, the grid is the achievement). Hangul as the control case.*
 
 - 3.1 Sonomer First, Audiograph Second · 3.2 The Interface Trap · 3.3 The "Brilliantly Adapted" Move · 3.4 What Aramaic Cannot Encode · 3.5 What Earlier Glyphs Cannot Explain · 3.6 What Stone Can Preserve · 3.7 Audiography — The Name Withheld · 3.8 Three Design Cases: Sound, Script, Standard · 3.9 The Sonomer Travels East · 3.10 The Foundational Claim on Writing · 3.11 The Research Ahead
 
-**Appendix Part 4 — The Consonant Inventory Atlas and Additional Surveys** *(drafted)* — *Evidence supplement to Chapter 8: the full atlas method and seven additional surveys (Munda 20/23, Mixed 21/23, dispersed 18/23, Northwest Frontier 22/23, non-contact Iranian 15/23, Caucasus 13/23, Slavic & Caucasus IE 14/23). The §4.9 sequence shows coverage falling with geographic distance while the family-tree classifications obscure the regional pattern.*
+**Appendix Part 4 — The Consonant Inventory Atlas and Additional Surveys** *(drafted)* — *Evidence supplement to Chapter 8: the full atlas method and seven additional surveys (Santali-inclusive forest belt 20/23, Santali-free mixed 21/23, dispersed 18/23, Northwest Frontier 22/23, non-contact Iranian 15/23, Caucasus 13/23, Slavic & Caucasus IE 14/23). The §4.9 sequence shows coverage falling with geographic distance while the family-tree classifications obscure the regional pattern.*
 
 - 4.1 The Atlas Method in Depth · 4.2–4.8 the seven additional surveys · 4.9 The Coverage Cascade
 
@@ -315,19 +315,19 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 - 6.1 The Structural Baseline · 6.2 Eight Engineering Principles · 6.3 How Far Compact Atoms Reach · 6.4 How Atomic Shape Relates to Activation · 6.5 What the Numbers Show · 6.6 Replication
 
-**Appendix Part 7 — The Architecture Already in the Vedas** *(drafted)* — *Places three Vedic passages before the reader and identifies the sound junctions, grammatical endings, derivations, sentence operations, and dhātavaḥ already operating before Pāṇini documented them.*
+**Appendix Part 7 — The Architecture Already in the Vedas** *(drafted)* — *Analyzes four Vedic passages and identifies the sound junctions, grammatical endings, derivations, sentence operations, and dhātavaḥ already operating before Pāṇini documented them.*
 
-- 7.1 The Corpus Before the Manual · 7.2 Three Verses — The Implicit Grammar in Operation · 7.3 The *Dhātu* Inventory in the Corpus · 7.4 The Grammar Preceded the Manual
+- 7.1 The Corpus Before the Manual · 7.2 Evidence Used in Chapter 11 · 7.3 Evidence Used in Chapter 12 · 7.4 Four Complete Passage Analyses · 7.5 Six धातुः (*Dhātuḥ*) Groups Across Two Mantras · 7.6 The Grammar Preceded the Manual
 
-**Appendix Part 8 — Designed Variations Across the Two Domains** *(drafted)* — *Documents the technical evidence behind Chapter 16. Exact passages show how Vedic scope preserves additional sounds, pitch, duration, placements, vibhakti forms, and verbal forms. The complete figure series records 83 declensional categories, prevalence measures, evidence grades, and unresolved purposes; the leṭ analysis records both its additional range and its collisions with loṭ.*
+**Appendix Part 8 — Designed Variations Across the Two Domains** *(drafted)* — *Documents the technical evidence behind Chapter 16. Exact passages show how Vedic scope preserves additional sounds, pitch, duration, placements, vibhakti forms, and verbal forms. Eighty-three unnumbered data cards preserve every category in Devanagari with complete labels, prevalence measures, evidence grades, and unresolved purposes; the leṭ analysis records both its additional range and its collisions with loṭ.*
 
-- 8.1 How to Read the Evidence · 8.2 Evidence and Coding Method · 8.3 Sounds, Accent, and Exact Recitation · 8.4 Positional Freedom and Extended Forms · 8.5 The *Leṭ–Loṭ* Collision Record · 8.6 Other Vedic Verbal Forms · 8.7 The Differences at a Glance · 8.8 Documented Stewardship Across Both Domains
+- 8.1 How to Read the Evidence · 8.2 Evidence and PASS Method · 8.3 Sounds, Accent, and Exact Recitation · 8.4 Positional Freedom and Extended Forms · 8.5 The *Leṭ–Loṭ* Collision Record · 8.6 Other Vedic Verbal Forms · 8.7 The Differences at a Glance · 8.8 Documented Stewardship Across Both Domains
 
 **Appendix Part 9 — Testing the Codification Myth** *(drafted)* — *States what the codification myth would have to demonstrate, exposes chronology built from its own assumptions, and proposes a corpus-wide audit. Chapter 2 provides the language categories; Chapter 16 and Appendix Part 8 provide the two-domain analysis; this appendix tests whether the evidence shows a Pāṇinian rupture.*
 
-- 9.1 The Claim Being Tested · 9.2 Chronology Built from Its Own Assumptions · 9.3 What the Codification Myth Must Demonstrate · 9.4 A Corpus-Wide Audit · 9.5 Bounded Alternatives and an External Anchor · 9.6 The Result
+- 9.1 The Claim Being Tested · 9.2 Chronology Built from Its Own Assumptions · 9.3 What the Codification Myth Must Demonstrate · 9.4 A Corpus-Wide Audit · 9.5 Pāṇini Records Alternatives; Mitanni Predates Him · 9.6 The Result
 
-**Appendix Part 10 — Glossary** *(drafted)* — *Reference for the book's technical vocabulary in three groups: (1) **engineering core vocabulary** (the chemistry stack, with coined compounds flagged); (2) **technical Sanskrit vocabulary**; (3) **diagnostic vocabulary** (the cluster terms). Each entry marks the term as standard, coined, or repurposed.*
+**Appendix Part 10 — Glossary** *(drafted)* — *Reference for the book's technical vocabulary, preceded by an index of book-coined terms and organized by function: sound and script; atomic grammar; language behavior and radiance; preservation and calibrant architecture; Sanskrit and civilizational vocabulary; and diagnostic vocabulary. Each entry marks the term as standard, coined, controlled, or repurposed.*
 
 ---
 

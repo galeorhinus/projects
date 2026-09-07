@@ -141,6 +141,13 @@ _EB_GARAMOND_FACES = {
     (True, True): "~/Library/Fonts/EBGaramond-BoldItalic.otf",
 }
 
+_STIX_TWO_TEXT_FACES = {
+    (False, False): "/System/Library/Fonts/Supplemental/STIXTwoText.ttf",
+    (True, False): "/System/Library/Fonts/Supplemental/STIXTwoText.ttf",
+    (False, True): "/System/Library/Fonts/Supplemental/STIXTwoText-Italic.ttf",
+    (True, True): "/System/Library/Fonts/Supplemental/STIXTwoText-Italic.ttf",
+}
+
 
 def resolve_font_path(font_weight: str = "", font_style: str = "") -> str:
     """Map SVG font-weight/font-style values to the matching Adobe Devanagari
@@ -167,6 +174,10 @@ def resolve_latin_font(
     is_italic = font_style.strip().lower() == "italic"
     if "EB Garamond" in font_family:
         candidate = os.path.expanduser(_EB_GARAMOND_FACES[(is_bold, is_italic)])
+        if os.path.exists(candidate):
+            return candidate, 0
+    if "STIX Two Text" in font_family:
+        candidate = _STIX_TWO_TEXT_FACES[(is_bold, is_italic)]
         if os.path.exists(candidate):
             return candidate, 0
     return _LATIN_FONT_PATH, _LATIN_FACE_INDEX[(is_bold, is_italic)]
@@ -801,6 +812,15 @@ def _parse_attrs(attrs_str: str) -> dict[str, str]:
     return attrs
 
 
+def _requests_full_outline(attrs: dict[str, str]) -> bool:
+    """Allow a figure generator to make one text element fully portable.
+
+    This is intentionally opt-in. Existing figures retain the narrower rule
+    that outlines Devanagari and known-risky Latin runs only.
+    """
+    return attrs.get("data-outline-all", "").strip().lower() in {"1", "true", "yes"}
+
+
 # Attributes that must survive onto the replacement <g> unchanged — losing
 # any of these silently breaks the figure. transform is the one that bit
 # us first (rotated column headers piled up at the wrong angle once their
@@ -1148,6 +1168,7 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
             contains_risky_latin_font(live_font_family)
             or is_risky_latin_style(attrs.get("font-style", ""))
             or contains_risky_symbol(content)
+            or _requests_full_outline(attrs)
         )
         has_deva = contains_devanagari(content)
         if not has_deva and not risky_latin:
@@ -1213,6 +1234,7 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
             and not contains_risky_latin_font(whole)
             and not markup_has_italic(whole)
             and not contains_risky_symbol(m.group("inner"))
+            and not _requests_full_outline(_parse_attrs(m.group("attrs")))
         ):
             return whole
         # Multi-line paragraphs use `dy` on each new-line tspan (plus a
@@ -1264,6 +1286,7 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
             contains_risky_latin_font(live_font_family)
             or is_risky_latin_style(attrs.get("font-style", ""))
             or contains_risky_symbol(content)
+            or _requests_full_outline(attrs)
         )
         if not contains_devanagari(content) and not risky_latin:
             return m.group(0)

@@ -4,11 +4,11 @@
 
 ## 8.1 How to Read the Evidence
 
-Chapter 16 explains why Sanskrit uses one architecture in two domains. The वैदिक (*vaidika*) domain preserves received passages exactly, while the लौकिक (*laukika*) domain allows speakers to create new expressions through the same language architecture. This appendix documents the differences between those domains.
+Chapter 16 explains why Sanskrit uses one architecture in two domains. The वैदिक (*vaidika*) domain preserves received passages exactly, while the लौकिक (*laukika*) domain allows speakers to create new expressions through the same architecture. This appendix presents the sounds, endings, placements, pitches, and verbal forms behind that distinction.
 
-Each comparison begins with the form familiar to a student of लौकिक (*laukika*) Sanskrit. It then identifies the additional sound, ending, placement, pitch, or verbal form preserved in a Vedic passage. Chapter 16 defines ten ways in which those additional resources can contribute to the Vedic domain. The next section assigns each contribution a short code and explains how the figures record the passage, local function, frequency, and questions that remain open.
+Each comparison begins with a form familiar to a student of लौकिक (*laukika*) Sanskrit and then identifies an additional resource preserved in a Vedic passage. The evidence asks what that resource contributes, what additional load it creates, what contains that load, and why the resource belongs within its stated scope.
 
-As the book has repeatedly shown, the words वैदिक (*vaidika*) and लौकिक (*laukika*) identify domains of Sanskrit's use rather than periods in a botanical chronology. The Veda can preserve two alternate forms in adjacent verses, as **रुद्रैः (*rudraiḥ*)** and **रुद्रेभिः (*rudrebhiḥ*)** demonstrate below. Their coexistence requires an explanation based on function and setting rather than a story in which one form evolved into the other.
+वैदिक (*Vaidika*) and लौकिक (*laukika*) therefore identify domains of use, not periods in a botanical chronology. Adjacent Ṛgvedic verses can preserve **रुद्रैः (*rudraiḥ*)** and **रुद्रेभिः (*rudrebhiḥ*)**, two endings for the same grammatical relation. Their coexistence calls for an explanation based on their work within each line, not a story in which one form evolved into the other.
 
 ## 8.2 Evidence and PASS Method
 
@@ -34,48 +34,27 @@ The first step identifies what the additional resource contributes to its passag
 | **FUN** | a function specific to a Veda, Vedic prose setting, or mode of use |
 | **AUD** | error detection and overlapping audit checks |
 
-A single form can receive more than one code. An extended ending may complete a metrical line, strengthen its resonance, make a grammatical boundary easier to hear, and give reciters another way to detect a change.
+One form may contribute in several ways. An extended ending, for example, can complete a metrical line, strengthen its sound, make a grammatical boundary easier to hear, and give reciters another way to detect a change.
 
-A passage may show exactly what an additional form contributes without explaining why Sanskrit confines that form to the Vedic domain. The appendix therefore records the passage and its immediate function separately from the cost of using the form, the features that keep it bounded, and its final scope. When the evidence does not establish one of those elements, the corresponding entry remains blank.
+The records separate four levels of evidence. **FORM** confirms the form itself. **P** marks an exact passage, and **FN** marks a function demonstrated within that passage. **OPEN** identifies something the present evidence has not explained. The record leaves an unknown field open rather than printing it as zero.
 
-The evidence column uses **P** when an exact passage has been checked and **FN** when the local function has been demonstrated. **OPEN** means that another part remains unresolved. A blank contribution cell means that the form has been documented but the reason for its selection in that passage has not yet been established.
-
-The prevalence column uses four kinds of markers because the available evidence cannot always be counted in the same way:
-
-1. A filled bar shows a percentage calculated from a known numerator and denominator.
-2. A numbered dot shows an absolute count when no complete denominator is available.
-3. An outlined bar shows an approximate value or a stated upper or lower bound.
-4. A dashed open cell shows that no reliable numerical measure has yet been established. A measured zero uses a crossed box, so zero cannot be confused with missing evidence.
-
-The letters **A–D** report the evidence grade, while the short unit labels distinguish tokens, lexemes, forms, passages, and examples. Where one grammatical category has several measurements, the figure shows the primary measure and marks the number of additional measurements retained in the underlying data.
+Prevalence also requires different measures. A percentage comes from a known numerator and denominator. A raw number reports a count when no complete denominator exists, while **≈** marks an estimate or bound. A measured zero appears as **0**. The letters **A–D** report the evidence grade, and every measurement states whether it counts tokens, lexemes, forms, passages, or examples.
 
 ## 8.3 Sounds, Accent, and Exact Recitation
 
 ### Sonances, Sonomers, and Domains
 
-Chapter 16 introduces **ईळे (*īḷe*)** from the opening mantra of the Ṛgveda. The following analysis places its retroflex lateral **ळ [ɭ]** beside two other off-grid sonances that Sanskrit preserves or generates without assigning them independent addresses in the reusable sonomer grid.
+Chapter 9 §9.10 distinguishes reusable sonomers from off-grid sonances. This appendix records three such sounds and the boundaries that contain them.
 
-Chapter 9 §9.10 explains the category behind this difference. Every consonantal sound selected into Sanskrit's architecture is a sonance. A sonance becomes a sonomer when it receives an independent address and speakers can choose it freely while building new words. An off-grid sonance appears only under a stated condition or within a named Vedic lineage.
+In Ṛgveda 1.1.2, the विसर्ग (*visarga*) before **प** in **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)** becomes the [ɸ]-like उपध्मानीय (*upadhmānīya*). Before **क** or **ख**, the corresponding junction produces जिह्वामूलीय (*jihvāmūlīya*) near the back of the mouth. The Taittirīya Saṃhitā preserves that junction in **नमः कपर्दिने च (*namaḥ kapardine ca*)**. The neighboring sounds generate both sonances under stated Sanskrit-wide conditions, so neither requires an independent grid address.[NOTE: vedic-jihvamuliya-upadhmaniya-pair]
 
-Chapter 9 uses the [ɸ]-like sound to explain the same principle. In Ṛgveda 1.1.2, the ***विसर्ग (*visarga*)*** before **प** in **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)** becomes the ***उपध्मानीय (*upadhmānīya*)***. The recited passage preserves [ɸ] at that specified junction, but the generative grid does not assign another address beside **फ** merely because the sound can be pronounced.
+The Ṛgvedic **ळ [ɭ]** belongs to a narrower scope. The received words fix its position, and the Ṛgveda-Prātiśākhya specifies its recitational operation. A trained reciter preserves the sound wherever that corpus requires it, while the reusable laukika grid leaves the neighboring retroflex address unassigned.
 
-The corresponding junction before **क** or **ख** produces the ***जिह्वामूलीय (*jihvāmūlīya*)*** near the back of the mouth. The Taittirīya Saṃhitā preserves one such junction in **नमः कपर्दिने च (*namaḥ kapardine ca*)**. The final breath of **नमः** changes before the following **क**, just as it changes at the lips before **प**. Sanskrit has analyzed both sounds and preserves them wherever the junction calls for them. Neither sound needs an independent address in the sonomer grid because each is generated by a stated relation between विसर्ग (*visarga*) and the sound that follows. These are Sanskrit-wide condition-generated junction operations rather than sounds confined to one Vedic lineage.[NOTE: vedic-jihvamuliya-upadhmaniya-pair]
-
-The Ṛgvedic **ळ** applies the same principle within a narrower scope. The opening passage fixes the word, the sound's position, and its relation to the sounds around it. The Ṛgveda-Prātiśākhya specifies the recitational operation for that corpus. Reciters can therefore preserve **ळ** wherever a received passage requires it.
-
-If Sanskrit promoted **ळ** to an independent sonomer in the लौकिक (*laukika*) domain, speakers could use it freely in newly generated words. The grid would then gain another retroflex address beside **ड**, even though the two sounds do not provide enough separation to justify crowding that part of the grid. The Ṛgvedic lineage can preserve **ळ** selectively without making it available for unrestricted लौकिक (*laukika*) generation.
-
-The treatment of **ळ** demonstrates sonomeric selection and distinguishability. Exact transmission preserves **ळ** in the words that require it, while the generative grid leaves an address unassigned when unrestricted use would reduce the separation among neighboring sounds. The fixed sound also participates in error detection because a reciter trained in the passage will hear a substitution.
-
-The following table separates three kinds of sound: candidates that Sanskrit excludes, sonomers with independent addresses, and off-grid sonances that appear only within stated boundaries.
-
-| Sound candidate or sonance | Contribution | Load | Bounding support | Scope |
-|---|---|---|---|---|
-| **[ɰ]** as an independent sonomer | no recurring Sanskrit operation has been established | would add a grid address without completing the इक्-यण् (*ik–yaṇ*) relation | none established for independent reuse | **Excluded** |
-| ***जिह्वामूलीय (*jihvāmūlīya*)*** | preserves the velar form of विसर्ग (*visarga*) before **क/ख** | adds a contextual sound outside the independent grid | the preceding विसर्ग (*visarga*) and following **क/ख** generate it | **Restricted** |
-| **[ɸ]** as an independent sonomer | no independent recurring contrast has been established | would crowd the labial breath range beside **फ** | none established for independent reuse | **Excluded** |
-| ***उपध्मानीय (*upadhmānīya*)*** | preserves the labial form of विसर्ग (*visarga*) before **प/फ** | adds a contextual sound outside the independent grid | the preceding विसर्ग (*visarga*) and following **प/फ** generate it | **Restricted** |
-| Ṛgvedic **ळ [ɭ]** | preserves the exact sound of received Ṛgvedic words | unrestricted reuse would reduce separation beside **ड** | fixed passage, position, and Ṛgvedic recitational specification | **Lineage-Bounded** |
+| Off-grid sonance | Contribution | Bounding support | Scope |
+|---|---|---|---|
+| जिह्वामूलीय (*jihvāmūlīya*) | velar realization of विसर्ग (*visarga*) before **क/ख** | the stated junction generates it | **Restricted** |
+| उपध्मानीय (*upadhmānīya*) | labial realization of विसर्ग (*visarga*) before **प/फ** | the stated junction generates it | **Restricted** |
+| Ṛgvedic **ळ [ɭ]** | exact sound of received Ṛgvedic words | fixed passage, position, and recitational specification | **Lineage-Bounded** |
 
 ### Svara, Chandas, and Exact Recitation
 
@@ -89,13 +68,7 @@ Chapter 16 explains how स्वर (*svara*) and छन्दस् (*chandas*
 
 The numeral **३** directs the reciter to extend the vowel to three ***मात्राः (*mātrāḥ*)***. The duration belongs to the act of weighing two alternatives: the voice audibly keeps each possibility open. Sanskrit also uses प्लुत (*pluta*) under stated लौकिक (*laukika*) conditions, including calling to someone at a distance and deliberating between alternatives. The difference lies in permission. A speaker applies प्लुत (*pluta*) lengthening when the stated circumstance arises, while the Ṛgvedic lineage always preserves these two प्लुत (*pluta*) vowels at these exact positions in the passage.[NOTE: vedic-pluta-rv-10-129-5]
 
-These features change what a student must learn for exact recitation; they do not replace the shared grammar through which the sentence is understood. The opening mantra has no additional ***सुबन्तरूप (*subanta-rūpa*, nominal form)*** or ***तिङन्तरूप (*tiṅanta-rūpa*, finite verbal form)*** that a लौकिक (*laukika*) student must learn.
-
-Students learn these features through a ***शाखा (*śākhā*)***. Its teachers, reciters, छन्दस् (*chandas*), स्वर (*svara*), fixed sequence, and ***पाठ (*pāṭha*)*** methods create several independent checks on the received form.
-
-The assigned स्वर (*svara*) and छन्दस् (*chandas*) satisfy four criteria directly: syllable count and weight, pitch architecture, recitational function, and error detection. स्वर (*Svara*) also contributes to interpretation. Together, pitch and meter make the received form easier to remember, preserve more of its meaning in sound, and give the recitational community more than one way to detect a change.
-
-### Sentence Position, Svara (Accent), and a Tiṅ-pratyaya (Personal Ending)
+### Sentence Position, Pitch, and a Personal Ending
 
 Ṛgveda 1.1.7 contains both sentence-level ***स्वर (*svara*, accent)*** and an additional ***तिङ्-प्रत्यय (*tiṅ-pratyaya*, personal ending)***:
 
@@ -135,11 +108,7 @@ Chapter 16 uses Ṛgveda 1.16.1 to show the separated **आ ... वहन्त�
 
 **आ (*ā*)** belongs with **दत्ते (*datte*)**, although **द्विषतो वसु (*dviṣato vasu*)** comes between them. **निर् (*nir*)** likewise belongs with **नुदते (*nudate*)** across several intervening words. Meter does not govern this prose passage. The passage itself never changes, so **आ** always occurs in the same position relative to **दत्ते**, and **निर्** always remains bound in meaning to **नुदते**.
 
-The prose passage establishes **REL**, recoverable grammatical relations under invariant sequence. It also establishes that meter cannot be the only reason the वैदिक (*vaidika*) domain permits a separated उपसर्ग (*upasarga*).[NOTE: aitareya-brahmana-separated-upasargas]
-
-The reason for the Vedic scope is specific. Separating an उपसर्गः (*upasargaḥ*) from its atom gives the composer greater freedom over position and arrangement, but it can make the bond between them harder to recover. A Vedic passage prevents that confusion because its words, sequence, and interpretation remain fixed.
-
-Newly composed laukika prose has no fixed passage to preserve the bond. It therefore keeps the उपसर्गः (*upasargaḥ*) closer to its atom.
+The prose passage removes meter as the explanation for the separated उपसर्गाः (*upasargāḥ*).[NOTE: aitareya-brahmana-separated-upasargas] The Vedic passage can place other words between each उपसर्गः (*upasargaḥ*) and its atom because the wording, sequence, and interpretation never change. A newly composed laukika sentence must make the same bond clear on its first use, so it keeps the उपसर्गः (*upasargaḥ*) with its atom.
 
 ### Extended Vibhakti (Case) Forms
 
@@ -159,37 +128,187 @@ Two adjacent verses in Ṛgveda 3.32 demonstrate the selection.[NOTE: vedic-akar
 
 The first पाद (*pāda*) uses two-syllable **रुद्रैः (*rudraiḥ*)**. The next verse uses three-syllable **रुद्रेभिः (*rudrebhiḥ*)**. Both lines have the eleven syllables of Triṣṭubh. Replacing **रुद्रैः** with **रुद्रेभिः** in the first would produce twelve syllables; replacing **रुद्रेभिः** with **रुद्रैः** in the second would leave ten. The Veda preserves both endings and selects the form that completes each line without changing the विभक्ति (*vibhakti*), number, or grammatical relation.
 
-The pair therefore receives **MAT** for syllable count and **ARR** for poetic arrangement. **REL** remains open: the fuller ending may make the grammatical boundary easier to hear, but the present evidence has not demonstrated that contribution.
+The two endings perform the same grammatical work but supply different syllable counts. The received lines and their meter keep the choice exact. Laukika Sanskrit uses **-aiḥ** as the reusable ending for new composition, where offering two interchangeable endings for every अकारान्त (*akārānta*) word would add duplication without the Vedic passage to govern the choice.
 
-The selection-and-scope profile explains why the Vedic domain can retain both endings without giving the read-write domain two interchangeable forms for every akārānta word. Their demonstrated contribution is metrical and compositional choice. Their load is duplication: two endings express the same विभक्ति (*vibhakti*), number, and grammatical relation. Fixed passages and meter contain that load in the Veda. Laukika Sanskrit uses **-aiḥ** as the reusable form for new composition.
+Vedic ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)*** extend far beyond the **-ebhiḥ / -aiḥ** comparison. The 83 records below include 29 singular, 12 dual, 21 plural, 10 word-class, 7 numeral, and 4 accent-and-recitation records. They retain rare, doubtful, isolated, and unexplained forms alongside the better-understood patterns. Every record gives the Vedic range, the laukika form used for new composition, the contribution established so far, the evidence state, and the available prevalence measure. Its upper-right label provides a stable address into the source record. The codes and evidence grades follow the key in §8.2.
 
-### The Complete Range of Vibhakti-rūpāṇi (Declensional Forms)
+### एकवचनम् (*ekavacanam*): Singular
 
-Vedic ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)*** extend far beyond the **-ebhiḥ / -aiḥ** comparison. The figures below organize 83 categories across ***एकवचनम् (*ekavacanam*, singular), द्विवचनम् (*dvivacanam*, dual), बहुवचनम् (*bahuvacanam*, plural),*** word classes, numerals, accent, and recitational realization. The figures include rare, doubtful, isolated, and still-unexplained forms alongside the better-understood patterns.
+![](figures/vaidika_laukika/designed_variation_sg_01.svg "Designed variation SG-01"){width=100%}
 
-The **DV** column uses the contribution codes defined in §8.2. Blank and open cells preserve unresolved evidence rather than presenting it as zero.
+![](figures/vaidika_laukika/designed_variation_sg_02.svg "Designed variation SG-02"){width=100%}
 
-![Designed Variations: एकवचनम् (*Ekavacanam*) (singular), SG-01 through SG-15. Each row compares a Vedic विभक्तिरूप (*vibhakti-rūpa*), or declensional form, with its ordinary laukika counterpart and preserves the present evidence state.](figures/vaidika_laukika/designed_variations_ekavacanam_01.svg){#fig:app8-designed-variations-ekavacanam-01 width=100%}
+![](figures/vaidika_laukika/designed_variation_sg_03.svg "Designed variation SG-03"){width=100%}
 
-![Designed Variations: एकवचनम् (*Ekavacanam*) (singular), SG-16 through SG-29. The second page includes सर्वनामरूपाणि (*sarvanāma-rūpāṇi*), or pronoun forms, and categories whose prevalence or function remains open.](figures/vaidika_laukika/designed_variations_ekavacanam_02.svg){#fig:app8-designed-variations-ekavacanam-02 width=100%}
+![](figures/vaidika_laukika/designed_variation_sg_04.svg "Designed variation SG-04"){width=100%}
 
-![Designed Variations: द्विवचनम् (*Dvivacanam*) (dual). The Vedic dual preserves additional forms and, in its personal pronouns, additional grammatical distinctions.](figures/vaidika_laukika/designed_variations_dvivacanam.svg){#fig:app8-designed-variations-dvivacanam width=100%}
+![](figures/vaidika_laukika/designed_variation_sg_05.svg "Designed variation SG-05"){width=100%}
 
-![Designed Variations: बहुवचनम् (*Bahuvacanam*) (plural), PL-01 through PL-11. The first page includes expanded, contracted, and alternate plural endings.](figures/vaidika_laukika/designed_variations_bahuvacanam_01.svg){#fig:app8-designed-variations-bahuvacanam-01 width=100%}
+![](figures/vaidika_laukika/designed_variation_sg_06.svg "Designed variation SG-06"){width=100%}
 
-![Designed Variations: बहुवचनम् (*Bahuvacanam*) (plural), PL-12 through PL-21. The second page includes the extended तृतीया (*tṛtīyā*), or instrumental, form demonstrated by रुद्रेभिः (*rudrebhiḥ*) and further pronoun forms.](figures/vaidika_laukika/designed_variations_bahuvacanam_02.svg){#fig:app8-designed-variations-bahuvacanam-02 width=100%}
+![](figures/vaidika_laukika/designed_variation_sg_07.svg "Designed variation SG-07"){width=100%}
 
-![Designed Variations: Word Classes. These rows show Vedic distributions that cannot be reduced to one alternate ending.](figures/vaidika_laukika/designed_variations_word_classes.svg){#fig:app8-designed-variations-word-classes width=100%}
+![](figures/vaidika_laukika/designed_variation_sg_08.svg "Designed variation SG-08"){width=100%}
 
-![Designed Variations: Numerals. The rows include alternate numeral forms, विभक्ति (*vibhakti*) agreement, and specified accent.](figures/vaidika_laukika/designed_variations_numerals.svg){#fig:app8-designed-variations-numerals width=100%}
+![](figures/vaidika_laukika/designed_variation_sg_09.svg "Designed variation SG-09"){width=100%}
 
-![Designed Variations: Accent and Recitation. These operations change what is heard even when the visible ending does not change.](figures/vaidika_laukika/designed_variations_accent_recitation.svg){#fig:app8-designed-variations-accent-recitation width=100%}
+![](figures/vaidika_laukika/designed_variation_sg_10.svg "Designed variation SG-10"){width=100%}
 
-```{=latex}
-\clearpage
-```
+![](figures/vaidika_laukika/designed_variation_sg_11.svg "Designed variation SG-11"){width=100%}
 
-The figures produce two kinds of result. In some passages, the evidence explains what the additional form does: it may add or remove a syllable, preserve another grammatical relation, govern a junction, or support a particular arrangement. In others, the evidence confirms the Vedic form but does not yet explain why that passage uses it.
+![](figures/vaidika_laukika/designed_variation_sg_12.svg "Designed variation SG-12"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_13.svg "Designed variation SG-13"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_14.svg "Designed variation SG-14"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_15.svg "Designed variation SG-15"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_16.svg "Designed variation SG-16"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_17.svg "Designed variation SG-17"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_18.svg "Designed variation SG-18"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_19.svg "Designed variation SG-19"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_20.svg "Designed variation SG-20"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_21.svg "Designed variation SG-21"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_22.svg "Designed variation SG-22"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_23.svg "Designed variation SG-23"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_24.svg "Designed variation SG-24"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_25.svg "Designed variation SG-25"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_26.svg "Designed variation SG-26"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_27.svg "Designed variation SG-27"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_28.svg "Designed variation SG-28"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_sg_29.svg "Designed variation SG-29"){width=100%}
+
+### द्विवचनम् (*dvivacanam*): Dual
+
+![](figures/vaidika_laukika/designed_variation_du_01.svg "Designed variation DU-01"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_02.svg "Designed variation DU-02"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_03.svg "Designed variation DU-03"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_04.svg "Designed variation DU-04"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_05.svg "Designed variation DU-05"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_06.svg "Designed variation DU-06"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_07.svg "Designed variation DU-07"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_08.svg "Designed variation DU-08"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_09.svg "Designed variation DU-09"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_10.svg "Designed variation DU-10"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_11.svg "Designed variation DU-11"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_du_12.svg "Designed variation DU-12"){width=100%}
+
+### बहुवचनम् (*bahuvacanam*): Plural
+
+![](figures/vaidika_laukika/designed_variation_pl_01.svg "Designed variation PL-01"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_02.svg "Designed variation PL-02"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_03.svg "Designed variation PL-03"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_04.svg "Designed variation PL-04"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_05.svg "Designed variation PL-05"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_06.svg "Designed variation PL-06"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_07.svg "Designed variation PL-07"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_08.svg "Designed variation PL-08"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_09.svg "Designed variation PL-09"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_10.svg "Designed variation PL-10"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_11.svg "Designed variation PL-11"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_12.svg "Designed variation PL-12"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_13.svg "Designed variation PL-13"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_14.svg "Designed variation PL-14"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_15.svg "Designed variation PL-15"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_16.svg "Designed variation PL-16"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_17.svg "Designed variation PL-17"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_18.svg "Designed variation PL-18"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_19.svg "Designed variation PL-19"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_20.svg "Designed variation PL-20"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_pl_21.svg "Designed variation PL-21"){width=100%}
+
+### शब्दवर्गाः (*śabda-vargāḥ*): Word Classes
+
+![](figures/vaidika_laukika/designed_variation_cl_01.svg "Designed variation CL-01"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_cl_02.svg "Designed variation CL-02"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_cl_03.svg "Designed variation CL-03"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_cl_04.svg "Designed variation CL-04"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_cl_05.svg "Designed variation CL-05"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_cl_06.svg "Designed variation CL-06"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_cl_07.svg "Designed variation CL-07"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_cl_08.svg "Designed variation CL-08"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_cl_09.svg "Designed variation CL-09"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_cl_10.svg "Designed variation CL-10"){width=100%}
+
+### संख्याः (*saṃkhyāḥ*): Numerals
+
+![](figures/vaidika_laukika/designed_variation_nu_01.svg "Designed variation NU-01"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_nu_02.svg "Designed variation NU-02"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_nu_03.svg "Designed variation NU-03"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_nu_04.svg "Designed variation NU-04"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_nu_05.svg "Designed variation NU-05"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_nu_06.svg "Designed variation NU-06"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_nu_07.svg "Designed variation NU-07"){width=100%}
+
+### स्वरः पाठश्च (*svaraḥ pāṭhaś ca*): Accent and Recitation
+
+![](figures/vaidika_laukika/designed_variation_ac_01.svg "Designed variation AC-01"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_ac_02.svg "Designed variation AC-02"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_ac_03.svg "Designed variation AC-03"){width=100%}
+
+![](figures/vaidika_laukika/designed_variation_ac_04.svg "Designed variation AC-04"){width=100%}
 
 ## 8.5 The लेट्–लोट् (*Leṭ–Loṭ*) Collision Record
 
@@ -202,12 +321,6 @@ Vedic स्वर (*svara*) adds grammatical information, but it does not give 
 The formal collision occupies fewer coordinates than the broader functional overlap. लेट् (*Leṭ*) can express desire, intention, urging, or an action approaching realization, while लौकिक (*laukika*) Sanskrit distributes much of that range across लोट् (*loṭ*), लिङ् (*liṅ*), आशीर्लिङ् (*āśīrliṅ*), and लृट् (*lṛṭ*). The Source and Reference Companion compares all eighteen person-number-पद (*pada*) coordinates and records both the exact collisions and the wider semantic overlap.
 
 Pāṇini documented the two paradigms after the Vedas had already preserved लेट् (*leṭ*). Comparing those documented paradigms reveals the collision; the *Aṣṭādhyāyī* does not state the two-domain design rationale.
-
-The same evidence places लेट् (*leṭ*) within Vedic scope:
-
-| Contribution | Load | Bounding support | Scope |
-|---|---|---|---|
-| लेट् (*Leṭ*) gathers desire, intention, urging, and action approaching realization into one verbal resource. | Some forms collide visibly with लोट् (*loṭ*), and much of the semantic range overlaps with लोट् (*loṭ*), लिङ् (*liṅ*), आशीर्लिङ् (*āśīrliṅ*), and लृट् (*lṛṭ*). | Vedic pitch adds grammatical information; fixed wording, syntax, sequence, position, and inherited interpretation complete the boundary. | **वैदिक (*Vaidika*)** |
 
 ## 8.6 Other Vedic Verbal Forms
 
@@ -239,7 +352,7 @@ The form must be read with the words around it. **नु (*nu*)** brings the dec
 
 **पीत्वी सोमस्य वावृधे (*pītvī somasya vāvṛdhe*)** says, *having drunk Soma, he grew*. **पीत्वी** is a Vedic form of the ***क्त्वा-प्रत्यय (*ktvā-pratyaya*)***, commonly called a gerund or conjunctive participle in English. Pāṇini later documented this Vedic **-त्वी (*-tvī*)** form under Aṣṭādhyāyī 7.1.49. A लौकिक (*laukika*) composition would use **पीत्वा (*pītvā*)** for the same sequence of actions.[NOTE: vedic-gerund-pitvi]
 
-Both forms occupy two syllables, so the change from **-त्वा** to **-त्वी** does not help the meter by adding or removing a syllable. The mantra confirms that the Vedic domain uses **पीत्वी**, but this passage does not tell us why **-त्वी** was selected instead of **-त्वा**. The figure therefore leaves the reason blank.
+Both forms occupy two syllables, so **-त्वी** does not alter the meter. The mantra establishes the Vedic form but does not explain why this passage selects it instead of **-त्वा**.
 
 ### Two Vedic तुमर्थक (*tumarthaka*) Forms — Infinitives
 
@@ -259,9 +372,7 @@ Both पादाः (*pādas*) are transmitted in Triṣṭubh. The Vedic त�
 
 ### A Vedic क्वसु-कृदन्त (*kvasu-kṛdanta*) — Perfect Participle
 
-Ṛgveda 3.25.1 addresses Agni as **चिकित्वः (*cikitvaḥ*)**, *O knowing one*. It is a ***क्वसु-कृदन्त (*kvasu-kṛdanta*, perfect participle)***. The corresponding लौकिक (*laukika*) vocative, or सम्बोधन (*sambodhana*), is **चिकित्वन् (*cikitvan*)**. The Vedic form is well established in the passage, and its direct-address function is clear, but the local reason for selecting **-वः (*-vaḥ*)** instead of **-वन् (*-van*)** has not yet been demonstrated.[NOTE: vedic-participle-cikitvah]
-
-The passage confirms the Vedic form and its function as a direct address. It does not tell us why the address ends in **-वः** rather than **-वन्**, so the figure leaves the reason blank.
+Ṛgveda 3.25.1 addresses Agni as **चिकित्वः (*cikitvaḥ*)**, *O knowing one*. It is a क्वसु-कृदन्त (*kvasu-kṛdanta*), or perfect participle. The corresponding लौकिक (*laukika*) vocative is **चिकित्वन् (*cikitvan*)**. The passage establishes the Vedic form and its direct-address function, but it does not explain why this address ends in **-वः (*-vaḥ*)** rather than **-वन् (*-van*)**.[NOTE: vedic-participle-cikitvah]
 
 ## 8.7 The Differences at a Glance
 
@@ -278,34 +389,14 @@ The Vedic domain contains many additional sounds, endings, placements, pitches, 
 
 The table records how the grammatical continuum assigns these forms to the two domains. Its भाषा (*bhāṣā*) column is small because the laukika domain receives most of its resources from the shared architecture and needs only a limited set of forms of its own.[NOTE: laukika-only-scope-examples]
 
-### The Complete Comparison
+### The Complete Record
 
-The figures above give the complete inventory of विभक्तिरूपाणि (*vibhakti-rūpāṇi*), or declensional forms. The following table adds sound, verbal forms, उपसर्ग (*upasarga*) placement, composition, and recitation. Each row begins with the form or operation familiar to a लौकिक (*laukika*) student and identifies the additional resource preserved in the वैदिक (*vaidika*) domain.[NOTE: designed-variations-figure-sources]
-
-| Area | Laukika baseline | Vaidika difference |
-|---|---|---|
-| **Syllable pitch — स्वर (*svara*)** | ordinary composition does not use the Vedic pitch layer | exact recitation preserves **उदात्त (*udātta*), अनुदात्त (*anudātta*),** and **स्वरित (*svarita*)** on the assigned syllables |
-| **Duration — मात्रा (*mātrā*)** | ordinary words use reusable short-long vowel relations, with प्लुत (*pluta*) under stated speech conditions | a passage preserves ***प्लुत (*pluta*)*** or another specified duration wherever required |
-| **Lineage-preserved sounds outside the sonomer grid** | the generative grid assigns addresses only to sounds that remain distinguishable and function as reusable sonomers | the Ṛgvedic lineage selectively preserves **ळ / ळ्ह** under its received phonetic specification |
-| **Restricted junction sounds** | Sanskrit generates ***उपध्मानीय (*upadhmānīya*)*** and ***जिह्वामूलीय (*jihvāmūlīya*)*** from विसर्ग (*visarga*) under stated conditions | a received passage preserves the sound change at its fixed junction |
-| **Sound without direct lexical meaning** | poets use repetition, onomatopoeia, ***अनुप्रास (*anuprāsa*),*** and ***यमक (*yamaka*)*** for sound and poetic effect | Sāmavedic singing uses specified ***स्तोभ (*stobha*)*** syllables for melodic, acoustic, recitational, and contemplative purposes |
-| **सन्धि and विवृत्ति (*sandhi* and विवृत्ति (*vivṛtti*), junction and hiatus)** | सन्धि (*sandhi*) governs newly created sequences | a received passage can preserve विवृत्ति (*vivṛtti*), non-elision, or another operation assigned to Vedic scope |
-| **विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)** | speakers principally use विभक्ति (*vibhakti*) paradigms that apply consistently in new composition | passages preserve additional instrumental, locative, vocative, dual, and plural forms |
-| **सर्वनामरूपाणि (*sarvanāma-rūpāṇi*, pronoun forms)** | ordinary composition uses the *laukika sarvanāma* paradigms | passages preserve additional case distinctions and alternate forms |
-| **अट्-आगम (*aṭ-āgama*, augment)** | the ordinary लुङ् (*luṅ*), or aorist, uses its expected augment | passages preserve लुङ् (*luṅ*) forms without the augment in uses commonly called injunctive |
-| **लकाराः (*lakārāḥ*, tense and mood categories)** | composition uses the लकार (*lakāra*) system assigned to लौकिक (*laukika*) scope | Vedic scope includes ***लेट् (*leṭ*)*** and additional modal forms |
-| **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*, personal endings)** | laukika paradigms principally use **-mas, -tha, -ta,** and their counterparts | passages preserve endings such as **-masi, -thana, -tana,** and imperative **-tāt** |
-| **कृदन्त and क्त्वा forms (*kṛdanta* participles and क्त्वा (*ktvā*) gerunds)** | speakers normally use **-tvā** and **-ya**, together with the कृदन्त (*kṛdanta*) system available for new words | passages preserve additional participles and forms such as **-tvī** and rare **-tvāya** |
-| **तुमर्थक रूपाणि (*tumarthaka rūpāṇi*, infinitive forms)** | speakers normally use the **-tum** formation in new expressions | passages preserve formations including **-tum, -tave, -tavai, -dhyai,** and **-tos** |
-| **उपसर्ग placement (*upasarga*, prefix)** | an उपसर्ग (*upasarga*) ordinarily forms a head-bond directly with its atom | an उपसर्ग (*upasarga*) may bond directly, follow, or remain separated from its atom |
-| **Grammatical pitch — स्वर (*svara*)** | new expression must make its grammatical relations clear without Vedic pitch | the position and pitch of particles, vocatives, finite verbs, subordinate clauses, and separated operators help the listener interpret the sentence |
-| **समास and प्रत्यय formation (*samāsa* compounds and प्रत्यय (*pratyaya*) derivation)** | writers repeatedly apply compound and derivational operations to new uses | each passage preserves the compounds and Vedic-scope affixes selected for it |
-| **Composition and style** | authors create prose, poetry, analysis, drama, story, and individual styles | the Vedas, Brāhmaṇas, Āraṇyakas, and Upaniṣads preserve several distinct styles |
+The evidence extends across pitch, duration, off-grid sonances, sound junctions, hiatus, declensional and pronoun forms, verbal endings, participles, infinitives, movable उपसर्गाः (*upasargāḥ*), compounds, derivation, and styles of composition. The sections above demonstrate representative cases in full. The data cards preserve the complete 83-category record, while the Source and Reference Companion supplies the eighteen-coordinate लेट्–लोट् (*leṭ–loṭ*) comparison.[NOTE: designed-variations-figure-sources]
 
 ## 8.8 Documented Stewardship Across Both Domains
 
-Chapter 16 explains that वैदिक (*vaidika*) and लौकिक (*laukika*) identify two responsibilities, not two populations. Historical examples show the same scholars, households, and regional communities preserving Vedic passages while also composing and teaching in laukika Sanskrit.
+वैदिक (*Vaidika*) preservation and लौकिक (*laukika*) composition were two responsibilities within one Sanskrit society. The same households, teachers, and regional communities could preserve received passages while also composing and teaching beyond them.
 
-The fourteenth-century Vijayanagara household associated with Sāyaṇa and Mādhava combined both responsibilities. Its scholars produced extensive explanations of the Vedas while also contributing to व्याकरणम् (*vyākaraṇam*), philosophy, medicine, poetics, music, governance, and other laukika disciplines. Sāyaṇa and Mādhava deserve praise for this range: they preserved and explained the Vedic reference while applying Sanskrit throughout the laukika world.
+The fourteenth-century Vijayanagara household associated with Sāyaṇa and Mādhava combined both responsibilities. Its scholars explained the Vedas and contributed to व्याकरणम् (*vyākaraṇam*), philosophy, medicine, poetics, music, governance, and other laukika disciplines. Sāyaṇa and Mādhava deserve praise for that range.
 
-Kerala's records show the same arrangement at the level of lineages. Named Nambudiri families preserved Ṛgvedic and Jaiminīya Sāmavedic recitation through demanding oral methods. The same regional Sanskrit society produced commentaries on Brāhmaṇas and शिक्षा (*śikṣā*) texts, a निरुक्त (*Nirukta*) analysis, Malayalam explanations of the Ṛgveda, and independent works on Vedic subjects. These records do not establish that every household performed every task. They show that exact Vedic preservation and wide-ranging Sanskrit explanation belonged to one living society rather than to two populations separated by language or chronology.[NOTE: vaidika-laukika-household-responsibility-cases]
+Kerala supplies another documented case. Nambudiri families preserved Ṛgvedic and Jaiminīya Sāmavedic recitation through demanding oral methods. The surrounding Sanskrit society also produced Vedic commentaries, works on शिक्षा (*śikṣā*) and निरुक्त (*Nirukta*), Malayalam explanations of the Ṛgveda, and independent studies of Vedic subjects. Exact Vedic preservation and wide-ranging Sanskrit explanation belonged to one living society.[NOTE: vaidika-laukika-household-responsibility-cases]

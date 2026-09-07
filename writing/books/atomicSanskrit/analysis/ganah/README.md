@@ -35,7 +35,7 @@ v(dhātu) = | { (upasarga, pratyaya) : there exists an attested form of dhātu
 
 Notes:
 
-- *Upasarga* — set of 22 canonical Sanskrit prefixes (*pra, parā, apa, sam, anu, ava, nis, niḥ, dus, duḥ, vi, ā, ni, adhi, api, ati, su, ud, abhi, prati, pari, upa*). Bare-stem (no prefix) counted as one valency-slot.
+- *Upasarga* — 22 corpus-normalized prefix labels (*pra, parā, apa, sam, anu, ava, nis, niḥ, dus, duḥ, vi, ā, ni, adhi, api, ati, su, ud, abhi, prati, pari, upa*). The grammatical inventory counts twenty underlying उपसर्गाः (*upasargāḥ*); this analysis keeps conditioned surface labels separate. A bare stem with no prefix counts as one valency slot.
 - *Pratyaya* — set of Sanskrit suffixes. Two cuts available: (a) all *kṛt-pratyayas* + finite-verb endings (*tiṅ*) — the full apparatus; (b) the productive subset (the ~40–60 most-deployed suffixes across the corpus). Default: (a); (b) available via flag.
 - Attestation cut-off: a form counts if it appears at least once in the reference corpus. (Token-frequency-weighted variant available via flag for sensitivity analysis.)
 

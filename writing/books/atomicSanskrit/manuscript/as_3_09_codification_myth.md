@@ -1,18 +1,14 @@
 # Appendix Part 9 — Testing the Codification Myth
 
-The pyramid teaches a familiar sequence. Sanskrit begins as an older and less regular language called *"Vedic Sanskrit."* Over time, its forms supposedly change, its accent weakens, its infinitives narrow, and its subjunctive disappears.
+The pyramid divides Sanskrit into an older, less regular language called *"Vedic Sanskrit"* and a later, stable language called *"Classical Sanskrit."* It places Pāṇini between them and credits his supposed codification with stopping the change.
 
-Pāṇini then enters the story. The pyramid praises the brilliance of his description while claiming that he “codified” the form later called *"Classical Sanskrit."*
-
-Chapter 2 has already classified Sanskrit as a **Generative Architecture** rather than a natural language or a petrified language. Chapter 16 has shown that वैदिक (*vaidika*) and लौकिक (*laukika*) are two domains within that architecture rather than two periods separated by Pāṇini. Appendix Part 8 provides the grammatical evidence for their designed differences.
-
-This appendix performs one remaining task: it states what the codification myth would have to demonstrate and proposes a way to test it.
+Chapter 2 has already shown that documentation alone does not keep a language invariant. Chapter 16 and Appendix Part 8 have presented Sanskrit's two domains and the designed differences between them. This appendix asks what the codification myth must prove, then sets out a corpus-wide test.
 
 ## 9.1 The Claim Being Tested
 
 The codification myth makes two claims about drift.
 
-The first concerns variation within the Vedic corpus. The pyramid points to differences across the four Vedas, मण्डलानि (*maṇḍalas*), textual forms, शाखा (*śākhā*) lineages, accent systems, and word forms. It presents those differences as evidence that Sanskrit changed continuously within the Vedic corpus.
+The first claim concerns differences within the Vedas. The pyramid points to differences among the four Vedas, their मण्डलानि (*maṇḍalas*), शाखाः (*śākhāḥ*), accent systems, and word forms. It presents those differences as evidence that Sanskrit changed continuously within the Vedic domain.
 
 The second concerns the relationship between वैदिक (*vaidika*) and लौकिक (*laukika*). The pyramid points to Vedic pitch, प्लुत (*pluta*) duration, लेट्लकार (*leṭ-lakāra*), additional infinitive and declensional forms, and other differences documented in Chapter 16 and Appendix Part 8. It then arranges the two domains on a timeline: *"Vedic Sanskrit"* comes first, Pāṇini intervenes, and *"Classical Sanskrit"* follows.
 
@@ -44,9 +40,9 @@ The calibration account predicts a different pattern. The shared architecture sh
 | Pāṇini's role | The dividing point between unstable and standardized Sanskrit | The finest documenter within a longer analytical lineage |
 | लौकिक (*Laukika*) composition | The later standardized language | New expression generated through the shared architecture |
 
-Chapter 5 establishes the analytical lineage before Pāṇini and explains Patañjali's statement that the bond between word and meaning is already ***siddha***, established. Chapter 14 describes the distributed calibration architecture. Chapter 16 explains why the two domains receive different permissions. Appendix Part 7 identifies Pāṇinian operations inside Vedic mantras, while Appendix Part 8 records the differences between the domains in detail.
+Chapter 5 places Pāṇini within an earlier analytical lineage and explains Patañjali's statement that the bond between word and meaning is already ***siddha***, established. Appendix Part 7 identifies the operations Pāṇini documented inside Vedic mantras, while Appendix Part 8 records the designed differences between the two domains.
 
-Together, this evidence does not show a disordered language waiting for one authority to fix it. The Vedas use the architecture, earlier analysts examine it, Pāṇini documents it, and speakers apply it to लौकिक (*laukika*) composition.
+Their evidence shows the sequence in operation. The Vedas use the architecture, earlier analysts examine it, Pāṇini documents it, and speakers apply it to लौकिक (*laukika*) composition.
 
 ## 9.4 A Corpus-Wide Audit
 
@@ -60,28 +56,24 @@ Only then would the audit ask what happened. One form may have replaced another.
 
 The test must also distinguish preservation of form from preservation of function. Vedic pitch remains part of exact Vedic recitation and interpretation even though लौकिक (*laukika*) composition does not use the same pitch layer. लेट् (*Leṭ*) remains preserved in the Vedic passages that use it even though लौकिक (*laukika*) Sanskrit expresses much of its range through other लकाराः (*lakāras*). A feature has not disappeared merely because Sanskrit restricts it to the domain where it contributes something.
 
-The analyses completed for this book provide an initial result:
+The analyses in this book provide an initial result: Sanskrit's two domains retain bounded differences while their shared architecture remains intact. A corpus-wide audit can test that result passage by passage. The codification myth must identify the architecture that supposedly changed, demonstrate the change, and establish that Pāṇini's authority stopped it.
 
-> Sanskrit preserves bounded differences between its two domains while their shared architecture remains intact.
+## 9.5 Pāṇini Records Alternatives; Mitanni Predates Him
 
-A corpus-wide audit can test that result passage by passage. The codification myth should face the same test. It must identify the architecture that supposedly changed, demonstrate the change, and establish that Pāṇini's authority stopped it.
+Pāṇini documents alternatives through operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)**, and he states where each rule applies. This is not the intervention described by the codification myth. Rather than selecting one authorized surface, he records the conditions under which more than one form remains valid.
 
-## 9.5 Bounded Alternatives and an External Anchor
+The alternatives remain precise because they are bounded. A Vedic passage fixes its selected form, while Pāṇini identifies the contexts in which Sanskrit permits another form. Neither operation shows one historical stage drifting into another.
 
-Pāṇini documents alternatives through operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)**. He also states where a rule applies. A codifier would eliminate alternatives and impose one authorized surface. Pāṇini instead records the conditions under which more than one form remains valid.
+Mitanni supplies evidence from outside India. Hittite-Mitanni records contain recognizable Indic names and technical vocabulary at a date the pyramid places before Pāṇini.[NOTE: mitanni-indic-technical-vocabulary] Sanskritic technical language was therefore already in use and traveling before his supposed codification.
 
-An engineered architecture can allow alternatives without losing precision. The distinction lies between bounded alternatives and uncontrolled replacement. A Vedic passage preserves its selected form exactly. Pāṇini records contexts in which Sanskrit permits another form. Neither fact establishes that one historical stage drifted into another.
-
-The Mitanni evidence challenges the codification story from outside the Sanskrit corpus. Indic technical vocabulary appears in a Hittite-Mitanni setting that the pyramid's own chronology places before Pāṇini's supposed codification.[NOTE: mitanni-indic-technical-vocabulary] Recognizable technical terms had therefore traveled beyond the Indian subcontinent before Pāṇini.
-
-Mitanni adds evidence from outside India to the Vedic corpus, recitation disciplines, pre-Pāṇinian analytical continuum, and Sanskrit's atomic inventory. Together, these sources establish that Sanskrit already possessed its architecture before Pāṇini.
+Place that external witness beside the grammar used in the Vedas, the recitation disciplines, and the analytical lineage before Pāṇini. All of them point to an architecture that Pāṇini inherited rather than created.
 
 ## 9.6 The Result
 
 The codification myth solves a problem created by the pyramid's own classification. It needs Sanskrit to remain natural enough to descend from PIE, yet it also needs to explain Sanskrit's extraordinary order. It resolves that conflict by making Pāṇini the source of the order.
 
-The evidence establishes another sequence. The Vedas encode Sanskrit's architecture. Earlier analysts examine it. Pāṇini inherits that analytical continuum and produces its most compressed grammatical documentation. लौकिक (*Laukika*) speakers continue using the same architecture for new expression.
+The evidence establishes another sequence. The Vedas already use Sanskrit's architecture, and earlier analysts examine it. Pāṇini inherits that analytical continuum and produces its most compressed grammatical documentation. लौकिक (*laukika*) speakers continue to apply the same architecture to new expression.
 
-Pāṇini's contribution becomes greater when it is described accurately. He did not impose order on a drifting language. He decoded an architecture already in use.
+Pāṇini's extraordinary achievement was to decode and document an architecture already in use, not to impose order on a drifting language.
 
 **Sanskrit was never codified. It was engineered.**

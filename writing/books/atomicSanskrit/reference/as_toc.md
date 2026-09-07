@@ -276,21 +276,22 @@
 ## Appendices
 
 - **Appendix Part 1 — Baking the Mother Tongue**
-  - 1.1 The Conversion-Extraction Nexus
-  - 1.2 The Pipeline
-  - 1.3 The Pundits and the Priests
-  - 1.4 The German Bake
+  - 1.1 The Documented Conversion Mandate
+  - 1.2 The Institutions That Supplied the Pipeline
+  - 1.3 The Honors and the Choice They Rewarded
+  - 1.4 From Sanskrit Anchor to Imaginary Ancestor
   - 1.5 Recipe After Recipe — The Dhātu Cluster Evidence
-  - 1.6 The Verdict — Continuity Across Independence
+  - 1.6 Operators in Motion
+  - 1.7 How the Philological Categories Survived Independence
 - **Appendix Part 2 — The Encyclopaedic Confirmation**
-  - 2.1 The Fleet
-  - 2.2 A Choice, Not an Inheritance
+  - 2.1 The Institutional Network
+  - 2.2 The Choice of 1948
   - 2.3 The Project and Its Method
   - 2.4 The Double Standard
-  - 2.5 Three Layers of Variation
+  - 2.5 Five Kinds of Evidence
   - 2.6 The English Contrast
-  - 2.7 What the Project Cannot Show
-  - 2.8 The Reframe
+  - 2.7 What the Dictionary Tests
+  - 2.8 Reclassifying the Evidence
   - 2.9 Remove PIE from the Sanskrit Syllabus
   - 2.10 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
 - **Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended**
@@ -307,7 +308,7 @@
   - 3.11 The Research Ahead
 - **Appendix Part 4 — The Consonant Inventory Atlas and Additional Surveys**
   - 4.1 The Atlas Method in Depth
-  - 4.2 Santali-Inclusive Munda Survey: 20 of 23
+  - 4.2 Santali-Inclusive Forest-Belt Survey: 20 of 23
   - 4.3 Santali-Free Mixed Survey: 21 of 23
   - 4.4 Dispersed *"Austro-Asiatic"* Survey: 18 of 23
   - 4.5 Northwest Frontier Survey: 22 of 23
@@ -334,12 +335,14 @@
   - 6.6 Replication
 - **Appendix Part 7 — The Architecture Already in the Vedas**
   - 7.1 The Corpus Before the Manual
-  - 7.2 Three Verses — The Implicit Grammar in Operation
-  - 7.3 The *Dhātu* Inventory in the Corpus
-  - 7.4 The Grammar Preceded the Manual
+  - 7.2 Evidence Used in Chapter 11
+  - 7.3 Evidence Used in Chapter 12
+  - 7.4 Four Complete Passage Analyses
+  - 7.5 Six धातुः (*Dhātuḥ*) Groups Across Two Mantras
+  - 7.6 The Grammar Preceded the Manual
 - **Appendix Part 8 — Designed Variations Across the Two Domains**
   - 8.1 How to Read the Evidence
-  - 8.2 Evidence and Coding Method
+  - 8.2 Evidence and PASS Method
   - 8.3 Sounds, Accent, and Exact Recitation
   - 8.4 Positional Freedom and Extended Forms
   - 8.5 The *Leṭ–Loṭ* Collision Record

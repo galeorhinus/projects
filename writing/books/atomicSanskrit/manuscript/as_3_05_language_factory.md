@@ -16,15 +16,13 @@ The baker is Schleicher. The joke is deliberate. As of this writing, Yenpro has 
 
 ***Yenpro*** takes its name from Sanskrit यन्त्री (*yantrī*), an operator or controller — the one who runs the engine. The fixed sound mapping turns *yantrī* into *Yenpro*.
 
-The contrast is the argument. Yenpro has only three sentences, but anyone given the Sanskrit operations and the cipher can produce more and show how each form was generated. Schleicher's PIE has a fable and a growing inventory of starred forms, but no inherited community can produce or judge new forms from within it. One construction begins with preserved generative operations. The other begins with reconstructed forms.
+Anyone given the Sanskrit operations and the cipher can produce more Yenpro sentences and show how each form was generated. Schleicher's PIE has a fable and a growing inventory of starred forms, but no inherited community can produce or judge new forms from within it. Yenpro begins with preserved generative operations; PIE begins with reconstructed forms.
 
 ## 5.2 From Word Factory to Language Factory
 
-Chapters 10 through 12 documented Sanskrit's engine as a word factory. The language begins with roughly two thousand धातवः (*dhātavaḥ*). Twenty-two उपसर्गाः (*upasargāḥ*) and an extensive system of प्रत्ययाः (*pratyayāḥ*) extend those atoms into new words. This finite inventory can generate a practically unbounded range of expression. India's space agency uses the same capacity in names such as *Chandrayāna*, *Maṅgalayāna*, and *Gaganyāna*.
+Chapters 10 through 12 followed Sanskrit's engine from धातुः (*dhātuḥ*) through words and into sentences. This appendix retains a selected set of those derivational and inflectional operations while replacing their sounds. Every replacement follows one fixed table, allowing the reader to trace each Yenpro form through the same grammatical steps.
 
-Chapters 10 through 12 showed Sanskrit's engine generating Sanskrit words and sentences. This appendix keeps a selected set of those derivational and inflectional operations but replaces their sounds. Every replacement follows one fixed table, so the reader can trace each Yenpro form back through the same grammatical steps.
-
-Appendix Part 1 examined the bake demanded by the *foundational dogma*: Schleicher's manufacture of PIE without an actual recipe. Yenpro begins with a recipe and records every step. The construction is therefore also a reply.
+Appendix Part 1 examined Schleicher's manufacture of PIE without an actual recipe. Yenpro begins with a recipe and records every step. The experiment is also a reply.
 
 ## 5.3 The Procedure
 
@@ -41,17 +39,11 @@ The derivational path remains unchanged. An agent noun still comes from the same
 
 ## 5.4 Why Japanese?
 
-This demonstration uses Japanese for three reasons.
+Japanese provides a distant sound inventory with a documented history of exposure to Sanskrit sound analysis. Buddhist teachers carried Sanskrit pronunciation and Siddham study into Japan, where that knowledge influenced the ordering of Japanese sounds.[NOTE: siddham-east-asia-sonomeric-field] Japanese nevertheless differs sharply from Sanskrit, making it useful for testing whether the grammar remains recognizable after the sounds change.
 
-**First, Japan provides a distant comparison.** It stood near the far end of the eastward transmission described in Chapter 20 §20.2. Buddhist teachers carried Sanskrit sound analysis and Siddham study into Japan, where they influenced the ordering of Japanese sounds.[NOTE: siddham-east-asia-sonomeric-field] Yet the Japanese sound inventory differs sharply from Sanskrit's, which makes it useful for testing whether the grammar survives a new set of sounds.
+The first stage uses the five Japanese vowels (/a, i, u, e, o/) and a simplified consonant set (/k, g, s, z, sh, j, t, d, ch, ts, n, m, h, b, p, r, w, y/). Japanese lacks Sanskrit's aspirated-unaspirated stop distinction and its retroflex stop row, so the fixed mapping must merge some Sanskrit sounds. The experiment records those mergers. Devanagari can represent the selected sounds closely enough for this demonstration.
 
-**Second, a manageable sound inventory.** The experiment uses the five Japanese vowels (/a, i, u, e, o/) and a simplified set of consonants (/k, g, s, z, sh, j, t, d, ch, ts, n, m, h, b, p, r, w, y/). Devanagari can represent these sounds closely enough for this demonstration.
-
-**Third, Japanese allows the appendix to add a second test.** The language restricts consonant clusters and most word-final consonants. The base cipher first tests sound replacement. Section 5.7 then shows how Japanese would alter combinations that do not fit its sound patterns.
-
-Japanese does not use Sanskrit's aspirated-unaspirated stop distinction, and it does not contain Sanskrit's retroflex stop row. A cipher built from its smaller inventory must therefore merge several Sanskrit sounds. Japanese also restricts consonant clusters. The moraic nasal is the principal consonantal sound it permits at the end of a syllable. The experiment records every merger so the reader can identify which Sanskrit distinctions survive the substitution.
-
-The first demonstration replaces each sound mechanically, even when the resulting cluster would not occur in Japanese. §5.7 then adapts those combinations to Japanese sound patterns.
+Japanese also restricts consonant clusters and most word-final consonants. The base cipher first replaces individual sounds, even when the result contains a sequence Japanese would normally alter. Section 5.7 then adds a second procedure that adapts those combinations to Japanese sound patterns.
 
 ## 5.5 The Worked Example — A Joke About the Famous Baker
 
@@ -59,7 +51,7 @@ The test begins with three English sentences:
 
 > *The baker bakes a pie. The pie is hollow. The baker laughs alone.*
 
-The joke states its satire openly. *Baker* represents Schleicher (Chapter 1 §1.1; Chapter 19 §19.1; Appendix Part 1), *Pie* stands for PIE, and *Hollow* exposes what PIE actually is once the bake is examined. The baker laughs alone because no speech community inherited PIE. No speaker can judge a newly constructed PIE sentence from knowledge received through ordinary speech.
+The satire is direct. *Baker* represents Schleicher, *pie* stands for PIE, and *hollow* describes his bake. The final sentence leaves the baker laughing alone.
 
 The three sentences in Sanskrit:
 
@@ -114,13 +106,11 @@ Interlinear rendering:
 
 `NOM` marks the subject form, `ACC` marks the object form, and `3sg` marks the third-person singular verb. `MASC.NOM.SG` identifies a masculine adjective agreeing with one masculine subject.
 
-The individual sounds come from Japanese, while the operations that derive, inflect, and join the forms come from Sanskrit's engine. Devanagari renders both the original Sanskrit and the remapped Yenpro forms.
-
-The experiment tests a narrow claim: Sanskrit's operations can remain recognizable after every sound passes through a fixed substitution table. It does not create a naturally spoken language or demonstrate that the new forms would remain stable across generations.
+The sounds come from Japanese, while Sanskrit supplies the operations that derive, inflect, and join the forms. Devanagari renders both the Sanskrit and Yenpro sentences. The experiment tests whether those operations remain recognizable after every sound passes through one fixed table. It does not create a naturally spoken language or demonstrate stability across generations.
 
 ## 5.6 The Generative Reach
 
-The factory is not limited to the three sentences above. Sanskrit can generate additional forms from ⟪पच्⟫ (*pac*), and the cipher can transform each one through the same fixed substitutions:
+The same fixed table can transform additional forms generated from ⟪पच्⟫ (*pac*):
 
 | Sanskrit | Form | After cipher | Devanagari |
 |---|---|---|---|
@@ -133,13 +123,11 @@ The factory is not limited to the three sentences above. Sanskrit can generate a
 
 The transformation from ⟪पच्⟫ (*pac*) to पक्वः (*pakvaḥ*) belongs to Sanskrit's documented engine. *Aṣṭādhyāyī* 8.2.52 states पचो वः (*paco vaḥ*), the rule that introduces व (*va*) into this participle.[NOTE: pac-pakva-ashtadhyayi-8-2-52]
 
-The three धातवः (*dhātavaḥ*) used in the example can combine with further Sanskrit suffixes and endings to produce many more surface forms. The procedure can also extend to declined nominals, conjugated verbs, compounds, and complete sentences. A reader who knows the substitution table can recover the Sanskrit operations beneath them.
+The three धातवः (*dhātavaḥ*) used in the example can combine with further Sanskrit suffixes and endings to produce declined nominals, conjugated verbs, compounds, and complete sentences. Every resulting form can pass through the same substitution table.
 
-The vowel-length collapse makes *pācakāḥ* and *pācakaḥ* both yield *kesete*. That ambiguity comes from this cipher's decision to discard Sanskrit vowel length. A different mapping could preserve the distinction, since Japanese distinguishes long and short vowels. The example is useful precisely because it shows that the substitution table determines which parts of the source architecture survive on the new surface.
+The vowel-length collapse makes *pācakāḥ* and *pācakaḥ* both yield *kesete*. That ambiguity comes from the decision to discard Sanskrit vowel length. A different mapping could preserve it because Japanese distinguishes long and short vowels. The substitution table determines which parts of the source architecture survive on the new surface.
 
-A finite set of धातवः (*dhātavaḥ*), suffixes, endings, and rules can continue producing new forms after a consistent sound remapping.
-
-This is what a language factory does.
+A finite set of धातवः (*dhātavaḥ*), suffixes, endings, and rules continues producing forms after a consistent sound remapping. That continuing production is what this appendix means by a **language factory**.
 
 ## 5.7 Adapting Yenpro to Japanese Sound Patterns
 
@@ -169,41 +157,25 @@ The adapted sentences are:
 >
 > *kesete koshiteten kesepo. koshiteten shanyemu. kesete iteto rehepo.*
 
-The inserted vowels remove the disallowed cluster and word-final /m/. The moraic /N/ remains where Japanese permits it. These forms follow Japanese loanword sound patterns more closely while remaining part of an artificial construction.
+The inserted vowels remove the disallowed cluster and word-final /m/, while the moraic /N/ remains where Japanese permits it. Every form generated in §5.6 can pass through this second procedure, although each adjustment may create another merger or ambiguity.
 
-Replacing individual sounds is therefore only the first step. The receiving language also determines which sequences of those sounds it permits. Every form produced in §5.6 can pass through this second procedure, although each adjustment can create another merger or ambiguity.
-
-***Yenpuro*** retains the same source atoms and grammatical operations as Yenpro, but its sounds have undergone one further change. The language factory can therefore replace Sanskrit's sounds and then adjust combinations that Japanese speakers would find difficult to pronounce.
+***Yenpuro*** still carries the same source atoms and grammatical operations. The first procedure remaps the Sanskrit sounds used in the sample; the second adjusts their combinations to patterns Japanese speakers can pronounce more readily.
 
 ## 5.8 What This Demonstrates
 
 Three things.
 
-**First, Sanskrit's architecture includes generative procedures.** A consistent remapping can change the sounds while preserving derivation and inflection. This bounded experiment carries a substantial part of the engine onto another sound surface and continues to generate analyzable forms there. Pāṇini documents those operations with extraordinary precision.
+**First, Sanskrit's architecture includes generative procedures.** The fixed table remaps every sound used in the sample while the same derivational and inflectional operations continue to generate recognizable forms. Pāṇini documents those operations with extraordinary precision.
 
 **Second, engineering can be transferred.** Arithmetic remains valid when the objects being counted change. In the same way, the Sanskrit operations used here remain valid after a consistent replacement of their sounds. *Transferability is a signature of engineering.*
 
 **Third, the comparison exposes what Schleicher's PIE lacks.** A reconstructed system can be extended through further reconstruction, but no inherited speech community preserves its standard or judges new forms from within it. Yenpro begins with documented Sanskrit operations. Anyone who knows the operations and the cipher can reproduce the existing forms and generate more.
 
-Schleicher produced a baked object. Sanskrit preserves the recipe.
-
 ## 5.9 The Baker Had the Recipe
 
-Schleicher had access to the recipe.
+By the 1860s, European philologists had studied Sanskrit in print for more than a generation. Franz Bopp's comparative grammar placed its derivational and inflectional structure before the German philological community.[NOTE: bopp-1816-conjugationssystem] The Pune-Calcutta-Oxford-Göttingen pipeline described in Appendix Part 1 was already carrying Sanskrit materials and analysis into European institutions. Schleicher worked inside that intellectual environment when he published the *Compendium* and his PIE fable.[NOTE: schleicher-1861-compendium][NOTE: schleicher-1868-fable]
 
-By the 1860s, European philology had discussed Sanskrit in print for more than a generation. **Franz Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen*** (1833–1852) placed Sanskrit's derivational and inflectional structure before the German philological community.[NOTE: bopp-1816-conjugationssystem] The Pune-Calcutta-Oxford-Göttingen pipeline described in Appendix Part 1 was already moving Sanskrit materials and analysis into European institutions. Schleicher worked inside that intellectual environment when he published the *Compendium* and the PIE fable.[NOTE: schleicher-1861-compendium][NOTE: schleicher-1868-fable]
-
-Schleicher's published model made a clear choice. He organized languages as organisms on a family tree, placed PIE at the trunk, and placed Sanskrit on a branch.
-
-European philology then replaced engineering and calibration with the categories of growth and decay. Its botanical metaphor reversed Sanskrit's architecture. Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) turned the *Stammbaumtheorie* into a usable method; *Avis akvāsas ka* (1868) baked PIE into a single notebook text.
-
-Chapter 3 §§3.6–3.7 identifies the institutional ***asuratva*** behind that choice. Recognizing Sanskrit as engineered would have located a foundational language architecture outside Europe and weakened the *church of progress*'s claim to civilizational precedence. The tree protected that precedence by converting Sanskrit from architecture into descendant.
-
-The imaginary ancestor performs the required institutional function. It gives Sanskrit an external source, assigns its creation to people outside India, and allows European philology to control the account of linguistic origins.
-
-The bake had to remain hollow. A complete generative system could have been compared directly with Sanskrit and tested operation by operation. An imaginary ancestor avoids that comparison because every missing operation can be invented through another reconstruction. The institutional machinery that produced PIE has spent the century and a half since protecting that substitution.
-
-The baker did not lack Sanskrit. Its architecture had already entered his scholarly world, yet the model he published replaced that architecture with a hollow ancestor. The recipe and the bake stood inside the same intellectual environment.
+Schleicher therefore knew a language built from recorded atoms and generative operations. He nevertheless organized languages as organisms on a family tree, placed PIE at the trunk, and moved Sanskrit onto a branch. Chapters 3 and 19 examine the motive and the consequences. This appendix demonstrates the alternative he could have tested: retain a documented engine, change the sound surface, and see whether the engine continues to generate analyzable forms.
 
 The baker had the recipe.
 

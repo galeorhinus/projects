@@ -2013,7 +2013,7 @@ def verify_figures_present(pdf_path: Path, md_text: str) -> None:
     identical source and command; a stray 'LaTeX Warning: Float too large
     for page' was the only trace pandoc surfaced.
 
-    Extracts every markdown image caption and confirms a recognizable
+    Extracts every non-empty markdown image caption and confirms a recognizable
     fragment of it is searchable in the rendered PDF's text layer, printing
     a loud warning for any that aren't — rather than relying on someone
     noticing a missing figure by eye while paging through hundreds of
@@ -2028,7 +2028,14 @@ def verify_figures_present(pdf_path: Path, md_text: str) -> None:
         print("  (skipping figure-presence check — pip install pymupdf to enable)")
         return
 
-    captions = FIGURE_CAPTION_RE.findall(md_text)
+    # Empty alt text marks an unnumbered data graphic rather than a figure.
+    # Exclude those records entirely instead of reporting them as captions that
+    # were skipped because no searchable signature could be formed.
+    captions = [
+        caption
+        for caption in FIGURE_CAPTION_RE.findall(md_text)
+        if caption.strip()
+    ]
     if not captions:
         return
 

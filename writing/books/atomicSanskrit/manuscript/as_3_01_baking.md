@@ -1,92 +1,74 @@
 # Appendix Part 1 — Baking the Mother Tongue
 
-This appendix follows the bake before independence. Appendix Part 2 follows its continuation after independence.
+During British rule in India, European philologists used Sanskrit knowledge to create the imaginary ancestor they called Proto-Indo-European. This appendix follows that construction through the institutions that gathered the knowledge, the scholars who transformed it, and seven Sanskrit धातवः (*dhātavaḥ*) that expose the resulting inversion. Appendix Part 2 continues the account after independence, when Indian institutions kept teaching and applying the imported categories.
 
-European scholars and universities depended on Sanskrit knowledge supplied by Indian teachers, pandits, manuscripts, and institutions. They gathered that knowledge, reorganized it through comparative philology, and placed a reconstructed ancestor above the recorded language that had supplied much of their evidence. The reconstruction then returned to India through education and administration as a new authority over Sanskrit.
+European scholars and universities depended on Indian teachers, पण्डिताः (*paṇḍitāḥ*), manuscripts, and institutions for the Sanskrit knowledge their work required. European philology reorganized that knowledge, constructed an imaginary ancestor, and placed the reconstruction above the recorded language that had supplied much of its evidence. The resulting account then returned to India through education and administration as a new authority over Sanskrit.
 
-Deccan College Pune provides the central example. It did not invent PIE, but its institutional history exposes the route by which European philology collected Sanskrit knowledge and returned its conclusions to India. This appendix follows the conversion mandate, the institutions that carried out the work, and the comparative claims they built from the knowledge they received. It then shows how the framework survived after its racial language became unacceptable and tests the result against seven Sanskrit धातवः (*dhātavaḥ*).
+Deccan College, Pune, became one of the institutions that supplied the Sanskrit ingredients. The college trained scholars, preserved manuscripts, and made Sanskrit knowledge available throughout the colonial network. European philologists used those ingredients to bake PIE, and Deccan College later helped teach their account in India.
 
-The receipts stay on the page.
-
-The wheat was Indian. The bakery was European. The recipe was inversion.
+The institutions and scholars left their own record in histories, publications, lectures, dictionaries, and imperial honors. India supplied the wheat; European universities used it to bake PIE and place it above Sanskrit.
 
 ## 1.1 The Documented Conversion Mandate
 
-The East India Company entered the subcontinent to plunder it, but the Company never acted alone. Three English institutions worked together to establish an asuric pyramid in India: **the Church, the Company, and the Crown**. The Anglican church and its missionary establishments sought to convert Hindus to Christianity. The Company and its mercantile partners extracted wealth. The Crown and Westminster provided the laws and military force that protected that extraction.
+The East India Company extracted India's wealth while actively participating in the English project to convert India to Christianity. Three connected institutions built the imperial pyramid: **the Church, the Company, and the Crown**. The Anglican Church sent missionaries and taught the doctrine. The Company conquered and administered territory, extracted wealth, and gave the conversion project political power. The Crown and Parliament protected the arrangement through law and military force.
 
-These were not three separate projects. They served the same pyramid. A Christianized and anglicized Indian population would be easier to govern, exploit, and keep below the English apex.
+All three served the same imperial order. Conversion would weaken the connection between Indians and their civilizational inheritance. A Christianized and anglicized population would be easier to govern, exploit, and keep beneath the English apex.
 
-Catholic conquest in South and Central America, and Islamic colonization in Asia before it, had already demonstrated the model: conversion weakens a people's connection to its civilizational inheritance; extraction and political subordination follow. The English pyramid sought a Protestant version in India. Conversion was therefore not a side project of empire. Education, law, scholarship, administration, and missionary work all served that civilizational objective.
+Centuries of Islamic rule had failed to destroy Hindu continuity or Sanskrit. British institutions confronted the same resistance and tried to remake Indian civilizational life through schools, courts, government offices, scholarship, and missionary work. Sanskrit became a target because it carried the memory and intellectual architecture they needed to displace. To separate Indians from that memory, the British project had to displace Sanskrit and claim authority over it.
 
-Yet the Islamic pyramid had largely failed in India. Hindu ethos and Sanskrit remained alive despite centuries of oppression. The English pyramid continued its plunder but directed much of its energy toward the long-term destruction of Sanskrit. The Church, the Company, and the Crown coordinated their efforts to halt the Hindu "juggernaut" (from **जगन्नाथ (*Jagannāth*)**).
-
-For that they needed to usurp Sanskrit.
-
-The Anglo-Indian War of 1857 checked the conversion ambition. The attack on Sanskrit continued and expanded. [NOTE: orl-three-apex-nexus]
+The Anglo-Indian War of 1857 checked the overt conversion program. British political and economic control continued, but the Crown retreated from open state interference in Hindu personal and civilizational life. The attack on Sanskrit moved further into education and scholarship, where it continued to expand.[NOTE: orl-three-apex-nexus]
 
 ## 1.2 The Institutions That Supplied the Pipeline
 
-The Sanskrit-knowledge enterprise depended on identifiable institutions. The **Asiatic Society of Bengal**, founded in Calcutta in 1784 under Sir William Jones, gave European Sanskrit study its institutional base. Jones's 1786 anniversary address announced Sanskrit's structural depth to Europe in print.[NOTE: jones-1786-anniversary-address] Within five decades Jones's professional descendants would invert the direction his address pointed; the record shows what was inverted, by whom, and when. The **Boden Chair of Sanskrit** at the University of Oxford was endowed in 1832 with funds left in the will of Lieutenant Colonel Joseph Boden of the Bombay Native Infantry, who specifically directed that the chair be used to enable the conversion of Indians to Christianity through the agency of the Sanskrit-literate.[NOTE: boden-chair-1832-evangelical-purpose] Horace Hayman Wilson occupied the chair 1832–1860. Monier Williams occupied it 1860–1899. Men working under a professorship endowed for the evangelical conversion of India substantially produced English-language Sanskrit lexicography. The indictment is preserved in the documents the institutional successors continue to acknowledge.
+The Sanskrit-knowledge enterprise depended on identifiable institutions. The **Asiatic Society of Bengal**, founded in Calcutta in 1784 under Sir William Jones, gave European Sanskrit study its institutional base. Jones's anniversary address of 1786 announced Sanskrit's structural depth to Europe in print.[NOTE: jones-1786-anniversary-address]
 
-**Deccan College, Pune**, anchors the institutional record. Founded in 1821 as a Sanskrit पाठशाला (*Pāṭhaśālā*) (also referred to as the *Hindoo College*) under Mountstuart Elphinstone, Governor of the Bombay Presidency, it was established with funds from the दक्षिणा (*Dakṣiṇā*) charitable endowment that the Peshwa Bajirao II had used to subsidize Sanskrit pundits in Pune. It became *Poona College* in 1851. The name *Deccan College* dates from the move begun in 1864 and completed when the new campus opened in 1868. It reopened as the *Deccan College Post-Graduate and Research Institute* in 1939.[NOTE: deccan-college-founding-arc] Across the entire nineteenth century, Deccan College was western India's central Sanskrit-knowledge institution. Its pundits read Sanskrit at a depth no European philological machinery could match.
+The **Boden Chair of Sanskrit** at the University of Oxford carried an explicit conversion mandate. Lieutenant Colonel Joseph Boden of the Bombay Native Infantry left the funds for the chair and directed that it assist the Christian conversion of Indians through Sanskrit knowledge.[NOTE: boden-chair-1832-evangelical-purpose] Horace Hayman Wilson occupied the chair from 1832 to 1860, followed by Monier Williams from 1860 to 1899. Scholars working under a professorship endowed for conversion produced a substantial part of English-language Sanskrit lexicography. The institution's own records preserve that purpose.
+
+**Deccan College, Pune**, anchors the Indian side of this network. It began in 1821 as a Sanskrit पाठशाला (*pāṭhaśālā*), also called the *Hindoo College*, under Mountstuart Elphinstone, Governor of the Bombay Presidency. Its funding came from the दक्षिणा (*dakṣiṇā*) endowment that Peshwa Bajirao II had used to support Sanskrit पण्डिताः (*paṇḍitāḥ*) in Pune. It became *Poona College* in 1851. The name *Deccan College* accompanied the move that began in 1864, and the new campus opened in 1868. It reopened as the *Deccan College Post-Graduate and Research Institute* in 1939.[NOTE: deccan-college-founding-arc]
 
 Other institutions completed the colonial Sanskrit-knowledge network. Banaras Sanskrit College opened in 1791, Calcutta Sanskrit College in 1824, and Elphinstone College in Bombay in 1856. Sanskrit College in Madras served the south. Cambridge established a Sanskrit professorship in 1867.
 
-German scholars at Berlin, Leipzig, Jena, and Göttingen then worked with Sanskrit knowledge gathered through Calcutta, Pune, Banaras, Bombay, Madras, Oxford, and Cambridge. Without that network, European philology could not have constructed an imaginary ancestor for Sanskrit on such a scale. Indian teachers and institutions provided the Sanskrit knowledge. German universities baked the reconstructed language. The same network then returned the bake to India as the authoritative account of the knowledge it had received.
+Indian teachers gave German scholars the manuscripts and analytical knowledge required to understand Sanskrit. Scholars at Berlin, Leipzig, Jena, and Göttingen used that material to construct a parent language. The colonial academic network then returned the reconstruction to India as the authoritative account of Sanskrit.
 
-Genuine Sanskrit scholarship and philological machinery occupied the same institutions, but they used the knowledge differently. Sanskrit scholars worked through Sanskrit's own disciplines. They studied व्याकरण (*vyākaraṇa*) on Pāṇini's terms, निरुक्त (*nirukta*) on Yāska's terms, and मीमांसा (*mīmāṃsā*) on Jaimini's terms. They transmitted recitation from teacher to student and compiled words within Sanskrit's own ranges of meaning. Philological machinery extracted the same knowledge, compared it, and reinterpreted it through an external framework.
+Genuine Sanskrit scholarship and philological machinery occupied the same institutions, but they used the knowledge differently. Sanskrit scholars worked through Sanskrit's own disciplines. They studied व्याकरण (*vyākaraṇa*) on Pāṇini's terms, निरुक्त (*nirukta*) on Yāska's terms, and मीमांसा (*mīmāṃsā*) on Jaimini's terms. They transmitted recitation from teacher to student and compiled words within Sanskrit's own ranges of meaning. Philological machinery extracted the same knowledge, compared it, and forced it into an external account of language history.
 
-The Indian pundits supplied genuine scholarship. The European machinery consumed it. The pipeline made the bake possible.
+The Indian पण्डिताः (*paṇḍitāḥ*) created and transmitted the scholarship that European philological machinery consumed. Their knowledge made the bake possible.
 
-Deccan College exemplifies the colonial Sanskrit-knowledge pipeline. It preserved Pune's Sanskrit learning into the colonial period and produced serious Sanskrit scholarship. It also fed the German machinery that would invert Sanskrit from calibrant into daughter. The bake itself happened in the German universities; Deccan College supplied the wheat.
+Deccan College preserved Pune's Sanskrit learning, but it also fed that knowledge into the colonial pipeline. Pune and other Indian centers supplied the wheat; European universities performed the bake.
 
-Deccan College should have challenged the imported framework. Instead, it helped teach and sustain it in India.
+## 1.3 The Honors and the Choice They Rewarded
 
-## 1.3 Documented Honors and the Book's Inference
+European Indologists learned Sanskrit from Indian पण्डिताः (*paṇḍitāḥ*). Long before Europe created a Sanskrit chair or scholarly society, Indian scholars had preserved the Vedas and developed the disciplines required to understand the language. They taught its grammar, explained its words, transmitted its recitation, and produced its great dictionaries. European philology received that knowledge and used it to construct an imaginary ancestor above Sanskrit.
 
-The documents record the appointments, titles, legislative positions, fellowships, and honorary degrees given to the scholars discussed below. They also identify the institutions that trained and employed them. The book argues that these honors allowed the pyramid to present the authority of respected Indian scholars as Indian approval of its imported philological framework.
+Schleicher gave the imagined parent a family tree, a grammar, and a complete fable. Reconstructed forms and sound laws then gave PIE the appearance of a recorded language. Indian scholars who accepted this account gave it something European philologists could never create for themselves: the approval of Sanskrit scholarship within India.
 
-The European Indologists did not discover Sanskrit. The Indian pundits taught it to them.
+**Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar** (1837–1925) taught the comparative-historical account and placed his reputation behind it. His 1877 Wilson Philological Lectures presented language as subject to phonetic decay, placed Sanskrit inside the Aryan or Indo-European family, divided Sanskrit into Vedic and later forms, and described the language of the Ṛgveda as changing across its hymns. In 1888 he published an address titled *The Critical, Comparative, and Historical Method of Inquiry, as Applied to Sanskrit Scholarship and Philology and Indian Archaeology*. Bhāṇḍārkar made his choice explicit in his own work.[NOTE: rg-bhandarkar-honors]
 
-The pundits had preserved, taught, commented, analyzed, and extended Sanskrit through the lineage-chain for thousands of years before a European chair, society, or grammar existed. The *Aṣṭādhyāyī*, the महाभाष्य (*Mahābhāṣya*), the वार्त्तिकानि (*vārttikāni*), the धातुपाठ (*Dhātupāṭha*), the निरुक्त (*Nirukta*), the प्रातिशाख्य (*Prātiśākhya*) literature, and the full architecture of व्याकरण (*vyākaraṇa*) were already there. Europe began learning much later.
+The British Empire rewarded that choice with appointments to the Supreme Legislative Council and the Bombay Legislative Council. It made him a **Companion of the Order of the Indian Empire (CIE)** in 1889 and a **Knight Commander of the Order of the Indian Empire (KCIE)** in 1911, while European universities awarded him honorary degrees. In 1917, Pune placed his name over the Bhandarkar Oriental Research Institute.
 
-The first generation of Indian Sanskritists working with the European project did so before the inversion was complete. Sir William Jones's 1786 anniversary address proposed common-source descent for the Indo-European languages while still treating Sanskrit as a language of extraordinary depth. Henry Thomas Colebrooke worked inside Sanskrit's own व्याकरण (*vyākaraṇa*) during the first decades of the nineteenth century. Franz Bopp then used Sanskrit verbal morphology as the structural anchor for his 1816 comparison. Through the first half of the nineteenth century, Indian pundits supplied the textual, lexicographical, and grammatical knowledge that made the European comparison possible. **Rādhākānta Deb** produced the शब्दकल्पद्रुम (*Śabdakalpadruma*) from within Sanskrit's transmission architecture.[NOTE: shabdakalpadruma-deb-1858] **Tārānātha Tarkavācaspati** produced the वाचस्पत्यम् (*Vācaspatyam*).[NOTE: vacaspatyam-taranatha-1873] Generations of पण्डिताः (*paṇḍitāḥ*) across Calcutta, Banaras, and Pune preserved and extended the same Sanskrit-internal knowledge. European philology took that knowledge and eventually used it to construct an imaginary ancestor above Sanskrit.
+Bhāṇḍārkar's Sanskrit scholarship made his choice consequential. He used that learning to teach the historical account this book challenges, accepted the empire's councils and honors, and gave the imported account the approval of a leading Indian Sanskritist.
 
-After Schleicher, the relationship changed. PIE was no longer a vague comparative possibility. Asterisks, sound laws, reconstructed ancestor-forms, and finally a complete fable made it appear to be a language. Sanskrit had been displaced. Indian scholars who continued to provide knowledge after that point were no longer helping Europeans discover Sanskrit. Their knowledge was now helping to sustain the imaginary ancestor placed above it.
+Bhāṇḍārkar's choice was not India's choice. He actively contributed to the betrayal of Sanskrit and the Vedas by teaching the imported historical account as Sanskrit scholarship. Hundreds of Indians resisted the same British-Christian language agenda. That his name still stands, more than seventy-five years after India's independence, over an institution designed to gaslight Hindus about their own inheritance is a national shame.
 
-The *asuric pyramid* handled that transition by absorbing senior Indian scholars into its own priesthood. Formal honors and institutional appointments conferred the *peer* status described in Chapter 3 §3.5. The Order of the Indian Empire supplied titles such as **CIE**, **KCIE**, and **GCIE**. Legislative councils and government commissions supplied political standing. The Royal Asiatic Society and honorary doctorates from European universities supplied scholarly certification.
+**Pandit Śrīpād Dāmodar Sātavaḷekar** (1867–1968) offers a direct contrast. His वैदिक राष्ट्रगीत (*Vaidika Rāṣṭragīta*) gathered sixty-three Vedic sūktas and placed them before the public. The British government confiscated and burned its Hindi edition, and his writings on the radiance of Vedic prayers brought a treason warrant, arrest, and imprisonment.
 
-Once the pyramid admitted an Indian scholar to its apex, it could deploy his Sanskrit authority as approval for the *progressive dogma*. The public message became: *the senior Indian Sanskritists agree with us*. The honors helped manufacture that agreement.
+In 1918, Sātavaḷekar founded the Swādhyāya Maṇḍala to study, translate, publish, and distribute Vedic knowledge. He wrote about four hundred books in Marathi, Hindi, and English, including a twenty-four-volume series through which readers could teach themselves Sanskrit.[NOTE: satavalekar-vedic-resistance]
 
-**Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar** (1837–1925) provides the clearest example because his honors and appointments are extensively documented. He studied at Elphinstone College Bombay, taught Sanskrit and Oriental Languages at Elphinstone College and Deccan College, and served on imperial legislative councils. He received the **CIE** in 1889, the **KCIE** in 1911, and honorary degrees from Göttingen, Edinburgh, Bombay, and Calcutta. He also exchanged scholarship with leading German and British Indologists, and the **Bhandarkar Oriental Research Institute** was established in his name on 6 July 1917, his eighty-first birthday.[NOTE: rg-bhandarkar-honors]
+British institutions rewarded Bhāṇḍārkar with titles and council seats while confiscating and burning Sātavaḷekar's books. Across India, students, manuscript collators, Sanskrit teachers, publishers, and working पण्डिताः (*paṇḍitāḥ*) continued to protect and transmit the knowledge on which the colonial enterprise depended. The empire reserved its rewards for a small apex.
 
-His Sanskrit scholarship was serious. The sharper point concerns what the pyramid did with his standing. It turned the authority of a senior Indian Sanskrit scholar into priestly sanction for the Western philological account. Bhāṇḍārkar did not need to intend betrayal for the mechanism to use his name and authority. सभ्यता (*Sabhyata*) preserves that lesson while abstracting the name.
-
-The apex was small. The lower layers were not priests. The students, junior scholars, manuscript collators, Sanskrit-college teachers, गुरुकुल (*gurukula*) lineages, and working पण्डिताः (*paṇḍitāḥ*) at Banaras, Mithila, Kanchipuram, Madurai, Pune, and elsewhere grew the wheat. They did not receive the imperial honors. They did not sit at the apex. Chapter 3 §3.5's *peer*-status pyramid carves them out by construction: the graduate student may question details, not foundations; the junior scholar may adjust interpretations, not overturn frameworks. The priestly elevation is an apex phenomenon.
-
-The mechanism continues today through fellowships at prestigious universities, editorships, journal publication, visiting appointments, honorary doctorates, and prize committees. The institutions that confer prestige also determine which challenges count as reputable. Imperial titles have disappeared, but certified intellectuals still rise through recognition granted by the same pyramid whose premises they would have to challenge. The KCIE is gone. The fellowship at the Oriental Institute is the new KCIE.
-
-The senior pundits did not merely grow wheat. The elevated apex sanctified the bake.
-
-The pundits below — past and present — are not the priests.
-
-**The bake will rot. The wheat will not.**
+After the imperial titles disappeared, Indian institutions continued to elevate approved scholars through appointments, fellowships, journals, honorary degrees, and prizes. The same institutions decide which challenges receive a hearing.
 
 ## 1.4 From Sanskrit Anchor to Imaginary Ancestor
 
-The bake happened in Germany.
+The pipeline gathered Sanskrit knowledge in Calcutta, Pune, Banaras, Bombay, and Madras, carried it through Oxford and London, and delivered it to universities in Germany. There, nineteenth-century philologists used it to construct PIE ancestor-forms.
 
-The pipeline began in Calcutta, Pune, Banaras, Bombay, Madras, Oxford, and London. German universities then used the Sanskrit knowledge gathered through that network to construct PIE ancestor-forms across the nineteenth century.
+**Franz Bopp** (1791–1867), trained in Paris and London, published his comparison of the Sanskrit conjugational system with Greek, Latin, Persian, and Germanic in 1816.[NOTE: bopp-1816-conjugationssystem] Bopp used Sanskrit verbal architecture as the structural anchor for the comparison. His *Comparative Grammar*, published between 1833 and 1852, extended the method across the proposed language family. Sanskrit still stood at the beginning of the analysis.
 
-The contemporary account no longer asks readers to treat Schleicher's 1868 fable as a recovered text. It calls the reconstructed forms heuristic abstractions and praises the formal power of Pāṇini's work. The concession stops there. By claiming that Pāṇini *codified* Sanskrit, the pyramid still places the engineering at his time and denies the architecture already present in the Vedas. This appendix follows the nineteenth-century construction that produced PIE and the codification myth that now protects it.
+**August Friedrich Pott** (1802–1887) extended the comparison into vocabulary between 1833 and 1836. He placed Sanskrit धातवः (*dhātavaḥ*) beside Greek, Latin, and Germanic forms as sibling evidence beneath a proposed common ancestor. The category later called *Indo-European* treated Sanskrit as one sibling among several and placed a reconstructed parent above them all.
 
-The dates are the spine: **Franz Bopp** (1791–1867), trained at Paris under Antoine-Léonard de Chézy and at London under Henry Thomas Colebrooke, published *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache* in 1816.[NOTE: bopp-1816-conjugationssystem] The work treats Sanskrit verbal morphology as the structural anchor against which Greek, Latin, Persian, and Germanic verbal systems are compared. Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (1833–1852) extended the comparison across the family. Sanskrit was still the anchor; the comparative method was being built around it.
+**August Schleicher** (1821–1868) gave the reconstructed parent a complete form. His *Compendium*, published in 1861–1862, presented a single common ancestor branching into the Indo-European languages and placed Sanskrit among its daughters.[NOTE: schleicher-1861-compendium] In 1868, Schleicher went further and published *Avis akvāsas ka*, a complete fable written in his reconstructed language.[NOTE: schleicher-1868-fable]
 
-**August Friedrich Pott** (1802–1887) at Halle published *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen* (1833–1836), extending the comparative project into vocabulary. Sanskrit धातवः (*dhātavaḥ*) were now compared with Greek, Latin, and Germanic forms as sibling evidence beneath a common ancestor. The *Indogermanisch* category — later Anglicized as *Indo-European* — supplied the new frame. The comparison no longer began with Sanskrit's recorded architecture and followed its radiance outward. It placed Sanskrit beside the receiving languages and prepared the position above them for a reconstructed parent.
-
-**August Schleicher** (1821–1868) at Jena published the *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* in 1861–1862. The *Compendium* gave the family-tree model a mature comparative grammar: a single common ancestor, distinct from every recorded language, branching into the Indo-European languages.[NOTE: schleicher-1861-compendium] Sanskrit was now one daughter among siblings. The reconstruction asterisk gave the machinery a typographic sign for forms it had constructed rather than recorded. In 1868 Schleicher published his fable *Avis akvāsas ka*, a complete story written in his reconstructed language.[NOTE: schleicher-1868-fable] The original fable left its reconstructed forms unstarred, but the bake had produced its first finished good.
-
-Schleicher's fable contains 44 distinct written forms. Thirty are recorded Sanskrit forms or differ from them by one explainable sonomer change. Eleven more place reconstructed endings around a Sanskrit grammatical base. The complete mapping appears in the endnote; these examples show the pattern without requiring the reader to inspect all forty-four:
+Schleicher's fable contains 44 distinct written forms. Thirty are recorded Sanskrit forms or differ from them by one explainable sonomer change. Eleven more place reconstructed endings around a Sanskrit grammatical base. The endnote maps all forty-four forms; the table below selects nine representative examples:
 
 | Schleicher's form | Sanskrit form | Meaning | What Schleicher retained or changed |
 |---|---|---|---|
@@ -100,27 +82,23 @@ Schleicher's fable contains 44 distinct written forms. Thirty are recorded Sansk
 | *asti* | **अस्ति (*asti*)** | is | The Sanskrit form remains unchanged. |
 | *agram* | **अज्रम् (*ajram*)** | field; plain | The correct Sanskrit comparison is Vedic **अज्र**, not **अग्र**; **g** replaces **j**. |
 
-The pattern runs through words, atoms, participles, case-forms, and forms preserved in the Vedic domain. Schleicher used that Sanskrit material as the scaffolding for a language that he then placed above Sanskrit. His reconstruction presented the assembly as recovery and concealed the source material from which he had constructed it.[NOTE: schleicher-1868-fable]
+Schleicher reused Sanskrit words, atoms, participles, case-forms, and forms from the Vedic domain. He assembled that material into a language, placed his construction above Sanskrit, and presented it as the ancestor from which Sanskrit had descended. The finished fable concealed its Sanskrit scaffolding.[NOTE: schleicher-1868-fable]
 
-**Karl Brugmann** (1849–1919) and the **Leipzig school** — the *Junggrammatiker* (Neogrammarians) — drove the fabrication through to its mature form. The Leipzig group through the 1870s and 1880s systematized the comparative method around the *Ausnahmslosigkeit der Lautgesetze* doctrine — sound laws operate without exception, the central methodological claim that licensed reverse-engineering. Brugmann's *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (1886–1893, revised 1897–1916) is the regime's mature statement.[NOTE: brugmann-grundriss-1886] The reconstructed proto-language now had a phonology, a morphology, and a vocabulary — all of them assembled from comparative-method work on the daughter languages, with the ecosystem's own internal consistency standing in for empirical evidence the procedure could not provide.
+**Karl Brugmann** (1849–1919) and the **Leipzig school** drove the reconstruction to its mature form. During the 1870s and 1880s, the Neogrammarians organized the method around their claim that every sound law applies without exception. Brugmann's *Grundriss*, published from 1886 onward, gave the reconstructed language a phonology, morphology, and vocabulary.[NOTE: brugmann-grundriss-1886] Philologists had no recorded PIE language, literature, or community. They treated the internal consistency of their reconstructions as sufficient evidence for the ancestor they had constructed.
 
-The project spread across institutions. Bopp at Berlin, Pott at Halle, Schleicher at Jena, and Brugmann at Leipzig worked in parallel with scholars at Tübingen, Saint Petersburg, Göttingen, Oxford, Cambridge, and the colonial Sanskrit colleges across India. No single bakery carried out the work. A distributed network of institutions allowed the *church of progress* to coordinate it.
+Indian teachers had given European philologists access to roughly two thousand Sanskrit धातवः (*dhātavaḥ*) and the methods used to analyze them. The philologists compared words from Greek, Latin, Germanic, and other languages, then constructed starred ancestors above the recorded forms. The seven cases that follow begin with the recorded Sanskrit धातुः (*dhātuḥ*), its generated family, and its grammar.
 
-The Pāṇinian architecture preserves roughly two thousand Sanskrit धातवः (*dhātavaḥ*), organized by class and accompanied by ranges of meaning and grammatical behavior. Indian teachers and texts made that inventory and its analytical framework available to European philologists. The philologists then searched Greek, Latin, Germanic, and other languages for forms that resembled Sanskrit words in sound and meaning. They grouped the recorded forms and constructed a starred ancestor for each proposed family.
-
-The appendix does not claim that every starred PIE form began with a Sanskrit atom. It examines the large and consequential class for which Sanskrit supplies a recorded धातुः (*dhātuḥ*), a generated family, or grammatical knowledge used in the reconstruction. In those cases, the pyramid places its constructed middle term above the recorded Sanskrit architecture that supplied the comparison. The machinery produces an अपशब्द (*apaśabda*) and then presents that अपशब्द (*apaśabda*) as the source of the शब्द (*śabda*). Sanskrit places the अपशब्द (*apaśabda*) after the शब्द (*śabda*) (Chapter 6 §§6.2–6.4; Chapter 19 §19.7). PIE reverses that direction.
-
-That inversion is the fraud.
+In Sanskrit's own analysis, an अपशब्द (*apaśabda*) follows the शब्द (*śabda*) from which it changed (Chapter 6 §§6.2–6.4; Chapter 19 §19.7). PIE commits the fraud by reversing that direction and presenting the altered form as the ancestor.
 
 ## 1.5 Recipe After Recipe — The Dhātu Cluster Evidence
 
-The recipe leaves residue. The residue sits in the ecosystem's own reference pages.
+Modern dictionaries and etymological references still carry the recipe by routing related words through PIE. The seven cases compare that account with Sanskrit's own architecture. Sanskrit begins with a recorded semantic atom and generates families of words from it. PIE reconstruction begins with recorded words in several languages, constructs a starred form from their similarities, and places that form above the Sanskrit atom.
 
-Sanskrit provides unified semantic atoms and documents the relationships among their sound-forms. PIE reconstruction begins with recorded words in several languages, reconstructs a starred form from their correspondences, and places that form above the Sanskrit atom. Chapter 19 §19.7 introduces a different direction through the yoke family: begin with the Sanskrit atom and its generated molecules, then trace the forms that appear in receiving languages. The first three cases below develop that method. The remaining cases show the reconstruction splitting ranges of meaning that Sanskrit keeps together.
+Chapter 19 §19.7 demonstrates the alternative through the yoke family: begin with the Sanskrit atom and its generated molecules, then trace the forms that appear in receiving languages. The first three cases apply that method. The remaining four examine meanings that Sanskrit keeps together but PIE reconstruction separates.
 
 ### A Reusable Research Method
 
-Each case begins by placing the pyramid's starred image beside the recorded forms, including the Sanskrit atom and its generated family. Approximate Devanagari renderings allow readers to hear the comparison, after which consonants can be located by **स्थान (*sthāna*, articulatory position)** and **प्रयत्न (*prayatna*, articulatory effort)**. Vowels and meanings need their own analyses because a consonant correspondence cannot explain them.
+Each case places the starred PIE reconstruction beside the recorded forms, including the Sanskrit atom and its generated family. Approximate Devanagari renderings help the reader hear the comparison. The researcher then compares consonants by **स्थान (*sthāna*, articulatory position)** and **प्रयत्न (*prayatna*, articulatory effort)**. Vowels and meanings require separate analyses because a consonant correspondence cannot explain them.
 
 | Stage | What the researcher records |
 |---|---|
@@ -144,7 +122,7 @@ The fivefold method of **व्युत्पत्ति (*vyutpatti*)** gives
 >
 > Addition and transposition of sounds are two operations; modification and loss are the other two. The fifth connects the resulting form to an extended meaning of the धातु (*dhātu*). This is called fivefold निरुक्त (*nirukta*).[NOTE: vyutpatti-fivefold-method]
 
-The lineage uses these operations to analyze Sanskrit words. The **Sanskrit Radiance Mapping Project** extends the same categories to changed forms in receiving languages. A case cites Pāṇini when one of his rules documents the Sanskrit operation. It cites Hemacandra when his account of Prakrit or Apabhraṃśa documents a relevant natural transformation. Repeated families and plausible routes of contact establish historical direction; the fivefold analysis identifies what changed within each family.
+The निरुक्त (*nirukta*) tradition uses these operations to analyze Sanskrit words. The **Sanskrit Radiance Mapping Project** extends the same categories to changed forms in receiving languages. A case cites Pāṇini when one of his rules documents the Sanskrit operation. It cites Hemacandra when his account of Prakrit or Apabhraṃśa documents a relevant natural transformation. Repeated families and plausible routes of contact establish historical direction; the fivefold analysis identifies what changed within each family.
 
 ### Case 1 — ⟪युज्⟫ (*yuj*), to join or yoke
 
@@ -156,9 +134,9 @@ The lineage uses these operations to analyze Sanskrit words. The **Sanskrit Radi
 | Gothic / English | ***juk / yoke*** | **युक् / योक्** | yoke |
 | Sanskrit | **युज्, युग, युक्त, योग** | original Devanagari | join, yoke, joined, union |
 
-The Veda displays **युञ्जन्ति (*yuñjanti*, "they yoke")** in Ṛgveda 1.6.1, **युगा (*yugā*, "the yokes")** in 10.101.3, and **युक्त (*yukta*, "yoked")** in 10.102.6. Pāṇini later documents the movements between grid addresses through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. Under their specified Sanskrit conditions, **तालव्य ज (*tālavya j*, palatal and voiced)** moves to **कण्ठ्य ग (*kaṇṭhya g*, velar and voiced)**, and that voiced velar can move to **कण्ठ्य क**, its voiceless neighbor.[NOTE: yuj-bhr-radiance-method]
+The Ṛgveda uses **युञ्जन्ति (*yuñjanti*, "they yoke")** in 1.6.1, **युगा (*yugā*, "the yokes")** in 10.101.3, and **युक्त (*yukta*, "yoked")** in 10.102.6. Pāṇini later documents the movements between grid addresses through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. Under their specified Sanskrit conditions, **तालव्य ज (*tālavya j*, palatal and voiced)** moves to **कण्ठ्य ग (*kaṇṭhya g*, velar and voiced)**, and that voiced velar can move to **कण्ठ्य क**, its voiceless neighbor.[NOTE: yuj-bhr-radiance-method]
 
-The vowels require a separate comparison. Sanskrit **युज्, युग,** and **युक्त** use **उ**, while **योग** displays the specified गुण (*guṇa*) relation **उ → ओ**. Latin and Gothic preserve **u**; English *yoke* uses **o**; and the Greek vowels require their own historical analysis. The meaning remains joining or yoking throughout the comparison. Sanskrit therefore supplies the recorded atom, the generated family, the anatomical sound-map, and the semantic architecture that the starred PIE image claims to precede.
+The vowels require a separate comparison. Sanskrit **युज्, युग,** and **युक्त** use **उ**, while **योग** displays the specified गुण (*guṇa*) relation **उ → ओ**. Latin and Gothic preserve **u**; English *yoke* uses **o**; and the Greek vowels require their own historical analysis. The meaning remains joining or yoking throughout the comparison. Sanskrit therefore has the recorded atom, the generated family, the anatomical sound-map, and the semantic architecture that the starred PIE image claims to precede.
 
 ### Case 2 — ⟪भृ⟫ (*bhṛ*), to bear, carry, or sustain
 
@@ -172,7 +150,7 @@ The vowels require a separate comparison. Sanskrit **युज्, युग,** 
 
 Ṛgveda 7.87.4 uses **बिभर्ति (*bibharti*)**. The Vedic form places unaspirated **ब (*b*)** beside aspirated **भ (*bh*)**, showing that Sanskrit controls aspiration as an independent feature inside the design. Pāṇini later documents the repeated element as **अभ्यास (*abhyāsa*)**. Hemacandra records another outcome in Prakrit: aspirated stops can move toward **h** under stated conditions.[NOTE: yuj-bhr-radiance-method]
 
-The receiving forms remain in the labial region while voicing, aspiration, and closure change: Sanskrit **भ**, Greek **ph**, Latin **f**, and Germanic **b**. Hemacandra's **bh → h** evidence explains the Prakrit transformations he records; it does not derive the Greek **ph**, Latin **f**, or Germanic **b**. The student exercise must map each receiving-language movement independently. It must also map the Sanskrit **ऋ / इ / अ** and the foreign **e** vowels separately before reaching a conclusion about the full family.
+The receiving forms remain in the labial region while voicing, aspiration, and closure change: Sanskrit **भ**, Greek **ph**, Latin **f**, and Germanic **b**. Hemacandra's **bh → h** rule explains the Prakrit transformations he records. Greek **ph**, Latin **f**, and Germanic **b** require their own sound-maps, as do the Sanskrit **ऋ / इ / अ** and the foreign **e** vowels.
 
 ### Case 3 — ⟪जन्⟫ (*jan*), to generate or be born
 
@@ -186,11 +164,11 @@ The धातुपाठ (*Dhātupāṭha*) records both generation and coming 
 | Germanic / English | ***kin, kind, king*** | **किन्, काइन्ड्, किङ्** | family, kind, ruler of a people |
 | Sanskrit | **जन, जनक, जन्मन्, जाति** | original Devanagari | person, parent, birth, kind |
 
-Chapter 19 traces the dictionary history through which the real Sanskrit atom moved beneath the star. The ⟪युज्⟫ case supplies the relevant sound path: **ज → ग → क**. The ⟪जन्⟫ family then displays the scale of the consequence, because one Sanskrit atom remains recognizable beneath a large Greek, Latin, and Germanic canopy.
+Chapter 19 traces how dictionaries moved the recorded Sanskrit atom beneath the star. The ⟪युज्⟫ case has already established the relevant sound path: **ज → ग → क**. The ⟪जन्⟫ family follows that path across a large canopy of Greek, Latin, and Germanic words while the Sanskrit atom remains recognizable beneath them.
 
 ### Case 4 — ⟪भा⟫ (*bhā*) and ⟪भाष्⟫ (*bhāṣ*), radiance and articulated speech
 
-The Sanskrit inventory keeps the evidence precise. ⟪भा⟫ (*bhā*) carries shining and appearing. It generates a family that includes **भास् (*bhās*)**, **भास्वर (*bhāsvara*)**, and **भानु (*bhānu*)**. Sanskrit records speaking separately under ⟪भाष्⟫ (*bhāṣ*), which generates **भाषा (*bhāṣā*)** and **भाषणम् (*bhāṣaṇam*)**. The second atom extends the sound of the first by adding **ष्**. The two families therefore remain distinguishable while preserving an audible and semantic relation between radiance, manifestation, and articulated speech.
+Sanskrit records these meanings under two closely related atoms. ⟪भा⟫ (*bhā*) carries shining and appearing. It generates a family that includes **भास् (*bhās*)**, **भास्वर (*bhāsvara*)**, and **भानु (*bhānu*)**. Sanskrit records speaking separately under ⟪भाष्⟫ (*bhāṣ*), which generates **भाषा (*bhāṣā*)** and **भाषणम् (*bhāṣaṇam*)**. The second atom extends the sound of the first by adding **ष्**. The two families therefore remain distinguishable while preserving an audible and semantic relation between radiance, manifestation, and articulated speech.
 
 The pyramid replaces that recorded Sanskrit architecture with **two** numbered PIE forms:
 
@@ -199,11 +177,11 @@ The pyramid replaces that recorded Sanskrit architecture with **two** numbered P
 | **phantom**, **phenomenon**, **fantasy**, **phase** | Greek *phainein* "to show" | \***bha- (1)** "to shine" |
 | **fame**, **phone**, **prophet**, **blame**, **euphemism** | Greek *phēmē* "speech" / Latin *fari* "to speak" | \***bha- (2)** "to speak" |
 
-The standard etymological references list these as two distinct PIE ancestors that happen to sound alike: *bha-* (1) and *bha-* (2). Sanskrit requires no such imaginary pair. It preserves two recorded and related atoms, shows exactly where their forms differ, and generates the two families in the open. The parenthetical numbers hide that recorded architecture behind two reconstructed homophones.[NOTE: appendix-dhatu-case-sources]
+The standard etymological references list these as two distinct PIE ancestors that happen to sound alike: *bha-* (1) and *bha-* (2). Sanskrit records two related atoms, identifies their exact difference, and generates both families in the open. The reconstruction replaces that relationship with two imaginary homophones distinguished only by parenthetical numbers.[NOTE: appendix-dhatu-case-sources]
 
-### Case 5 — ⟪मा⟫ (*mā*) धातु (*dhātu*), to measure
+### Case 5 — ⟪मा⟫ (*mā*), to measure
 
-The धातु (*dhātu*) generates **मातृ (*mātṛ*)** (mother — the one who measures out, the one who shapes; the maternal sense preserved through engineering, not through nursery-word phonology), **मात्रा (*mātrā*)** (measure, unit, quantity), **मान (*māna*)** (measurement), **मास (*māsa*)** (month — the measured period), **माया (*māyā*)** (the measured-out, the apparent; the metaphysical sense Sanskrit develops). One धातु (*dhātu*), one semantic axis (measuring / shaping / bounding), multiple derivatives.
+The धातु (*dhātu*) carries the connected actions of measuring, shaping, and bounding. Sanskrit generates **मातृ (*mātṛ*)**, mother, as the one who measures out and shapes. It generates **मात्रा (*mātrā*)**, a measure, unit, or quantity, and **मान (*māna*)**, measurement. The same family includes **मास (*māsa*)**, a month or measured period, and **माया (*māyā*)**, the measured-out or apparent. One semantic atom generates several related words.
 
 The pyramid's account splits into **two** PIE ancestor-forms, with the *mother* attribution accompanied by an open apologetic note:
 
@@ -212,13 +190,13 @@ The pyramid's account splits into **two** PIE ancestor-forms, with the *mother* 
 | **mother**, **maternal**, **matrix** | Latin *māter*, Greek *mētēr* | \***méh₂tēr-** "mother" *(Watkins routes "ultimately to baby-talk \*mā- + suffix \*-ter-")* |
 | **measure**, **month**, **moon**, **dimension**, **immense**, **commensurate** | Latin *mēnsis*, Greek *mēnē* | \***meh₁-** / \***me- (2)** "to measure" |
 
-The *mother* attribution is kept separate from the *measure* attribution — two reconstructed ancestor-forms, no cross-referencing in the machinery's lookup pages. Watkins's note on the *mother* entry — that the form is "ultimately" baby-talk मा- (*mā-*) plus a suffix — is the regime's apologetic sleight: when the deflection has to reach for nursery-word universals to defend the separation, the separation itself is being maintained against the data. The Sanskrit framework has no need of the baby-talk routing; मातृ (*mātṛ*) is मा- (*mā-*) (to measure) + -तृ (*-tṛ*) (the agent suffix) — *the one who measures out*, the engineering account that runs across all derivatives of the धातु (*dhātu*).[NOTE: appendix-dhatu-case-sources]
+The references keep *mother* separate from *measure* by assigning them to two reconstructed ancestors. Watkins routes the *mother* form through baby-talk मा- (*mā-*) plus a suffix. Sanskrit analyzes मातृ (*mātṛ*) directly as मा- (*mā-*), to measure, joined with the agent suffix **-तृ (*-tṛ*)**: *the one who measures out*. The derivation remains within the same semantic family as the other words generated from the धातु (*dhātu*).[NOTE: appendix-dhatu-case-sources]
 
-### Case 6 — ⟪गम्⟫ (*gam*) धातु (*dhātu*), to go
+### Case 6 — ⟪गम्⟫ (*gam*), to go
 
 The धातुः (*dhātuḥ*) generates **गमन (*gamana*)** (going or motion), **गति (*gati*)** (movement or course), and **अग्रगामिन् (*agra-gāmin*)** (one who goes before). The traditional derivational family also connects **जगत् (*jagat*)**, the moving world, with the action of going. The Sanskrit family keeps motion at its center.
 
-The machinery distinguishes — variably across the etymological reference works — **two** or **three** PIE ancestor-forms:
+Etymological references divide this Sanskrit family among **two** or **three** PIE ancestor-forms:
 
 | English cognate | Proximate source | PIE attribution |
 |---|---|---|
@@ -226,9 +204,9 @@ The machinery distinguishes — variably across the etymological reference works
 | **basis**, **base**, **diabetes** | Greek *bainein* "to go" | \***gʷeh₂-** "to go" |
 | **go**, **gait** | Old English *gān* | \***ǵheh₁-** "to release, send" *(disputed)* |
 
-The variation across the etymological reference works is the tell: etymonline routes *come* and *basis* under one combined entry, but Wiktionary's more recent reconstructions split them into \**gʷem-* and \**gʷeh₂-*; *go* is sometimes routed to a third ancestor-form, \**ǵheh₁-* (Pokorny 1959). When the reconstruction's own practitioners cannot agree on whether the cognate cluster of one Sanskrit धातु (*dhātu*) goes back to two or three reconstructed ancestor-forms, those ancestor-forms are not the ancestors; they are the machinery's posited fillers for a unity it cannot reconstruct.[NOTE: appendix-dhatu-case-sources]
+The number of reconstructed ancestors changes with the reference. Etymonline places *come* and *basis* under one combined entry. More recent Wiktionary reconstructions divide them between \**gʷem-* and \**gʷeh₂-*, while Pokorny routes *go* to a possible third form, \**ǵheh₁-*. The recorded Sanskrit धातु (*dhātu*) unites the cluster that these references divide among two or three starred forms.[NOTE: appendix-dhatu-case-sources]
 
-### Case 7 — ⟪पद्⟫ (*pad*) धातु (*dhātu*), to step; to fall
+### Case 7 — ⟪पद्⟫ (*pad*), to step; to fall
 
 The धातुः (*dhātuḥ*) generates **पादः (*pādaḥ*)** (foot, step, or quarter), **पदम् (*padam*)** (step, footprint, place, or word), and **पादमूल (*pādamūla*)** (the base of the foot). The verbal range includes stepping, setting foot, and falling into a state. Foot-movement, placement, and landing remain connected through the action of the atom.
 
@@ -239,19 +217,17 @@ The pyramid's account splits into **two** PIE ancestor-forms:
 | **foot**, **pedestrian**, **pedal**, **pedigree** | Latin *pēs* / *pedis*, Greek *poús* / *podós* | \***ped-** "foot" |
 | **fall**, **fell** (verb) | Old English *feallan* | \***pol-** "to fall" |
 
-The *ped-* / *pol-* split. The Sanskrit धातु (*dhātu*) unites both senses under one semantic axis (foot-motion produces both placement and falling — Sanskrit preserves the connection); the pyramid's account splits them across two imaginary ancestors. The machinery's instinct is to atomize the range of meanings of the धातु (*dhātu*) into separate ancestral verbs, one per English-cognate cluster.[NOTE: appendix-dhatu-case-sources]
+Sanskrit keeps stepping, placement, and falling within the semantic range of one धातु (*dhātu*). The pyramid divides that range between *ped-* and *pol-*, then assigns each English-cognate cluster to a different imaginary ancestor. The machinery breaks one recorded semantic atom into separate ancestral verbs.[NOTE: appendix-dhatu-case-sources]
 
-### The pattern
+### What the Seven Cases Establish
 
-Seven cases. The first three place a recorded Sanskrit atom, Vedic sound-forms, and specific sonomer movements beside the receiving-language family. The remaining cases show the reconstruction separating meanings or related Sanskrit families among two or three imaginary ancestors. When the comparative method places its reconstruction above the Sanskrit inventory, the recorded architecture disappears and starred forms inherit its position.
+The first three cases place a recorded Sanskrit atom, Vedic sound-forms, and specific sonomer movements beside the receiving-language family. The remaining four show PIE reconstruction dividing meanings or related Sanskrit families among two or three imaginary ancestors. The comparative method then places those reconstructions above the Sanskrit inventory, conceals the recorded architecture, and gives the starred forms its ancestral position.
 
-Sanskrit's धातवः (*dhātavaḥ*) are atoms. The bake produces the apparent illusion that the atoms are themselves compounds of older, imagined atoms. The illusion is the recipe. The recipe runs across thousands of धातवः (*dhātavaḥ*).
-
-The machinery splinters what the engineering unifies.
+Sanskrit's धातवः (*dhātavaḥ*) are recorded atoms. PIE reconstruction places imagined atoms above them and makes each Sanskrit atom appear to be a later compound. Across all seven cases, philological machinery splinters relationships that Sanskrit's engineering keeps together. The same recipe repeats across thousands of धातवः (*dhātavaḥ*).
 
 ## 1.6 Operators in Motion
 
-The preceding cases follow Sanskrit atoms into receiving languages. A second investigation asks whether Sanskrit's radiance also carried the operators that redirect those atoms. An operator provides a stronger architectural test than one similar-looking word because the comparison must explain repeated use. The form has to retain a recognizable direction while joining different actions.
+The preceding cases follow Sanskrit atoms into receiving languages. The operator cases examine whether Sanskrit's radiance also carried the reusable elements that redirect those atoms. One similar-looking word establishes little by itself. An operator carries a recognizable direction into several different actions and therefore tests more of the architecture.
 
 ### Pilot Record — अप (*apa*)
 
@@ -264,7 +240,7 @@ The standard comparative account places a reconstructed particle, **\*h₂epo**,
 | Latin | ***ab / abs*** | from or away; a preposition and an element inside compounds |
 | PIE image | **\*h₂epo** | the reconstructed parent assigned to the recorded forms |
 
-The similar forms give the project a place to begin. Sanskrit preserves the operator in repeated use. **अप** joins several atoms while retaining its directional contribution:
+The three forms are close enough in sound and direction to justify comparison. Sanskrit records **अप** as a reusable operator that joins several atoms while retaining its directional contribution:
 
 | Sanskrit molecule | Construction | Resulting direction |
 |---|---|---|
@@ -272,21 +248,21 @@ The similar forms give the project a place to begin. Sanskrit preserves the oper
 | **अपनयति (*apanayati*)** | **अप + ⟪नी⟫ (*apa + nī*)** | leads away; removes |
 | **अपहरति (*apaharati*)** | **अप + ⟪हृ⟫ (*apa + hṛ*)** | carries away; takes away |
 
-These molecules show why the record begins from architecture rather than resemblance. Sanskrit preserves the operator, the atoms it redirects, the meanings generated by each combination, and the grammar that places the completed molecule inside a sentence. Greek preserves **ἀπό** as a mobile preverb and a preposition, while Latin preserves ***ab*** independently and inside compounds. Comparative research on ancient languages also records multiple preverbs in Vedic Sanskrit and Homeric Greek, although the inventories, ordering constraints, and degrees of attachment differ.[NOTE: upasarga-radiance-apa]
+Sanskrit records the complete reusable structure: the operator, the atoms it redirects, the meaning generated by each combination, and the grammar that places the completed molecule inside a sentence. Greek uses **ἀπό** as a mobile preverb and a preposition, while Latin uses ***ab*** independently and inside compounds. Comparative research on ancient languages also records multiple preverbs in Vedic Sanskrit and Homeric Greek, although the inventories, ordering constraints, and degrees of attachment differ.[NOTE: upasarga-radiance-apa]
 
-The pyramid explains the three recorded forms by placing **\*h₂epo** before them. The Radiance Thesis tests the opposite direction. It begins with Sanskrit **अप** inside the complete operator-and-atom architecture, follows the operator into receiving languages, and records how each language redistributes and changes what it received.
+The pyramid explains the three recorded forms by placing **\*h₂epo** before them. The **Sanskrit Radiance Mapping Project** tests the opposite direction. It begins with Sanskrit **अप** inside the complete operator-and-atom architecture, follows the operator into receiving languages, and records how each language redistributes and changes what it received.
 
 ### What the Two Sanskrit Domains Contribute
 
 Chapter 16 and Appendix Part 8 explain why an operator can remain separate from its action in a fixed Vedic passage while the लौकिक (*laukika*) domain usually binds the operator more closely to the atom in newly composed material. The Vedic passage preserves the words, sequence, pitch, and interpretation together. The लौकिक (*laukika*) domain must make the bond recoverable in a sentence that has never existed before.
 
-When another language receives the mobile and attached forms without Sanskrit's two-domain protocol, it can redistribute them according to its own architecture. A mobile form can remain an adverb or become a preposition. An attached form can remain a recognizable preverb or fuse into a word whose internal construction becomes difficult to see. The research plan calls this loss of the original domain distinction **domain flattening**.
+When another language receives the mobile and attached forms without Sanskrit's two-domain protocol, it can redistribute them according to its own architecture. A mobile form can remain an adverb or become a preposition. An attached form can remain a recognizable preverb or fuse into a word whose internal construction becomes difficult to see. This appendix calls the loss of the original domain distinction **domain flattening**.
 
-This is a proposed explanation that the larger comparison must test. Greek is especially valuable because its early record preserves mobility, attachment, and multiple preverbs. Latin presents a different comparison because many operator-and-verb combinations appear as established compounds. The receiving languages preserve different parts of the Sanskrit design.
+Establishing domain flattening requires the same result across several operator families and their recorded histories. Greek retains mobility, attachment, and multiple preverbs. Latin offers a different comparison because many operator-and-verb combinations appear as established compounds. The two languages preserve different parts of the Sanskrit design.
 
-### The Next Four Families
+### Four Further Families to Test
 
-The next stage repeats the complete record across the clearest formal and semantic candidates:
+Four additional operators extend the comparison because their forms and meanings remain closely related across Sanskrit, Greek, and Latin:
 
 | Sanskrit operator | Greek comparison | Latin comparison | Direction to test |
 |---|---|---|---|
@@ -295,38 +271,18 @@ The next stage repeats the complete record across the clearest formal and semant
 | **उप (*upa*)** | **ὑπό (*hypó*)** | ***sub*** | near, under, toward |
 | **अभि (*abhi*)** | **ἀμφί (*amphí*)** | ***ambi-*** | toward, around, on both sides |
 
-These four rows identify what the project will investigate next. For each one, the project must establish the Sanskrit uses, the receiving-language uses, every sound change, the shared and altered meanings, and a plausible route of contact. Comparisons that cannot establish those connections will remain unresolved or be rejected.
+Each comparison must establish how Sanskrit uses the operator, how the receiving languages use their related forms, which sounds and meanings changed, and how contact could have carried the operator outward. Together, those connections determine whether the family supports outward transmission or remains unresolved.
 
-The complete Sanskrit inventory remains part of the test:
+The complete Sanskrit inventory broadens that test:
 
 > **प्र, परा, अप, सम्, अनु, अव, निस्/निर्, दुस्/दुर्, वि, आ, नि, अधि, अपि, अति, सु, उत्/उद्, अभि, प्रति, परि, उप**
 
-For each operator, the project records:
+For each operator, the comparison begins with its use alongside several Sanskrit atoms across the Vedic and लौकिक (*laukika*) domains. It then follows related forms through Greek, Latin, Iranian, Germanic, and other languages, recording their grammatical roles and their changes in sound or meaning. Combinations of several operators provide another test because their order must remain meaningful, and every proposed route of transmission must fit the historical record.
 
-1. how it acts with several Sanskrit atoms;
-2. whether Vedic and लौकिक (*laukika*) Sanskrit deploy it differently;
-3. which Greek, Latin, Iranian, Germanic, or other forms deserve comparison;
-4. how those forms behave as particles, prepositions, preverbs, prefixes, or fused components;
-5. which sounds and meanings changed;
-6. whether several operators can combine and whether their order remains meaningful; and
-7. whether the proposed route of transmission fits the historical record.
+The धातु (*dhātu*) cases examine whether receiving languages grew word families from Sanskrit atoms. The उपसर्ग (*upasarga*) cases examine whether those languages also received reusable directions that could alter many atoms. Together, the two comparisons must explain what traveled and how each receiving language used it.
 
-The project tests radiance at two levels. The धातु (*dhātu*) cases examine whether receiving languages grew families from Sanskrit atoms. The उपसर्ग (*upasarga*) cases examine whether those languages also received reusable directions that could alter many atoms. A successful map has to explain both what traveled and how receiving languages used it.
+## 1.7 How the Philological Categories Survived Independence
 
-## 1.7 How the Framework Survived Independence
+Political authority transferred in 1947, but India's academic institutions retained the categories they had inherited under British rule. Those categories placed PIE above Sanskrit as its reconstructed ancestor and required scholars to study their relationship through the comparative method.
 
-Independence in 1947 transferred political authority. It did not transfer authority over the philological ecosystem.
-
-The European project had already hardened by then: PIE as ancestor, Sanskrit as daughter, comparative method as authority, historical principles as the permitted frame. Post-independence Indian institutions inherited the machinery. Deccan College continued. In 1948, the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* began there. The title displays the method. Appendix Part 2 examines that continuation in detail.
-
-The church of progress functions as a doctrinal ecosystem rather than a political organization. Its institutions can preserve the doctrine when political sovereignty changes. After independence, Indian funding, administrators, and scholars continued applying the same philological premises.
-
-The architecture of containment developed in Chapter 3 §3.5 appears here in specific institutions. The *progressive dogma* provides the doctrine. The *church of progress* consists of the institutions that teach and enforce it. During the nineteenth century, the colonial Sanskrit-knowledge enterprise fed the machinery that defended the story of linear progress. The postcolonial Sanskrit-research enterprise continues that work. The institutions remain; only the flags have changed. The recipe continues.
-
-*Sanskrit's deepest institutional home in the western subcontinent has sustained the **asuric pyramid**'s campaign against Sanskrit for two centuries. Political independence did not interrupt that campaign.*
-
-The धातु (*dhātu*) cluster evidence of §1.5 exposes the procedure in the ecosystem's own reference pages. The yoke family reconstructs an ancestor above Vedic **yuj / yug / yuk**. The *bher-* family places a star above Vedic **bibharti** and its labial architecture. The form \**ǵenh₁-* displaces **⟪जन्⟫**. The numbered \**bha-* forms replace the recorded relation between **⟪भा⟫** and **⟪भाष्⟫**. The baby-talk explanation separates मातृ (*mātṛ*) from **⟪मा⟫**. Other references disagree over the descendants of **⟪गम्⟫** or divide the range of **⟪पद्⟫**. The Sanskrit atoms and their generated families remain recorded. The recipes place imaginary forms above them.
-
-The धातवः (*dhātavaḥ*) are engineered. The recipes are baked.
-
-*[Forward-pointer to **Appendix Part 2: The Encyclopaedic Confirmation** — the same institution applying the same procedure across the political transition. Part 2 lays out the postcolonial continuation in detail.]*
+Deccan College continued under Indian funding and administration. In 1948, work began there on the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*. Its title announces the method it inherited. Appendix Part 2 removes those inherited categories and re-examines the project's immense collection of Sanskrit evidence.

@@ -501,6 +501,14 @@ All nine reference atoms recur in each of the four checked corpora, although the
 
 The ranks vary because the corpora perform different work. The recurrence of all nine nevertheless supports a stable, widely reused set of high-reactivity atoms.
 
+### Periodic Axes
+
+The periodic-axes figure tests a second arrangement. It places the धातवः (*dhātavaḥ*) recorded in the corpus by the वर्ग (*varga*) column of their first consonant and by their inherent vowel, then uses marker size and color to show combinatorial reach.
+
+![धातवः (*Dhātavaḥ*) recorded in the corpus, arranged by initial वर्ग (*varga*) column and inherent vowel.](figures/ganah/periodic_table.svg){#fig:reference-numbers-periodic-axes width=100%}
+
+The figure uses chemical periodicity as an analytical analogy. It asks whether properties already present inside an atom help predict how widely that atom enters verbal combinations. The numerical results and replication files allow that interpretation to be tested independently.
+
 ---
 
 # Part D — The Generative-Reach Layer
@@ -673,7 +681,7 @@ The architecture is visible. The numbers are reproducible.
 - **Extended-cluster 1,852-atom baseline** — adopted throughout Part A (replaces CVC-only 920-atom baseline). Place × place matrix now operates on 1,141 atoms (extended-cluster CVC subset with both consonants classifiable to a Pāṇinian place).
 - **Five class-level signatures** — not adopted as a separate framework in App 5 (more useful in Ch 10 prose); the underlying findings now appear distributed across §§6.2 (column), §6.3 (position), §6.4 (bonding), §6.5 (place dual-role), §6.8 (closure / clusters).
 - **CVC place × place matrix** — new content in §6.9; contains both OCP visualization and *mūrdhanya* C₂ asymmetry on one figure.
-- **New figures referenced** — `building_dhatuh_position_roles.svg` (§6.4); `ganah_reactivity_tiers.svg` and `ganah_canonical_rank_trajectory.svg` (§6.12). The `building_dhatuh_subatomic_periodicity.svg` and `building_dhatuh_two_level_periodicity.svg` figures are available for future inclusion if a periodic-axes section is added.
+- **New figures referenced** — `building_dhatuh_position_roles.svg` (§6.4); `ganah_reactivity_tiers.svg`, `ganah_canonical_rank_trajectory.svg`, and `ganah_periodic_table.svg` (§6.12). The `building_dhatuh_subatomic_periodicity.svg` and `building_dhatuh_two_level_periodicity.svg` figures remain available for future use.
 - ***Prayoga* reactivity material** — new §6.12 contains the full Path C audit (top-20 valency table; two-instrument agreement at ρ = +0.6647; reactivity tier structure 3.8% / 27.6% / 68.6%; cross-corpus pairwise Spearman; reference 9/9 invariance). Chapter 11 §§11.6–11.9 states the polemic version; Appendix Part 6 §6.12 is the reproducibility reservoir.
 
 **Number reconciliations:**
