@@ -108,6 +108,10 @@ REFERENCE_FRONT_FILE = BOOK_DIR / "companion" / "as_reference_front.md"
 REFERENCE_APPENDIX_GLOB = "companion/as_reference_*.md"
 PREAMBLE_TEMPLATE = BOOK_DIR / "templates" / "devanagari-preamble.tex.in"
 LATEX_STRIKEOUT_FILTER = BOOK_DIR / "filters" / "latex-strikeout.lua"
+# Rewrites tables inside the two-column endnotes to full-width floats.
+# Only needed when endnotes_twocolumn is on: longtable is an error, not a
+# cosmetic problem, in two-column mode.
+LATEX_ENDNOTE_TABLES_FILTER = BOOK_DIR / "filters" / "endnote-tables-twocolumn.lua"
 LATEX_SHORT_FIGURE_CAPTIONS_FILTER = BOOK_DIR / "filters" / "latex-short-figure-captions.lua"
 
 # Reuse the existing figure lineage comment writer. The helper lives under
@@ -201,6 +205,12 @@ PRESENTATION_DEFAULTS = {
     "appendix_fontsize": None,
     "endnotes_fontsize": None,
     "endnotes_linestretch": None,
+    # Two columns for the endnotes only. On A4 a single column runs about 108
+    # characters a line, well past the 45-75 a reader tracks comfortably, and
+    # the fix is the measure rather than the type size: smaller type on the
+    # same width only puts MORE characters on the line. Columns halve it.
+    # Off for the book, whose trim is already narrow enough.
+    "endnotes_twocolumn": False,
     # Print the folio on chapter/part/contents openers. See
     # _SUPPRESS_PLAIN_FOLIO for what turning this off does.
     "chapter_folio": True,
@@ -220,8 +230,8 @@ LAYOUTS = {
     # A4 with 1in margins — for the `convert` subcommand / non-US page size.
     "a4": {
         "geometry": "a4paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
-        "fontsize": "10.5pt",
-        "linestretch": "1.2",
+        "fontsize": "11.5pt",
+        "linestretch": "1.15",
         "chapter_folio": False,
     },
     # Comfortable A4 handout for pre-publication readers. The wider margins
@@ -276,15 +286,24 @@ PUBLICATIONS = {
         "linestretch": "1.15",
         # The companion sets one size for every page size; give it a layout
         # entry under by_layout to differ.
-        "fontsize": "10pt",
-        # 426 pages. Roman numerals throughout a volume this size are not
-        # front matter, they are the whole book, so number it in arabic from
-        # page 1 and let \mainmatter run normally.
+        "fontsize": "11pt",
         "defer_mainmatter": False,
+        # The endnotes are 80% of the volume (188 of 236 pages) and are the
+        # part with the measure problem; the reference appendices ahead of them
+        # stay single-column because their tables need longtable to break
+        # across pages.
+        "endnotes_twocolumn": True,
         "by_layout": {
             "b5": {"linestretch": "1.10"},
-            "a4": { "geometry": "a4paper,inner=1.125in,outer=0.4in,top=0.60in,bottom=0.40in",
-                    "fontsize": "10pt",
+            "a4": { "geometry": "a4paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
+                    "fontsize": "11pt",
+                    # Appendices keep the body size — they are single-column
+                    # tables and read at 11pt. The endnotes drop slightly:
+                    # a narrow justified column full of Devanagari-plus-IAST
+                    # compounds hyphenates badly, and the extra characters per
+                    # line are what buy the room.
+                    "appendix_fontsize": None,
+                    "endnotes_fontsize": "10.5pt",
                 },
         },
     },
@@ -1344,7 +1363,8 @@ _DEFER_MAINMATTER_TEX = (
 
 def _backmatter_size_tex(appendix_fontsize: str | None,
                          endnotes_fontsize: str | None,
-                         endnotes_linestretch: str | None) -> str:
+                         endnotes_linestretch: str | None,
+                         endnotes_twocolumn: bool = False) -> str:
     """Define the markers cmd_assemble() emits at the back-matter boundaries.
 
     The assembled markdown is shared by every page size, so it cannot carry a
@@ -1374,6 +1394,11 @@ def _backmatter_size_tex(appendix_fontsize: str | None,
     endnotes = switch(endnotes_fontsize) if endnotes_fontsize else r"\relax"
     if endnotes_linestretch:
         endnotes += f"\\setstretch{{{endnotes_linestretch}}}"
+    if endnotes_twocolumn:
+        # \twocolumn breaks the page, so this belongs before the Endnotes
+        # heading rather than after it: the book class then sets that heading
+        # across both columns instead of stranding it in the left one.
+        endnotes += "\\twocolumn"
     lines += [
         f"\\newcommand{{\\atomicappendixmatter}}{{{appendix}}}",
         f"\\newcommand{{\\atomicendnotematter}}{{{endnotes}}}",
@@ -1388,6 +1413,7 @@ def render_devanagari_preamble(
     appendix_fontsize: str | None = None,
     endnotes_fontsize: str | None = None,
     endnotes_linestretch: str | None = None,
+    endnotes_twocolumn: bool = False,
 ) -> Path:
     """Substitute the Devanagari font name and its fontspec options into the
     preamble template, writing the rendered build artifact.
@@ -1410,7 +1436,7 @@ def render_devanagari_preamble(
     text = text.replace(
         "__BACKMATTER_SIZES__",
         _backmatter_size_tex(appendix_fontsize, endnotes_fontsize,
-                             endnotes_linestretch),
+                             endnotes_linestretch, endnotes_twocolumn),
     )
     out = BUILD_DIR / "devanagari-preamble.tex"
     out.write_text(text)
@@ -2401,10 +2427,22 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         flags=re.MULTILINE,
     )
 
+    # Same boundary markers the book emits, so the point sizes stay in the
+    # presentation tables rather than in the assembled markdown, which is
+    # shared across page sizes. \atomicendnotematter also carries the
+    # two-column switch when the layout asks for one.
     assembled = "\n".join([
         front,
         "",
+        "```{=latex}",
+        "\\atomicappendixmatter",
+        "```",
+        "",
         *section_join(reference_sections),
+        "```{=latex}",
+        "\\atomicendnotematter",
+        "```",
+        "",
         "# Endnotes",
         "",
         entries_body.rstrip(),
@@ -2443,6 +2481,7 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         appendix_fontsize=setting("companion", layout, "appendix_fontsize"),
         endnotes_fontsize=setting("companion", layout, "endnotes_fontsize"),
         endnotes_linestretch=setting("companion", layout, "endnotes_linestretch"),
+        endnotes_twocolumn=setting("companion", layout, "endnotes_twocolumn"),
     )
 
     geometry = setting("companion", layout, "geometry")
@@ -2455,6 +2494,8 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         "--pdf-engine=xelatex",
         "--metadata-file", str(REFERENCE_METADATA_FILE),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
+        *(("--lua-filter", str(LATEX_ENDNOTE_TABLES_FILTER))
+          if setting("companion", layout, "endnotes_twocolumn") else ()),
         "-V", f"geometry:{geometry}",
         "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),

@@ -19,6 +19,8 @@
 \usepackage{fontspec}
 \usepackage{graphicx}
 \usepackage{caption}
+\usepackage{float}
+\usepackage{url}
 \usepackage[normalem]{ulem}
 
 % A book-class chapter starts on a recto page. Keep any intervening verso
@@ -47,6 +49,11 @@
 % i to cdxxvi, because \mainmatter was neutered and nothing restored it.
 % Substituted by build_book.py from the `defer_mainmatter` setting.
 __MAINMATTER_DEFERRAL__
+% Pandoc loads booktabs only when it still sees a Table in the AST. The
+% two-column endnote filter rewrites those tables to raw LaTeX, which
+% removes that trigger while the output still uses \toprule and friends.
+% Loading it here is a no-op when pandoc has already done so.
+\usepackage{booktabs}
 __BACKMATTER_SIZES__
 
 % Chapter-opening folio. book-class chapter, part and contents openers all
