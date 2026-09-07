@@ -92,10 +92,15 @@ class HypothesisClient:
         https://web.hypothes.is/help/moderation-for-groups/ 2026-08-15)."""
         return self._request("GET", "/profile")
 
-    def search_all(self, group_id: str) -> list[dict]:
+    def search_all(self, group_id: str, *, wildcard_uri: str | None = None) -> list[dict]:
         """Every annotation in one group, paging past the 200-per-request
         limit via search_after (cursor = the sort key's value on the last
-        row of the previous page, not an offset -- see module docstring)."""
+        row of the previous page, not an offset -- see module docstring).
+
+        `wildcard_uri` narrows the same search to documents matching a URL
+        pattern. That is what makes the public group usable: `__world__`
+        holds every public annotation on the internet, so it can only be
+        swept by asking for our own pages."""
         results: list[dict] = []
         search_after = None
         while True:
@@ -105,6 +110,8 @@ class HypothesisClient:
                 "sort": "created",
                 "order": "asc",
             }
+            if wildcard_uri:
+                params["wildcard_uri"] = wildcard_uri
             if search_after:
                 params["search_after"] = search_after
             page = self._request("GET", "/search", params=params)

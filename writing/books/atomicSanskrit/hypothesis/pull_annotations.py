@@ -25,6 +25,12 @@ DATA_DIR = Path(__file__).parent / "data"
 ANNOTATIONS_PATH = DATA_DIR / "annotations.json"
 GROUPS_PATH = DATA_DIR / "groups.json"
 
+# Hypothesis's public group. It holds every public annotation on the web,
+# so it is only ever searched together with a URL pattern of our own.
+PUBLIC_GROUP_ID = "__world__"
+PUBLIC_GROUP_NAME = "Public"
+PUBLIC_WILDCARD_URI = "https://secondshanti.org/*"
+
 _USER_RE = re.compile(r"^acct:([^@]+)@")
 
 
@@ -138,6 +144,32 @@ def main() -> int:
             continue
         print(f"  {gname} ({gid}): {len(rows)} annotation(s)")
         all_annotations.extend(normalize(a, gname) for a in rows)
+
+    # Readers who sign up and start annotating before joining their reading
+    # group post to Public, which belongs to no group this account is in, so
+    # the loop above cannot see it. Four readers had done this and 18
+    # annotations were sitting unread. They cannot be moved either -- an
+    # annotation belongs to its author -- so the pipeline has to come to them:
+    # search the public group narrowed to our own URLs.
+    try:
+        public_rows = client.search_all(PUBLIC_GROUP_ID,
+                                        wildcard_uri=PUBLIC_WILDCARD_URI)
+    except HypothesisError as e:
+        print(f"  ⚠ public annotations: {e}", file=sys.stderr)
+        public_rows = []
+    else:
+        # The account's own group list may already include Public, so the same
+        # annotation can arrive twice; keep the group-scoped copy.
+        seen = {a["id"] for a in all_annotations}
+        fresh = [a for a in public_rows if a["id"] not in seen]
+        print(f"  {PUBLIC_GROUP_NAME} (on {PUBLIC_WILDCARD_URI}): "
+              f"{len(fresh)} annotation(s)")
+        if fresh:
+            authors = sorted({clean_user(a.get("user", "")) for a in fresh})
+            print(f"    posted publicly rather than to a reading group: "
+                  f"{', '.join(authors)}")
+        group_index.setdefault(PUBLIC_GROUP_ID, PUBLIC_GROUP_NAME)
+        all_annotations.extend(normalize(a, PUBLIC_GROUP_NAME) for a in fresh)
 
     all_annotations.sort(key=lambda a: a["created"])
 
