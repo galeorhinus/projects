@@ -145,16 +145,16 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 **Chapter 9 — The Varṇamālā: The Sonomeric Grid** — *Turns the surveyed subcontinental sound inventory into the selected Sanskrit parts-inventory: garland, address space, control panel, breath axis, timed duration, and sound volume — and lifts the Alphabetic shadow.*
 
 - 9.1 The Garland Becomes a Grid — *The Vedic sieve and the* varṇamālā *as Sanskrit's own image of selected sonomers: engineering made radiant.*
-- 9.2 The Four Divisions — *The selected inventory sorted by work: vowels, contact sounds, between-standing, friction/breath, and boundary carriers.*
-- 9.3 Every Sound Has an Address — *The sonomer grid as place-and-manner address space.*
-- 9.4 The Control Panel — *The 5×5* sparśa *matrix as five stations crossed with breath, voice, and nasal control.*
-- 9.5 Breath as an Axis — *Mahāprāṇa *and* ayogavāha *as breath made structural.*
-- 9.6 Nuclei, Contacts, and Timing — *The* akṣara *as vowel-centered assembly;* mātrā *as timed duration; the sonomer/audiograph distinction.*
+- 9.2 The Four Divisions — *The selected inventory divided into vowels, contact sounds, between-standing sounds, and friction sounds.*
+- 9.3 The Mouth Becomes an Address Space — *Five anatomical places become the horizontal axis of the consonant grid.*
+- 9.4 How Five Places Become Twenty-Five Sounds — *One mouth-place first yields five contact sounds; the same controls then repeat across all five places.*
+- 9.5 The Complete Consonant Grid — *The twenty-five contact sonomers join four between-standing and four friction sonomers, leaving two possible addresses empty.*
+- 9.6 The Akṣara: Nucleus, Contact, and Timing — *The* akṣara *bonds consonants around a vowel, while* mātrā *specifies the duration of each sound.*
 - 9.7 The Svara Address Grid — *The familiar fourteen-form teaching row separated from the nine-family vowel architecture.*
 - 9.8 Duration, Pitch, and Nasality — *Nine families unfold into 132 analytically distinguishable realizations without becoming 132 written vowels.*
 - 9.9 The Sound Volume — *The 5×7 consonant plane extruded through the formal 14-position teaching axis.*
-- 9.10 What Earns a Grid Address — *PASS distinguishes Included sonomers, Restricted outputs, Vaidika and Lineage-Bounded forms, and Excluded consonant and vowel addresses.*
-- 9.11 Engineered Margin — *What Sanskrit leaves out as collision-avoidance and preservation margin.*
+- 9.10 What Earns a Grid Address — *PASS distinguishes addressed sonomers from Restricted, Lineage-Bounded, and Excluded sounds, then explains why the grid keeps a margin.*
+- 9.11 The Vedas as the Pronunciation Calibrant — *Exact recitation preserves the sound standard while ritual and public recitation keep it audible across society.*
 - 9.12 Varṇa Is Not Letter — *The Alphabetic shadow lifted:* varṇa *is a measured sound-particle, the* varṇamālā *a sonomeric grid — not an alphabet of marks. The marks follow; the grid is the engineering.*
 - 9.13 The Grid Orders the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*
 

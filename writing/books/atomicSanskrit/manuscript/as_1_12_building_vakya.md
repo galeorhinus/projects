@@ -128,7 +128,7 @@ The sentence contains a pronoun, several accusative forms, two genitive plurals,
 
 The Vedic line therefore demonstrates grammar shared by the two domains. It is not being used here to demonstrate their differences.
 
-Appendix Part 7 §7.3 parses the complete mantra.
+Appendix Part 7 §7.3 places this sentence beside two other Vedic examples in the source concordance.
 
 ## 12.5 Encoded Relations Permit Free Word Order
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 346" width="4.8in" height="1.384in" preserveAspectRatio="xMidYMid meet" xml:space="preserve">
+<rect width="1200" height="346" fill="#f7f4ed"/>
+<text x="1166" y="34" text-anchor="end" font-family="STIX Two Text, Georgia, serif" font-size="27" fill="#9a7833">03</text>
+<rect x="34" y="51" width="218" height="40" rx="2" fill="#ede5d1"/>
+<text x="48" y="80" font-family="STIX Two Text, Georgia, serif" font-size="28" font-weight="700" fill="#29251f">Judaism</text>
+<text x="292" y="79" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan>Israel</tspan><tspan> and</tspan><tspan> the</tspan><tspan> nations;</tspan><tspan> Jew</tspan><tspan> and</tspan><tspan> Gentile.</tspan></text>
+<rect x="34" y="106" width="218" height="40" rx="2" fill="#d9caa8"/>
+<text x="48" y="135" font-family="STIX Two Text, Georgia, serif" font-size="28" font-weight="700" fill="#29251f">Christianity</text>
+<text x="292" y="134" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan>Believer</tspan><tspan> and</tspan><tspan> heathen;</tspan><tspan> orthodox</tspan><tspan> and</tspan><tspan> heretic;</tspan><tspan> saved</tspan><tspan> and</tspan><tspan> damned.</tspan></text>
+<rect x="34" y="161" width="218" height="40" rx="2" fill="#ad9b76"/>
+<text x="48" y="190" font-family="STIX Two Text, Georgia, serif" font-size="28" font-weight="700" fill="#ffffff">Islam</text>
+<text x="292" y="189" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan>Believer</tspan><tspan> and</tspan><tspan font-style="italic"> kāfir;</tspan><tspan> in</tspan><tspan> classical</tspan><tspan> jurisprudence,</tspan><tspan font-style="italic"> dār</tspan><tspan font-style="italic"> al-Islām</tspan><tspan> and</tspan><tspan font-style="italic"> dār</tspan></text>
+<text x="292" y="225" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan font-style="italic">al-ḥarb.</tspan></text>
+<rect x="34" y="248" width="218" height="40" rx="2" fill="#4a4033"/>
+<text x="48" y="277" font-family="STIX Two Text, Georgia, serif" font-size="28" font-weight="700" fill="#ffffff">Progressivism</text>
+<text x="292" y="276" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan>Rational</tspan><tspan> and</tspan><tspan> objective</tspan><tspan> versus</tspan><tspan> mythological</tspan><tspan> and</tspan><tspan> unscientific;</tspan></text>
+<text x="292" y="312" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan>mainstream</tspan><tspan> versus</tspan><tspan> fringe;</tspan><tspan> expert</tspan><tspan> versus</tspan><tspan> denier.</tspan></text>
+<line x1="34" y1="345" x2="1166" y2="345" stroke="#cfc6b5" stroke-width="1"/>
+</svg>

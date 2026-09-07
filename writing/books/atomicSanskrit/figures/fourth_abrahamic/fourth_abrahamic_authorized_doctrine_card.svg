@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- lineage: py
+     canonical-source: fourth_abrahamic_authorized_doctrine_card.from-py.svg
+     updated: 2026-09-06 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 314" width="4.8in" height="1.256in" preserveAspectRatio="xMidYMid meet" xml:space="preserve">
+<rect width="1200" height="314" fill="#f7f4ed"/>
+<text x="1166" y="34" text-anchor="end" font-family="STIX Two Text, Georgia, serif" font-size="27" fill="#9a7833">02</text>
+<rect x="34" y="51" width="218" height="40" rx="2" fill="#ede5d1"/>
+<text x="48" y="80" font-family="STIX Two Text, Georgia, serif" font-size="28" font-weight="700" fill="#29251f">Judaism</text>
+<text x="292" y="79" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan>The</tspan><tspan> Torah</tspan><tspan> and</tspan><tspan> Halakha.</tspan></text>
+<rect x="34" y="106" width="218" height="40" rx="2" fill="#d9caa8"/>
+<text x="48" y="135" font-family="STIX Two Text, Georgia, serif" font-size="28" font-weight="700" fill="#29251f">Christianity</text>
+<text x="292" y="134" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan>The</tspan><tspan> Bible,</tspan><tspan> creeds,</tspan><tspan> and</tspan><tspan> authorized</tspan><tspan> ecclesiastical</tspan><tspan> interpretation.</tspan></text>
+<rect x="34" y="161" width="218" height="40" rx="2" fill="#ad9b76"/>
+<text x="48" y="190" font-family="STIX Two Text, Georgia, serif" font-size="28" font-weight="700" fill="#ffffff">Islam</text>
+<text x="292" y="189" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan>The</tspan><tspan> Quran,</tspan><tspan> Hadith,</tspan><tspan> and</tspan><tspan> the</tspan><tspan> schools</tspan><tspan> of</tspan><tspan> jurisprudence</tspan><tspan> built</tspan><tspan> around</tspan><tspan> them.</tspan></text>
+<rect x="34" y="216" width="218" height="40" rx="2" fill="#4a4033"/>
+<text x="48" y="245" font-family="STIX Two Text, Georgia, serif" font-size="28" font-weight="700" fill="#ffffff">Progressivism</text>
+<text x="292" y="244" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan>Secular</tspan><tspan> consensus,</tspan><tspan> linear</tspan><tspan> upward</tspan><tspan> progress,</tspan><tspan> and</tspan><tspan> discipline-specific</tspan></text>
+<text x="292" y="280" font-family="STIX Two Text, Georgia, serif" font-size="29" fill="#4a4136"><tspan>articles</tspan><tspan> of</tspan><tspan> faith</tspan><tspan> such</tspan><tspan> as</tspan><tspan> PIE</tspan><tspan> and</tspan><tspan> the</tspan><tspan> Racial</tspan><tspan> Arya</tspan><tspan> Thesis.</tspan></text>
+<line x1="34" y1="313" x2="1166" y2="313" stroke="#cfc6b5" stroke-width="1"/>
+</svg>

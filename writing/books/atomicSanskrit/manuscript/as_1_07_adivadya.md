@@ -44,7 +44,7 @@ The vocal tract is a variable wind instrument built into the body. The lungs are
 
 The tongue is the most complex moving part: tip, blade, body, and base. Above it sit the upper teeth, the alveolar ridge, the hard palate, the soft palate, and the uvula. The lips stand at the front and the throat at the back. Vocal tracts vary with age and body, but the same parts and operations recur.[NOTE: vocal-tract-cm-modeling]
 
-![Figure 7.1 — The Vocal Apparatus. The anatomy of the original instrument: lungs, larynx, vocal cords, oral cavity, tongue, lips, nasal passage, and the articulating regions that make speech possible.](figures/adivadya/vocal_tract_anatomy.svg){#fig:adivadya-vocal-tract-anatomy width=100%}
+![Figure 7.1 — The Vocal Apparatus. The anatomy of the original instrument: lungs, larynx, vocal cords, oral cavity, tongue, lips, nasal passage, and the articulating regions that make speech possible.](figures/adivadya/vocal_tract_anatomy_reversed.svg){#fig:adivadya-vocal-tract-anatomy width=100%}
 
 The anatomy makes the instrument analogy concrete. A clarinet has one reed and a fixed bore. The voice has variable vocal cords, a continuously reshaped bore, and a valve that couples or decouples a parallel nasal resonator. The voice combines the functions of reed, bore, valves, resonators, and articulators in one living system. A constructed wind instrument reproduces only some of those functions.
 
@@ -106,7 +106,7 @@ English scientific disciplines have built a rigorous vocabulary for this archite
 
 The same Indic classificatory discipline that called constructed instruments **तत (*tata*)** for string, **सुषिर (*suṣira*)** for wind, **अवनद्ध (*avanaddha*)** for membrane, and **घन (*ghana*)** for solid also mapped the original instrument. It mapped where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) disciplines of the वेदाङ्ग (*Vedāṅga*).[NOTE: nadyashastra-four-instrument-taxonomy][NOTE: allen-1953-phonetics-ancient-india]
 
-![Figure 7.3 — The Vocal Apparatus in Sanskrit. The same instrument described through the categories Sanskrit uses to produce and distinguish sound: स्थान (*sthāna*), प्राण (*prāṇa*), घोष (*ghoṣa*), and अनुनासिक (*anunāsika*).](figures/adivadya/vocal_apparatus_sanskrit.svg){#fig:adivadya-vocal-apparatus-sanskrit width=100%}
+![Figure 7.3 — The Vocal Apparatus in Sanskrit. The same instrument described through the categories Sanskrit uses to produce and distinguish sound: स्थान (*sthāna*), प्राण (*prāṇa*), घोष (*ghoṣa*), and अनुनासिक (*anunāsika*).](figures/adivadya/vocal_apparatus_sanskrit_reversed.svg){#fig:adivadya-vocal-apparatus-sanskrit width=100%}
 
 The Sanskrit account begins with **स्थान (*sthāna*)**—place—where each *sthāna* name derives from the anatomy via a single, consistent pattern. The lip, ओष्ठ (*oṣṭha*), gives **ओष्ठ्य (*oṣṭhya*)** (of the lips); the tooth, दन्त (*danta*), gives **दन्त्य (*dantya*)** (of the teeth); the crown of the palate, मूर्धन् (*mūrdhan*, *head*), gives **मूर्धन्य (*mūrdhanya*)** (of the crown); the palate, तालु (*tālu*), gives **तालव्य (*tālavya*)** (of the palate); and the throat, कण्ठ (*kaṇṭha*), gives **कण्ठ्य (*kaṇṭhya*)** (of the throat). Sanskrit identifies five precise anatomical places and gives each one a name through the same derivational pattern.
 

@@ -108,7 +108,7 @@ Three contributions expand what a bounded Vedic passage can express or arrange.
 
 The ten contributions differ in frequency and reach. Pitch and meter affect broad portions of the Vedic corpus. Sonomeric exceptions may occur only under narrow conditions. A single variation can also contribute in several ways. A longer ending may complete a metrical line, strengthen its resonance, and make a grammatical boundary easier to hear.
 
-The next four sections show these functions through representative passages. Appendix Part 8 retains the complete technical analysis: the full declensional inventory, the figure series, the लेट्–लोट् (*leṭ–loṭ*) coordinate test, the additional verbal forms, the source qualifications, and the prevalence data.
+The next four sections show these functions through representative passages. Appendix Part 8 retains the complete technical analysis: the full declensional inventory, its 83 data-card records, the लेट्–लोट् (*leṭ–loṭ*) coordinate test, the additional verbal forms, the source qualifications, and the prevalence data.
 
 ## 16.3 Audible Architecture
 

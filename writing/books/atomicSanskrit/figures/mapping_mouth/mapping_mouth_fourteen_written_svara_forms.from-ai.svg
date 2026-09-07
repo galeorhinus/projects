@@ -4,7 +4,7 @@
   <rect x="0" y="0" width="1120" height="326" fill="#f4f4f3"/>
 
   <text x="40" y="52" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" font-size="38" font-weight="700" fill="#2b2b2d">Fourteen Written Svara Forms</text>
-  <text x="40" y="92" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" font-size="28" fill="#4a4136">The familiar teaching row, numbered from अ to औ.</text>
+  <text x="40" y="92" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" font-size="28" fill="#4a4136">The familiar teaching row; bold forms name the nine vowel families.</text>
   <line x1="40" y1="110" x2="1080" y2="110" stroke="#2b2b2d" stroke-width="2"/>
 
   <rect x="40" y="132" width="1040" height="44" rx="5" fill="#ece4d3" stroke="#c3b9a3" stroke-width="1.2"/>
@@ -38,29 +38,29 @@
   </g>
 
   <g>
-    <text x="77.14" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">अ</text>
+    <text x="77.14" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="700" fill="#2b2b2d" text-anchor="middle">अ</text>
     <text x="151.43" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">आ</text>
-    <text x="225.71" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">इ</text>
+    <text x="225.71" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="700" fill="#2b2b2d" text-anchor="middle">इ</text>
     <text x="300.00" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">ई</text>
-    <text x="374.29" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">उ</text>
+    <text x="374.29" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="700" fill="#2b2b2d" text-anchor="middle">उ</text>
     <text x="448.57" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">ऊ</text>
-    <text x="522.86" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">ऋ</text>
+    <text x="522.86" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="700" fill="#2b2b2d" text-anchor="middle">ऋ</text>
     <text x="597.14" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">ॠ</text>
-    <text x="671.43" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">ऌ</text>
+    <text x="671.43" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="700" fill="#2b2b2d" text-anchor="middle">ऌ</text>
     <text x="745.71" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">ॡ</text>
-    <text x="820.00" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">ए</text>
-    <text x="894.29" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">ऐ</text>
-    <text x="968.57" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">ओ</text>
-    <text x="1042.86" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="500" fill="#2b2b2d" text-anchor="middle">औ</text>
+    <text x="820.00" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="700" fill="#2b2b2d" text-anchor="middle">ए</text>
+    <text x="894.29" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="700" fill="#2b2b2d" text-anchor="middle">ऐ</text>
+    <text x="968.57" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="700" fill="#2b2b2d" text-anchor="middle">ओ</text>
+    <text x="1042.86" y="221" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif" font-size="39" font-weight="700" fill="#2b2b2d" text-anchor="middle">औ</text>
   </g>
 
   <g font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" font-size="27" font-style="italic" fill="#766652" text-anchor="middle">
-    <text x="77.14" y="278">a</text><text x="151.43" y="278">ā</text>
-    <text x="225.71" y="278">i</text><text x="300.00" y="278">ī</text>
-    <text x="374.29" y="278">u</text><text x="448.57" y="278">ū</text>
-    <text x="522.86" y="278">ṛ</text><text x="597.14" y="278">ṝ</text>
-    <text x="671.43" y="278">ḷ</text><text x="745.71" y="278">ḹ</text>
-    <text x="820.00" y="278">e</text><text x="894.29" y="278">ai</text>
-    <text x="968.57" y="278">o</text><text x="1042.86" y="278">au</text>
+    <text x="77.14" y="278" font-weight="700">a</text><text x="151.43" y="278">ā</text>
+    <text x="225.71" y="278" font-weight="700">i</text><text x="300.00" y="278">ī</text>
+    <text x="374.29" y="278" font-weight="700">u</text><text x="448.57" y="278">ū</text>
+    <text x="522.86" y="278" font-weight="700">ṛ</text><text x="597.14" y="278">ṝ</text>
+    <text x="671.43" y="278" font-weight="700">ḷ</text><text x="745.71" y="278">ḹ</text>
+    <text x="820.00" y="278" font-weight="700">e</text><text x="894.29" y="278" font-weight="700">ai</text>
+    <text x="968.57" y="278" font-weight="700">o</text><text x="1042.86" y="278" font-weight="700">au</text>
   </g>
 </svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="4.338in" viewBox="0 0 1200 1096">
+<rect width="1200" height="1096" fill="#f7f4ed"/>
+<text x="34.0" y="53.0" font-family="STIX Two Text, Georgia, serif" font-size="42" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Designed Variations: Word Classes</text>
+<text x="34.0" y="88.0" font-family="STIX Two Text, Georgia, serif" font-size="27" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">CL-08 through CL-10 · page 3 of 3</text>
+<text x="34.0" y="121.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="24" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">वैदिक (vaidika) · लौकिक (laukika)</text>
+<line x1="34" y1="137" x2="1166" y2="137" stroke="#9d7c36" stroke-width="3"/>
+<line x1="34" y1="158" x2="1166" y2="158" stroke="#cfc6b5" stroke-width="1"/>
+<text x="34.0" y="193.0" font-family="STIX Two Text, Georgia, serif" font-size="29" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-08</text>
+<text x="137.0" y="193.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">पन्थन् (panthan) “path”</text>
+<text x="137.0" y="231.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Relation: Lexical paradigm</text>
+<text x="137.0" y="264.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">वैदिक: distributes forms across पन्था, पथि, पथ् (panthā, pathi, path)</text>
+<text x="137.0" y="299.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">differently from laukika and preserves additional plurals</text>
+<text x="137.0" y="334.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">लौकिक: regularizes the distribution assigned to the three forms</text>
+<text x="137.0" y="369.0" font-family="STIX Two Text, Georgia, serif" font-size="26" font-weight="400" font-style="normal" fill="#9d7c36" text-anchor="start">Contribution: open · Evidence: form recorded · question open</text>
+<text x="137.0" y="401.0" font-family="STIX Two Text, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Prevalence: 1 paradigm · grade A</text>
+<rect x="34" y="425" width="1132" height="267" fill="#f0ece3"/>
+<line x1="34" y1="425" x2="1166" y2="425" stroke="#cfc6b5" stroke-width="1"/>
+<text x="34.0" y="460.0" font-family="STIX Two Text, Georgia, serif" font-size="29" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-09</text>
+<text x="137.0" y="460.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">perfect participles</text>
+<text x="137.0" y="498.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Relation: Participial declension</text>
+<text x="137.0" y="531.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">वैदिक: uses the reduced form more widely and the -वत् (-vat) form more</text>
+<text x="137.0" y="566.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">narrowly than laukika</text>
+<text x="137.0" y="601.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">लौकिक: extends the -वत् (-vat) form into more case positions</text>
+<text x="137.0" y="636.0" font-family="STIX Two Text, Georgia, serif" font-size="26" font-weight="400" font-style="normal" fill="#9d7c36" text-anchor="start">Contribution: open · Evidence: form recorded · question open</text>
+<text x="137.0" y="668.0" font-family="STIX Two Text, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Prevalence: 3 tokens · grade B</text>
+<line x1="34" y1="692" x2="1166" y2="692" stroke="#cfc6b5" stroke-width="1"/>
+<text x="34.0" y="727.0" font-family="STIX Two Text, Georgia, serif" font-size="29" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-10</text>
+<text x="137.0" y="727.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">active participles ending in -अन्त् (-ant)</text>
+<text x="137.0" y="765.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Relation: Mixed: frequent dual pattern / rare plural form</text>
+<text x="137.0" y="798.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">वैदिक: Two distinct phenomena: Vedic usually uses -आ (-ā) rather than</text>
+<text x="137.0" y="833.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">-औ (-au) in the masculine dual, while rare neuter plural -आन्ति</text>
+<text x="137.0" y="868.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">(-ānti) occurs beside -अन्ति (-anti)</text>
+<text x="137.0" y="903.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">लौकिक: uses -औ (-au) and -अन्ति (-anti)</text>
+<text x="137.0" y="938.0" font-family="STIX Two Text, Georgia, serif" font-size="26" font-weight="400" font-style="italic" fill="#8b4b3d" text-anchor="start">Qualification: DOMINANT dual / ISOLATED RV plural</text>
+<text x="137.0" y="970.0" font-family="STIX Two Text, Georgia, serif" font-size="26" font-weight="400" font-style="normal" fill="#9d7c36" text-anchor="start">Contribution: open · Evidence: form recorded · question open</text>
+<text x="137.0" y="1002.0" font-family="STIX Two Text, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Prevalence: 85.7% (6/7 tokens) · grade B | 2 passages · grade B</text>
+<line x1="34" y1="1026" x2="1166" y2="1026" stroke="#cfc6b5" stroke-width="1"/>
+<text x="34.0" y="1065.0" font-family="STIX Two Text, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Open = unresolved finding · 0 = measured zero · A–D = evidence grade</text>
+</svg>

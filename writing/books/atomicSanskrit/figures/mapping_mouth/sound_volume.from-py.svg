@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="640" viewBox="0 0 1040 640">
+<rect width="1040" height="640" fill="#f7f7f4"/>
+<text x="215" y="44" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#666368">THE CONSONANT PLANE</text>
+<rect x="82" y="60" width="310" height="266" rx="5" fill="#deddd8" stroke="#c9c3b8" stroke-width="1" opacity="0.35"/>
+<rect x="70" y="71" width="310" height="266" rx="5" fill="#deddd8" stroke="#c9c3b8" stroke-width="1" opacity="0.58"/>
+<rect x="58" y="82" width="310" height="266" rx="5" fill="#ffffff" stroke="#29282a" stroke-width="1.3"/>
+<polygon points="69.0,108.0 81.0,93.0 105.0,93.0 117.0,108.0 105.0,123.0 81.0,123.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="129.0,108.0 141.0,93.0 165.0,93.0 177.0,108.0 165.0,123.0 141.0,123.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="189.0,108.0 201.0,93.0 225.0,93.0 237.0,108.0 225.0,123.0 201.0,123.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="249.0,108.0 261.0,93.0 285.0,93.0 297.0,108.0 285.0,123.0 261.0,123.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="309.0,108.0 321.0,93.0 345.0,93.0 357.0,108.0 345.0,123.0 321.0,123.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="69.0,144.0 81.0,129.0 105.0,129.0 117.0,144.0 105.0,159.0 81.0,159.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="129.0,144.0 141.0,129.0 165.0,129.0 177.0,144.0 165.0,159.0 141.0,159.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="189.0,144.0 201.0,129.0 225.0,129.0 237.0,144.0 225.0,159.0 201.0,159.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="249.0,144.0 261.0,129.0 285.0,129.0 297.0,144.0 285.0,159.0 261.0,159.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="309.0,144.0 321.0,129.0 345.0,129.0 357.0,144.0 345.0,159.0 321.0,159.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="69.0,180.0 81.0,165.0 105.0,165.0 117.0,180.0 105.0,195.0 81.0,195.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="129.0,180.0 141.0,165.0 165.0,165.0 177.0,180.0 165.0,195.0 141.0,195.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="189.0,180.0 201.0,165.0 225.0,165.0 237.0,180.0 225.0,195.0 201.0,195.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="249.0,180.0 261.0,165.0 285.0,165.0 297.0,180.0 285.0,195.0 261.0,195.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="309.0,180.0 321.0,165.0 345.0,165.0 357.0,180.0 345.0,195.0 321.0,195.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="69.0,216.0 81.0,201.0 105.0,201.0 117.0,216.0 105.0,231.0 81.0,231.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="129.0,216.0 141.0,201.0 165.0,201.0 177.0,216.0 165.0,231.0 141.0,231.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="189.0,216.0 201.0,201.0 225.0,201.0 237.0,216.0 225.0,231.0 201.0,231.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="249.0,216.0 261.0,201.0 285.0,201.0 297.0,216.0 285.0,231.0 261.0,231.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="309.0,216.0 321.0,201.0 345.0,201.0 357.0,216.0 345.0,231.0 321.0,231.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="69.0,252.0 81.0,237.0 105.0,237.0 117.0,252.0 105.0,267.0 81.0,267.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="129.0,252.0 141.0,237.0 165.0,237.0 177.0,252.0 165.0,267.0 141.0,267.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="189.0,252.0 201.0,237.0 225.0,237.0 237.0,252.0 225.0,267.0 201.0,267.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="249.0,252.0 261.0,237.0 285.0,237.0 297.0,252.0 285.0,267.0 261.0,267.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="309.0,252.0 321.0,237.0 345.0,237.0 357.0,252.0 345.0,267.0 321.0,267.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="69.0,288.0 81.0,273.0 105.0,273.0 117.0,288.0 105.0,303.0 81.0,303.0" fill="#ffffff" stroke="#a77a31" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="93" y="289" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="11" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#a77a31">1</text>
+<polygon points="129.0,288.0 141.0,273.0 165.0,273.0 177.0,288.0 165.0,303.0 141.0,303.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="189.0,288.0 201.0,273.0 225.0,273.0 237.0,288.0 225.0,303.0 201.0,303.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="249.0,288.0 261.0,273.0 285.0,273.0 297.0,288.0 285.0,303.0 261.0,303.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="309.0,288.0 321.0,273.0 345.0,273.0 357.0,288.0 345.0,303.0 321.0,303.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="69.0,324.0 81.0,309.0 105.0,309.0 117.0,324.0 105.0,339.0 81.0,339.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="129.0,324.0 141.0,309.0 165.0,309.0 177.0,324.0 165.0,339.0 141.0,339.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="189.0,324.0 201.0,309.0 225.0,309.0 237.0,324.0 225.0,339.0 201.0,339.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="249.0,324.0 261.0,309.0 285.0,309.0 297.0,324.0 285.0,339.0 261.0,339.0" fill="#deddd8" stroke="#666368" stroke-width="1.2"/>
+<polygon points="309.0,324.0 321.0,309.0 345.0,309.0 357.0,324.0 345.0,339.0 321.0,339.0" fill="#ffffff" stroke="#a77a31" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="333" y="325" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="11" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#a77a31">2</text>
+<text x="213" y="381" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="19" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">5 places × 7 rows</text>
+<text x="213" y="411" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#666368">35 possible addresses</text>
+<text x="423" y="217" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="40" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#a77a31">×</text>
+<rect x="490" y="82" width="492" height="266" rx="6" fill="#ffffff" stroke="#c9c3b8" stroke-width="1.3"/>
+<text x="736" y="116" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#666368">THE FOURTEEN-POSITION TEACHING AXIS</text>
+<polygon points="508.0,174.0 520.0,159.0 544.0,159.0 556.0,174.0 544.0,189.0 520.0,189.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="532" y="173" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">क</text>
+<polygon points="576.0,174.0 588.0,159.0 612.0,159.0 624.0,174.0 612.0,189.0 588.0,189.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="600" y="173" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">का</text>
+<polygon points="644.0,174.0 656.0,159.0 680.0,159.0 692.0,174.0 680.0,189.0 656.0,189.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="668" y="173" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">कि</text>
+<polygon points="712.0,174.0 724.0,159.0 748.0,159.0 760.0,174.0 748.0,189.0 724.0,189.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="736" y="173" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">की</text>
+<polygon points="780.0,174.0 792.0,159.0 816.0,159.0 828.0,174.0 816.0,189.0 792.0,189.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="804" y="173" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">कु</text>
+<polygon points="848.0,174.0 860.0,159.0 884.0,159.0 896.0,174.0 884.0,189.0 860.0,189.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="872" y="173" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">कू</text>
+<polygon points="916.0,174.0 928.0,159.0 952.0,159.0 964.0,174.0 952.0,189.0 928.0,189.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="940" y="173" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">कृ</text>
+<polygon points="508.0,267.0 520.0,252.0 544.0,252.0 556.0,267.0 544.0,282.0 520.0,282.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="532" y="266" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">कॄ</text>
+<polygon points="576.0,267.0 588.0,252.0 612.0,252.0 624.0,267.0 612.0,282.0 588.0,282.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="600" y="266" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">कॢ</text>
+<polygon points="644.0,267.0 656.0,252.0 680.0,252.0 692.0,267.0 680.0,282.0 656.0,282.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="668" y="266" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">कॣ</text>
+<polygon points="712.0,267.0 724.0,252.0 748.0,252.0 760.0,267.0 748.0,282.0 724.0,282.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="736" y="266" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">के</text>
+<polygon points="780.0,267.0 792.0,252.0 816.0,252.0 828.0,267.0 816.0,282.0 792.0,282.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="804" y="266" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">कै</text>
+<polygon points="848.0,267.0 860.0,252.0 884.0,252.0 896.0,267.0 884.0,282.0 860.0,282.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="872" y="266" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">को</text>
+<polygon points="916.0,267.0 928.0,252.0 952.0,252.0 964.0,267.0 952.0,282.0 928.0,282.0" fill="#efe2ca" stroke="#a77a31" stroke-width="1.2"/>
+<text x="940" y="266" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">कौ</text>
+<text x="736" y="330" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#666368">one consonant address extends through all fourteen positions</text>
+<rect x="58" y="462" width="924" height="126" rx="6" fill="#ffffff" stroke="#c9c3b8" stroke-width="1.3"/>
+<text x="520" y="490" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#666368">THE MULTIPLICATION</text>
+<text x="225" y="535" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="30" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">35 × 14</text>
+<text x="225" y="567" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="15" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#666368">490 possible positions</text>
+<text x="520" y="535" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="30" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#a77a31">−  2 × 14</text>
+<text x="520" y="567" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="15" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#666368">28 positions remain empty</text>
+<text x="815" y="535" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="30" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#29282a">33 × 14 = 462</text>
+<text x="815" y="567" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="15" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#666368">addressed teaching combinations</text>
+<text x="520" y="618" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#666368">A classroom row unrolls one fiber of the volume.</text>
+</svg>

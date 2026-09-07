@@ -1,68 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="2.613in" viewBox="0 0 1200 660">
-<rect width="1200" height="660" fill="#f7f4ed"/>
-<text x="28.0" y="54.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="42" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Designed Variations: Accent and Recitation</text>
-<text x="28.0" y="91.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">AC-01 through AC-04</text>
-<line x1="28" y1="108" x2="1172" y2="108" stroke="#9d7c36" stroke-width="3"/>
-<text x="28.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">ID</text>
-<text x="122.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Ending / class</text>
-<text x="462.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Relation</text>
-<text x="704.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Qualification</text>
-<text x="946.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">DV</text>
-<text x="1180.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Evidence</text>
-<text x="122.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Vaidika range · laukika form for new composition</text>
-<text x="800.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Prevalence</text>
-<line x1="28" y1="208" x2="1172" y2="208" stroke="#cfc6b5" stroke-width="1"/>
-<text x="28.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">AC-01</text>
-<text x="122.0" y="240.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Accent of the vocative</text>
-<text x="704.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">N/A</text>
-<text x="462.0" y="240.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Recitation and senten…</text>
-<text x="122.0" y="279.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: The first syllabl…  ·  L: —</text>
-<text x="946.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
-<rect x="800" y="264" width="22" height="15" fill="none" stroke="#8b8377" stroke-width="2" stroke-dasharray="4 3"/>
-<text x="830.0" y="279.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#8b8377" text-anchor="start">open · U</text>
-<text x="1180.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
-<rect x="28" y="298" width="1144" height="90" fill="#f0ece3"/>
-<line x1="28" y1="298" x2="1172" y2="298" stroke="#cfc6b5" stroke-width="1"/>
-<text x="28.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">AC-02</text>
-<text x="122.0" y="330.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Accent movement within d…</text>
-<text x="704.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">N/A</text>
-<text x="462.0" y="330.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Audible rather than s…</text>
-<text x="122.0" y="369.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: Several ending cl…  ·  L: —</text>
-<text x="946.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
-<rect x="800" y="354" width="22" height="15" fill="none" stroke="#8b8377" stroke-width="2" stroke-dasharray="4 3"/>
-<text x="830.0" y="369.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#8b8377" text-anchor="start">open · U</text>
-<text x="1180.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
-<line x1="28" y1="388" x2="1172" y2="388" stroke="#cfc6b5" stroke-width="1"/>
-<text x="28.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">AC-03</text>
-<text x="122.0" y="420.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Resolved endings</text>
-<text x="462.0" y="420.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Meter and recitation…</text>
-<text x="122.0" y="459.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -enā, -ebhiaḥ, -ā…  ·  L: —</text>
-<text x="946.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
-<rect x="800" y="447" width="54" height="9" rx="4.5" fill="#e8dfcc"/>
-<rect x="800" y="447" width="27.0" height="9" rx="4.5" fill="none" stroke="#9d7c36" stroke-width="2"/>
-<text x="864.0" y="459.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">&lt;50.0% tok · B</text>
-<text x="1180.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">P + FN · OP…</text>
-<rect x="28" y="478" width="1144" height="90" fill="#f0ece3"/>
-<line x1="28" y1="478" x2="1172" y2="478" stroke="#cfc6b5" stroke-width="1"/>
-<text x="28.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">AC-04</text>
-<text x="122.0" y="510.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Pragṛhya case forms</text>
-<text x="462.0" y="510.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Junction behavior att…</text>
-<text x="122.0" y="549.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ī · -e  ·  L: —</text>
-<text x="946.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">REC·REL</text>
-<circle cx="808" cy="541" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
-<text x="824.0" y="549.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">3 ex · A</text>
-<text x="1180.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">P + FN</text>
-<line x1="28" y1="568" x2="1172" y2="568" stroke="#cfc6b5" stroke-width="1"/>
-<text x="28.0" y="605.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Measures:</text>
-<rect x="139" y="593" width="45" height="8" rx="4" fill="#9d7c36"/>
-<text x="192.0" y="605.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">% bar</text>
-<circle cx="287" cy="597" r="7" fill="#9d7c36" stroke="#9d7c36"/>
-<text x="302.0" y="605.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">count</text>
-<rect x="380" y="591" width="43" height="11" rx="4" fill="none" stroke="#9d7c36" stroke-width="2"/>
-<text x="431.0" y="605.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">bound / ≈</text>
-<rect x="558" y="589" width="22" height="15" fill="none" stroke="#8b8377" stroke-width="2" stroke-dasharray="4 3"/>
-<text x="590.0" y="605.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">open</text>
-<text x="1172.0" y="605.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="end">A–D = evidence grade · P = passage · FN = function</text>
-<text x="28.0" y="640.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Percentages, counts, bounds, and open cells measure different kinds of evidence.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="5.269in" viewBox="0 0 1200 1331">
+<rect width="1200" height="1331" fill="#f7f4ed"/>
+<text x="34.0" y="53.0" font-family="STIX Two Text, Georgia, serif" font-size="42" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Designed Variations: Accent and Recitation</text>
+<text x="34.0" y="88.0" font-family="STIX Two Text, Georgia, serif" font-size="27" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">AC-01 through AC-04</text>
+<text x="34.0" y="121.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="24" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">वैदिक (vaidika) · लौकिक (laukika)</text>
+<line x1="34" y1="137" x2="1166" y2="137" stroke="#9d7c36" stroke-width="3"/>
+<line x1="34" y1="158" x2="1166" y2="158" stroke="#cfc6b5" stroke-width="1"/>
+<text x="34.0" y="193.0" font-family="STIX Two Text, Georgia, serif" font-size="29" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">AC-01</text>
+<text x="137.0" y="193.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Accent of the vocative</text>
+<text x="137.0" y="231.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Relation: Recitation and sentence accent</text>
+<text x="137.0" y="264.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">वैदिक: The first syllable of a Vedic vocative expression receives the</text>
+<text x="137.0" y="299.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">accent, while later words in the same vocative expression lose theirs</text>
+<text x="137.0" y="334.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">लौकिक: No separate laukika form recorded</text>
+<text x="137.0" y="369.0" font-family="STIX Two Text, Georgia, serif" font-size="26" font-weight="400" font-style="normal" fill="#9d7c36" text-anchor="start">Contribution: open · Evidence: form recorded · question open</text>
+<text x="137.0" y="401.0" font-family="STIX Two Text, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Prevalence: open · grade U</text>
+<rect x="34" y="425" width="1132" height="267" fill="#f0ece3"/>
+<line x1="34" y1="425" x2="1166" y2="425" stroke="#cfc6b5" stroke-width="1"/>
+<text x="34.0" y="460.0" font-family="STIX Two Text, Georgia, serif" font-size="29" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">AC-02</text>
+<text x="137.0" y="460.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Accent movement within declension</text>
+<text x="137.0" y="498.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Relation: Audible rather than segmental difference</text>
+<text x="137.0" y="531.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">वैदिक: Several ending classes move the pitch to the ending in cases</text>
+<text x="137.0" y="566.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">where laukika writing does not preserve the contrast</text>
+<text x="137.0" y="601.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">लौकिक: No separate laukika form recorded</text>
+<text x="137.0" y="636.0" font-family="STIX Two Text, Georgia, serif" font-size="26" font-weight="400" font-style="normal" fill="#9d7c36" text-anchor="start">Contribution: open · Evidence: form recorded · question open</text>
+<text x="137.0" y="668.0" font-family="STIX Two Text, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Prevalence: open · grade U</text>
+<line x1="34" y1="692" x2="1166" y2="692" stroke="#cfc6b5" stroke-width="1"/>
+<text x="34.0" y="727.0" font-family="STIX Two Text, Georgia, serif" font-size="29" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">AC-03</text>
+<text x="137.0" y="727.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Resolved endings</text>
+<text x="137.0" y="765.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Relation: Meter and recitation rather than a separate विभक्ति (vibhakti)</text>
+<text x="137.0" y="798.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">वैदिक: Forms such as -एना, -एभिअः, -आनाम् (-enā, -ebhiaḥ, -ānām) can</text>
+<text x="137.0" y="833.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">occupy more syllables in Vedic recitation than their written form</text>
+<text x="137.0" y="868.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">suggests</text>
+<text x="137.0" y="903.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">लौकिक: No separate laukika form recorded</text>
+<text x="137.0" y="938.0" font-family="STIX Two Text, Georgia, serif" font-size="26" font-weight="400" font-style="normal" fill="#9d7c36" text-anchor="start">Contribution: open · Evidence: passage checked · function shown · question open</text>
+<text x="137.0" y="970.0" font-family="STIX Two Text, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Prevalence: &lt;50.0% tokens · grade B</text>
+<rect x="34" y="994" width="1132" height="267" fill="#f0ece3"/>
+<line x1="34" y1="994" x2="1166" y2="994" stroke="#cfc6b5" stroke-width="1"/>
+<text x="34.0" y="1029.0" font-family="STIX Two Text, Georgia, serif" font-size="29" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">AC-04</text>
+<text x="137.0" y="1029.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">प्रगृह्य (pragṛhya) case forms</text>
+<text x="137.0" y="1067.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Relation: Junction behavior attached to a declined form</text>
+<text x="137.0" y="1100.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">वैदिक: Forms such as -ई (-ī) or -ए (-e) can resist the expected sound</text>
+<text x="137.0" y="1135.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">combination at a following vowel</text>
+<text x="137.0" y="1170.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="29" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">लौकिक: No separate laukika form recorded</text>
+<text x="137.0" y="1205.0" font-family="STIX Two Text, Georgia, serif" font-size="26" font-weight="400" font-style="normal" fill="#9d7c36" text-anchor="start">Contribution: REC · REL · Evidence: passage checked · function shown</text>
+<text x="137.0" y="1237.0" font-family="STIX Two Text, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Prevalence: 3 worked examples · grade A</text>
+<line x1="34" y1="1261" x2="1166" y2="1261" stroke="#cfc6b5" stroke-width="1"/>
+<text x="34.0" y="1300.0" font-family="STIX Two Text, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Open = unresolved finding · 0 = measured zero · A–D = evidence grade</text>
 </svg>

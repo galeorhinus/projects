@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="500" viewBox="0 0 1040 500">
+<rect width="1040" height="500" fill="#f7f7f4"/>
+<path d="M55 297 C210 64 830 64 985 297" fill="none" stroke="#b6a27a" stroke-width="68" stroke-linecap="round"/>
+<path d="M55 297 C210 64 830 64 985 297" fill="none" stroke="#f7f7f4" stroke-width="39" stroke-linecap="round"/>
+<text x="50" y="19" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="14" font-weight="700" text-anchor="start" dominant-baseline="middle" fill="#666368">BACK OF MOUTH</text>
+<text x="990" y="19" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="14" font-weight="700" text-anchor="end" dominant-baseline="middle" fill="#666368">LIPS</text>
+<line x1="50" y1="40" x2="990" y2="40" stroke="#a77a31" stroke-width="1.5"/>
+<path d="M980 34 L990 40 L980 46" fill="none" stroke="#a77a31" stroke-width="1.5"/>
+<circle cx="120" cy="265" r="11" fill="#a77a31" stroke="#f7f7f4" stroke-width="3"/>
+<text x="120" y="210" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="27" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">कण्ठ्य</text>
+<text x="120" y="237" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#666368">kaṇṭhya</text>
+<line x1="120" y1="278" x2="120" y2="340" stroke="#a77a31" stroke-width="1.4"/>
+<rect x="32" y="340" width="176" height="104" rx="5" fill="#ffffff" stroke="#c8c0b1" stroke-width="1.2"/>
+<text x="120" y="377" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#29282a">back of tongue</text>
+<text x="120" y="407" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#29282a">soft-palate region</text>
+<circle cx="120" cy="431" r="3" fill="#ded9ce"/>
+<circle cx="320" cy="170" r="11" fill="#a77a31" stroke="#f7f7f4" stroke-width="3"/>
+<text x="320" y="115" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="27" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">तालव्य</text>
+<text x="320" y="142" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#666368">tālavya</text>
+<line x1="320" y1="183" x2="320" y2="340" stroke="#a77a31" stroke-width="1.4"/>
+<rect x="232" y="340" width="176" height="104" rx="5" fill="#ffffff" stroke="#c8c0b1" stroke-width="1.2"/>
+<text x="320" y="377" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#29282a">tongue body</text>
+<text x="320" y="407" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#29282a">toward hard palate</text>
+<circle cx="320" cy="431" r="3" fill="#d2cec4"/>
+<circle cx="520" cy="130" r="11" fill="#a77a31" stroke="#f7f7f4" stroke-width="3"/>
+<text x="520" y="75" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="27" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">मूर्धन्य</text>
+<text x="520" y="102" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#666368">mūrdhanya</text>
+<line x1="520" y1="143" x2="520" y2="340" stroke="#a77a31" stroke-width="1.4"/>
+<rect x="432" y="340" width="176" height="104" rx="5" fill="#ffffff" stroke="#c8c0b1" stroke-width="1.2"/>
+<text x="520" y="377" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#29282a">tongue-tip curled</text>
+<text x="520" y="407" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#29282a">toward palate ridge</text>
+<circle cx="520" cy="431" r="3" fill="#e0ddd5"/>
+<circle cx="720" cy="170" r="11" fill="#a77a31" stroke="#f7f7f4" stroke-width="3"/>
+<text x="720" y="115" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="27" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">दन्त्य</text>
+<text x="720" y="142" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#666368">dantya</text>
+<line x1="720" y1="183" x2="720" y2="340" stroke="#a77a31" stroke-width="1.4"/>
+<rect x="632" y="340" width="176" height="104" rx="5" fill="#ffffff" stroke="#c8c0b1" stroke-width="1.2"/>
+<text x="720" y="377" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#29282a">tongue-tip</text>
+<text x="720" y="407" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#29282a">against the teeth</text>
+<circle cx="720" cy="431" r="3" fill="#d2cec4"/>
+<circle cx="920" cy="265" r="11" fill="#a77a31" stroke="#f7f7f4" stroke-width="3"/>
+<text x="920" y="210" font-family="Noto Serif Devanagari, Adobe Devanagari, Kohinoor Devanagari, Devanagari MT, serif" font-size="27" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#29282a">ओष्ठ्य</text>
+<text x="920" y="237" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#666368">oṣṭhya</text>
+<line x1="920" y1="278" x2="920" y2="340" stroke="#a77a31" stroke-width="1.4"/>
+<rect x="832" y="340" width="176" height="104" rx="5" fill="#ffffff" stroke="#c8c0b1" stroke-width="1.2"/>
+<text x="920" y="377" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#29282a">contact</text>
+<text x="920" y="407" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="16" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#29282a">at the lips</text>
+<circle cx="920" cy="431" r="3" fill="#ded9ce"/>
+<text x="520" y="477" font-family="STIX Two Text, Gentium Book Plus, Georgia, serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="middle" fill="#666368">The address sequence follows the vocal tract from back to front.</text>
+</svg>

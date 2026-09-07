@@ -26,13 +26,31 @@ The pyramid then recast the Vedic distinction between actions aligned with स�
 
 As nations resisted Abrahamic, racial, and colonial formations, the pyramid restructured itself.
 
-### Same Structure, New Vocabulary
+### Same Structure, Four Vocabularies
 
 Three Abrahamic religions openly identify themselves as religions. The fourth uses the same pyramidal architecture but succeeds precisely because it cloaks itself in secular language. It packages racism as anthropology, teleology as history, and theology as objective science, hiding its dogma behind the mask of academia.[NOTE: secular-packaging-three-transformations]
 
 This change of clothing repeats the two actions of आसुरी माया (*āsurī māyā*) introduced in Chapter 1 and developed in Chapter 2. **आवरण (*āvaraṇa*)** conceals the inherited dogma. **विक्षेप (*vikṣepa*)** projects a replacement vocabulary that appears secular, rational, and scientific. The doctrine remains, but the new vocabulary prevents the observer from recognizing it.[NOTE: maya-concealment-projection]
 
 Judaism built the foundation. Christianity and Islam took related structures outward through missionary and political expansion. Across those transformations, the pyramid retained a chosen community, an authorized doctrine, a rigid boundary between insider and outsider, and a history moving toward a promised end. The doctrines changed. The pyramid restructured.[NOTE: four-iterations-architectural-mapping]
+
+**Chosen community.** Each version names the people who stand within its protected circle.
+
+\nopagebreak[4]
+
+![](figures/fourth_abrahamic/fourth_abrahamic_chosen_community_card.svg "Chosen community data card"){width=100%}
+
+**Authorized doctrine.** Each version also identifies the teaching and interpretation that its institutions may present as truth.
+
+\nopagebreak[4]
+
+![](figures/fourth_abrahamic/fourth_abrahamic_authorized_doctrine_card.svg "Authorized doctrine data card"){width=100%}
+
+**Boundary.** The doctrine separates insiders from outsiders and assigns a different standing to each.
+
+\nopagebreak[4]
+
+![](figures/fourth_abrahamic/fourth_abrahamic_boundary_card.svg "Boundary data card"){width=100%}
 
 Conquest and forced conversion did more than replace one doctrine with another. They severed people from the stories, names, practices, and inherited categories through which their civilizations remembered themselves. Once that memory had been removed from public life, the authorized doctrine could present itself as the only source of truth and order.[NOTE: compatibility-is-not-immunity]
 
@@ -52,25 +70,39 @@ The academy certifies the intellectual; the function determines the role. The sa
 
 The Hindu continuum has long distinguished these three actions. The पणि (*paṇi*) hoards what should circulate. The वृत्र (*vṛtra*) blocks the circulation itself. The राक्षस (*rākṣasa*) enters the surrounding order through predation or disguise.
 
+**Expansionary form.** The original covenant binds a people to territory and collective survival. Christianity, Islam, and progressivism carry related structures outward through different means.
+
+\nopagebreak[4]
+
+![](figures/fourth_abrahamic/fourth_abrahamic_expansionary_form_card.svg "Expansionary form data card"){width=100%}
+
 Together, these functions reproduce a religion: **Progressivism**. It is the **fourth Abrahamic religion**.
 
-Figure 4.1a places the first four elements side by side. Each formation identifies its chosen community, authorizes a doctrine, draws a boundary around insiders, and establishes a means of expansion.
+**Origin.** Each version begins with an account of how the world acquired its present order. In the fourth version, Genesis became the Big Bang. Stephen Hawking still invoked God repeatedly in *A Brief History of Time*, and his “mind of God” meant complete knowledge of physical **law**. The fourth religion converted divine creation into the emergence of time and space, then presented the substitution as *"Science."*[NOTE: genesis-big-bang-god-as-law]
 
-![Figure 4.1a — Same Structure, Four Vocabularies: Community, Doctrine, Boundary, and Expansion. The vocabulary changes across Judaism, Christianity, Islam, and progressivism while the four structural elements remain.](figures/fourth_abrahamic/fourth_abrahamic_structural_elements.svg){#fig:ch4-four-structural-elements width=100%}
+\nopagebreak[4]
 
-### Genesis, Utopia, and Apocalypse
+![](figures/fourth_abrahamic/fourth_abrahamic_origin_card.svg "Origin data card"){width=100%}
 
-The substitutions followed an exact pattern. Genesis became the Big Bang. Stephen Hawking still invoked God repeatedly in *A Brief History of Time*, and his “mind of God” meant complete knowledge of physical **law**. The fourth religion converted divine creation into the emergence of time and space, then presented the substitution as *"Science."*[NOTE: genesis-big-bang-god-as-law] Heaven on earth became progress. Salvation became development. The elect became the enlightened. The damned became the backward. Pagans became deniers. Mission became modernization. Heresy became anti-science. In India, it also became whatever the church labels regressive, pseudo-scholarship, or communalism. The end times became the end of history.[NOTE: end-of-history-fukuyama] Original sin survived as historical injustice, with the operative content changing by faction while the structure remained.
+**Utopia.** Each version promises a perfected future toward which present action must move. Heaven on earth became progress. Salvation became development. The elect became the enlightened. The damned became the backward. The end times became the end of history.[NOTE: end-of-history-fukuyama] Original sin survived as historical injustice, with the operative content changing by faction while the structure remained.
+
+\nopagebreak[4]
+
+![](figures/fourth_abrahamic/fourth_abrahamic_utopia_card.svg "Utopia data card"){width=100%}
 
 The genealogy runs deeper than metaphor. The *"Enlightenment"* did not abolish Abrahamic end-time structure; it secularized it into a beginning, a saving sequence, and an end toward which collective effort is bent. The end may be liberal democracy or technological transcendence. The vehicle changes. The end-time structure does not.[NOTE: voegelin-gnosticism]
 
-The fourth Abrahamic religion succeeds because it deliberately portrays itself as post-religious. A Christian missionary is visible as a missionary. A missionary of progress arrives under the cover of universal standards and scientific consensus. That cover makes the doctrine portable into civilizations that have their own categories.[NOTE: black-mass-gray]
+The fourth Abrahamic religion succeeds because it deliberately portrays itself as post-religious. A Christian missionary is visible as a missionary. A missionary of progress arrives under the cover of universal standards and scientific consensus. That cover makes the doctrine portable into civilizations that have their own categories.[NOTE: black-mass-gray] Pagans become deniers. Mission becomes modernization. Heresy becomes anti-science. In India, it also becomes whatever the church labels regressive, pseudo-scholarship, or communalism.
+
+**Apocalypse.** Each version identifies a judgment or catastrophe that must precede its perfected future.
 
 The church of progress now presents climate catastrophe as its apocalypse. Most human beings genuinely want to care for the planet and leave it healthy for future generations. The church hijacks that desire and turns it into an urgent judgment-day story: the world is about to end. It then announces a single *"solution"* that will prevent judgment day. Anyone who questions that solution is dismissed as a climate denier.[NOTE: fourth-abrahamic-eschatology-precedent]
 
-Each iteration begins with an origin, describes a perfected end, and identifies the judgment or catastrophe that must come before it. Figure 4.1b places all three parts of that linear architecture beside each other: origin, utopia, and apocalypse.
+\nopagebreak[4]
 
-![Figure 4.1b — Same Structure, Four Vocabularies: Origin, Utopia, and Apocalypse. Each iteration declares an origin, describes a perfected end, and identifies the judgment or catastrophe that clears its path.](figures/fourth_abrahamic/fourth_abrahamic_eschatology.svg){#fig:ch4-four-eschatologies width=100%}
+![](figures/fourth_abrahamic/fourth_abrahamic_apocalypse_card.svg "Apocalypse data card"){width=100%}
+
+Across all seven comparisons, the vocabulary changes while the architecture remains. The next question is how that architecture arranges power.
 
 ### From Corporation to Pyramid
 
@@ -86,9 +118,9 @@ Ambedkar identifies the corporation's closed boundary. The pyramid explains how 
 
 The four Abrahamic religions are not merely closed corporations. They are pyramidal corporations. An apex authorizes doctrine, institutions carry it downward through the layers, and compliance travels back upward. When an argument rises from below, the exclusion machinery turns against it. The closed boundary defines the corporation. The pyramid describes how the corporation governs. At the apex of the first three stands a Father — *jealous, by His own testimony*, who brooks no other before Him. As shepherd, He also requires a flock that must remain dependent upon Him. The fourth secularizes Him into consensus and keeps the singular peak.
 
-![Figure 4.2a — Same Pyramid, Four Versions: V1-V3. Judaism, Christianity, and Islam share the same pyramidal structure: apex authority, dogma, priestly interpretation, institutions, expansion, enforcement, and base.](figures/fourth_abrahamic/same_pyramid_named_religions.svg){#fig:ch4-same-pyramid-v1-v3 width=100%}
+![Figure 4.1a — Same Pyramid, Four Versions: V1-V3. Judaism, Christianity, and Islam share the same pyramidal structure: apex authority, dogma, priestly interpretation, institutions, expansion, enforcement, and base.](figures/fourth_abrahamic/same_pyramid_named_religions.svg){#fig:ch4-same-pyramid-v1-v3 width=100%}
 
-![Figure 4.2b — Same Pyramid, Four Versions: V4. Progressivism keeps the same pyramidal structure and secularizes the vocabulary into progressivism, priests of progress, church of progress, missionaries of progress, jihadis of progress, and believers / pliables / deniers.](figures/fourth_abrahamic/same_pyramid_progressivism.svg){#fig:ch4-same-pyramid-v4 width=100%}
+![Figure 4.1b — Same Pyramid, Four Versions: V4. Progressivism keeps the same pyramidal structure and secularizes the vocabulary into progressivism, priests of progress, church of progress, missionaries of progress, jihadis of progress, and believers / pliables / deniers.](figures/fourth_abrahamic/same_pyramid_progressivism.svg){#fig:ch4-same-pyramid-v4 width=100%}
 
 ## 4.2 The Two Dogmas
 
@@ -124,7 +156,7 @@ The PhD is ordination, structurally. The thesis defense is the ritual of conferr
 
 The academy produces certified intellectuals: people whose degrees, appointments, and institutional affiliations authorize them to interpret the world for everyone else. Centralized media then converts that certification into public authority by selecting these intellectuals as experts, repeating their categories, and distributing their conclusions at scale.
 
-![Figure 4.3 — Apex and Descent. The four hierarchies place their governing institutions at the apex and arrange ranked layers beneath them. The progressivist hierarchy has the longest ladder and the most machinery at the top.](figures/fourth_abrahamic/fourth_abrahamic_apex_hierarchy_table.svg){#fig:ch4-apex-hierarchy width=100%}
+![Figure 4.2 — Apex and Descent. The four hierarchies place their governing institutions at the apex and arrange ranked layers beneath them. The progressivist hierarchy has the longest ladder and the most machinery at the top.](figures/fourth_abrahamic/fourth_abrahamic_apex_hierarchy_table.svg){#fig:ch4-apex-hierarchy width=100%}
 
 Money and careers hold the church together. Foundations and universities fund approved programs, publish approved work, and hire the people who carry it. Rankings reward the institutions that comply. Resources flow downward through the pyramid; dependence carries compliance upward.
 
@@ -250,7 +282,7 @@ A system that displays दिव्यता (*divyatā*) and preserves लो�
 
 सनातन (*Sanātan*) is the name the civilization gives to the engineered Sanskrit architecture, recognizing it as integral to the ground on which civilization continues. The *Vedas* keep Sanskrit calibrated against entropy and asuric attack. The पाठ (*pāṭha*) discipline uses engineered redundancy to detect departures, while distributed transmission prevents an attacker from capturing the complete standard. व्याकरणम् (*vyākaraṇam*) makes the language's internal operations explicit. The system's continuous use is the empirical fact at the center of this book.
 
-![Figure 4.4 — Pyramid and Swastika: Two Architectures of Order. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch4-pyramid-swastika width=100%}
+![Figure 4.3 — Pyramid and Swastika: Two Architectures of Order. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch4-pyramid-swastika width=100%}
 
 The fourth Abrahamic religion is the institutional formation that has tried to absorb, contain, or overwrite that architecture. Earlier formations did it through military and administrative power. The fourth does it through academic, cultural, legal, and developmental power. The vocabulary has secularized. The structural project has not.
 

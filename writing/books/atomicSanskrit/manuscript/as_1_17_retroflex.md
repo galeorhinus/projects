@@ -40,7 +40,7 @@ Chapter 8 calls this combined regional sound inventory the **subcontinental supe
 
 The figure below marks the anatomy: the curled tongue, the मूर्धन्य (*mūrdhanya*) site, and the physical act behind the sound.
 
-![Figure 17.1 — The मूर्धन्य (*mūrdhanya*) flex.](figures/adivadya/murdhanya_vocal_apparatus.svg){#fig:ch17-murdhanya-flex width=100%}
+![Figure 17.1 — The मूर्धन्य (*mūrdhanya*) flex.](figures/adivadya/murdhanya_vocal_apparatus_reversed.svg){#fig:ch17-murdhanya-flex width=100%}
 
 ऋ (*ṛ*) appears at several levels of Sanskrit. The name **ऋग्वेद (*Ṛgveda*)** itself starts with *ṛ*. The traditional articulation rule assigns it to the मूर्धन्य (*mūrdhanya*) site. The धातुपाठ (*Dhātupāṭha*) lists ⟪ऋ⟫ (*ṛ*) as a one-*mātrā* semantic atom. The words ऋच् (*ṛc*) and *Ṛgveda* begin with the same sonomer, while ऋत (*ṛta*) belongs to the vocabulary of cosmic order. Their importance lies in recurrence. The same sound appears in the articulation system, the atom inventory, Vedic vocabulary, and the civilizational concept of ऋत (*ṛta*). While ऋ (*ṛ*) is a स्वर (*svara*) — vowel, र (*ra*) is a व्यञ्जन (*vyañjana*).
 

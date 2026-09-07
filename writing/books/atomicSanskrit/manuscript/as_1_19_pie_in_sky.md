@@ -319,7 +319,7 @@ The recorded contact can be represented without an imaginary ancestor:
 
 Chapter 3 showed that Sanskrit permits two analyses of the sound-form ***asura***. The evidence does not tell us which analysis an Iranian listener understood. That uncertainty does not alter what traveled. A spoken word carries no hyphen across a mountain. The listener heard ***asura***.
 
-Iranian speech then reshaped the word. Sanskrit ***s*** appears as Iranian ***h***, the same correspondence Chapter 9 §9.5 traces in सिन्धुः (*Sindhuḥ*) and *Hinduš*. Avestan gave the received form its own ending and its own place within Iranian religious thought.
+Iranian speech then reshaped the word. Sanskrit ***s*** appears as Iranian ***h***, the same correspondence Chapter 9 §9.10 traces in सिन्धुः (*Sindhuḥ*) and *Hinduš*. Avestan gave the received form its own ending and its own place within Iranian religious thought.
 
 This is vivimorphosis at a contact boundary. The Sanskrit word enters the listener's mind as बीज (*bīja*). The receiving language develops its own प्रतिबिम्ब (*pratibimba*) through repeated use.
 

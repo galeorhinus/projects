@@ -169,7 +169,7 @@ Vedic accent remains active in the छन्दस् (*chandas*) mode as a gram
 
 The pyramid converts these functional distinctions into chronology. To establish drift, comparative philology would have to show the mechanism by which an earlier form changed into a later one; instead, it usually places the forms on a timeline and treats the timeline as proof of the change. That maneuver also supports the migration-and-borrowing account, which requires *"Vedic Sanskrit"* to change as the imaginary Aryans enter the subcontinent. Chapter 19 develops the alternative account for Vedic-Avestan parallels through प्रतिबिम्ब (*pratibimba*) and outward Sanskritic radiance.
 
-Appendix Part 7 demonstrates the shared architecture through three Vedic passages. Appendix Part 8 documents the designed differences between the two domains, while Appendix Part 9 tests the codification myth against the complete architecture.
+Appendix Part 7 demonstrates the shared architecture through four Vedic passages. Appendix Part 8 documents the designed differences between the two domains, while Appendix Part 9 tests the codification myth against the complete architecture.
 
 **Domain is not chronology. A rule's stated boundary is not drift.**
 
