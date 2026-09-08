@@ -87,6 +87,12 @@ def _pick_roster_path() -> Path:
     return _REPO_ROSTER
 
 
+# Hypothesis's public group id -- see pull_annotations.PUBLIC_GROUP_ID.
+PUBLIC_GROUP_ID = "__world__"
+# The author's own Hypothesis account. Replies come from here, so it is
+# not a reader who needs routing to a dashboard.
+OWNER_USERNAME = "rhinusgaleo"
+
 ROSTER_PATH = _pick_roster_path()
 
 _GROUP_ID_RE = re.compile(r"/groups/([^/?#]+)")
@@ -234,7 +240,7 @@ def main() -> int:
     #     status our own last reply had
     #   - no replies yet, or nobody but the original author has ever
     #     posted in it -> no status (row reads as untouched)
-    OWNER_USER = "rhinusgaleo"
+    OWNER_USER = OWNER_USERNAME
     STATUS_TAGS = ("resolved", "acknowledged", "awaiting-reader")
 
     root_ids = {a["id"] for a in annotations if not a.get("references")}
@@ -404,6 +410,27 @@ def build_reader_pages(rows: list[dict], taxonomy: dict, out_dir: Path) -> None:
         # behaviour instead of silently matching nothing.
         scoped = [r for r in rows
                   if (r.get("group_id") in ids) or (not ids and r["group"] in names)]
+
+        # A reader who annotates before joining their group posts to Public,
+        # which is nobody's reading group -- so her own notes, and every reply
+        # to them, were missing from her dashboard while being perfectly
+        # visible on the owner's. She asks a question, gets an answer, and sees
+        # silence. Fold in the Public annotations she wrote and the replies
+        # underneath them, matched by author because there is no group to match
+        # on. Other readers' public notes stay out: this is still her
+        # dashboard, not a public feed.
+        username = entry.get("hypothesis_username")
+        folded = []
+        if username:
+            hers = [r for r in rows if r.get("group_id") == PUBLIC_GROUP_ID
+                    and r.get("user") == username]
+            roots = {r["id"] for r in hers if not r.get("references")}
+            answers = [r for r in rows if r.get("group_id") == PUBLIC_GROUP_ID
+                       and r.get("user") != username
+                       and roots.intersection(r.get("references") or ())]
+            already = {r["id"] for r in scoped}
+            folded = [r for r in hers + answers if r["id"] not in already]
+            scoped = scoped + folded
         viewer = {
             "mode": "reader",
             "slug": slug,
@@ -425,7 +452,20 @@ def build_reader_pages(rows: list[dict], taxonomy: dict, out_dir: Path) -> None:
         )
         written += 1
         label = ",".join(g["name"] or g["id"] or "?" for g in groups)
-        print(f"  {slug:8s} {label:24s} {len(scoped):4d} annotation(s)")
+        extra = f"  (+{len(folded)} from Public)" if folded else ""
+        print(f"  {slug:8s} {label:24s} {len(scoped):4d} annotation(s){extra}")
+
+    # A public annotation whose author matches no roster entry reaches nobody's
+    # dashboard. Name the authors rather than let the count quietly not add up.
+    known = {e.get("hypothesis_username") for e in roster.values()}
+    orphans = sorted({r["user"] for r in rows
+                      if r.get("group_id") == PUBLIC_GROUP_ID
+                      and r.get("user") not in known
+                      and r.get("user") != OWNER_USERNAME})
+    if orphans:
+        print(f"  public annotations by unmapped author(s): {', '.join(orphans)}")
+        print("    add hypothesis_username to their invite_roster.json entry "
+              "to route these to their dashboard")
     print(f"Reader dashboards: {written} written -> {out_dir}")
 
 
