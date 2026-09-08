@@ -36,7 +36,7 @@ Sanskrit scholarship produced a similar sequence over the past two centuries. In
 
 The apex turned their accumulated labor into *hālahala*. It created the Racial Arya Thesis and supported it with racial classifications that damaged India and later spread far beyond it. India bore that poison without surrendering Sanskrit or the civilizational memory carried through the language. In this churning, India became **नीलकण्ठ (*nīlakaṇṭha*)**. The poison reached its throat but never entered its heart.
 
-The story also gives this book its image of Rāhu. The *Bhāgavata Purāṇa* calls the intruder Svarbhānu. He steals a sip of the nectar before Hari severs his head. Because the nectar has already made the head undying, Rāhu continues to seize the Sun and Moon.[NOTE: rahu-manthana-svarbhanu-layering]
+The story also gives this book its image of Rāhu. The *Bhāgavata Purāṇa* calls the intruder Svarbhānu. He steals a sip of the nectar before **विष्णु (*Viṣṇu*)** severs his head. Because the nectar has already made the head undying, Rāhu continues to seize the Sun and Moon.[NOTE: rahu-manthana-svarbhanu-layering]
 
 The pyramid repeated that pattern with PIE. It took Sanskrit's own data and the correspondences that Sanskrit had made legible. From that stolen sip, it created an imaginary ancestor and placed the bodiless head between Sanskrit and the observer.
 

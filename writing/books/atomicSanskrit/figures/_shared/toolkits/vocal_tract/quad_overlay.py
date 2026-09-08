@@ -74,6 +74,7 @@ class QuadOverlaySpec:
     languages: list[tuple[str, str, str]]      # (slug, display_label, role)
     strip_presets: list[str] = field(default_factory=lambda: ["mahaprana"])
     selected_places: list[int] | None = None   # None → auto-detect from data
+    row_height_scale: float = 1.0              # per-figure vertical compaction
 
 
 # ---------------------------------------------------------------------------
@@ -334,7 +335,7 @@ def _render_svg(spec: QuadOverlaySpec,
                         + GROUP_BAND_H + COL_HEADER_H + CAPTION_H
                         + BOTTOM_MARGIN) * outer_scale
     max_matrix_h = MAX_CANVAS_H - outer_v_overhead
-    cell_h = min(cell_h_baseline, max_matrix_h / n_rows)
+    cell_h = min(cell_h_baseline, max_matrix_h / n_rows) * spec.row_height_scale
 
     # Independent x and y inner-scale factors — let cells be rectangular.
     inner_scale_w = cell_w / CELL

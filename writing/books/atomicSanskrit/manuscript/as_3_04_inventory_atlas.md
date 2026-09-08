@@ -1,5 +1,7 @@
 # Appendix Part 4 — The Consonant Inventory Atlas and Additional Surveys
 
+\runningchapter{Appendix Part 4 — Consonant Inventory Atlas}
+
 ---
 
 Chapter 8 compares selected language groups by placing their consonant contrasts on one shared mouth-map. Its four surveys cover 22, 20, 16, and 15 of Sanskrit's 23 base cells.
@@ -88,6 +90,8 @@ Pashto, Nuristani, and Burushaski cover 22 of 23 cells and leave only **श** un
 The pyramid assigns the three languages to separate categories: Pashto is *"Iranian,"* Nuristani belongs to another Indo-European branch, and Burushaski is an isolate. Their combined inventories reach 22 cells because they contain retroflex distinctions distributed across the north-western subcontinental contact zone.
 
 ![Figure A.4.4 — Northwest Frontier Survey: 22 of 23 Sanskrit base cells. Pashto, Nuristani, and Burushaski cover the same 22 cells as the body's Tamil + Toda + Kurukh set. Both leave only श unfilled.](figures/superset/sk_pashto_nuristani_burushaski.svg){#fig:app4-nw-frontier-survey width=100% height=80%}
+
+\runningsection{4.6 Iranian Survey}
 
 ## 4.6 Iranian Survey Outside the Subcontinental Retroflex Zone: 15 of 23
 

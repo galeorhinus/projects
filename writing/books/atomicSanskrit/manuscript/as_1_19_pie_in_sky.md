@@ -57,7 +57,7 @@ When a dictionary writes “from PIE \*ǵenh₁” at the deepest point in an et
 
 Most readers absorb the ancestry. When someone challenges it, the pyramid retreats into the notation and insists that the entry never claimed a literal source. The main line creates the belief, while the asterisk allows the dictionary to deny responsibility for creating it.
 
-**This is gaslighting with footnotes compressed into one character. If the method of असत् (*asat*) were written as a सूत्र (*sūtra*) and atomized into its shortest possible form, it would be the asterisk.**
+**The asterisk is gaslighting with footnotes compressed into one character. If the method of असत् (*asat*) were written as a सूत्र (*sūtra*) and atomized into its shortest possible form, it would be the asterisk.**
 
 Comparative reconstruction may infer an earlier form that appears in no surviving record. That model does not become an etymon merely because a dictionary places it at the head of a chain. The endpoint of going backward in time is the earliest real form the evidence can establish, while the reconstruction remains a modern hypothesis projected behind that evidence. *Janaka* exists. *Genus* exists. *Génos* exists. **\*ǵenh₁** is a proposal about their history. The pyramid must demonstrate that a corresponding source form existed and that the recorded words descended from it; typography cannot confer ancestry.
 

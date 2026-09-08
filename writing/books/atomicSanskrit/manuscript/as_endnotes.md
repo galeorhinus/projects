@@ -6973,7 +6973,7 @@ The line is short because the *sūtra* form requires recoverable compactness. It
 
 ### `nyaya-sutra-pramana-1-1-3`
 
-**Short:** The *Nyāya Sūtra* 1.1.3, **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि** (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*), lists four *pramāṇāni* — means of knowledge. Chapter 10 uses it because the four-fold list also describes the book's own method.
+**Short:** The *Nyāya Sūtra* 1.1.3, **प्रत्यक्ष-अनुमान-उपमान-शब्दाः प्रमाणानि** (*pratyakṣa-anumāna-upamāna-śabdāḥ pramāṇāni*), lists four *pramāṇāni* — means of knowledge. Chapter 10 uses it because the four-fold list also describes the book's own method.
 
 **Deployments:** Chapter 10 §10.14 — closing comparison between *sūtra*-level engineered brevity and *dhātu*-level atomic concision.
 

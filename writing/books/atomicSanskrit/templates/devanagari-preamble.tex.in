@@ -72,6 +72,24 @@ __BACKMATTER_SIZES__
 % token expands to nothing when the folio is wanted.
 __CHAPTER_OPENING_FOLIO__
 
+% Optional abbreviated running heads for titles that exceed a narrow trim.
+% These change only the page header; displayed headings, TOC entries, and
+% PDF bookmarks retain their complete manuscript titles.
+\newcommand{\runningchapter}[1]{%
+  \markboth{\MakeUppercase{#1}}{}%
+}
+\makeatletter
+\let\atomic@defaultsectionmark\sectionmark
+\newcommand{\runningsection}[1]{%
+  \gdef\atomic@nextsectionmark{#1}%
+  \global\let\sectionmark\atomic@shortsectionmark
+}
+\newcommand{\atomic@shortsectionmark}[1]{%
+  \markright{\MakeUppercase{\atomic@nextsectionmark}}%
+  \global\let\sectionmark\atomic@defaultsectionmark
+}
+\makeatother
+
 % Scale figures uniformly, never to fit a box.
 %
 % Pandoc emits keepaspectratio for an image that sets only a width, but

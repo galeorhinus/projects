@@ -179,6 +179,8 @@ Deccan College can lead this change. Its current MA Linguistics syllabus teaches
 
 The resulting curriculum would teach Sanskrit's sound architecture, semantic atoms, generative operations, two domains, preservation systems, and distributed calibration. Indian students deserve to encounter that architecture before anyone places an imaginary language above it.
 
+\runningsection{2.10 Jāḍyam Apahanyatām}
+
 ## 2.10 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the जाड्य (*Jāḍya*) Be Removed
 
 Deccan College is one institution among several. BORI, the successors of the *Linguistic Survey of India*, the Archaeological Survey of India, and university history departments face the same choice. Across decades, they have assembled evidence produced by a decentralized, engineered civilization. They have then interpreted that evidence through inherited evolutionary frameworks. Each new project and publication renews the choice.

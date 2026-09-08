@@ -77,6 +77,8 @@ Sanskrit places selected वर्णाः (*varṇāḥ*), or sonomers, into a
 
 Before the inventory is measured, the construction itself has to be clear. Sanskrit assigns स्वराः (*svarāḥ*) and व्यञ्जनानि (*vyañjanāni*) different work inside the atom; the difference is measured in मात्रा (*mātrā*).
 
+\runningsection{10.3 Svarāḥ, Vyañjanāni, and Mātrā}
+
 ## 10.3 स्वराः (*Svarāḥ*), व्यञ्जनानि (*Vyañjanāni*), and the मात्रा (*Mātrā*) Envelope
 
 The वर्णमाला (*varṇamālā*) gives Sanskrit two kinds of sonomers. They do different work inside the atom.
@@ -361,7 +363,7 @@ A सूत्र (*sūtra*) is composed. No one, not even Western philologists 
 
 Take **योगश्चित्तवृत्तिनिरोधः (*yogaś citta-vṛtti-nirodhaḥ*)**:[NOTE: yoga-sutra-1-2] Yoga is the stilling of the movements of the mind. The sentence is tiny, but it contains an entire discipline: the mind, the movements that disturb it, and the discipline that stills them.
 
-The same principle appears in **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*)**:[NOTE: nyaya-sutra-pramana-1-1-3] perception, inference, comparison, and testimony are the means of knowledge. That sūtra also describes the method used here. The architecture is seen, its engineering is inferred, its behavior is compared, and the lineage is heard through शब्द (*śabda*). The form is short because it was made short. It contains more structure than its length suggests.
+The same principle appears in **प्रत्यक्ष-अनुमान-उपमान-शब्दाः प्रमाणानि (*pratyakṣa-anumāna-upamāna-śabdāḥ pramāṇāni*)**:[NOTE: nyaya-sutra-pramana-1-1-3] perception, inference, comparison, and testimony are the means of knowledge. That sūtra also describes the method used here. The architecture is seen, its engineering is inferred, its behavior is compared, and the lineage is heard through शब्द (*śabda*). The form is short because it was made short. It contains more structure than its length suggests.
 
 The धातुः (*dhātuḥ*) displays the same **लक्षणानि (*lakṣaṇāni*)** — defining characteristics — specified by the सूत्रलक्षणम् (*sūtra-lakṣaṇam*): compact form, no padding, clear distinction, core meaning, usable range, and stable shape. That is the strongest procedural evidence developed here. The सूत्र (*sūtra*) is thoughtfully assembled language. The धातुः (*dhātuḥ*) is thoughtfully assembled sonomeric form.
 

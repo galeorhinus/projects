@@ -1761,6 +1761,17 @@ def clean_chapter(text: str, canonical_title: str) -> str:
     return text.strip() + "\n"
 
 
+RUNNING_HEAD_RE = re.compile(
+    r"^\s*\\running(?:chapter|section)\{[^\n]*\}\s*$",
+    re.MULTILINE,
+)
+
+
+def manuscript_word_count(text: str) -> int:
+    """Count manuscript words without typesetting-only running-head labels."""
+    return len(RUNNING_HEAD_RE.sub("", text).split())
+
+
 def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
     if promote_svgs:
         rc = cmd_promote_svgs(force=False)
@@ -1910,7 +1921,7 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
     # Count the assembled content before font wrappers add LaTeX commands
     # containing spaces. Those commands are typesetting instructions, not
     # words in the manuscript.
-    word_count = len(assembled.split())
+    word_count = manuscript_word_count(assembled)
     # Wrap non-Latin scripts in raw-LaTeX font-switch commands. See
     # wrap_scripts_for_latex / SCRIPT_WRAPS for the per-script ranges.
     assembled = wrap_scripts_for_latex(assembled)
@@ -2633,7 +2644,7 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     assembled = prefer_png_images_for_pdf(assembled)
     # Count source content before typesetting-only font wrappers inflate the
     # whitespace-delimited total.
-    word_count = len(assembled.split())
+    word_count = manuscript_word_count(assembled)
     # Wrap non-Latin scripts in raw-LaTeX font-switch commands per the same
     # convention cmd_assemble uses.
     assembled = wrap_scripts_for_latex(assembled)

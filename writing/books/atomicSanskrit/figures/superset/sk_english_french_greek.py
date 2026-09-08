@@ -30,6 +30,7 @@ SPEC = QuadOverlaySpec(
         ("greek",    "Greek",    "br"),
     ],
     selected_places=None,
+    row_height_scale=0.975,
 )
 
 

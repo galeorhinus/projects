@@ -1,5 +1,7 @@
 # Chapter 12 — Building the वाक्यम् (*Vākyam*): Sanskrit's Molecular Assembly
 
+\runningchapter{Chapter 12 — Building Vākyam}
+
 ---
 
 ::: epigraph

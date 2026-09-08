@@ -1,5 +1,7 @@
 # Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended
 
+\runningchapter{Appendix Part 3 — Sonomer and Audiograph}
+
 ---
 
 Asuras have long been known for jealousy and insecurity. The pyramid displays those traits whenever knowledge remains beyond its custody. Writing gives it a medium that can be collected, enclosed, guarded, altered, or destroyed. Sanskrit places its calibrant in sound and entrusts that sound to people across society.

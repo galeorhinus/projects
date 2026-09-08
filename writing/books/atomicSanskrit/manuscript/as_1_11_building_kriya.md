@@ -1,5 +1,7 @@
 # Chapter 11 — Building क्रियापदम् (*Kriyāpadam*): Sanskrit's Verbal Molecule
 
+\runningchapter{Chapter 11 — Building Kriyāpadam}
+
 ## 11.1 From Semantic Atom to Verbal Molecule
 
 Chapter 10 established the **धातुः (*dhātuḥ*)** as Sanskrit's semantic atom. The atom contains core meaning, but Sanskrit does not use a धातुः (*dhātuḥ*) directly inside a sentence.[NOTE: apadam-constraint] Like an atom in chemistry, it must combine before it can function as a word. Additional sonomers attach to it, and it becomes a verb, a noun, or an adjective. This chapter follows one of those routes: the engineering through which a धातुः (*dhātuḥ*) becomes a completed verb.
