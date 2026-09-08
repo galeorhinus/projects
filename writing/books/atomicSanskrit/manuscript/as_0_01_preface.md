@@ -8,7 +8,7 @@ What had our ancestors fought to protect? Was it only freedom? Was it the nation
 
 Freedom was necessary, but freedom could not be the final answer. Freedom gives people room to choose. It does not tell them what kind of order allows living beings to flourish together. Nor does it explain how such an order can endure without placing a ruler, institution, or doctrine above everyone else.
 
-The question led me from freedom to order. Every political system in use today has the same basic architecture. Authorized institutions make rules, identify violations, and punish those who refuse to comply. Systems differ greatly. People may choose who occupies the apex, limit that person's power, and challenge official decisions. Those protections can limit what the apex may do, but they do not remove it.
+That thought led me from freedom to order. Every political system in use today has the same basic architecture. Authorized institutions make rules, identify violations, and punish those who refuse to comply. Systems differ greatly. People may choose who occupies the apex, limit that person's power, and challenge official decisions. Those protections can limit what the apex may do, but they do not remove it.
 
 This architecture subjects everyone to rules and punishments designed around the conduct of those who deceive, exploit, or attack. **The pyramid treats everyone as an exception waiting to happen.** A system built on suspicion teaches people to suspect one another and produces the distrust it expects.
 
@@ -38,7 +38,7 @@ Through the मूर्ति (*mūrti*), that inheritance stands before the se
 
 **The temple gives us a familiar example of the principle. Sanskrit allows us to examine how the same principle is engineered into a language.**
 
-I had been searching for an abstract solution to a problem that Hindu life had already answered in practice. Hindu life had preserved the answer, not as one policy or institution, but as an architecture repeated through sounds, words, stories, and practices. Reconstructing that architecture became the *Second Shanti* series.
+I had been searching in the abstract for a form of order that Hindus were already living. That order had survived, not as one policy or institution, but as an architecture repeated through sounds, words, stories, and practices. Reconstructing that architecture became the *Second Shanti* series.
 
 ## Why Sanskrit Comes First
 
@@ -91,7 +91,7 @@ The older Aryan Invasion Theory claimed that Aryans conquered India and brought 
 
 This book challenges that claim.
 
-People have always moved into and out of India, and some newcomers made India their home. Migration and linguistic authorship are different questions. This book asks who engineered Sanskrit, who established the Vedic disciplines of exact recitation, and why this connected architecture remains rooted in the Indian subcontinent.[NOTE: migration-trap-movement-not-authorship]
+People have always moved into and out of India, and some newcomers made India their home. Evidence of migration does not establish linguistic authorship. This book asks who engineered Sanskrit, who established the Vedic disciplines of exact recitation, and why this connected architecture remains rooted in the Indian subcontinent.[NOTE: migration-trap-movement-not-authorship]
 
 The difference between India and the other regions is architectural. In India, Sanskrit remains bonded to the Vedas, exact recitation, the analytical disciplines, and the civilizational memory of calibrant order. These survive together as one system. Elsewhere, languages preserve selected Sanskritic words, sound-patterns, or analytical methods without preserving the complete architecture that joins them. **That architectural asymmetry establishes direction.**
 

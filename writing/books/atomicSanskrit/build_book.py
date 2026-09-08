@@ -114,6 +114,8 @@ LATEX_STRIKEOUT_FILTER = BOOK_DIR / "filters" / "latex-strikeout.lua"
 LATEX_ENDNOTE_TABLES_FILTER = BOOK_DIR / "filters" / "endnote-tables-twocolumn.lua"
 LATEX_SHORT_FIGURE_CAPTIONS_FILTER = BOOK_DIR / "filters" / "latex-short-figure-captions.lua"
 LATEX_BREAKABLE_CODE_FILTER = BOOK_DIR / "filters" / "latex-breakable-code.lua"
+REVIEW_FRONTMATTER_TEMPLATE = BOOK_DIR / "templates" / "review-frontmatter.tex"
+REVIEW_FRONTMATTER_DEDICATION_TOKEN = "__DEDICATION__"
 
 # Reuse the existing figure lineage comment writer. The helper lives under
 # figures/_shared, so expose figures/ as an import root for this script.
@@ -943,17 +945,20 @@ def _css_prop(style: str, prop: str, default: str = "") -> str:
     return m.group(1).strip() if m else default
 
 
-def ensure_icon_pdf(svg_path: Path) -> Path | None:
-    """Return a cached vector-PDF sibling of an icon SVG, regenerating via
-    rsvg-convert when missing or stale. Returns None if rsvg-convert isn't
-    on PATH; the caller then leaves the icon as raw HTML (silently dropped
-    by pandoc, same as today) rather than failing the whole build."""
-    pdf_path = svg_path.with_suffix(".pdf")
+def ensure_icon_pdf(svg_path: Path, pdf_path: Path | None = None) -> Path | None:
+    """Return a cached vector PDF for an SVG, regenerating via rsvg-convert.
+
+    Scaffold icons use a sibling PDF by default. Other generated fragments
+    can supply a build-directory path so rendering does not create artifacts
+    beside manuscript figure sources.
+    """
+    pdf_path = pdf_path or svg_path.with_suffix(".pdf")
     if pdf_path.exists() and pdf_path.stat().st_mtime >= svg_path.stat().st_mtime:
         return pdf_path
     rsvg = shutil.which("rsvg-convert")
     if not rsvg:
         return None
+    pdf_path.parent.mkdir(parents=True, exist_ok=True)
     result = subprocess.run(
         [rsvg, "-f", "pdf", "-o", str(pdf_path), str(svg_path)],
         capture_output=True, text=True,
@@ -966,6 +971,85 @@ def ensure_icon_pdf(svg_path: Path) -> Path | None:
         )
         return None
     return pdf_path
+
+
+def render_review_frontmatter() -> Path | None:
+    """Build the PDF front matter from its template and dedication source.
+
+    The website and PDF previously had separate dedication copies. The PDF
+    copy lived directly in review-frontmatter.tex, so manuscript revisions
+    appeared online but not in the book. Convert the dedication Markdown to a
+    LaTeX fragment here and inject it into the generated front matter instead.
+    """
+    template = REVIEW_FRONTMATTER_TEMPLATE.read_text()
+    if template.count(REVIEW_FRONTMATTER_DEDICATION_TOKEN) != 1:
+        print(
+            f"Expected one {REVIEW_FRONTMATTER_DEDICATION_TOKEN} marker in "
+            f"{REVIEW_FRONTMATTER_TEMPLATE.relative_to(BOOK_DIR)}.",
+            file=sys.stderr,
+        )
+        return None
+
+    entry = next(
+        (
+            item for item in ASSEMBLY
+            if item.get("kind") == "dedication"
+            and item.get("title") == "Dedication"
+        ),
+        None,
+    )
+    if entry is None:
+        print("No Dedication entry found in as_book.yaml.", file=sys.stderr)
+        return None
+
+    source_path = BOOK_DIR / entry["file"]
+    if not source_path.exists():
+        print(f"Missing dedication source: {source_path}", file=sys.stderr)
+        return None
+
+    dedication_md = wrap_scripts_for_latex(source_path.read_text())
+
+    # A standalone Markdown-to-LaTeX conversion emits \includesvg. The full
+    # book does not know that this generated fragment contains SVG, so Pandoc
+    # may omit the corresponding package. Convert dedication SVGs to cached
+    # vector PDFs and let ordinary \includegraphics handle them reliably.
+    def replace_svg(match: re.Match) -> str:
+        image_path = BOOK_DIR / match.group(2)
+        if image_path.suffix.lower() != ".svg" or not image_path.exists():
+            return match.group(0)
+        pdf_path = ensure_icon_pdf(
+            image_path,
+            BUILD_DIR / "dedication-images" / image_path.with_suffix(".pdf").name,
+        )
+        if pdf_path is None:
+            return match.group(0)
+        return (
+            f"{match.group(1)}"
+            f"{pdf_path.relative_to(BOOK_DIR).as_posix()}"
+            f"{match.group(3)}"
+        )
+
+    dedication_md = PDF_IMAGE_RE.sub(replace_svg, dedication_md)
+    dedication_input = BUILD_DIR / "dedication.for-pdf.md"
+    dedication_input.write_text(dedication_md)
+
+    result = subprocess.run(
+        ["pandoc", str(dedication_input), "-f", "markdown", "-t", "latex"],
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        print("Dedication conversion FAILED:\n" + result.stderr, file=sys.stderr)
+        return None
+
+    out = BUILD_DIR / "review-frontmatter.generated.tex"
+    out.write_text(
+        template.replace(
+            REVIEW_FRONTMATTER_DEDICATION_TOKEN,
+            result.stdout.strip(),
+        )
+    )
+    return out
 
 
 def render_scaffold_icons_for_pdf(md_text: str) -> str:
@@ -2218,6 +2302,10 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         print("xelatex not found. Install via: brew install --cask basictex   (then `sudo tlmgr install xetex`)", file=sys.stderr)
         return 1
 
+    generated_review_frontmatter = render_review_frontmatter()
+    if generated_review_frontmatter is None:
+        return 1
+
     # Generate the Devanagari preamble by substituting the font name from
     # as_book.yaml into the template. The rendered file is a build artifact.
     if chapter_folio is None:
@@ -2239,7 +2327,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         "-o", str(pdf_path),
         "--pdf-engine=xelatex",
         "--metadata-file", str(METADATA_FILE),
-        "--include-before-body", str(BOOK_DIR / "templates" / "review-frontmatter.tex"),
+        "--include-before-body", str(generated_review_frontmatter),
         "--lua-filter", str(LATEX_SHORT_FIGURE_CAPTIONS_FILTER),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
         "--lua-filter", str(LATEX_BREAKABLE_CODE_FILTER),

@@ -16,6 +16,8 @@
 
 \bigskip
 
+The opening mantra calls the Maruts to spread among the people, seek out the रक्षसः (*rakṣasaḥ*) hidden among them, and stop the hostility they bring into the yajña. This chapter follows the same sequence: locate the pyramid's categories, identify the motive behind them, and expose the methods that keep them in place.
+
 ---
 
 ## 3.1 Why the Pyramid Needs the Tree

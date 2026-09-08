@@ -154,7 +154,7 @@ The mantra has three lines of **गायत्री (*gāyatrī*)** meter, wit
 - वरेण्यम् (***vareṇyam***) — **accusative singular neuter** of वरेण्य (*vareṇya*), a **कृदन्त (*kṛdanta*)** formed from the धातु (*dhātu*) ⟪वृ⟫ (*vṛ*, *to choose*) + the कृत्प्रत्यय (*kṛt-pratyaya*) *-ya* with गुण (*guṇa*). The verse applies the धातु (*dhātu*) → शब्द (*śabda*) assembly described in Chapter 12.
 - भर्गो (***bhargo***) — **accusative singular neuter** of *bharga* (भर्ग, *splendor*). Final *-as* → *-o* before voiced consonant.
 - देवस्य (***devasya***) — **genitive singular** of देव (*deva*).
-- धीमहि (***dhīmahi***) — a **first-person plural ātmanepada** form: *we contemplate* or *may we contemplate*. Grammatical analyses differ on its precise atom and Vedic mood, so this appendix does not force either question into one label.
+- धीमहि (***dhīmahi***) — a **first-person plural ātmanepada** form: *we contemplate* or *may we contemplate*. Grammatical analyses assign it to different atoms and Vedic moods, so this appendix does not force one interpretation.
 - धियो (***dhiyo***) — **accusative plural** of धी (*dhī*, *thought*). Final *-as* → *-o*.
 - यो (***yo***) — **nominative singular masculine** of यद् (*yad*), the relative pronoun. Final *-as* → *-o*.
 - नः (***naḥ***) — **accusative-genitive plural** of *asmat* (अस्मत्, *we*), the clitic form.

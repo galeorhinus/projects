@@ -16,7 +16,7 @@
 
 \bigskip
 
-The number here is **one**: the asuric one, the apex-one.
+The Gītā names two created orders: दैव (*daiva*) and आसुर (*āsura*). This chapter examines the second. The asuric order takes the form of a pyramid with a single apex. Its number is **one**.
 
 One ruler. One doctrine. One permitted origin. One authorized text. One sanctioned interpretation. One gate through which reality must pass before it is allowed to be called True.
 

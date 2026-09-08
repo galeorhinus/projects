@@ -52,7 +52,7 @@ Brāhmī and Devanāgarī render the same Indic encoding principle through diffe
 
 Aramaic has no equivalent of the स्थान (*sthāna*) and प्रयत्न (*prayatna*) grid, no inherent vowel systematically replaced by dependent signs, and no full set of the distinctions that Brāhmī renders. It may have influenced the shapes of some glyphs or supplied a graphic precedent for recording consonants. Such contact could explain why particular marks resemble one another. It still leaves the Indic encoding architecture unexplained.
 
-The Brāhmī-from-Aramaic claim therefore contains two separate questions. Did some visible signs travel between writing communities? Where did the Indic encoding architecture originate? Aramaic can contribute evidence to the first inquiry because its signs survive. It cannot supply a sonomeric system that it never possessed.
+The Brāhmī-from-Aramaic claim therefore combines two different histories: the movement of visible signs between writing communities and the origin of the Indic encoding architecture. Aramaic can provide evidence for the movement of signs because its signs survive. It cannot supply a sonomeric system that it never possessed.
 
 ## 3.5 What Earlier Glyphs Cannot Explain
 
@@ -122,6 +122,8 @@ Hangul demonstrates the deliberate design of a script for an existing language. 
 ![Figure A.3.1 — Sound, Script, Standard: Sanskrit, Korean, and Arabic placed on one articulatory matrix.](figures/audiography/sound_script_standard_matrix.svg){#fig:app3-sound-script-standard-matrix width=100% height=80%}
 
 ![Figure A.3.2 — Sanskrit Extracted: The Sonomer Grid. The Sanskrit layer from Figure A.3.1, showing the engineered sound-grid by itself.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:app3-sanskrit-extracted-sonomer-grid width=100%}
+
+The numbered vacancies mark the velar अन्तःस्थ (*antaḥstha*) and labial ऊष्मन् (*ūṣman*) coordinates examined in Chapter 9 §9.10.
 
 ![Figure A.3.3 — Arabic Extracted: Codified Sound Tradition. Arabic isolated from the shared articulatory range: a powerful phonology preserved through recitation, grammar, script, and authority.](figures/audiography/arabic_extracted_codified_sound_tradition.svg){#fig:app3-arabic-extracted-codified-sound-tradition width=100% height=80%}
 
@@ -195,4 +197,4 @@ Fifth, produce an account of Brāhmī that distinguishes the possible transmissi
 
 That research begins with scholars who can read the प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) works in Sanskrit. It also requires epigraphy, the history of writing systems, and familiarity with Aramaic, Phoenician, and the Near-Eastern alphabetic family. These disciplines must examine the visible history of Brāhmī without losing the Sanskrit sound architecture that its glyphs render.
 
-This appendix establishes the engineering question that conventional glyph comparison leaves unanswered: Brāhmī renders an ordered sonomer architecture that Aramaic does not contain. That architecture is Indic. The history of its visible marks remains open.
+This appendix establishes what conventional glyph comparison leaves unexplained: Brāhmī renders an ordered sonomer architecture that Aramaic does not contain. That architecture is Indic. The history of its visible marks remains open.

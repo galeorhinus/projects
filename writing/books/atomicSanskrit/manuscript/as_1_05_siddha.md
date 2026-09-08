@@ -8,6 +8,8 @@
 >
 > *siddhe śabdārthasambandhe*
 >
+> The relation between word and meaning is already established.
+>
 > `\hfill`{=latex}*— Mahābhāṣya, Paspaśāhnika*[NOTE: patanjali-siddhe-shabdarthasambandhe]
 
 :::
@@ -80,9 +82,7 @@ Patañjali then takes up Kātyāyana's first **वार्त्तिकम्
 >
 > *Given that word, meaning, and their relation are established, as ordinary usage shows, and that meaning prompts the use of a word, śāstra regulates correct usage.*[NOTE: patanjali-siddhe-shabdarthasambandhe]
 
-The epigraph uses the opening clause: **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**. Its eight syllables establish the premise for the discussion that follows.
-
-सिद्धे (*siddhe*) is the locative of सिद्ध (*siddha*): "in the established," or "where the established condition prevails." **शब्दार्थसम्बन्ध (*śabdārthasambandha*)** is the bond between word and meaning. Together, the two words state the premise from which the commentary proceeds.
+Patañjali begins with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**. सिद्धे (*siddhe*) places the condition among what is already established. शब्दार्थसम्बन्ध (*śabdārthasambandha*) is the bond between word and meaning. In eight syllables, the clause states that this bond exists before grammar acts upon it.
 
 The pyramid treats this bond as a convention created through use, maintained by a speech community, and altered over time. Patañjali begins from the opposite premise: the bond is already established.
 

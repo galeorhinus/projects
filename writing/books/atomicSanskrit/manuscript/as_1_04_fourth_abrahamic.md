@@ -16,6 +16,8 @@
 
 \bigskip
 
+The opening mantra shows Vṛtra obstructing the waters, guarding them, and covering their outlet. Chapter 3 names this recurring act the architecture of containment. Chapter 4 follows that architecture through four religious vocabularies and the institutions that enforce them.
+
 ---
 
 ## 4.1 The Fourth Religion
@@ -188,7 +190,7 @@ Three classes extend, defend, and sanctify the fourth Abrahamic religion.
 
 The **missionaries of progress** export the framework.[NOTE: missionaries-of-progress-precedent] They arrive as development consultants, education reformers, rights trainers, museum curators, NGO officers, global-governance experts, and curriculum designers. Their function is not merely to advise. It is to replace local categories with progress-categories and then declare the replacement universal. In India, they train civilizational self-description to pass through the categories of caste, communalism, development, modernization, minority rights, secularism, and backwardness before it can be heard. Rostow's stages-of-growth model placed every society on the same five-step ladder, from “traditional society” to “high mass consumption.”[NOTE: rostow-modernization-theory]
 
-In the Sanskrit question, the same class now appears through popular synthesis. Ancient DNA, archaeology, and linguistic reconstruction are braided into a general-reader migration story in which PIE becomes a reconstructed people-and-language package, the steppe becomes the source-zone, and Sanskrit becomes one branch among many. The racial Arya thesis survives in softened vocabulary. The form is no longer crude invasion. It is public pedagogy, advanced by the missionaries of progress.[NOTE: popular-pie-missionaries]
+The missionaries of progress perform the same function in popular accounts of Sanskrit. They braid ancient DNA, archaeology, and linguistic reconstruction into a general-reader migration story in which PIE becomes a reconstructed people-and-language package, the steppe becomes the source-zone, and Sanskrit becomes one branch among many. The racial Arya thesis survives in softened vocabulary. The form is no longer crude invasion. It is public pedagogy, advanced by the missionaries of progress.[NOTE: popular-pie-missionaries]
 
 That pedagogy turns population movement into civilizational authorship; Chapter 18 returns to the trap in full.
 

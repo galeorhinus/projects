@@ -95,11 +95,11 @@ To preserve the genealogical model as established fact, the pyramid must dismiss
 
 Earlier chapters established why the Vedas serve as a calibrant for Sanskriti: they preserve the contest between सत् (*sat*) and असत् (*asat*) in forms that people can recognize whenever the same actions return in another age. Civilizational gaslighting is one present-day expression of that ancient pattern.
 
-The chapter's epigraph presents an epistemic inversion: the framework for recognizing truth is reversed, a weapon the ***a-suras*** have always used. A person who is not a **यातु (*yātu*)** is accused of being a **यातुधान (*yātudhāna*)**, while an actual **रक्षस् (*rakṣas*)** declares, "I am pure." ***Gaslighting is the psychological weaponization of epistemic inversion.***
+The opening mantra shows this reversal in action. Someone falsely calls the speaker a यातुधान (*yātudhāna*), while an actual रक्षस् (*rakṣas*) declares, "I am pure." The accuser places his own identity upon another person and then claims innocence for himself. ***Gaslighting turns that reversal into a psychological weapon.***
 
 The Ṛgveda describes the wider tactic through hostile **माया (*māyā*)**. Vṛtra and Namuci are **मायिन् (*māyin*)**, figures who act through stratagem. Svarbhānu's माया (*māyā*) performs **आवरण (*āvaraṇa*)** directly: it places darkness before the Sun and prevents the worlds from seeing what remains present.[NOTE: mayin-concealment-cluster]
 
-Gaslighting weaponizes both actions of आसुरी माया (*āsurī māyā*). **आवरण (*āvaraṇa*)** conceals what happened. **विक्षेप (*vikṣepa*)** projects a replacement account that the victim is expected to accept. The false accuser in the chapter's epigraph projects his own identity onto another person and then declares himself pure.[NOTE: maya-concealment-projection]
+Gaslighting weaponizes both actions of आसुरी माया (*āsurī māyā*). **आवरण (*āvaraṇa*)** conceals the accuser's own conduct. **विक्षेप (*vikṣepa*)** projects that conduct onto the person he accuses.[NOTE: maya-concealment-projection]
 
 Gaslighting can redirect memory without erasing it. The pyramid teaches India to remember Pāṇini incorrectly. It turns the decoder into a codifier and turns his documentation into the origin of the language. This redirects the civilization's reverence for one of its finest decoders toward the codification myth.
 

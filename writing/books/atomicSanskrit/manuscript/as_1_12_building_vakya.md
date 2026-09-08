@@ -8,6 +8,8 @@
 >
 > *yas tan na veda kim ṛcā kariṣyati |*
 >
+> What use is a Vedic verse to someone who does not know that?
+>
 > `\hfill`{=latex}*— Ṛgveda 1.164.39c*
 
 :::
@@ -18,11 +20,11 @@
 
 Chapter 11 followed a धातुः (*dhātuḥ*) into a completed verb. A sentence needs more than a verb. Sanskrit must also form words for the actor, the recipient, the instrument, the place, the object, and every other participant in the action. It must then tell the listener how those words relate to one another.
 
-The epigraph contains several forms that this chapter will examine.[NOTE: rigveda-1-164-39-akshara-assembly] **करिष्यति (*kariṣyati*)**, *will do*, is a completed verb formed from ⟪कृ⟫ (*kṛ*). **ऋचा (*ṛcā*)** is a completed form of **ऋच् (*ṛc*)**, a Vedic verse. Its ending gives it the instrumental relation: *with the* ऋच् (*ṛc*) or *through the* ऋच् (*ṛc*).
+The Rigvedic question contains the completed forms this chapter will take apart.[NOTE: rigveda-1-164-39-akshara-assembly] **करिष्यति (*kariṣyati*)**, *will do*, is a completed verb formed from ⟪कृ⟫ (*kṛ*). **ऋचा (*ṛcā*)** is a completed form of **ऋच् (*ṛc*)**, a Vedic verse. Its ending gives it the instrumental relation: *with the* ऋच् (*ṛc*) or *through the* ऋच् (*ṛc*).
 
 Three shorter words complete the question. **यः (*yaḥ*)** identifies the person being discussed, **तत् (*tat*)** identifies what that person does not know, and **किम् (*kim*)** asks what that person will do.
 
-Each word in the epigraph carries grammatical information in its ending. The listener does not have to guess whether **ऋचा (*ṛcā*)** identifies the actor, the object, or the instrument. Its ending identifies the relation.
+Several words in the question carry grammatical information in their endings. The listener does not have to guess whether **ऋचा (*ṛcā*)** identifies the actor, the object, or the instrument. Its ending identifies the relation.
 
 The sentence also retains its smaller constructions. **करिष्यति (*kariṣyati*)** retains ⟪कृ⟫ (*kṛ*) and the material that gives the verb its future form. **ऋचा (*ṛcā*)** retains **ऋच् (*ṛc*)** and the ending that prepares it for sentence use. Each atom retains its sonomers.
 
@@ -84,11 +86,9 @@ The Ṛgveda preserves many kinds of sentences. Two passages can demonstrate the
 
 ### A Question About Future Action: RV 1.164.39c
 
-Return to the epigraph:
+The Rigvedic question can now be separated word by word:
 
 > यस्तन्न वेद किमृचा करिष्यति ।
-
-The line **यस्तन्न वेद किमृचा करिष्यति** can be separated as follows:
 
 | पदम् (*Padam*) | What it contributes |
 |---|---|

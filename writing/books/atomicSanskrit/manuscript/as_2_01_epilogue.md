@@ -16,7 +16,7 @@
 
 \bigskip
 
-The Prologue opened with Svarbhānu covering the Sun in darkness. The epigraph above completes that Vedic sequence: the Atris find the Sun that had remained behind the darkness.
+The Prologue opened with Ṛgveda 5.40.5, where Svarbhānu covers the Sun and the worlds lose their bearings. Four mantras later, the verse above describes what follows: the Atris find the Sun that remained behind the darkness.
 
 This book has removed the seven claims at the core of Sanskrit's eclipse: ***Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language,*** and ***Early Literature***. With those claims removed, readers can examine Sanskrit as an engineered, radiant, calibrant, and fractal architecture.
 

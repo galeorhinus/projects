@@ -8,6 +8,8 @@
 >
 > *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ.*
 >
+> Many are the corruptions; few are the words.
+>
 > `\hfill`{=latex}*— Mahābhāṣya*[NOTE: paspashahnika-apabhramsa-passage]
 
 :::
@@ -61,7 +63,7 @@ Patañjali states the asymmetry in the पस्पशाह्निक (*Paspa
 >
 > *Many are the corruptions; few are the words.*[NOTE: paspashahnika-apabhramsa-passage]
 
-The epigraph renders the same asymmetry through अपभ्रंशः (*apabhraṃśa*), the term of art here. Patañjali's maxim uses **अपशब्दाः (*apaśabdāḥ*)** — faulty words, non-words — and the same passage then lists the **अपभ्रंशाः (*apabhraṃśāḥ*)** of **गौः (*gauḥ*)**. The two terms express the same structural judgment from different angles: अपशब्द (*apaśabda*) points to the wrong word; अपभ्रंशः (*apabhraṃśa*) points to the falling-away.
+Patañjali uses अपशब्दाः (*apaśabdāḥ*) for the faulty words in the maxim and अपभ्रंशाः (*apabhraṃśāḥ*) for the examples that follow. अपशब्द (*apaśabda*) identifies the faulty word. अपभ्रंशः (*apabhraṃśa*) identifies its fall from the calibrated form.
 
 The maxim records an empirical imbalance between one specified form and the many corruptions that speakers can produce from it. Every altered sound, substituted ending, or reorganized syllable creates another possible departure, so the corruptions multiply much faster than the calibrated words they distort.
 

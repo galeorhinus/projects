@@ -726,7 +726,7 @@ Sources: Frank N. Laird, [“The ‘Save the Earth!’ Narrative Creates a Narra
 
 **Short:** ब्राह्मी (*Brāhmī*) and देवनागरी (*Devanāgarī*) are different visible implementations of the same broad Indic encoding architecture. The scripts changed as they moved across regions, languages, writing materials, and technologies. Modern digital systems can even display one encoded sequence through different glyph forms. These changes affect the audiograph, not the prior sonomeric architecture that it renders.
 
-**Deployments:** Chapter 13 §13.3 and Appendix Part 3 §§3.4 and 3.6 — support the distinction between the prior sonomeric architecture and the scripts that render it, the effect of changing media and technologies on visible forms, and the separate question of possible glyph transmission.
+**Deployments:** Chapter 13 §13.3 and Appendix Part 3 §§3.4 and 3.6 — support the distinction between the prior sonomeric architecture and the scripts that render it, the effect of changing media and technologies on visible forms, and possible glyph transmission as a separate issue.
 
 ब्राह्मी (*Brāhmī*) and देवनागरी (*Devanāgarī*) belong to one historical script family, but they are not identical. Their shared encoding principle includes:
 
@@ -746,7 +746,7 @@ The two scripts differ at the surface level — the level addressed by the pyram
 
 The visual interface also changes with its material and technology. The Unicode Standard notes that Brāhmī's descendants developed distinct regional letterforms and records the proposal that palm-leaf writing encouraged changes in southern scripts. Its Indic-script guidance also shows that one encoded Devanāgarī consonant sequence can appear as a ligature or as a half-form followed by a full consonant. The display engine chooses between those forms according to the glyphs available in the font. The encoded sequence remains the same while its visible audiograph changes.
 
-Glyph resemblances between ब्राह्मी (*Brāhmī*) and Aramaic can support contact, borrowing of particular signs, or use of an earlier graphic template. They cannot by themselves explain the Indic encoding model. Aramaic does not contain the inherent-vowel system, dependent vowel signs, विराम (*virāma*), conjunct formation, or full set of Sanskrit consonantal distinctions carried by ब्राह्मी (*Brāhmī*). The historical question of graphic descent and the architectural question of encoding design therefore require separate answers.
+Glyph resemblances between ब्राह्मी (*Brāhmī*) and Aramaic can support contact, borrowing of particular signs, or use of an earlier graphic template. They cannot by themselves explain the Indic encoding model. Aramaic does not contain the inherent-vowel system, dependent vowel signs, विराम (*virāma*), conjunct formation, or full set of Sanskrit consonantal distinctions carried by ब्राह्मी (*Brāhmī*). The possible graphic descent of particular signs must therefore be distinguished from the origin of the encoding design.
 
 The Unicode Standard documents ब्राह्मी (*Brāhmī*) as an abugida with inherent **a**, independent and dependent vowel signs, a विराम (*virāma*), consonant conjuncts, अनुस्वार (*anusvāra*), विसर्ग (*visarga*), जिह्वामूलीय (*jihvāmūlīya*), and उपध्मानीय (*upadhmānīya*). It also identifies ब्राह्मी (*Brāhmī*) as the historical source of the modern Indian writing systems, including देवनागरी (*Devanāgarī*) and Tamil. These documented features support the shared encoding principle without erasing the historical and regional differences among the scripts.
 
@@ -1693,7 +1693,7 @@ The complete letter appears in *The Life and Letters of the Right Honourable Fri
 
 **Short:** The VedaWeb Zurich v3 corpus contains 48 tokens assigned to the lemma ***a-dabdha-*** and no independent lemma ***dabdha-***. The Rigveda therefore demonstrates that a privative formation can recur extensively even when the corresponding positive participial stem does not occur independently in the same corpus.
 
-**Deployments:** Chapter 3 §3.6 — the answer to the claim that standalone ***sura*** must occur before Sanskrit can generate ***a-sura***.
+**Deployments:** Chapter 3 §3.6 — the response to the claim that standalone ***sura*** must occur before Sanskrit can generate ***a-sura***.
 
 <!-- SOURCE-RECORDS
 - vedaweb-zurich-v3 | lemma query ádabdha-: 48 tokens; dabdha-: 0 tokens
@@ -1763,7 +1763,7 @@ Sources: I. J. S. Taraporewala, "Some Vedic Words Viewed in the Light of the Gat
 
 A close rendering is: “Through your *māyāḥ*, Indra, you brought down the *māyin* Śuṣṇa. The discerning know that deed of yours; raise their renown.” Jamison and Brereton render the paired words as “with your tricks” and “tricky Śuṣṇa.”
 
-The mantra establishes the pairing on which the chapter relies: the opponent is a *māyin*, and Indra answers with *māyāḥ*. It does not use the terms *daivī māyā* or *āsurī māyā*, and it does not formulate a general doctrine that power is morally neutral. The book infers from the paired use that the word alone cannot determine alignment; purpose and action must do that work.
+The mantra establishes the pairing on which the chapter relies: the opponent is a *māyin*, and Indra counters with *māyāḥ*. It does not use the terms *daivī māyā* or *āsurī māyā*, and it does not formulate a general doctrine that power is morally neutral. The book infers from the paired use that the word alone cannot determine alignment; purpose and action must do that work.
 
 Bhagavad Gītā 7.14 supplies the later expression **दैवी ... माया (*daivī ... māyā*)**. The Kāśikā discussion attached to Aṣṭādhyāyī 4.4.124 gives **आसुरी माया (*āsurī māyā*)** as an example. These later formulations provide the vocabulary used by Chapters 2 and 3 to distinguish protective or radiant use from concealment and deformation.
 
@@ -2930,7 +2930,7 @@ Primary textual anchors include Deuteronomy 7:6 and Isaiah 11 for chosen Israel 
 - lemaitre-hawking-cosmology-creation | Lemaître's physical beginning, his separation of cosmology from theology, and Hawking's use of God as a metaphor for complete physical law
 -->
 
-**Short:** Modern popular cosmology often gives the Big Bang the narrative place once occupied by Genesis. Lemaître himself insisted that a physical beginning and theological creation were different questions. Hawking's phrase *“mind of God”* referred to complete physical laws, not to a divine mind acting within his model.
+**Short:** Modern popular cosmology often gives the Big Bang the narrative place once occupied by Genesis. Lemaître himself distinguished a physical beginning from theological creation. Hawking's phrase *“mind of God”* referred to complete physical laws, not to a divine mind acting within his model.
 
 **Deployments:** Chapter 4 §4.1.
 
@@ -3284,7 +3284,7 @@ This is an inventory-address analysis, not a claim about vocabulary, descent, pr
 
 The seven appendix surveys use the same generator and counting rule. Their reproduced totals are: Korku + Mundari + Santali, 20/23; Korku + Mundari + Burushaski, 21/23; Sora + Khasi + Nicobarese, 18/23; Pashto + Nuristani + Burushaski, 22/23; Farsi + Kurdish + Talysh, 15/23; Armenian + Georgian + Ossetian, 13/23; and Russian + Ukrainian + Ossetian, 14/23. These are deliberately selected three-language unions, not regional averages. They test whether alternate selections reproduce or disrupt the body comparison. Every total can be regenerated from the inventory files recorded in the toolkit.
 
-Reproducible arithmetic and source verification are separate questions. The four body figures have now received both checks. Tamil, Toda, Kurukh, Ho, and Mundari were checked against the relevant volumes of the *Linguistic Survey of India*. Nagaraja's 1999 grammar supplies the Korku inventory used by the figure; Zide's older compact analysis was retained as an explicit alternative rather than silently blended into it. Published inventories were also checked for English, French, Greek, Tajik, Kazakh, and Kyrgyz.
+Reproducible arithmetic and source verification are independent tasks. The four body figures have now received both checks. Tamil, Toda, Kurukh, Ho, and Mundari were checked against the relevant volumes of the *Linguistic Survey of India*. Nagaraja's 1999 grammar supplies the Korku inventory used by the figure; Zide's older compact analysis was retained as an explicit alternative rather than silently blended into it. Published inventories were also checked for English, French, Greek, Tajik, Kazakh, and Kyrgyz.
 
 That source audit corrected several individual markers. English **t, d, n,** and **l** moved from the dental to the alveolar column. Tajik **[w]** was removed as an independent phoneme because Perry treats it as a realization of **/v/**. Kazakh lost a non-core **h** and **tʃ** and gained the source's uvular **χ**. The Kyrgyz configuration was rebuilt from its recorded standard inventory. Korku gained the aspirated rows, glottal stop, and additional liquids documented by Nagaraja while losing nasals that his inventory does not list. None of these corrections changes the three-language unions: the body figures still regenerate 22, 20, 16, and 15. The seven additional appendix surveys remain reproducible from their files but still require the same complete source audit before their exact totals can be treated as fully verified.
 
@@ -3679,9 +3679,9 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtra* 8.4.58 and the su
 
 The *Ṛgveda-Prātiśākhya*, *Taittirīya-Prātiśākhya*, *Vājasaneyī-Prātiśākhya*, Atharvavedic phonetic treatises, and *Ṛktantra* document the analysis required to preserve their respective recitations. Across those texts, sounds are classified through named places and efforts, breath and voice, nasal participation, duration, pitch, and junction behavior. The *Śikṣā* literature teaches many of the same dimensions.
 
-Pāṇini's rules depend on distinguishable sounds before they can define substitutions or compact those sounds into pratyāhāras. The Māheśvara-sūtras therefore function as a grammatical index of a sound inventory already available to speakers and reciters. That structural sequence does not depend on assigning every extant *Prātiśākhya* or *Śikṣā* text a date before Pāṇini. Modern dates for the received formulations and traditional attributions to figures such as Śaunaka, Kātyāyana, Pāṇini, or Yājñavalkya are separate historical questions.
+Pāṇini's rules depend on distinguishable sounds before they can define substitutions or compact those sounds into pratyāhāras. The Māheśvara-sūtras therefore function as a grammatical index of a sound inventory already available to speakers and reciters. That structural sequence does not depend on assigning every extant *Prātiśākhya* or *Śikṣā* text a date before Pāṇini. Modern dates for the received formulations and traditional attributions to figures such as Śaunaka, Kātyāyana, Pāṇini, or Yājñavalkya can be investigated separately.
 
-The Vedic sound architecture and recitational practice are logically prior to the grammar that indexes them. The received *Prātiśākhya* and *Śikṣā* texts document that architecture in detail, but their individual dates and attributions remain separate questions.
+The Vedic sound architecture and recitational practice are logically prior to the grammar that indexes them. The received *Prātiśākhya* and *Śikṣā* texts document that architecture in detail, but their individual dates and attributions can be investigated without reversing that structural sequence.
 
 Sources: *Ṛgveda-Prātiśākhya*, *Taittirīya-Prātiśākhya*, and *Vājasaneyī-Prātiśākhya* in their standard editions; W. Sidney Allen, *Phonetics in Ancient India* (Oxford University Press, 1953); Hartmut Scharfe, *Grammatical Literature* (Harrassowitz, 1977), pp. 127-35.
 
@@ -6273,7 +6273,7 @@ Sources: Patañjali, ***Mahābhāṣya***, Kielhorn's edition, vol. I, pp. 30–
 - project-prayoga-analysis | Path C particle-count and combinatorial-reach calculation
 -->
 
-**Short:** High-frequency verbs in natural languages often preserve irregular forms. The Sanskrit audit asks a different question: whether particle count relates to the number of derivatives and grammatical combinations recorded for a *dhātuḥ*. Both Sanskrit calculations find greater reach among smaller atoms. The appendix does not claim that it has completed a cross-language comparison of paradigm irregularity.
+**Short:** High-frequency verbs in natural languages often preserve irregular forms. The Sanskrit audit instead tests whether particle count relates to the number of derivatives and grammatical combinations recorded for a *dhātuḥ*. Both Sanskrit calculations find greater reach among smaller atoms. The appendix does not claim that it has completed a cross-language comparison of paradigm irregularity.
 
 **Deployments:** Appendix Part 6 §§6.2–6.3 — qualifies the natural-language comparison and anchors the two Sanskrit reach calculations.
 
@@ -6442,7 +6442,7 @@ Sources: UK Parliament, [House of Lords debate, “India—Christianity in India
 - milroy-authority-language-1999 | standard-language ideology and authority
 -->
 
-**Short:** Chapter 2 separates three questions that are often collapsed in popular accounts: how a language originates, how institutions standardize one of its forms, and whether a bounded form remains relatively fixed. Natural and constructed describe origin. Standardization describes an institutional process applied to a selected norm. *Petrification* is the book's diagnostic term for the stronger condition in which external authority fixes a bounded form while ordinary speech continues changing around it.
+**Short:** Chapter 2 distinguishes three aspects of a language's history that popular accounts often collapse: how a language originates, how institutions standardize one of its forms, and whether a bounded form remains relatively fixed. Natural and constructed describe origin. Standardization describes an institutional process applied to a selected norm. *Petrification* is the book's diagnostic term for the stronger condition in which external authority fixes a bounded form while ordinary speech continues changing around it.
 
 **Deployments:** Chapter 2 §2.3 (the distinction between origin, generativity, standardization, and guarded forms); paired with `petrified-bounded-forms` and `botanical-drift-prestige-memory`.
 
@@ -6675,7 +6675,7 @@ The atom's **inherent vowel** — the vowel at its phonological nucleus — is a
 - project-prayoga-analysis | 3,839 normalized DCS verb lemmas
 -->
 
-**Short:** Appendix Part 6 distinguishes three units: **2,168 listed *Dhātupāṭha* entries**, the **138-atom Path A dictionary sample**, and **3,839 normalized verb lemmas produced by the Digital Corpus of Sanskrit parser**. These totals answer different questions and must not be presented as competing counts of one inventory.
+**Short:** Appendix Part 6 distinguishes three units: **2,168 listed *Dhātupāṭha* entries**, the **138-atom Path A dictionary sample**, and **3,839 normalized verb lemmas produced by the Digital Corpus of Sanskrit parser**. These totals measure different things and must not be presented as competing counts of one inventory.
 
 **Deployments:** Appendix Part 6 opening and §6.3 — explains the distinct datasets and the Path C denominator.
 
@@ -6712,7 +6712,7 @@ The cross-corpus portion of the *prayoga* audit compared four DCS sub-corpora �
 
 **Status:** Parked — the entry previously carried a Chapter 18 §18.7 citation for the honest admission that the origin mechanism is unknown; that citation is no longer in the chapter. Retained for the closing stanza's statement of the limit of knowledge.
 
-The ***Nāsadīya Sūkta*** (नासदीयसूक्तम्) is *Ṛgveda* 10.129, the famous *Creation Hymn* — seven *ṛcas* on the cosmic-origin question. The hymn's move that matters for origin-honesty is its closing stanza (10.129.7), which states the limit of knowledge directly:
+The ***Nāsadīya Sūkta*** (नासदीयसूक्तम्) is *Ṛgveda* 10.129, the famous *Creation Hymn* — seven *ṛcas* on the origin of the cosmos. The hymn's move that matters for origin-honesty is its closing stanza (10.129.7), which states the limit of knowledge directly:
 
 > *iyaṃ visṛṣṭir yata ābabhūva / yadi vā dadhe yadi vā na /*
 > *yo asyādhyakṣaḥ parame vyoman / so aṅga veda yadi vā na veda //*

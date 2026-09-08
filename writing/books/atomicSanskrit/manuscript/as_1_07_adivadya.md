@@ -138,7 +138,7 @@ The categories are physiology in Sanskrit vocabulary.
 
 ## 7.8 स्थान (*Sthāna*), प्रयत्न (*Prayatna*), and मात्रा (*Mātrā*)
 
-The Sanskrit sound-system rests on three governing questions: **स्थान (*sthāna*)**, where the sound is made; **प्रयत्न (*prayatna*)**, how the body makes it; and **मात्रा (*mātrā*)**, how long the sound lasts.
+The Sanskrit sound-system specifies each sound through three coordinates: **स्थान (*sthāna*)**, where the sound is made; **प्रयत्न (*prayatna*)**, how the body makes it; and **मात्रा (*mātrā*)**, how long the sound lasts.
 
 स्थान (*Sthāna*) is geometry. It sets where the airflow is shaped. Moving the contact point from throat to palate to teeth changes the resonating cavity and therefore the acoustic signature.
 

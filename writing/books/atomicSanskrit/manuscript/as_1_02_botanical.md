@@ -76,13 +76,13 @@ The *Tolkāppiyam* documents detailed rules for Tamil, but Tamil continued chang
 
 Tamil demonstrates what documentation can and cannot do. The *Tolkāppiyam* preserved grammatical knowledge and gave later scholars access to earlier Tamil. It did not stop the language spoken by successive generations from changing.
 
-Tamil's later change answers the question about drift. The architecture through which its grammatical knowledge survived answers a different question about order. Tamil and Sanskrit both preserve knowledge through distributed custodianship rather than an enforcing apex. Sanskrit joins that subcontinental architecture to a distinctive two-domain design: the Vedas remain the invariant calibrant, while the लौकिक (*laukika*) domain remains open to new expression. The chapters that follow examine that design and the purpose it serves.
+Tamil's later changes show that documentation did not stop drift. The survival of its grammatical knowledge reveals a different architecture of order. Tamil and Sanskrit both preserve knowledge through distributed custodianship rather than an enforcing apex. Sanskrit joins that subcontinental architecture to a distinctive two-domain design: the Vedas remain the invariant calibrant, while the लौकिक (*laukika*) domain remains open to new expression. The chapters that follow examine that design and the purpose it serves.
 
 ## 2.3 Four Language Categories
 
-The familiar categories confuse two separate questions. *Natural* and *constructed* describe how a language originated. *Generative* and *lexicon-dependent* describe how much new expression its internal architecture can produce.[NOTE: language-origin-standardization-form]
+The familiar labels mix two distinct features of a language: how it came into being and how it creates new expression. *Natural* and *constructed* describe origin. *Generative* and *lexicon-dependent* describe whether the language can build new expressions through its internal architecture or must keep adding words to a list.[NOTE: language-origin-standardization-form]
 
-Figure 2.1 places those questions on separate axes. The horizontal axis asks whether a language arose through communal speech or deliberate engineering. The vertical axis asks whether speakers can generate new expression through its architecture or must keep extending a listed vocabulary.
+Figure 2.1 separates these features. The horizontal axis runs from communal speech to deliberate engineering. The vertical axis runs from dependence on a listed vocabulary to the generative power of the language's architecture.
 
 ![Figure 2.1 — Four Language Categories. Origin and generativity produce four distinct categories: Generative Architectures, Natural Languages, Lexicon-Dependent Conlangs, and Petrified Forms.](figures/botanical/language2x2-categories.png){#fig:ch2-language-2x2-categories width=100%}
 
@@ -226,7 +226,7 @@ The attack moved from an attempt to replace Hindu civilizational memory through 
 
 ## 2.10 आसुरी माया (*Āsurī Māyā*): Concealment and Projection
 
-The chapter can now return to its epigraph. The mantra presents power without assigning it automatically to either side. **माया (*māyā*)** can serve ***सत् (*sat*)*** or ***असत् (*asat*)***. Indra defeats the ***मायिन् (*māyin*)*** Śuṣṇa with मायाः (*māyās*) of his own. The Hindu continuum therefore distinguishes **दैवी माया (*daivī māyā*)**, which serves radiance and protection, from **आसुरी माया (*āsurī māyā*)**, which serves concealment and deformation.[NOTE: rigveda-1-11-7-maya-mayin]
+The opening mantra shows Indra defeating the मायिन् (*māyin*) Śuṣṇa with मायाः (*māyās*) of his own. It is *māyā* against *māyā*. The purpose served by that power determines whether the action aligns with सत् (*sat*) or असत् (*asat*). The Hindu continuum therefore distinguishes **दैवी माया (*daivī māyā*)**, which serves radiance and protection, from **आसुरी माया (*āsurī māyā*)**, which serves concealment and deformation.[NOTE: rigveda-1-11-7-maya-mayin]
 
 The वेदान्तसार (*Vedāntasāra*) gives two names to the asuric procedure. **आवरण (*āvaraṇa*)** conceals what remains present. **विक्षेप (*vikṣepa*)** projects something else where the observer should have recognized it. A cloud appears to cover the Sun, although it blocks only the observer's sight. A rope disappears beneath the projected snake.[NOTE: maya-concealment-projection]
 

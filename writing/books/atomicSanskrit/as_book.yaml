@@ -136,7 +136,7 @@ assembly:
     title: "Chapter 8 — The Sounds of the Indian Subcontinent"
   - kind: chapter
     file: manuscript/as_1_09_mapping_mouth.md
-    title: "Chapter 9 — The Varṇamālā: The Sonomeric Grid"
+    title: "Chapter 9 — The वर्णमाला (*Varṇamālā*): The Sonomeric Grid"
 
   - kind: part
     file: manuscript/as_part_04_atomic_architecture.md

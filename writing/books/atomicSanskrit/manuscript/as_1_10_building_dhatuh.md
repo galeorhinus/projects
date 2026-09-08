@@ -10,6 +10,8 @@
 > *alpākṣaram asaṃdigdhaṃ sāravad viśvatomukham |*\
 > *astobham anavadyaṃ ca sūtraṃ sūtravido viduḥ ||*
 >
+> Those who know the सूत्र (*sūtra*) recognize it as concise, unambiguous, essence-bearing, facing every direction, without padding, and faultless.
+>
 > `\hfill`{=latex}*— sūtra-lakṣaṇa*[NOTE: sutra-laksana-six-criteria]
 
 :::

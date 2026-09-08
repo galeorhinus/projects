@@ -8,6 +8,8 @@
 > *yat tvā sūrya svarbhānus tamasāvidhyad āsuraḥ |*
 > *akṣetravid yathā mugdho bhuvanāny adīdhayuḥ ||*
 >
+> When Svarbhānu, the *a-sura*, pierced you, O Sūrya, with darkness, the worlds looked about bewildered, like one who no longer knew the field.
+>
 > `\hfill`{=latex}*— Ṛgveda 5.40.5*
 
 :::
@@ -16,7 +18,7 @@
 
 The Sun has been eclipsed.
 
-The Vedic mantra above describes what the eclipse does to the observer.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] **स्वर्भानु (*Svarbhānu*)**, the **अ-सुर (*a-sura*)**, pierces **सूर्य (*Sūrya*)** with darkness. The Sun remains present, but the worlds lose their bearings. The verse calls this condition **अक्षेत्रवित् (*akṣetravit*)**: the observer can no longer discern what lies before him.
+Svarbhānu's darkness does not remove सूर्य (*Sūrya*). It leaves the worlds unable to find their bearings.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] The verse calls this condition **अक्षेत्रवित् (*akṣetravit*)**: the observer can no longer discern what lies before him.
 
 Sanskrit stands before the modern world as Sūrya stood during the eclipse. Its radiant and generative architecture remains intact, but something obstructs the world's view of it.
 

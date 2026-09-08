@@ -22,7 +22,7 @@
 
 Chapter 8 established the subcontinental superset. This chapter follows the Vedic sieve. Sanskrit selects consonantal sounds from that larger inventory as sonances. It then promotes the reusable sonances to sonomers and assigns each one a grid address. The vowels receive their own address system.
 
-The chapter's epigraph provides the image that guides this section. It compares the formation of Speech to cleaning grain through a sieve. The wise begin with the sounds the mouth can produce. They refine those sounds with the mind and select the sound-particles that Speech can use reliably. The verb **अक्रत (*akrata*)** states what they did: they *formed* **वाचम् (*vācam*)**, Speech. It is a finite plural verb generated from the dhātu ⟪कृ⟫ (*kṛ*). The वर्णमाला (*varṇamālā*) arranges the selected sonomers in an ordered grid.
+Ṛgveda 10.71.2 compares the formation of Speech to grain being cleaned through a sieve. The wise begin with the sounds the mouth can produce. They refine those sounds with the mind and select the sound-particles that Speech can use reliably. The verb **अक्रत (*akrata*)** states what they did: they *formed* **वाचम् (*vācam*)**, Speech. It is a finite plural verb generated from the dhātu ⟪कृ⟫ (*kṛ*). The वर्णमाला (*varṇamālā*) arranges the selected sonomers in an ordered grid.
 
 The second half adds radiance. Friends recognize friendship in that formed Speech. In separated form, the final pāda says **भद्रा एषां लक्ष्मीः (*bhadrā eṣāṃ lakṣmīḥ*)** is placed **अधि वाचि (*adhi vāci*)** — in Speech: auspicious radiance, the beauty through which order expresses itself. This is the **दिव्यता (*divyatā*)** layer. The verse moves from engineering to radiance.
 

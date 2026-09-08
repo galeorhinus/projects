@@ -6,6 +6,8 @@
 >
 > *ṛṭuraṣāṇāṃ mūrdhā.*
 >
+> The roof of the mouth is where ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*) are articulated.
+>
 > `\hfill`{=latex}*— Siddhāntakaumudī, on Aṣṭādhyāyī 1.1.9*[NOTE: rturasanam-murdha-shiksha]
 
 :::
@@ -28,7 +30,7 @@ We can now test the pyramid's portability thesis against the route it assigns to
 
 ## 17.1 The Mouth: मूर्धन्य (*Mūrdhanya*)
 
-The सिद्धान्तकौमुदी (*Siddhāntakaumudī*) explanation of Pāṇini 1.1.9 points to the location in the mouth: **मूर्धा (*mūrdhā*)** — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha] In ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex.
+The सिद्धान्तकौमुदी (*Siddhāntakaumudī*) explanation of Pāṇini 1.1.9 compresses this anatomical map into a single line.[NOTE: rturasanam-murdha-shiksha] In ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex.
 
 The *Ṛgveda* opens with **अग्निमीळे (*agnim īḷe*)**. The verb ईळे (*īḷe*) contains **ळ**, a retroflex lateral.
 
