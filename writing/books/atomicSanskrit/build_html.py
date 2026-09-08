@@ -376,8 +376,12 @@ def render_chapter(entry: dict, prev: dict | None, next_: dict | None,
     tmp_md.write_text(processed)
 
     metadata = {
-        "pagetitle": entry["title"],
-        "title": entry["title"],
+        # Stripped, not raw: these reach the <title> element and pandoc's own
+        # $var$ substitution, neither of which can carry markup -- a raw
+        # "*Vākyam*" showed its asterisks in the browser tab and, until the
+        # {{CHAPTERTITLE_HTML}} splice below, in the page's own <h1>.
+        "pagetitle": _strip_md_emphasis(entry["title"]),
+        "title": _strip_md_emphasis(entry["title"]),
         "booktitle": book_title,
         "site_base": URL_BASE,
         **build_meta,
@@ -407,6 +411,14 @@ def render_chapter(entry: dict, prev: dict | None, next_: dict | None,
         html_text = html_text.replace("{{PREVTITLE_HTML}}", _md_inline_to_html(prev["title"]))
     if next_:
         html_text = html_text.replace("{{NEXTTITLE_HTML}}", _md_inline_to_html(next_["title"]))
+    # The visible chapter title, with its emphasis rendered. Spliced after
+    # pandoc for the same reason as the nav-card titles above: pandoc
+    # HTML-escapes metadata values, so <em> passed as metadata arrives as
+    # literal &lt;em&gt;. The contents page already did this (render_index
+    # runs titles through the same helper); the chapter's own heading was
+    # the one place still showing the markdown.
+    html_text = html_text.replace("{{CHAPTERTITLE_HTML}}",
+                                  _md_inline_to_html(entry["title"]))
     headings = H2_HEADING_RE.findall(html_text)
     toc_slot = _build_sitebar_toc_html(headings) if headings else ""
     html_text = html_text.replace("<!--CHAPTER-TOC-SLOT-->", toc_slot, 1)
