@@ -36,6 +36,7 @@ Run with:  python3 build_html.py
 import datetime
 import functools
 import hashlib
+import argparse
 import json
 import re
 import shutil
@@ -984,7 +985,13 @@ def render_jacket_copy_variant(variant: dict, build_meta: dict[str, str]) -> Non
     print(f"  rendered  /jacket-copy/{slug}/  (unlisted review page)")
 
 
-def hypothesis_groups_allowlist_json() -> str:
+# Hypothesis's public group. Never in a normal build: an annotation posted
+# there is readable by anyone, with no account and no token, and this is an
+# unpublished manuscript behind an OAuth gate.
+PUBLIC_GROUP_ID = "__world__"
+
+
+def hypothesis_groups_allowlist_json(include_public: bool = False) -> str:
     """JSON-array string of every Hypothesis group id referenced anywhere
     in the invite roster, for the <!--GROUPS-ALLOWLIST--> placeholder in
     templates/html_chapter.html, html_essay.html, and landing.html.
@@ -1022,10 +1029,18 @@ def hypothesis_groups_allowlist_json() -> str:
             m = re.search(r"/groups/([^/?#]+)", (g.get("url") or ""))
             if m:
                 ids.add(m.group(1))
-    return json.dumps(sorted(ids))
+    allowlist = sorted(ids)
+    if include_public:
+        # Public last on purpose. The client picks the reader's own group when
+        # they belong to one, but if any build of it ever falls back to the
+        # first entry, the first entry should not be the group the whole
+        # internet can read. Config cannot pin the selected group, so ordering
+        # is the only lever here -- see the flag's help text.
+        allowlist.append(PUBLIC_GROUP_ID)
+    return json.dumps(allowlist)
 
 
-def apply_groups_allowlist(out_dir: Path) -> None:
+def apply_groups_allowlist(out_dir: Path, include_public: bool = False) -> None:
     """Sweep every rendered .html file under out_dir once, replacing the
     <!--GROUPS-ALLOWLIST--> placeholder with the current roster's group
     ids. Run once at the end of main() rather than threaded through every
@@ -1035,7 +1050,7 @@ def apply_groups_allowlist(out_dir: Path) -> None:
     itself makes an unresolved instance easy to catch (grep -rl
     '<!--GROUPS-ALLOWLIST-->' build/html/ should find nothing after this
     runs)."""
-    allowlist_json = hypothesis_groups_allowlist_json()
+    allowlist_json = hypothesis_groups_allowlist_json(include_public)
     n = 0
     for path in out_dir.rglob("*.html"):
         text = path.read_text(encoding="utf-8")
@@ -1044,6 +1059,11 @@ def apply_groups_allowlist(out_dir: Path) -> None:
         path.write_text(text.replace("<!--GROUPS-ALLOWLIST-->", allowlist_json), encoding="utf-8")
         n += 1
     print(f"  applied groupsAllowlist ({allowlist_json}) to {n} page(s)")
+    if include_public:
+        print("  ** Public (__world__) is in this build's allowlist. Readers can")
+        print("     select it, and anything posted there is world-readable with no")
+        print("     account. Rebuild without --include-public-group before deploying")
+        print("     anything you intend to keep gated.")
 
 
 def render_404() -> None:
@@ -1056,6 +1076,19 @@ def render_404() -> None:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--include-public-group", action="store_true",
+        help="add Hypothesis's public group (__world__) to groupsAllowlist so "
+             "the sidebar's group picker offers it. Off by default, and every "
+             "ordinary build regenerates the allowlist without it, so this "
+             "cannot persist by accident -- it exists only in a build made with "
+             "the flag. Use it to read a thread a reader posted publicly, then "
+             "rebuild without it. Note the client chooses which group is "
+             "SELECTED; no config here pins that, so check the picker rather "
+             "than assuming the reader's own group stays current.")
+    args = parser.parse_args()
+
     if HTML_OUT.exists():
         shutil.rmtree(HTML_OUT)
     HTML_OUT.mkdir(parents=True)
@@ -1149,7 +1182,7 @@ def main() -> int:
     copy_static()
 
     print()
-    apply_groups_allowlist(HTML_OUT)
+    apply_groups_allowlist(HTML_OUT, args.include_public_group)
 
     print()
     print(f"Done → {HTML_OUT.relative_to(BOOK_DIR)}")
