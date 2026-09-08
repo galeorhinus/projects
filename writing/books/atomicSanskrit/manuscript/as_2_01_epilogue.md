@@ -48,29 +48,29 @@ The same distinction appears at the scale of language. Calibration preserves a g
 
 Codification is petrification.
 
-Anyone may leave the pyramid's service. Because *āryatva* can be learned, the church of progress can still learn what every codifier failed to understand. But *āryatva* must be earned; no one can simply hand it over.
+Anyone may leave the pyramid's service. Because आर्यत्व (*āryatva*) can be learned, the church of progress can still learn what every codifier failed to understand. But *āryatva* must be earned; no one can simply hand it over.
 
 The institutions that built pyramids around knowledge can still learn from a civilization that distributed knowledge without making an apex its master.
 
 Hebrew, Quranic Arabic, ecclesiastical Latin, Greek, Tibetan, and the other learned languages that the church of progress places under codification all demonstrate the same limit. Authority can keep a bounded form stable while ordinary speech continues changing. The Vedas and Sanskrit demonstrate another principle. Sanskrit's generative architecture allows the language to remain invariant while its speakers respond to every change in the world. When they encounter something new, the लौकिक (*laukika*) domain allows them to derive a new word from the standing atoms. The usage adapts; the language remains invariant.
 
-A decentralized swastika system preserved that calibrant across thousands of years. The *Prātiśākhya*, *Śikṣā*, *Chandas*, *Vyākaraṇam*, the *pāṭhas*, the *Dhātupāṭha*, the *guru-shishya* lineage-chain, and the wider transmission network divided the work. No central office controlled them. No pope of pronunciation stood above them, and no institution could take the language hostage.
+A decentralized swastika system preserved that calibrant across thousands of years. The प्रातिशाख्य (*Prātiśākhya*), शिक्षा (*Śikṣā*), छन्दस् (*Chandas*), व्याकरणम् (*Vyākaraṇam*), the पाठाः (*pāṭhāḥ*), the धातुपाठ (*Dhātupāṭha*), the *guru-shishya* lineage-chain, and the wider transmission network divided the work. No central office controlled them. No pope of pronunciation stood above them, and no institution could take the language hostage.
 
 The limits of codification and the survival of Sanskrit prove the same point from opposite sides: pyramids can enforce for a time; swastika systems sustain.
 
-If the pyramid changes how it distributes authority, directs knowledge, and treats correction, that change would not be surrender. It would be *prāyaścitta* expressed through conduct.
+If the pyramid changes how it distributes authority, directs knowledge, and treats correction, that change would not be surrender. It would be प्रायश्चित्त (*prāyaścitta*) expressed through conduct.
 
 Like Svarbhānu, the pyramid reached for what belonged to the radiant. Its apex directed two centuries of accumulated scholarship toward burying Sanskrit beneath PIE. Scholars collected cognates, compared sound changes, compiled dictionaries, indexed inscriptions, and assembled an enormous searchable record of Sanskrit's reflections.
 
 **That is the nectar.**
 
-The materials required to recover it already exist. Western etymological dictionaries contain thousands of starred reconstructions. The *Dhātupāṭha* contains more than two thousand recorded Sanskrit atoms, each transmitted with its sound, accent, and range of meanings. One inventory contains hypothetical ancestors. The other contains the recorded atoms and generated families that the hypothetical ancestors were created to explain.
+The materials required to recover it already exist. Western etymological dictionaries contain thousands of starred reconstructions. The धातुपाठ (*Dhātupāṭha*) contains more than two thousand recorded Sanskrit atoms, each transmitted with its sound, accent, and range of meanings. One inventory contains hypothetical ancestors. The other contains the recorded atoms and generated families that the hypothetical ancestors were created to explain.
 
 Place those inventories beside one another. For each family, ask whether a Sanskrit atom and its generated words explain the recorded evidence more directly than the starred reconstruction. Follow the meanings and identify every sound that was added, moved, changed, or lost. Publish the strong results together with the weak cases and unresolved problems.
 
 Chapter 19 §19.7 introduces this method through **युज् (*yuj*)** and the operator **अप (*apa*)**. Appendix Part 1 §1.5 sets out a reusable research method and applies it to seven Sanskrit atoms. Section 1.6 extends the same method to Sanskrit operators.
 
-Indian universities can organize the larger investigation as the **Sanskrit Radiance Mapping Project**. Sanskrit departments can supply the *Dhātupāṭha*, the operators, the Vedic evidence, and the methods of *vyutpatti*. Scholars of Greek, Latin, Persian, and other receiving languages can provide their recorded word families. Computational linguists can test whether the same transformations recur across hundreds and eventually thousands of cases.
+Indian universities can organize the larger investigation as the **Sanskrit Radiance Mapping Project**. Sanskrit departments can supply the धातुपाठ (*Dhātupāṭha*), the operators, the Vedic evidence, and the methods of *vyutpatti*. Scholars of Greek, Latin, Persian, and other receiving languages can provide their recorded word families. Computational linguists can test whether the same transformations recur across hundreds and eventually thousands of cases.
 
 Such an investigation can map two different relationships: languages that remained in Sanskrit's orbit and languages that preserve reflections of its outward radiance.
 
@@ -82,7 +82,7 @@ The argument leads to a contest between two architectures of order.
 
 The asuric architecture builds pyramids: apex authority, controlled doctrine, captured institutions, extracted labor, managed origins, and narratives that subordinate the base to the top. Its apex seats a single figure; he shares power with no one and bends the base toward himself. It uses **तमस् (*tamas*)**: obscurity, inertia, concealment.
 
-The dharmic architecture distributes authority: *apauruṣeya* text without apex-author, teacher-student lineage across generations, *śāstrārtha* before witnesses, recitation verified by audience, knowledge transmitted by discipline rather than decree. No one sits at its peak; there is no peak to sit. When *Sanātan* pictures the power that sustains such an order, it pictures **शक्ति (*Śakti*)** — and she is not enthroned. Her power is distributed, which is exactly why no apex can seize it and no patriarch can seize it. It expresses **सत्त्व (*sattva*)**: clarity, balance, illumination.
+The dharmic architecture distributes authority: अपौरुषेय (*apauruṣeya*) text without apex-author, teacher-student lineage across generations, शास्त्रार्थ (*śāstrārtha*) before witnesses, recitation verified by audience, knowledge transmitted by discipline rather than decree. No one sits at its peak; there is no peak to sit. When *Sanātan* pictures the power that sustains such an order, it pictures **शक्ति (*Śakti*)** — and she is not enthroned. Her power is distributed, which is exactly why no apex can seize it and no patriarch can seize it. It expresses **सत्त्व (*sattva*)**: clarity, balance, illumination.
 
 The claim is not that Sanskrit came first, because priority is not the controlling point: priority arguments accept the pyramid's own logic — first means foundational, foundational means authoritative, authoritative means control.
 
@@ -90,7 +90,7 @@ The dharmic claim is different. *Sanātan* preserves a civilizational architectu
 
 The standard is **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but all life toward which dharma must remain responsible. Here **सत् (*sat*)** and *lokakṣema* meet. Truth is not domination by a doctrine. Truth is alignment with the welfare of beings.
 
-The book has followed this battle across four scales. At the cosmic scale, *sat* and the *ṛta* order confront orders built from *asat*. At the scale of action, *daivī māyā* turns power toward radiance, protection, and release. *Āsurī māyā* turns power toward concealment, projection, and containment. Human beings reproduce the choice through *saṃskṛti* and the pyramid. At the linguistic scale, the pyramid conceals Sanskrit's created architecture, projects botanical drift and PIE in its place, and uses the Racial Arya Thesis to separate that architecture from India.
+The book has followed this battle across four scales. At the cosmic scale, *sat* and the ऋत (*ṛta*) order confront orders built from *asat*. At the scale of action, दैवी माया (*daivī māyā*) turns power toward radiance, protection, and release. आसुरी माया (*āsurī māyā*) turns power toward concealment, projection, and containment. Human beings reproduce the choice through संस्कृति (*saṃskṛti*) and the pyramid. At the linguistic scale, the pyramid conceals Sanskrit's created architecture, projects botanical drift and PIE in its place, and uses the Racial Arya Thesis to separate that architecture from India.
 
 These are two fractals meeting at different scales. The swastika repeats created order without an apex. The pyramid repeats containment beneath an apex.
 
@@ -100,17 +100,17 @@ The asuric formation cannot make that call because its entire history relies on 
 
 The architecture remains.
 
-Sanskrit's selected sounds, semantic atoms, scaffolds, and grammatical bonds demonstrate the internal engineering of the language. The complementary permissions of the *vaidika* and *laukika* domains keep the language invariant while leaving it open to new expression.
+Sanskrit's selected sounds, semantic atoms, scaffolds, and grammatical bonds demonstrate the internal engineering of the language. The complementary permissions of the वैदिक (*vaidika*) and लौकिक (*laukika*) domains keep the language invariant while leaving it open to new expression.
 
 The greater engineering feat appears in the Vedas, recitation systems, analytical disciplines, and transmission lineages. Together they have kept Sanskrit calibrated against unintended entropy and deliberate asuric attack for thousands of years. The system remains alive and continues to carry the evidence of its own endurance.
 
 These facts establish the book's central conclusions. The Vedas already contain the complete language architecture that Pāṇini later documented. Pāṇini stands within that continuity, and his decoding provides its finest documentation. Sanskrit retains the complete calibrant architecture, and its radiance reached several languages, including Greek and Latin. Those languages continue to preserve partial reflections of that architecture.
 
-The pyramid used false categorization as its weapon. It recast the sonomer as a letter, the *dhātuḥ* as a root, the Vedic domain as an archaic language, Pāṇini's documentation as the codification myth, aural engineering as oral tradition, and Sanskrit as a daughter language. Once those substitutions fall away, the reader can trace Sanskrit from the movement of the mouth to the civilizational order that kept the language alive.
+The pyramid used false categorization as its weapon. It recast the sonomer as a letter, the धातुः (*dhātuḥ*) as a root, the Vedic domain as an archaic language, Pāṇini's documentation as the codification myth, aural engineering as oral tradition, and Sanskrit as a daughter language. Once those substitutions fall away, the reader can trace Sanskrit from the movement of the mouth to the civilizational order that kept the language alive.
 
 The appendices carry the deeper demonstrations. *Baking the Mother Tongue* traces PIE's manufacture through the Pune-Calcutta-Oxford-Göttingen pipeline. *The Encyclopaedic Confirmation* documents Deccan College's post-independence choice to read Sanskrit through the OED's historical principles rather than through its own analytical disciplines. *The Sonomer and the Audiograph* dismantles the Brāhmī-from-Aramaic story and adds the architectural level that conventional script categories leave unnamed. *The Language Factory* tests the thesis by construction: selected Sanskrit operations continue to generate analyzable forms after a consistent remapping into another sound inventory. One argument runs through all four: the asuric formation displaced the dharmic architecture from recognition and told the world the story upside down.
 
-That fight extends beyond the academy. A civilization taught to regard itself as derivative will hesitate to call the world toward *āryatva*. It must first recognize the architecture that gives the call its meaning.
+That fight extends beyond the academy. A civilization taught to regard itself as derivative will hesitate to call the world toward आर्यत्व (*āryatva*). It must first recognize the architecture that gives the call its meaning.
 
 ## The Invitation
 
@@ -134,7 +134,7 @@ The pyramid makes containment into an architecture. It concentrates control at a
 
 The two phrases describe the same work from opposite directions. To make the world *ārya*, the formations that suppress *āryatva* must be defeated. To defeat the *arāvṇaḥ* — the ungiving, those who hoard rather than release — the speaker must embody *āryatva*, not merely claim it.
 
-The call is conditional: it cannot be made by anyone who wants the prestige without the discipline, only by those who have re-learned the architecture — the sound, the recitation, the calibrant discipline, the *vyākaraṇam*, the restraint, the conduct.
+The call is conditional: it cannot be made by anyone who wants the prestige without the discipline, only by those who have re-learned the architecture — the sound, the recitation, the calibrant discipline, the व्याकरणम् (*vyākaraṇam*), the restraint, the conduct.
 
 *Āryatva* is desirable because it is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
 
@@ -172,7 +172,7 @@ The invitation therefore goes outward to every civilization Sanskrit touched. To
 
 India must not replicate the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech communities have been treated as lesser. The long attempt to classify Konkani as a dialect of Marathi, and the resistance that established it as a language in its own right, preserve the memory of that pressure.[NOTE: konkani-marathi-language-pressure] The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is subordinated to a single authorized standard.
 
-Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be preserved with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin or failure; it is life. **The danger is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was preserved as a calibrant, not imposed by an empire as the language of ordinary life. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
+Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be preserved with rigor; the living languages must be allowed to flow. प्राकृतिक (*Prākṛtika*) speech is not sin or failure; it is life. **The danger is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was preserved as a calibrant, not imposed by an empire as the language of ordinary life. India's internal reform begins there: preserve Sanskrit with seriousness, let the भाषाः (*bhāṣāḥ*) flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 
 The warning has a name from the argument's own map: petrification. State academies and school boards that monitor classroom usage and decree right and wrong Marathi, Hindi, Bengali are freezing living tongues into codified standards — a small Académie, a small frozen apex, for every language: the pyramid's move, imported and self-inflicted. India stayed a calibrant culture for thousands of years by the opposite arrangement — one calibrant, and dozens of languages alive beneath its radiance, free to vary, drift, and combine. Abandon the petrification culture; keep Sanskrit as the lone calibrant; let the languages live. The enemy is the apex, not the teaching of a language well. The living diversity of India's languages is the standing disproof of the racial Arya thesis — the freeze would destroy the evidence no invader ever could.
 
@@ -206,7 +206,7 @@ The work is becoming capable of uttering *kṛṇvanto viśvam āryam* truthfull
 
 The asuric formation tried to silence the call by telling the world that *Sanātan* — that Sanskrit itself — was secondary. The preceding chapters make the opposite case: the civilization is not secondary, and people still preserve, teach, and use the calibrant.
 
-Two *created* fractals have stood in the argument since the beginning: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The argument has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, the codification myth — a language supposedly frozen by grammar and fixed by rule. The true category returns. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture preserved for *bhūta-hitam*.
+Two *created* fractals have stood in the argument since the beginning: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The argument has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, प्रकृति (*prakṛti*) — a plant, a branch, a descendant; after Pāṇini, the codification myth — a language supposedly frozen by grammar and fixed by rule. The true category returns. Sanskrit is संस्कृति (*saṃskṛti*): engineered recurrence, measured sound, disciplined memory, self-correction, and architecture preserved for *bhūta-hitam*.
 
 The pyramid tried to bury Sanskrit under nature, then to freeze it under the codification myth, then to suspend it beneath PIE — three moves serving one motive: prevent the world from seeing a distributed calibrant architecture that needs no apex. The motive failed. Sanskrit lives. The imaginary ancestor does not.
 
@@ -226,7 +226,7 @@ The final turn therefore asks Vāc herself to nourish the work:
 >
 > The devas generated divine Speech; animals of every form speak her. May Vāc, well-praised, come to us like a milk-cow, gladdening us and yielding refreshment and strength.[NOTE: rigveda-8-100-11-vak-blessing]
 
-The invitation is not to compose new *śruti*. It is to become capable of recognizing what Vāc has already revealed, applying that architecture in the present, and allowing Speech to nourish the next civilizational act.
+The invitation is not to compose new श्रुति (*śruti*). It is to become capable of recognizing what Vāc has already revealed, applying that architecture in the present, and allowing Speech to nourish the next civilizational act.
 
 The Sun has been found.
 

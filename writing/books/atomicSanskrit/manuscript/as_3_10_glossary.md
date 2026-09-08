@@ -79,7 +79,7 @@ This index records the book's new words and coined technical phrases. Their defi
 
 ### **मात्रा (*mātrā*)**
 
-**Standard.** A unit of duration. A short vowel occupies one मात्रा (*mātrā*), a long vowel two, and a prolonged vowel three. A consonant contributes a half-मात्रा (*mātrā*) event. Chapters 9 and 10 use these durations to measure अक्षराणि (*akṣarāṇi*) and atomic scaffolds.
+**Standard.** A unit of duration. A short vowel occupies one मात्रा (*mātrā*), a long vowel two, and a prolonged vowel three. A consonant contributes a half-*mātrā* event. Chapters 9 and 10 use these durations to measure अक्षराणि (*akṣarāṇi*) and atomic scaffolds.
 
 ### **स्थान (*sthāna*)** / **प्रयत्न (*prayatna*)** / **स्पर्श (*sparśa*)**
 

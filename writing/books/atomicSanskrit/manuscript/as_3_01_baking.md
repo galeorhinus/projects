@@ -90,7 +90,7 @@ Indian teachers had given European philologists access to roughly two thousand S
 
 In Sanskrit's own analysis, an अपशब्द (*apaśabda*) follows the शब्द (*śabda*) from which it changed (Chapter 6 §§6.2–6.4; Chapter 19 §19.7). PIE commits the fraud by reversing that direction and presenting the altered form as the ancestor.
 
-## 1.5 Recipe After Recipe — The Dhātu Cluster Evidence
+## 1.5 Recipe After Recipe — The धातुः (*Dhātuḥ*) Cluster Evidence
 
 Modern dictionaries and etymological references still carry the recipe by routing related words through PIE. The seven cases compare that account with Sanskrit's own architecture. Sanskrit begins with a recorded semantic atom and generates families of words from it. PIE reconstruction begins with recorded words in several languages, constructs a starred form from their similarities, and places that form above the Sanskrit atom.
 

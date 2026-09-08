@@ -110,9 +110,9 @@ These timings give every धातुः (*dhātuḥ*) a measurable construction
 
 The hexagon visualization turns that timing into width: consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
 
-![Figure 10.1 — Ten धातवः (*dhātavaḥ*) across the मात्रा (*mātrā*) envelope, from the 1-मात्रा (*mātrā*) floor to the 5½-मात्रा (*mātrā*) cliff.](figures/building_dhatuh/matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=100%}
+![Figure 10.1 — Ten धातवः (*dhātavaḥ*) across the मात्रा (*mātrā*) envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/building_dhatuh/matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=100%}
 
-Figure 10.1 begins with ⟪ऋ⟫ (*ṛ*), the minimum atom: a bare short vowel from which ऋषि (*ṛṣi*) and ऋत (*ṛta*) descend. ⟪कृ⟫ (*kṛ*) adds one consonant; ⟪गम्⟫ (*gam*) shows the modal 2-मात्रा (*mātrā*) envelope; ⟪धा⟫ (*dhā*) and ⟪वाच्⟫ (*vāc*) show the middle of the मात्रा (*mātrā*) envelope; ⟪स्वाद्⟫ (*svād*), ⟪बाधृ⟫ (*bādhṛ*), ⟪कुमार्⟫ (*kumār*), ⟪दीपी⟫ (*dīpī*), and ⟪ह्लादी⟫ (*hlādī*) show the upper slope toward the cliff.
+Figure 10.1 begins with ⟪ऋ⟫ (*ṛ*), the minimum atom: a bare short vowel from which ऋषि (*ṛṣi*) and ऋत (*ṛta*) descend. ⟪कृ⟫ (*kṛ*) adds one consonant; ⟪गम्⟫ (*gam*) shows the modal 2-*mātrā* envelope; ⟪धा⟫ (*dhā*) and ⟪वाच्⟫ (*vāc*) show the middle of the मात्रा (*mātrā*) envelope; ⟪स्वाद्⟫ (*svād*), ⟪बाधृ⟫ (*bādhṛ*), ⟪कुमार्⟫ (*kumār*), ⟪दीपी⟫ (*dīpī*), and ⟪ह्लादी⟫ (*hlādī*) show the upper slope toward the cliff.
 
 A धातुः (*dhātuḥ*) is built from timed sonomers. The shape of the atom is its मात्रा (*mātrā*) envelope. That envelope is the timing boundary inside which construction must happen.
 
@@ -161,7 +161,7 @@ Sonomer count gives only one dimension of size because different sound combinati
 
 ![Figure 10.4 — Distribution of the 2,168 धातवः (*dhātavaḥ*) across मात्रा (*mātrā*) values.](figures/building_dhatuh/matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=100%}
 
-The timing distribution concentrates even more strongly. The 2-मात्रा (*mātrā*) envelope alone contains **998 entries, or 46.0%** of the inventory. Including the 2½-मात्रा (*mātrā*) atoms raises the coverage above **78%**. By 3 मात्राः (*mātrāḥ*), the cumulative share reaches **94%**. Every value from 4 मात्राः (*mātrāḥ*) onward together accounts for less than **3%**.
+The timing distribution concentrates even more strongly. The 2-*mātrā* envelope alone contains **998 entries, or 46.0%** of the inventory. Including the 2½-*mātrā* atoms raises the coverage above **78%**. By 3 मात्राः (*mātrāḥ*), the cumulative share reaches **94%**. Every value from 4 मात्राः (*mātrāḥ*) onward together accounts for less than **3%**.
 
 Both measurements lead to the same conclusion: the inventory concentrates meaning into compact atoms. The धातुः (*dhātuḥ*) passes the first test. It is अल्पाक्षरम् (*alpākṣaram*) at the atomic scale.
 
@@ -197,19 +197,19 @@ After making the atoms compact and organizing them through reusable scaffolds, S
 
 **असंदिग्धम् (*asaṃdigdham*)** describes this requirement: each atom must remain clear, unambiguous, and acoustically distinct.
 
-Atoms with the same मात्रा (*mātrā*) budget can distribute their pronunciation time in different ways. A two-मात्रा (*mātrā*) atom can spend the entire duration on one long vowel. It can also divide the same duration among an opening consonant, a short vowel, and a closing consonant. The second arrangement creates an audible beginning, center, and end, giving the ear more information with which to identify the atom.
+Atoms with the same मात्रा (*mātrā*) budget can distribute their pronunciation time in different ways. A two-*mātrā* atom can spend the entire duration on one long vowel. It can also divide the same duration among an opening consonant, a short vowel, and a closing consonant. The second arrangement creates an audible beginning, center, and end, giving the ear more information with which to identify the atom.
 
-Figure 10.6 groups the धातवः (*dhātavaḥ*) by total duration and shows which scaffolds dominate the 2-, 2½-, and 3-मात्रा (*mātrā*) budgets.[NOTE: scaffold-distinguishability-by-matra]
+Figure 10.6 groups the धातवः (*dhātavaḥ*) by total duration and shows which scaffolds dominate the two-, two-and-a-half-, and three-*mātrā* budgets.[NOTE: scaffold-distinguishability-by-matra]
 
 ![Figure 10.6 — Within each मात्रा (*mātrā*) budget, Sanskrit concentrates the inventory in scaffolds with defined consonantal edges.](figures/building_dhatuh/asandigdham_distinguishability_table.svg){#fig:building-dhatuh-asandigdham-distinguishability width=100%}
 
-The 2-मात्रा (*mātrā*) row in Figure 10.6 makes the pattern easiest to see. The गमादि (*gamādi*) scaffold and the bare long-vowel form occupy exactly the same amount of pronunciation time. Yet गमादि (*gamādi*) contains **819 of the 886 atoms** in this budget, while the bare long-vowel form appears only twice. गमादि (*gamādi*) divides the available time among three sonomers and places a consonantal boundary on both sides of the short vowel. The resulting atoms acquire clearer acoustic edges without becoming any longer.
+The two-*mātrā* row in Figure 10.6 makes the pattern easiest to see. The गमादि (*gamādi*) scaffold and the bare long-vowel form occupy exactly the same amount of pronunciation time. Yet गमादि (*gamādi*) contains **819 of the 886 atoms** in this budget, while the bare long-vowel form appears only twice. गमादि (*gamādi*) divides the available time among three sonomers and places a consonantal boundary on both sides of the short vowel. The resulting atoms acquire clearer acoustic edges without becoming any longer.
 
 > *The dominant atom is short, timed, and acoustically edged.*
 
-The 2½-मात्रा (*mātrā*) row shows the same preference in two mirrored shapes. स्पदादि (*spadādi*) places the additional consonantal position before the short vowel, while मन्थादि (*manthādi*) places it after the vowel. Together they contain **412 of the 520 atoms** in this budget, or **79.2%**. Sanskrit uses the additional half-मात्रा (*mātrā*) to create another audible distinction.
+The 2½-*mātrā* row shows the same preference in two mirrored shapes. स्पदादि (*spadādi*) places the additional consonantal position before the short vowel, while मन्थादि (*manthādi*) places it after the vowel. Together they contain **412 of the 520 atoms** in this budget, or **79.2%**. Sanskrit uses the additional half-*mātrā* to create another audible distinction.
 
-The 3-मात्रा (*mātrā*) row extends the pattern. वाचादि (*vācādi*), स्थादि (*sthādi*), and स्पर्धादि (*spardhādi*) together contain **193 of the 231 atoms**, or **83.5%**. These three scaffolds use the available duration to provide either a long-vowel signature or a denser consonantal frame. Across all three timing budgets, Sanskrit uses the available time to give the atom an audible internal structure.
+The three-*mātrā* row extends the pattern. वाचादि (*vācādi*), स्थादि (*sthādi*), and स्पर्धादि (*spardhādi*) together contain **193 of the 231 atoms**, or **83.5%**. These three scaffolds use the available duration to provide either a long-vowel signature or a denser consonantal frame. Across all three timing budgets, Sanskrit uses the available time to give the atom an audible internal structure.
 
 Compactness limits the atom's length, and economy organizes the inventory through reusable scaffolds. असंदिग्धम् (*Asaṃdigdham*) completes the design by keeping the resulting atoms clear to the ear. The धातुः (*dhātuḥ*) therefore passes the third test: it remains small without becoming blurry.
 
@@ -237,7 +237,7 @@ Now listen to **क्षय् (*kṣay*), क्षत् (*kṣat*), क्�
 
 Is that relationship accidental? Or do the sonomers help form the meaning of the धातुः (*dhātuḥ*)?
 
-Sanskrit's grammatical continuum debated this question directly. The debate concerns **वर्णशक्ति (*varṇa-śakti*)**, the semantic power of an individual sonomer. Patañjali's ***Mahābhāṣya*** records one side declaring **अर्थवन्तो वर्णाः (*arthavanto varṇāḥ*)**: the sounds carry meaning. It also records the opposing argument.[NOTE: varnavada-presupposes-engineering]
+Sanskrit's grammatical continuum debated this question directly. The debate concerns **वर्णशक्ति (*varṇa-śakti*)**, the semantic power of an individual sonomer. Patañjali's **महाभाष्य (*Mahābhāṣya*)** records one side declaring **अर्थवन्तो वर्णाः (*arthavanto varṇāḥ*)**: the sounds carry meaning. It also records the opposing argument.[NOTE: varnavada-presupposes-engineering]
 
 The debate itself is significant. Sanskrit's analysts did not stop at words or even at धातवः (*dhātavaḥ*). They examined whether each sonomer inside the atom contributed to its meaning. The continuum understood Sanskrit as an architecture assembled at more than one scale.
 
@@ -365,7 +365,7 @@ The धातुः (*dhātuḥ*) displays the same **लक्षणानि (
 
 The धातुः (*dhātuḥ*) behaves like a सूत्र (*sūtra*) at atomic scale.
 
-### Oṃ at the Smallest Scale
+### ॐ (*Oṃ*) at the Smallest Scale
 
 At the smallest audible scale, the same fractal discipline appears in **ॐ (*oṃ*)**.
 

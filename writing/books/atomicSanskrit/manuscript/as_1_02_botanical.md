@@ -1,4 +1,4 @@
-# Chapter 2 — Category Theft and Āsurī Māyā
+# Chapter 2 — Category Theft and आसुरी माया (*Āsurī Māyā*)
 
 ::: epigraph
 
@@ -224,7 +224,7 @@ Comparative philology was already being assembled before 1857. After overt conve
 
 The attack moved from an attempt to replace Hindu civilizational memory through conversion to an attempt to redirect that memory through education.
 
-## 2.10 Āsurī Māyā: Concealment and Projection
+## 2.10 आसुरी माया (*Āsurī Māyā*): Concealment and Projection
 
 The chapter can now return to its epigraph. The mantra presents power without assigning it automatically to either side. **माया (*māyā*)** can serve ***सत् (*sat*)*** or ***असत् (*asat*)***. Indra defeats the ***मायिन् (*māyin*)*** Śuṣṇa with मायाः (*māyās*) of his own. The Hindu continuum therefore distinguishes **दैवी माया (*daivī māyā*)**, which serves radiance and protection, from **आसुरी माया (*āsurī māyā*)**, which serves concealment and deformation.[NOTE: rigveda-1-11-7-maya-mayin]
 

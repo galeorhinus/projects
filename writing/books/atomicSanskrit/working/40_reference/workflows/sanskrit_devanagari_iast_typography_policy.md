@@ -7,19 +7,35 @@
 
 Devanagari is the primary written form of Sanskrit in this book. IAST allows readers who do not know Devanagari to pronounce and identify the same Sanskrit form. Neither audience should have to surrender access so that the other can read comfortably.
 
-The normal reader-facing form therefore places Devanagari first and IAST immediately afterward:
+When a Sanskrit form needs to be installed or clarified, the reader-facing form places Devanagari first and IAST immediately afterward:
 
 > धातुः (*dhātuḥ*)
 
 Devanagari should appear as a natural part of the prose rather than as a typographic announcement. IAST is the fallback, not the primary display.
 
-## Default Form in Prose
+## Selective Form in Prose
 
-Use Devanagari followed by italic IAST in parentheses whenever an ordinary prose sentence uses a Sanskrit technical term:
+Use Devanagari followed by italic IAST in parentheses when:
 
-> The वेदाः (*vedāḥ*) preserve both the sounds and the grammatical architecture of Sanskrit.
+1. an unfamiliar Sanskrit technical term is introduced;
+2. IAST is likely to mislead an Indian reader about pronunciation;
+3. the exact sound, spelling, inflection, or derivation is part of the evidence;
+4. a term returns after a long gap or begins a section in which it carries substantial weight.
 
-> Each धातुः (*dhātuḥ*) carries a stable semantic capacity.
+The pairing is especially useful for forms in which IAST conventions obscure familiar Indian pronunciation: `c/ch`, `ś/ṣ`, vocalic `ṛ`, retroflex consonants, anusvāra, or dense consonant clusters. Examples include:
+
+- शङ्ख (*śaṅkha*)
+- छन्दस् (*chandas*)
+- प्रातिशाख्य (*Prātiśākhya*)
+- अपभ्रंशः (*apabhraṃśa*)
+
+These are prompts for editorial judgment, not a mechanical trigger. A reader should receive the Devanagari where it solves a real reading problem.
+
+Once a form has been established locally, a familiar or easily read word may continue in IAST or in its conventional Indian or English spelling when repeating the pair would burden the prose. Do not attach Devanagari mechanically to every occurrence. The less familiar and more technically important the word, the stronger the reason to repeat the pair.
+
+> Each धातुः (*dhātuḥ*) carries a stable semantic capacity. Several related *dhātavaḥ* may use the same scaffold.
+
+Avoid unpredictable alternation. Pair a difficult term at its first important use in a section, then let the shorter form run until a new context makes the full pair useful again.
 
 Use regular weight for both forms. Do not bold every Sanskrit term. Reserve bold for a genuine definition, a major installation moment, or deliberate emphasis that the surrounding English would also receive.
 
@@ -67,14 +83,14 @@ That sentence enacts displacement. Neither *root* nor even *atom* substitutes fo
 
 The two rules therefore run independently and simultaneously:
 
-1. Ordinary Sanskrit technical terms appear as Devanagari followed by IAST, on every occurrence, in ordinary prose.
+1. Unfamiliar, pronunciation-sensitive, and evidentiary Sanskrit terms appear as Devanagari followed by IAST at the point where readers need both.
 2. English glosses and equivalents appear only when needed, not on every occurrence.
 3. The 3–6-per-chapter rhythm applies to Sanskrit-English identity pairings such as धातुः (*dhātuḥ*) ↔ atom — not to the Devanagari-IAST script pair.
-4. Between those identity statements, the paired Sanskrit form stands without an English gloss — but still carries its own Devanagari-IAST pair.
+4. Between those identity statements, the Sanskrit term can stand without an English gloss. After a clear local pairing, a familiar term may also stand without its Devanagari being repeated.
 5. English inflection never attaches to either script (see above).
 6. Derivations and keyed graphical systems retain the documented exceptions.
 
-This preserves both goals at once. Devanagari remains primary and accessible on every occurrence. Restored Sanskrit terms still perform their work without being permanently attached to an English explanation.
+This preserves both goals at once. Devanagari remains primary wherever the Sanskrit form needs to be seen, while the prose remains readable after the term has been established. Restored Sanskrit terms still perform their work without being permanently attached to an English explanation.
 
 ## Source Passages
 
@@ -115,6 +131,8 @@ Distinguish an English-facing proper name from an inflected Sanskrit form. Perso
 
 Words already functioning as ordinary English words, such as *yoga, karma,* and *mantra*, may also remain in their familiar English form when their Sanskrit construction is not part of the argument.
 
+Common book vocabulary may receive the same treatment after it has been clearly established. Terms such as *Sanātan, sat, asat, māyā, ārya,* and *sandhi* do not require Devanagari every time merely because they are Sanskrit. Pair them when their exact form or meaning enters the argument; otherwise let the familiar form carry the sentence.
+
 Use the full Devanagari-IAST pair when the written form, pronunciation, derivation, or Sanskrit meaning of any familiar name or borrowed word becomes evidence.
 
 Bibliographic entries, source titles, filenames, identifiers, and exact quotations retain the form required by the source or citation system.
@@ -127,7 +145,7 @@ When a heading is built around a Sanskrit technical term, use the full pair unle
 
 Glossary headwords use Devanagari first and IAST second. Cross-references may use the IAST headword when required for alphabetical sorting, but the displayed entry must retain both forms.
 
-Endnotes follow the prose rule when explaining Sanskrit. Bibliographic citations and quoted source forms follow their source conventions.
+Endnotes follow the same selective rule when explaining Sanskrit. Bibliographic citations and quoted source forms follow their source conventions.
 
 ## Scaffold Icons and Other Graphical Notation
 
@@ -157,13 +175,14 @@ Every figure should remain intelligible when separated from the surrounding page
 
 Before formatting a Sanskrit form, ask:
 
-1. Is this an ordinary Sanskrit technical term in reader-facing prose? Use Devanagari + IAST.
+1. Is the term unfamiliar, difficult to read in IAST, or important as a Sanskrit form? Use Devanagari + IAST.
 2. Does English grammar need a possessive or plural? Rewrite the English around the paired form.
 3. Is the Sanskrit form itself data inside a derivation, paradigm, or formula? Pair it in the explanation instead of after every token.
-4. Is this a familiar proper name, title, or English borrowing? Use the familiar form unless its Sanskrit construction is evidence.
-5. Is an established icon or symbol already carrying identity inside a figure? Install the full pair in the key, then use the notation without needless repetition.
-6. Can a reader who does not know Devanagari still identify and pronounce the form? If not, add IAST in the nearest natural location.
+4. Has the term already been established nearby, and would another full pair interrupt the sentence? Use the shorter established form.
+5. Is this a familiar proper name, title, common book term, or English borrowing? Use the familiar form unless its Sanskrit construction is evidence.
+6. Is an established icon or symbol already carrying identity inside a figure? Install the full pair in the key, then use the notation without needless repetition.
+7. Can a reader who does not know Devanagari still identify and pronounce the form? If not, add IAST in the nearest natural location.
 
 ## Short Rule
 
-> Devanagari leads and IAST keeps the Sanskrit accessible. Pair them in ordinary prose, place English grammar around them, and allow established data and graphical systems to use concise notation after the full form has been identified.
+> Devanagari leads where the Sanskrit form needs to be seen; IAST keeps it accessible. Pair difficult and important forms when readers need both, then allow familiar terms, data, and graphical systems to remain concise.

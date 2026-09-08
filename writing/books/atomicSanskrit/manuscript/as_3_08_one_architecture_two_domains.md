@@ -56,7 +56,7 @@ The Ṛgvedic **ळ [ɭ]** belongs to a narrower scope. The received words fix i
 | उपध्मानीय (*upadhmānīya*) | labial realization of विसर्ग (*visarga*) before **प/फ** | the stated junction generates it | **Restricted** |
 | Ṛgvedic **ळ [ɭ]** | exact sound of received Ṛgvedic words | fixed passage, position, and recitational specification | **Lineage-Bounded** |
 
-### Svara, Chandas, and Exact Recitation
+### स्वर (*Svara*), छन्दस् (*Chandas*), and Exact Recitation
 
 Chapter 16 explains how स्वर (*svara*) and छन्दस् (*chandas*) contribute to grammar, memory, and error detection. The technical record also includes specified विवृत्ति (*vivṛtti*), or hiatus, and ***प्लुत (*pluta*)*** duration. Ṛgveda 10.129.5 preserves two प्लुत (*pluta*) vowels:
 
@@ -96,7 +96,7 @@ The additional **इ (*i*)** gives the Vedic form three syllables: **इ-म-स
 
 ## 8.4 Positional Freedom and Extended Forms
 
-### Floating Upasargas
+### Floating उपसर्गाः (*Upasargāḥ*)
 
 Chapter 16 uses Ṛgveda 1.16.1 to show the separated **आ ... वहन्तु (*ā ... vahantu*)** relation in verse. The Aitareya Brāhmaṇa supplies the technical control: Vedic prose can preserve the same positional freedom even when meter plays no role.
 
@@ -110,7 +110,7 @@ Chapter 16 uses Ṛgveda 1.16.1 to show the separated **आ ... वहन्त�
 
 The prose passage removes meter as the explanation for the separated उपसर्गाः (*upasargāḥ*).[NOTE: aitareya-brahmana-separated-upasargas] The Vedic passage can place other words between each उपसर्गः (*upasargaḥ*) and its atom because the wording, sequence, and interpretation never change. A newly composed laukika sentence must make the same bond clear on its first use, so it keeps the उपसर्गः (*upasargaḥ*) with its atom.
 
-### Extended Vibhakti (Case) Forms
+### Extended विभक्ति (*Vibhakti*) Forms
 
 The वैदिक (*vaidika*) domain offers another engineered variation. For the ***तृतीया बहुवचनम् (*tṛtīyā bahuvacanam*)*** of an ***अकारान्त (*akārānta*)*** word — a word ending in **अ** — the Vedic corpus preserves both **-aiḥ** and the extended **-ebhiḥ**. Thus ***देव (*deva*)*** can appear as ***देवैः (*devaiḥ*)*** or ***देवेभिः (*devebhiḥ*)***, and ***रुद्र (*rudra*)*** as ***रुद्रैः (*rudraiḥ*)*** or ***रुद्रेभिः (*rudrebhiḥ*)***.
 
@@ -318,7 +318,7 @@ In the ***परस्मैपदम् (*parasmaipadam*)***, **भवानि
 
 Vedic स्वर (*svara*) adds grammatical information, but it does not give every लेट् (*leṭ*) form a unique pitch. When two forms remain identical, listeners distinguish them through the surrounding words, sentence structure, sequence, position, and inherited interpretation of the passage.
 
-The formal collision occupies fewer coordinates than the broader functional overlap. लेट् (*Leṭ*) can express desire, intention, urging, or an action approaching realization, while लौकिक (*laukika*) Sanskrit distributes much of that range across लोट् (*loṭ*), लिङ् (*liṅ*), आशीर्लिङ् (*āśīrliṅ*), and लृट् (*lṛṭ*). The Source and Reference Companion compares all eighteen person-number-पद (*pada*) coordinates and records both the exact collisions and the wider semantic overlap.
+The formal collision occupies fewer coordinates than the broader functional overlap. लेट् (*Leṭ*) can express desire, intention, urging, or an action approaching realization, while लौकिक (*laukika*) Sanskrit distributes much of that range across लोट् (*loṭ*), लिङ् (*liṅ*), आशीर्लिङ् (*āśīrliṅ*), and लृट् (*lṛṭ*). The Source and Reference Companion compares all eighteen person-number coordinates across the two पद (*pada*) endings and records both the exact collisions and the wider semantic overlap.
 
 Pāṇini documented the two paradigms after the Vedas had already preserved लेट् (*leṭ*). Comparing those documented paradigms reveals the collision; the *Aṣṭādhyāyī* does not state the two-domain design rationale.
 
@@ -376,7 +376,7 @@ Both पादाः (*pādas*) are transmitted in Triṣṭubh. The Vedic त�
 
 ## 8.7 The Differences at a Glance
 
-### The Small Laukika-Only Extension
+### The Small लौकिक (*Laukika*)-Only Extension
 
 The Vedic domain contains many additional sounds, endings, placements, pitches, and verbal forms, which the preceding sections catalogue in detail. The लौकिक (*laukika*) domain adds far fewer resources of its own because most new composition uses the shared Sanskrit architecture. The four rows below place forms assigned specifically to भाषा (*bhāṣā*) beside corresponding forms in Vedic scope:
 

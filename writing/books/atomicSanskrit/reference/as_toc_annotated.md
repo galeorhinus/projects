@@ -21,7 +21,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 - What Was Eclipsed — *Sanskrit's self-description, its distributed transmission, and the refrain that the Vedas remain its calibrant.*
 - The Pyramid's Clock — *The finite chronology that turns domain into period and architecture into evolution.*
-- The Śaṅkha Sounds — *Atharvaveda 4.10.2 sounds the conch against the dark. The seekers and caretakers stand on one side, the finite apex-order on the other, and the Prologue hands the reader to Chapters 0 and 1.*
+- The शङ्ख (*Śaṅkha*) Sounds — *Atharvaveda 4.10.2 sounds the conch against the dark. The seekers and caretakers stand on one side, the finite apex-order on the other, and the Prologue hands the reader to Chapters 0 and 1.*
 
 ---
 
@@ -50,7 +50,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 *How the shadow is cast: the false categories (descended, botanical, codified), the motive behind them, and the formation that operates the machinery.*
 
-**Chapter 2 — Category Theft and Āsurī Māyā** — *Tests the codification myth against Arabic and Tamil, identifies the Vedas as Sanskrit's distributed calibrant, and then shows how the pyramid concealed that relationship beneath a botanical history and an apex codifier.*
+**Chapter 2 — Category Theft and आसुरी माया (*Āsurī Māyā*)** — *Tests the codification myth against Arabic and Tamil, identifies the Vedas as Sanskrit's distributed calibrant, and then shows how the pyramid concealed that relationship beneath a botanical history and an apex codifier.*
 
 - 2.1 What Codification Cannot Explain — *States the pyramid's claim, tests it through three questions, and identifies the Vedas as the answer the rest of the book will demonstrate.*
 - 2.2 Why Formal Arabic Remained Stable and Tamil Changed — *Formal Arabic remained stable through religious and political authority. Tamil changed despite the* Tolkāppiyam. *Neither case allows grammar alone to explain Sanskrit's invariance.*
@@ -61,7 +61,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 2.7 Three Acts of Category Theft — *Figure 2.2 shows the pyramid moving the two Sanskrit domains into false organic categories and an invented chronology.*
 - 2.8 Decoding, Not Codification — *Pāṇini decoded an existing architecture; heroic erasure praises him as codifier so that the earlier architecture disappears.*
 - 2.9 The War Changed the Attack — *After 1857 forced Britain to retreat from overt conversion, false categories offered another way to separate Hindus from what they had preserved.*
-- 2.10 Āsurī Māyā: Concealment and Projection — *The chapter returns to its epigraph and identifies concealment and projection inside the category theft.*
+- 2.10 आसुरी माया (*Āsurī Māyā*): Concealment and Projection — *The chapter returns to its epigraph and identifies concealment and projection inside the category theft.*
 
 **Chapter 3 — The Pyramid's Motive and Method** — *Asks why the botanical metaphor has not gone. Lethargy and hegemony helped establish it; only strategic necessity accounts for its persistence. The chapter examines the three pillars the metaphor defends, names containment as the method, and uses the Vedas to distinguish action from faction.*
 
@@ -70,7 +70,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 3.3 Enclosure: The Theological Pillar — *The Biblical chronology that anchored nineteenth-century philology, and how the framework accommodated it.*
 - 3.4 Ascent: The Progress Pillar — *The linear-progress teleology: the third and most potent pillar, defended by every contemporary academic regardless of alignment.*
 - 3.5 Containment: The Method — *The defensive structure as pre-emption: the discipline functions to ensure the engineered thesis cannot be formed.*
-- 3.6 Māyā, Asura, and Viveka — *The Ṛgveda uses the sound-form* asura *in praised and hostile contexts without telling us how every occurrence should be divided. The listener must examine purpose and action rather than assign a faction from the word alone.*
+- 3.6 माया (*Māyā*), असुर (*Asura*), and विवेक (*Viveka*) — *The Ṛgveda uses the sound-form* asura *in praised and hostile contexts without telling us how every occurrence should be divided. The listener must examine purpose and action rather than assign a faction from the word alone.*
 - 3.7 Containment and Release in the Veda — *Vṛtra, the Paṇis, Svarbhānu, and Varuṇa show what their power does: some actions obstruct circulation, while others release it.*
 - 3.8 The Battle of Two Fractals — *The swastika distributes and restores circulation; the pyramid encloses and centralizes. The two architectures repeat their forms at different scales.*
 
@@ -142,20 +142,20 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 8.11 Breath Above the Base — *Mahāprāṇa *and* visarga *prepared as breath made structural.*
 - 8.12 What the Comparison Shows — *The region supplies the sounds; Chapter 9 shows the sieve and the grid.*
 
-**Chapter 9 — The Varṇamālā: The Sonomeric Grid** — *Turns the surveyed subcontinental sound inventory into the selected Sanskrit parts-inventory: garland, address space, control panel, breath axis, timed duration, and sound volume — and lifts the Alphabetic shadow.*
+**Chapter 9 — The वर्णमाला (*Varṇamālā*): The Sonomeric Grid** — *Turns the surveyed subcontinental sound inventory into the selected Sanskrit parts-inventory: garland, address space, control panel, breath axis, timed duration, and sound volume — and lifts the Alphabetic shadow.*
 
 - 9.1 The Garland Becomes a Grid — *The Vedic sieve and the* varṇamālā *as Sanskrit's own image of selected sonomers: engineering made radiant.*
 - 9.2 The Four Divisions — *The selected inventory divided into vowels, contact sounds, between-standing sounds, and friction sounds.*
 - 9.3 The Mouth Becomes an Address Space — *Five anatomical places become the horizontal axis of the consonant grid.*
 - 9.4 How Five Places Become Twenty-Five Sounds — *One mouth-place first yields five contact sounds; the same controls then repeat across all five places.*
 - 9.5 The Complete Consonant Grid — *The twenty-five contact sonomers join four between-standing and four friction sonomers, leaving two possible addresses empty.*
-- 9.6 The Akṣara: Nucleus, Contact, and Timing — *The* akṣara *bonds consonants around a vowel, while* mātrā *specifies the duration of each sound.*
-- 9.7 The Svara Address Grid — *The familiar fourteen-form teaching row separated from the nine-family vowel architecture.*
+- 9.6 The अक्षरम् (*Akṣaram*): Nucleus, Contact, and Timing — *The* akṣara *bonds consonants around a vowel, while* mātrā *specifies the duration of each sound.*
+- 9.7 The स्वर (*Svara*) Address Grid — *The familiar fourteen-form teaching row separated from the nine-family vowel architecture.*
 - 9.8 Duration, Pitch, and Nasality — *Nine families unfold into 132 analytically distinguishable realizations without becoming 132 written vowels.*
 - 9.9 The Sound Volume — *The 5×7 consonant plane extruded through the formal 14-position teaching axis.*
 - 9.10 What Earns a Grid Address — *PASS distinguishes addressed sonomers from Restricted, Lineage-Bounded, and Excluded sounds, then explains why the grid keeps a margin.*
 - 9.11 The Vedas as the Pronunciation Calibrant — *Exact recitation preserves the sound standard while ritual and public recitation keep it audible across society.*
-- 9.12 Varṇa Is Not Letter — *The Alphabetic shadow lifted:* varṇa *is a measured sound-particle, the* varṇamālā *a sonomeric grid — not an alphabet of marks. The marks follow; the grid is the engineering.*
+- 9.12 वर्ण (*Varṇa*) Is Not Letter — *The Alphabetic shadow lifted:* varṇa *is a measured sound-particle, the* varṇamālā *a sonomeric grid — not an alphabet of marks. The marks follow; the grid is the engineering.*
 - 9.13 The Grid Orders the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*
 
 ---
@@ -293,7 +293,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 **Appendix Part 1 — Baking the Mother Tongue** *(drafted)* — *The PIE-fabrication appendix. Names the colonial Sanskrit-knowledge enterprise as the data pipeline; Deccan College Pune as the named exemplar; the German neogrammarian project as the bakery in which Sanskrit's* dhātavaḥ *were converted to PIE* apaśabdas. *The cooking/baking cluster supplies the fraud vocabulary;* manufactured *is reserved for Sanskrit's engineering.*
 
-- 1.1 The Documented Conversion Mandate · 1.2 The Institutions That Supplied the Pipeline · 1.3 The Honors and the Choice They Rewarded · 1.4 From Sanskrit Anchor to Imaginary Ancestor · 1.5 Recipe After Recipe — The Dhātu Cluster Evidence · 1.6 Operators in Motion · 1.7 How the Philological Categories Survived Independence
+- 1.1 The Documented Conversion Mandate · 1.2 The Institutions That Supplied the Pipeline · 1.3 The Honors and the Choice They Rewarded · 1.4 From Sanskrit Anchor to Imaginary Ancestor · 1.5 Recipe After Recipe — The धातुः (*Dhātuḥ*) Cluster Evidence · 1.6 Operators in Motion · 1.7 How the Philological Categories Survived Independence
 
 **Appendix Part 2 — The Encyclopaedic Confirmation** *(drafted; analogous to ORL's* Chapter Zero) — *Institutional indictment of the* Encyclopaedic Dictionary of Sanskrit on Historical Principles *(Deccan College, Pune, 1948–present). Indicts the post-independence choice to rubber-stamp the OED's* historical-principles *methodology and deny Sanskrit the engineered-preservation framing the same discipline applied to Hebrew. Closes on the invitation: only the framework has to change.*
 

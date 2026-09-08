@@ -82,7 +82,7 @@ The third pillar is progress, and its function is ascent. It is the strongest pi
 
 Western thought since the *"Enlightenment"* is anchored in a linear, evolutionary teleology. Civilization moves upward: from simple to complex, primitive to advanced, earlier and lesser to later and greater. The teleology needs no religious commitment and no shared politics. Secular and religious, left and right, colonial and post-colonial all participate in it. The only required faith is faith in linear time. Its metric is accumulation: institutions, technologies, scales of organization, counted and arranged as progress.
 
-The Indic civilization preserves another conception of time: the कालचक्र (*kālacakra*)—the wheel of time—which represents a sinusoidal movement where civilizational clarity is not steadily accumulated, but rather recurrently recovered, lost, and recovered again. Because epochs of सत्त्व (*sattva*)—clarity, balance, illumination—inevitably give way to epochs of तमस् (*tamas*)—darkness, inertia, obscurity—the *kālacakra* does not deny change; it simply denies that change is always ascent. It judges an age by the civility and balance a society sustains rather than by the artifacts it accumulates. The progressive metric therefore fails.
+The Indic civilization preserves another conception of time: the कालचक्र (*kālacakra*)—the wheel of time—which represents a sinusoidal movement where civilizational clarity is not steadily accumulated, but rather recurrently recovered, lost, and recovered again. Because epochs of सत्त्व (*sattva*)—clarity, balance, illumination—inevitably give way to epochs of तमस् (*tamas*)—darkness, inertia, obscurity—the कालचक्र (*kālacakra*) does not deny change; it simply denies that change is always ascent. It judges an age by the civility and balance a society sustains rather than by the artifacts it accumulates. The progressive metric therefore fails.
 
 The two frameworks are incompatible accounts of civilizational time, not minor variants of one shape.
 
@@ -132,7 +132,7 @@ The strategy changed with circumstance. When Sanskrit could be treated as dead, 
 
 Sanskrit preserves a created architecture of Sanātan, and *Atomic Sanskrit* examines it. The asuric machinery placed that architecture under intellectual quarantine. The institution that enforces that quarantine is the Fourth Abrahamic Religion.
 
-## 3.6 Māyā, Asura, and Viveka
+## 3.6 माया (*Māyā*), असुर (*Asura*), and विवेक (*Viveka*)
 
 Chapter 2 opened with Indra defeating the मायिन् (*māyin*) Śuṣṇa using his own मायाः (*māyāḥ*). It is *māyā* against *māyā*. Māyā is a power, an instrument available to either side. The purpose for which it is used determines whether the action serves सत् (*sat*) or असत् (*asat*).[NOTE: rigveda-1-11-7-maya-mayin]
 
@@ -140,7 +140,7 @@ The Hindu continuum later calls the two uses **दैवी माया (*daiv�
 
 ### The Obsession With a Word
 
-Sanskrit has two distinct words that share the sound-form ***asura***. One can be analyzed as ***asu-ra***, the bearer of **असु (*asu*)**, life's breath. The other can be divided as ***a-sura***, with the privative ***a-*** placed before ***sura***. The inherited list of semantic atoms includes **⟪सुर्⟫**, with **दीप्ति (*dīpti*)**, shining, among its meanings. The privative formation therefore gives this book its diagnostic name for an actor who turns power against radiance.[NOTE: sura-dhatu-dipti]
+Sanskrit has two distinct words that share the sound-form **असुर (*asura*)**. One can be analyzed as ***asu-ra***, the bearer of **असु (*asu*)**, life's breath. The other can be divided as ***a-sura***, with the privative ***a-*** placed before ***sura***. The inherited list of semantic atoms includes **⟪सुर्⟫**, with **दीप्ति (*dīpti*)**, shining, among its meanings. The privative formation therefore gives this book its diagnostic name for an actor who turns power against radiance.[NOTE: sura-dhatu-dipti]
 
 The Ṛgveda does not tell us which word it uses in every passage. One mantra places the sound-form among actors opposed by the **देवाः (*devāḥ*)**. Another uses the same sound-form while praising a sovereign. The inherited analyses attached to these passages point in different directions.[NOTE: yaska-asura-nirukta][NOTE: samaveda-padapatha-asurasya-split] The context is insufficient to decide which word appears in each case.
 
@@ -172,7 +172,7 @@ The printed Kauthuma Padapāṭha also records *asura* divided as ***a + sura***
 
 The double standard is plain. The same philology accepts thousands of starred PIE forms that appear in no recorded sentence, yet disputes a word that Sanskrit can generate and a Vedic Padapāṭha explicitly divides. Chapter 19 examines that method in full.
 
-### Svarbhānu and Āsurī Māyā
+### Svarbhānu and आसुरी माया (*Āsurī Māyā*)
 
 The possibility of ***a-sura*** gives Svarbhānu's action particular force:
 
@@ -190,7 +190,7 @@ The later vocabulary of *māyā* describes his method precisely. **आवरण 
 
 This book therefore uses ***a-sura*** as the diagnostic name for an antagonist who turns power against radiance. It uses ***asu-ra*** when the life-breath analysis is specifically intended. In quoted Vedic passages, the transmitted *asura* remains unassigned unless the source itself supplies the division.
 
-### Viveka in Every Age
+### विवेक (*Viveka*) in Every Age
 
 Every recitation returns the same words to human breath. The calibrant keeps the evidence unchanged, but it does not replace the listener's judgment. Each generation must exercise **विवेक (*viveka*)**, examine what the actors do, and determine whether their actions serve सत् (*sat*) or असत् (*asat*).
 

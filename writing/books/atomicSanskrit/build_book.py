@@ -113,6 +113,7 @@ LATEX_STRIKEOUT_FILTER = BOOK_DIR / "filters" / "latex-strikeout.lua"
 # cosmetic problem, in two-column mode.
 LATEX_ENDNOTE_TABLES_FILTER = BOOK_DIR / "filters" / "endnote-tables-twocolumn.lua"
 LATEX_SHORT_FIGURE_CAPTIONS_FILTER = BOOK_DIR / "filters" / "latex-short-figure-captions.lua"
+LATEX_BREAKABLE_CODE_FILTER = BOOK_DIR / "filters" / "latex-breakable-code.lua"
 
 # Reuse the existing figure lineage comment writer. The helper lives under
 # figures/_shared, so expose figures/ as an import root for this script.
@@ -246,7 +247,7 @@ LAYOUTS = {
         "fontsize": "10.5pt",
         "linestretch": "1.10",
         "appendix_fontsize": "9.75pt",
-        "appendix__linestretch": "1.05",
+        "appendix_linestretch": "1.05",
         "endnotes_fontsize": "9pt",
         "endnotes_linestretch": "1.0",
         "chapter_folio": False,
@@ -261,6 +262,20 @@ LAYOUTS = {
         "endnotes_linestretch": "1.0",
         "chapter_folio": False,
     },
+    "a5-on-letter": {
+        "geometry": ("paperwidth=8.5in,paperheight=11in,"
+                    "layoutwidth=148mm,layoutheight=210mm,"
+                    # centring: (215.9-148)/2 and (279.4-210)/2
+                    "layouthoffset=33.95mm,layoutvoffset=34.7mm,"
+                    "inner=20mm,outer=10mm,top=15mm,bottom=10mm,showcrop"),
+        "fontsize": "10.5pt",
+        "linestretch": "1.10",
+        "appendix_fontsize": "9.75pt",
+        "endnotes_fontsize": "9pt",
+        "endnotes_linestretch": "1.0",
+        "chapter_folio": False,
+    },
+
     # ~4.5x7.5 text block centered on 8.5x11 — book-page mock-up on letter paper.
     "book-on-letter": {
         "geometry": "paperwidth=8.5in,paperheight=11in,textwidth=4.75in,textheight=8.0in,centering",
@@ -317,6 +332,21 @@ PUBLICATIONS = {
                 # 203pt column: 10pt keeps it near 47 characters.
                 "endnotes_fontsize": "10pt",
                 "endnotes_twocolumn": True,
+            },
+            "a5": { "geometry": "a5paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
+                    "fontsize": "10pt",
+                    "appendix_fontsize": None,
+                    "endnotes_fontsize": None,
+                    "endnotes_twocolumn": False,
+                },
+            "a5-on-letter": { "geometry": ("paperwidth=8.5in,paperheight=11in,"
+                        "layoutwidth=148mm,layoutheight=210mm,"
+                        "layouthoffset=33.95mm,layoutvoffset=34.7mm,"
+                        "inner=20mm,outer=10mm,top=15mm,bottom=10mm,showcrop"),
+                "fontsize": "10pt",
+                "appendix_fontsize": None,
+                "endnotes_fontsize": None,
+                "endnotes_twocolumn": False,
             },
             "a4": { "geometry": "a4paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
                     "fontsize": "11pt",
@@ -2212,6 +2242,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         "--include-before-body", str(BOOK_DIR / "templates" / "review-frontmatter.tex"),
         "--lua-filter", str(LATEX_SHORT_FIGURE_CAPTIONS_FILTER),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
+        "--lua-filter", str(LATEX_BREAKABLE_CODE_FILTER),
         # Layout geometry and fontsize are layout-specific (CLI-driven), so
         # they stay outside YAML.
         "-V", f"geometry:{geometry}",
@@ -2557,6 +2588,7 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         "--pdf-engine=xelatex",
         "--metadata-file", str(REFERENCE_METADATA_FILE),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
+        "--lua-filter", str(LATEX_BREAKABLE_CODE_FILTER),
         *(("--lua-filter", str(LATEX_ENDNOTE_TABLES_FILTER))
           if setting("companion", layout, "endnotes_twocolumn") else ()),
         "-V", f"geometry:{geometry}",
@@ -2636,6 +2668,7 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
         "-o", str(pdf_path),
         "--pdf-engine=xelatex",
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
+        "--lua-filter", str(LATEX_BREAKABLE_CODE_FILTER),
         "-V", f"geometry:{setting('book', layout, 'geometry')}",
         "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),

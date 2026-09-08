@@ -30,7 +30,7 @@ We can now test the pyramid's portability thesis against the route it assigns to
 
 The सिद्धान्तकौमुदी (*Siddhāntakaumudī*) explanation of Pāṇini 1.1.9 points to the location in the mouth: **मूर्धा (*mūrdhā*)** — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha] In ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex.
 
-The *Ṛgveda* opens with **अग्निमीळे (*agnim īḷe*)**. The verb *īḷe* contains **ळ**, a retroflex lateral.
+The *Ṛgveda* opens with **अग्निमीळे (*agnim īḷe*)**. The verb ईळे (*īḷe*) contains **ळ**, a retroflex lateral.
 
 To produce all these sounds, curl the tip of the tongue backward and bring it against the roof of the mouth. This backward curl gives the sound-class its modern descriptive name: *retroflex*. The superior longitudinal muscle helps draw the tongue tip backward.
 

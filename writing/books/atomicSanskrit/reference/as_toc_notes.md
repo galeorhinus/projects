@@ -269,7 +269,7 @@ The survey chapter between the vocal instrument and the Sanskrit grid. It asks w
 
 ---
 
-## Chapter 9 — The Varṇamālā: The Sonomeric Grid
+## Chapter 9 — The वर्णमाला (*Varṇamālā*): The Sonomeric Grid
 
 This chapter turns the surveyed sound-field into Sanskrit's selected parts inventory. It opens with Ṛgveda 10.71.2: Speech sifted like grain, formed by the wise, and made radiant. The chapter then moves from sieve to garland to grid. The *varṇamālā* is not an alphabetic list; it is a selected set of sonomers with addresses, roles, timing, and margins. The garland is Sanskrit's poetic image; the grid is the engineering translation.
 

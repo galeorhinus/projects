@@ -16,7 +16,7 @@ Chapter 9 §9.6 introduced the अक्षर (*akṣara*) as a stable sound-un
 
 ## 3.1 Sonomer First, Audiograph Second
 
-The sonomer has spatial and temporal specifications. Chapters 7 and 8 mapped the vocal apparatus and surveyed the sounds available to it. Chapter 9 then examined Sanskrit's selection. Articulatory coordinates state where and how the body produces a sound. The वर्णमाला (*varṇamālā*) gives each selected sonomer a grid address, while मात्रा (*mātrā*) specifies its duration. A consonant lasts half a मात्रा (*mātrā*); a short vowel lasts one मात्रा (*mātrā*); a long vowel lasts two; and a प्लुत (*pluta*) vowel lasts three. Chapter 10 showed how Sanskrit assembles those timed sonomers into a धातुः (*dhātuḥ*).
+The sonomer has spatial and temporal specifications. Chapters 7 and 8 mapped the vocal apparatus and surveyed the sounds available to it. Chapter 9 then examined Sanskrit's selection. Articulatory coordinates state where and how the body produces a sound. The वर्णमाला (*varṇamālā*) gives each selected sonomer a grid address, while मात्रा (*mātrā*) specifies its duration. A consonant lasts half a *mātrā*; a short vowel lasts one *mātrā*; a long vowel lasts two; and a प्लुत (*pluta*) vowel lasts three. Chapter 10 showed how Sanskrit assembles those timed sonomers into a धातुः (*dhātuḥ*).
 
 The term is stronger than "phoneme." A phoneme is a contrastive unit in modern linguistics. A sonomer is a measured unit of speech production. Sanskrit specifies each sonomer by asking where contact occurs, what the tongue does, how breath leaves the mouth, and how long the sound lasts. The architecture records every answer.
 

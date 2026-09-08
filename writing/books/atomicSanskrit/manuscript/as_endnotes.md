@@ -4583,7 +4583,7 @@ Source: UNESCO World Heritage Centre, “Ellora Caves,” dossier 243, especiall
 
 ### `smrti-as-mnemoniture`
 
-**Short:** ***Smṛti*** (स्मृति, *that which is remembered*) provides the Indic model for ***Mnemoniture***. The category includes the *Itihāsas*, *Purāṇas*, and *Dharmaśāstra* literature. Their stories and distinctions also travel through commentary, performance, regional composition, and retelling without requiring every carrier to reproduce one invariant verbal text.
+**Short:** **स्मृति (*Smṛti*, that which is remembered)** provides the Indic model for ***Mnemoniture***. The category includes the *Itihāsas*, *Purāṇas*, and *Dharmaśāstra* literature. Their stories and distinctions also travel through commentary, performance, regional composition, and retelling without requiring every carrier to reproduce one invariant verbal text.
 
 **Deployments:** Chapter 14 §14.1 ¶ — the citation anchor for the *smṛti* category as the Indic counterpart of the *Mnemoniture* preservation mode.
 
@@ -4633,7 +4633,7 @@ Standard references: *Nāṭyaśāstra* of Bharata. Standard editions: M. Ghosh,
 - unesco-vedic-chanting | exact sound, accent, pronunciation, and recitation techniques
 -->
 
-**Short:** ***Śruti*** (श्रुति, *that which is heard*) provides the Indic model for ***Auditure***. Its strongest directly observable case is the exact recitation of Vedic passages through trained pronunciation, accent, sequence, and multiple recitation paths. The broader *śruti* category also includes Vedic prose and attached texts, but not every surviving member of that wider category retains the same recitational apparatus.
+**Short:** **श्रुति (*Śruti*, that which is heard)** provides the Indic model for ***Auditure***. Its strongest directly observable case is the exact recitation of Vedic passages through trained pronunciation, accent, sequence, and multiple recitation paths. The broader *śruti* category also includes Vedic prose and attached texts, but not every surviving member of that wider category retains the same recitational apparatus.
 
 **Deployments:** Chapter 14 §14.1 ¶ — the citation anchor for the *śruti* category as the Indic counterpart of the *Auditure* preservation mode.
 
@@ -6897,12 +6897,12 @@ The cross-*gaṇa* portion of the *prayoga* audit recomputes the per-*gaṇa* C1
 
 **Deployments:** Chapter 10 opening epigraph — sets the engineering criterion the chapter then checks against the *dhātuḥ*.
 
-#### Padapāṭha (word-separated form)
+#### पदपाठ (*Padapāṭha*): Word-Separated Form
 
 > अल्प-अक्षरम् असंदिग्धम् सारवत् विश्वतोमुखम् ।\
 > अस्तोभम् अनवद्यम् च सूत्रम् सूत्र-विदः विदुः ॥
 
-#### Sandhi-vicched (operations dissolved)
+#### सन्धि-विच्छेद (*Sandhi-viccheda*): Operations Dissolved
 
 - **अल्पाक्षरम्** ← *alpa* + *akṣaram* — compound (*alpa-akṣara*, "few-syllabled"); *savarṇa-dīrgha* sandhi (Aṣṭ. 6.1.101): *a* + *a* → *ā*.
 - **असंदिग्धम्** ← *a-* (negative prefix) + *saṃ-digdham* (past participle of *saṃ-diś*, "to point out / cast doubt"). The anusvāra *ṃ* is the standard nasalization before the dental *d*.
@@ -7080,7 +7080,7 @@ Hebrew and Arabic preserve powerful textual and recitational systems, and Chapte
 > *yas tan na veda kim ṛcā kariṣyati*\
 > *ya it tad vidus ta ime sam āsate ||*
 
-#### Padapāṭha points
+#### पदपाठ (*Padapāṭha*) Points
 
 The padapāṭha splits **यस्तन्न** as **यः । तत् । न ।** and **समासते** as **सम् । आसते**. **सम् आसते** may resonate with the assembly argument, but it should not be overclaimed as the technical grammatical term *samāsa*.
 
@@ -7090,7 +7090,7 @@ The padapāṭha splits **यस्तन्न** as **यः । तत् । 
 
 The translation deliberately keeps both senses of **अक्षर (*akṣara*)** live. The reasons follow, because the choice is contested and consequential.
 
-#### The *akṣara*: imperishable and syllable
+#### The अक्षर (*Akṣara*): Imperishable and Syllable
 
 **अक्षर (*akṣara*)** parses as *a-* (privative) + *kṣara* (perishing, flowing away): literally *the non-perishing, the imperishable*. The same word is the standard Sanskrit term for a syllable or stable vowel-centered unit of articulated sound. Chapter 9 shows that an *akṣara* may itself contain several sonomers. This book therefore does not treat the syllable as acoustically indivisible. It treats the two senses of *akṣara* as conceptually joined: the stable spoken unit and the non-perishing ground named by the same word.
 

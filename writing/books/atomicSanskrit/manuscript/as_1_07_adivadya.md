@@ -26,7 +26,7 @@ One breath passes through three stages: the throat opens, the mouth shapes the t
 
 Designed concision leaves recognizable signs. The form is small and wastes nothing. Its transitions remain clear, its meaning is concentrated, it serves many purposes, and its identity remains stable through time. Oṃ contains all six qualities in a single breath. **Oṃ is architecture in seed form.**
 
-The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this अक्षर (*akṣara*) with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] *Sanātan* captures what persists across time, not simple antiquity. Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole span of time.
+The शास्त्र (*śāstra*) makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this अक्षर (*akṣara*) with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] *Sanātan* captures what persists across time, not simple antiquity. Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole span of time.
 
 ## 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument
 
@@ -114,7 +114,7 @@ The five named स्थान (*sthāna*) are a specific selection from the pos
 
 Alongside स्थान (*sthāna*) is **करण (*karaṇa*)** — the active articulator, the part that moves to make contact. The tongue is the principal करण (*karaṇa*); the lower lip is the करण (*karaṇa*) for labial sounds. स्थान (*Sthāna*) is where contact occurs. करण (*Karaṇa*) is what moves to make it.[NOTE: karana-active-articulator]
 
-Three further systems complete the sound. Each acts as a precise binary switch. **प्राण (*prāṇa*)** manages the breath pressure from the lungs and distinguishes light breath (अल्पप्राण, *alpaprāṇa*) from heavy breath (महाप्राण, *mahāprāṇa*). **घोष (*ghoṣa*)** records whether the vocal cords remain silent (अघोष, *aghoṣa*) or vibrate (घोष, *ghoṣa*). **अनुनासिक (*anunāsika*)** records whether the soft palate drops to open the nasal cavity or rises to close it.
+Three further systems complete the sound. Each acts as a precise binary switch. **प्राण (*prāṇa*)** manages the breath pressure from the lungs and distinguishes light breath, अल्पप्राण (*alpaprāṇa*), from heavy breath, महाप्राण (*mahāprāṇa*). **घोष (*ghoṣa*)** records whether the vocal cords remain silent, अघोष (*aghoṣa*), or vibrate, घोष (*ghoṣa*). **अनुनासिक (*anunāsika*)** records whether the soft palate drops to open the nasal cavity or rises to close it.
 
 Each term designates a physical operation. The vocabulary maps directly onto physiology.
 
@@ -122,7 +122,7 @@ Each term designates a physical operation. The vocabulary maps directly onto phy
 
 The Sanskrit system classifies sound through contact.
 
-Every sound requires a particular degree of contact or opening. The grammatical account identifies five internal efforts. **स्पृष्ट (*spṛṣṭa*)**, fully touched, describes the stops and nasals. **ईषत्स्पृष्ट (*īṣat-spṛṣṭa*)**, slightly touched, describes the *antaḥstha* sounds. **ईषद्विवृत (*īṣad-vivṛta*)**, slightly open, describes the *ūṣman* sounds. **विवृत (*vivṛta*)**, open, describes the vowels. A fifth term, **संवृत (*saṃvṛta*)**, describes short **अ (*a*)** in ordinary use; during grammatical analysis, the same vowel is treated as *vivṛta*.[NOTE: sprista-isatsprista-isatsamvrta-vivrta-constriction]
+Every sound requires a particular degree of contact or opening. The grammatical account identifies five internal efforts. **स्पृष्ट (*spṛṣṭa*)**, fully touched, describes the stops and nasals. **ईषत्स्पृष्ट (*īṣat-spṛṣṭa*)**, slightly touched, describes the अन्तःस्थ (*antaḥstha*) sounds. **ईषद्विवृत (*īṣad-vivṛta*)**, slightly open, describes the ऊष्मन् (*ūṣman*) sounds. **विवृत (*vivṛta*)**, open, describes the vowels. A fifth term, **संवृत (*saṃvṛta*)**, describes short **अ (*a*)** in ordinary use; during grammatical analysis, the same vowel is treated as *vivṛta*.[NOTE: sprista-isatsprista-isatsamvrta-vivrta-constriction]
 
 Sanskrit groups these degrees of contact and opening into four major sound classes.
 
@@ -148,7 +148,7 @@ In modern phonetics, स्थान (*sthāna*) corresponds closely to place of
 
 The full classification combines several axes. It records where the sound is made, what moves to make it, and how the breath and vocal cords behave.
 
-Consider the sound **घ (*gh*)** that is placed in the throat (कण्ठ्य, *kaṇṭhya*). The root of the tongue moves to strike it (करण, *karaṇa*). The vocal cords are buzzing (घोष, *ghoṣa*), and a heavy push of breath drives it (महाप्राण, *mahāprāṇa*). The nose remains sealed during all of this.
+Consider the sound **घ (*gh*)** that is placed in the throat (कण्ठ्य (*kaṇṭhya*)). The root of the tongue moves to strike it (करण (*karaṇa*)). The vocal cords are buzzing (घोष (*ghoṣa*)), and a heavy push of breath drives it (महाप्राण (*mahāprāṇa*)). The nose remains sealed during all of this.
 
 Changing one switch changes the sound. Remove voicing from *gh*, and the result is *kh*. Reduce the breath, and the result is *g*. Open the nasal passage, and the result is ङ् (*ṅ*).
 

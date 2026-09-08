@@ -46,7 +46,7 @@ The three dual forms confirm that Sanskrit already distinguishes exactly two spe
 | command | **भव (*bhava*)** | RV 1.1.9 | become |
 | possibility or desire | **स्याम (*syāma*)** | RV 1.4.6 | may we be |
 
-These forms establish the shared verbal range needed by Chapter 11. Additional Vedic verbal resources, including *leṭ* and unaugmented forms, belong to Appendix Part 8.
+These forms establish the shared verbal range needed by Chapter 11. Additional Vedic verbal resources, including लेट् (*leṭ*) and unaugmented forms, belong to Appendix Part 8.
 
 ## 7.3 Evidence Used in Chapter 12
 
@@ -75,7 +75,7 @@ These three examples use operations that a student of लौकिक (*laukika*
 
 ## 7.4 Four Complete Passage Analyses
 
-### *Ṛgveda* 1.1.1 — *agnimīḷe purohitaṃ yajñasya devamṛtvijam*
+### *Ṛgveda* 1.1.1 — अग्निमीळे (*agnimīḷe*)
 
 > *अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् ।*
 >
@@ -85,7 +85,7 @@ These three examples use operations that a student of लौकिक (*laukika*
 
 The opening six words, taken phrase by phrase:
 
-- अग्निमीळे (***agnimīḷe***) decomposes as *agnim* + *īḷe*. The first piece is अग्निम् (*agnim*) — **accusative singular** (द्वितीया विभक्ति (*dvitīyā vibhakti*), एकवचन (*ekavacana*)) of अग्नि (*agni*, *fire / fire-deity*). The second is ईळे (*īḷe*) — **1sg present middle** (लट् (*laṭ-lakāra*), आत्मनेपद (*ātmanepada*)) of the atom ⟪ईड्⟫ (*īḍ*, *to praise, to invoke*). The *Ṛgveda-Prātiśākhya* accounts for the surface **ळ** by specifying intervocalic **ड → ळ**. Sandhi (सन्धि) then joins the sounds at the word boundary: *agnim* + *īḷe* → *agnimīḷe*.
+- अग्निमीळे (***agnimīḷe***) decomposes as *agnim* + *īḷe*. The first piece is अग्निम् (*agnim*) — **accusative singular** (द्वितीया विभक्ति (*dvitīyā vibhakti*), एकवचन (*ekavacana*)) of अग्नि (*agni*, *fire / fire-deity*). The second is ईळे (*īḷe*) — **1sg present middle** (लट् (*laṭ-lakāra*), आत्मनेपद (*ātmanepada*)) of the atom ⟪ईड्⟫ (*īḍ*, *to praise, to invoke*). The *Ṛgveda-Prātiśākhya* accounts for the surface **ळ** by specifying intervocalic **ड → ळ**. सन्धि (*sandhi*) then joins the sounds at the word boundary: *agnim* + *īḷe* → *agnimīḷe*.
 - पुरोहितम् (***purohitam***) — **accusative singular** of पुरोहित (*purohita*, *household priest*), itself a compound: *puras* (पुरस्, *in front*) + *hita* (हित, *placed*) → *purohita* per standard सन्धि (*sandhi*). In apposition with *agnim*.
 - यज्ञस्य (***yajñasya***) — **genitive singular** (षष्ठी विभक्ति (*ṣaṣṭhī vibhakti*)) of यज्ञ (*yajña*, *fire offering*).
 - देवम् (***devam***) — **accusative singular** of देव (*deva*, *divine being*). Apposition with *agnim*.
@@ -95,7 +95,7 @@ These six words contain four accusatives in apposition, one genitive, and one ve
 
 Chapter 9 §9.10 explains why this lineage-bounded **ळ** remains outside the reusable लौकिक (*laukika*) grid.
 
-### *Ṛgveda* 1.164.39 — The अक्षर (*Akṣara*) and the *Ṛc*
+### *Ṛgveda* 1.164.39 — The अक्षर (*Akṣara*) and the ऋच् (*Ṛc*)
 
 > ऋचो अक्षरे परमे व्योमन् ।
 > यस्मिन्देवा अधि विश्वे निषेदुः ।

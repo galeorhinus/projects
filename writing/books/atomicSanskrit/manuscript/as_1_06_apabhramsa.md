@@ -1,4 +1,4 @@
-# Chapter 6 — *Apabhraṃśa* and Entropy
+# Chapter 6 — अपभ्रंशः (*Apabhraṃśa*) and Entropy
 
 ---
 
@@ -165,7 +165,7 @@ The four Vedas form distinct functional streams: the Ṛgveda invokes and addres
 
 The recitational disciplines preserve variation with equal precision. प्रातिशाख्य (*Prātiśākhya*) texts document the phonetic requirements of particular lineages. Those lineages keep their received forms from dissolving into one another, while operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)** mark permitted alternatives explicitly.
 
-Vedic accent remains active in the छन्दस् (*chandas*) mode as a grammatical and interpretive layer. The भाषा (*bhāṣā*) mode omits that layer and uses a tighter set of forms for new लौकिक (laukika) composition. Sanskrit therefore identifies where a variation belongs and what purpose it serves instead of allowing it to spread without a boundary.
+Vedic accent remains active in the छन्दस् (*chandas*) mode as a grammatical and interpretive layer. The भाषा (*bhāṣā*) mode omits that layer and uses a tighter set of forms for new लौकिक (*laukika*) composition. Sanskrit therefore identifies where a variation belongs and what purpose it serves instead of allowing it to spread without a boundary.
 
 The pyramid converts these functional distinctions into chronology. To establish drift, comparative philology would have to show the mechanism by which an earlier form changed into a later one; instead, it usually places the forms on a timeline and treats the timeline as proof of the change. That maneuver also supports the migration-and-borrowing account, which requires *"Vedic Sanskrit"* to change as the imaginary Aryans enter the subcontinent. Chapter 19 develops the alternative account for Vedic-Avestan parallels through प्रतिबिम्ब (*pratibimba*) and outward Sanskritic radiance.
 

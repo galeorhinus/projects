@@ -317,7 +317,7 @@ The recorded contact can be represented without an imaginary ancestor:
 **बीज (*bīja*) in the Iranian listener's mind →**\
 **Avestan 𐬀𐬵𐬎𐬭𐬀 (*ahura*, अपशब्द (*apaśabda*))**
 
-Chapter 3 showed that Sanskrit permits two analyses of the sound-form ***asura***. The evidence does not tell us which analysis an Iranian listener understood. That uncertainty does not alter what traveled. A spoken word carries no hyphen across a mountain. The listener heard ***asura***.
+Chapter 3 showed that Sanskrit permits two analyses of the sound-form **असुर (*asura*)**. The evidence does not tell us which analysis an Iranian listener understood. That uncertainty does not alter what traveled. A spoken word carries no hyphen across a mountain. The listener heard **असुर (*asura*)**.
 
 Iranian speech then reshaped the word. Sanskrit ***s*** appears as Iranian ***h***, the same correspondence Chapter 9 §9.10 traces in सिन्धुः (*Sindhuḥ*) and *Hinduš*. Avestan gave the received form its own ending and its own place within Iranian religious thought.
 

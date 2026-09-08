@@ -22,7 +22,7 @@ To explain that self-conception, the English word *grammar* is wholly inadequate
 
 The **वैयाकरणाः (*vaiyākaraṇāḥ*)** analyzed, decoded, explained, tested, and taught an existing architecture. Pāṇini belonged to that lineage as a **वैयाकरणः (*vaiyākaraṇaḥ*)**, not as an authority who invented standards for speakers or arranged written glyphs. Calling him a “grammarian” can therefore mislead an English reader, while calling him a codifier reverses his role entirely.
 
-The analytical discipline is **व्याकरणम् (*vyākaraṇam*)**: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The word denotes the act of taking an existing system apart so that it can be understood. It does not denote the act of composing that system. The **वैयाकरणः (*vaiyākaraṇaḥ*)** performs this analysis.[NOTE: vaiyakarana-role-title] The role-title designates a decoder, not a codifier.
+The analytical discipline is **व्याकरणम् (*vyākaraṇam*)**: **वि (*vi-*, apart)** + **आ (*ā-*, fully)** + **कृ (*kṛ*, to do, to make)** — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The word denotes the act of taking an existing system apart so that it can be understood. It does not denote the act of composing that system. The **वैयाकरणः (*vaiyākaraṇaḥ*)** performs this analysis.[NOTE: vaiyakarana-role-title] The role-title designates a decoder, not a codifier.
 
 And this decoding did not begin with Pāṇini.
 
@@ -56,7 +56,7 @@ The pyramid's account condenses both into Pāṇini and calls the compression *c
 
 Patañjali wrote after Pāṇini. His words therefore serve a different purpose from the pre-Pāṇinian evidence in §5.1. The earlier evidence establishes that the architecture existed before the *Aṣṭādhyāyī*. Patañjali explains what grammar acts upon and what role the continuum assigned to it.
 
-He gives that explanation at the opening of the *Mahābhāṣya*, in the **पस्पशाह्निक (*Paspaśāhnika*)**.
+He gives that explanation at the opening of the महाभाष्य (*Mahābhāṣya*), in the **पस्पशाह्निक (*Paspaśāhnika*)**.
 
 Patañjali states the purpose of grammatical instruction directly. He asks **कानि पुनः शब्दानुशासनस्य प्रयोजनानि (*kāni punaḥ śabdānuśāsanasya prayojanāni*)** — what, then, are the purposes of instruction in words? His compact answer identifies five purposes, the **पञ्च प्रयोजनानि (*pañca prayojanāni*)**:[NOTE: prayojanani-paspashahnika]
 

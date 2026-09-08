@@ -40,7 +40,7 @@ The calibration account predicts a different pattern. The shared architecture sh
 | Pāṇini's role | The dividing point between unstable and standardized Sanskrit | The finest documenter within a longer analytical lineage |
 | लौकिक (*Laukika*) composition | The later standardized language | New expression generated through the shared architecture |
 
-Chapter 5 places Pāṇini within an earlier analytical lineage and explains Patañjali's statement that the bond between word and meaning is already ***siddha***, established. Appendix Part 7 identifies the operations Pāṇini documented inside Vedic mantras, while Appendix Part 8 records the designed differences between the two domains.
+Chapter 5 places Pāṇini within an earlier analytical lineage and explains Patañjali's statement that the bond between word and meaning is already **सिद्ध (*siddha*)**, established. Appendix Part 7 identifies the operations Pāṇini documented inside Vedic mantras, while Appendix Part 8 records the designed differences between the two domains.
 
 Their evidence shows the sequence in operation. The Vedas use the architecture, earlier analysts examine it, Pāṇini documents it, and speakers apply it to लौकिक (*laukika*) composition.
 

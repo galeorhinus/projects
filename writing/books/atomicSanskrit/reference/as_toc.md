@@ -12,7 +12,7 @@
 - **Prologue — The Eclipse**
   - What Was Eclipsed
   - The Pyramid's Clock
-  - The Śaṅkha Sounds
+  - The शङ्ख (*Śaṅkha*) Sounds
 
 ---
 
@@ -37,7 +37,7 @@
 ## Part I — How the Shadow Is Cast
 *The āsurī māyā.*
 
-**Chapter 2 — Category Theft and Āsurī Māyā**
+**Chapter 2 — Category Theft and आसुरी माया (*Āsurī Māyā*)**
 - 2.1 The Category Withheld from Sanskrit
 - 2.2 Four Language Categories
 - 2.3 Movement Between Categories
@@ -54,7 +54,7 @@
 - 3.3 Enclosure: The Theological Pillar
 - 3.4 Ascent: The Progress Pillar
 - 3.5 Containment: The Method
-- 3.6 Māyā, Asura, and Viveka
+- 3.6 माया (*Māyā*), असुर (*Asura*), and विवेक (*Viveka*)
 - 3.7 Containment and Release in the Veda
 - 3.8 The Battle of Two Fractals
 
@@ -117,19 +117,19 @@
 - 8.11 Breath Above the Base
 - 8.12 What the Comparison Shows
 
-**Chapter 9 — The Varṇamālā: The Sonomeric Grid**
+**Chapter 9 — The वर्णमाला (*Varṇamālā*): The Sonomeric Grid**
 - 9.1 The Garland Becomes a Grid
 - 9.2 The Four Divisions
 - 9.3 The Mouth Becomes an Address Space
 - 9.4 How Five Places Become Twenty-Five Sounds
 - 9.5 The Complete Consonant Grid
-- 9.6 The Akṣara: Nucleus, Contact, and Timing
-- 9.7 The Svara Address Grid
+- 9.6 The अक्षरम् (*Akṣaram*): Nucleus, Contact, and Timing
+- 9.7 The स्वर (*Svara*) Address Grid
 - 9.8 Duration, Pitch, and Nasality
 - 9.9 The Sound Volume
 - 9.10 What Earns a Grid Address
 - 9.11 The Vedas as the Pronunciation Calibrant
-- 9.12 Varṇa Is Not Letter
+- 9.12 वर्ण (*Varṇa*) Is Not Letter
 - 9.13 The Grid Orders the Garland
 
 ---
@@ -280,7 +280,7 @@
   - 1.2 The Institutions That Supplied the Pipeline
   - 1.3 The Honors and the Choice They Rewarded
   - 1.4 From Sanskrit Anchor to Imaginary Ancestor
-  - 1.5 Recipe After Recipe — The Dhātu Cluster Evidence
+  - 1.5 Recipe After Recipe — The धातुः (*Dhātuḥ*) Cluster Evidence
   - 1.6 Operators in Motion
   - 1.7 How the Philological Categories Survived Independence
 - **Appendix Part 2 — The Encyclopaedic Confirmation**

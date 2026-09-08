@@ -188,13 +188,13 @@ Two systems, built on one shared pattern. Ten digits span arithmetic, while Sans
 
 ---
 
-## 0.7 Sat, Ṛta, and the Vedic Order
+## 0.7 सत् (*Sat*), ऋत (*Ṛta*), and the Vedic Order
 
 The Vedas act as a calibrant for both Sanskrit and संस्कृति (*saṃskṛti*). At the linguistic level, they preserve Sanskrit’s sounds, grammatical range, and generative architecture. The grammatical continuum uses that invariant standard to calibrate Sanskrit in the changing लौकिक (*laukika*) domain. Chapter 16 and Appendix Part 8 demonstrate how the Vedas calibrate the लौकिक (*laukika*) domain while both domains retain one Sanskrit architecture.
 
 At the civilizational level, the Vedas preserve **ऋत (*ṛta*)** as the invariant trajectory of created order. People can compare actions, institutions, and systems in the changing world with that trajectory.
 
-### Ṛta Was Created
+### ऋत (*Ṛta*) Was Created
 
 ऋत (*Ṛta*) is often translated as “cosmic order,” as if it were the single order that governs everything in the universe. That translation leaves no clear place for the destructive systems that human beings create.
 
@@ -227,7 +227,7 @@ This means that there was असत् (*asat*), then सत् (*sat*) and ऋ�
 
 Therefore the distinction between सत् (*sat*) and असत् (*asat*) predates human existence. ऋत (*Ṛta*) was created, but human beings did not create it. The **ऋषि (*ṛṣi*)** sees **ऋत (*ṛta*)** and gives it form in a metrical verse, the **ऋच् (*ṛc*)**.
 
-### Discerning Sat from Asat
+### Discerning सत् (*Sat*) from असत् (*Asat*)
 
 What makes humans unique is that they inherited the capacity for असत् (*asat*), and therefore for सत् (*sat*) — a capacity that other animals do not possess. Animals act within **प्रकृति (*prakṛti*)**. Human beings can choose between सत् (*sat*) and असत् (*asat*) and build a civilizational order around that choice.
 

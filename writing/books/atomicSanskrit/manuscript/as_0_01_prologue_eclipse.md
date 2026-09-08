@@ -64,7 +64,7 @@ This book argues the opposite: Sanskrit has one architecture with two domains. O
 
 This book examines the architecture first. It uses dates when they establish a useful sequence and *thousands of years* when a more exact date contributes nothing.[NOTE: chronology-asymmetry-rationale] Chapters 1 and 3 expose how the pyramid turns chronology into an instrument of classification and control.
 
-## The Śaṅkha Sounds
+## The शङ्ख (*Śaṅkha*) Sounds
 
 ::: epigraph
 
@@ -74,7 +74,7 @@ This book examines the architecture first. It uses dates when they establish a u
 > *yó agrató rocanā́nāṃ samudrā́d ádhi jajñiṣé |*\
 > *śaṅkhéna hatvā́ rákṣāṃsy attríṇo ví ṣahāmahe ||*
 >
-> You who were born at the head of the shining ones, up out of the sea — with the *śaṅkha*, having slain the *rākṣasas*, we overcome the devourers.
+> You who were born at the head of the shining ones, up out of the sea — with the शङ्ख (*śaṅkha*), having slain the *rākṣasas*, we overcome the devourers.
 >
 > `\hfill`{=latex}*— Atharvaveda 4.10.2*
 
@@ -82,10 +82,10 @@ This book examines the architecture first. It uses dates when they establish a u
 
 \bigskip
 
-The asuric attacks on the Vedas and Sanskrit are timeless. The Śaṅkha does not begin the conflict; it announces the present attack. Its sound calls the seekers and caretakers to defend what they inherited. When the conch sounds, the eclipse still covers the Sun and all eleven blocks remain in place.
+The asuric attacks on the Vedas and Sanskrit are timeless. The शङ्ख (*Śaṅkha*) does not begin the conflict; it announces the present attack. Its sound calls the seekers and caretakers to defend what they inherited. When the conch sounds, the eclipse still covers the Sun and all eleven blocks remain in place.
 
-![Figure E.2 — The Śaṅkha Sounds. The full eclipse remains in place, but the conch has sounded while the world is still dark.](figures/eclipse_spine/eclipse_00_overture_shankha_full.svg){#fig:eclipse-overture-shankha width=100%}
+![Figure E.2 — The शङ्ख (*Śaṅkha*) Sounds. The full eclipse remains in place, but the conch has sounded while the world is still dark.](figures/eclipse_spine/eclipse_00_overture_shankha_full.svg){#fig:eclipse-overture-shankha width=100%}
 
 The conflict has two sides. On one side stand the seekers and caretakers. On the other stands the asuric pyramid: a finite order with a single apex that demands that everyone look upward for authority.
 
-The Śaṅkha has sounded. Chapter 0 introduces the seekers and caretakers. Chapter 1 introduces the apex-order and its blocks. Part I begins removing them.
+The शङ्ख (*Śaṅkha*) has sounded. Chapter 0 introduces the seekers and caretakers. Chapter 1 introduces the apex-order and its blocks. Part I begins removing them.
