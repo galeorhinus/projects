@@ -230,12 +230,12 @@ The opening mantra shows Indra defeating the मायिन् (*māyin*) Śu�
 
 The वेदान्तसार (*Vedāntasāra*) gives two names to the asuric procedure. **आवरण (*āvaraṇa*)** conceals what remains present. **विक्षेप (*vikṣepa*)** projects something else where the observer should have recognized it. A cloud appears to cover the Sun, although it blocks only the observer's sight. A rope disappears beneath the projected snake.[NOTE: maya-concealment-projection]
 
-The pyramid uses both actions against Sanskrit.
+These two actions explain how the eclipse introduced in the Prologue works. The pyramid uses both against Sanskrit.
 
 **Āvaraṇa conceals the calibrant.** The Vedas remain audible. Their recitation disciplines remain active. Sanskrit's architecture remains available for examination. Yet the pyramid removes the relationship among them from its explanation.
 
 **Vikṣepa projects the replacement.** Sanskrit becomes a natural daughter of PIE, brought into India by imaginary Aryans and finally stabilized by Pāṇini. The projected story occupies the place where the reader should have seen an engineered language, a distributed Vedic calibrant, and two domains with complementary permissions.
 
-Svarbhānu uses the same method. He does not destroy Sūrya. He places darkness between the Sun and the worlds until the worlds become ***अक्षेत्रवित् (*akṣetravit*)***, unable to recognize their surroundings. The pyramid could not destroy Sanskrit. It taught the world to see Sanskrit through darkness.
+The Vedic calibrant remains present, but the projected history occupies the observer's attention. The observer becomes ***अक्षेत्रवित् (*akṣetravit*)***: looking directly at Sanskrit yet unable to recognize its architecture.
 
 The next chapter asks *why* the pyramid needs this concealment. A distributed calibrant denies the apex the ownership he seeks. Chapter 3 examines the architecture of containment that follows from that desire for ownership.

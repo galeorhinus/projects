@@ -1,4 +1,4 @@
-# Part II — The Sun's Own Account
+# Part II — What the First Shadow Hid
 
 *Created, anti-entropic, calibrated.*
 
@@ -9,8 +9,6 @@ Part I cracked the first three blocks by exposing the claims they represent. Par
 Part II sets the pyramid's classifications aside and examines Sanskrit through the categories and procedures preserved within the language itself. Sanskrit belongs in the **Generative Architectures** quadrant because it is engineered and highly generative. The pyramid's account places the वैदिक (*vaidika*) domain among **Natural Languages** and the लौकिक (*laukika*) domain among **Petrified Languages**, then presents the two domains as languages from different periods. Part II shows that they belong to one wholly created, anti-entropic, and calibrated architecture.
 
 ![Figure E.6 — Category Theft Exposed. Part I has cracked the first three blocks. Part II now examines the categories Sanskrit uses for itself.](figures/eclipse_spine/eclipse_20_part02_sun_account_cracked_1_2_3.svg){#fig:eclipse-part02-sun-account width=100%}
-
-The two chapters examine Sanskrit's established bonds and its protections against change.
 
 Chapter 5 begins with सिद्ध (*siddha*): the bond between word and meaning is established rather than produced by later convention. Grammar regulates how speakers use that inherited architecture. It does not create the language or the bond between its words and meanings.
 

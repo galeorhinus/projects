@@ -20,13 +20,11 @@ The Sun has been eclipsed.
 
 Svarbhānu's darkness does not remove सूर्य (*Sūrya*). It leaves the worlds unable to find their bearings.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] The verse calls this condition **अक्षेत्रवित् (*akṣetravit*)**: the observer can no longer discern what lies before him.
 
-Sanskrit stands before the modern world as Sūrya stood during the eclipse. Its radiant and generative architecture remains intact, but something obstructs the world's view of it.
-
-The asuric pyramid occupies the place of Svarbhānu. Its apex and the layers beneath it stand between Sanskrit and the people who should receive its radiance.
+This book uses that eclipse as its central visual metaphor. In the sequence that follows, Sanskrit is the Sun, and its radiance is the language's engineered, generative, and calibrant architecture. The asuric pyramid takes Svarbhānu's place between Sanskrit and the observer. It does not make Sanskrit disappear. It prevents the observer from seeing the language as it is.
 
 Proto-Indo-European, or PIE, serves as the instrument of the eclipse. It is a **राहु (*Rāhu*)**-like head placed over the Sun. It has no recorded speakers, no body, and no living mouth. Because it was never alive, the pyramid can present it as an ancestor that can never die.
 
-The pyramid in this sequence is built from eleven blocks. Each block represents a different claim about Sanskrit, and each claim conceals some part of its architecture. The opening figure shows all eleven blocks still in place. Chapter 1 introduces the blocks and the obstruction each one represents. The chapters that follow examine those claims one by one. A block cracks when the examination begins. It falls when the book has exposed the claim and shown why it cannot explain Sanskrit. The reader begins in the pyramid's shadow.
+The pyramid is built from eleven blocks. Each block carries a specific claim about Sanskrit and conceals part of its architecture. The opening figure shows all eleven claims still in place. Chapter 1 names them. The remaining chapters examine them one by one. A block cracks when the examination begins and falls when the claim can no longer explain the evidence. As the blocks fall, the observer sees more of the Sun that was present throughout.
 
 ![Figure E.1 — The Eclipse. Sanskrit is shown as the Sun; the asuric pyramid stands between that light and the world that should receive it.](figures/eclipse_spine/eclipse_00_preface_full.svg){#fig:eclipse-preface-full width=100%}
 
