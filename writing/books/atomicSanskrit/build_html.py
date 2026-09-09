@@ -214,6 +214,38 @@ def versioned_figure_url(rel: str) -> str:
 # build_book.py's DRAFT_HEADER_RE but applied after the first heading).
 DRAFT_LINE_RE = re.compile(r"^\*Draft v[^\n]*\*\s*\n+", re.MULTILINE)
 
+# ---------------------------------------------------------------------------
+# Build progress
+#
+# A full build renders about sixty pages and copies a few hundred figures.
+# One line each buried the provenance header, the groupsAllowlist line and
+# any warning under a wall of scrollback -- and deploy.sh runs this build, so
+# that wall sat in the middle of a deploy. Report progress on a single
+# rewritten line instead, and leave one summary line per phase behind.
+#
+# Only when stdout is a terminal: piped to a log or a CI job there is no
+# cursor to move, so the per-item chatter is dropped entirely and the phase
+# summaries carry the record. Failures never come through here -- they print
+# to stderr and stay one line each.
+_PROGRESS_TTY = sys.stdout.isatty()
+
+
+def progress(action: str, detail: str) -> None:
+    """Overwrite the current line with one item's progress."""
+    if not _PROGRESS_TTY:
+        return
+    sys.stdout.write(f"\r\x1b[K  {action:9} {detail}"[:110])
+    sys.stdout.flush()
+
+
+def progress_done(summary: str) -> None:
+    """Clear the progress line and leave a permanent summary in its place."""
+    if _PROGRESS_TTY:
+        sys.stdout.write("\r\x1b[K")
+        sys.stdout.flush()
+    print(summary)
+
+
 # Top-level section headings in pandoc's own rendered output — read back
 # post-render rather than reimplementing pandoc's auto-identifier slug
 # algorithm, so the extracted anchors are guaranteed to match what's
@@ -425,7 +457,7 @@ def render_chapter(entry: dict, prev: dict | None, next_: dict | None,
     if html_text != original:
         out_path.write_text(html_text)
 
-    print(f"  rendered  /book/{entry['slug']}/  ({entry['file']})")
+    progress("rendering", f"/book/{entry['slug']}/")
     return headings
 
 
@@ -643,7 +675,7 @@ def render_index(entries: list[dict], book_title: str, subtitle: str,
         print(result.stderr, file=sys.stderr)
         raise SystemExit(1)
     tmp_md.unlink()
-    print("  rendered  /book/  (book contents)")
+    progress("rendering", "/book/ (contents)")
 
 
 def copy_static() -> None:
@@ -653,12 +685,12 @@ def copy_static() -> None:
     book_css_dst = HTML_OUT_BOOK / "css" / "book.css"
     book_css_dst.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(BOOK_CSS_SRC, book_css_dst)
-    print(f"  copied    /book/css/book.css")
+    progress("copying", "/book/css/book.css")
 
     essays_css_dst = HTML_OUT_ESSAYS / "style.css"
     essays_css_dst.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(ESSAYS_CSS_SRC, essays_css_dst)
-    print(f"  copied    /essays/style.css")
+    progress("copying", "/essays/style.css")
 
     # Favicons at the /as/ URL root — both bare (favicon.ico + favicon.svg)
     # are placed at the site's URL root so they're findable at
@@ -668,7 +700,7 @@ def copy_static() -> None:
         src = FAVICON_SRC_DIR / fname
         if src.exists():
             shutil.copy2(src, HTML_OUT / fname)
-            print(f"  copied    /{fname}")
+            progress("copying", f"/{fname}")
         else:
             print(f"  (skipped: {src} not found)")
 
@@ -692,8 +724,8 @@ def copy_static() -> None:
         shutil.copy2(f, dst)
         top = rel.parts[0]
         counts[top] = counts.get(top, 0) + 1
-    for top in sorted(counts):
-        print(f"  copied    /book/figures/{top}/  ({counts[top]} files)")
+    progress_done(f"  assets     {len(FAVICON_FILES)} favicons, 2 stylesheets, "
+                  f"{sum(counts.values())} figures in {len(counts)} sets")
 
 
 # ----------------------------------------------------------------------------
@@ -817,7 +849,7 @@ def render_essay(essay: dict, out_dir: Path, shelf_link: str,
         raise SystemExit(1)
     tmp_md.unlink()
     rel = out_path.relative_to(HTML_OUT)
-    print(f"  rendered  /{rel.with_suffix('').parent}/  (essay: {essay['slug']})")
+    progress("rendering", f"/{rel.with_suffix('').parent}/")
 
 
 def render_essay_shelf(out_dir: Path, shelf_title: str, intro_md: str,
@@ -878,7 +910,7 @@ def render_essay_shelf(out_dir: Path, shelf_title: str, intro_md: str,
         raise SystemExit(1)
     tmp_md.unlink()
     rel = out_path.relative_to(HTML_OUT)
-    print(f"  rendered  /{rel.parent}/  (shelf: {shelf_title})")
+    progress("rendering", f"/{rel.parent}/ (shelf)")
 
 
 JACKET_COPY_TEASER_PARAGRAPHS = 2
@@ -939,7 +971,7 @@ def render_landing(build_meta: dict[str, str]) -> None:
     text = text.replace("<!--BUILD_INFO-->", build_html)
     text = text.replace("<!--JACKET_COPY-->", render_jacket_copy())
     (HTML_OUT / "index.html").write_text(text)
-    print("  rendered  /  (landing page)")
+    progress("rendering", "/ (landing)")
 
 
 def render_jacket_copy_variant(variant: dict, build_meta: dict[str, str]) -> None:
@@ -994,7 +1026,7 @@ def render_jacket_copy_variant(variant: dict, build_meta: dict[str, str]) -> Non
         print(result.stderr, file=sys.stderr)
         raise SystemExit(1)
     tmp_md.unlink()
-    print(f"  rendered  /jacket-copy/{slug}/  (unlisted review page)")
+    progress("rendering", f"/jacket-copy/{slug}/")
 
 
 # Hypothesis's public group. Never in a normal build: an annotation posted
@@ -1070,7 +1102,8 @@ def apply_groups_allowlist(out_dir: Path, include_public: bool = False) -> None:
             continue
         path.write_text(text.replace("<!--GROUPS-ALLOWLIST-->", allowlist_json), encoding="utf-8")
         n += 1
-    print(f"  applied groupsAllowlist ({allowlist_json}) to {n} page(s)")
+    ids = json.loads(allowlist_json)
+    print(f"  allowlist  {len(ids)} group(s) applied to {n} page(s)")
     if include_public:
         print("  ** Public (__world__) is in this build's allowlist. Readers can")
         print("     select it, and anything posted there is world-readable with no")
@@ -1084,7 +1117,7 @@ def render_404() -> None:
     Caddy's handle_errors rewrites 404 responses to /as/404.html, which
     this ends up at once deploy.sh rsyncs build/html/ -> /var/www/as/."""
     shutil.copy2(TEMPLATE_404, HTML_OUT / "404.html")
-    print("  rendered  /404.html  (error page)")
+    progress("rendering", "/404.html")
 
 
 def main() -> int:
@@ -1118,25 +1151,24 @@ def main() -> int:
     public_essays = discover_essays(ESSAYS_PUBLIC_SRC)
     private_essays = discover_essays(ESSAYS_PRIVATE_SRC)
     build_meta = git_metadata()
-    print(f"Build provenance: tag={build_meta['git_tag']} sha={build_meta['git_sha']} "
+    print(f"  build      tag={build_meta['git_tag']} sha={build_meta['git_sha']} "
           f"date={build_meta['build_date']}")
-    print(f"Book chapters:    {len(entries)}")
-    print(f"Public essays:    {len(public_essays)} ({', '.join(e['slug'] for e in public_essays) or '—'})")
-    print(f"Private essays:   {len(private_essays)} ({', '.join(e['slug'] for e in private_essays) or '—'})")
+    print(f"  chapters   {len(entries)}")
+    print(f"  public     {len(public_essays)} ({', '.join(e['slug'] for e in public_essays) or '—'})")
+    print(f"  private    {len(private_essays)} ({', '.join(e['slug'] for e in private_essays) or '—'})")
     print()
 
     # ----- Book -------------------------------------------------------
-    print("Rendering book under /book/ ...")
     chapter_headings: dict[str, list[tuple[str, str]]] = {}
     for i, entry in enumerate(entries):
         prev = entries[i - 1] if i > 0 else None
         next_ = entries[i + 1] if i + 1 < len(entries) else None
         chapter_headings[entry["file"]] = render_chapter(entry, prev, next_, book_title, build_meta)
     render_index(entries, book_title, subtitle, series, author, build_meta, chapter_headings)
+    progress_done(f"  book       {len(entries)} pages + contents")
 
     # ----- Public essays + shelf -------------------------------------
     if public_essays:
-        print("\nRendering public essays under /essays/ ...")
         for essay in public_essays:
             render_essay(essay, HTML_OUT_ESSAYS,
                          shelf_link="/as/essays/",
@@ -1155,10 +1187,10 @@ def main() -> int:
         shelf_link_label="← All essays",
         build_meta=build_meta,
     )
+    progress_done(f"  essays     {len(public_essays)} public + shelf")
 
     # ----- Private essays + shelf ------------------------------------
     if private_essays:
-        print("\nRendering private essays under /private/ ...")
         for essay in private_essays:
             render_essay(essay, HTML_OUT_PRIVATE,
                          shelf_link="/as/private/",
@@ -1180,20 +1212,17 @@ def main() -> int:
         build_meta=build_meta,
         gated=True,
     )
+    progress_done(f"  private    {len(private_essays)} advance-reader + shelf")
 
     # ----- Landing + static files ------------------------------------
-    print()
     render_landing(build_meta)
-
-    # ----- Jacket-copy review variants (unlisted, direct-link only) --
-    print("\nRendering jacket-copy review variants under /jacket-copy/ ...")
     for variant in JACKET_COPY_VARIANTS:
         render_jacket_copy_variant(variant, build_meta)
-
     render_404()
+    progress_done(f"  pages      landing, 404, "
+                  f"{len(JACKET_COPY_VARIANTS)} jacket-copy variants")
     copy_static()
 
-    print()
     apply_groups_allowlist(HTML_OUT, args.include_public_group)
 
     print()

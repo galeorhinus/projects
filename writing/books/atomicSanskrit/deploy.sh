@@ -28,6 +28,13 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
+# Report in the same shape build_html.py uses -- a label column and a detail
+# column -- so a deploy that runs the build reads as one document rather than
+# two tools talking over each other. Anything that aborts still writes a full
+# sentence to stderr; these are only for the steps that succeeded.
+step()  { printf '  %-10s %s\n' "$1" "$2"; }
+skip()  { printf '  %-10s %s\n' "$1" "(skipped)"; }
+
 SKIP_BUILD=0
 SKIP_CADDY=0
 SKIP_ROSTER=0
@@ -44,8 +51,11 @@ SRC="build/html"
 DST="/var/www/as"
 
 if [ "$SKIP_BUILD" -eq 0 ]; then
-	echo ">> Building HTML..."
+	printf '\n'
 	python3 build_html.py
+	printf '\n'
+else
+	skip build
 fi
 
 if [ ! -d "$SRC" ]; then
@@ -81,7 +91,7 @@ if [ "$missing" -ne 0 ]; then
 	exit 1
 fi
 
-echo ">> rsync $SRC/ → $DST/  (${file_count} files)"
+step rsync "${file_count} files → $DST"
 # --exclude protects private/dashboard/ from --delete: that path is
 # written directly by hypothesis/build_dashboard.py --install (run by
 # amrut's cron job, hypothesis/run_pipeline.sh), not part of build/html/
@@ -92,16 +102,23 @@ echo ">> rsync $SRC/ → $DST/  (${file_count} files)"
 rsync -a --delete --exclude='private/dashboard/' "$SRC/" "$DST/"
 
 if [ "$SKIP_CADDY" -eq 0 ]; then
-	echo ">> Installing Caddyfile + reloading Caddy..."
 	sudo install -o root -g caddy -m 640 Caddyfile /etc/caddy/Caddyfile
 	sudo systemctl reload caddy
+	step caddy "Caddyfile installed, service reloaded"
+else
+	skip caddy
+fi
+
+if [ "$SKIP_ROSTER" -ne 0 ]; then
+	skip roster
+	skip service
 fi
 
 if [ "$SKIP_ROSTER" -eq 0 ]; then
 	if [ -f "server/invite_roster.json" ]; then
-		echo ">> Installing invite roster..."
 		sudo mkdir -p /etc/secondshanti
 		sudo install -o www-data -g www-data -m 640 server/invite_roster.json /etc/secondshanti/invite_roster.json
+		step roster "installed → /etc/secondshanti"
 
 		# Advisory only, never blocking: check_roster_sync.py exits 1 on any
 		# drift (the common case, not a broken-deploy case), and requires a
@@ -110,10 +127,10 @@ if [ "$SKIP_ROSTER" -eq 0 ]; then
 		# either as a deploy failure -- this is a "look at this" signal for
 		# the operator, not a gate. See hypothesis/check_roster_sync.py for
 		# what it checks and why the roster can drift silently otherwise.
-		echo ">> Checking roster against live Hypothesis groups..."
+		step roster "checking against live Hypothesis groups"
 		(cd hypothesis && python3 check_roster_sync.py) || true
 	else
-		echo ">> No server/invite_roster.json in the working tree — skipping roster install."
+		step roster "(no server/invite_roster.json in the working tree)"
 	fi
 
 	# Loopback services in /opt/secondshanti/. These were hand-copied for a
@@ -140,6 +157,7 @@ if [ "$SKIP_ROSTER" -eq 0 ]; then
 	# new copy. (dashboard_api.py is deliberately absent: its unit runs it
 	# straight out of the git checkout, so it has no /opt copy to drift --
 	# though it does still need a restart after a pull. Separate problem.)
+	services_changed=0
 	for pair in \
 		"request_access.py:secondshanti-request-access" \
 		"dashboard_resolver.py:dashboard-resolver"; do
@@ -151,13 +169,21 @@ if [ "$SKIP_ROSTER" -eq 0 ]; then
 		if sudo cmp -s "$src" "$dst"; then
 			continue
 		fi
-		echo ">> $svc_file differs from the deployed copy — installing..."
+		step service "$svc_file differs — installing"
 		python3 -m py_compile "$src"
 		sudo mkdir -p /opt/secondshanti
 		sudo install -o root -g root -m 644 "$src" "$dst"
-		echo ">> Restarting $unit..."
 		sudo systemctl restart "$unit"
+		step service "$unit restarted"
+		services_changed=1
 	done
+	# A step that prints nothing reads as a step that did not run. Say so.
+	# Written as an if rather than `[ ] && step`: bash tolerates a failing
+	# test in an AND list today, but the same line as the last command in a
+	# block would exit 1 under set -e.
+	if [ "$services_changed" -eq 0 ]; then
+		step service "unchanged"
+	fi
 
 fi
 
@@ -178,13 +204,13 @@ if [ -f "$api_src" ]; then
 	api_started=$(date -d "$(systemctl show -p ActiveEnterTimestamp --value dashboard-api 2>/dev/null)" +%s 2>/dev/null || echo 0)
 	api_mtime=$(stat -c %Y "$api_src" 2>/dev/null || echo 0)
 	if [ "$api_mtime" -gt "$api_started" ]; then
-		echo ">> dashboard_api.py is newer than the running service — restarting..."
+		step api "source is newer than the running service — restarting"
 		python3 -m py_compile "$api_src"
 		sudo systemctl restart dashboard-api
 	fi
 fi
 
-echo ">> Done."
-echo "   Local check: curl -sI https://secondshanti.org/as/"
-echo "   (basicauth retired 2026-08-06 — /as/book/ and /as/private/ now gate via"
-echo "   Google OAuth, which curl can't drive; check those in a browser instead.)"
+printf '\nDone → %s\n' "$DST"
+echo "  check      curl -sI https://secondshanti.org/as/"
+echo "             /as/book/ and /as/private/ gate via Google OAuth, which curl"
+echo "             cannot drive — check those in a browser."
