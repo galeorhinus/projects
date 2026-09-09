@@ -5952,7 +5952,7 @@ The two key rows are the compact buckets where compression is strongest. In the 
 
 The conclusion is deliberately narrower than the position-role analysis in Appendix Part 6 §6.2 and the molecule-building procedure in Chapter 11. The table does not claim to identify which consonants prefer which positions. It makes the earlier and simpler Chapter 10 claim: even before individual *varṇāḥ* are analyzed, distinguishability shapes the compression. The atom is compact, but not blurry.
 
-Source: `analysis/dhatupatha/data/derived/template_distribution.csv`; script `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; derived outputs `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`.
+All files are under `analysis/dhatupatha/`. Data directory: `data/derived/`. Input: `template_distribution.csv`. Outputs: `scaffold_distinguishability_by_matra.csv` and `.md`. Script directory: `scripts/`. Script: `analyze_scaffold_distinguishability.py`.
 
 ---
 
