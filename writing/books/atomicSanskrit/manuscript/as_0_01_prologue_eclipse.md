@@ -68,10 +68,10 @@ This book examines the architecture first. It uses dates when they establish a u
 
 ::: epigraph
 
-> यो अग्रतो रोचनानां समुद्रादधि जज्ञिषे ।\
+> यो अग्रतो रोचनानां समुद्रादधि जज्ञिषे ।
 > शङ्खेन हत्वा रक्षांस्यत्त्रिणो वि षहामहे ॥
 >
-> *yó agrató rocanā́nāṃ samudrā́d ádhi jajñiṣé |*\
+> *yó agrató rocanā́nāṃ samudrā́d ádhi jajñiṣé |*
 > *śaṅkhéna hatvā́ rákṣāṃsy attríṇo ví ṣahāmahe ||*
 >
 > You who were born at the head of the shining ones, up out of the sea — with the शङ्ख (*śaṅkha*), having slain the *rākṣasas*, we overcome the devourers.
