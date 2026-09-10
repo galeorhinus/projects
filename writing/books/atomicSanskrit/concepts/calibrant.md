@@ -1,23 +1,32 @@
-Yes. A few options, with different shades:
+# Calibrant: Canonical Sanskrit Family
 
-- **प्रमाण (*pramāṇa*)** — best overall. Measure, valid means of knowing, standard of judgment. Strong philosophical weight.
-- **मान (*māna*)** — measure, measuring, standard. Shorter and older-feeling, but less precise than *pramāṇa*.
-- **मापन (*māpana*)** — measurement / act of measuring. Good for “calibration process,” less good for “calibrant.”
-- **मापक (*māpaka*)** — measurer, measuring instrument. Could work for “calibrant” as instrument, but sounds more mechanical.
-- **तुला (*tulā*)** / **तुलन (*tulana*)** — balance / comparison. Useful if emphasizing comparison, not preservation.
-- **नियामक (*niyāmaka*)** — regulator, controller. Good for “regulating principle,” but too authority-adjacent for your argument.
-- **आधार (*ādhāra*)** — foundation, support, substrate. Good for “supporting base,” but not enough of the testing/measure sense.
-- **मूलमान (*mūlamāna*)** — base measure / root standard. Modern-sounding compound, but avoid *mūla* if you want no botanical echo.
-- **ध्रुवमान (*dhruvamāna*)** — fixed measure, stable reference. Very good for your purpose if you want a coined Sanskritic term.
-- **स्थितिमान (*sthitimāna*)** — stable measure / established measure. Possible, but less idiomatic.
-- **संयोजक मान (*saṃyojaka māna*)** — aligning measure. Too clunky.
-- **सम्यग्मान (*samyag-māna*)** — correct measure. Nice but feels coined.
+**Status:** Adopted 2026-09-09.
 
-My shortlist:
+The book uses one Sanskrit family for calibration across language and the wider Sanātan architecture:
 
-1. **प्रमाणभाषा (*pramāṇa-bhāṣā*)** — calibrant language.
-2. **ध्रुवमान (*dhruvamāna*)** — fixed/stable measure.
-3. **मापक (*māpaka*)** — measuring instrument, calibrator.
-4. **प्रमाणतन्त्र (*pramāṇa-tantra*)** — calibration system / architecture.
+- **Calibrant:** **प्रतिमानकम् (*pratimānakam*)**
+- **Calibration:** **प्रतिमापनम् (*pratimāpanam*)**
+- **Calibrates / measures against:** **प्रतिमिमीते (*pratimimīte*)**
+- **Vedic witness:** **प्रति मिमीते (*prati mimīte*)**, with the preverb separate in Ṛgveda 1.164.24
 
-For the book, I’d use **प्रमाणभाषा** for Sanskrit and maybe **प्रमाणतन्त्र** for the calibration matrix.
+## The Distinction
+
+**ध्रौव्यता (*dhrauvyatā*)** names invariance. Invariance is necessary for calibration, but it is not the entire operation. An object can remain unchanged without serving as a standard for anyone.
+
+**प्रतिमानकम् (*pratimānakam*)** names the reference against which a person compares speech, form, thought, or action. It must remain stable, available, and capable of exposing departure. **प्रतिमापनम् (*pratimāpanam*)** names the comparison and correction made possible by that reference.
+
+The family deliberately names a relationship rather than a language. The Vedas are Sanskrit's primary **प्रतिमानकम् (*pratimānakam*)**. Sanskrit can in turn serve as a linguistic and civilizational calibrant. Other Sanātan forms can perform the same function in other domains.
+
+## Vedic Basis
+
+Ṛgveda 1.164.24 begins:
+
+> गायत्रेण प्रति मिमीते अर्कम्\
+> *gāyatreṇa prati mimīte arkam*\
+> One calibrates the chant against the Gāyatrī.
+
+The full mantra proceeds through a sequence in which chant, melody, recitation, metrical feet, syllable, and voice measure one another. Its *Padapāṭha* gives **प्रति । मिमीते (*prati | mimīte*)**. Laukika Sanskrit joins the preverb and verb as **प्रतिमिमीते (*pratimimīte*)**.
+
+## Retired Term
+
+**ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)** is retired from the live manuscript. It combines the fixed-star image with the idea of measure, but it remains tied to a language and emphasizes stability more than calibration. The book retains **ध्रौव्यता (*dhrauvyatā*)** wherever invariance itself is the subject.

@@ -31,7 +31,7 @@ This index records the book's new words and coined technical phrases. Their defi
 - **PASS: the Principle of Architectural Selection and Scope** — Language behavior and radiance
 - **vivimorphosis** — Language behavior and radiance
 - **Mnemoniture**, **Flexture**, and **Auditure** — Preservation and calibrant architecture
-- **calibrant order** and **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)** — Preservation and calibrant architecture
+- **calibrant order**, **प्रतिमानकम् (*pratimānakam*)**, and **प्रतिमापनम् (*pratimāpanam*)** — Preservation and calibrant architecture
 - **Atomic Corollary** and **Fractal Signature** — Preservation and calibrant architecture
 - **pyramid's account**, **certified intellectuals**, and **asuric pyramid** — Diagnostic vocabulary
 - **church of progress**, **priests of progress**, **missionaries of progress**, and **jihadis of progress** — Diagnostic vocabulary
@@ -263,7 +263,7 @@ The sequence is:
 
 ### **calibrant** / **calibration**
 
-**Standard engineering vocabulary, book-repurposed.** A calibrant is an invariant standard against which a person or instrument can compare an output. Calibration is the act of making that comparison and correcting a departure. The Vedas are Sanskrit's primary calibrant because they keep its sounds and grammar available in use. लौकिक (*laukika*) speakers can therefore create new expressions while continuing to compare their language with an invariant वैदिक (*vaidika*) standard.
+**Standard engineering vocabulary, book-repurposed.** A calibrant is an invariant standard against which a person or instrument can compare an output. Calibration is the act of making that comparison and correcting a departure. The Vedas are Sanskrit's primary calibrant because they keep its sounds and grammar available in use. लौकिक (*laukika*) speakers can therefore create new expressions while continuing to compare their language with an invariant वैदिक (*vaidika*) standard. The Sanskrit family adopted by the book appears below.
 
 ### **calibration matrix**
 
@@ -271,11 +271,13 @@ The sequence is:
 
 ### **calibrant order**
 
-**Book-controlled English.** An architecture of order that keeps an invariant and widely available standard at its center without allowing an apex to own it. People align themselves with the calibrant and correct departures through comparison. Individuals and institutions may protect the order, but they do not create the standard or possess exclusive authority over it. Chapters 13–16 demonstrate calibrant order at the scale of language; the Epilogue points toward its extension into society.
+**Book-controlled English.** An architecture of order that keeps an invariant and widely available standard at its center without allowing an apex to own it. People align themselves with the calibrant and correct departures through comparison. Individuals and institutions may protect the order, but they do not create the standard or possess exclusive authority over it. **प्रतिमानकम् (*pratimānakam*)** names the calibrant at the center of such an order. Chapters 13–16 demonstrate calibrant order at the scale of language; the Epilogue points toward its extension into society.
 
-### **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**
+### **प्रतिमानकम् (*pratimānakam*)** / **प्रतिमापनम् (*pratimāpanam*)** / **प्रतिमिमीते (*pratimimīte*)**
 
-**Book-coined Sanskrit compound.** The fixed-standard or calibrant language. ध्रुव (*Dhruva*) supplies the fixed reference, मान (*māna*) the measure or standard, and भाषा (*bhāṣā*) the language. The term names Sanskrit's role within the wider ecology of changing natural languages.
+**Book-controlled Sanskrit family.** **प्रतिमानकम् (*pratimānakam*)** names the calibrant: an enduring and publicly available reference against which speech, action, or form can be examined. **प्रतिमापनम् (*pratimāpanam*)** names calibration, the act of making that comparison and correcting a departure. **प्रतिमिमीते (*pratimimīte*)** names the action: measures against, or calibrates.
+
+Ṛgveda 1.164.24 gives the Vedic verb with its preverb separate: **प्रति मिमीते (*prati mimīte*)**. Laukika Sanskrit joins the two as **प्रतिमिमीते (*pratimimīte*)**. The family names a relationship rather than one language. The Vedas are Sanskrit's primary **प्रतिमानकम् (*pratimānakam*)**. Sanskrit can in turn serve as a linguistic and civilizational calibrant. **ध्रौव्यता (*dhrauvyatā*)** names the invariance required of a calibrant; it does not name the whole calibrating function.
 
 ### **परम्परा (*paramparā*)**
 

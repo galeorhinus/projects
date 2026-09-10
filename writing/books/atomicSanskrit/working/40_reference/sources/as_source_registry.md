@@ -315,7 +315,7 @@ do not silently omit the gap.
 - **Local record:** `working/40_reference/sources/archive/web/cologne-mw-1899/index.html`
 - **Integrity:** SHA-256 `c89401e53d34feadc69e8f8e325e09b355259da447045e9c87e61e196ca2cc11`.
 - **Rights/storage:** Search-interface capture retained; project offers the digitization under its stated terms.
-- **Notes:** Batch 005 checked the headwords ***svar***, ***bhānu***, ***Svarbhānu***, ***lakṣmī***, and ***paśu***. Batch 007 checked ***savyasācin***, ***dhanañjaya***, ***ap***, ***payas***, ***salila***, ***pānīya***, ***jala***, ***vāri***, and ***udaka***.
+- **Notes:** Batch 005 checked the headwords ***svar***, ***bhānu***, ***Svarbhānu***, ***lakṣmī***, and ***paśu***. Batch 007 checked ***savyasācin***, ***dhanañjaya***, ***ap***, ***payas***, ***salila***, ***pānīya***, ***jala***, ***vāri***, and ***udaka***. The calibrant terminology pass checked ***pratimāna*** on printed p. 669; exact lookup: https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pratimAna&filter=deva&transLit=hk.
 
 ### `sanskritdocuments-rigveda-10`
 

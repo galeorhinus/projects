@@ -2258,7 +2258,7 @@ Arjuna's names demonstrate the principle without needing speculative derivations
 
 Water-names carry different semantic ranges. **आपः (*āpaḥ*)** is the Vedic, normally plural word for waters. **पयस् (*payas*)** can mean water, milk, rain, or nourishing fluid. **सलिल (*salila*)** describes water as flowing, surging, or fluctuating. **पानीय (*pānīya*)** is water as drink. Broader words such as **जल (*jala*)**, **वारि (*vāri*)**, and **उदक (*udaka*)** denote water in overlapping general, poetic, practical, or ritual settings.
 
-The same principle applies to Sanskrit's own descriptions. **संस्कृतम् (*saṃskṛtam*)** is perfect assembly, the wholly made. **भाषा (*bhāṣā*)** is everyday speech. **वाक् (*vāk*)** is Speech as principle and power. **वाणी (*vāṇī*)** covers voice, utterance, and expression. **देवभाषा (*devabhāṣā*)** and **देववाणी (*devavāṇī*)** convey the radiant / deva form. **गीर्वाणी (*gīrvāṇī*)** and **सुरभारती (*surabhāratī*)** preserve the poetic high form of divine speech. **शब्दविद्या (*śabda-vidyā*)** is the knowledge-system of sound and word. **सनातनभाषा (*sanātana-bhāṣā*)** frames Sanskrit through continuity: the language preserved throughout the *Sanātan* civilization. **ध्रुवमान भाषा (*dhruvamāna bhāṣā*)** is the book's technical phrasing for Sanskrit as calibrant language: the language that functions as a fixed standard.
+The same principle applies to Sanskrit's own descriptions. **संस्कृतम् (*saṃskṛtam*)** is perfect assembly, the wholly made. **भाषा (*bhāṣā*)** is everyday speech. **वाक् (*vāk*)** is Speech as principle and power. **वाणी (*vāṇī*)** covers voice, utterance, and expression. **देवभाषा (*devabhāṣā*)** and **देववाणी (*devavāṇī*)** convey the radiant / deva form. **गीर्वाणी (*gīrvāṇī*)** and **सुरभारती (*surabhāratī*)** preserve the poetic high form of divine speech. **शब्दविद्या (*śabda-vidyā*)** is the knowledge-system of sound and word. **सनातनभाषा (*sanātana-bhāṣā*)** frames Sanskrit through continuity: the language preserved throughout the *Sanātan* civilization. **प्रतिमानकम् (*pratimānakam*)** is the book's Sanskrit technical term for a calibrant. Chapter 13 and the endnote `rigveda-prati-mimite-calibration` establish the Vedic measuring operation behind that use.
 
 Sanskrit keeps many proper names open to relation, function, and recoverable structure. The claim is not universal: a name's formation must be checked rather than guessed. Yāska's formula **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*) concerns a related but separate feature of word formation: nominal words arise from verbs. It does not claim that every proper name transparently predicts the conduct of its bearer.
 
@@ -6813,6 +6813,29 @@ Sources: Arrian, *Indica* 10, preserving Megasthenes's report; J. W. McCrindle, 
 **Deployments:** Chapter 2 §2.5 (the Vedas remain the calibrant after Pāṇini makes the grammar explicit); Chapter 18 §18.5 (the *How the Story Got Built* full deployment).
 
 The Vedas are the **calibrant** — अपौरुषेय (*apauruṣeya*), seen by the मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*) and मन्त्रद्रष्ट्र्यः (*mantra-draṣṭryaḥ*) and preserved by the lineage-chain across thousands of years. Their origin beyond the seers remains unknown, and this account refuses to manufacture one. The two broad Sanskrit domains — वैदिक (*vaidika*) and लौकिक (*laukika*) — serve different purposes within one engineered architecture. The Vedas preserve the calibrant; the लौकिक (*laukika*) domain applies the shared architecture to new composition. Pāṇini documents where particular operations apply. He did not create either domain. The लौकिक (*laukika*) domain is calibrated against the Vedas, not derived from them. Pāṇini decoded the architecture implicit in the Vedic corpus and inherited the analyses of many earlier वैयाकरणाः (*vaiyākaraṇāḥ*). His अष्टाध्यायी (*Aṣṭādhyāyī*) provides the most exact working manual for लौकिक (*laukika*) Sanskrit. It strengthens access to the Vedic calibrant without becoming another calibrant. The account is offered explicitly as an alternative speculation to the pyramid's PIE and migration story, while acknowledging what remains unknown. See `reference/as_calibration_hierarchy.md` for the full reference document.
+
+---
+
+### `rigveda-prati-mimite-calibration`
+
+<!-- SOURCE-RECORDS
+- ut-rigveda-metrically-restored | RV 1.164.24; archived RV01.html
+- gretil-rigveda-padapatha | RV 1.164.24 word separation
+- jamison-brereton-rigveda-2014-dcs | RV 1.164.24 translation
+- cologne-mw-1899 | headword pratimAna, printed p. 669
+-->
+
+**Short:** Ṛgveda 1.164.24 describes chant, melody, recitation, metrical feet, syllable, and voice through a sequence of measurements. Its first quarter uses **प्रति मिमीते (*prati mimīte*)**, “measures against.” The book adopts that operation for its Sanskrit calibration family.
+
+**Deployments:** Chapter 13 §13.5, where the family is introduced; Chapter 14 epigraph, where the full mantra introduces the calibration matrix.
+
+The first quarter reads **गायत्रेण प्रति मिमीते अर्कम् (*gāyatreṇa prati mimīte arkam*)**. Translations conventionally render **मिमीते (*mimīte*)** with *measure*. The body uses *calibrate* because **प्रति (*prati*)** makes the comparison explicit: “One calibrates the chant against the Gāyatrī.” The remaining quarters continue the operation through **अर्क (*arka*)**, **सामन् (*sāman*)**, **त्रैष्टुभ (*traiṣṭubha*)**, **वाक (*vāka*)**, metrical feet, **अक्षर (*akṣara*)**, and the seven **वाणीः (*vāṇīḥ*)**. Jamison and Brereton translate the verse as a sequence in which each metrical or sounded form supplies the measure for another.
+
+The *Padapāṭha* confirms the Vedic separation **प्रति । मिमीते (*prati | mimīte*)**. **मिमीते (*mimīte*)** is a third-person singular ātmanepada present form from the semantic atom **⟪मा⟫ (*mā*)**, to measure. In laukika use, the preverb joins the verb as **प्रतिमिमीते (*pratimimīte*)**.
+
+The book builds a controlled technical family from this measuring relation. **प्रतिमानकम् (*pratimānakam*)** names the calibrant, **प्रतिमापनम् (*pratimāpanam*)** names calibration, and **प्रतिमिमीते (*pratimimīte*)** names the action of measuring against. The underlying word **प्रतिमान (*pratimāna*)** already carries the semantic field of a counterpart, model, pattern, comparison, and weight. The technical family extends that field to an architecture in which an invariant reference remains available for comparison and correction.
+
+Sources: Ṛgveda 1.164.24 in the van Nooten-Holland metrically restored text; the GRETIL *Ṛgveda Padapāṭha* at the same mantra; Stephanie W. Jamison and Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India* (Oxford University Press, 2014), RV 1.164.24; Monier Monier-Williams, *A Sanskrit-English Dictionary* (1899), p. 669, s.v. **प्रतिमान (*pratimāna*)**.
 
 ---
 

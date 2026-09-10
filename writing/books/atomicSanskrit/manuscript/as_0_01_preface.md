@@ -81,6 +81,8 @@ It is **calibrant** because its invariant architecture remains available for com
 
 It is **fractal** because the same principles recur at different scales. The precision required to form one sound also shapes words, sentences, recitation, and preservation. At a wider scale, the same calibrant relationship offers an architecture of order. Sanskrit therefore gives this series its first complete example of how **संस्कृति (*saṃskṛti*)** can embody an architecture aligned with *Sanātan*.
 
+The Vedas do not merely serve as Sanskrit's calibrant. The Ṛgveda describes the operation from within Vedic Speech: meter, chant, syllable, and voice calibrate one another. Chapter 14 returns to that mantra and shows why it is radiant, calibrant, and fractal.
+
 ## The Story This Book Challenges
 
 Most readers have been taught a very different story about Sanskrit.

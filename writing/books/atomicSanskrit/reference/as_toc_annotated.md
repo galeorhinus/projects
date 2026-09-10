@@ -184,7 +184,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan* — *The two-bucket organization: flowing-allowed vs. protected-from-drift; the engineering precondition.*
 - 13.3 Why Writing Was Insufficient — *Lipi *as perishable medium; the* Scripture *contrast; the script-chronology obsession (Brāhmī-from-Aramaic). Brāhmī is the* varṇamālā *made visible; the numerals/place-value analogy lands the reduction. Letter-shapes are the digits; the grid is the place-value.*
 - 13.4 *Aural*, Not *Oral* — *Concession-and-pivot: every culture has an oral tradition; the distinctively Indic thing is the* aural *engineering — exact phonetic preservation. Forward-points to* Auditure.
-- 13.5 *Calibrated*, Not *Codified* — *Codification preserves by authority; Sanskrit calibrates by architecture; the fixed-measure frame (*dhruva-māna-bhāṣā*).*
+- 13.5 *Calibrated*, Not *Codified* — *Codification preserves by authority; Sanskrit calibrates by architecture; the Vedic* prati mimīte *operation supplies the* pratimānakam / pratimāpanam *family.*
 
 **Chapter 14 — The Calibration Matrix** *(drafted)* — *The architecture chapter. Lays out the six engineered preservation layers (Vedas, Prātiśākhya, Vyākaraṇam, Dhātupāṭha, Varṇamālā, Chandas), each correcting the others, and the four preservation modes (Scripture, Mnemoniture, Flexture, Auditure). Meter functions as a cryptographic hash; control cases (Hebrew Masoretic, Quranic Arabic, ecclesiastical Latin) sharpen authority-vs-calibration. The Vedic Matrix vs Early-Literature contrast lands here: the Vedas are encoded perfection, not a corpus to be dated.*
 

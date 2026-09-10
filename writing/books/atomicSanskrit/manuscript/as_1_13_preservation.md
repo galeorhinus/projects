@@ -160,13 +160,23 @@ A calibrant must remain unchanged, but invariance is only the first requirement.
 
 Chapter 5 established the grammatical sequence: the bond between word and meaning already exists, people use the word, and शास्त्र (*śāstra*) then regulates that usage. The calibration matrix applies the same sequence across a civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to keep usage aligned with it.
 
-A Sanskrit form passes from teacher to student with the same vowel length, accent, and sequence, generation after generation, while ordinary speech around it changes. That constancy under transmission is **ध्रौव्यता (*dhrauvyatā*)**. Sanskrit can therefore serve as the fixed standard against which sound, form, memory, grammar, and usage are checked: **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant language.
+A Sanskrit form passes from teacher to student with the same vowel length, accent, and sequence, generation after generation, while ordinary speech around it changes. That constancy under transmission is **ध्रौव्यता (*dhrauvyatā*)**. A calibrant requires this invariance, but invariance alone does not make something a calibrant. The reference must also remain available so that people can compare their own speech with it and correct a departure.
 
-Sanātan assigns the calibrant and ordinary speech different work. People conduct daily life through प्राकृतिक (*prākṛtika*) languages, regional speech, household speech, songs, and market idioms. These living languages adapt with their speakers, while Sanskrit remains available as the calibrant that preserves knowledge and long memory.
+The Ṛgveda describes that larger operation:
+
+> गायत्रेण प्रति मिमीते अर्कम्\
+> *gāyatreṇa prati mimīte arkam*\
+> One calibrates the chant against the Gāyatrī.[NOTE: rigveda-prati-mimite-calibration]
+
+In the Vedic line, **प्रति (*prati*)** stands before **मिमीते (*mimīte*)**. Laukika Sanskrit joins them as **प्रतिमिमीते (*pratimimīte*)**: measures against, or calibrates. From this operation, the book adopts a connected Sanskrit family. **प्रतिमानकम् (*pratimānakam*)** names the calibrant, while **प्रतिमापनम् (*pratimāpanam*)** names calibration.
+
+These words are not limited to language. They name a relationship. The **प्रतिमानकम् (*pratimānakam*)** remains available as a standard, people compare their own forms or actions with it, and **प्रतिमापनम् (*pratimāpanam*)** allows a departure to be recognized and corrected. The same relationship can operate in speech, knowledge, conduct, and civilizational life.
+
+Sanātan assigns the calibrant and ordinary speech different work. People conduct daily life through प्राकृतिक (*prākṛtika*) languages, regional speech, household speech, songs, and market idioms. These living languages adapt with their speakers. The Vedas remain available as Sanskrit's primary calibrant, and Sanskrit can in turn preserve knowledge and long memory.
 
 This arrangement allows natural languages to flourish without treating them as failed Sanskrit. It also allows the calibrant to remain invariant without turning it into an apex language imposed on every household. That standard remains stable, and ordinary speech continues to flow.
 
-Like **ध्रुव (*dhruva*)**, the fixed star, Sanskrit serves as the disciplined and preserved calibrant against which knowledge, यज्ञ (*yajña*), grammar, memory, and civilizational continuity can be evaluated. The Vedas stand at the center of this calibration architecture. The प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) disciplines articulate their sounds, while छन्दस् (*chandas*) describes their meter and the पाठाः (*pāṭhāḥ*) protect their recitation. व्याकरणम् (*vyākaraṇam*) and the धातुपाठ (*Dhātupāṭha*) make the grammar and atomic inventory explicit. The गुरु-शिष्य (*guru-śiṣya*) chain carries all of this from one generation to the next.
+The Vedas stand at the center of this calibration architecture. The प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) disciplines articulate their sounds, while छन्दस् (*chandas*) describes their meter and the पाठाः (*pāṭhāḥ*) protect their recitation. व्याकरणम् (*vyākaraṇam*) and the धातुपाठ (*Dhātupāṭha*) make the grammar and atomic inventory explicit. Together, these disciplines keep the Vedic **प्रतिमानकम् (*pratimānakam*)** available for comparison. The गुरु-शिष्य (*guru-śiṣya*) chain carries the whole architecture from one generation to the next.
 
 परम्परा (*paramparā*) denotes a distributed architecture of transmission that the English word *tradition* fails to describe. Its vertical dimension preserves exact form through the गुरु-शिष्य (*guru-śiṣya*) chain. Its horizontal dimension allows learned people to move between communities and places of learning. Society supports them with food, lodging, travel, दक्षिणा (*dakṣiṇā*), invitations to यज्ञ (*yajña*), and opportunities for public debate. Knowledge can therefore circulate without passing under a central authority.
 

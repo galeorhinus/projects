@@ -1,6 +1,30 @@
 # Chapter 14 — The Calibration Matrix
 
-Sanskrit is the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-standard language. Its consistency allows it to remain a linguistic and civilizational calibrant across thousands of years, while its radiance carries that architecture outward. This chapter describes the greater engineering feat: the calibration matrix that has kept Sanskrit aligned against unintended entropy and deliberate attack.
+::: epigraph
+
+> गायत्रेण प्रति मिमीते अर्कम् ।\
+> अर्केण साम त्रैष्टुभेन वाकम् ।\
+> वाकेन वाकं द्विपदा चतुष्पदा ।\
+> अक्षरेण मिमते सप्त वाणीः ॥
+>
+> *gāyatreṇa prati mimīte arkam |*\
+> *arkeṇa sāma traiṣṭubhena vākam |*\
+> *vākena vākaṃ dvipadā catuṣpadā |*\
+> *akṣareṇa mimate sapta vāṇīḥ ||*
+>
+> One calibrates the chant against Gāyatrī, the melody against the chant, and Speech against Triṣṭubh. Two-footed and four-footed Speech calibrate Speech. The syllable calibrates the seven voices.
+>
+> `\hfill`{=latex}*— Ṛgveda 1.164.24*[NOTE: rigveda-prati-mimite-calibration]
+
+:::
+
+\bigskip
+
+---
+
+The Vedas do not merely serve as Sanskrit's calibrant. Ṛgveda 1.164.24 describes calibration within Vedic Speech itself and contains the book's three attributes in one mantra. Speech radiates through chant, melody, and voice. Each form provides a calibrant for another. The same operation repeats from the अक्षर (*akṣara*) through the metrical quarter to the complete recitation, giving the mantra a fractal structure.
+
+The Vedas are Sanskrit's primary **प्रतिमानकम् (*pratimānakam*)**. Their **ध्रौव्यता (*dhrauvyatā*)** keeps the reference invariant, while the calibration matrix keeps it available for comparison and correction. Sanskrit has therefore remained calibrated across thousands of years and can serve in turn as a linguistic and civilizational calibrant. This chapter describes the greater engineering feat: the matrix that has kept Sanskrit aligned against unintended entropy and deliberate attack.
 
 The matrix is **दिव्य (*divya*)** in the precise sense: radiant, brilliant, bearing the order of the देवाः (*devāḥ*). A system that preserves sound, meter, grammar, memory, and lineage without apex command is radiant because its order gives light without needing a pyramid to issue it.
 
@@ -26,14 +50,9 @@ The third principle appears everywhere in सनातन (*Sanātan*). It is st
 
 The Indic preservation ecology uses four methods for four kinds of material: writing, memory and retelling, trained bodily performance, and exact speech-hearing transmission. English has ordinary words for the first two but no concise names for the last two as preservation systems. This book therefore proposes three English terms: *Mnemoniture*, *Flexture*, and *Auditure*.
 
-| Mode | Mechanism | Human pair | Preserves | Indic counterpart |
-|---|---|---|---|---|
-| ***Writing*** | writing on a physical medium | sight + hand | documents, records, commentary, administrative content | **लिपि (*lipi*)** |
-| ***Mnemoniture*** *(book coinage)* | memory and retelling | hearing + recall | stories, civilizational frameworks, ethical narratives | **स्मृति (*smṛti*)** |
-| ***Flexture*** *(book coinage)* | trained gesture and posture | sight + motor coordination | embodied narrative, ceremonial and performative gesture, performance knowledge | **मुद्रा (*mudrā*)**, **हस्त (*hasta*)**, **नाट्यशास्त्र (*nāṭyaśāstra*)** |
-| ***Auditure*** *(book coinage)* | exact speech-hearing transmission | hearing + vocal articulation | phonetic form itself | **श्रुति (*śruti*)** |
+![](figures/calibration/preservation_modes_channel_lanes.svg){width=100%}
 
-The table separates the four preservation modes. The first row shows why writing cannot be allowed to become sovereign. Sanskritic preservation treats writing as लिपि (*lipi*): useful support, not the source of calibration. The pyramid treats writing as custody: a stored object that can be owned, authorized, gated, and seized.
+The four lanes separate the preservation modes. The first lane shows why writing cannot be allowed to become sovereign. Sanskritic preservation treats writing as लिपि (*lipi*): useful support, not the source of calibration. The pyramid treats writing as custody: a stored object that can be owned, authorized, gated, and seized.
 
 ***Writing*** preserves through लिपि (*lipi*) when writing remains inside its proper scope. It serves records, teaching, commentary, administration, correspondence, and ordinary communication. In the Sanskritic architecture, writing supports the calibrant without becoming the calibrant.
 
