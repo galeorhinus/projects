@@ -18,6 +18,38 @@
 
 ## Pending verifications
 
+### Pāṇinīya Śikṣā 32 — लिखितपाठक as a recitation fault — 2026-09-11
+
+Candidate Indic source for Chapter 13 §13.3, which currently argues that writing
+could not carry the *Vedas* without citing a source from inside the discipline
+that says so. Pāṇinīya Śikṣā 32 lists six worst reciters and names
+**लिखितपाठकः (*likhita-pāṭhakaḥ*)** — one who recites from writing — among them:
+
+> गीती शीघ्री शिरःकम्पी तथा लिखितपाठकः ।
+> अनर्थज्ञोऽल्पकण्ठश्च षडेते पाठकाधमाः ॥
+
+*gītī śīghrī śiraḥkampī tathā likhita-pāṭhakaḥ / anarthajño 'lpakaṇṭhaś ca ṣaḍ
+ete pāṭhakādhamāḥ* — the singer, the rusher, the head-shaker, the one who
+recites from writing, the one ignorant of the meaning, and the weak-voiced.
+
+Quoted from memory in a 2026-09-11 session; GRETIL and sanskritdocuments.org
+were both unreachable at the time, so neither the wording nor the verse number
+has been checked against a text. Chapter 15 already cites पाणिनीयशिक्षा, so the
+work itself is established in the book; this specific verse is not.
+
+| Priority | Item | What to check | Status |
+|---|---|---|---|
+| P0 | Verse text and number | Confirm the wording and that it is verse 32, against a printed edition or GRETIL. Editions differ in numbering. | `[ ]` |
+| P1 | Commentary | Check whether any commentary explains *likhita-pāṭhaka* — whether the fault is reading aloud from a manuscript, or learning from one. The two support different claims. | `[ ]` |
+| P2 | Mahābhārata parallel | The widely quoted वेदानां लेखकाश्चैव verse (writers of the Veda go to hell) is usually attributed to Śānti Parva, but the attribution circulates inconsistently. Locate it or drop it. | `[ ]` |
+| P2 | Tantravārttika | Kumārila argues Veda learned from writing lacks validity. Locate the passage. | `[ ]` |
+
+**Scope limit, whichever way verification goes.** The verse is about a reciter's
+fidelity, not about language change. It supports the claim that the discipline
+treated dependence on writing as a transmission fault. It does not support a
+claim that the tradition held a theory of writing-induced linguistic entropy,
+and §13.3 should not be written as though it does.
+
 ### Kauthuma Samaveda Padapatha recitation of Samaveda 1.78 — 2026-09-02
 
 The printed Kauthuma Padapatha divides **असुरस्य (*asurasya*)** as **अ । सुरस्य (*a | surasya*)**. This division has been checked in B. R. Sharma's edition and appears on the online Samaveda page for mantra 1.78. The audio attached to that page recites the Samhitapatha, where the joined sound cannot distinguish ***asu-ra*** from ***a-sura***.
