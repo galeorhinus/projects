@@ -1,4 +1,4 @@
-# Chapter 14 — The Calibration Matrix
+# Chapter 14 — प्रतिमापनम् (*Pratimāpanam*): The Calibration Matrix
 
 ::: epigraph
 

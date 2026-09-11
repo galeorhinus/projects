@@ -102,10 +102,10 @@ assembly:
   - kind: part
     file: manuscript/as_part_01_wrong_metaphor.md
     title: "Part I — How the Shadow Is Cast"
-    subtitle: The āsurī māyā.
+    subtitle: The आसुरी माया (āsurī māyā).
   - kind: chapter
     file: manuscript/as_1_02_botanical.md
-    title: "Chapter 2 — Category Theft and Āsurī Māyā"
+    title: "Chapter 2 — Category Theft and आसुरी माया (*Āsurī Māyā*)"
   - kind: chapter
     file: manuscript/as_1_03_strategic.md
     title: "Chapter 3 — The Pyramid's Motive and Method"
@@ -122,7 +122,7 @@ assembly:
     title: "Chapter 5 — सिद्ध (*Siddha*) and कार्य (*Kārya*)"
   - kind: chapter
     file: manuscript/as_1_06_apabhramsa.md
-    title: "Chapter 6 — *Apabhraṃśa* and Entropy"
+    title: "Chapter 6 — अपभ्रंशः (*Apabhraṃśa*) and Entropy"
 
   - kind: part
     file: manuscript/as_part_03_sound_field.md
@@ -161,7 +161,7 @@ assembly:
     title: "Chapter 13 — Why Preservation Needs Engineering"
   - kind: chapter
     file: manuscript/as_1_14_calibration.md
-    title: "Chapter 14 — The Calibration Matrix"
+    title: "Chapter 14 — प्रतिमापनम् (*Pratimāpanam*): The Calibration Matrix"
   - kind: chapter
     file: manuscript/as_1_15_aural.md
     title: "Chapter 15 — Aural Architecture"

@@ -288,7 +288,7 @@ No constructed language can remain unchanged through grammar alone, no matter ho
 
 Sanskrit meets both requirements because its generative architecture is bound to ***संस्कृति (*saṃskṛti*)***. Generations protected the language because they understood that protecting Sanskrit also protected the civilization it carried.
 
-## 16.8 How the Veda Calibrates लौकिक (*laukika*) Sanskrit
+## 16.8 प्रतिमिमीते (*Pratimimīte*): How the Veda Calibrates लौकिक (*Laukika*) Sanskrit
 
 Chapters 13–15 established how the Vedas remain invariant and available for comparison. Exact recitation protects the received form, several recitation paths expose departures, and distributed teachers and listeners perform correction. That preservation architecture allows the Vedas to serve as a continuing sound and grammar calibrant for लौकिक (*laukika*) Sanskrit.
 

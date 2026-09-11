@@ -337,6 +337,7 @@ PUBLICATIONS = {
             },
             "a5": { "geometry": "a5paper,inner=20mm,outer=10mm,top=15mm,bottom=10mm",
                     "fontsize": "10pt",
+                    "linestretch": "1.10",
                     "appendix_fontsize": None,
                     "endnotes_fontsize": None,
                     "endnotes_twocolumn": False,
@@ -455,6 +456,14 @@ _SUPPRESS_PLAIN_FOLIO = r"\makeatletter\let\ps@plain\ps@empty\makeatother"
 
 _WRAPPED_SPAN_RE = re.compile(r"`\{\\[a-zA-Z]+font\s(.*?)\}`\{=latex\}", re.S)
 
+# Part titles and subtitles are emitted inside an existing raw-LaTeX fence,
+# where Pandoc raw-inline syntax cannot be nested. Their script runs therefore
+# use direct TeX font groups. Keep separate patterns so the coverage audit can
+# recognize both representations without treating ordinary TeX groups as text.
+_RAW_LATEX_WRAPPED_SPAN_RE = re.compile(
+    r"\{\\[a-zA-Z]+font\s([^{}\n]*)\}"
+)
+
 
 # Font-name -> declaration in the preamble template, so the coverage check can
 # ask the same face xelatex will. A placeholder like __DEVANAGARIFONT__ is
@@ -465,6 +474,9 @@ _FONT_DECL_RE = re.compile(
 # Same spans as _WRAPPED_SPAN_RE, but keeping the font macro as well as the body.
 _WRAPPED_SPAN_FONT_RE = re.compile(
     r"`\{(\\[a-zA-Z]+font)\s(.*?)\}`\{=latex\}", re.S
+)
+_RAW_LATEX_WRAPPED_SPAN_FONT_RE = re.compile(
+    r"\{(\\[a-zA-Z]+font)\s([^{}\n]*)\}"
 )
 
 
@@ -530,7 +542,10 @@ def _warn_uncovered_script_characters(md_text: str, metadata_file: Path) -> None
     of the spans too."""
     families = _script_font_families(metadata_file)
     missing: dict[tuple[str, str], dict[str, int]] = {}
-    for macro, body in _WRAPPED_SPAN_FONT_RE.findall(md_text):
+    markdown_spans = _WRAPPED_SPAN_FONT_RE.findall(md_text)
+    without_markdown_spans = _WRAPPED_SPAN_RE.sub(" ", md_text)
+    raw_latex_spans = _RAW_LATEX_WRAPPED_SPAN_FONT_RE.findall(without_markdown_spans)
+    for macro, body in markdown_spans + raw_latex_spans:
         family = families.get(macro)
         if not family:
             continue  # _assert_script_fonts_declared already covers this
@@ -584,6 +599,7 @@ def warn_uncovered_characters(md_text: str, metadata_file: Path) -> None:
         return
 
     unwrapped = _WRAPPED_SPAN_RE.sub(" ", md_text)
+    unwrapped = _RAW_LATEX_WRAPPED_SPAN_RE.sub(" ", unwrapped)
     missing: dict[str, int] = {}
     for ch in unwrapped:
         o = ord(ch)
@@ -887,6 +903,26 @@ def wrap_scripts_for_latex(md_text: str) -> str:
             fired.add(font_cmd)
     _assert_script_fonts_declared(fired)
     return md_text
+
+
+def wrap_scripts_for_raw_latex(text: str) -> str:
+    """Wrap scripts in metadata text that is interpolated into raw LaTeX.
+
+    The normal Markdown wrapper deliberately skips fenced raw-LaTeX blocks.
+    Part titles and subtitles from as_book.yaml are inserted inside one such
+    block, so they need direct font groups rather than Pandoc raw-inline spans.
+    """
+    fired: set[str] = set()
+    for font_cmd, pattern in SCRIPT_WRAPS:
+        prep = _devanagari_with_breaks if font_cmd == r"\devanagarifont" else (lambda t: t)
+        text, count = pattern.subn(
+            lambda match, _f=font_cmd, _p=prep: f"{{{_f} {_p(match.group(0))}}}",
+            text,
+        )
+        if count:
+            fired.add(font_cmd)
+    _assert_script_fonts_declared(fired)
+    return text
 
 
 def _assert_script_fonts_declared(fired: set[str]) -> None:
@@ -1827,14 +1863,16 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
             # a modified \part that suppresses the trailing \cleardoublepage,
             # so the opener prose (read from `file:` below) flows on the same
             # page as the title rather than being pushed to the next page.
-            if subtitle:
+            latex_title = wrap_scripts_for_raw_latex(title)
+            latex_subtitle = wrap_scripts_for_raw_latex(subtitle) if subtitle else None
+            if latex_subtitle:
                 # The optional arg becomes the TOC entry; the mandatory arg
                 # is what the part page displays. \partopener wraps the
                 # mandatory arg in \huge\bfseries.
-                toc_text = f"{title} — \\textit{{{subtitle}}}"
+                toc_text = f"{latex_title} — \\textit{{{latex_subtitle}}}"
                 page_text = (
-                    f"{title}\\\\[2ex]"
-                    f"{{\\Large\\normalfont\\itshape {subtitle}}}"
+                    f"{latex_title}\\\\[2ex]"
+                    f"{{\\Large\\normalfont\\itshape {latex_subtitle}}}"
                 )
                 chunks.append(
                     f"\n```{{=latex}}\n"
@@ -1842,7 +1880,7 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
                     f"```\n\n"
                 )
             else:
-                chunks.append(f"\n```{{=latex}}\n\\partopener{{{title}}}\n```\n\n")
+                chunks.append(f"\n```{{=latex}}\n\\partopener{{{latex_title}}}\n```\n\n")
             if filename:
                 path = BOOK_DIR / filename
                 if not path.exists():

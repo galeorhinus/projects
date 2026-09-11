@@ -152,7 +152,7 @@ This book calls the second arrangement **petrification**. Authority preserves a 
 
 Modern Hebrew demonstrates the movement in the other direction. Once Hebrew returned to household speech and children began acquiring it as a first language, daily use began changing it again. This book calls that return **revivification**.[NOTE: petrified-bounded-forms]
 
-### Preservation by Calibration
+### प्रतिमानकम् (*Pratimānakam*): The Calibrant
 
 External authority can preserve a bounded form with considerable rigor. Sanskrit solves a different preservation problem by placing the standard inside a generative language and inside the people trained to transmit it.
 

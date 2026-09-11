@@ -46,6 +46,54 @@ recurrence and proves the linguistic member of the sequence. Later
 *Second Shanti* volumes take the next step from language into polity,
 economy, responsibility, and civilizational architecture.
 
+### 1.1 Sanskrit candidates for *fractal*
+
+**Status:** Candidate vocabulary recorded 2026-09-09. No Sanskrit term
+has yet been adopted for the manuscript. The English word *fractal*
+should remain until the conceptual distinction below has been reviewed.
+
+The modern mathematical word has no inherited Sanskrit equivalent. A
+Sanskrit construction can therefore name either geometric
+self-similarity or the broader architectural principle used in this
+book. Those are related ideas, but they are not identical. The book uses
+*fractal* to mean that the same organizing principle recurs through
+different levels of an architecture.
+
+| Candidate | Literal force | Best use | Limitation |
+|---|---|---|---|
+| स्वसदृशम् (*svasadṛśam*) | self-similar | A fractal form or object | Describes resemblance more readily than architecture |
+| स्वसादृश्यम् (*svasādṛśyam*) | self-similarity | Mathematical or geometric fractality | Does not by itself express recurrence across levels |
+| स्वप्रतिरूपता (*svapratirūpatā*) | reproduction of one's own form | A form appearing again within itself | May suggest copying rather than a governing principle |
+| स्तरानुवृत्तिः (*starānuvṛttiḥ*) | recurrence through levels | The same operation or design recurring across scale | Names the mechanism rather than the resulting architecture |
+| सर्वस्तरानुरूपता (*sarvastarānurūpatā*) | correspondence across every level | A precise technical definition | Too long for frequent prose |
+| सूक्ष्मस्थूलानुरूपता (*sūkṣmasthūlānurūpatā*) | correspondence between the minute and the large | Microcosm-macrocosm correspondence | Describes two scales rather than the full recurrence |
+| अंशसमग्रता (*aṃśasamagratā*) | the whole within the part | The book's broader architectural meaning | A book-controlled coinage that must be defined on first use |
+
+Two candidates together may express the book's meaning most clearly:
+
+- **अंशसमग्रता (*aṃśasamagratā*)** names the principle: the architecture
+  of the whole is present within the part.
+- **स्तरानुवृत्तिः (*starānuvṛttiḥ*)** names the operation: the same
+  architecture recurs from one level to another.
+
+Possible controlled family:
+
+- **Fractal:** अंशसमग्रम् (*aṃśasamagram*)
+- **Fractality:** अंशसमग्रता (*aṃśasamagratā*)
+- **Fractal architecture:** अंशसमग्ररचना (*aṃśasamagraracanā*)
+- **Recurrence across scale:** स्तरानुवृत्तिः (*starānuvṛttiḥ*)
+
+Possible introductory formulation:
+
+> Sanskrit is **अंशसमग्रम् (*aṃśasamagram*)**: each part carries the
+> architecture of the whole. Its recurrence from one level to another
+> is **स्तरानुवृत्तिः (*starānuvṛttiḥ*)**.
+
+Avoid a construction based on **भग्न (*bhagna*, broken)**. Such a word
+would imitate the Latin derivation of *fractal* while emphasizing
+fracture, which is the opposite of the architectural continuity the
+book describes.
+
 ---
 
 ## 2. Fractal orders and the contest between them
