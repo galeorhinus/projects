@@ -10,7 +10,7 @@ from pathlib import Path
 OUT = Path(__file__).with_name("svara_two_domains.from-py.svg")
 
 WIDTH = 1200
-HEIGHT = 875
+HEIGHT = 1045
 
 PAPER = "#f7f4ed"
 INK = "#29251f"
@@ -23,13 +23,13 @@ RESTRICTED = "#d4c6a8"
 RED = "#8b4b3d"
 
 LATIN = "EB Garamond, Charter, Georgia, serif"
-DEVA = "Adobe Devanagari, Noto Serif Devanagari, serif"
+DEVA = "Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif"
 
 ROWS = [
     ("Vowel families and ordinary duration", True, True, "Shared"),
-    ("Vedic pitch layer: udātta · anudātta · svarita", True, False, "Vaidika"),
-    ("Exact lineage-preserved form", True, False, "Lineage-Bounded"),
-    ("New composition through the shared system", False, True, "Laukika"),
+    ("Vedic pitch: udātta ·\nanudātta · svarita", True, False, "Vaidika"),
+    ("Exact lineage-preserved form", True, False, "Lineage-\nBounded"),
+    ("New composition through\nthe shared system", False, True, "Laukika"),
     ("Pluta under stated conditions", "restricted", "restricted", "Restricted"),
 ]
 
@@ -88,12 +88,12 @@ def domain_mark(x: float, y: float, value: object) -> list[str]:
 
 def render() -> str:
     x0 = 54
-    feature_w = 610
-    domain_w = 160
-    scope_w = 216
-    table_y = 214
-    header_h = 78
-    row_h = 86
+    feature_w = 540
+    domain_w = 180
+    scope_w = 192
+    table_y = 225
+    header_h = 100
+    row_h = 110
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" '
         f'viewBox="0 0 {WIDTH} {HEIGHT}">',
@@ -101,18 +101,18 @@ def render() -> str:
         text(54, 68, "One Svara Architecture, Two Domains", size=48, weight=600),
         text(
             54,
-            111,
+            116,
             "How Vaidika preservation and Laukika composition use the same vowel system",
-            size=25,
+            size=32,
             color=MUTED,
             italic=True,
         ),
-        f'<rect x="54" y="142" width="{WIDTH - 108}" height="46" fill="{GOLD_LIGHT}"/>',
+        f'<rect x="54" y="145" width="{WIDTH - 108}" height="58" fill="{GOLD_LIGHT}"/>',
         text(
             WIDTH / 2,
-            173,
+            184,
             "Nine vowel families · duration · pitch · nasality",
-            size=23,
+            size=34,
             color=INK,
             weight=600,
             anchor="middle",
@@ -120,28 +120,70 @@ def render() -> str:
     ]
 
     headers = [
-        (x0, feature_w, "Feature"),
-        (x0 + feature_w, domain_w, "वैदिक · vaidika"),
-        (x0 + feature_w + domain_w, domain_w, "लौकिक · laukika"),
-        (x0 + feature_w + domain_w * 2, scope_w, "Scope"),
+        (x0, feature_w),
+        (x0 + feature_w, domain_w),
+        (x0 + feature_w + domain_w, domain_w),
+        (x0 + feature_w + domain_w * 2, scope_w),
     ]
-    for x, width, label in headers:
+    for x, width in headers:
         parts.extend(
             [
                 f'<rect x="{x}" y="{table_y}" width="{width}" height="{header_h}" '
                 f'fill="{INK}" stroke="{PAPER}" stroke-width="2"/>',
-                text(
-                    x + (24 if label == "Feature" else width / 2),
-                    table_y + 49,
-                    label,
-                    size=23,
-                    color=PAPER,
-                    weight=600,
-                    anchor="start" if label == "Feature" else "middle",
-                    family=DEVA if "·" in label else LATIN,
-                ),
             ]
         )
+    parts.extend(
+        [
+            text(x0 + 24, table_y + 63, "Feature", size=34, color=PAPER, weight=600),
+            text(
+                x0 + feature_w + domain_w / 2,
+                table_y + 42,
+                "वैदिक",
+                size=36,
+                color=PAPER,
+                weight=600,
+                anchor="middle",
+                family=DEVA,
+            ),
+            text(
+                x0 + feature_w + domain_w / 2,
+                table_y + 79,
+                "vaidika",
+                size=32,
+                color=PAPER,
+                weight=600,
+                anchor="middle",
+            ),
+            text(
+                x0 + feature_w + domain_w * 1.5,
+                table_y + 42,
+                "लौकिक",
+                size=36,
+                color=PAPER,
+                weight=600,
+                anchor="middle",
+                family=DEVA,
+            ),
+            text(
+                x0 + feature_w + domain_w * 1.5,
+                table_y + 79,
+                "laukika",
+                size=32,
+                color=PAPER,
+                weight=600,
+                anchor="middle",
+            ),
+            text(
+                x0 + feature_w + domain_w * 2 + scope_w / 2,
+                table_y + 63,
+                "Scope",
+                size=34,
+                color=PAPER,
+                weight=600,
+                anchor="middle",
+            ),
+        ]
+    )
 
     for index, (feature, vaidika, laukika, scope) in enumerate(ROWS):
         y = table_y + header_h + index * row_h
@@ -156,7 +198,12 @@ def render() -> str:
                 f'<rect x="{x}" y="{y}" width="{width}" height="{row_h}" '
                 f'fill="{fill}" stroke="{GRID}" stroke-width="1"/>'
             )
-        parts.append(text(x0 + 24, y + 52, feature, size=23, weight=500))
+        feature_lines = feature.split("\n")
+        feature_start_y = y + (50 if len(feature_lines) > 1 else 68)
+        for line_index, line in enumerate(feature_lines):
+            parts.append(
+                text(x0 + 20, feature_start_y + line_index * 36, line, size=32, weight=500)
+            )
         parts.extend(domain_mark(x0 + feature_w + domain_w / 2, y + row_h / 2, vaidika))
         parts.extend(
             domain_mark(
@@ -166,35 +213,38 @@ def render() -> str:
             )
         )
         scope_color = GOLD if scope in {"Shared", "Vaidika", "Laukika"} else RED
-        parts.append(
-            text(
-                x0 + feature_w + domain_w * 2 + scope_w / 2,
-                y + 51,
-                scope,
-                size=21,
-                color=scope_color,
-                weight=600,
-                anchor="middle",
+        scope_lines = scope.split("\n")
+        scope_start_y = y + (49 if len(scope_lines) > 1 else 66)
+        for line_index, line in enumerate(scope_lines):
+            parts.append(
+                text(
+                    x0 + feature_w + domain_w * 2 + scope_w / 2,
+                    scope_start_y + line_index * 35,
+                    line,
+                    size=32,
+                    color=scope_color,
+                    weight=600,
+                    anchor="middle",
+                )
             )
-        )
 
     bottom_y = table_y + header_h + len(ROWS) * row_h + 34
     parts.extend(
         [
-            text(54, bottom_y, "The domains share a vowel system.", size=22, weight=600),
+            text(54, bottom_y, "The domains share one vowel system.", size=32, weight=600),
             text(
                 54,
-                bottom_y + 31,
-                "Their permissions differ because preservation and new composition serve different purposes.",
-                size=21,
+                bottom_y + 38,
+                "Preservation and new composition require different permissions.",
+                size=32,
                 color=MUTED,
             ),
-            f'<rect x="54" y="{bottom_y + 56}" width="{WIDTH - 108}" height="62" fill="{INK}"/>',
+            f'<rect x="54" y="{bottom_y + 62}" width="{WIDTH - 108}" height="62" fill="{INK}"/>',
             text(
                 WIDTH / 2,
-                bottom_y + 96,
+                bottom_y + 103,
                 "One vowel system. Different permissions.",
-                size=29,
+                size=36,
                 color=PAPER,
                 weight=600,
                 anchor="middle",

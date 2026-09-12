@@ -10,7 +10,7 @@ from pathlib import Path
 OUT = Path(__file__).with_name("shared_architecture_overlap.from-py.svg")
 
 WIDTH = 1500
-HEIGHT = 900
+HEIGHT = 1050
 
 PAPER = "#f7f4ed"
 INK = "#29251f"
@@ -23,7 +23,7 @@ BLEND = "#d9d4bd"
 GRID = "#bdb4a5"
 
 LATIN = "EB Garamond, Charter, Georgia, serif"
-DEVA = "Adobe Devanagari, Noto Serif Devanagari, serif"
+DEVA = "Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif"
 
 
 def esc(value: object) -> str:
@@ -61,11 +61,11 @@ def render() -> str:
     # Both rectangles share their left and lower edges. The resulting right-hand
     # strip makes the small laukika-only extension visible without exaggerating it.
     x = 60
-    bottom = 780
+    bottom = 900
     vaidika_w = 1000
-    vaidika_h = 600
+    vaidika_h = 720
     laukika_w = 1020
-    laukika_h = 470
+    laukika_h = 500
     vaidika_y = bottom - vaidika_h
     laukika_y = bottom - laukika_h
     right = x + laukika_w
@@ -79,9 +79,9 @@ def render() -> str:
         text(54, 68, "One Sanskrit Architecture, Two Domains", size=47, weight=600),
         text(
             54,
-            111,
+            120,
             "A large shared engine with smaller domain-specific extensions",
-            size=25,
+            size=40,
             color=MUTED,
             italic=True,
         ),
@@ -104,35 +104,35 @@ def render() -> str:
         [
             text(
                 x + vaidika_w / 2,
-                vaidika_y + 34,
+                vaidika_y + 50,
                 "वैदिक · vaidika",
-                size=31,
+                size=40,
                 weight=600,
                 anchor="middle",
                 family=DEVA,
             ),
             text(
                 x + vaidika_w / 2,
-                vaidika_y + 66,
+                vaidika_y + 100,
                 "Vaidika Only",
-                size=25,
+                size=40,
                 color=GOLD,
                 weight=600,
                 anchor="middle",
             ),
             text(
                 x + vaidika_w / 2,
-                vaidika_y + 92,
+                vaidika_y + 150,
                 "pitch · leṭ · additional endings",
-                size=27,
+                size=40,
                 color=MUTED,
                 anchor="middle",
             ),
             text(
                 x + vaidika_w / 2,
-                vaidika_y + 118,
+                vaidika_y + 198,
                 "contextual sounds · movable upasargāḥ",
-                size=27,
+                size=40,
                 color=MUTED,
                 anchor="middle",
             ),
@@ -145,37 +145,37 @@ def render() -> str:
         [
             text(
                 shared_cx,
-                laukika_y + 46,
+                laukika_y + 55,
                 "वैदिक + लौकिक · vaidika + laukika",
-                size=30,
+                size=40,
                 weight=600,
                 anchor="middle",
                 family=DEVA,
             ),
             text(
                 shared_cx,
-                laukika_y + 88,
+                laukika_y + 110,
                 "Shared Sanskrit Architecture",
-                size=40,
+                size=44,
                 weight=600,
                 anchor="middle",
             ),
             text(
                 shared_cx,
-                laukika_y + 124,
+                laukika_y + 155,
                 "Most of both domains",
-                size=28,
+                size=40,
                 color=MUTED,
                 italic=True,
                 anchor="middle",
             ),
-            rule(x + 58, laukika_y + 151, x + overlap_w - 58, GOLD),
+            rule(x + 58, laukika_y + 183, x + overlap_w - 58, GOLD),
         ]
     )
 
     left_x = x + 145
     right_x = x + 585
-    row_y = laukika_y + 204
+    row_y = laukika_y + 245
     rows = [
         ("Sonomers and svaras", "Dhātavaḥ"),
         ("Upasarga · pratyaya", "Vibhakti · liṅga · vacana"),
@@ -183,13 +183,13 @@ def render() -> str:
         ("Samāsa", "Sentence architecture"),
     ]
     for index, (left, right_label) in enumerate(rows):
-        y = row_y + index * 58
+        y = row_y + index * 65
         parts.extend(
             [
                 f'<circle cx="{left_x - 22}" cy="{y - 7}" r="5" fill="{GOLD}"/>',
-                text(left_x, y, left, size=34, weight=500),
+                text(left_x, y, left, size=40, weight=500),
                 f'<circle cx="{right_x - 22}" cy="{y - 7}" r="5" fill="{GOLD}"/>',
-                text(right_x, y, right_label, size=34, weight=500),
+                text(right_x, y, right_label, size=40, weight=500),
             ]
         )
 
@@ -198,47 +198,55 @@ def render() -> str:
 
     # Explanatory copy sits outside the geometry so it does not enlarge the domain.
     callout_x = right + 45
-    callout_y = laukika_y + 76
+    callout_y = laukika_y + 50
     parts.extend(
         [
-            f'<path d="M {right} {extension_cy} H {callout_x - 28} V {callout_y + 7}" '
+            f'<path d="M {right} {extension_cy} H {callout_x - 28} V {callout_y + 15}" '
             f'fill="none" stroke="{GRID}" stroke-width="2"/>',
             text(
                 callout_x,
                 callout_y,
-                "Laukika-only extension",
-                size=27,
+                "Laukika-only",
+                size=40,
                 color=SAGE_DARK,
                 weight=600,
             ),
-            rule(callout_x, callout_y + 20, WIDTH - 54, SAGE_DARK),
             text(
                 callout_x,
-                callout_y + 67,
+                callout_y + 44,
+                "extension",
+                size=40,
+                color=SAGE_DARK,
+                weight=600,
+            ),
+            rule(callout_x, callout_y + 64, WIDTH - 54, SAGE_DARK),
+            text(
+                callout_x,
+                callout_y + 116,
                 "bhāṣāyām-specific forms",
-                size=24,
+                size=40,
                 color=MUTED,
                 italic=True,
             ),
             text(
                 callout_x,
-                callout_y + 135,
+                callout_y + 183,
                 "niṣaṇṇa · sṛtā",
-                size=26,
+                size=40,
                 color=MUTED,
             ),
             text(
                 callout_x,
-                callout_y + 177,
+                callout_y + 239,
                 "suṣuve · soḍhvā",
-                size=26,
+                size=40,
                 color=MUTED,
             ),
             text(
                 callout_x,
-                callout_y + 219,
+                callout_y + 295,
                 "upasedivān",
-                size=26,
+                size=40,
                 color=MUTED,
             ),
         ]
@@ -246,12 +254,12 @@ def render() -> str:
 
     parts.extend(
         [
-            f'<rect x="54" y="{HEIGHT - 70}" width="{WIDTH - 108}" height="52" fill="{INK}"/>',
+            f'<rect x="54" y="{HEIGHT - 95}" width="{WIDTH - 108}" height="70" fill="{INK}"/>',
             text(
                 WIDTH / 2,
-                HEIGHT - 36,
+                HEIGHT - 48,
                 "The shared architecture dominates both domains.",
-                size=25,
+                size=40,
                 color=PAPER,
                 weight=600,
                 anchor="middle",

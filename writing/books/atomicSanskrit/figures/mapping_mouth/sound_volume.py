@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import html
+import math
 from pathlib import Path
 
 
@@ -69,8 +70,10 @@ def mini_hex(
     fill: str,
     stroke: str,
     dash: str | None = None,
+    height: float = 40,
 ) -> str:
-    w, h = 48, 30
+    h = height
+    w = h * 2 / math.sqrt(3)
     points = [
         (cx - w / 2, cy),
         (cx - w / 4, cy - h / 2),
@@ -91,25 +94,25 @@ def draw_plane(x: float, y: float) -> list[str]:
     parts: list[str] = []
     for offset_x, offset_y, opacity in [(24, -22, 0.35), (12, -11, 0.58)]:
         parts.append(
-            f'<rect x="{x + offset_x}" y="{y + offset_y}" width="310" height="266" '
+            f'<rect x="{x + offset_x}" y="{y + offset_y}" width="360" height="400" '
             f'rx="5" fill="{GHOST}" stroke="{LINE}" stroke-width="1" opacity="{opacity}"/>'
         )
-    parts.append(rect(x, y, 310, 266, fill=WHITE, stroke=INK, rx=5))
+    parts.append(rect(x, y, 360, 400, fill=WHITE, stroke=INK, rx=5))
     for row in range(7):
         for col in range(5):
-            cx = x + 35 + col * 60
-            cy = y + 26 + row * 36
+            cx = x + 50 + col * 65
+            cy = y + 47 + row * 50
             missing = (row == 5 and col == 0) or (row == 6 and col == 4)
             if missing:
                 parts.append(mini_hex(cx, cy, fill=WHITE, stroke=GOLD, dash="4 3"))
-                parts.append(text(cx, cy + 1, "1" if col == 0 else "2", 11, weight=700, fill=GOLD))
+                parts.append(text(cx, cy + 1, "1" if col == 0 else "2", 30, weight=700, fill=GOLD))
             else:
                 parts.append(mini_hex(cx, cy, fill=GHOST, stroke=MUTED))
     return parts
 
 
 def main() -> None:
-    width, height = 1040, 640
+    width, height = 1040, 930
     forms = ["क", "का", "कि", "की", "कु", "कू", "कृ", "कॄ", "कॢ", "कॣ", "के", "कै", "को", "कौ"]
     parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -117,33 +120,38 @@ def main() -> None:
         f'<rect width="{width}" height="{height}" fill="{PAPER}"/>',
     ]
 
-    parts.append(text(215, 44, "THE CONSONANT PLANE", 15, weight=700, fill=MUTED))
-    parts.extend(draw_plane(58, 82))
-    parts.append(text(213, 381, "5 places × 7 rows", 19, weight=600))
-    parts.append(text(213, 411, "35 possible addresses", 16, fill=MUTED))
+    parts.append(text(220, 47, "THE CONSONANT PLANE", 30, weight=700, fill=MUTED))
+    parts.extend(draw_plane(40, 92))
+    parts.append(text(220, 540, "5 places × 7 rows", 32, weight=600))
+    parts.append(text(220, 580, "35 possible addresses", 30, fill=MUTED))
 
-    parts.append(text(423, 217, "×", 40, weight=600, fill=GOLD))
+    parts.append(text(430, 292, "×", 44, weight=600, fill=GOLD))
 
-    parts.append(rect(490, 82, 492, 266, fill=WHITE, stroke=LINE, rx=6))
-    parts.append(text(736, 116, "THE FOURTEEN-POSITION TEACHING AXIS", 15, weight=700, fill=MUTED))
+    parts.append(rect(460, 92, 540, 400, fill=WHITE, stroke=LINE, rx=6))
+    parts.append(text(730, 130, "THE FOURTEEN-POSITION", 30, weight=700, fill=MUTED))
+    parts.append(text(730, 165, "TEACHING AXIS", 30, weight=700, fill=MUTED))
     for index, form in enumerate(forms):
         row, col = divmod(index, 7)
-        cx = 532 + col * 68
-        cy = 174 + row * 93
-        parts.append(mini_hex(cx, cy, fill=GOLD_LIGHT, stroke=GOLD))
-        parts.append(text(cx, cy - 1, form, 20, family=DEV, weight=600))
-    parts.append(text(736, 330, "one consonant address extends through all fourteen positions", 16, fill=MUTED))
+        cx = 500 + col * 76
+        cy = 245 + row * 125
+        parts.append(mini_hex(cx, cy, fill=GOLD_LIGHT, stroke=GOLD, height=56))
+        parts.append(text(cx, cy - 1, form, 34, family=DEV, weight=600))
+    parts.append(text(730, 455, "one consonant address extends", 30, fill=MUTED))
+    parts.append(text(730, 485, "through all fourteen positions", 30, fill=MUTED))
 
-    parts.append(rect(58, 462, 924, 126, fill=WHITE, stroke=LINE, rx=6))
-    parts.append(text(520, 490, "THE MULTIPLICATION", 15, weight=700, fill=MUTED))
-    parts.append(text(225, 535, "35 × 14", 30, weight=600))
-    parts.append(text(225, 567, "490 possible positions", 15, fill=MUTED))
-    parts.append(text(520, 535, "−  2 × 14", 30, weight=600, fill=GOLD))
-    parts.append(text(520, 567, "28 positions remain empty", 15, fill=MUTED))
-    parts.append(text(815, 535, "33 × 14 = 462", 30, weight=700))
-    parts.append(text(815, 567, "addressed teaching combinations", 15, fill=MUTED))
+    parts.append(rect(40, 630, 960, 235, fill=WHITE, stroke=LINE, rx=6))
+    parts.append(text(520, 670, "THE MULTIPLICATION", 30, weight=700, fill=MUTED))
+    parts.append(text(200, 730, "35 × 14", 40, weight=600))
+    parts.append(text(200, 777, "490 possible", 30, fill=MUTED))
+    parts.append(text(200, 812, "positions", 30, fill=MUTED))
+    parts.append(text(520, 730, "−  2 × 14", 40, weight=600, fill=GOLD))
+    parts.append(text(520, 777, "28 positions", 30, fill=MUTED))
+    parts.append(text(520, 812, "remain empty", 30, fill=MUTED))
+    parts.append(text(840, 730, "33 × 14 = 462", 40, weight=700))
+    parts.append(text(840, 770, "addressed teaching", 30, fill=MUTED))
+    parts.append(text(840, 805, "combinations", 30, fill=MUTED))
 
-    parts.append(text(520, 618, "A classroom row unrolls one fiber of the volume.", 17, fill=MUTED))
+    parts.append(text(520, 910, "A classroom row unrolls one fiber of the volume.", 30, fill=MUTED))
     parts.append("</svg>")
     OUT.write_text("\n".join(parts) + "\n", encoding="utf-8")
     print(f"Wrote {OUT}")

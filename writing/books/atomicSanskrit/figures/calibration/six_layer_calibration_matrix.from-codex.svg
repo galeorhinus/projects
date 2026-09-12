@@ -1,75 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="4.5in" height="3.375in" viewBox="0 0 1200 900">
-  <rect width="1200" height="900" fill="#f7f4ed"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5in" height="4.125in" viewBox="0 0 1200 1100">
+  <rect width="1200" height="1100" fill="#f7f4ed"/>
 
-  <text x="54" y="62" font-family="EB Garamond, Charter, Georgia, serif" font-size="45" font-weight="600" fill="#29251f">The Six-Layer Calibration Matrix</text>
-  <text x="54" y="102" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-style="italic" fill="#6e675d">One primary calibrant · five disciplines that make its architecture explicit</text>
+  <text x="54" y="65" font-family="EB Garamond, Charter, Georgia, serif" font-size="46" font-weight="600" fill="#29251f">The Six-Layer Calibration Matrix</text>
+  <text x="54" y="109" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-style="italic" fill="#6e675d">One primary calibrant · five disciplines that make its architecture explicit</text>
 
-  <rect x="54" y="132" width="1092" height="112" rx="6" fill="#9d7c36"/>
-  <circle cx="93" cy="188" r="24" fill="#f7f4ed"/>
-  <text x="93" y="197" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="700" fill="#9d7c36">1</text>
-  <text x="132" y="181" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="35" font-weight="600" fill="#ffffff">वेदाः</text>
-  <text x="224" y="181" font-family="EB Garamond, Charter, Georgia, serif" font-size="30" font-weight="600" font-style="italic" fill="#ffffff">· Vedas</text>
-  <text x="132" y="218" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" fill="#ffffff">Primary calibrant · preserves Sanskrit in performed use</text>
+  <rect x="54" y="140" width="1092" height="135" rx="6" fill="#9d7c36"/>
+  <circle cx="95" cy="207" r="27" fill="#f7f4ed"/>
+  <text x="95" y="218" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="700" fill="#9d7c36">1</text>
+  <text x="140" y="198" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="40" font-weight="600" fill="#ffffff">वेदाः</text>
+  <text x="246" y="198" font-family="EB Garamond, Charter, Georgia, serif" font-size="34" font-weight="600" font-style="italic" fill="#ffffff">· Vedas</text>
+  <text x="140" y="245" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" fill="#ffffff">Primary calibrant · preserves Sanskrit in performed use</text>
 
-  <line x1="905" y1="278" x2="936" y2="278" stroke="#9d7c36" stroke-width="3"/>
-  <line x1="905" y1="380" x2="936" y2="380" stroke="#9d7c36" stroke-width="3"/>
-  <line x1="905" y1="482" x2="936" y2="482" stroke="#9d7c36" stroke-width="3"/>
-  <line x1="905" y1="584" x2="936" y2="584" stroke="#9d7c36" stroke-width="3"/>
-  <line x1="905" y1="686" x2="936" y2="686" stroke="#9d7c36" stroke-width="3"/>
+  <line x1="905" y1="355" x2="936" y2="355" stroke="#9d7c36" stroke-width="3"/>
+  <line x1="905" y1="485" x2="936" y2="485" stroke="#9d7c36" stroke-width="3"/>
+  <line x1="905" y1="615" x2="936" y2="615" stroke="#9d7c36" stroke-width="3"/>
+  <line x1="905" y1="745" x2="936" y2="745" stroke="#9d7c36" stroke-width="3"/>
+  <line x1="905" y1="875" x2="936" y2="875" stroke="#9d7c36" stroke-width="3"/>
 
-  <rect x="54" y="258" width="851" height="82" rx="5" fill="#ffffff" stroke="#cfc6b5" stroke-width="2"/>
-  <circle cx="91" cy="299" r="21" fill="#29251f"/>
-  <text x="91" y="307" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="700" fill="#ffffff">2</text>
-  <text x="126" y="291" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="29" font-weight="600" fill="#29251f">प्रातिशाख्यम्</text>
-  <text x="303" y="291" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="italic" fill="#29251f">· prātiśākhya</text>
-  <text x="126" y="321" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" fill="#6e675d">Articulates branch-specific pronunciation, accent, junction, and pause</text>
+  <g>
+    <rect x="54" y="300" width="851" height="120" rx="5" fill="#ffffff" stroke="#cfc6b5" stroke-width="2"/>
+    <circle cx="94" cy="355" r="24" fill="#29251f"/>
+    <text x="94" y="366" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="700" fill="#ffffff">2</text>
+    <text x="140" y="347" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="36" font-weight="600" fill="#29251f">प्रातिशाख्यम्</text>
+    <text x="356" y="347" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="600" font-style="italic" fill="#29251f">· prātiśākhya</text>
+    <text x="140" y="386" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" fill="#6e675d">Articulates branch-specific pronunciation,</text>
+    <text x="140" y="416" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" fill="#6e675d">accent, junction, and pause</text>
+  </g>
 
-  <rect x="54" y="360" width="851" height="82" rx="5" fill="#f0ece3" stroke="#cfc6b5" stroke-width="2"/>
-  <circle cx="91" cy="401" r="21" fill="#29251f"/>
-  <text x="91" y="409" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="700" fill="#ffffff">3</text>
-  <text x="126" y="393" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="29" font-weight="600" fill="#29251f">व्याकरणम्</text>
-  <text x="281" y="393" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="italic" fill="#29251f">· vyākaraṇam</text>
-  <text x="126" y="423" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" fill="#6e675d">Explains how Sanskrit generates words and sentences</text>
+  <g>
+    <rect x="54" y="430" width="851" height="120" rx="5" fill="#f0ece3" stroke="#cfc6b5" stroke-width="2"/>
+    <circle cx="94" cy="485" r="24" fill="#29251f"/>
+    <text x="94" y="496" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="700" fill="#ffffff">3</text>
+    <text x="140" y="477" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="36" font-weight="600" fill="#29251f">व्याकरणम्</text>
+    <text x="330" y="477" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="600" font-style="italic" fill="#29251f">· vyākaraṇam</text>
+    <text x="140" y="518" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" fill="#6e675d">Explains how Sanskrit generates words and sentences</text>
+  </g>
 
-  <rect x="54" y="462" width="851" height="82" rx="5" fill="#ffffff" stroke="#cfc6b5" stroke-width="2"/>
-  <circle cx="91" cy="503" r="21" fill="#29251f"/>
-  <text x="91" y="511" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="700" fill="#ffffff">4</text>
-  <text x="126" y="495" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="29" font-weight="600" fill="#29251f">धातुपाठः</text>
-  <text x="260" y="495" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="italic" fill="#29251f">· dhātupāṭha</text>
-  <text x="126" y="525" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" fill="#6e675d">Records the semantic atoms and their activation patterns</text>
+  <g>
+    <rect x="54" y="560" width="851" height="120" rx="5" fill="#ffffff" stroke="#cfc6b5" stroke-width="2"/>
+    <circle cx="94" cy="615" r="24" fill="#29251f"/>
+    <text x="94" y="626" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="700" fill="#ffffff">4</text>
+    <text x="140" y="607" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="36" font-weight="600" fill="#29251f">धातुपाठः</text>
+    <text x="300" y="607" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="600" font-style="italic" fill="#29251f">· dhātupāṭha</text>
+    <text x="140" y="648" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" fill="#6e675d">Records the semantic atoms and their activation patterns</text>
+  </g>
 
-  <rect x="54" y="564" width="851" height="82" rx="5" fill="#f0ece3" stroke="#cfc6b5" stroke-width="2"/>
-  <circle cx="91" cy="605" r="21" fill="#29251f"/>
-  <text x="91" y="613" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="700" fill="#ffffff">5</text>
-  <text x="126" y="597" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="29" font-weight="600" fill="#29251f">वर्णमाला</text>
-  <text x="252" y="597" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="italic" fill="#29251f">· varṇamālā</text>
-  <text x="126" y="627" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" fill="#6e675d">Records the sonomer inventory as an anatomical grid</text>
+  <g>
+    <rect x="54" y="690" width="851" height="120" rx="5" fill="#f0ece3" stroke="#cfc6b5" stroke-width="2"/>
+    <circle cx="94" cy="745" r="24" fill="#29251f"/>
+    <text x="94" y="756" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="700" fill="#ffffff">5</text>
+    <text x="140" y="737" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="36" font-weight="600" fill="#29251f">वर्णमाला</text>
+    <text x="292" y="737" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="600" font-style="italic" fill="#29251f">· varṇamālā</text>
+    <text x="140" y="778" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" fill="#6e675d">Records the sonomer inventory as an anatomical grid</text>
+  </g>
 
-  <rect x="54" y="666" width="851" height="82" rx="5" fill="#ffffff" stroke="#cfc6b5" stroke-width="2"/>
-  <circle cx="91" cy="707" r="21" fill="#29251f"/>
-  <text x="91" y="715" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="700" fill="#ffffff">6</text>
-  <text x="126" y="699" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="29" font-weight="600" fill="#29251f">छन्दस्</text>
-  <text x="228" y="699" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="italic" fill="#29251f">· chandas</text>
-  <text x="126" y="729" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" fill="#6e675d">Records metrical forms and tests whether timed language fits</text>
+  <g>
+    <rect x="54" y="820" width="851" height="120" rx="5" fill="#ffffff" stroke="#cfc6b5" stroke-width="2"/>
+    <circle cx="94" cy="875" r="24" fill="#29251f"/>
+    <text x="94" y="886" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="700" fill="#ffffff">6</text>
+    <text x="140" y="867" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="36" font-weight="600" fill="#29251f">छन्दस्</text>
+    <text x="260" y="867" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="600" font-style="italic" fill="#29251f">· chandas</text>
+    <text x="140" y="908" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" fill="#6e675d">Records metrical forms and tests whether timed language fits</text>
+  </g>
 
-  <rect x="936" y="258" width="210" height="490" rx="6" fill="#29251f"/>
-  <text x="1041" y="322" text-anchor="middle" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="34" font-weight="600" fill="#e8dfcc">शिक्षा</text>
-  <text x="1041" y="358" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="italic" fill="#ffffff">śikṣā</text>
-  <line x1="970" y1="382" x2="1112" y2="382" stroke="#9d7c36" stroke-width="2"/>
-  <text x="1041" y="432" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" fill="#ffffff">
-    <tspan x="1041" dy="0">trains the</tspan>
-    <tspan x="1041" dy="32">human being</tspan>
-    <tspan x="1041" dy="32">across every</tspan>
-    <tspan x="1041" dy="32">layer</tspan>
+  <rect x="936" y="300" width="210" height="630" rx="6" fill="#29251f"/>
+  <text x="1041" y="365" text-anchor="middle" font-family="Noto Serif Devanagari, Noto Sans Devanagari, serif" font-size="40" font-weight="600" fill="#e8dfcc">शिक्षा</text>
+  <text x="1041" y="410" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="34" font-weight="600" font-style="italic" fill="#ffffff">śikṣā</text>
+  <line x1="970" y1="436" x2="1112" y2="436" stroke="#9d7c36" stroke-width="2"/>
+  <text x="1041" y="492" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" fill="#ffffff">
+    <tspan x="1041" dy="0">trains</tspan>
+    <tspan x="1041" dy="40">the human</tspan>
+    <tspan x="1041" dy="40">being across</tspan>
+    <tspan x="1041" dy="40">every layer</tspan>
   </text>
-  <text x="1041" y="606" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-style="italic" fill="#e8dfcc">
+  <line x1="970" y1="670" x2="1112" y2="670" stroke="#9d7c36" stroke-width="2"/>
+  <text x="1041" y="725" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-style="italic" fill="#e8dfcc">
     <tspan x="1041" dy="0">mouth</tspan>
-    <tspan x="1041" dy="27">voice</tspan>
-    <tspan x="1041" dy="27">ear</tspan>
-    <tspan x="1041" dy="27">memory</tspan>
+    <tspan x="1041" dy="42">voice</tspan>
+    <tspan x="1041" dy="42">ear</tspan>
+    <tspan x="1041" dy="42">memory</tspan>
   </text>
 
-  <rect x="54" y="790" width="1092" height="68" fill="#65715b"/>
-  <text x="600" y="833" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" fill="#ffffff">The Vedas preserve the language · the disciplines make its architecture explicit</text>
+  <rect x="54" y="980" width="1092" height="80" fill="#65715b"/>
+  <text x="600" y="1030" text-anchor="middle" font-family="EB Garamond, Charter, Georgia, serif" font-size="32" font-weight="600" fill="#ffffff">The Vedas preserve the language · the disciplines make its architecture explicit</text>
 </svg>

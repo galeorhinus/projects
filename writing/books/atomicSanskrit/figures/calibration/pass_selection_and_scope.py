@@ -10,7 +10,7 @@ from pathlib import Path
 OUT = Path(__file__).with_name("pass_selection_and_scope.from-py.svg")
 
 WIDTH = 1200
-HEIGHT = 900
+HEIGHT = 1160
 
 PAPER = "#f7f4ed"
 INK = "#29251f"
@@ -93,44 +93,51 @@ def box(
     heading: str,
     prompt: list[str],
 ) -> list[str]:
-    return [
+    heading_lines = heading.split("\n")
+    heading_y = y + 42
+    prompt_y = y + (122 if len(heading_lines) > 1 else 101)
+    result = [
         f'<rect x="{x}" y="{y}" width="{width}" height="{height}" rx="5" '
         f'fill="{ROW_ALT}" stroke="{GRID}" stroke-width="2"/>',
         f'<circle cx="{x + 31}" cy="{y + 31}" r="18" fill="{INK}"/>',
-        text(x + 31, y + 38, number, size=20, color=PAPER, weight=600, anchor="middle"),
-        text(x + 58, y + 38, heading, size=23, weight=600),
-        *multiline(x + 22, y + 78, prompt, size=19, color=MUTED, leading=23),
+        text(x + 31, y + 41, number, size=32, color=PAPER, weight=600, anchor="middle"),
     ]
+    result.extend(
+        text(x + 58, heading_y + index * 34, line, size=32, weight=600)
+        for index, line in enumerate(heading_lines)
+    )
+    result.extend(multiline(x + 22, prompt_y, prompt, size=32, color=MUTED, leading=34))
+    return result
 
 
 def scope_pill(x: float, y: float, width: float, label: str, color: str) -> list[str]:
     return [
-        f'<rect x="{x}" y="{y}" width="{width}" height="43" rx="21.5" '
+        f'<rect x="{x}" y="{y}" width="{width}" height="58" rx="29" '
         f'fill="{color}"/>',
-        text(x + width / 2, y + 29, label, size=18, color=PAPER, weight=600, anchor="middle"),
+        text(x + width / 2, y + 39, label, size=32, color=PAPER, weight=600, anchor="middle"),
     ]
 
 
 def comparison_row(
     y: float,
     candidate: str,
-    candidate_note: str,
+    candidate_note: list[str],
     restricted: str,
-    restricted_note: str,
+    restricted_note: list[str],
 ) -> list[str]:
     left_x = 72
     right_x = 620
     box_w = 508
-    box_h = 112
+    box_h = 150
     return [
         f'<rect x="{left_x}" y="{y}" width="{box_w}" height="{box_h}" rx="5" '
         f'fill="{PAPER}" stroke="{RED}" stroke-width="2"/>',
-        text(left_x + 22, y + 38, candidate, size=27, color=RED, weight=600),
-        *multiline(left_x + 22, y + 71, [candidate_note], size=18, color=MUTED),
+        text(left_x + 22, y + 42, candidate, size=34, color=RED, weight=600),
+        *multiline(left_x + 22, y + 83, candidate_note, size=32, color=MUTED, leading=34),
         f'<rect x="{right_x}" y="{y}" width="{box_w}" height="{box_h}" rx="5" '
         f'fill="{PAPER}" stroke="{GREEN}" stroke-width="2"/>',
-        text(right_x + 22, y + 38, restricted, size=27, color=GREEN, weight=600),
-        *multiline(right_x + 22, y + 71, [restricted_note], size=18, color=MUTED),
+        text(right_x + 22, y + 42, restricted, size=34, color=GREEN, weight=600),
+        *multiline(right_x + 22, y + 83, restricted_note, size=32, color=MUTED, leading=34),
     ]
 
 
@@ -148,94 +155,95 @@ def render() -> str:
             52,
             107,
             "The Principle of Architectural Selection and Scope",
-            size=25,
+            size=32,
             color=MUTED,
             italic=True,
         ),
     ]
 
-    y = 145
+    y = 150
     w = 245
-    h = 118
+    h = 160
     gap = 43
     xs = [52 + index * (w + gap) for index in range(4)]
     prompts = [
         ("1", "Contribution", ["What does it add?"]),
         ("2", "Load", ["What collision or", "duplication follows?"]),
-        ("3", "Bounding support", ["What contains", "that load?"]),
-        ("4", "Scope", ["Where can it operate?"]),
+        ("3", "Bounding\nsupport", ["What contains", "that load?"]),
+        ("4", "Scope", ["Where can it", "operate?"]),
     ]
     for x, values in zip(xs, prompts):
         parts.extend(box(x, y, w, h, *values))
     for index in range(3):
         parts.append(arrow(xs[index] + w + 6, y + h / 2, xs[index + 1] - 8, y + h / 2))
 
-    scope_y = 290
-    parts.append(text(52, scope_y + 27, "Possible scopes", size=20, color=MUTED, weight=600))
+    scope_y = 340
+    parts.append(text(52, scope_y + 39, "Possible scopes", size=32, color=MUTED, weight=600))
     pills = [
-        ("Included", 154, GREEN),
-        ("Restricted", 168, GOLD),
-        ("Vaidika", 143, GOLD),
-        ("Lineage-Bounded", 224, GOLD),
-        ("Excluded", 154, RED),
+        ("Included", 150, GREEN),
+        ("Restricted", 166, GOLD),
+        ("Vaidika", 140, GOLD),
+        ("Lineage-Bounded", 260, GOLD),
+        ("Excluded", 150, RED),
     ]
-    px = 222
+    px = 260
     for label, width, color in pills:
         parts.extend(scope_pill(px, scope_y, width, label, color))
         px += width + 13
 
     parts.extend(
         [
-            f'<line x1="52" y1="365" x2="1148" y2="365" stroke="{GRID}" stroke-width="2"/>',
-            text(52, 407, "Physical possibility does not by itself create a sonomer.", size=27, weight=600),
+            f'<line x1="52" y1="440" x2="1148" y2="440" stroke="{GRID}" stroke-width="2"/>',
+            text(52, 487, "Physical possibility does not by itself create a sonomer.", size=34, weight=600),
             text(
                 52,
-                439,
-                "Sanskrit can leave a grid address unassigned while preserving a nearby sound under a stated condition.",
-                size=20,
+                532,
+                "Sanskrit can leave a grid address unassigned while preserving a nearby sound",
+                size=32,
                 color=MUTED,
             ),
-            text(72, 486, "Independent grid address", size=20, color=RED, weight=600),
-            text(620, 486, "Restricted articulation", size=20, color=GREEN, weight=600),
+            text(52, 568, "under a stated condition.", size=32, color=MUTED),
+            text(72, 625, "Independent grid address", size=32, color=RED, weight=600),
+            text(620, 625, "Restricted articulation", size=32, color=GREEN, weight=600),
         ]
     )
 
     parts.extend(
         comparison_row(
-            505,
+            646,
             "[ɰ] · kaṇṭhya–antaḥstha",
-            "No fifth vowel-to-glide operation; independent scope adds load.",
+            ["No fifth vowel-to-glide operation;", "independent scope adds load."],
             "जिह्वामूलीय · jihvāmūlīya",
-            "Generated from visarga before क / ख; Restricted scope.",
+            ["Generated from visarga before", "क / ख · Restricted scope."],
         )
     )
     parts.extend(
         comparison_row(
-            637,
+            826,
             "[ɸ] · oṣṭhya–ūṣman",
-            "No independent recurring contrast; crowds the field beside फ.",
+            ["No independent recurring contrast;", "crowds the field beside फ."],
             "उपध्मानीय · upadhmānīya",
-            "Generated from visarga before प / फ; Restricted scope.",
+            ["Generated from visarga before", "प / फ · Restricted scope."],
         )
     )
 
     parts.extend(
         [
-            f'<rect x="52" y="785" width="1096" height="76" fill="{INK}"/>',
+            f'<rect x="52" y="1010" width="1096" height="116" fill="{INK}"/>',
             text(
                 600,
-                820,
+                1051,
                 "The same principle operates across scale:",
-                size=21,
+                size=32,
                 color=GOLD_LIGHT,
                 weight=600,
                 anchor="middle",
             ),
             text(
                 600,
-                848,
+                1097,
                 "sound-field → sonomer grid → Vaidika and Laukika scope",
-                size=24,
+                size=32,
                 color=PAPER,
                 weight=600,
                 anchor="middle",

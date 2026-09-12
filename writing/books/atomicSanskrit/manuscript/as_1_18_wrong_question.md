@@ -218,7 +218,7 @@ Foreign Y-DNA can be the trace of men whom India absorbed. That paternal ancestr
 
 ## 18.7 An Honest Speculation by This Atri
 
-The Hindu continuum did not close the debate about Sanskrit's beginning. Its thinkers asked whether शब्दः (*śabdaḥ*) was eternal or produced, whether the bond between word and meaning was inherent, and how revelation, human formation, and grammar participated in the language. Patañjali considered both the eternal and produced positions. Bhartṛhari called the principle of Speech beginningless and endless, then observed that even if words were produced, their beginning could not be found.[NOTE: parampara-vyakaranam-bhartrhari-position-1]
+The Hindu continuum has always debated the origins of Sanskrit. Its thinkers asked whether शब्दः (*śabdaḥ*) was eternal or formed, whether the bond between word and meaning was inherent, and how revelation, human formation, and grammar participated in the language. Patañjali considered both possibilities. Bhartṛhari called the principle of Speech beginningless and endless, then observed that even if words were formed, their beginning could not be found.[NOTE: parampara-vyakaranam-bhartrhari-position-1]
 
 The debate itself is healthy. A calibrant order keeps the inherited evidence available and leaves room for विवेक (*viveka*). It does not appoint an apex to close the inquiry.
 

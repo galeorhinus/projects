@@ -10,7 +10,7 @@ from pathlib import Path
 OUT = Path(__file__).with_name("svara_selected_excluded_forms.from-py.svg")
 
 WIDTH = 1200
-HEIGHT = 700
+HEIGHT = 875
 
 PAPER = "#f7f4ed"
 INK = "#29251f"
@@ -80,14 +80,14 @@ def cell(x: float, y: float, width: float, height: float, content: tuple[str, st
     symbol_x = x + 48
     center_y = y + height / 2
     label_family = DEVA if selected else LATIN
-    label_size = 34 if selected else 21
+    label_size = 40 if selected else 32
     return [
         f'<rect x="{x}" y="{y}" width="{width}" height="{height}" '
         f'fill="{fill}" stroke="{GRID}" stroke-width="1"/>',
         check(symbol_x, center_y) if selected else cross(symbol_x, center_y),
         text(
             x + width / 2 + 16,
-            center_y - 3,
+            center_y - 7,
             label,
             size=label_size,
             weight=600 if selected else 500,
@@ -96,9 +96,9 @@ def cell(x: float, y: float, width: float, height: float, content: tuple[str, st
         ),
         text(
             x + width / 2 + 16,
-            center_y + 24,
+            center_y + 32,
             status,
-            size=16,
+            size=32,
             color=GOLD if selected else RED,
             italic=True,
             anchor="middle",
@@ -108,11 +108,11 @@ def cell(x: float, y: float, width: float, height: float, content: tuple[str, st
 
 def render() -> str:
     x0 = 54
-    table_y = 190
+    table_y = 166
     label_w = 454
     cell_w = 346
-    header_h = 62
-    row_h = 82
+    header_h = 72
+    row_h = 100
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" '
         f'viewBox="0 0 {WIDTH} {HEIGHT}">',
@@ -122,7 +122,7 @@ def render() -> str:
             54,
             109,
             "How Sanskrit pairs vowel quality with one- and two-mātrā duration",
-            size=25,
+            size=32,
             color=MUTED,
             italic=True,
         ),
@@ -142,9 +142,9 @@ def render() -> str:
                 f'fill="{INK}" stroke="{PAPER}" stroke-width="2"/>',
                 text(
                     x + (22 if x == x0 else width / 2),
-                    table_y + 40,
+                    table_y + 46,
                     label,
-                    size=23,
+                    size=32,
                     color=PAPER,
                     weight=600,
                     anchor="start" if x == x0 else "middle",
@@ -159,8 +159,8 @@ def render() -> str:
             [
                 f'<rect x="{x0}" y="{y}" width="{label_w}" height="{row_h}" '
                 f'fill="{fill}" stroke="{GRID}" stroke-width="1"/>',
-                text(x0 + 22, y + 38, deva, size=25, weight=600, family=DEVA),
-                text(x0 + 220, y + 38, iast, size=21, color=MUTED, italic=True),
+                text(x0 + 22, y + 58, deva, size=34, weight=600, family=DEVA),
+                text(x0 + 226, y + 58, iast, size=32, color=MUTED, italic=True),
             ]
         )
         parts.extend(cell(x0 + label_w, y, cell_w, row_h, one))
@@ -169,21 +169,20 @@ def render() -> str:
     callout_y = table_y + header_h + len(ROWS) * row_h + 28
     parts.extend(
         [
-            f'<rect x="54" y="{callout_y}" width="{WIDTH - 108}" height="76" rx="4" '
+            f'<rect x="54" y="{callout_y}" width="{WIDTH - 108}" height="150" rx="4" '
             f'fill="{GOLD_LIGHT}" stroke="{GRID}" stroke-width="1"/>',
-            text(76, callout_y + 31, "Lineage-Bounded:", size=20, color=GOLD, weight=600),
+            text(76, callout_y + 39, "Lineage-Bounded:", size=32, color=GOLD, weight=600),
             text(
-                232,
-                callout_y + 31,
+                76,
+                callout_y + 83,
                 "half-ए and half-ओ are preserved in named Sāmavedic lineages.",
-                size=20,
-                family=DEVA,
+                size=32,
             ),
             text(
                 76,
-                callout_y + 58,
+                callout_y + 126,
                 "They do not become generally reusable one-mātrā forms.",
-                size=19,
+                size=32,
                 color=MUTED,
             ),
             "</svg>",

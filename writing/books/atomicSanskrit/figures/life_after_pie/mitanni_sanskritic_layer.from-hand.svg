@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="3.12in" viewBox="0 0 1200 790">
   <rect width="1200" height="790" fill="#f7f6f2"/>
   <style>
-    .title { font-family: "EB Garamond", serif; font-size: 42px; font-weight: 700; fill: #292724; }
-    .subtitle { font-family: "EB Garamond", serif; font-size: 27px; font-style: italic; fill: #6a6258; }
-    .number { font-family: "EB Garamond", serif; font-size: 26px; font-weight: 700; fill: #9a7d3c; }
-    .name { font-family: "EB Garamond", serif; font-size: 31px; font-weight: 700; fill: #292724; }
-    .body { font-family: "EB Garamond", serif; font-size: 25px; fill: #403b35; }
-    .warrior { font-family: "Noto Serif Devanagari", serif; font-size: 38px; font-weight: 700; fill: #292724; }
-    .dev { font-family: "Noto Serif Devanagari", serif; font-size: 31px; }
+    .title { font-family: "EB Garamond", serif; font-size: 48px; font-weight: 700; fill: #292724; }
+    .subtitle { font-family: "EB Garamond", serif; font-size: 32px; font-style: italic; fill: #6a6258; }
+    .number { font-family: "EB Garamond", serif; font-size: 32px; font-weight: 700; fill: #9a7d3c; }
+    .name { font-family: "EB Garamond", serif; font-size: 36px; font-weight: 700; fill: #292724; }
+    .body { font-family: "EB Garamond", serif; font-size: 32px; fill: #403b35; }
+    .warrior { font-family: "Noto Serif Devanagari", serif; font-size: 44px; font-weight: 700; fill: #292724; }
+    .dev { font-family: "Noto Serif Devanagari", serif; font-size: 38px; }
   </style>
 
   <text x="600" y="55" text-anchor="middle" class="title">The Mitanni Sanskritic Layer</text>
