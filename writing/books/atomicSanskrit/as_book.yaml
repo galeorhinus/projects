@@ -217,6 +217,7 @@ assembly:
     title: "Appendix Part 7 — The Architecture Already in the Vedas"
   - kind: end
     file: manuscript/as_3_08_one_architecture_two_domains.md
+    slug: appendix-one-architecture-two-domains
     title: "Appendix Part 8 — Designed Variations Across the Two Domains"
   - kind: end
     file: manuscript/as_3_09_codification_myth.md

@@ -315,9 +315,33 @@ def collect_content_entries() -> list[dict]:
         if not entry.get("file"):
             continue
         e = dict(entry)
-        e["slug"] = slug_for(entry["file"])
+        # An explicit `slug:` in as_book.yaml wins. slug_for() derives the slug
+        # from the filename with the zone prefix stripped, so a body chapter and
+        # an appendix part that share a topic name derive the SAME slug -- and
+        # the second render silently overwrites the first. That happened:
+        # as_1_16 and as_3_08 both produced one-architecture-two-domains, and
+        # Chapter 16 was absent from the site because Appendix Part 8 renders
+        # later. An override is preferred over prefixing every appendix part,
+        # which would rewrite nine working URLs to fix one clash.
+        e["slug"] = entry.get("slug") or slug_for(entry["file"])
         e["url"] = f"{URL_BASE}/{e['slug']}/"
         entries.append(e)
+
+    # Two entries sharing a slug share an output directory, and the loser
+    # leaves no trace -- no error, no empty page, just a chapter missing from
+    # the site. Fail the build instead.
+    seen: dict[str, str] = {}
+    clashes = []
+    for e in entries:
+        if e["slug"] in seen:
+            clashes.append(f"  {e['slug']}\n      {seen[e['slug']]}\n      {e['file']}")
+        seen[e["slug"]] = e["file"]
+    if clashes:
+        raise SystemExit(
+            "build_html.py: two entries derive the same URL slug, so one would\n"
+            "overwrite the other:\n" + "\n".join(clashes) +
+            "\nGive one of them an explicit `slug:` in as_book.yaml's assembly block."
+        )
     return entries
 
 

@@ -161,7 +161,12 @@ article figcaption{font-size:16px;font-style:italic;line-height:1.55;color:var(-
 article figcaption em{font-style:normal}
 
 /* small inline icons must stay inline at line-height size */
-article p img,article li img,article td img,article th img,article strong img,article em img{display:inline;height:1em;width:auto;vertical-align:-.2em;margin:0 .08em;background:none;border:0;border-radius:0}
+/* Inline scaffold icons only. This once matched EVERY image inside a
+   paragraph, and pandoc wraps a captionless image in <p> -- so the
+   dedication garland and twelve other figures were forced to one
+   line-height. Icons are the only images that want height:1em, and they
+   already carry it inline; this adds the surrounding reset. */
+article p img[src*="/icons/"],article li img[src*="/icons/"],article td img[src*="/icons/"],article th img[src*="/icons/"],article strong img[src*="/icons/"],article em img[src*="/icons/"]{display:inline;height:1em;width:auto;vertical-align:-.2em;margin:0 .08em;background:none;border:0;border-radius:0}
 
 /* data tables — may exceed the measure, scroll on narrow screens */
 article table{display:table;width:auto;max-width:var(--wide);margin:30px auto 0;border-collapse:collapse;font-size:17px;line-height:1.5;color:var(--ink2)}
