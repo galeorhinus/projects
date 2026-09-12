@@ -240,3 +240,17 @@ Eighty years after political independence, Deccan College continues to apply the
 To BORI, to the *Linguistic Survey*'s descendants, to the Archaeological Survey of India, to the history departments, to Deccan College: **bow to Sarasvatī. Let the जाड्य (*jāḍya*) be removed.**
 
 The cure has been in the opening prayer all along.
+
+## 2026-09-12: Appendix Title Revision
+
+Source: `manuscript/as_3_02_encyclopaedic.md`, line 1.
+
+Previous heading: `# Appendix Part 2 — The Encyclopaedic Confirmation`
+
+Replacement approved by the author: `# Appendix Part 2 — Independent India, Asuric Scholarship`
+
+Disposition: Update the chapter heading, build metadata, and current title references. No argumentative prose removed. Section 2.2 remains "The Choice of 1948" pending a separate title decision.
+
+Subsequent approval, 2026-09-12: Section 2.2 is now "The Betrayal of 1948".
+Updated its heading and current section-title references. Table A.1 retains
+"The Choice of 1948" as its descriptive comparison title. No body prose removed.

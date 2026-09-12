@@ -283,9 +283,9 @@
   - 1.5 Recipe After Recipe — The धातुः (*Dhātuḥ*) Cluster Evidence
   - 1.6 Operators in Motion
   - 1.7 How the Philological Categories Survived Independence
-- **Appendix Part 2 — The Encyclopaedic Confirmation**
+- **Appendix Part 2 — Independent India, Asuric Scholarship**
   - 2.1 The Institutional Network
-  - 2.2 The Choice of 1948
+  - 2.2 The Betrayal of 1948
   - 2.3 The Project and Its Method
   - 2.4 The Double Standard
   - 2.5 Five Kinds of Evidence

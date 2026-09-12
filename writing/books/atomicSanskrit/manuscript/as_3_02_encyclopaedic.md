@@ -1,4 +1,4 @@
-# Appendix Part 2 — The Encyclopaedic Confirmation
+# Appendix Part 2 — Independent India, Asuric Scholarship
 
 Appendix Part 1 traced the colonial network that carried Sanskrit knowledge to Europe, baked PIE, and returned the reconstruction to India. This appendix follows those categories into independent India and into Deccan College's Sanskrit dictionary.
 
@@ -26,7 +26,7 @@ This appendix concentrates on Deccan College because its documentation is extens
 
 The contemporary account praises Pāṇini's formal achievement while calling it *codification* (Chapter 1 §1.3). That word places the engineering at Pāṇini and hides the architecture already present in the Vedas. It also treats the प्रातिशाख्य (*Prātiśākhya*), शिक्षा (*Śikṣā*), and पाठ (*pāṭha*) disciplines as later accumulation rather than parts of an engineered preservation system. The Deccan College dictionary carries that denial into post-independence India.
 
-## 2.2 The Choice of 1948
+## 2.2 The Betrayal of 1948
 
 In 1948 — less than a year after independence — **Professor S.M. Katre** at Deccan College conceived the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*. Katre held the chair of *Indo-European Philology*, a title that placed Sanskrit inside the imported family tree before work on the dictionary began.
 

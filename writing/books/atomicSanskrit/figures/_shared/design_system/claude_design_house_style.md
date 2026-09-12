@@ -175,7 +175,7 @@ The slug is the third segment of the manuscript filename (`as_<zone>_<seq>_<slug
 | Slug | Manuscript file | What it covers |
 |---|---|---|
 | `baking` | `as_3_01_baking.md` | App Part 1 — *Baking the Mother Tongue* |
-| `encyclopaedic` | `as_3_02_encyclopaedic.md` | App Part 2 — *The Encyclopaedic Confirmation* |
+| `encyclopaedic` | `as_3_02_encyclopaedic.md` | App Part 2 — *Independent India, Asuric Scholarship* |
 | `audiography` | `as_3_03_audiography.md` | App Part 3 — *The Sonomer Beneath the Audiograph* |
 | `language_factory` | `as_3_04_language_factory.md` | App Part 4 — language factory |
 | `by_the_numbers` | `as_3_05_by_the_numbers.md` | App Part 5 — *Dhātupāṭha by the Numbers* |
