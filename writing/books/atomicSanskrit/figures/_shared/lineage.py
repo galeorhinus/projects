@@ -29,8 +29,11 @@ import re
 import sys
 from pathlib import Path
 
-# <base>.from-<chain>.svg ; chain is one or more tokens joined by hyphens.
-FROM_RE = re.compile(r"^(?P<base>.+)\.from-(?P<chain>[a-zA-Z0-9-]+)\.svg$")
+# <base>.from-<chain>.svg; retain compatibility with the one older
+# <base>.from_<chain>.svg source still present in the figure library.
+FROM_RE = re.compile(
+    r"^(?P<base>.+)\.from[-_](?P<chain>[a-zA-Z0-9_-]+)\.svg$"
+)
 
 # Match the lineage XML comment we inject into canonicals.
 LINEAGE_COMMENT_RE = re.compile(
@@ -50,7 +53,7 @@ def parse_from_filename(path: Path) -> tuple[str, str]:
             f"(expected pattern '<base>.from-<chain>.svg')"
         )
     base = m.group("base")
-    chain_arrowed = m.group("chain").replace("-", " → ")
+    chain_arrowed = re.sub(r"[-_]+", " → ", m.group("chain"))
     return base, chain_arrowed
 
 

@@ -1,7 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!-- lineage: ai → cdx
-     canonical-source: eclipse_10_part01_shadow_cast_targets_1_2_3.from-ai-cdx.svg
-     updated: 2026-09-12 -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 440" preserveAspectRatio="xMidYMid meet" width="4.5in" height="1.904in">
   <!-- PDF geometry normalization: disconnected strokes are separate paths; original coordinates and appearance are retained. -->
   <defs>

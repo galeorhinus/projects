@@ -55,16 +55,21 @@ Grayscale images:
   grayscale-images scans figures/**/*.png, skips *.gray.png sources, and writes
                    sibling *.gray.png files. Existing grayscale files are
                    regenerated only when missing, older than the color source,
-                   or --force is passed. PDF assembly prefers current
-                   *.gray.png when present, then current *.png, then the
-                   original SVG link.
+                   or --force is passed. PDF assembly uses these grayscale
+                   derivatives only for figures whose manuscript source is
+                   already a PNG. SVG references remain vector, except the
+                   eclipse series, flattened from current SVGs for reliable
+                   print transparency.
 
 SVG source promotion:
   promote-svgs scans figures/**/*.from*.svg and promotes the newest source
                    variant to its sibling canonical *.svg when the source is
-                   newer than the canonical. The build pipeline runs this
-                   preflight automatically before assemble/pdf/reference, so
-                   manuscript Markdown can keep linking to stable plain SVGs.
+                   newer than the canonical. When the figure virtual
+                   environment is available, promotion also outlines
+                   Devanagari and other text known to render unreliably. The
+                   build pipeline runs this preflight automatically before
+                   assemble/pdf/reference, so manuscript Markdown can keep
+                   linking to stable plain SVGs.
 
 Dependencies:
   - pandoc  (brew install pandoc)
@@ -80,6 +85,8 @@ from __future__ import annotations
 
 import argparse
 import datetime
+import hashlib
+import html
 import os
 import pty
 import json
@@ -101,7 +108,9 @@ sys.stdout.reconfigure(line_buffering=True)
 BOOK_DIR = Path(__file__).resolve().parent
 BUILD_DIR = BOOK_DIR / "build"
 FIGURES_DIR = BOOK_DIR / "figures"
-DEVANAGARI_RE = re.compile(r"[\u0900-\u097F]")
+FIGURE_VENV_PYTHON = BOOK_DIR / ".venv-figures" / "bin" / "python3"
+DEVANAGARI_RE = re.compile(r"[\u0900-\u097F\u1CD0-\u1CFF\uA8E0-\uA8FF]")
+SVG_TEXT_RE = re.compile(r"<text\b[^>]*>.*?</text>", re.DOTALL)
 METADATA_FILE = BOOK_DIR / "as_book.yaml"
 REFERENCE_METADATA_FILE = BOOK_DIR / "as_reference.yaml"
 REFERENCE_FRONT_FILE = BOOK_DIR / "companion" / "as_reference_front.md"
@@ -1130,7 +1139,7 @@ def parse_from_svg_source(path: Path) -> tuple[Path, str] | None:
 
 
 def cmd_promote_svgs(force: bool = False) -> int:
-    """Promote newer figures/**/*.from*.svg files to canonical sibling SVGs."""
+    """Promote newer figure sources and outline script text when possible."""
     if not FIGURES_DIR.exists():
         print(f"Missing: {FIGURES_DIR.relative_to(BOOK_DIR)}", file=sys.stderr)
         return 1
@@ -1155,21 +1164,40 @@ def cmd_promote_svgs(force: bool = False) -> int:
             skipped += 1
             continue
 
-        content = source.read_text(encoding="utf-8")
         date = datetime.date.today().isoformat()
-        promoted_content = inject_lineage_comment(content, chain, source.name, date)
-        canonical.write_text(promoted_content, encoding="utf-8")
+        if FIGURE_VENV_PYTHON.exists():
+            result = subprocess.run(
+                [
+                    str(FIGURE_VENV_PYTHON),
+                    "-m", "_shared.lineage", "promote", str(source),
+                    "--date", date,
+                ],
+                cwd=FIGURES_DIR,
+                capture_output=True,
+                text=True,
+            )
+            if result.returncode != 0:
+                print(
+                    f"SVG promotion failed: {source.relative_to(BOOK_DIR)}",
+                    file=sys.stderr,
+                )
+                print(result.stderr or result.stdout, file=sys.stderr)
+                return result.returncode
+            for line in result.stdout.splitlines():
+                if "outlined" in line or "WARNING" in line:
+                    print(f"  {line.strip()}")
+        else:
+            content = source.read_text(encoding="utf-8")
+            promoted_content = inject_lineage_comment(
+                content, chain, source.name, date
+            )
+            canonical.write_text(promoted_content, encoding="utf-8")
         promoted += 1
-        # This phase does NOT outline Devanagari; figures/_shared/lineage.py's
-        # promote() does. Two promotion routes with different results is what
-        # let vedic_yajati.svg ship with live Devanagari text while its four
-        # siblings were outlined — the live one then rendered in whatever
-        # Devanagari face the viewer had (Sangam MN on macOS, ~1.24x the ink
-        # height of Adobe Devanagari at the same nominal size), so it looked
-        # a size larger than figures set at identical pt. Warn rather than
-        # outline here: this phase runs under the system interpreter, which
-        # has no uharfbuzz/fontTools, so it cannot do the job itself.
-        if DEVANAGARI_RE.search(promoted_content) and "<text" in promoted_content:
+        promoted_content = canonical.read_text(encoding="utf-8")
+        if any(
+            DEVANAGARI_RE.search(html.unescape(block))
+            for block in SVG_TEXT_RE.findall(promoted_content)
+        ):
             needs_outlining.append(canonical.relative_to(BOOK_DIR))
         print(
             f"  promote {source.relative_to(BOOK_DIR)}"
@@ -1180,7 +1208,7 @@ def cmd_promote_svgs(force: bool = False) -> int:
     if needs_outlining:
         print(
             f"\n  WARNING: {len(needs_outlining)} promoted figure(s) still "
-            "contain live Devanagari <text>. This phase cannot outline it.\n"
+            "contain live Devanagari or Vedic <text>.\n"
             "  Run, from figures/:\n"
             "      ../.venv-figures/bin/python3 -m _shared.lineage promote "
             "<path-to>.from-py.svg"
@@ -1194,31 +1222,55 @@ def gray_png_path(path: Path) -> Path:
     return path.with_suffix(".gray.png")
 
 
-def prefer_png_images_for_pdf(md_text: str) -> str:
-    """Use grayscale/raster siblings for PDF builds when available.
+def flatten_eclipse_for_pdf(source: Path) -> Path:
+    """Flatten soft masks before PDF embedding; retain SVGs as the masters."""
+    # 4,200 px provides 600 dpi at 7 inches, including the A4 review layout.
+    recipe = b"eclipse-print-v1:4200px:white:rsvg-png\n"
+    digest = hashlib.sha256(recipe + source.read_bytes()).hexdigest()[:20]
+    target = BUILD_DIR / "figure-rasters" / f"{source.stem}.{digest}.png"
+    if target.exists():
+        return target
+    converter = shutil.which("rsvg-convert")
+    if not converter:
+        raise RuntimeError("rsvg-convert is required to flatten eclipse figures for PDF")
+    target.parent.mkdir(parents=True, exist_ok=True)
+    temporary = target.with_suffix(".tmp.png")
+    try:
+        subprocess.run(
+            [converter, "--format", "png", "--width", "4200",
+             "--background-color", "white", "--output", str(temporary), str(source)],
+            check=True, capture_output=True, text=True,
+        )
+        temporary.replace(target)
+    finally:
+        temporary.unlink(missing_ok=True)
+    print(f"  Flattened eclipse effects for PDF: {source.name}")
+    return target
 
-    Manuscript sources stay canonical with SVG links. The assembled Markdown
-    handed to Pandoc uses `figure.gray.png` when it exists, then `figure.png`
-    when it exists beside `figure.svg`, preserving the caption and any trailing
-    Pandoc image attributes. File modification times are deliberately ignored:
-    Git operations can make a paired SVG appear newer than its PNG even when
-    both belong to the same committed figure revision.
+
+def prefer_png_images_for_pdf(md_text: str) -> str:
+    """Prepare explicit raster figures and the eclipse transparency exception.
+
+    Other SVG links stay SVG. Eclipse print images are generated from current
+    SVG content, never archived derivatives. Explicit PNG links use grayscale
+    siblings when available. Captions and Pandoc attributes remain unchanged.
     """
     def replace(match: re.Match) -> str:
         prefix, image_path, suffix = match.groups()
         source_path = BOOK_DIR / image_path
+        if (source_path.suffix.lower() == ".svg"
+                and source_path.parent.resolve() == (FIGURES_DIR / "eclipse_spine").resolve()):
+            flattened = flatten_eclipse_for_pdf(source_path)
+            return f"{prefix}{flattened.relative_to(BOOK_DIR).as_posix()}{suffix}"
         if source_path.name.endswith(".gray.png"):
             return match.group(0)
-        gray_path = gray_png_path(source_path)
-        if gray_path.exists():
-            return f"{prefix}{gray_path.relative_to(BOOK_DIR).as_posix()}{suffix}"
-        if source_path.suffix.lower() == ".svg":
-            png_path = source_path.with_suffix(".png")
-            gray_png = gray_png_path(png_path)
-            if gray_png.exists():
-                return f"{prefix}{gray_png.relative_to(BOOK_DIR).as_posix()}{suffix}"
-            if png_path.exists():
-                return f"{prefix}{png_path.relative_to(BOOK_DIR).as_posix()}{suffix}"
+        if source_path.suffix.lower() == ".png":
+            gray_path = gray_png_path(source_path)
+            if gray_path.exists():
+                return (
+                    f"{prefix}{gray_path.relative_to(BOOK_DIR).as_posix()}"
+                    f"{suffix}"
+                )
         return match.group(0)
 
     return PDF_IMAGE_RE.sub(replace, md_text)
@@ -2336,9 +2388,9 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
     if rc != 0:
         return rc
 
-    # Always reassemble before rendering. Assembly is cheap, and the image
-    # preference pass depends on sibling figure files (*.gray.png, *.png) whose
-    # timestamps are not represented in the chapter source list.
+    # Always reassemble before rendering. Assembly is cheap, and the raster
+    # preference pass depends on *.gray.png siblings whose timestamps are not
+    # represented in the chapter source list.
     print("Refreshing assembled markdown before PDF render.")
     rc = cmd_assemble(endnotes_mode=endnotes_mode, promote_svgs=False)
     if rc != 0:

@@ -48,7 +48,8 @@ book-wide figure plan.
 7. Every figure must remain legible at trade-page width and when printed in
    grayscale.
 8. Before deployment, verify the title, caption, body introduction, endnote,
-   asset path, grayscale derivative, and chapter cross-references.
+   asset path, and chapter cross-references. Keep canonical SVGs as vectors.
+   Create a grayscale derivative only for a genuinely raster source.
 
 ## Current Snapshot
 
@@ -127,15 +128,40 @@ rendered sizes silently drift.
 Devanagari `<text>` while its four siblings were outlined, so it rendered in
 whatever face the viewer had (Devanagari Sangam MN on macOS, about 1.24x the
 ink height of Adobe Devanagari at the same nominal size) and looked a size
-larger than figures set at identical pt. Two pipeline defects allowed it, both
-fixed 2026-08-18:
+larger than figures set at identical pt. Two pipeline defects originally
+allowed it:
 
-1. `build_book.py promote-svgs` never outlined — it only injects the lineage
-   comment. It now warns, names the offending files, and prints the command
-   to fix them.
+1. `build_book.py promote-svgs` once injected only the lineage comment. As of
+   2026-09-12, it delegates promotion to the figure virtual environment and
+   outlines Devanagari and other known-risk text automatically. It still warns
+   if a promoted SVG retains live Devanagari or Vedic text.
 2. `figures/_shared/lineage.py` reported a relative-import failure as
    "uharfbuzz/fontTools not available", which sent you to re-run under the
    venv where nothing changed. It now distinguishes the two and recovers.
+
+PDF assembly keeps ordinary SVG references vector, with an explicit flattened
+print exception for the eclipse series described below. It uses a grayscale
+PNG when the manuscript explicitly names a raster source. The retired SVG raster
+fallbacks are preserved under
+`archive/figures/png_fallbacks_2026-09-12/`.
+
+**Eclipse sequence correction, 2026-09-12:** successful SVG conversion did not
+establish visual fidelity. The rsvg PDF output displaced disconnected strokes
+in the Sun's rays and the epilogue cracks. The production variants now separate
+those strokes while retaining the original geometry, filters, and shadow masks.
+Regenerate from `figures/` with
+`../.venv-figures/bin/python3 -m eclipse_spine.normalize_pdf_paths`.
+Compare the rendered PDF with the original `.from-ai.svg` designs; Inkscape's
+direct PDF export is unsuitable here because it changes the later globe masks.
+
+**Follow-up correction:** the user found an opaque band hiding the map in E.7
+after the above check. The vector conversion was not reliable across PDF
+renderers. PDF assembly now flattens all twelve eclipse SVGs through rsvg's PNG
+renderer onto white at 4,200 pixels wide (600 dpi at 7 inches). These opaque RGB
+images are generated under `build/figure-rasters/` with content-hashed filenames,
+so source edits invalidate the cache. SVG masters and manuscript links remain
+unchanged. Do not restore archived PNGs or remove this exception based solely
+on a successful vector conversion or one PDF viewer's output.
 
 The correct invocation, from `figures/`:
 

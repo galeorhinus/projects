@@ -188,7 +188,10 @@ def contains_risky_latin_font(font_family: str) -> bool:
 
 
 def contains_devanagari(text: str) -> bool:
-    return bool(DEVANAGARI_RE.search(text))
+    # SVG authoring tools may serialize Devanagari as numeric XML entities
+    # (for example, ``&#x92E;``). Decode before testing so those runs receive
+    # the same outlining treatment as literal Unicode text.
+    return bool(DEVANAGARI_RE.search(html.unescape(text)))
 
 
 # Live text can carry an arrow or similar symbol under a Devanagari-named
@@ -845,6 +848,12 @@ def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[
     segments: list[Segment] = []
 
     def add_node(text: str, weight: str, style: str, family: str, size: float, dx: float = 0.0) -> None:
+        # Pretty-printed SVG inserts indentation and newlines between sibling
+        # tspans. Those characters are XML formatting, not visible spacing;
+        # shaping them produces .notdef boxes and inflates line widths. Keep a
+        # deliberate inline space, but discard whitespace that spans a line.
+        if not text.strip() and ("\n" in text or "\r" in text):
+            return
         deva_font_path = resolve_font_path(weight, style)
         outline_latin_too = (
             contains_risky_latin_font(family)
