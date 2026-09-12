@@ -90,7 +90,7 @@ Every language is a selection.
 
 English chooses one inventory. Arabic chooses another. Mandarin another. Hawaiian another. The click languages another. What makes a language sound like itself is its selection from the shared instrument. Each selection has internal coherence, even though no two languages select exactly the same way.
 
-The inventory atlas identifies which sounds each language selects. The data source is a set of published consonant inventories coded onto one mouth-map. The atlas reduces each language to the consonants it keeps available as distinct sounds; then it assigns each consonant to its main place of articulation on a twelve-region axis running from lips to glottis: bilabial, labiodental, interdental, dental, alveolar, post-alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal.[NOTE: language-hotzones-inventory-method]
+The inventory atlas identifies which sounds each language selects. The data source is a set of published consonant inventories coded onto one mouth-map. The atlas reduces each language to the consonants it keeps available as distinct sounds; then it assigns each consonant to its main place of articulation on a twelve-region axis running from glottis on the left to lips on the right: glottal, pharyngeal, uvular, velar, palatal, retroflex, post-alveolar, alveolar, dental, interdental, labiodental, bilabial.[NOTE: language-hotzones-inventory-method]
 
 For this first view, the chart collapses four inventories into hotzones instead of showing every consonant as a separate point. The area of each cloud is proportional to how many consonants that language selects from that region. English, Arabic, Mandarin, and Zulu provide four examples of how languages use the same vocal instrument differently: English clusters toward the front and middle of the mouth; Arabic reaches deep into the throat; Mandarin concentrates around coronal and palatal regions; Zulu shows a different southern African selection that includes click mechanisms.
 
@@ -98,7 +98,7 @@ To read the chart, connect the labels to sounds you know. The **f** in English *
 
 Treat the figure as an inventory map, not a frequency chart. It shows what a language makes available in its sound-system, not how often speakers use each sound.
 
-![Figure 7.2 — Language Hotzones Along the Vocal Tract. English, Arabic, Mandarin, and Zulu select different regions from the same vocal instrument.](figures/adivadya/hotzones_panels.svg){#fig:adivadya-language-hotzones width=100%}
+![Figure 7.2 — Language Hotzones Along the Vocal Tract. English, Arabic, Mandarin, and Zulu select different regions from the same vocal instrument.](figures/adivadya/hotzones_panels_reversed.svg){#fig:adivadya-language-hotzones width=100%}
 
 English scientific disciplines have built a rigorous vocabulary for this architecture: bilabial, dental, alveolar, voiced, voiceless, aspirated, nasal, oral. The Sanskrit disciplines built another. Same instrument. Different naming system.
 
