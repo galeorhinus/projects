@@ -62,7 +62,7 @@ A local story is प्राकृतिक (*prākṛtika*) by purpose. It can
 
 Writing did not meet that test.
 
-## 13.3 Why Writing Was Insufficient
+## 13.3 The Limits and Dangers of Writing
 
 ### Sound Before Script
 
@@ -74,7 +74,25 @@ Sanskrit first selected its sonances. It promoted reusable sonances to sonomers,
 
 The great innovation was that prior sound architecture, not the glyph. Brāhmī gave the sonomeric grid a written interface. Devanāgarī and the southern scripts use different glyphs while rendering the same underlying sound architecture.
 
-The place-value system provides a familiar parallel. Its architecture makes position determine value and therefore needs a way to hold an empty position. The physical symbol for zero answers that need. The mark is a consequence of the decimal place-value architecture; it did not create that architecture. Another shape could perform the same function.
+The place-value system provides a closer parallel. Sanskrit verse can preserve place-value numbers without depending on numeral glyphs. In **भूतसंख्या (*bhūtasaṃkhyā*)**, a word for sky can represent zero, a word for the eyes can represent two, and a word for the worlds can represent three. A known ordering convention assigns each word its position in the number, while meter and memory preserve the sequence. A numeral glyph offers another interface for the same architecture. It did not create the number, zero, or place value.
+
+महावीराचार्य (*Mahāvīrācārya*) demonstrates this architecture in the ***गणितसारसंग्रह (*Gaṇitasārasaṅgraha*)***. Opened at its word-boundaries, the **श्लोक (*śloka*)** reads:
+
+> अनल-अब्धि-हिमगु-मुनि-शर-दुरित-अक्षि-पयोधि-सोमम् आस्थाप्य ।\
+> शैलेन तु गुणयित्वा कथय त्वं राज-कण्ठिका-आभरणम् ॥
+>
+> *anala-abdhi-himagu-muni-śara-durita-akṣi-payodhi-somam āsthāpya |*\
+> *śailena tu guṇayitvā kathaya tvaṃ rāja-kaṇṭhikā-ābharaṇam ||*
+
+*Set down fire, ocean, moon, sage, arrow, bad action, eye, ocean, and moon. Multiply that number by mountain. Tell me the king's necklace.*
+
+The familiar associations supply the digits. Fire supplies three because the tradition counts three ritual fires. Ocean supplies four through the four oceans, while moon supplies one. Sage supplies seven through the seven ṛṣis, and arrow supplies five through Kāmadeva's five arrows. Bad action supplies eight through an eightfold Jaina classification, while eye supplies two. The words for ocean and moon then recur. In spoken order, the values are **3-4-1-7-5-8-2-4-1**. Because the convention begins with the units place, the number is read as **142,857,143**.
+
+Mountain supplies seven. The śloka therefore carries this multiplication:
+
+> **142,857,143 × 7 = 1,000,000,001**
+
+It names the patterned result **राजकण्ठिका (*rājakaṇṭhikā*)**, the king's necklace. A listener who knows the associations and the ordering convention can recover both the number and the operation from the verse. No numeral glyph is required.[NOTE: bhutasamkhya-word-place-value]
 
 The infinity glyph provides a second example. The mark ∞ makes the unbounded easier to write, but it did not make the unbounded thinkable. Sanskrit already expresses that idea through पूर्णम् (*pūrṇam*), अनादि (*anādi*), and अनन्त (*ananta*).
 
@@ -82,29 +100,39 @@ Brāhmī stands in the same relationship to Sanskrit's sound architecture. The s
 
 Writing allowed people to record commentary, poetry, mathematics, administration, and new knowledge. It gave the sound architecture a visible and portable form. It did not create that architecture.
 
-### Why Audiography Cannot Be the Calibrant
+### Why Writing Could Not Be the Calibrant
 
-Chapter 9 calls the visible form of an अक्षर (*akṣara*) an **audiograph**. **Audiography** is the complete visual system that renders Sanskrit's sonomeric architecture through such forms. Brāhmī, Devanāgarī, and the other Indic scripts are implementations of that system.
+Chapter 9 calls the visible form of an अक्षर (*akṣara*) an **audiograph**. **Audiography** can render Sanskrit's sonomeric grid with great precision. That precision does not protect the written record itself.
 
-Indic Audiography is a brilliant achievement. It gives the sonomeric grid a precise visual form and allows different scripts to render the same underlying sound architecture.
+Every written record depends on two things outside the language: a physical medium and whoever controls that medium. Entropy attacks the first. A deliberate attacker can exploit the second.
 
-Writing could not carry the *Vedas* by itself because every written record depends on a physical medium. That dependency exposes the record to the same two enemies Sanskrit had to defeat: entropy and deliberate attack.
+Writing tools and surfaces begin changing the record even before the medium disappears. A mark cut into stone need not retain the same shape when a scribe writes it on palm leaf or paper. Printing and digital rendering introduce further changes. Brāhmī, Devanāgarī, and the southern scripts demonstrate the distinction: their audiographs differ while they render the same Sanskrit sound architecture.[NOTE: brahmi-devanagari-structural-identity]
 
-Writing faces another form of entropy before the medium itself disappears. Writing tools and surfaces exert pressure on the visible form. A mark cut into stone need not retain the same shape when a scribe writes on palm leaf or paper. Printing and digital rendering introduce further changes. Brāhmī, Devanāgarī, and the southern scripts demonstrate the distinction: their audiographs differ while they render the same Sanskrit sound architecture.[NOTE: brahmi-devanagari-structural-identity]
+Time then attacks the material itself. Stone weathers, palm leaves rot, cloth fades, and paper crumbles. Digital storage still depends on physical devices, changing formats, and institutions willing to maintain them.
 
-Time also damages every medium. Stone weathers, palm leaves rot, cloth fades, and paper crumbles. Digital storage extends the available methods, but it still depends on physical devices and institutions that must continue maintaining them.
+Custody creates another danger. A manuscript can be burned. A library can be destroyed. An archive can be seized. Once many records gather in one place, whoever controls that place can decide what will be copied, circulated, withheld, or destroyed.
 
-An attacker can also burn a manuscript, destroy a library, or seize an archive. When many records gather in one place, whoever controls that place can decide what will be copied, circulated, or withheld. The medium gives the apex a point of capture.
+These dangers are not hypothetical. Fire destroyed libraries and written collections at Nalanda and Alexandria. After an appointed committee prepared copies of the Qur'an for distribution, Caliph ʿUthmān ordered every other Qur'anic manuscript and fragment burned. A written archive can disappear through entropy, war, or command.[NOTE: writing-medium-fire-and-authority]
 
-The danger is not hypothetical. Fire destroyed libraries and written collections at Nalanda and Alexandria.
+Writing therefore gives the pyramid a point of capture. The apex can seize the medium, authorize one version, and prevent competing versions from circulating.
 
-Authority can exploit the same weakness. After an appointed committee prepared copies of the Qur'an for distribution, Caliph ʿUthmān ordered every other Qur'anic manuscript and fragment burned. A written archive can disappear through decay, war, or command.[NOTE: writing-medium-fire-and-authority]
-
-Audiography is brilliant and useful. It is not a reliable primary calibrant.
-
-Indic caretakers therefore used writing without placing it on a pedestal. लिपि (*Lipi*) served administration, commentary, education, and new composition. It could also support the Vedic disciplines. It could not become the primary calibrant for the सांस्कृतिक (*sāṃskṛtika*) content that had to remain invariant.
+Indic caretakers used writing without making it the calibrant. लिपि (*Lipi*) served administration, commentary, education, and new composition. It also supported the Vedic disciplines. But the सांस्कृतिक (*sāṃskṛtika*) content that had to remain invariant could not depend upon a medium that entropy could destroy or an apex could capture.
 
 ![Figure 13.1 — The Asuric Custody Stack. The pyramid prefers media that can be owned, dated, centralized, authorized, guarded, and interpreted by certified intellectuals. Storage becomes power when custody controls correction.](figures/preservation/asuric_custody_stack.svg){#fig:ch13-asuric-custody-stack width=100%}
+
+### Why Writing Was Dangerous
+
+Writing can do more than lose part of a language. It can introduce a change of its own and send that change back into speech. A reader sees a letter that earlier speakers no longer pronounced, restores the sound, and passes that pronunciation to others. Once enough people repeat it, a change that began on the page becomes part of the spoken language.
+
+English makes this process easy to hear. *Forehead* was commonly pronounced *forrid*, rhyming with *horrid*. The spelling later pulled the pronunciation back toward *fore-head*. The **t** disappeared from *often* in speech and then returned as literacy and printing spread. *Fault* entered English without an **l** sound. Scholars later inserted **l** into the spelling to display the word's Latin ancestry, and speakers eventually began pronouncing it.[NOTE: writing-changes-english-pronunciation]
+
+In English, these pronunciations became part of ordinary drift. Their importance here lies in the direction of the change. Speech first produced the written form. The fixed spelling then returned an older or inserted sound to speech. Writing had become an agent of language change.
+
+The Indic phonetic discipline warned against entrusting sound to that loop. The **पाणिनीयशिक्षा (*Pāṇinīya Śikṣā*)** places the **लिखितपाठकः (*likhitapāṭhakaḥ*)**, one who recites from writing, among six inferior reciters. Patañjali says that grammar must be studied to protect the Vedas. A person performing that work must know how to recognize the deletion, addition, and alteration of sounds.[NOTE: paniniya-shiksha-likhitapathaka]
+
+Writing can display the sequence and mark the accent. It cannot hear whether the reciter has produced either one correctly. The ear must judge the recitation against a sounded calibrant.
+
+Writing can preserve an error as faithfully as it preserves the language. Sanskrit therefore kept sound above script. Auditure calibrated Audiography.
 
 ### The Interface Does Not Date the Architecture
 

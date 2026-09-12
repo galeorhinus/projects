@@ -249,9 +249,9 @@ Source basis: Ṛgveda 1.164.45, checked against van Nooten and Holland's metric
 
 ### `rigveda-10-125-vak-ambhrini`
 
-**Short:** RV 10.125 (the *Devī Sūkta* / *Vāk Sūkta*) presents वाक् (*vāk*) speaking in the first person across devas, human beings, and worlds. She also declares that she chooses whom she makes into an ऋषिः (*ṛṣiḥ*). The received index identifies the ऋषिका (*ṛṣikā*) Vāk Ambhṛṇī as the seer of the hymn, placing the voice of Speech and a female seer together within the ordinary Vedic classification.
+**Short:** RV 10.125 (the *Devī Sūkta* / *Vāk Sūkta*) presents वाक् (*vāk*) speaking in the first person across devas, human beings, and worlds. She also declares that she chooses whom she makes into a ऋषिः (*ṛṣiḥ*). The received index identifies the ऋषिका (*ṛṣikā*) Vāk Ambhṛṇī as the seer of the hymn, placing the voice of Speech and a female seer together within the ordinary Vedic classification.
 
-**Deployments:** Chapter 0 §0.3, where the मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*) and मन्त्रद्रष्ट्र्यः (*mantra-draṣṭryaḥ*) establish that both men and women saw the mantras; Chapter 18 §18.7, where वाक् (*Vāk*) declares that she chooses whom she makes into an ऋषिः (*ṛṣiḥ*).
+**Deployments:** Chapter 0 §0.3, where the मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*) and मन्त्रद्रष्ट्र्यः (*mantra-draṣṭryaḥ*) establish that both men and women saw the mantras; Chapter 18 §18.7, where वाक् (*Vāk*) declares that she chooses whom she makes into a ऋषिः (*ṛṣiḥ*).
 
 <!-- SOURCE-RECORDS
 - ut-rigveda-metrically-restored | RV 10.125; archived RV10.html
@@ -281,7 +281,7 @@ The first-person ***aham*** repeats across the hymn. वाक् (*Vāk*) is th
 >
 > *I myself declare this, cherished by devas and humans. Whom I desire* (***yaṃ kāmaye***), *him I make formidable — him a* brāhmaṇa, *him a* ṛṣi, *him of good wisdom.*
 
-The ऋषिः (*ṛṣiḥ*) does not seize वाक् (*vāk*). Speech chooses whom she will make an ऋषिः (*ṛṣiḥ*). Ṛgveda 10.71.4 describes the same relation from the receiver's side when Speech reveals her body to the prepared listener.
+The ऋषिः (*ṛṣiḥ*) does not seize वाक् (*vāk*). Speech chooses whom she will make a ऋषिः (*ṛṣiḥ*). Ṛgveda 10.71.4 describes the same relation from the receiver's side when Speech reveals her body to the prepared listener.
 
 The hymn continues through a cosmic range. In verses 7–8, वाक् (*Vāk*) declares that her origin lies within the waters, that she extends through all worlds, and that she moves like the wind beyond heaven and earth. *Mīmāṃsā* later develops its distinct argument for ***apauruṣeyatva***. This hymn does not state that later doctrine, but it places agency in वाक् (*Vāk*): she speaks, moves, chooses, and makes.
 
@@ -796,6 +796,57 @@ For Alexandria, Plutarch's *Life of Caesar* 49.6 reports that the fire begun at 
 The three examples have different histories and motives. Their shared architectural lesson is straightforward: when knowledge depends upon destructible objects, fire can consume it, war can scatter it, and authority can decide which copies survive. A distributed aural calibrant removes that single point of failure.
 
 Sources: Archaeological Survey of India and Ministry of Culture, Government of India, [*The Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar: Nomination Dossier*](https://whc.unesco.org/uploads/nominations/1502.pdf), Chapter 2, pp. 19, 21, 43, and 84; Plutarch, [*Life of Caesar* 49.6](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar%2A.html); Cassius Dio, [*Roman History* 42.38.2](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/42%2A.html); Open University, [“The Library of Alexandria,” §3, “The End of the Library”](https://www.open.edu/openlearn/history-the-arts/library-alexandria/content-section-3/); [*Ṣaḥīḥ al-Bukhārī* 4987](https://sunnah.com/bukhari:4987).
+
+---
+
+### `writing-changes-english-pronunciation`
+
+<!-- SOURCE-RECORDS
+- deterding-mohamad-spelling-pronunciation-2017 | English spelling pronunciations of forehead, often, and fault
+-->
+
+**Short:** Written English has repeatedly sent sounds back into speech. *Forehead* moved from the widespread *forrid* pronunciation toward *fore-head*; the **t** returned to *often*; and an **l** inserted into the spelling of *fault* was eventually pronounced. These are spelling pronunciations: changes in speech produced under the influence of writing.
+
+**Deployments:** Chapter 13 §13.3 — the English examples demonstrating that writing can become an agent of language change rather than merely an incomplete record of speech.
+
+David Deterding and Nur Raihan Mohamad describe four ways in which English pronunciation changes under the influence of spelling. Their historical examples include the three used in the chapter. *Forehead* lost its medial **h** and came to be pronounced *forrid*; the **h** then returned as the written compound influenced later pronunciation. The **t** in *often* disappeared during the seventeenth century and subsequently returned for many speakers. The **l** in *fault* entered the spelling through an etymological association with Latin *fallitus*, after which speakers began to pronounce it.
+
+The examples do not all follow the same historical path. *Forehead* and *often* recover sounds that had once been pronounced, whereas *fault* acquires a sound through an etymological spelling. They establish the same direction of influence: a visible letter changes what later speakers say.
+
+Source: David Deterding and Nur Raihan Mohamad, [“Spelling Pronunciation in English”](https://doi.org/10.1093/elt/ccw073), *ELT Journal* 71, no. 1 (2017): 87–91, especially pp. 88–89. [Author-hosted PDF](https://fass.ubd.edu.bn/staff/docs/DD/ELT-J-2016-Deterding-NurRaihan.pdf).
+
+---
+
+### `paniniya-shiksha-likhitapathaka`
+
+<!-- SOURCE-RECORDS
+- paniniya-shiksha-32-likhitapathaka | recitation from writing listed among six inferior modes
+- patanjali-mahabhashya-raksha-paspasha | protection of the Vedas through knowledge of deletion, addition, and sound alteration
+-->
+
+**Short:** *Pāṇinīya Śikṣā* 32 places the **लिखितपाठकः (*likhitapāṭhakaḥ*)**, one who recites from writing, among six inferior reciters. Patañjali states the protective purpose of grammar in operational terms: one who knows deletion, addition, and alteration of sounds can preserve the Vedas correctly.
+
+**Deployments:** Chapter 13 §13.3 — the Indic recognition that writing may assist recitation but cannot replace trained production, trained hearing, and active correction.
+
+*Pāṇinīya Śikṣā* 32 reads:
+
+> गीती शीघ्री शिरःकम्पी तथा लिखितपाठकः ।\
+> अनर्थज्ञोऽल्पकण्ठश्च षडेते पाठकाधमाः ॥
+>
+> *gītī śīghrī śiraḥkampī tathā likhitapāṭhakaḥ |*\
+> *anarthajño 'lpakaṇṭhaś ca ṣaḍ ete pāṭhakādhamāḥ ||*
+
+The six are one who sings the recitation, one who rushes, one who moves the head, one who recites from writing, one who does not know the meaning, and one whose voice is weak. The verse calls them **पाठकाधमाः (*pāṭhakādhamāḥ*)**, inferior reciters. The chapter uses only the classification the verse states: dependence upon writing is a fault in recitation. It does not assign a further explanation to the verse.
+
+Patañjali gives the protection of the Vedas as the first purpose of grammar in the *Paspaśāhnika* of the *Mahābhāṣya*:
+
+> रक्षार्थं वेदानामध्येयं व्याकरणम् । लोपागमवर्णविकारज्ञो हि सम्यग्वेदान् परिपालयिष्यति ।
+>
+> *rakṣārthaṃ vedānām adhyeyaṃ vyākaraṇam | lopāgamavarṇavikārajño hi samyag vedān paripālayiṣyati |*
+
+Grammar is to be studied for the protection of the Vedas. One who knows the deletion, addition, and alteration of sounds will preserve them correctly. Patañjali is explaining why grammar must be learned, not presenting a general theory of writing-induced language change. Chapter 13 joins his named sound operations to the *Śikṣā*'s warning about recitation from writing and to the independently documented English evidence.
+
+Sources: [*Pāṇinīya Śikṣā* 32](https://sanskritdocuments.org/doc_z_misc_major_works/pANinIyashikShA.pdf), PDF p. 4; Patañjali, [*Vyākaraṇa-Mahābhāṣya*, Paspaśāhnika](https://www.wilbourhall.org/pdfs/Mahabhashya.pdf), electronic text based on the Kielhorn edition and revised by K. V. Abhyankar, `(Pas_3)`, corresponding to Kielhorn-Abhyankar vol. I, pp. 1.14–2.2.
 
 ---
 
@@ -2004,13 +2055,20 @@ Colonial governments and Christian missions demonstrate the historical mechanism
 
 ### `parampara-vyakaranam-bhartrhari-position-1`
 
-**Short:** The *vyākaraṇa* discipline's own self-description presupposes an already-formed linguistic object. Patañjali's ***siddhe śabdārthasambandhe*** states that the bond between word and meaning is already established; Bhartṛhari's *Vākyapadīya* treats *śabda* as structurally prior to ordinary speech. The *vaiyākaraṇaḥ* decodes; he does not invent.
+<!-- SOURCE-RECORDS
+- kielhorn-mahabhashya-v1 | Paspaśāhnika, vol. 1, p. 6, lines 12-14
+- gretil-vakyapadiya | Vākyapadīya 1.1 and 1.28
+-->
 
-**Status:** Parked — the 2026-08-25 Preface/Prologue restructure cut the front matter's lineage-legitimation passage to what a new reader needs; this deeper Patañjali/Bhartṛhari argument no longer has a body deployment. Retained as source material.
+**Short:** The Sanskrit continuum did not impose one account of whether शब्दः (*śabdaḥ*) is eternal or produced. Patañjali records both positions and says grammatical analysis must proceed under either. Bhartṛhari calls the principle of Speech beginningless and endless, then observes that whether words are eternal or made, their beginning is unknown.
 
-**Deployments:** No current body deployment (formerly Preface — "The Lineage This Book Extends," retired 2026-08-25).
+**Deployments:** Chapter 18 §18.7 — the opening of “An Honest Speculation by This Atri.”
 
-The note anchors the lineage claim. The Sanskrit discipline does not introduce grammar as a creative act that manufactures Sanskrit out of disorder. It introduces grammar as analysis, separation, and unfolding. Patañjali's opening locative absolute, ***सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)***, places the word-meaning bond on the side of the already-established. Bhartṛhari's *Vākyapadīya* gives the deeper philosophical form of the same premise: *śabda* is not merely a later convention among speakers but a foundational reality through which meaning becomes available. Standard references: Patañjali, *Mahābhāṣya*, *Paspaśāhnika*; Bhartṛhari, *Vākyapadīya*, especially Book 1; Yāska, *Nirukta*, for the older decoder lineage.
+In the *Paspaśāhnika*, Patañjali asks whether शब्दः (*śabdaḥ*) is **नित्य (*nitya*)**, eternal, or **कार्य (*kārya*)**, produced. He reports that the question had already been examined in the *Saṃgraha* and concludes that grammatical specification must operate under either position: **यदि एव नित्यः अथ अपि कार्यः उभयथा अपि लक्षणं प्रवर्त्यम् (*yadi eva nityaḥ atha api kāryaḥ ubhayathā api lakṣaṇaṃ pravartyam*)**. The claim in Chapter 18 is therefore narrow: the grammatical continuum preserved the disagreement rather than requiring one authorized answer before analysis could proceed.
+
+Bhartṛhari opens the *Vākyapadīya* with **अनादिनिधनं ब्रह्म शब्दतत्त्वं यदक्षरम् (*anādinidhanaṃ brahma śabdatattvaṃ yad akṣaram*)**, describing the imperishable principle of Speech as without beginning or end. Verse 1.28 then says of the words under discussion: **नित्यत्वे कृतकत्वे वा तेषामादिर्न विद्यते (*nityatve kṛtakatve vā teṣām ādir na vidyate*)** — whether they are eternal or made, their beginning is not known.
+
+These passages support the body's statement that the Hindu continuum debated the nature and beginning of Speech. They do not state the complete three-part speculation offered in Chapter 18. The distinction among language engineering, systems engineering, and civilizational purpose belongs to this book.
 
 ---
 
@@ -2322,6 +2380,32 @@ The defensible conclusion is therefore architectural: Sanskrit can generate a ve
 
 ---
 
+### `bhutasamkhya-word-place-value`
+
+<!-- SOURCE-RECORDS
+- petrocchi-bhutasamkhya-2017 | word-numerals, positional order, examples, meter, and memory
+- plofker-mathematics-india-2009 | independent account of the decimal place-value word system
+-->
+
+**Short:** **भूतसंख्या (*bhūtasaṃkhyā*)** represents decimal place-value numbers through words rather than numeral glyphs. Words for sky or space can stand for zero, words for the eyes for two, and words for the worlds for three. Each successive word supplies a value from the units place toward higher places. *Gaṇitasārasaṅgraha* 2.13 encodes **142,857,143**, instructs the student to multiply it by seven, and calls the product, **1,000,000,001**, the king's necklace.
+
+**Deployments:** Chapter 9 §9.12 — words as an alternative interface for place-value numbers; Chapter 13 §13.3 — the direct demonstration that positional architecture does not depend on numeral glyphs.
+
+Alessandra Petrocchi describes **भूतसंख्या (*bhūtasaṃkhyā*)** as a system in which significant words function as decimal digits. The associations draw upon familiar features of the body, cosmology, ritual, and inherited narrative. Thus **आकाश (*ākāśa*)**, **ख (*kha*)**, and other words for sky or space can represent zero; **नेत्र (*netra*)**, **अक्षि (*akṣi*)**, and other words for the eyes can represent two; and **लोक (*loka*)**, **भुवन (*bhuvana*)**, and related words can represent three because the continuum counts three worlds. See Petrocchi, “The Bhūtasaṃkhyā Notation: Numbers, Culture, and Language in Sanskrit Mathematical Literature,” pp. 479–480 and 482–484.
+
+The words occur in positional order, beginning with the units place and proceeding toward higher places. The convention is commonly summarized as ***अङ्कानां वामतो गतिः (*aṅkānāṃ vāmato gatiḥ*)***, the movement of the digits toward the left. Petrocchi explains that this system preserves the rhythm of the śloka and supports memory by linking words with numbers. Kim Plofker independently describes the same verbal decimal place-value system in *Mathematics in India*, pp. 46–48, especially p. 47.
+
+*Gaṇitasārasaṅgraha* 2.13 supplies a complete worked example:
+
+> अनलाब्धिहिमगुमुनिशरदुरिताक्षिपयोधिसोममास्थाप्य ।\
+> शैलेन तु गुणयित्वा कथय त्वं राजकण्ठिकाभरणम् ॥
+
+The sequence **अनल-अब्धि-हिमगु-मुनि-शर-दुरित-अक्षि-पयोधि-सोम (*anala-abdhi-himagu-muni-śara-durita-akṣi-payodhi-soma*)** supplies **3-4-1-7-5-8-2-4-1** from the units place upward and therefore represents **142,857,143**. **शैल (*śaila*)**, mountain, supplies seven. Their product is **1,000,000,001**, the patterned result called the king's necklace. See Petrocchi, pp. 484–485. Plofker reproduces the same example on p. 164 but numbers it verse 1.13 under a chapter count that treats the preliminary terminology section separately.
+
+The architectural conclusion is narrow and direct. A place-value number can be carried by ordered words in a memorized verse. Written numeral glyphs are useful interfaces for the same numerical architecture, but the architecture does not depend upon them.
+
+---
+
 ### `place-value-arabic-transmission`
 
 <!-- SOURCE-RECORDS
@@ -2339,7 +2423,7 @@ The system reached Europe through the Arabic-speaking mathematical tradition. Al
 
 The compound *Hindu-Arabic numerals* records the two principal stages of that transmission. Standard references include Kim Plofker, *Mathematics in India* (Princeton University Press, 2009), and the University of St Andrews MacTutor history, “Arabic Numerals.”
 
-The chapter uses this accepted transmission as a compact example of architecture traveling between languages and civilizations. Ten signs and positional rules generate an unbounded numerical field.
+The chapter uses this accepted transmission as a compact example of architecture traveling between languages and civilizations. In the familiar written notation, ten signs and positional rules generate an unbounded numerical field.
 
 ---
 

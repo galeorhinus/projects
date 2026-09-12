@@ -38,7 +38,7 @@ The invocation gives its own answer:
 
 The invocation speaks of **ब्रह्मन् (*Brahman*)** and the relationship between the absolute and the manifest. पूर्णम् (*Pūrṇam*) is not reduced when manifestation emerges from it. पूर्णम् (*Pūrṇam*) is not exhausted when पूर्णम् (*pūrṇam*) is taken from it. The verse shows a civilization already comfortable with the conceptual territory in which zero and infinity live.
 
-That same cognitive leap shaped the place-value number system and Sanskrit's generative word-system. Ten digits span arithmetic, and a finite inventory of semantic atoms, prefixes, and suffixes spans vocabulary. Zero makes the numerical system unbounded; combinatorial architecture makes the linguistic system unbounded. Both begin with a finite set and use it to produce forms without an apparent end — the first mark of the seekers.
+That same cognitive leap shaped the place-value number system and Sanskrit's generative word-system. Place value combines ten numerical values with positional rules to express numbers at any scale. Sanskrit combines a finite inventory of semantic atoms, prefixes, and suffixes to produce new words. Zero holds an empty position within the first architecture; combinatorial operations extend the second. Both begin with a finite set and use it to produce forms without an apparent end — the first mark of the seekers.
 
 ---
 
@@ -48,13 +48,13 @@ A civilization that begins from पूर्णम् (*pūrṇam*) approaches o
 
 The Sanskrit word is **जिज्ञासा (*jijñāsā*)**: the desire to know. The civilization's classical disciplines are organized around it. The मीमांसा (*Mīmāṃsā*) discipline opens with *athāto dharmajijñāsā* — *now, therefore, the inquiry into dharma*. The ब्रह्मसूत्र (*Brahmasūtra*) discipline opens with *athāto brahmajijñāsā* — *now, therefore, the inquiry into Brahman*. Each begins by asking a question and then develops a disciplined way to pursue it.
 
-Seekers carried the same disciplined inquiry into several domains. They developed the place-value number system and the symbol **शून्य (*śūnya*)** for zero. They documented Ayurveda as a science of the body, organized न्याय (*Nyāya*) as a discipline of inference, and established सांख्य (*Sāṃkhya*) as an analysis of what exists. Other seekers maintained the continuous recitation of the *Vedas* across thousands of years.
+Seekers carried the same disciplined inquiry into several domains. They developed the place-value number system with **शून्य (*śūnya*)**, zero. They documented Ayurveda as a science of the body, organized न्याय (*Nyāya*) as a discipline of inference, and established सांख्य (*Sāṃkhya*) as an analysis of what exists. Other seekers maintained the continuous recitation of the *Vedas* across thousands of years.
 
 The civilization remembers the people behind these achievements as **ऋषयः (*ṛṣayaḥ*)** and **ऋषिकाः (*ṛṣikāḥ*)**: disciplined men and women who sought knowledge. It often preserved what they achieved without preserving every individual name.
 
 Within *Sanātan*, even a follower is first a seeker: someone who has chosen a path because that path fits their worldview, capacity, temperament, duties, and present state of life. The path may be inherited, taught, discovered, or deepened through lineage, but it remains a path entered by a living person, not a single corridor imposed on all.
 
-The place-value number system and Sanskrit solve the same architectural problem: how can a finite set produce results without a fixed limit? Ten symbols can express every number. Sanskrit uses a finite set of sounds and word-building elements to create new expression whenever speakers need it. Section 0.6 develops this comparison.
+The place-value number system and Sanskrit solve the same architectural problem: how can a finite set produce results without a fixed limit? Ten numerical values and positional rules can express numbers at any scale. Sanskrit uses a finite set of sounds and word-building elements to create new expression whenever speakers need it. Section 0.6 develops this comparison.
 
 ---
 
@@ -168,7 +168,7 @@ The continuum understands all of this through its own conception of time — *Sa
 
 The पूर्णम् (*Pūrṇam*) puzzle introduced at the beginning of this chapter has only two valid answers: zero and infinity. The civilization that engineered Sanskrit did not just philosophize about these concepts; it made them the foundation of its architecture. It first made them usable in the realm of counting, and then in the structural mechanics of language.
 
-Ten symbols — *0* through *9* — span all of arithmetic. Position determines the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, the *2* in *2* is *two*. The enabling idea is शून्य (*śūnya*), the mark for absence at a position. Without zero, place value collapses; with zero, ten symbols reach every number there is. The world still counts this way. Reference works now call these symbols Hindu-Arabic numerals because Arabic mathematicians received the place-value system from India and carried it west during the medieval period.[NOTE: place-value-arabic-transmission]
+Ten values — zero through nine — and a positional rule reach numbers at every scale. In the familiar written notation, the digits *0* through *9* carry those values. Position determines the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, and the *2* in *2* is *two*. The enabling idea is **शून्य (*śūnya*)**, the value of an empty position. The circle is one way to write zero; it is not zero itself. With zero and positional rules, a finite inventory can express numbers without a fixed limit. The world still counts this way. Reference works now call these written digits Hindu-Arabic numerals because Arabic mathematicians received the place-value system from India and carried it west during the medieval period.[NOTE: place-value-arabic-transmission]
 
 A finite inventory, a rule for combining it, one enabling idea — and the output has no ceiling.
 
@@ -184,7 +184,7 @@ Sanskrit is a word-engine.
 
 When India's space agency needed a name for its first lunar mission, the engine produced one: **चन्द्र (*candra*)**, moon, + **यान (*yāna*)**, vehicle, = **चन्द्रयान (*Candrayāna*)**, Moon-vehicle. The same engine turns whenever Sanskrit forms a technical term, a name, a mantra, or a verse. A dictionary records the engine's output; it does not set the limits of what the engine can produce.
 
-Two systems, built on one shared pattern. Ten digits span arithmetic, while Sanskrit's semantic atoms span vocabulary. Both use a finite inventory to create forms without a fixed limit. The same seeker culture built these architectures in two different domains. At the outer limits of its mathematics and language, the opening word of the puzzle is waiting: पूर्णम् (*pūrṇam*).
+Two systems, built on one shared pattern. Ten numerical values and positional rules span arithmetic, while Sanskrit's semantic atoms and generative operations span vocabulary. Both use a finite inventory to create forms without a fixed limit. The same seeker culture built these architectures in two different domains. At the outer limits of its mathematics and language, the opening word of the puzzle is waiting: पूर्णम् (*pūrṇam*).
 
 ---
 

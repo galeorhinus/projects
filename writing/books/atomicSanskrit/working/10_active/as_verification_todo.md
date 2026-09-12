@@ -32,23 +32,23 @@ that says so. Pāṇinīya Śikṣā 32 lists six worst reciters and names
 ete pāṭhakādhamāḥ* — the singer, the rusher, the head-shaker, the one who
 recites from writing, the one ignorant of the meaning, and the weak-voiced.
 
-Quoted from memory in a 2026-09-11 session; GRETIL and sanskritdocuments.org
-were both unreachable at the time, so neither the wording nor the verse number
-has been checked against a text. Chapter 15 already cites पाणिनीयशिक्षा, so the
-work itself is established in the book; this specific verse is not.
+The wording and verse number have now been checked against the Sanskrit
+Documents PDF. Chapter 13 §13.3 uses only the explicit classification of the
+**लिखितपाठकः (*likhita-pāṭhakaḥ*)** as an inferior reciter. Its endnote records
+the source, exact verse, local archive, and scope of the inference.
 
 | Priority | Item | What to check | Status |
 |---|---|---|---|
-| P0 | Verse text and number | Confirm the wording and that it is verse 32, against a printed edition or GRETIL. Editions differ in numbering. | `[ ]` |
-| P1 | Commentary | Check whether any commentary explains *likhita-pāṭhaka* — whether the fault is reading aloud from a manuscript, or learning from one. The two support different claims. | `[ ]` |
-| P2 | Mahābhārata parallel | The widely quoted वेदानां लेखकाश्चैव verse (writers of the Veda go to hell) is usually attributed to Śānti Parva, but the attribution circulates inconsistently. Locate it or drop it. | `[ ]` |
-| P2 | Tantravārttika | Kumārila argues Veda learned from writing lacks validity. Locate the passage. | `[ ]` |
+| P0 | Verse text and number | Confirm the wording and that it is verse 32, against a digital edition. | `[x]` Confirmed as verse 32; PDF p. 4. |
+| P1 | Commentary | Avoid making the body depend on whether the fault is reading from a manuscript or learning from one. | `[x]` Resolved by limiting the claim to the verse's explicit classification. |
+| P2 | Mahābhārata parallel | The attribution circulates inconsistently and is unnecessary to the argument. | `[x]` Dropped. |
+| P2 | Tantravārttika | A further witness is unnecessary after the direct *Śikṣā* and *Mahābhāṣya* evidence. | `[x]` Dropped. |
 
-**Scope limit, whichever way verification goes.** The verse is about a reciter's
-fidelity, not about language change. It supports the claim that the discipline
-treated dependence on writing as a transmission fault. It does not support a
-claim that the tradition held a theory of writing-induced linguistic entropy,
-and §13.3 should not be written as though it does.
+**Cleared:** The verse is about a reciter's fidelity, not about language change.
+The body therefore uses it as evidence that the discipline treated dependence
+on writing as a transmission fault. A separate endnote documents English
+spelling pronunciation before the chapter identifies writing as an agent of
+language change.
 
 ### Kauthuma Samaveda Padapatha recitation of Samaveda 1.78 — 2026-09-02
 

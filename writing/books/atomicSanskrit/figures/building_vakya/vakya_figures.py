@@ -392,16 +392,15 @@ def render_cluster(cx: float, cy: float, parts: list[dict], role: str) -> str:
     right = cx + w / 2 + EDGE_LENGTH / 2
     span = right - left
     for i in range(1, n):
-        # Divider stops short of the outline top and bottom so it reads as an
-        # internal division of one tile, not as separate tiles butted
-        # together. It carries the sonomer count -- two half-mātrā slots --
-        # while the conjunct below carries the orthography.
+        # Divider stops short of the outline but remains visible above and
+        # below the labels. It marks two half-mātrā sonomer slots inside one
+        # timing envelope; the conjunct carries the orthography.
         dx = left + span * i / n
-        inset = HEX_HEIGHT * 0.30
+        inset = HEX_HEIGHT * 0.09
         fragments.append(
             f'<line x1="{dx:.1f}" y1="{cy - HEX_HEIGHT / 2 + inset:.1f}" '
             f'x2="{dx:.1f}" y2="{cy + HEX_HEIGHT / 2 - inset:.1f}" '
-            f'stroke="{ink}" stroke-width="0.9" stroke-dasharray="3 2" opacity="0.55"/>'
+            f'stroke="{ink}" stroke-width="1.6" stroke-dasharray="4 3" opacity="0.78"/>'
         )
     # The written form is the conjunct, so it is drawn as one ligature
     # centred across the whole envelope rather than as per-half glyphs with

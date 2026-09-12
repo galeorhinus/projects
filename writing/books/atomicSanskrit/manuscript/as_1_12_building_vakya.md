@@ -36,7 +36,7 @@ Yāska preserves this principle as **नामान्याख्यातज�
 
 ![Figure 12.1 — The five scales of assembly: **वर्णाः (*varṇāḥ*)**, the sonomers; **धातुः (*dhātuḥ*)**, the semantic atom; **क्रियापद (*kriyāpada*)**, the verbal molecule; **पदम् (*padam*)**, the word marked for its role; and **वाक्यम् (*vākyam*)**, the assembled sentence.](figures/building_vakya/pipeline_scales.svg){#fig:building-vakya-pipeline-scales width=100%}
 
-![Figure 12.2 — The same assembly on one atom: ⟪कृ⟫ (*kṛ*) becomes **करिष्यति (*kariṣyati*)**. Vowels take the light tiles and consonants the dark ones. The wide **ष्य** tile is one timing envelope holding two sonomers, which is why it is divided.](figures/building_vakya/pipeline_example.svg){#fig:building-vakya-pipeline-example width=100%}
+![Figure 12.2 — The same assembly on one atom: ⟪कृ⟫ (*kṛ*) becomes **करिष्यति (*kariṣyati*)**. Vowels take the light tiles and consonants the dark ones. The wide **ष्य्** tile is one timing envelope holding two sonomers, which is why it is divided.](figures/building_vakya/pipeline_example.svg){#fig:building-vakya-pipeline-example width=100%}
 
 ## 12.2 The Vedic ⟪कृ⟫ Family
 
@@ -102,7 +102,7 @@ The Rigvedic question can now be separated word by word:
 | **ऋचा (*ṛcā*)** | with or through the ṛc |
 | **करिष्यति (*kariṣyati*)** | will do |
 
-The sentence means: *What will one who does not know that do with the* ऋच् (*ṛc*)?
+The sentence means: *What can someone who does not know this do with the ऋच् (ṛc)??
 
 The question combines a relative pronoun, a demonstrative pronoun, a negation, an interrogative pronoun, an instrumental relation, and a future verb. Each completed form performs the same grammatical function in the वैदिक (*vaidika*) and लौकिक (*laukika*) domains.
 

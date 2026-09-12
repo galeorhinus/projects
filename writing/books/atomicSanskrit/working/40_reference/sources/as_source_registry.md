@@ -555,14 +555,27 @@ do not silently omit the gap.
 
 - **Citation:** Kim Plofker, *Mathematics in India* (Princeton University Press, 2009).
 - **Source type:** Copyrighted scholarly book.
-- **Canonical locator:** ISBN 9780691120676; JSTOR book ID `j.ctt7s03d`.
+- **Canonical locator:** ISBN 9780691120676; JSTOR book ID `j.ctt7s03d`; pp. 46–48 for **भूतसंख्या (*bhūtasaṃkhyā*)**, especially p. 47; p. 164 for the worked “king's necklace” multiplication.
 - **Digital URL:** https://www.jstor.org/stable/j.ctt7s03d
 - **Archived URL:** Same as the digital URL.
 - **Accessed:** 2026-09-02.
 - **Local record:** Not retained.
 - **Integrity:** Not applicable.
 - **Rights/storage:** Copyrighted; stable catalogue/full-text platform record only.
-- **Notes:** Corroborating source for Sanskrit prosody and combinatorics.
+- **Notes:** Corroborating source for Sanskrit prosody, combinatorics, and the decimal place-value system expressed through word-numerals.
+
+### `petrocchi-bhutasamkhya-2017`
+
+- **Citation:** Alessandra Petrocchi, “The Bhūtasaṃkhyā Notation: Numbers, Culture, and Language in Sanskrit Mathematical Literature,” in George Thompson and Richard K. Payne, eds., *On Meaning and Mantras: Essays in Honor of Frits Staal* (Institute of Buddhist Studies and BDK America, 2017), 477–502.
+- **Source type:** Scholarly book chapter in an institutional repository.
+- **Canonical locator:** pp. 479–480 for the place-value sequence and oral-mnemonic function; pp. 482–484 for the word-to-number examples; pp. 484–485 for the worked “king's necklace” multiplication.
+- **Digital URL:** https://ora.ox.ac.uk/objects/uuid%3A5babcfd0-ae8d-4eb6-9ce9-5df583dc1951
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-11.
+- **Local record:** `working/40_reference/sources/archive/documents/petrocchi-bhutasamkhya-2017/source.pdf`
+- **Integrity:** SHA-256 `d2256a8715e85978dd83ad64da8f5f58f8aa4384cbc62be06611922374c4fc55`.
+- **Rights/storage:** Author-deposited institutional-repository copy; archived locally for research verification.
+- **Notes:** Documents **भूतसंख्या (*bhūtasaṃkhyā*)** as decimal place-value notation carried by words. It records the units-to-higher-places convention, the metrical and mnemonic functions, examples including sky for zero, eyes for two, and worlds for three, and the complete “king's necklace” multiplication in *Gaṇitasārasaṅgraha* 2.13.
 
 ### `gray-nambudiri-recitation-1959`
 
@@ -1771,6 +1784,19 @@ do not silently omit the gap.
 - **Integrity:** Aggregate SHA-256 over the archived PDF, OCR text, and scan metadata: `23be5c284984efd213ab9e4bcd9e7c02f7f0abab6a04e40b613c0773488e1cf2`.
 - **Rights/storage:** Public-domain edition retained for research.
 - **Notes:** Primary edition used to check the *Paspaśāhnika* sequence and printed locators.
+
+### `gretil-vakyapadiya`
+
+- **Citation:** Bhartṛhari, *Vākyapadīya*, electronic text entered by Yves Ramseier; GRETIL TEI conversion dated 2020-07-31.
+- **Source type:** Searchable electronic primary text.
+- **Canonical locator:** Book 1, verses 1 and 28.
+- **Digital URL:** https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhartRhari-vAkyapadIya.htm
+- **Archived URL:** https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhartRhari-vAkyapadIya.xml
+- **Accessed:** 2026-09-11.
+- **Local record:** `working/40_reference/sources/archive/documents/gretil-vakyapadiya/`.
+- **Integrity:** SHA-256: HTML `9d9aefae3f8613f7ba7427c27f8b1a6871b108176d20ee1a902f074bfe1b5180`; XML `19ba3f0c126909878bafa0fb4e4a6c7f77e0bef6545f4365dfdc1489eda91e29`.
+- **Rights/storage:** GRETIL distributes the electronic text under CC BY-NC-SA 4.0; research copies retained locally for verification.
+- **Notes:** Verse 1.1 supplies **अनादिनिधनम् (*anādinidhanam*)**; verse 1.28 explicitly retains the alternatives **नित्यत्व (*nityatva*)** and **कृतकत्व (*kṛtakatva*)** while stating that the beginning is unknown.
 
 ### `vishvasa-paspashahnika-full`
 
@@ -5255,3 +5281,42 @@ do not silently omit the gap.
 - **Integrity:** No local file.
 - **Rights/storage:** Exact primary-text URL retained for research verification.
 - **Notes:** Records that ʿUthmān appointed a committee to prepare copies, sent those copies to the provinces, and ordered the other Qur'anic materials burned, including fragments and complete manuscripts.
+
+### `deterding-mohamad-spelling-pronunciation-2017`
+
+- **Citation:** David Deterding and Nur Raihan Mohamad, “Spelling Pronunciation in English,” *ELT Journal* 71, no. 1 (2017): 87–91.
+- **Source type:** Peer-reviewed journal article.
+- **Canonical locator:** DOI 10.1093/elt/ccw073; examples on pp. 88–89.
+- **Digital URL:** https://fass.ubd.edu.bn/staff/docs/DD/ELT-J-2016-Deterding-NurRaihan.pdf
+- **Archived URL:** https://doi.org/10.1093/elt/ccw073
+- **Accessed:** 2026-09-11.
+- **Local record:** `working/40_reference/sources/archive/documents/deterding-raihan-spelling-pronunciation-2017/source.pdf`.
+- **Integrity:** SHA-256 `a3a7ab78c062cb5b032430fdcd1443b6757be47e707696f62fdf5fba7a662816`.
+- **Rights/storage:** Author-hosted scholarly article retained for research verification.
+- **Notes:** Documents the spelling-influenced pronunciations of *forehead*, *often*, and *fault* used in Chapter 13 §13.3.
+
+### `paniniya-shiksha-32-likhitapathaka`
+
+- **Citation:** *Pāṇinīya Śikṣā*, verse 32, Sanskrit Documents digital edition.
+- **Source type:** Primary Sanskrit work in a public digital edition.
+- **Canonical locator:** Verse 32; PDF p. 4.
+- **Digital URL:** https://sanskritdocuments.org/doc_z_misc_major_works/pANinIyashikShA.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-11.
+- **Local record:** `working/40_reference/sources/archive/documents/paniniya-shiksha-32/source.pdf`.
+- **Integrity:** SHA-256 `aa31d9b6714e03b6d5d0d721a5eebdf06c4666903fce75ddf194c1426a65e7e2`.
+- **Rights/storage:** Public Sanskrit digital edition retained for research verification.
+- **Notes:** Verse 32 lists **लिखितपाठकः (*likhitapāṭhakaḥ*)** among six inferior reciters. The chapter does not attribute the work's traditional title directly to Pāṇini.
+
+### `patanjali-mahabhashya-raksha-paspasha`
+
+- **Citation:** Patañjali, *Vyākaraṇa-Mahābhāṣya*, Paspaśāhnika, electronic text based on Franz Kielhorn's edition and revised by K. V. Abhyankar.
+- **Source type:** Primary Sanskrit work in a scholarly electronic edition.
+- **Canonical locator:** `(Pas_3)`; Kielhorn-Abhyankar vol. I, pp. 1.14–2.2.
+- **Digital URL:** https://www.wilbourhall.org/pdfs/Mahabhashya.pdf
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-11.
+- **Local record:** `working/40_reference/sources/archive/documents/patanjali-mahabhashya-paspashahnika/source.pdf`.
+- **Integrity:** SHA-256 `e2db05aaf2c23925d47223dc9f6f52f07c5799d298c4b17fda61f2ae03a0415f`.
+- **Rights/storage:** Public scholarly electronic text retained for research verification.
+- **Notes:** Records protection of the Vedas as the first purpose of grammar and names deletion, addition, and sound alteration as operations the protector must know.

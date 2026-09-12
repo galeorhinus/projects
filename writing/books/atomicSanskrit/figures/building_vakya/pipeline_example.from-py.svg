@@ -29,7 +29,7 @@
   <text x="498.3" y="169.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">इ</text>
   <text x="498.3" y="209.6" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">i</text>
   <polygon points="553.9,88.9 609.4,88.9 637.2,137.1 609.4,185.2 553.9,185.2 526.1,137.1" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <line x1="581.7" y1="117.8" x2="581.7" y2="156.3" stroke="#f4eedd" stroke-width="0.9" stroke-dasharray="3 2" opacity="0.55"/>
+  <line x1="581.7" y1="97.6" x2="581.7" y2="176.5" stroke="#f4eedd" stroke-width="1.6" stroke-dasharray="4 3" opacity="0.78"/>
   <text x="581.7" y="121.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">ष्य्</text>
   <text x="581.7" y="161.5" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">ṣy</text>
   <polygon points="637.2,137.1 692.8,137.1 720.6,185.2 692.8,233.3 637.2,233.3 609.4,185.2" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>

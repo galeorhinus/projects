@@ -218,7 +218,17 @@ Foreign Y-DNA can be the trace of men whom India absorbed. That paternal ancestr
 
 ## 18.7 An Honest Speculation by This Atri
 
+The Hindu continuum did not close the debate about Sanskrit's beginning. Its thinkers asked whether शब्दः (*śabdaḥ*) was eternal or produced, whether the bond between word and meaning was inherent, and how revelation, human formation, and grammar participated in the language. Patañjali considered both the eternal and produced positions. Bhartṛhari called the principle of Speech beginningless and endless, then observed that even if words were produced, their beginning could not be found.[NOTE: parampara-vyakaranam-bhartrhari-position-1]
 
+The debate itself is healthy. A calibrant order keeps the inherited evidence available and leaves room for विवेक (*viveka*). It does not appoint an apex to close the inquiry.
+
+What follows is this Atri's contribution to that continuing debate. It separates the work into three parts:
+
+1. **Language engineering** was one task. In this speculation, that engineering was founded on a survey of the subcontinental sound field. The engineers selected sonances from that wider inventory, engineered the महाप्राण (*mahāprāṇa*) breath distinctions, promoted the reusable sounds into sonomers, and built Sanskrit's atoms and generative operations from the resulting grid. Chapters 8 and 9 reconstruct that sequence.
+2. **Systems engineering** was the greater task. It kept that language calibrated. The Vedic corpus, the two domains, meter, pitch, recitation, and distributed lineages protected Sanskrit against entropy and asuric attack.
+3. **Civilizational purpose** explains why the first two mattered. Sanskrit and the Vedas carried the memory of सत् (*sat*) and ऋत (*ṛta*) so that later generations could still recognize and resist असत् (*asat*).
+
+The third part explains why the first two were necessary.
 
 ### Why सत् (*Sat*) Needs Memory
 
@@ -230,13 +240,13 @@ The distinction therefore existed before human beings. Humans inherited the capa
 
 सत् (*Sat*) therefore faces two problems. Human memory is short: individuals die, institutions weaken, and kingdoms fall. Forces aligned with असत् (*asat*) do not merely wait for that memory to fade. They attack it because a society that remembers how containment was defeated can recognize and resist its return. Later generations need a memory that can outlive its custodians and survive deliberate attempts to erase it.
 
-Those two threats define the larger engineering problem. This Atri speculates that Sanskrit and the Vedic calibration system were engineered together to carry the memory of सत् (*sat*) and ऋत (*ṛta*) across generations. Sanskrit had to remain invariant while allowing speakers to describe circumstances that no earlier generation had encountered. The Vedas had to keep that language calibrated despite gradual entropy and deliberate attack by forces aligned with असत् (*asat*).
+Those two threats explain the system's civilizational purpose. Sanskrit was not protected merely because it was beautiful or precise. It had to remain calibrated so that later generations could still understand the memory of सत् (*sat*) and ऋत (*ṛta*). This Atri speculates that Sanskrit and the Vedic calibration system were engineered together for that purpose.
 
 ### When वाक् (*Vāk*) Revealed Herself
 
-Thousands of years ago, perhaps even tens of thousands, the ऋषयः (*ṛṣayaḥ*) and ऋषिकाः (*ṛṣikāḥ*) saw the mantras. They brought the Vedas into human transmission as part of Sanskrit's preservation architecture.
+Thousands of years ago, perhaps even tens of thousands, the ऋषयः (*ṛṣayaḥ*) and ऋषिकाः (*ṛṣikāḥ*) entered states of deep immersion and saw the mantras. This Atri speculates that they also composed the mantras in that state. Seeing and composing are not opposites in this account. Seeing describes the encounter; composing describes the work of giving that encounter exact sound, meter, sequence, and grammatical form.
 
-Bṛhaspati's mantra describes the wise forming Speech:
+The Ṛgveda itself holds active formation and revelation together. Bṛhaspati's mantra describes the wise forming Speech:
 
 > **सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।**
 >
@@ -264,7 +274,7 @@ The following mantra says that a person may look without seeing Speech and liste
 >
 > *One person, though looking, did not see Speech; another, though listening, did not hear her. But to one she revealed her body, as a willing, well-dressed wife reveals herself to her husband.* (RV 10.71.4)[NOTE: rigveda-10-71-4-vach]
 
-In Ṛgveda 10.125, वाक् (*Vāk*) speaks in her own voice. She declares that she chooses whom she makes into an ऋषिः (*ṛṣiḥ*):
+In Ṛgveda 10.125, वाक् (*Vāk*) speaks in her own voice. She declares that she chooses whom she makes into a ऋषिः (*ṛṣiḥ*):
 
 > **अहमेव स्वयमिदं वदामि जुष्टं देवेभिरुत मानुषेभिः ।**
 > **यं कामये तं तमुग्रं कृणोमि तं ब्रह्माणं तमृषिं तं सुमेधाम् ॥**
@@ -272,27 +282,29 @@ In Ṛgveda 10.125, वाक् (*Vāk*) speaks in her own voice. She declares 
 > *aham eva svayam idaṃ vadāmi juṣṭaṃ devebhir uta mānuṣebhiḥ |*
 > *yaṃ kāmaye taṃ-tam ugraṃ kṛṇomi taṃ brahmāṇaṃ tam ṛṣiṃ taṃ sumedhām ||*
 >
-> *I myself declare this, cherished by devas and humans. Whom I desire, I make formidable: a brahmāṇa, an ṛṣi, a person of good wisdom.* (RV 10.125.5)[NOTE: rigveda-10-125-vak-ambhrini]
+> *I myself declare this, cherished by devas and humans. Whom I desire, I make formidable: a brahmāṇa, a ṛṣi, a person of good wisdom.* (RV 10.125.5)[NOTE: rigveda-10-125-vak-ambhrini]
 
-In this Atri's speculation, these mantras describe cooperation. वाग्देवी (*Vāgdevī*) did not stand before the seers as inert material waiting to be possessed. She offered herself to them and revealed her body. The wise refined Speech with the mind and gave her a form that human mouths could reproduce.
+In this Atri's speculation, these mantras describe cooperation between वाक् (*Vāk*) and the seers. वाग्देवी (*Vāgdevī*) did not stand before them as inert material waiting to be possessed. She offered herself and revealed her body. The seers participated actively. In deep immersion, they formed what she revealed into mantras that human mouths could reproduce and later generations could preserve.
 
-The seers were active participants. They recited what they received, taught it, and carried it forward. Yet they did not claim authorship or ownership of what had revealed itself through them. The continuum therefore received the Vedas as अपौरुषेय (*apauruṣeya*), without a human author at the apex.[NOTE: apauruseya-mimamsa-sutra-1-1-5]
+Their humility and their ability to move beyond ego allowed them to participate without claiming possession. They understood वाक् (*Vāk*) as revealing herself and did not place their own names above what she revealed. The continuum received the Vedas as अपौरुषेय (*apauruṣeya*), without human authorship, and Mīmāṃsā later gave that authorlessness a stricter philosophical account.[NOTE: apauruseya-mimamsa-sutra-1-1-5] In this Atri's speculation, composition does not make the seers the sole authors. It is the human part of a cooperative act whose source they experienced as वाक् (*Vāk*).
 
-### Sanskrit and the Vedas Formed One Architecture
+### Three Tasks, One Architecture
 
-The work had to solve two problems together. Speech needed sounds that human mouths could produce distinctly and repeat reliably. The civilization also needed exact expressions that could carry those sounds, words, and grammatical relations across generations.
+The first task was language engineering. In this Atri's speculation, it began with the survey reconstructed in Chapter 8. The engineers examined the sounds used across the Indian subcontinent. That survey gave them the subcontinental superset: a wider field of sonances from which they could select sounds that human mouths could produce distinctly and repeat reliably.
 
-The human mouth can pronounce far more sounds than Sanskrit uses. The engineers selected sounds from that wider range and arranged the reusable set in the sonomeric grid. They formed semantic atoms from those sonomers and established procedures for extending the atoms into new words and sentences. Sanskrit did not depend upon a finite list of approved expressions. Its architecture allowed every generation to say something new without changing the language through which it spoke.
+Selection was only the beginning. The engineers organized the reusable sonances by mouth-place and promoted them into sonomers. They also engineered the ten महाप्राण (*mahāprāṇa*) stops. Controlled breath became an independent axis, doubling the ten base stops to twenty without crowding more sounds into the mouth-place axis. Chapter 8 §8.7 shows this expansion. Chapter 9 follows the selected sonances as they enter Sanskrit's sonomeric grid.
 
-In this speculation, the Vedas entered human transmission as part of the architecture from the beginning. Sanskrit carried the mantras, while the mantras encoded Sanskrit's sounds and grammar in their working form. Meter, pitch, duration, sequence, and recitation kept the language audible. The Vedas were Sanskrit's distributed calibrant.
+The engineers then formed semantic atoms from those sonomers and established procedures for extending the atoms into new words and sentences. Sanskrit did not depend upon a finite list of approved expressions. Its architecture allowed every generation to say something new without changing the language through which it spoke.
 
-They also carried the civilizational memory for which the language had been engineered. The distinction between सत् (*sat*) and असत् (*asat*), the trajectory of ऋत (*ṛta*), and the actions that restore circulation remained available to every later age. Sanskrit preserved their meaning; the Vedas preserved Sanskrit.
+The second task was systems engineering. Language engineering could make Sanskrit precise and generative, but it could not keep the language invariant across thousands of years. In this speculation, the Vedas entered human transmission as part of the system from the beginning. Sanskrit carried the mantras, while the mantras encoded Sanskrit's sounds and grammar in their working form. The two domains separated preservation from new expression. Meter, pitch, duration, sequence, recitation, and distributed lineages kept the Vedic calibrant audible and available.
+
+The third task gave the first two their purpose. The system carried the civilizational memory for which Sanskrit had been engineered. The distinction between सत् (*sat*) and असत् (*asat*), the trajectory of ऋत (*ṛta*), and the actions that restore circulation remained available to every later age. Sanskrit preserved their meaning; the Vedas preserved Sanskrit.
 
 **Protecting the Vedas protected Sanskrit. Protecting Sanskrit kept the Vedic memory of ऋत (*ṛta*) intelligible. Keeping that calibrant available protected Sanātan.**
 
 ### Two Enemies, Two Domains
 
-An architecture built for long memory had to survive two enemies.
+The systems engineering had to protect this long memory against two enemies.
 
 Entropy was the first. Speakers could alter a sound, shorten an ending, or change a word's meaning without intending to damage the language. Small deviations could accumulate until later generations could no longer understand what earlier generations had said.
 
@@ -314,7 +326,7 @@ Sanskrit could become Sanskrit only within a civilization already rooted in cali
 
 ### What This Atri Knows and Suspects
 
-This Atri places the beginning thousands of years ago, perhaps tens of thousands. I do not know the exact year, the identities of the engineers, how long their work took, or when each mantra was seen. The chronology is part of my speculation.
+This Atri suspects that the seers understood all three tasks and engineered them together. I place the beginning thousands of years ago, perhaps tens of thousands. I do not know the exact year, the identities of the engineers, how many generations participated, or when each mantra was seen and composed. The chronology and the reconstruction are part of my speculation.
 
 The architecture remains available for examination in the mouth, the sonomeric grid, the atoms, the bonding operations, the grammar, and complete sentences. Exact Vedic transmission keeps it audible through pitch, meter, recitation across society, and mutually checking पाठाः (*pāṭhāḥ*).
 
@@ -322,7 +334,7 @@ The Vedas also encode the wider architectures of संस्कृति (*sa�
 
 The evidence does not reveal the engineers' biographies. It reveals what they built.
 
-> **वाग्देवी (*Vāgdevī*) revealed herself. The ऋषयः (*ṛṣayaḥ*) and ऋषिकाः (*ṛṣikāḥ*) saw the mantras. The wise formed Speech. The lineage heard. The वैयाकरणाः (*vaiyākaraṇāḥ*) decoded. Pāṇini articulated. The Vedas remain the calibrant for Sanskrit and संस्कृति (*saṃskṛti*).**
+> **वाग्देवी (*Vāgdevī*) revealed herself. The ऋषयः (*ṛṣayaḥ*) and ऋषिकाः (*ṛṣikāḥ*) saw and composed the mantras. The wise formed Speech. The lineage heard. The वैयाकरणाः (*vaiyākaraṇāḥ*) decoded. Pāṇini articulated. The Vedas remain the calibrant for Sanskrit and संस्कृति (*saṃskṛti*).**
 
 ## 18.8 Pāṇini Praised, Architecture Erased
 
