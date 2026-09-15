@@ -30,11 +30,11 @@ The work ahead is not revenge. In a karmic order, harmful actions carry conseque
 
 ## The Stolen Sip and the Rising Nectar
 
-In the **समुद्रमन्थन (*samudra-manthana*)** story, the devas and asuras churn the ocean for **अमृत (*amṛta*)**, the nectar of immortality.[NOTE: samudra-manthana-source-anchor] The first substance to emerge is **हालहल (*hālahala*)**, a poison powerful enough to destroy the worlds. Śiva prevents that destruction by holding the poison in his throat and becoming **नीलकण्ठ (*nīlakaṇṭha*)**, the blue-throated one. The nectar rises only after the poison has been contained.
+In the **समुद्रमन्थन (*samudra-manthana*)** story, the devas and asuras churn the ocean for **अमृत (*amṛta*)**, the nectar of immortality.[NOTE: samudra-manthana-source-anchor] The first substance to emerge is **हलाहल (*halāhala*)**, a poison powerful enough to destroy the worlds. Śiva prevents that destruction by holding the poison in his throat and becoming **नीलकण्ठ (*nīlakaṇṭha*)**, the blue-throated one. The nectar rises only after the poison has been contained.
 
 Sanskrit scholarship produced a similar sequence over the past two centuries. Indian scholars taught the language and explained its grammar. European scholars used that knowledge to compare words, compile dictionaries, and construct linguistic histories.[NOTE: colonial-sanskrit-institutes] Most of the people who performed this work did not control the account that the apex eventually built from it.
 
-The apex converted their accumulated labor into *hālahala*. It created the Racial Arya Thesis and supported it with racial classifications that damaged India and later spread far beyond it. India bore that poison without surrendering Sanskrit or the civilizational memory carried through the language. In this churning, India became **नीलकण्ठ (*nīlakaṇṭha*)**. The poison reached its throat but never entered its heart.
+The apex converted their accumulated labor into *halāhala*. It created the Racial Arya Thesis and supported it with racial classifications that damaged India and later spread far beyond it. India bore that poison without surrendering Sanskrit or the civilizational memory carried through the language. In this churning, India became **नीलकण्ठ (*nīlakaṇṭha*)**. The poison reached its throat but never entered its heart.
 
 The story also gives this book its image of Rāhu. The *Bhāgavata Purāṇa* calls the intruder Svarbhānu. He steals a sip of the nectar before **विष्णु (*Viṣṇu*)** severs his head. Because the nectar has already made the head undying, Rāhu continues to seize the Sun and Moon.[NOTE: rahu-manthana-svarbhanu-layering]
 

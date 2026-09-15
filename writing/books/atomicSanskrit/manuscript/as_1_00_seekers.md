@@ -174,11 +174,11 @@ A finite inventory, a rule for combining it, one enabling idea — and the outpu
 
 **Sanskrit does to language what zero does to counting.**
 
-English dictionaries list roughly 170,000 words in current use. Sanskrit is built differently. It begins with over two thousand semantic atoms called ***धातवः (*dhātavaḥ*)***. Rather than listing every possible word, Sanskrit provides procedures for building words from those atoms.
+English dictionaries list roughly 170,000 words in current use. Sanskrit is built differently. It begins with 2,168 semantic atoms called ***धातवः (*dhātavaḥ*)***. Some of these atoms carry more than one meaning. Together, the 2,168 धातवः (*dhātavaḥ*) provide 2,634 recorded meanings from which further words can be built. Rather than listing every possible word, Sanskrit provides procedures for building words from those atoms.
 
 Prefixes can redirect their meanings. Suffixes and verb endings complete them as words. Sanskrit can then join finished words into compounds, and each compound can become a building block for another.
 
-These operations give a finite inventory enormous reach. A bounded reconstruction conducted for this book begins with 2,634 recorded meanings carried by Sanskrit's semantic atoms. Before inflection, the operations tested so far generate 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings. When the ordinary-language portion passes through the declared verb and noun matrices, it occupies 602,707,133 grammatical cells. The count stops before unrestricted recursive compounding, which has no fixed ceiling. Chapter 12 explains each stage of the calculation.[NOTE: sanskrit-generative-wordspace]
+These operations give a finite inventory enormous reach. A bounded reconstruction conducted for this book begins with those 2,634 recorded meanings from the 2,168 धातवः (*dhātavaḥ*). Before inflection, the operations tested so far generate 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings. When the ordinary-language portion passes through the declared verb and noun matrices, it occupies 602,707,133 grammatical cells. The count stops before unrestricted recursive compounding, which has no fixed ceiling. Chapter 12 explains each stage of the calculation.[NOTE: sanskrit-generative-wordspace]
 
 Sanskrit is a word-engine.
 

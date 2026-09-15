@@ -204,7 +204,7 @@ Figure 12.5 groups these examples by the material placed before ⟪कृ⟫. Th
 
 Sanskrit also uses the same assembly procedures to build compounds. When India's lunar mission required a name, speakers joined **चन्द्र (*candra*)**, Moon, and **यान (*yāna*)**, vehicle, as **चन्द्रयान (*Candrayāna*)**. Speakers used existing Sanskrit words and an established compounding procedure to name the new undertaking **चन्द्रयान (*Candrayāna*)**.
 
-The scale of this generativity can now be followed from operation to operation. The reconstruction begins with 2,634 recorded meanings carried by Sanskrit's semantic atoms. Prefixes and verbal transformations raise the count beyond 1.3 million. Sanskrit then derives actions, agents, instruments, qualities, obligations, and other kinds of meaning from those verbal meanings. Further operations express state, possession, descent, origin, comparison, negation, and bounded compounds. Before inflection begins, the resulting inventory contains 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings.
+The scale of this generativity can now be followed from operation to operation. The reconstruction begins with the 2,634 recorded meanings carried by the 2,168 semantic atoms. Prefixes and verbal transformations raise the count beyond 1.3 million. Sanskrit then derives actions, agents, instruments, qualities, obligations, and other kinds of meaning from those verbal meanings. Further operations express state, possession, descent, origin, comparison, negation, and bounded compounds. Before inflection begins, the resulting inventory contains 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings.
 
 The लौकिक (*laukika*) portion divides into three familiar Sanskrit categories:
 

@@ -7574,11 +7574,11 @@ The complete verse is **धर्म एव हतो हन्ति धर्�
 - bhagavata-canto8-sanskrit | 8.7.1–43, 8.8.33–46, and 8.9.19–26
 -->
 
-**Short:** The Epilogue follows the *Bhāgavata Purāṇa* telling in Skandha 8. Vāsuki and Mandara begin the churning at 8.7.1–17; **हालहल (*hālahala*)** rises first at 8.7.18; Śiva drinks it and bears its blue mark at 8.7.41–43; Dhanvantari and Mohinī appear at 8.8.33–46; and Mohinī gives the nectar to the *devāḥ* at 8.9.19–26.
+**Short:** The Epilogue follows the *Bhāgavata Purāṇa* telling in Skandha 8. Vāsuki and Mandara begin the churning at 8.7.1–17; the poison rises first at 8.7.18; Śiva drinks it and bears its blue mark at 8.7.41–43; Dhanvantari and Mohinī appear at 8.8.33–46; and Mohinī gives the nectar to the *devāḥ* at 8.9.19–26.
 
 **Deployments:** Epilogue, *Where the Nectar Rises* ¶1.
 
-The episode appears in several *itihāsa*-Purāṇic tellings, but this paragraph now uses one source throughout: *Bhāgavata Purāṇa*, Skandha 8. At 8.7.1–17 the *devāḥ* and *asurāḥ* use Vāsuki as the rope and Mandara as the churning rod, with Kūrma supporting the mountain. Verse 8.7.18 says that the ocean first produced a terrible poison named **हालहल (*hālahala*)**. Śiva takes the poison at 8.7.41–42, and 8.7.43 describes the blue line it leaves upon his neck. Dhanvantari emerges with the nectar at 8.8.33–35; Viṣṇu assumes the Mohinī form at 8.8.41–46; and 8.9.19–26 records the distribution to the *devāḥ* and Svarbhānu's interrupted sip. The Epilogue follows **हालहल (*hālahala*)** as the name appears when the poison first rises in 8.7.18; verse 8.7.42 uses the variant **हालाहल (*hālāhala*)**. Sanskrit text and verse numbering were checked against the Bhaktivedanta Book Trust edition of Canto 8 hosted by VedaBase.
+The episode appears in several *itihāsa*-Purāṇic tellings, but this paragraph now uses one source throughout: *Bhāgavata Purāṇa*, Skandha 8. At 8.7.1–17 the *devāḥ* and *asurāḥ* use Vāsuki as the rope and Mandara as the churning rod, with Kūrma supporting the mountain. Verse 8.7.18 says that the ocean first produced a terrible poison named **हालहल (*hālahala*)**. Śiva takes the poison at 8.7.41–42, and 8.7.43 describes the blue line it leaves upon his neck. Dhanvantari emerges with the nectar at 8.8.33–35; Viṣṇu assumes the Mohinī form at 8.8.41–46; and 8.9.19–26 records the distribution to the *devāḥ* and Svarbhānu's interrupted sip. Verse 8.7.42 uses the variant **हालाहल (*hālāhala*)**. The Epilogue uses the standard dictionary headword **हलाहल (*halāhala*)**; traditional lexicons record all three forms. Sanskrit text and verse numbering were checked against the Bhaktivedanta Book Trust edition of Canto 8 hosted by VedaBase.
 
 ---
 
