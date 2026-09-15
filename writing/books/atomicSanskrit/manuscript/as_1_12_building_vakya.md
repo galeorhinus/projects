@@ -48,7 +48,7 @@ Four Rigvedic passages contain these forms.[NOTE: vedic-kr-derived-family]
 
 The first three forms change what kind of idea the atom expresses. **कर्म (*karma*)** expresses the deed. **कर्तृ (*kartṛ*)** expresses the doer. **कृत (*kṛta*)** describes something done or completed. The atom ⟪कृ⟫ remains identifiable in each one. The material joined to it determines the kind of word that results.
 
-Sanskrit calls such added material a **प्रत्ययः (*pratyayaḥ*)**, a suffix. This book calls it a **tail-bond** because it joins after the atom. A different tail-bond can turn the same atom into an action, an agent, an obligation, or another kind of word.
+Sanskrit calls such added material a **प्रत्ययः (*pratyayaḥ*)**, a suffix. This book calls it a **tail-bond** because it joins after the atom. Different tail-bonds can form an action, an agent, an obligation, or another kind of word from the same atom.
 
 **संस्कृतम् (*saṃskṛtam*)** adds material in both directions. The element **सम् (*sam*)** joins before ⟪कृ⟫ and directs the action toward integration and completion. Sanskrit calls such a preceding element an **उपसर्गः (*upasargaḥ*)**. This book calls it a **head-bond**. A completed-action tail-bond follows the atom, and the final **अम् (*am*)** prepares the form for its role in this sentence.
 
@@ -80,11 +80,11 @@ The following Rigvedic line gives a compact example:[NOTE: rigveda-5-25-4-word-o
 
 **अग्निः (*agniḥ*)** identifies the actor. **देवेषु (*deveṣu*)** identifies the group among whom the action occurs. **राजति (*rājati*)** describes the action performed by one actor. The ending of each word prepares it for that particular role in the sentence.
 
-The शब्दः (*śabdaḥ*) expresses meaning. A grammatical ending turns it into a पदम् (*padam*) and identifies the role it performs in a sentence.
+The शब्दः (*śabdaḥ*) expresses meaning. A grammatical ending completes it as a पदम् (*padam*) and identifies the role it performs in a sentence.
 
 ## 12.4 Two Vedic Sentences
 
-The Ṛgveda contains many kinds of sentences. Two passages can demonstrate the range without turning this chapter into a complete parsing manual.
+The Ṛgveda contains many kinds of sentences. Two passages can demonstrate the range without making this chapter a complete parsing manual.
 
 ### A Question About Future Action: RV 1.164.39c
 
@@ -190,7 +190,7 @@ When **प्र (*pra-*)**, **वि (*vi-*)**, and **सम् (*sam-*)** join
 - **वि (*vi-*)** + ⟪कृ⟫ contributes to **विकृति (*vikṛti*)**, alteration or deformation.
 - **सम् (*sam-*)** + ⟪कृ⟫ contributes to **संस्कृति (*saṃskṛti*)**, cultivated or integrated formation, and **संस्कार (*saṃskāra*)**, a refining act or formative impression.
 
-Material added after ⟪कृ⟫ turns the atom into different kinds of words:
+Material added after ⟪कृ⟫ forms different kinds of words from the atom:
 
 - **कर्म (*karma*)** expresses the deed or action.
 - **कर्तृ (*kartṛ*)** expresses the doer or maker.
@@ -204,7 +204,7 @@ Figure 12.5 groups these examples by the material placed before ⟪कृ⟫. Th
 
 Sanskrit also uses the same assembly procedures to build compounds. When India's lunar mission required a name, speakers joined **चन्द्र (*candra*)**, Moon, and **यान (*yāna*)**, vehicle, as **चन्द्रयान (*Candrayāna*)**. Speakers used existing Sanskrit words and an established compounding procedure to name the new undertaking **चन्द्रयान (*Candrayāna*)**.
 
-The scale of this generativity can now be followed from operation to operation. The reconstruction begins with 2,634 recorded meanings carried by Sanskrit's semantic atoms. Prefixes and verbal transformations raise the count beyond 1.3 million. Sanskrit then turns those verbal meanings into actions, agents, instruments, qualities, obligations, and other kinds of meaning. Further operations express state, possession, descent, origin, comparison, negation, and bounded compounds. Before inflection begins, the resulting inventory contains 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings.
+The scale of this generativity can now be followed from operation to operation. The reconstruction begins with 2,634 recorded meanings carried by Sanskrit's semantic atoms. Prefixes and verbal transformations raise the count beyond 1.3 million. Sanskrit then derives actions, agents, instruments, qualities, obligations, and other kinds of meaning from those verbal meanings. Further operations express state, possession, descent, origin, comparison, negation, and bounded compounds. Before inflection begins, the resulting inventory contains 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings.
 
 The लौकिक (*laukika*) portion divides into three familiar Sanskrit categories:
 
@@ -228,4 +228,4 @@ The architecture is fractal because every larger construction retains the smalle
 
 The Vedas serve as the calibrant because they preserve completed examples across this entire range. They preserve the sound of the sonomers, the transformation of the atoms, the endings of the words, and the relations inside the sentences. The लौकिक (*laukika*) domain gives this architecture radiant reach. Speakers can create new words, compounds, and sentences while the Vedic calibrant remains unchanged. Sanskrit can meet a changing world without surrendering the architecture that holds the language together.
 
-Pāṇini made the analysis explicit. He documented the procedures through which a learner can move from atom to sentence and from a completed sentence back to its parts. Chapter 13 now turns from construction to preservation and examines how this complete language survives across time.
+Pāṇini made the analysis explicit. He documented the procedures through which a learner can move from atom to sentence and from a completed sentence back to its parts. Chapter 13 now moves from construction to preservation and examines how this complete language survives across time.

@@ -144,7 +144,7 @@ The pyramid repeats the same chronology capture inside the Vedic corpus.
 
 **वेदान्त (*Vedānta*)** works the same way. When the Vedas are taught or recited in sequence, Vedānta comes at the end. Its position describes where the listener reaches it. It does not establish that the material was written or composed later.
 
-The pyramid turns that simple sequence into a chronology of composition. It arranges Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad as successive historical stages and presents Vedic thought as a movement from mantra and यज्ञ (*yajña*) toward philosophy.
+The pyramid recasts that simple sequence as a chronology of composition. It arranges Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad as successive historical stages and presents Vedic thought as a movement from mantra and यज्ञ (*yajña*) toward philosophy.
 
 The Vedas do not follow that neat arrangement. The Aitareya Upaniṣad appears within the second of the Aitareya Āraṇyaka's five divisions, with three divisions after it. The Īśopaniṣad appears inside the Vājasaneyī Saṃhitā. Upaniṣadic material therefore does not occupy one uniform final layer from which a date can be inferred.[NOTE: vedanta-textual-placement]
 
@@ -154,11 +154,11 @@ The Government of India's Vedic Heritage Portal now repeats the category theft. 
 
 **A structural end becomes a chronological end. Culmination becomes lateness. Purpose becomes period.**
 
-At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, and *Atharvaveda*. Across the four Vedas are their saṃhitās and associated Brāhmaṇa, Āraṇyaka, and Upaniṣadic material. Together, their Upaniṣadic culminations form ***वेदान्त (*Vedānta*)***. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the वैदिक (*vaidika*) domain, preserved in ***छन्दस् (*chandas*)***, the metrical mode.
+As the Dvāpara age gave way to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, and *Atharvaveda*. Across the four Vedas are their saṃhitās and associated Brāhmaṇa, Āraṇyaka, and Upaniṣadic material. Together, their Upaniṣadic culminations form ***वेदान्त (*Vedānta*)***. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the वैदिक (*vaidika*) domain, preserved in ***छन्दस् (*chandas*)***, the metrical mode.
 
 Around the same time, the इतिहासपुराण (*itihāsa-purāṇa*) — the fifth Veda — passed to the keepers of the लौकिक (*laukika*) domain. This domain is expressed in **भाषा (*bhāṣā*)**, the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language remains invariant.
 
-The continuum understands all of this through its own conception of time — *Sanātan* time. Tretā turned before Dvāpara, Satya before that, and the yuga cycle had already repeated through earlier manvantaras. We do not know whether the Vedas came into being during Dvāpara, Tretā, Satya, or an earlier manvantara. But from its beginning, the Veda has remained unchanged while the लौकिक (*laukika*) world has continued to turn. The Veda therefore remains an invariant calibrant against which people in that changing world can choose to align themselves.
+The continuum understands all of this through its own conception of time — *Sanātan* time. Tretā precedes Dvāpara, Satya precedes Tretā, and the yuga cycle repeats across manvantaras. We do not know whether the Vedas came into being during Dvāpara, Tretā, Satya, or an earlier manvantara. But from its beginning, the Veda has remained unchanged while the लौकिक (*laukika*) world has continued to change. The Veda therefore remains an invariant calibrant against which people in that changing world can choose to align themselves.
 
 ![Figure 0.2 — Sanātan Time. Sanātan time extends from अनादि (*anādi*) to अनन्त (*ananta*). The Veda begins at an unknown point within that span. The one Veda (invariant, छन्दस् (*chandas*) mode) divides into four at the Mahābhārata — each संहिता (*saṃhitā*) with its विस्तार (*vistāra*) — while the इतिहासपुराण (*itihāsa-purāṇa*) crosses into the लौकिक (*laukika*) domain (भाषा (*bhāṣā*) mode), where civilizational clarity rises and falls across the yugas.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
 
@@ -176,13 +176,13 @@ A finite inventory, a rule for combining it, one enabling idea — and the outpu
 
 English dictionaries list roughly 170,000 words in current use. Sanskrit is built differently. It begins with over two thousand semantic atoms called ***धातवः (*dhātavaḥ*)***. Rather than listing every possible word, Sanskrit provides procedures for building words from those atoms.
 
-Prefixes can redirect their meanings. Suffixes and verb endings turn them into finished words. Sanskrit can then join finished words into compounds, and each compound can become a building block for another.
+Prefixes can redirect their meanings. Suffixes and verb endings complete them as words. Sanskrit can then join finished words into compounds, and each compound can become a building block for another.
 
 These operations give a finite inventory enormous reach. A bounded reconstruction conducted for this book begins with 2,634 recorded meanings carried by Sanskrit's semantic atoms. Before inflection, the operations tested so far generate 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings. When the ordinary-language portion passes through the declared verb and noun matrices, it occupies 602,707,133 grammatical cells. The count stops before unrestricted recursive compounding, which has no fixed ceiling. Chapter 12 explains each stage of the calculation.[NOTE: sanskrit-generative-wordspace]
 
 Sanskrit is a word-engine.
 
-When India's space agency needed a name for its first lunar mission, the engine produced one: **चन्द्र (*candra*)**, moon, + **यान (*yāna*)**, vehicle, = **चन्द्रयान (*Candrayāna*)**, Moon-vehicle. The same engine turns whenever Sanskrit forms a technical term, a name, a mantra, or a verse. A dictionary records the engine's output; it does not set the limits of what the engine can produce.
+When India's space agency needed a name for its first lunar mission, the engine produced one: **चन्द्र (*candra*)**, moon, + **यान (*yāna*)**, vehicle, = **चन्द्रयान (*Candrayāna*)**, Moon-vehicle. The same engine operates whenever Sanskrit forms a technical term, a name, a mantra, or a verse. A dictionary records the engine's output; it does not set the limits of what the engine can produce.
 
 Two systems, built on one shared pattern. Ten numerical values and positional rules span arithmetic, while Sanskrit's semantic atoms and generative operations span vocabulary. Both use a finite inventory to create forms without a fixed limit. The same seeker culture built these architectures in two different domains. At the outer limits of its mathematics and language, the opening word of the puzzle is waiting: पूर्णम् (*pūrṇam*).
 

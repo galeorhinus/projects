@@ -92,7 +92,7 @@ The pyramid calls Sanskrit's preservation disciplines later historical accumulat
 
 The project collects variant forms, manuscript differences, regional spellings, new technical words, and extensions of established meanings. Its historical method tends to arrange them as stages in one language changing through time. Sanskrit's architecture requires five distinctions.
 
-**Designed Vedic forms.** The वैदिक (*vaidika*) domain includes forms and operations that serve fixed composition, meter, pitch, and recitation. Some remain restricted to a Vedic scope. Others differ from the forms ordinarily used in the लौकिक (*laukika*) domain. These differences arise because the two domains serve different purposes. A chronological method misclassifies them when it turns the Vedic domain into an earlier and less developed stage of the worldly language.
+**Designed Vedic forms.** The वैदिक (*vaidika*) domain includes forms and operations that serve fixed composition, meter, pitch, and recitation. Some remain restricted to a Vedic scope. Others differ from the forms ordinarily used in the लौकिक (*laukika*) domain. These differences arise because the two domains serve different purposes. A chronological method misclassifies them by presenting the Vedic domain as an earlier and less developed stage of the worldly language.
 
 **Manuscript and orthographic differences.** A scribe can omit a sign, use a regional spelling, or preserve a different written convention. Such evidence belongs first to the history of that manuscript or writing practice. It becomes evidence of spoken drift only when the source shows that speakers actually used the form.
 
@@ -167,7 +167,7 @@ Indian universities should remove PIE from every Sanskrit syllabus that presents
 
 **Begin with Sanskrit's own analytical disciplines.** Teach the वर्णमाला (*varṇamālā*) as a sonomeric grid organized through anatomical coordinates and प्रयत्न (*prayatna*). Teach the धातुपाठ (*Dhātupāṭha*) as an inherited inventory of semantic atoms. Teach शिक्षा (*Śikṣā*), the प्रातिशाख्यानि (*Prātiśākhyas*), निरुक्त (*Nirukta*), and व्याकरणम् (*Vyākaraṇam*) as complementary analyses of a language in use. These disciplines give students the categories through which the Hindu continuum understood Sanskrit.
 
-**Teach the two domains before introducing a chronology.** Students should first understand why the वैदिक (*vaidika*) domain preserves invariant content and why the लौकिक (*laukika*) domain allows people to generate new expressions. Once they understand the different purposes, they can recognize why the labels *"Vedic Sanskrit"* and *"Classical Sanskrit"* falsely turn two domains into two periods.
+**Teach the two domains before introducing a chronology.** Students should first understand why the वैदिक (*vaidika*) domain preserves invariant content and why the लौकिक (*laukika*) domain allows people to generate new expressions. Once they understand the different purposes, they can recognize why the labels *"Vedic Sanskrit"* and *"Classical Sanskrit"* falsely recast two domains as two periods.
 
 **Teach the धातुः (*dhātuḥ*) before the botanical root.** Students should examine how the धातवः (*dhātavaḥ*) generate words, preserve semantic identity, and combine with उपसर्गाः (*upasargāḥ*) and प्रत्ययाः (*pratyayāḥ*). The English word *root* can then be taught as a translation imposed by European philology, rather than as Sanskrit's own description of its grammatical atom.
 

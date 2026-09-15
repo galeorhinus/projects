@@ -112,7 +112,7 @@ At atomic scale, the same timing shorthand applies: **C** is the consonantal eve
 
 These timings give every धातुः (*dhātuḥ*) a measurable construction. ⟪कृ⟫ uses C + V1, ⟪गम्⟫ uses C + V1 + C, and ⟪भू⟫ uses C + V2. The notation records the duration carried by the sonomers inside each atom.
 
-The hexagon visualization turns that timing into width: consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
+The hexagon visualization represents that timing as width: consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
 
 ![Figure 10.1 — Ten धातवः (*dhātavaḥ*) across the मात्रा (*mātrā*) envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/building_dhatuh/matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=100%}
 
@@ -287,7 +287,7 @@ The final characteristic is stability. **अनवद्यम् (*anavadyam*)*
 
 Consider **⟪कृ⟫ (*kṛ*)**. Sanskrit carries this atom into करोति (*karoti*), कर्म (*karma*), कर्तृ (*kartṛ*), कार्य (*kārya*), संस्कार (*saṃskāra*), प्रकृति (*prakṛti*), and विकृति (*vikṛti*). The atom **⟪भू⟫ (*bhū*)** appears in भवति (*bhavati*), भूत (*bhūta*), भाव (*bhāva*), and सम्भव (*saṃbhava*). The atom **⟪गम्⟫ (*gam*)** appears in गच्छति (*gacchati*), गमन (*gamana*), गति (*gati*), आगम (*āgama*), and सङ्गम (*saṅgama*). These finished forms do not all look identical to their atoms because Sanskrit applies sound changes, affixes, and other bonding operations while constructing them. Sanskrit accounts for those changes through defined operations, so the path from each atom to the finished form can be traced.
 
-This stability prepares the next stage of the book. Chapter 11 follows the steps through which Sanskrit turns a धातुः (*dhātuḥ*) into a ***क्रियापद (*kriyāpada*)***, a finished verb. During that construction, the grammar continues to act on particular sonomers inside the atom. It can change, add, or replace a sound because the internal construction of the धातुः (*dhātuḥ*) remains available to the language engine.
+This stability prepares the next stage of the book. Chapter 11 follows the steps through which Sanskrit derives a ***क्रियापद (*kriyāpada*)***, a finished verb, from a धातुः (*dhātuḥ*). During that construction, the grammar continues to act on particular sonomers inside the atom. It can change, add, or replace a sound because the internal construction of the धातुः (*dhātuḥ*) remains available to the language engine.
 
 The धातुः (*dhātuḥ*) therefore satisfies अनवद्यम् (*anavadyam*). It remains stable while participating in bonds and transformations that generate larger forms.
 
@@ -311,7 +311,7 @@ Yāska could perform these decompositions because Sanskrit already contained eng
 
 The Sanskrit continuum continued examining how meaning emerges at different scales. Patañjali records the debate over whether individual sounds carry meaning. वर्णवाद (*Varṇa-vāda*) and स्फोटवाद (*sphoṭa-vāda*) later examined a related question: whether discrete sounds and their remembered sequence are sufficient, or whether meaning becomes available through the expression grasped as a whole. These debates differ, but both show the continuum examining sounds, words, and sentences as distinct scales within language.
 
-A धातुः (*dhātuḥ*) retains more than its overall sound. Each sonomer keeps an identifiable position inside the atom. Sanskrit can therefore change, replace, or add a particular sound while preserving a traceable path back to the धातुः (*dhātuḥ*). Appendix Part 6 §6.2 maps these positions across the inventory. Chapter 11 follows the same architecture as Sanskrit turns the semantic atom into a finished ***क्रियापद (*kriyāpada*)***.
+A धातुः (*dhātuḥ*) retains more than its overall sound. Each sonomer keeps an identifiable position inside the atom. Sanskrit can therefore change, replace, or add a particular sound while preserving a traceable path back to the धातुः (*dhātuḥ*). Appendix Part 6 §6.2 maps these positions across the inventory. Chapter 11 follows the same architecture as Sanskrit derives a finished ***क्रियापद (*kriyāpada*)*** from the semantic atom.
 
 ## 10.13 The Atomic Corollary
 

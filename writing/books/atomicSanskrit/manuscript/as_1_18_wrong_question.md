@@ -24,7 +24,7 @@ The preceding chapters have established an engineered sonomer address grid, sema
 
 These features belong to an engineered linguistic architecture. The engineering did not stop with the construction of the language. The Vedas, the two domains, the recitation procedures, and distributed correction have kept Sanskrit calibrated against entropy and asuric attack for thousands of years. The system remains alive, so it carries the evidence of its own design and endurance.
 
-Part VI turns to the account that treats Sanskrit as a different kind of object. This chapter tests the genealogical model against Sanskrit's physical construction. Any proposed ancestor must explain how the language acquired its sounds, atoms, grammar, and preservation architecture. Chapter 19 then tests PIE itself.
+Part VI examines the account that treats Sanskrit as a different kind of object. This chapter tests the genealogical model against Sanskrit's physical construction. Any proposed ancestor must explain how the language acquired its sounds, atoms, grammar, and preservation architecture. Chapter 19 then tests PIE itself.
 
 Together, the two chapters complete the argument opened in Chapter 1. A botanical genealogy cannot explain Sanskrit's internal construction. It also cannot explain the living system that has kept the language calibrated against both entropy and asuric attack. Once the model has placed Sanskrit inside the wrong category, no reconstruction built within that model can recover the architecture it excluded at the start.
 
@@ -95,13 +95,13 @@ To preserve the genealogical model as established fact, the pyramid must dismiss
 
 Earlier chapters established why the Vedas serve as a calibrant for Sanskriti: they preserve the contest between सत् (*sat*) and असत् (*asat*) in forms that people can recognize whenever the same actions return in another age. Civilizational gaslighting is one present-day expression of that ancient pattern.
 
-The opening mantra shows this reversal in action. Someone falsely calls the speaker a यातुधान (*yātudhāna*), while an actual रक्षस् (*rakṣas*) declares, "I am pure." The accuser places his own identity upon another person and then claims innocence for himself. ***Gaslighting turns that reversal into a psychological weapon.***
+The opening mantra shows this reversal in action. Someone falsely calls the speaker a यातुधान (*yātudhāna*), while an actual रक्षस् (*rakṣas*) declares, "I am pure." The accuser places his own identity upon another person and then claims innocence for himself. ***Gaslighting uses that reversal as a psychological weapon.***
 
 The Ṛgveda describes the wider tactic through hostile **माया (*māyā*)**. Vṛtra and Namuci are **मायिन् (*māyin*)**, figures who act through stratagem. Svarbhānu's माया (*māyā*) performs **आवरण (*āvaraṇa*)** directly: it places darkness before the Sun and prevents the worlds from seeing what remains present.[NOTE: mayin-concealment-cluster]
 
 Gaslighting weaponizes both actions of आसुरी माया (*āsurī māyā*). **आवरण (*āvaraṇa*)** conceals the accuser's own conduct. **विक्षेप (*vikṣepa*)** projects that conduct onto the person he accuses.[NOTE: maya-concealment-projection]
 
-Gaslighting can redirect memory without erasing it. The pyramid teaches India to remember Pāṇini incorrectly. It turns the decoder into a codifier and turns his documentation into the origin of the language. This redirects the civilization's reverence for one of its finest decoders toward the codification myth.
+Gaslighting can redirect memory without erasing it. The pyramid teaches India to remember Pāṇini incorrectly. It recasts the decoder as a codifier and his documentation as the origin of the language. This redirects the civilization's reverence for one of its finest decoders toward the codification myth.
 
 Praise becomes a weapon here. The pyramid does not need to insult Pāṇini. It can praise him for the *wrong* act. By miscasting him as the codifier who created order, the pyramid trains the civilization to honor the codification myth instead of calibration. The memory remains reverent, but the pyramid has altered the object of reverence. That is gaslighting at civilizational scale.
 

@@ -92,7 +92,7 @@ No single comparison language is expected to contain every Sanskrit consonant. E
 
 Indian texts have long used द्रविड (*draviḍa*) and द्राविड (*drāviḍa*) for the southern region, its peoples, its speech, and its civilizational geography.
 
-Comparative philologists converted द्रविड (*Draviḍa*) into the modern language-family label “Dravidian.” The pyramid then used its invented migration story to turn “Aryan” and “Dravidian” into rival civilizational identities.
+Comparative philologists converted द्रविड (*Draviḍa*) into the modern language-family label “Dravidian.” The pyramid then used its invented migration story to cast “Aryan” and “Dravidian” as rival civilizational identities.
 
 The surveys begin with those language-family labels and then compare the sounds used by the people placed inside them. The first uses Tamil, Toda, and Kurukh because the pyramid places them outside its “Indo-Aryan” family. The second uses Korku, Mundari, and Ho, which it places in other classificatory groups. If those labels separated distinct sound histories, the consonantal inventories should reflect the separation. Instead, both sets contain most of Sanskrit's consonantal base.
 
@@ -224,4 +224,4 @@ The four results can be compared directly:
 
 The proposed external corridor provides the weakest match. The two Indian comparisons provide the strongest. The consonantal evidence identifies the Indian subcontinent as the source of the sound inventory from which Sanskrit engineered the **वर्णमाला (*varṇamālā*)**.
 
-The surveys establish the subcontinental superset from which Sanskrit selected its sonances. They do not yet explain why Sanskrit assigned reusable grid addresses to some sonances while others remained Restricted or Lineage-Bounded. Chapter 9 turns to that engineering decision. It begins with Ṛgveda 10.71.2, where the wise refine Speech as grain passes through a sieve and then form her with the mind.
+The surveys establish the subcontinental superset from which Sanskrit selected its sonances. They do not yet explain why Sanskrit assigned reusable grid addresses to some sonances while others remained Restricted or Lineage-Bounded. Chapter 9 examines that engineering decision. It begins with Ṛgveda 10.71.2, where the wise refine Speech as grain passes through a sieve and then form her with the mind.

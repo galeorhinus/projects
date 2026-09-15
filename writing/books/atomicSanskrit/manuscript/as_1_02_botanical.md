@@ -172,7 +172,7 @@ Figure 2.2 shows how the pyramid replaces Sanskrit's category. Three linked acts
 
 People entered India under many different circumstances. Some arrived by choice. Others may have escaped pyramidal societies and earned respect in India through their actions. Those movements have nothing to do with Sanskrit's origin. Chapters 17 and 18 separate the movement of people from the engineering of a language already thriving in India.
 
-**Third: turn Pāṇini into the apex who stopped drift.** The pyramid describes Sanskrit as unstable before him. Pāṇini supposedly selected elite speech, regularized it, and produced “Classical Sanskrit.” His documentation becomes the event that divides a changing older language from a fixed later one.
+**Third: make Pāṇini the apex who stopped drift.** The pyramid describes Sanskrit as unstable before him. Pāṇini supposedly selected elite speech, regularized it, and produced “Classical Sanskrit.” His documentation becomes the event that divides a changing older language from a fixed later one.
 
 ![Figure 2.2 — The Misclassification of Sanskrit. The pyramid removes वैदिक (*vaidika*) and लौकिक (*laukika*) Sanskrit from their shared generative architecture, recasts domain as chronology, and assigns each domain to a different organic category.](figures/botanical/language2x2-misclassification.png){#fig:ch2-language-2x2-misclassification width=100%}
 
@@ -180,13 +180,13 @@ The completed theft converts two domains into two periods. **वैदिक (*v
 
 Chapter 16 demonstrates the opposite. The वैदिक (*vaidika*) domain contains additional pitch, sound, grammatical, and compositional resources because its content remains invariant. The लौकिक (*laukika*) domain uses a tighter reusable set because speakers can place its forms inside sentences that have never existed before. Different permissions serve different purposes within one architecture.
 
-Pāṇini's own documentation marks differences of scope. Terms such as **छन्दसि (*chandasi*)**, **मन्त्रे (*mantre*)**, **ब्राह्मणे (*brāhmaṇe*)**, **अमन्त्रे (*amantre*)**, and **भाषायाम् (*bhāṣāyām*)** tell the student where a particular operation applies. They identify domains and settings; they do not turn one Sanskrit architecture into an evolutionary sequence.[NOTE: chandasi-bhashayam-mode-markers]
+Pāṇini's own documentation marks differences of scope. Terms such as **छन्दसि (*chandasi*)**, **मन्त्रे (*mantre*)**, **ब्राह्मणे (*brāhmaṇe*)**, **अमन्त्रे (*amantre*)**, and **भाषायाम् (*bhāṣāyām*)** tell the student where a particular operation applies. They identify domains and settings; they do not recast one Sanskrit architecture as an evolutionary sequence.[NOTE: chandasi-bhashayam-mode-markers]
 
 > *The dogma says:* “Vedic Sanskrit evolved into Classical Sanskrit.”
 >
 > *The Hindu continuum says:* “Sanskrit has वैदिक (*vaidika*) and लौकिक (*laukika*) domains. The first preserves the invariant Vedic corpus. The second allows people to understand worldly compositions and create new ones. Both use one language architecture.”
 
-The pyramid can turn the two domains into a chronology only after it removes the calibrant relationship that connects them.
+The pyramid can recast the two domains as a chronology only after it removes the calibrant relationship that connects them.
 
 ## 2.8 Decoding, Not Codification
 

@@ -186,4 +186,4 @@ PIE trained readers to look for one ancestor at one point on a timeline. Sanskri
 
 European philologists and the scholars who followed them assembled dictionaries, cognate tables, sound correspondences, and extensive records of related forms. The pyramid used that material to construct PIE and place the imaginary ancestor above Sanskrit. Researchers can use the same records for another purpose. They can trace where Sanskrit's radiance traveled and examine how each receiving language reshaped the Sanskritic material it encountered.
 
-The pyramid drew poison from that accumulated scholarship, and generations were made to drink it. Turn the same accumulation toward the Sun, and it can still yield nectar.
+The pyramid drew poison from that accumulated scholarship, and generations were made to drink it. Direct the same accumulation toward the Sun, and it can still yield nectar.

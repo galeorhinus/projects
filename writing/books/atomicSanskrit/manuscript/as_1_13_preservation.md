@@ -200,9 +200,9 @@ In the Vedic line, **प्रति (*prati*)** stands before **मिमीत
 
 These words are not limited to language. They name a relationship. The **प्रतिमानकम् (*pratimānakam*)** remains available as a standard, people compare their own forms or actions with it, and **प्रतिमापनम् (*pratimāpanam*)** allows a departure to be recognized and corrected. The same relationship can operate in speech, knowledge, conduct, and civilizational life.
 
-Sanātan assigns the calibrant and ordinary speech different work. People conduct daily life through प्राकृतिक (*prākṛtika*) languages, regional speech, household speech, songs, and market idioms. These living languages adapt with their speakers. The Vedas remain available as Sanskrit's primary calibrant, and Sanskrit can in turn preserve knowledge and long memory.
+Sanātan assigns the calibrant and ordinary speech different work. People conduct daily life through प्राकृतिक (*prākṛtika*) languages, regional speech, household speech, songs, and market idioms. These living languages adapt with their speakers. The Vedas remain available as Sanskrit's primary calibrant, and Sanskrit can also preserve knowledge and long memory.
 
-This arrangement allows natural languages to flourish without treating them as failed Sanskrit. It also allows the calibrant to remain invariant without turning it into an apex language imposed on every household. That standard remains stable, and ordinary speech continues to flow.
+This arrangement allows natural languages to flourish without treating them as failed Sanskrit. It also allows the calibrant to remain invariant without making it an apex language imposed on every household. That standard remains stable, and ordinary speech continues to flow.
 
 The Vedas stand at the center of this calibration architecture. The प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) disciplines articulate their sounds, while छन्दस् (*chandas*) describes their meter and the पाठाः (*pāṭhāḥ*) protect their recitation. व्याकरणम् (*vyākaraṇam*) and the धातुपाठ (*Dhātupāṭha*) make the grammar and atomic inventory explicit. Together, these disciplines keep the Vedic **प्रतिमानकम् (*pratimānakam*)** available for comparison. The गुरु-शिष्य (*guru-śiṣya*) chain carries the whole architecture from one generation to the next.
 

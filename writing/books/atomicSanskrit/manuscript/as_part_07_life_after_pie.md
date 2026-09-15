@@ -16,4 +16,4 @@ Chapter 20 distinguishes three calibrant waves. Before Pāṇini, trained people
 
 Pāṇini receives praise for what he actually did: decoding rather than codification. Similar words across languages no longer serve as automatic proof of an imaginary parent. They can also preserve evidence of contact with Sanskrit and of the changes other languages made to the Sanskritic material they encountered.
 
-Chapter 20 traces Sanskritic words and analytical methods outward and follows how other languages reshaped them. The Epilogue then turns from Sanskrit's architecture to its larger civilizational implication: how a distributed calibrant might help society create durable order without concentrating authority at an apex.
+Chapter 20 traces Sanskritic words and analytical methods outward and follows how other languages reshaped them. The Epilogue then moves from Sanskrit's architecture to its larger civilizational implication: how a distributed calibrant might help society create durable order without concentrating authority at an apex.

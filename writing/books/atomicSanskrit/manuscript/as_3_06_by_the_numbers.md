@@ -157,7 +157,7 @@ The Vedic corpora give greater prominence to atoms suited to their subjects, whi
 
 ## 6.4 How Atomic Shape Relates to Activation
 
-The reach analysis counts how widely an atom extends. The next analysis compares the atom's internal construction with the procedure that turns it into a completed verb. Chapter 11 demonstrates those procedures through Vedic examples.
+The reach analysis counts how widely an atom extends. The next analysis compares the atom's internal construction with the procedure that derives a completed verb from it. Chapter 11 demonstrates those procedures through Vedic examples.
 
 The grammatical tradition recorded in the *Aṣṭādhyāyī* and धातुपाठ (*Dhātupāṭha*) groups together धातवः (*dhātavaḥ*) that behave alike. It then states the operations associated with each group.
 

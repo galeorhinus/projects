@@ -16,7 +16,7 @@ Sanskrit forms a completed verb by preparing the atom and adding a verbal ending
 
 These changes create an engineering problem. Sanskrit must change the atom enough to make it usable without destroying its identity. A learner should be able to begin with the completed verb, separate the ending and the material used during preparation, and identify the धातुः (*dhātuḥ*) from which the verb was formed. The completed verb must therefore preserve enough of its construction for the learner to trace it back to its atom.
 
-The Vedas preserve completed verbs built through these procedures. We can therefore examine the verbs first, identify what changed inside each one, and only then turn to the grammatical analysis that Pāṇini made explicit.[NOTE: vedic-kriyapadas-before-panini]
+The Vedas preserve completed verbs built through these procedures. We can therefore examine the verbs first, identify what changed inside each one, and only then examine the grammatical analysis that Pāṇini made explicit.[NOTE: vedic-kriyapadas-before-panini]
 
 ## 11.2 Five Vedic Activation Procedures
 

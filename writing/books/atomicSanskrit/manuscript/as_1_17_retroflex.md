@@ -82,7 +82,7 @@ The subcontinent practices the same discipline in everyday speech. English keeps
 
 Korku marks the experiencer with forms such as *-en* / *-n*: *in-en kenDe-khija Do-ken* (Devanagari aid: इन-एन केन्डे-खिजा डो-केन) means "to me something appeared blackish."[NOTE: korku-nagaraja-mouth-mind-evidence]
 
-Sanskrit expresses the same receiver-stance and runs it through the deepest states. Trust is placed *to him* (*śrad asmai dhatta*). Peace is asked *for biped and quadruped* (*śaṃ ... dvipade catuṣpade*). Safety comes *to us* (*svasti naḥ*). Grace is asked of Indra *for me* (*indra mṛḷa mahyam*). Reverence bends toward its object, never asserting the self — नमः (*namas*) turns to the receiver. In every case the state moves toward the human; the human does not seize it.[NOTE: vedic-receiver-sampradana-examples]
+Sanskrit expresses the same receiver-stance and runs it through the deepest states. Trust is placed *to him* (*śrad asmai dhatta*). Peace is asked *for biped and quadruped* (*śaṃ ... dvipade catuṣpade*). Safety comes *to us* (*svasti naḥ*). Grace is asked of Indra *for me* (*indra mṛḷa mahyam*). Reverence bends toward its object, never asserting the self — नमः (*namas*) is directed toward the receiver. In every case the state moves toward the human; the human does not seize it.[NOTE: vedic-receiver-sampradana-examples]
 
 Sanskrit builds this receiver-stance into its grammar. **सम्प्रदान (*sampradāna*)** is one of the six **कारकाः (*kārakāḥ*)**, the roles that connect participants with an action. The dative, **चतुर्थी विभक्ति (*caturthī vibhakti*)**, commonly expresses that receiver. A family of rules directs reverence, safety, trust, and grace toward it.
 
@@ -94,7 +94,7 @@ The receiver-self is not one language's idiom. Korku, Mundari, Tamil, Telugu, an
 
 ## 17.4 The Mind De-centers: कर्मणि (*Karmaṇi*) and भावे (*Bhāve*)
 
-Sanskrit allows speakers to construct a sentence without placing the doer at its center. The agent — the **कर्तृ (*kartṛ*)** — recedes, and the clause settles on the thing acted on, or on the action itself. The English *passive voice* comes close, but it misses the purpose: this is not turning a sentence around, it is demoting the doer — making it oblique, optional, or gone.
+Sanskrit allows speakers to construct a sentence without placing the doer at its center. The agent — the **कर्तृ (*kartṛ*)** — recedes, and the clause settles on the thing acted on, or on the action itself. The English *passive voice* comes close, but it misses the purpose: this does not merely reverse a sentence; it demotes the doer — making it oblique, optional, or gone.
 
 Languages across the Indian subcontinent allow the doer to recede in several ways. Tamil uses படு (*paṭu*) constructions such as “the letter was written,” in which the doer can remain unstated. Korku distinguishes an event that happens from an intentional act driven by a doer. Its *-khe* can mark transitivity, past sense, intention, and purpose. Ho groups intransitive and passive forms and can emphasize the action instead of its object.[NOTE: karmani-bhave-karta-demotion]
 
@@ -176,7 +176,7 @@ Contact can carry a sound or grammatical form from one language into another. En
 
 Sanskrit gives each feature a defined place and function. In अग्निमीळे (*agnimīḷe*), retroflexion makes the tongue curl in the opening mantra of the Ṛgveda. The vowel ⟪ऋ⟫ (*ṛ*) links the मूर्धन्य (*mūrdhanya*) site with the धातुपाठ (*Dhātupāṭha*) and the name *Ṛgveda*.
 
-Reduplication turns the regional habit of doubling into a grammatical operation in ददर्श (*dadarśa*), ददाति (*dadāti*), and बिभर्ति (*bibharti*). Forms such as अस्मै (*asmai*), मह्यम् (*mahyam*), and त्वस्मै (*tvasmai*) identify a receiver. कर्मणि (*karmaṇi*) and भावे (*bhāve*) allow the doer to step back, while पीत्वा (*pītvā*) and हत्वा (*hatvā*) bind one action to the action that follows.
+Reduplication makes the regional habit of doubling a grammatical operation in ददर्श (*dadarśa*), ददाति (*dadāti*), and बिभर्ति (*bibharti*). Forms such as अस्मै (*asmai*), मह्यम् (*mahyam*), and त्वस्मै (*tvasmai*) identify a receiver. कर्मणि (*karmaṇi*) and भावे (*bhāve*) allow the doer to step back, while पीत्वा (*pītvā*) and हत्वा (*hatvā*) bind one action to the action that follows.
 
 Mere contact can spread a phonetic form or a localized habit. Sanskrit does significantly more: it integrates each feature into a highly structured sound-system and grammar. The Veda uses these forms natively, while Pāṇini later documents their mechanics as अभ्यास (*abhyāsa*), सम्प्रदान (*sampradāna*), कर्मणि (*karmaṇi*), भावे (*bhāve*), क्त्वा (*ktvā*), and ल्यप् (*lyap*). Taken together, these five signatures support a single argument: rather than casually borrowing subcontinental features, Sanskrit engineered them into a perfectly calibrated, generative architecture.
 

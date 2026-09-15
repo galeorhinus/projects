@@ -30,7 +30,7 @@ That principle may still sound abstract. The Hindu temple offers a familiar way 
 
 Consider दर्शन (*darśana*): beholding, or sight. A Hindu goes to a temple for दर्शन (*darśana*). The seeing itself is the purpose. The मूर्ति (*mūrti*) does not sermonize. It does not demand your presence. It does not announce what is right and what is wrong. It is simply present: unyielding, unflinching, and silent.
 
-Behind that silence lies a vast inheritance of stories about choices, actions, and consequences. Those stories do not turn every human failure into a permanent rule imposed upon everyone. They preserve difficult cases so that later seekers can examine what happened and decide what another situation requires. दर्शन (*darśana*) brings the seeker directly before that inheritance. The seeker must then exercise विवेक (*viveka*), the discernment required to understand those stories and decide how to act.
+Behind that silence lies a vast inheritance of stories about choices, actions, and consequences. Those stories do not make every human failure a permanent rule imposed upon everyone. They preserve difficult cases so that later seekers can examine what happened and decide what another situation requires. दर्शन (*darśana*) brings the seeker directly before that inheritance. The seeker must then exercise विवेक (*viveka*), the discernment required to understand those stories and decide how to act.
 
 Through the मूर्ति (*mūrti*), that inheritance stands before the seeker as a calibrant. **The calibrant stands invariant. Alignment is voluntary.** Seekers examine their own actions against the enduring values embodied in the form and decide what must change.
 
@@ -125,7 +125,7 @@ You do not need prior knowledge of Sanskrit or historical linguistics. Sanskrit 
 
 The opening chapters introduce the two architectures of order and show how false categories conceal the way Sanskrit was built. The chapters that follow set those categories aside and begin again from the Sanskrit continuum’s own account of the language.
 
-From there, the book follows Sanskrit’s internal engineering from the speaking body into its sound-grid, semantic atoms, verbs, and sentences. The preservation chapters then turn to the greater engineering feat: how the Vedas keep Sanskrit calibrated across society while the language resists entropy and asuric attack. They also show why Sanskrit uses one domain for exact transmission and another for new expression.
+From there, the book follows Sanskrit’s internal engineering from the speaking body into its sound-grid, semantic atoms, verbs, and sentences. The preservation chapters then examine the greater engineering feat: how the Vedas keep Sanskrit calibrated across society while the language resists entropy and asuric attack. They also show why Sanskrit uses one domain for exact transmission and another for new expression.
 
 The final chapters return to migration, PIE, and the direction in which Sanskrit’s radiance traveled. The appendices provide denser evidence and worked examples without interrupting the main argument.
 

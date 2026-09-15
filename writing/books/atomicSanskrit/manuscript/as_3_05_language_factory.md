@@ -14,7 +14,7 @@ Yenpro belongs to no inherited speech community. Its altered surface is unfamili
 
 The baker is Schleicher. The joke is deliberate. As of this writing, Yenpro has one speaker — the author — and a documented corpus of three sentences. The line above is the third. The other two appear in §5.5.
 
-***Yenpro*** takes its name from Sanskrit यन्त्री (*yantrī*), an operator or controller — the one who runs the engine. The fixed sound mapping turns *yantrī* into *Yenpro*.
+***Yenpro*** takes its name from Sanskrit यन्त्री (*yantrī*), an operator or controller — the one who runs the engine. The fixed sound mapping renders *yantrī* as *Yenpro*.
 
 Anyone given the Sanskrit operations and the cipher can produce more Yenpro sentences and show how each form was generated. Schleicher's PIE has a fable and a growing inventory of starred forms, but no inherited community can produce or judge new forms from within it. Yenpro begins with preserved generative operations; PIE begins with reconstructed forms.
 

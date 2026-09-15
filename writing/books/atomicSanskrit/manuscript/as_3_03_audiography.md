@@ -70,7 +70,7 @@ The sonomeric architecture plays the same role in the Indic script-world. Brāhm
 
 The comparison does not require a new genealogy of scripts. It requires two levels of explanation. Terms such as *alphabet*, *abjad*, and *abugida* describe how visible signs behave. **Audiography** describes what an Indic script renders: a prior architecture of articulated sound. A script can therefore be classified as an *abugida* by its visible behavior and as audiographic by the architecture it carries.
 
-The phrase *"Brāhmī was brilliantly adapted from Aramaic"* turns possible contact into an unjustified hierarchy. It makes Aramaic the source of writing intelligence and India the place where that intelligence was refined. Similar marks may support contact, but they cannot identify the source of an encoding architecture that Aramaic does not possess.
+The phrase *"Brāhmī was brilliantly adapted from Aramaic"* uses possible contact to construct an unjustified hierarchy. It makes Aramaic the source of writing intelligence and India the place where that intelligence was refined. Similar marks may support contact, but they cannot identify the source of an encoding architecture that Aramaic does not possess.
 
 ## 3.6 What Stone Can Preserve
 

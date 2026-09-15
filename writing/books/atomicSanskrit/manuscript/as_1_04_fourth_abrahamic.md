@@ -62,7 +62,7 @@ The standing term here for the doctrinal formation is the **progressive dogma**:
 
 Its modern doctrine has an institutional carrier: the **church of progress**. The academy reproduces and sanctifies that doctrine across generations by deciding who receives credentials and which claims enter publication. It fuses the progressive timeline with a permanent structural conflict: if history is a linear march toward liberation, the past must become a site of oppression. Human history is then reduced to a zero-sum struggle between the powerful and the marginalized, while every ancient tradition is interrogated as a crime scene of systemic hegemony.
 
-The church first certifies its intellectuals through degrees. Journals and conferences circulate their claims, peer review authorizes them, and textbooks and reference works turn them into accepted doctrine. Centralized curricula then carry that doctrine into classrooms. The dogma writes the rules. The church guards the gates.
+The church first certifies its intellectuals through degrees. Journals and conferences circulate their claims, peer review authorizes them, and textbooks and reference works establish them as accepted doctrine. Centralized curricula then carry that doctrine into classrooms. The dogma writes the rules. The church guards the gates.
 
 This chapter indicts the formation, not every person trained inside it. Many people inherit its categories and trust the institutions that taught them. The formation rewards people who repeat its doctrine and penalizes those who describe Sanskrit through the Hindu continuum's own categories. It reduces Sanskrit to philological evidence, places an imaginary ancestor above that evidence, and conceals the civilization that preserved Sanskrit.
 
@@ -98,7 +98,7 @@ The fourth Abrahamic religion succeeds because it deliberately portrays itself a
 
 **Apocalypse.** Each version identifies a judgment or catastrophe that must precede its perfected future.
 
-The church of progress now presents climate catastrophe as its apocalypse. Most human beings genuinely want to care for the planet and leave it healthy for future generations. The church hijacks that desire and turns it into an urgent judgment-day story: the world is about to end. It then announces a single *"solution"* that will prevent judgment day. Anyone who questions that solution is dismissed as a climate denier.[NOTE: fourth-abrahamic-eschatology-precedent]
+The church of progress now presents climate catastrophe as its apocalypse. Most human beings genuinely want to care for the planet and leave it healthy for future generations. The church hijacks that desire and recasts it as an urgent judgment-day story: the world is about to end. It then announces a single *"solution"* that will prevent judgment day. Anyone who questions that solution is dismissed as a climate denier.[NOTE: fourth-abrahamic-eschatology-precedent]
 
 \nopagebreak[4]
 
@@ -110,7 +110,7 @@ Across all seven comparisons, the vocabulary changes while the architecture rema
 
 The preceding comparison identifies the scriptural foundation beneath the pyramid. Abrahamic political formations sanctified master-slave categories and imposed them on India through Islamic and Christian rule. The fourth form secularizes the same foundation. Earlier pyramids imposed their hierarchy through armies and administrators. The fourth captures the institutions that produce knowledge and policy, then speaks through them in secular language.
 
-**B.R. Ambedkar**, in *Pakistan, or the Partition of India* (1940/1945), diagnosed the structural form when he turned his attention to Islam:
+**B.R. Ambedkar**, in *Pakistan, or the Partition of India* (1940/1945), diagnosed the structural form when he examined Islam:
 
 > *"Islam is a close corporation and the distinction that it makes between Muslims and non-Muslims is a very real, very positive and very alienating distinction. The brotherhood of Islam is not the universal brotherhood of man. It is brotherhood of Muslims for Muslims only. There is a fraternity, but its benefit is confined to those within that corporation."*[NOTE: ambedkar-pakistan-partition-1945]
 
@@ -118,7 +118,7 @@ He identified one corporation. The diagnosis extends to all four. Each draws a b
 
 Ambedkar identifies the corporation's closed boundary. The pyramid explains how power is arranged within that boundary.
 
-The four Abrahamic religions are not merely closed corporations. They are pyramidal corporations. An apex authorizes doctrine, institutions carry it downward through the layers, and compliance travels back upward. When an argument rises from below, the exclusion machinery turns against it. The closed boundary defines the corporation. The pyramid describes how the corporation governs. At the apex of the first three stands a Father — *jealous, by His own testimony*, who brooks no other before Him. As shepherd, He also requires a flock that must remain dependent upon Him. The fourth secularizes Him into consensus and keeps the singular peak.
+The four Abrahamic religions are not merely closed corporations. They are pyramidal corporations. An apex authorizes doctrine, institutions carry it downward through the layers, and compliance travels back upward. When an argument rises from below, the exclusion machinery is deployed against it. The closed boundary defines the corporation. The pyramid describes how the corporation governs. At the apex of the first three stands a Father — *jealous, by His own testimony*, who brooks no other before Him. As shepherd, He also requires a flock that must remain dependent upon Him. The fourth secularizes Him into consensus and keeps the singular peak.
 
 ![Figure 4.1a — Same Pyramid, Four Versions: V1-V3. Judaism, Christianity, and Islam share the same pyramidal structure: apex authority, dogma, priestly interpretation, institutions, expansion, enforcement, and base.](figures/fourth_abrahamic/same_pyramid_named_religions.svg){#fig:ch4-same-pyramid-v1-v3 width=100%}
 
@@ -140,7 +140,7 @@ A rock edict requires stone, skilled carvers, organized labor, and the authority
 
 The technology changed, but the dependency remained. Printing presses and publishing houses require capital and distribution. Digital archives require servers, networks, and continued institutional support. Whoever controls the medium can influence what is copied, circulated, preserved, or allowed to disappear.
 
-The modern pyramid gained another use for writing. A durable artifact can be dated. The academy can then treat the date of the surviving inscription as the beginning of the knowledge recorded upon it. The medium supplies a date, and chronology turns that date into a claim of origin.
+The modern pyramid gained another use for writing. A durable artifact can be dated. The academy can then treat the date of the surviving inscription as the beginning of the knowledge recorded upon it. The medium supplies a date, and chronology uses that date to claim an origin.
 
 Writing is not inherently pyramidal. A person can write a note, copy a poem, or preserve a teaching without an apex. The vulnerability appears when long-term memory depends upon a physical record and the resources required to maintain it. A pyramid can enclose that record more easily than it can enclose knowledge distributed through living memory and sound.
 
@@ -164,11 +164,11 @@ Money and careers hold the church together. Foundations and universities fund ap
 
 The academy is the central church, but the church has arms. International bureaucracies propagate its doctrine through policy. NGOs and foundations carry it through development programs. Centralized media and platform systems select certified intellectuals, present them as independent experts, and distribute their institutional conclusions as news, expertise, and cultural consensus. Courts and treaty regimes propagate the doctrine through legal language. Each arm uses approved personnel, approved vocabulary, institutional housing, and boundary policing. The vocabulary differs. The church remains one.
 
-The church turns Proto-Indo-European into unquestioned doctrine by cementing it into routine reference machinery. Across recent decades — the very window during which India's dharmic-civilizational re-emergence has begun to expose the pyramid's manufactured chronology and stolen categories — the standard etymological references and Indo-European dictionaries have multiplied and hardened.[NOTE: pie-cementing-recent-decades] The dogma is being reinforced at exactly the moment an alternative is beginning to assemble itself, as Chapter 19 traces in detail.
+The church establishes Proto-Indo-European as unquestioned doctrine by cementing it into routine reference machinery. Across recent decades — the very window during which India's dharmic-civilizational re-emergence has begun to expose the pyramid's manufactured chronology and stolen categories — the standard etymological references and Indo-European dictionaries have multiplied and hardened.[NOTE: pie-cementing-recent-decades] The dogma is being reinforced at exactly the moment an alternative is beginning to assemble itself, as Chapter 19 traces in detail.
 
 ### The Government Teaches the Doctrine
 
-The Government of India distributes the PIE genealogy as national postgraduate teaching material. The Ministry of Education's e-PG Pathshala tells students that reconstructed *"Proto-Indo-Aryan"* preceded *"Vedic Sanskrit."* It then arranges *"Vedic Sanskrit"* and *"Classical Sanskrit"* as successive stages and places Pāṇini between them. The government has turned the pyramid's genealogy into an Indian curriculum.[NOTE: pie-indian-university-curricula]
+The Government of India distributes the PIE genealogy as national postgraduate teaching material. The Ministry of Education's e-PG Pathshala tells students that reconstructed *"Proto-Indo-Aryan"* preceded *"Vedic Sanskrit."* It then arranges *"Vedic Sanskrit"* and *"Classical Sanskrit"* as successive stages and places Pāṇini between them. The government has embedded the pyramid's genealogy in an Indian curriculum.[NOTE: pie-indian-university-curricula]
 
 Universities reproduce what the government distributes. Vinoba Bhave University's Sanskrit department traces Sanskrit through Proto-Indo-Iranian to Proto-Indo-European. The Sanskrit College and University requires MA Linguistics students to study Indo-European as the proto-language, reconstruct its sound system, and follow that system into supposed daughter languages. Calicut teaches Proto-Indo-European classification in its MA Sanskrit program. Delhi places PIE theory inside the comparative study of Vedic and Avestan. Kerala teaches the Indo-European family, Proto-Indo-European classification, cognate languages, and linguistic change in a course called *History of Sanskrit Language*. Karnatak University tells MA Sanskrit students that Sanskrit arose from the common language now called Proto-Indo-European.[NOTE: pie-indian-university-curricula]
 
@@ -192,7 +192,7 @@ The **missionaries of progress** export the framework.[NOTE: missionaries-of-pro
 
 The missionaries of progress perform the same function in popular accounts of Sanskrit. They braid ancient DNA, archaeology, and linguistic reconstruction into a general-reader migration story in which PIE becomes a reconstructed people-and-language package, the steppe becomes the source-zone, and Sanskrit becomes one branch among many. The racial Arya thesis survives in softened vocabulary. The form is no longer crude invasion. It is public pedagogy, advanced by the missionaries of progress.[NOTE: popular-pie-missionaries]
 
-That pedagogy turns population movement into civilizational authorship; Chapter 18 returns to the trap in full.
+That pedagogy assigns civilizational authorship to population movement; Chapter 18 returns to the trap in full.
 
 ### Jihadis of Progress
 
@@ -202,13 +202,13 @@ The **jihadis of progress** defend the framework. They attack heterodox work thr
 
 The **priests of progress** sanctify the framework. Peer review is their rite. Citation is liturgy. The thesis defense is ordination. Tenure is benefice. The conference Q&A is controlled confession. The priestly class decides what becomes publishable, citable, reputable, and therefore real inside the church.
 
-Priests of progress do more than protect doctrine inside their institutions. They also recruit respected scholars from the civilizations the pyramid has turned into objects of study. These scholars already carry authority within their own traditions. The church gives them institutional rank and public prestige, then uses their agreement as its seal of approval: *even senior scholars from inside the civilization agree with us.* The institution selects the agreement that it later cites.
+Priests of progress do more than protect doctrine inside their institutions. They also recruit respected scholars from the civilizations the pyramid has reduced to objects of study. These scholars already carry authority within their own traditions. The church gives them institutional rank and public prestige, then uses their agreement as its seal of approval: *even senior scholars from inside the civilization agree with us.* The institution selects the agreement that it later cites.
 
 The British Empire used this method openly. It knighted selected scholars, admitted them to learned societies, and appointed them to councils and academic chairs. Those honors converted authority earned within Indian society into support for the colonial account of India. Appendix Part 1 documents how this recruitment shaped the colonial study of Sanskrit.
 
 Academic institutions continued the colonial operation after formal empire ended. The asuric pyramid has now opened another front in its war against Sanskrit: readers are taught to see the language primarily as an instrument of elite power, although Sanskrit’s calibrant architecture does the exact opposite by distributing authority.[NOTE: pollock-sanskrit-cosmopolis-position-3] A multimillion-dollar gift from an Indian family funded a major academic translation project that circulated this power-centered narrative.[NOTE: murty-library-gift-gate]
 
-The university certifies the intellectual. The translation project turns that certified interpretation into published material. Centralized media and publishing institutions then carry it into public life.
+The university certifies the intellectual. The translation project publishes that certified interpretation. Centralized media and publishing institutions then carry it into public life.
 
 The Wilson and Griffith translations of Rigveda 9.63.5 show the priestly function in miniature. Both nineteenth-century translators remove the civilizational object **विश्वम् आर्यम् (*viśvam āryam*)** and substitute away from **अराव्णः (*arāvṇaḥ*)** — the privative of *rā-* ("to give"), *the non-givers*. Wilson euphemizes to *"withholders (of oblations)"* following Sāyaṇa's narrow ritual interpretation; Griffith mistranslates to *"the godless ones"*, a Christian-theological category the Sanskrit verse does not contain.[NOTE: rigveda-9635-wilson-griffith] The structural motive is plain: acknowledging the call to *make the whole world* आर्य (*ārya*) would catastrophically undermine the racial Arya thesis the same translators were elsewhere defending. The call the Indic continuum preserved — *making the world* आर्य (*ārya*)*; defeating the non-givers* — the translators filter out at the point where English readers would encounter it. That is sanctification by exclusion. In action, this is the पणि (*paṇi*) move in translation: withhold the category that would let the reader recognize the verse. The primary source does not disappear. The priests make it unavailable through priestly handling. A modern academic translation restores both — *"making it all Ārya"* and *"smashing away the non-givers,"* with the hymn introduction calling the procedure *Ārya-ization* — vindicating exactly the account the philological machinery had suppressed for a century and a quarter.
 
@@ -260,7 +260,7 @@ The pyramid is an architecture, yet through people and institutions it exhibits 
 
 The same personality appears in the pyramid's conduct: narcissism, inferiority panic, and envy toward an architecture it did not create, cannot equal, and cannot control. The pyramid must remain the ancestor, arbiter, or owner. If Sanskrit is too great to dismiss, it must be co-owned. If it cannot be co-owned, it must be demoted.
 
-In the ternary introduced in the front matter, this is **विकृति (*vikṛti*)**: a created capacity deliberately bent toward control. The racial, theological, and progress pillars all turn that capacity against the civilizational memory preserved through Sanskrit.
+In the ternary introduced in the front matter, this is **विकृति (*vikṛti*)**: a created capacity deliberately bent toward control. The racial, theological, and progress pillars all direct that capacity against the civilizational memory preserved through Sanskrit.
 
 Hindu stories do not classify an actor by the amount of power he possesses. Rāma and Rāvaṇa are both powerful. Durgā and Mahiṣāsura are both powerful. Their purposes and actions place them on opposing sides. The stories carry recurring patterns of choice, action, and consequence so that each generation can recognize the same conduct in new forms.
 
@@ -294,4 +294,4 @@ Each stage exposes a different layer of the same pyramid:
 
 **Ambedkar indicts the corporation. Peer review reveals the pyramid. Bandin guards the gate. Aṣṭāvakra breaks it. *Sanātan* preserves the alternative.**
 
-The book has now established how the pyramid contains an alternative. It next turns to Sanskrit's grammar and examines the architecture that the pyramid was built to hide.
+The book has now established how the pyramid contains an alternative. It next examines Sanskrit's grammar and the architecture that the pyramid was built to hide.

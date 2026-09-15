@@ -38,7 +38,7 @@ There are three pillars of Western thought that stand behind the metaphor. One p
 
 No institution had to refute an engineered-Sanskrit thesis, because the accepted categories made that thesis difficult to formulate. A student first learns that धातुः (*dhātuḥ*) means *root*, that Sanskrit descends from PIE, and that Pāṇini codified a language already changing through time. Students receive those categories before they examine the evidence, so the categories determine how every later fact must be interpreted.
 
-The Government of India distributes this sequence as national postgraduate teaching material. The Ministry of Education's e-PG Pathshala places reconstructed *"Proto-Indo-Aryan"* before *"Vedic Sanskrit"* and turns *"Vedic Sanskrit"* and *"Classical Sanskrit"* into successive historical stages, and places Pāṇini between them. Indian universities then reproduce that genealogy. Vinoba Bhave University traces Sanskrit through Proto-Indo-Iranian to Proto-Indo-European. The Sanskrit College and University makes Indo-European linguistics a core MA paper. Sanskrit and linguistics courses at the University of Calicut, the University of Delhi, the University of Kerala, Karnatak University, and Deccan College teach the same historical machinery.[NOTE: pie-indian-university-curricula]
+The Government of India distributes this sequence as national postgraduate teaching material. The Ministry of Education's e-PG Pathshala places reconstructed *"Proto-Indo-Aryan"* before *"Vedic Sanskrit,"* recasts *"Vedic Sanskrit"* and *"Classical Sanskrit"* as successive historical stages, and places Pāṇini between them. Indian universities then reproduce that genealogy. Vinoba Bhave University traces Sanskrit through Proto-Indo-Iranian to Proto-Indo-European. The Sanskrit College and University makes Indo-European linguistics a core MA paper. Sanskrit and linguistics courses at the University of Calicut, the University of Delhi, the University of Kerala, Karnatak University, and Deccan College teach the same historical machinery.[NOTE: pie-indian-university-curricula]
 
 Formulating the engineered-Sanskrit thesis requires reversing that sequence. The student must recover the धातुः (*dhātuḥ*) as a structural constituent, examine Sanskrit's own account of permanence, and then decide whether the botanical metaphor fits the object. The inherited vocabulary blocks each of those steps before the student can take it. What appears as consensus therefore begins inside the curriculum, where the alternative account cannot yet be assembled.
 
@@ -98,7 +98,7 @@ The pyramid's chronology reversed that borrowing. It presented these *Rāmāya�
 
 This is the surviving pillar, but it has not abandoned the racial pillar in India. It has repackaged it. Noachian chronology can fade; explicit race science can be denounced; the linear-progress teleology remains, and Sanskrit's created architecture must still originate elsewhere. A scholar can reject old race science in public while preserving the Racial Arya Thesis through migration and DNA vocabulary. The teleology gives *progressive* its force; the racial frame keeps Sanskrit's origin outside India.
 
-The institutional class also calls itself *liberal*, and the word turns against the structure it serves. Latin *liber-* meant free, but also generous, open-handed, unstinting. *Illiberal* preserves the negation: closed-handed, ungenerous, withholding. Sanskrit captures the same structure with older precision. The dhātu **रा (*rā-*)** means to give; the privative *a-* yields अरावन् (*arāvan*), the non-giver, the one who retains rather than releases, centralizes rather than distributes.[NOTE: liber-aravan-etymology] Two etymologies, two languages, one diagnosis.
+The institutional class also calls itself *liberal*, and the word contradicts the structure it serves. Latin *liber-* meant free, but also generous, open-handed, unstinting. *Illiberal* preserves the negation: closed-handed, ungenerous, withholding. Sanskrit captures the same structure with older precision. The dhātu **रा (*rā-*)** means to give; the privative *a-* yields अरावन् (*arāvan*), the non-giver, the one who retains rather than releases, centralizes rather than distributes.[NOTE: liber-aravan-etymology] Two etymologies, two languages, one diagnosis.
 
 Institutions use *liberal* to mean its exact opposite: while the surface is open-handed, the structure is a closed fist. Because discourse is centralized rather than distributed, alternatives are foreclosed rather than welcomed, and consensus is administered rather than allowed to emerge. Therefore, by the English etymology, the progressive structure is illiberal, and by the Sanskrit etymology (preserved across thousands of years of continuous transmission), it is अरावन् (*arāvan*)—proving that the closed fist gripping the third pillar also shuts out every competing account.
 
@@ -114,7 +114,7 @@ Although Noachian chronology has receded, and the Racial Arya Thesis has lost it
 
 This defense blocks the engineered Sanskrit argument before students can assemble it. It closes four routes into the thesis: deep antiquity, indigenous origin, Pāṇini's scientific priority, and Vedic recitation understood as engineered preservation. Each exclusion can be presented as ordinary academic caution. Together, they leave the student no permitted route to the conclusion.
 
-The metaphor is the architecture of containment. It defended race, then theology, and now progress. Three justifications, one function. The *priests of progress* keep that function alive through peer review, citation conventions, reference works, and classroom inheritance. The deeper formation behind them is the subject of Chapter 4: the *asuric pyramid*, the hierarchy of ego, control, and institutional power that turns doctrine into enclosure.
+The metaphor is the architecture of containment. It defended race, then theology, and now progress. Three justifications, one function. The *priests of progress* keep that function alive through peer review, citation conventions, reference works, and classroom inheritance. The deeper formation behind them is the subject of Chapter 4: the *asuric pyramid*, the hierarchy of ego, control, and institutional power that uses doctrine to create enclosure.
 
 That inheritance is part of the blockade. Once a category enters textbooks, examinations, degree programs, and reference works, it no longer has to win each argument afresh. It becomes the floor on which argument is allowed to stand.
 
@@ -122,7 +122,7 @@ The containment protects more than a metaphor. It protects a theory of authority
 
 Calibration is more dangerous to the pyramid than drift or codification. Drift can be managed; codification can be owned; calibration makes the apex unnecessary.
 
-Chapter 0 established three concurrent domains: the वैदिक (*vaidika*) domain preserves invariant content, the लौकिक (*laukika*) domain keeps the language invariant while permitting new composition, and the प्राकृतिक (*prākṛtika*) domain changes as communities speak it from one generation to the next. The pyramid turns these differences of purpose into a chronological ladder.
+Chapter 0 established three concurrent domains: the वैदिक (*vaidika*) domain preserves invariant content, the लौकिक (*laukika*) domain keeps the language invariant while permitting new composition, and the प्राकृतिक (*prākṛtika*) domain changes as communities speak it from one generation to the next. The pyramid rearranges these differences of purpose as a chronological ladder.
 
 It demotes the वैदिक (*vaidika*) calibrant to a primitive and archaic beginning. It then presents the लौकिक (*laukika*) domain as the later product of the codification myth and credits its order to Pāṇini the "codifier." Finally, it treats the प्राकृतिक (*prākṛtika*) domain as the linguistic decay that followed Sanskrit's supposed peak. The ascent praises Pāṇini so that no one asks whether he inherited an architecture that already existed. The descent places Sanskrit's generative power safely in the past and gives outsiders the authority to manage the living civilization.
 
@@ -148,7 +148,7 @@ The Ṛgveda does not tell us which word it uses in every passage. One mantra pl
 
 The two words remain distinct even when we cannot assign a particular Rigvedic occurrence. The uncertainty belongs to that assignment, not to Sanskrit's capacity to form the words.
 
-The pyramid turned this uncertainty into an obsession. It made *asura* carry entire histories of peoples, migrations, rival religions, and chronological change. By 1986, one monograph had to spend thirty-seven pages examining the work of **thirty-five named scholars** before it could begin its own analysis of the word.[NOTE: asura-academic-industry]
+The pyramid made this uncertainty an obsession. It made *asura* carry entire histories of peoples, migrations, rival religions, and chronological change. By 1986, one monograph had to spend thirty-seven pages examining the work of **thirty-five named scholars** before it could begin its own analysis of the word.[NOTE: asura-academic-industry]
 
 **Thirty-five.**
 
@@ -156,7 +156,7 @@ Each scholar spent hours examining a word that the pyramid had declared critical
 
 Why would the pyramid devote so much attention to these words?
 
-Because a label can be turned into an identity. Once *asura* becomes the name of a faction, every encounter can be retold as a contest between groups seeking power. The pyramid does the same with **आर्य (*ārya*)**, **दास (*dāsa*)**, and **दस्यु (*dasyu*)**. It replaces an inquiry into conduct with an imaginary war between identities.[NOTE: asura-factional-framing]
+Because a label can be recast as an identity. Once *asura* becomes the name of a faction, every encounter can be retold as a contest between groups seeking power. The pyramid does the same with **आर्य (*ārya*)**, **दास (*dāsa*)**, and **दस्यु (*dasyu*)**. It replaces an inquiry into conduct with an imaginary war between identities.[NOTE: asura-factional-framing]
 
 ### Action, Not Faction
 

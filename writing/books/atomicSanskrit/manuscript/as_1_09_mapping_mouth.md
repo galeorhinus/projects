@@ -79,7 +79,7 @@ One axis of the address grid records the place of articulation: velar, palatal, 
 
 The order follows the shape of the mouth. The series begins at the back and ends at the lips. Retroflex sounds recur widely across the languages of the Indian subcontinent.[NOTE: retroflex-global-distribution] That row later becomes a major piece of evidence against the racial Arya thesis.
 
-Sanskrit turns these places into the horizontal axis of the grid.
+Sanskrit uses these places as the horizontal axis of the grid.
 
 ## 9.4 How Five Places Become Twenty-Five Sounds
 

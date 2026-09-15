@@ -18,7 +18,7 @@
 
 ## 5.1 Grammar Before Pāṇini
 
-Part I exposed the asuric machinery designed to destroy Sanskrit, and when that failed, to obscure its radiance. Part II turns inward to describe Sanskrit's own analytical self-conception.
+Part I exposed the asuric machinery designed to destroy Sanskrit, and when that failed, to obscure its radiance. Part II describes Sanskrit's own analytical self-conception.
 
 To explain that self-conception, the English word *grammar* is wholly inadequate. *Grammar* comes through Latin from a Greek expression meaning the art of letters. That origin associates grammar with writing, while modern English often uses the word for rules that enforce accepted usage. Neither sense fully describes Sanskrit **व्याकरणम् (*vyākaraṇam*)**.
 

@@ -73,7 +73,7 @@ The pyramid extended its fertile imagination from people, language, and words in
 
 Chapter 18 has already tested PIE against the subcontinental sound system and the वर्णमाला (*varṇamālā*). The failure becomes sharper when the comparison reaches Sanskrit's semantic atoms, its scaffold architecture, and the सिद्ध (*siddha*) bond between word and meaning.
 
-PIE cannot account for the धातवः (*dhātavaḥ*). Its reconstructed bases are hypothetical remnants assigned to an imagined ancestor. Sanskrit's धातवः (*dhātavaḥ*) are reusable semantic atoms. Speakers can extend them into verbs, nouns, adjectives, and complete sentences whenever they need them. The botanical translation exposed in Chapter 2 hides that difference by turning the Sanskrit atom into a historical root. Chapters 2 and 10 restore the constituent the continuum describes. PIE can arrange supposed descendants beneath a reconstructed base. It cannot explain a semantic atom that remains available for forming new words and sentences.
+PIE cannot account for the धातवः (*dhātavaḥ*). Its reconstructed bases are hypothetical remnants assigned to an imagined ancestor. Sanskrit's धातवः (*dhātavaḥ*) are reusable semantic atoms. Speakers can extend them into verbs, nouns, adjectives, and complete sentences whenever they need them. The botanical translation exposed in Chapter 2 hides that difference by recasting the Sanskrit atom as a historical root. Chapters 2 and 10 restore the constituent the continuum describes. PIE can arrange supposed descendants beneath a reconstructed base. It cannot explain a semantic atom that remains available for forming new words and sentences.
 
 The recurring scaffolds of Sanskrit's semantic atoms expose another failure in PIE. PIE can collect sound correspondences, but it cannot explain why Sanskrit's semantic atoms occupy a compact set of timed forms. Chapter 10 shows that ten रचनाः (*racanāḥ*) account for the overwhelming majority of the धातुपाठ (*Dhātupāṭha*). A story of descent does not explain that concentration or the engineering behind it.
 
@@ -143,7 +143,7 @@ Sanskrit's grammar keeps ⟪कृ⟫ (*kṛ*) and ⟪कृत्⟫ (*kṛt*) 
 
 The *t* is independently available in both Sanskrit families. It closes ⟪कृत्⟫ itself. It also appears through the *kta* participle by stated rule: *kṛt + kta* → **कृत्त (*kṛtta*)**, *cut off, shortened* — which is Latin *curtus*, sound for sound and sense for sense. The \*-tó- suffix the reconstruction deploys is *kta*, harvested from the grammar that states it, like the ablaut before it.
 
-The vowel completes the set. In the receiving mouths the syllabic ऋ (*ṛ*) opens to *ur*, *ir*, *or* — \*skurtaz, *shirt*, *short* — the same machine that turned *n̥* into *un* for \*kunją in the *kind* family. Every operation the reconstruction runs is a rule inferred backward from the daughters; the daughters' own source ran the alternations by stated rule.
+The vowel completes the set. In the receiving mouths the syllabic ऋ (*ṛ*) opens to *ur*, *ir*, *or* — \*skurtaz, *shirt*, *short* — the same machine that changed *n̥* to *un* for \*kunją in the *kind* family. Every operation the reconstruction runs is a rule inferred backward from the daughters; the daughters' own source ran the alternations by stated rule.
 
 Now the tally. To reach *shirt*, *skirt*, *short*, and *curt*, the pyramid stacks three devices: a mobile *s*, an extension *t*, and a zero grade that removes the vowel inserted into the reconstructed base. Its literature offers competing explanations for the mobile *s* and cannot assign a stable function to the root extension. Sanskrit preserves the cutting atom, the adjoining सुट् (*suṭ*) operation, and the *kta* suffix as separate parts with stated functions.
 
@@ -249,7 +249,7 @@ The same pattern appears across many more Sanskrit atoms and their word families
 | **⟪भृ⟫ (*bhṛ*)** — bear, carry | **\*bʰer-** | Latin *ferre* → *transfer, refer, confer, fertile*; Greek *pherein* → *metaphor, phosphorus, euphoria* |
 | **⟪मा⟫ (*mā*)** — measure | **\*meh₁-** | Latin *mētīrī* → *measure, dimension, immense*; Greek *metron* → *metre, geometry, symmetry* |
 
-Greek, Latin, and the Germanic languages absorbed these seeds and used them to generate new words and compounds. Each language then drifted through its own use. Because they did not remain in active calibration with Sanskrit, their forms continued to diverge from the Sanskrit words that had reached them. The earlier forms nevertheless preserve recognizable parts of the Sanskrit atom's meanings. Vivimorphosis describes how the receiving language turns Sanskrit's radiance into organic growth of its own.
+Greek, Latin, and the Germanic languages absorbed these seeds and used them to generate new words and compounds. Each language then drifted through its own use. Because they did not remain in active calibration with Sanskrit, their forms continued to diverge from the Sanskrit words that had reached them. The earlier forms nevertheless preserve recognizable parts of the Sanskrit atom's meanings. Vivimorphosis describes how the receiving language reshapes Sanskrit's radiance through organic growth of its own.
 
 ### The Pyramid Reverses the Movement
 

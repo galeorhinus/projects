@@ -34,7 +34,7 @@ In the **समुद्रमन्थन (*samudra-manthana*)** story, the dev
 
 Sanskrit scholarship produced a similar sequence over the past two centuries. Indian scholars taught the language and explained its grammar. European scholars used that knowledge to compare words, compile dictionaries, and construct linguistic histories.[NOTE: colonial-sanskrit-institutes] Most of the people who performed this work did not control the account that the apex eventually built from it.
 
-The apex turned their accumulated labor into *hālahala*. It created the Racial Arya Thesis and supported it with racial classifications that damaged India and later spread far beyond it. India bore that poison without surrendering Sanskrit or the civilizational memory carried through the language. In this churning, India became **नीलकण्ठ (*nīlakaṇṭha*)**. The poison reached its throat but never entered its heart.
+The apex converted their accumulated labor into *hālahala*. It created the Racial Arya Thesis and supported it with racial classifications that damaged India and later spread far beyond it. India bore that poison without surrendering Sanskrit or the civilizational memory carried through the language. In this churning, India became **नीलकण्ठ (*nīlakaṇṭha*)**. The poison reached its throat but never entered its heart.
 
 The story also gives this book its image of Rāhu. The *Bhāgavata Purāṇa* calls the intruder Svarbhānu. He steals a sip of the nectar before **विष्णु (*Viṣṇu*)** severs his head. Because the nectar has already made the head undying, Rāhu continues to seize the Sun and Moon.[NOTE: rahu-manthana-svarbhanu-layering]
 
@@ -138,7 +138,7 @@ The call is conditional: it cannot be made by anyone who wants the prestige with
 
 *Āryatva* is desirable because it is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
 
-The Sanskrit fractal encodes that standard in its architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is preserved without apex command. Once the architecture is understood, it does not preach; it stands as a calibrant: those who wish can align themselves with it and choose *sat* without turning truth into dogma.
+The Sanskrit fractal encodes that standard in its architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is preserved without apex command. Once the architecture is understood, it does not preach; it stands as a calibrant: those who wish can align themselves with it and choose *sat* without converting truth into dogma.
 
 That is the bridge from Sanskrit to Sanātan: calibration does not remain trapped inside grammar. The same distributed discipline can recur in conduct, memory, knowledge, and social order.
 
@@ -192,7 +192,7 @@ The work requires many hands. It is the Atris' work, not one author's.
 
 Education is one of those remaining shadows. A counter-pyramid with a new authorized syllabus from the top would reproduce the same structure. Distributed re-learning takes another path: teachers, families, communities, schools, publishers, and readers carry the calibrant across society until the old category theft no longer reproduces itself automatically.
 
-The Hindu continuum has remained the custodian of Sanskrit, the Vedas, and the ancient knowledge they preserve. This custodianship carries responsibility rather than ownership. Recognizing it does not transfer Sanskrit from one faction to another or turn its recovery into a claim of supremacy. It restores responsibility to the civilization that preserved the calibrant: to keep this knowledge available to all beings and to direct relationships in the second domain toward balance and **शान्तिः (*śāntiḥ*)**.
+The Hindu continuum has remained the custodian of Sanskrit, the Vedas, and the ancient knowledge they preserve. This custodianship carries responsibility rather than ownership. Recognizing it does not transfer Sanskrit from one faction to another or make its recovery a claim of supremacy. It restores responsibility to the civilization that preserved the calibrant: to keep this knowledge available to all beings and to direct relationships in the second domain toward balance and **शान्तिः (*śāntiḥ*)**.
 
 ## The Mantra
 
@@ -218,7 +218,7 @@ Sanskrit's standard is restored not by authority but by re-entering calibration.
 
 Bṛhaspati had already described the sequence: Speech sifted like grain, formed by the wise with the mind, recognized among friends, and made radiant. That sequence has now moved from mouth to sonomer, from sonomer to atom, from atom to molecule, and from molecule to calibrated language.
 
-The final turn therefore asks Vāc herself to nourish the work:
+The final invocation therefore asks Vāc herself to nourish the work:
 
 > देवीं वाचमजनयन्त देवास्तां विश्वरूपाः पशवो वदन्ति ।\
 > सा नो मन्द्रेषमूर्जं दुहाना धेनुर्वागस्मानुप सुष्टुतैतु ॥

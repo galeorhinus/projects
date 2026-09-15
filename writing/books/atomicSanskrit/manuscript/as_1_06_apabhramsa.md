@@ -51,7 +51,7 @@ Sanskrit calls that deviation **अपभ्रंशः (*apabhraṃśa*)** —
 
 An अपभ्रंशः (*apabhraṃśa*) can alter a sound or reshape a word. A speaker may change the word's pronunciation, substitute an ending, rearrange its syllables, or add material that the derivation does not require. Grammar compares each resulting form with the established शब्द (*śabda*).
 
-The वैयाकरणाः (*vaiyākaraṇāḥ*) locate the departure inside the form and use the established architecture to restore the calibrated form. Their analysis turns "incorrect speech" into a more exact diagnosis: अपभ्रंशः (*apabhraṃśa*) is linguistic entropy, the tendency of an established form to slip during use and transmission.
+The वैयाकरणाः (*vaiyākaraṇāḥ*) locate the departure inside the form and use the established architecture to restore the calibrated form. Their analysis replaces "incorrect speech" with a more exact diagnosis: अपभ्रंशः (*apabhraṃśa*) is linguistic entropy, the tendency of an established form to slip during use and transmission.
 
 ## 6.2 Few Words, Many Corruptions
 
@@ -117,7 +117,7 @@ The four categories from Figure 2.1 respond differently to entropy.
 
 Sanskrit succeeds where Esperanto did not because one generative architecture operates through two domains. The वैदिक (*vaidika*) domain keeps an invariant body in exact transmission. The लौकिक (*laukika*) domain allows speakers to generate new expression from the same language. Chapter 16 examines this two-domain design in full.
 
-The pyramid hides this four-way account by forcing Sanskrit into a two-stage history. It assigns botanical drift to Sanskrit before Pāṇini and claims that Pāṇini later placed the language under grammatical authority. The codification myth turns one continuous architecture into two chronological stages and recasts its finest decoder as its creator.
+The pyramid hides this four-way account by forcing Sanskrit into a two-stage history. It assigns botanical drift to Sanskrit before Pāṇini and claims that Pāṇini later placed the language under grammatical authority. The codification myth recasts one continuous architecture as two chronological stages and presents its finest decoder as its creator.
 
 That false sequence gives the apex two ways to claim control. Natural drift produces a changing population that its institutions can survey and manage. Codification allows those institutions to select a prestigious form and enforce it. Sanskrit denies the apex both roles because its standard remains distributed through the architecture and the people who transmit it.
 
@@ -157,11 +157,11 @@ Chapter 13 §13.3 examines why every physical medium remains vulnerable to decay
 
 ## 6.6 Variation Is Not Drift
 
-The pyramid turns every difference within the Vedic corpus into a chronological claim. Differences among the four Vedas, the Ṛgvedic मण्डलाः (*maṇḍalāḥ*), transmission lineages, accents, and word forms all become supposed evidence that *"Vedic Sanskrit"* changed over time.[NOTE: vedic-variation-eight-claims]
+The pyramid recasts every difference within the Vedic corpus as a chronological claim. Differences among the four Vedas, the Ṛgvedic मण्डलाः (*maṇḍalāḥ*), transmission lineages, accents, and word forms all become supposed evidence that *"Vedic Sanskrit"* changed over time.[NOTE: vedic-variation-eight-claims]
 
 A few differences cannot by themselves establish an evolutionary history of Sanskrit. Mortimer Wheeler once used a small and stratigraphically scattered collection of skeletons at Mohenjo-daro to construct a story of an Aryan-invasion massacre. Later archaeological analysis dismantled that inference. The thirty-seven skeletons came from different areas and did not share one archaeological context.[NOTE: wheeler-mohenjo-daro-overreach]
 
-The pyramid makes the same enlargement when it turns a collection of Vedic variations into an evolutionary history of Sanskrit.
+The pyramid makes the same enlargement when it presents a collection of Vedic variations as an evolutionary history of Sanskrit.
 
 The four Vedas form distinct functional streams: the Ṛgveda invokes and addresses, the Yajurveda joins mantra to measured action, the Sāmaveda transforms mantra through melodic pattern, and the Atharvaveda protects, corrects, heals, and restores balance. Different Rigvedic मण्डलाः (*maṇḍalāḥ*) make metrical and compositional choices suited to different contexts, while the Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad layers preserve different kinds of instruction and inquiry.
 
@@ -197,7 +197,7 @@ Chapter 14 develops the calibration matrix that preserves Sanskrit internally. C
 
 Caste is the clearest social instance. The dharmic architecture defines **वर्ण (*varṇa*)** through **गुण (*guṇa*)** and **कर्म (*karma*)**: disposition and action, not birth. The *Assalāyana Sutta* places the rigid master-slave binary in the bordering nations, not the Indic core (Chapter 3 §3.2).
 
-Caste as fixed birth-rank is the अपभ्रंशः (*apabhraṃśa*) of that order. The Abrahamic master-slave substrate fed the departure, and the colonial census hardened it by turning fluid जाति (*jāti*) into enumerated, ranked administration.[NOTE: caste-colonial-census-hardening] At the social scale, the change mirrors गौः (*gauḥ*) slipping into गावी (*gāvī*).
+Caste as fixed birth-rank is the अपभ्रंशः (*apabhraṃśa*) of that order. The Abrahamic master-slave substrate fed the departure, and the colonial census hardened it by converting fluid जाति (*jāti*) into enumerated, ranked administration.[NOTE: caste-colonial-census-hardening] At the social scale, the change mirrors गौः (*gauḥ*) slipping into गावी (*gāvī*).
 
 This volume follows the linguistic expression of that fractal. Later volumes in the *Second Shanti* series will extend the same analysis into social and civilizational order.
 

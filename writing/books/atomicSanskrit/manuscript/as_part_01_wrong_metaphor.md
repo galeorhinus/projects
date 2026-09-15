@@ -20,7 +20,7 @@
 
 \bigskip
 
-Part I begins with the pyramid still whole. It targets three blocks. The block marked ***Descended*** represents the claim that Sanskrit descended from PIE. It places an imaginary ancestor above Sanskrit and turns the recorded language into inherited cargo. The block marked ***Botanical*** represents the claim that Sanskrit grew through natural change. It describes the language through plant-parts — roots, stems, branches, and daughter languages. The block marked ***Codified*** represents the claim that Pāṇini stopped this natural change by imposing rules on a drifting language.
+Part I begins with the pyramid still whole. It targets three blocks. The block marked ***Descended*** represents the claim that Sanskrit descended from PIE. It places an imaginary ancestor above Sanskrit and recasts the recorded language as inherited cargo. The block marked ***Botanical*** represents the claim that Sanskrit grew through natural change. It describes the language through plant-parts — roots, stems, branches, and daughter languages. The block marked ***Codified*** represents the claim that Pāṇini stopped this natural change by imposing rules on a drifting language.
 
 Together, these three claims tell one story: Sanskrit changed naturally until Pāṇini imposed order upon it. Sanskrit before Pāṇini becomes **प्रकृति (*prakṛti*)**, a changing organism with roots, stems, branches, and daughters. Pāṇini then becomes the apex who supposedly stopped that change. The story hides what Sanskrit's own name declares: **संस्कृति (*saṃskṛti*)**, a wholly created and calibrated architecture.
 

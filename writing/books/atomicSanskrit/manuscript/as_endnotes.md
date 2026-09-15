@@ -7720,13 +7720,13 @@ The passage reads **आ द्विषतो वसु दत्ते, नि�
 - sanskritdocuments-ashtadhyayi-ch16-rules | Aṣṭādhyāyī 7.1.9 and 7.1.39
 -->
 
-**Short:** The Ṛgveda preserves both **-ebhiḥ** and **-aiḥ** among its ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)***. Both serve as the *tṛtīyā bahuvacanam*, or instrumental plural, of *akārānta* words. Adjacent verses in Ṛgveda 3.32 show each ending completing an eleven-syllable line.
+**Short:** The Ṛgveda preserves both **-एभिः (*-ebhiḥ*)** and **-ऐः (*-aiḥ*)** among its ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)***. Both serve as the *tṛtīyā bahuvacanam*, or instrumental plural, of *akārānta* words. Adjacent verses in Ṛgveda 3.32 show each ending completing an eleven-syllable line.
 
 **Deployments:** Chapter 16 §16.3; Appendix Part 8 §8.4.
 
 Ṛgveda 3.32.2d reads **सजोषा रुद्रैस्तृपदा वृषस्व (*sajoṣā rudrais tṛpad ā vṛṣasva*)**. The adjacent verse, 3.32.3d, reads **पिबा रुद्रेभिः सगणः सुशिप्र (*pibā rudrebhiḥ sagaṇaḥ suśipra*)**. The first uses **रुद्रैः (*rudraiḥ*)** and the second **रुद्रेभिः (*rudrebhiḥ*)**. Both pādas have eleven syllables. Exchanging the endings would give the first twelve syllables and the second ten, so each ending supplies the quantity required by its own line without changing the grammatical relation.
 
-Ṛgveda 10.125.1 supplies a second comparison inside one mantra: **रुद्रेभिः (*rudrebhiḥ*)** and **वसुभिः (*vasubhiḥ*)** appear beside **आदित्यैः (*ādityaiḥ*)** and **विश्वदेवैः (*viśvadevaiḥ*)**. The current Ṛgvedic corpus count retained in the appendix source data finds broad **-ebhiḥ : -aiḥ** totals of 585:690; the variation is common rather than isolated. Pāṇini documents **-aiḥ** through 7.1.9, **अतो भिस ऐस्**, while 7.1.39 preserves the wider Vedic range of nominal endings. Sources: Ṛgveda 3.32.2d-3d and 10.125.1; Aṣṭādhyāyī 7.1.9 and 7.1.39; University of Texas, *Ṛgveda: Metrically Restored Text*, 3.32 and 10.125.1a; appendix prevalence ledger PL-12.
+Ṛgveda 10.125.1 supplies a second comparison inside one mantra: **रुद्रेभिः (*rudrebhiḥ*)** and **वसुभिः (*vasubhiḥ*)** appear beside **आदित्यैः (*ādityaiḥ*)** and **विश्वदेवैः (*viśvadevaiḥ*)**. The current Ṛgvedic corpus count retained in the appendix source data finds broad **-एभिः (*-ebhiḥ*) : -ऐः (*-aiḥ*)** totals of 585:690; the variation is common rather than isolated. Pāṇini documents **-ऐः (*-aiḥ*)** through 7.1.9, **अतो भिस ऐस्**, while 7.1.39 preserves the wider Vedic range of nominal endings. Sources: Ṛgveda 3.32.2d-3d and 10.125.1; Aṣṭādhyāyī 7.1.9 and 7.1.39; University of Texas, *Ṛgveda: Metrically Restored Text*, 3.32 and 10.125.1a; appendix prevalence ledger PL-12.
 
 ---
 

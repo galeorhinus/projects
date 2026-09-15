@@ -12,33 +12,12 @@ Each comparison begins with a form familiar to a student of लौकिक (*la
 
 ## 8.2 Evidence and PASS Method
 
-Chapter 9 introduced the ***Principle of Architectural Selection and Scope (PASS)*** through the four tests for a sonomer. This appendix uses the same principle to examine the additional resources preserved in the Vedic domain. Each record follows four steps:
+Chapter 9 introduced the ***Principle of Architectural Selection and Scope (PASS)*** through the four tests for a sonomer. This appendix applies the same principle to Vedic sounds and forms that differ from the reusable लौकिक (*laukika*) range. Each variation is examined in four steps:
 
 1. **Contribution:** What does the additional resource add to the passage?
 2. **Load:** What duplication, collision, or variation accompanies it?
 3. **Bounding support:** What contains that load — pitch, meter, fixed wording, inherited interpretation, a stated junction, or another part of the architecture?
 4. **Scope:** Does the resource belong to reusable Sanskrit, appear only under a stated condition, belong to a stated Vedic scope, remain within a named Vedic lineage, or stay excluded from independent use?
-
-The first step identifies what the additional resource contributes to its passage. Chapter 16 defines ten possible contributions, and the figures represent them with the following short codes:
-
-| Code | Designed contribution |
-|---|---|
-| **SVR** | pitch architecture |
-| **MAT** | syllable count, मात्रा (*mātrā*), or लघुगुरु (*laghu-guru*) |
-| **REC** | melodic or recitational function |
-| **SON** | sonomeric selection and distinguishability |
-| **RES** | sound pattern and resonance |
-| **REL** | audible grammatical boundaries or recoverable relations |
-| **SEM** | compact semantic distinctions |
-| **ARR** | poetic or compositional arrangement |
-| **FUN** | a function specific to a Veda, Vedic prose setting, or mode of use |
-| **AUD** | error detection and overlapping audit checks |
-
-One form may contribute in several ways. An extended ending, for example, can complete a metrical line, strengthen its sound, make a grammatical boundary easier to hear, and give reciters another way to detect a change.
-
-The records separate four levels of evidence. **FORM** confirms the form itself. **P** marks an exact passage, and **FN** marks a function demonstrated within that passage. **OPEN** identifies something the present evidence has not explained. The record leaves an unknown field open rather than printing it as zero.
-
-Prevalence also requires different measures. A percentage comes from a known numerator and denominator. A raw number reports a count when no complete denominator exists, while **≈** marks an estimate or bound. A measured zero appears as **0**. The letters **A–D** report the evidence grade, and every measurement states whether it counts tokens, lexemes, forms, passages, or examples.
 
 ## 8.3 Sounds, Accent, and Exact Recitation
 
@@ -112,7 +91,7 @@ The prose passage removes meter as the explanation for the separated उपस�
 
 ### Extended विभक्ति (*Vibhakti*) Forms
 
-The वैदिक (*vaidika*) domain offers another engineered variation. For the ***तृतीया बहुवचनम् (*tṛtīyā bahuvacanam*)*** of an ***अकारान्त (*akārānta*)*** word — a word ending in **अ** — the Vedic corpus preserves both **-aiḥ** and the extended **-ebhiḥ**. Thus ***देव (*deva*)*** can appear as ***देवैः (*devaiḥ*)*** or ***देवेभिः (*devebhiḥ*)***, and ***रुद्र (*rudra*)*** as ***रुद्रैः (*rudraiḥ*)*** or ***रुद्रेभिः (*rudrebhiḥ*)***.
+The वैदिक (*vaidika*) domain offers another engineered variation. For the ***तृतीया बहुवचनम् (*tṛtīyā bahuvacanam*)*** of an ***अकारान्त (*akārānta*)*** word — a word ending in **अ** — the Vedic corpus preserves both **-ऐः (*-aiḥ*)** and the extended **-एभिः (*-ebhiḥ*)**. Thus ***देव (*deva*)*** can appear as ***देवैः (*devaiḥ*)*** or ***देवेभिः (*devebhiḥ*)***, and ***रुद्र (*rudra*)*** as ***रुद्रैः (*rudraiḥ*)*** or ***रुद्रेभिः (*rudrebhiḥ*)***.
 
 The labels *vaidika form* and *laukika form* describe how Sanskrit deploys these forms. They do not arrange them in chronological order. In many cases, including this one, the Veda itself preserves both. The *laukika form* is the form that Sanskrit uses consistently when people create new compositions in the read-write domain.
 
@@ -128,9 +107,31 @@ Two adjacent verses in Ṛgveda 3.32 demonstrate the selection.[NOTE: vedic-akar
 
 The first पाद (*pāda*) uses two-syllable **रुद्रैः (*rudraiḥ*)**. The next verse uses three-syllable **रुद्रेभिः (*rudrebhiḥ*)**. Both lines have the eleven syllables of Triṣṭubh. Replacing **रुद्रैः** with **रुद्रेभिः** in the first would produce twelve syllables; replacing **रुद्रेभिः** with **रुद्रैः** in the second would leave ten. The Veda preserves both endings and selects the form that completes each line without changing the विभक्ति (*vibhakti*), number, or grammatical relation.
 
-The two endings perform the same grammatical work but supply different syllable counts. The Vedic lines and their meter keep the choice exact. Laukika Sanskrit uses **-aiḥ** as the reusable ending for new composition, where offering two interchangeable endings for every अकारान्त (*akārānta*) word would add duplication without the Vedic passage to govern the choice.
+Both endings mark the instrumental plural. In these adjacent verses, the meter determines which form appears. Laukika Sanskrit uses **-ऐः (*-aiḥ*)** as the reusable ending for new composition, where offering two interchangeable endings for every अकारान्त (*akārānta*) word would add duplication without the Vedic passage to govern the choice.
 
-Vedic ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)*** extend far beyond the **-ebhiḥ / -aiḥ** comparison. The 83 records below include 29 singular, 12 dual, 21 plural, 10 word-class, 7 numeral, and 4 accent-and-recitation records. They retain rare, doubtful, isolated, and unexplained forms alongside the better-understood patterns. Every record gives the Vedic range, the laukika form used for new composition, the contribution established so far, the evidence state, and the available prevalence measure. Its upper-right label provides a stable address into the source record. The codes and evidence grades follow the key in §8.2.
+Vedic ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)*** extend far beyond the **-एभिः (*-ebhiḥ*) / -ऐः (*-aiḥ*)** comparison. The 83 records below include 29 singular, 12 dual, 21 plural, 10 word-class, 7 numeral, and 4 accent-and-recitation records. They retain rare, doubtful, isolated, and unexplained forms alongside the better-understood patterns.
+
+The analysis below uses data cards that place a Vedic form beside the form used for new लौकिक (*laukika*) composition. Each card then reports what the Vedic variation contributes in its mantra or passage, how far that explanation has been verified, and how often the form occurs when a usable count is available. Because the same contributions recur across many cards, the cards use the following short codes:
+
+| Code | Designed contribution |
+|---|---|
+| **SVR** | pitch architecture |
+| **MAT** | syllable count, मात्रा (*mātrā*), or लघुगुरु (*laghu-guru*) |
+| **REC** | melodic or recitational function |
+| **RES** | sound pattern and resonance |
+| **REL** | audible grammatical boundaries or recoverable relations |
+| **SEM** | compact semantic distinctions |
+| **ARR** | poetic or compositional arrangement |
+
+These codes describe what a variation does in its passage; they are not additional grammatical categories. One form may carry several codes. An extended ending, for example, can complete a metrical line (**MAT**), strengthen its sound (**RES**), and support the arrangement of the words (**ARR**).
+
+The cards report verification in plain English. **Form recorded** means that the Vedic form itself has been documented. **Passage checked** means that an exact passage has been located. **Function shown** means that the proposed contribution can be demonstrated within that passage. **Question open** means that the form is known but some part of its contribution has not yet been explained.
+
+The label in the upper-right corner gives each card an address. **SG**, **DU**, and **PL** identify singular, dual, and plural forms. **CL** identifies word classes, **NU** numerals, and **AC** accent and recitation. Thus **SG-01** is the first singular record, while **AC-04** is the fourth accent-and-recitation record.
+
+The final line reports prevalence and the quality of that measurement. A percentage appears only when both the numerator and denominator are known. A raw number reports a count when no complete denominator exists, while **≈** marks an estimate or bound. A measured zero appears as **0**. Every measurement states whether it counts tokens, lexemes, forms, passages, or examples.
+
+The evidence grade applies to the prevalence claim. **A** marks an independent count checked for grammatical form. **B** marks an exact count or bound reported by a grammar. **C** marks a corpus count whose forms remain grammatically ambiguous. **D** marks a qualitative description such as *rare*. **U** means that no reliable prevalence measurement is yet available.
 
 ### एकवचनम् (*ekavacanam*): Singular
 

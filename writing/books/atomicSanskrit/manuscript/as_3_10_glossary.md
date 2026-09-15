@@ -277,7 +277,7 @@ The sequence is:
 
 **Book-controlled Sanskrit family.** **प्रतिमानकम् (*pratimānakam*)** names the calibrant: an enduring and publicly available reference against which speech, action, or form can be examined. **प्रतिमापनम् (*pratimāpanam*)** names calibration, the act of making that comparison and correcting a departure. **प्रतिमिमीते (*pratimimīte*)** names the action: measures against, or calibrates.
 
-Ṛgveda 1.164.24 gives the Vedic verb with its preverb separate: **प्रति मिमीते (*prati mimīte*)**. Laukika Sanskrit joins the two as **प्रतिमिमीते (*pratimimīte*)**. The family names a relationship rather than one language. The Vedas are Sanskrit's primary **प्रतिमानकम् (*pratimānakam*)**. Sanskrit can in turn serve as a linguistic and civilizational calibrant. **ध्रौव्यता (*dhrauvyatā*)** names the invariance required of a calibrant; it does not name the whole calibrating function.
+Ṛgveda 1.164.24 gives the Vedic verb with its preverb separate: **प्रति मिमीते (*prati mimīte*)**. Laukika Sanskrit joins the two as **प्रतिमिमीते (*pratimimīte*)**. The family names a relationship rather than one language. The Vedas are Sanskrit's primary **प्रतिमानकम् (*pratimānakam*)**. Sanskrit can also serve as a linguistic and civilizational calibrant. **ध्रौव्यता (*dhrauvyatā*)** names the invariance required of a calibrant; it does not name the whole calibrating function.
 
 ### **परम्परा (*paramparā*)**
 
@@ -445,7 +445,7 @@ After Chapter 3 establishes that uncertainty, the book uses ***a-sura*** as the 
 
 ### **philological machinery**
 
-**Book-controlled phrase.** The reconstructions, dictionaries, grammars, citations, peer review, curricula, and institutional relationships that turn philological claims into durable public belief.
+**Book-controlled phrase.** The reconstructions, dictionaries, grammars, citations, peer review, curricula, and institutional relationships that establish philological claims as durable public belief.
 
 ### **bakers** / **bake** / **recipe**
 

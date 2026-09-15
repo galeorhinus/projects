@@ -32,7 +32,7 @@ Across the ages, the pyramid has tried to destroy Sanskrit and failed. Hindu soc
 
 The evidence remains in Sanskrit and in the living system that still keeps the language calibrated.
 
-The pyramid concealed that evidence by assigning a false category to each part of the architecture. It placed Sanskrit beneath an imaginary parent and said that foreign people had brought it into India. It described a language engineered for permanence as a natural organism of roots, stems, and branches. It then turned Sanskrit's two domains, which Sanskrit uses together, into two historical periods: a changing language it called *"Vedic Sanskrit,"* followed by *"Classical Sanskrit,"* supposedly fixed by **पाणिनि (*Pāṇini*)**.
+The pyramid concealed that evidence by assigning a false category to each part of the architecture. It placed Sanskrit beneath an imaginary parent and said that foreign people had brought it into India. It described a language engineered for permanence as a natural organism of roots, stems, and branches. It then recast Sanskrit's two domains, which Sanskrit uses together, as two historical periods: a changing language it called *"Vedic Sanskrit,"* followed by *"Classical Sanskrit,"* supposedly fixed by **पाणिनि (*Pāṇini*)**.
 
 The same method continued at smaller and larger scales. The pyramid reduced the engineered sound-grid to an alphabet and placed Sanskrit beside Greek and Latin as one fragment of a lost parent. It treated the Vedas as old literature waiting to be dated instead of the calibrant that keeps Sanskrit intact. Each false category became another block placed before the same Sun.
 
@@ -58,11 +58,11 @@ That living example threatens the pyramid's claim that order requires an apex. F
 
 **The beginningless and the endless deny the apex what it needs most: a first point it can own.**
 
-Chronology can arrange recorded events in sequence. It cannot decide, before Sanskrit's architecture is examined, whether the language drifted naturally or was deliberately calibrated. Yet the pyramid's chronology turns Sanskrit's two domains into historical periods. It presents *"Vedic Sanskrit"* as an early and changing form of the language. It then places *"Classical Sanskrit"* after Pāṇini and claims that his codification stopped the change.
+Chronology can arrange recorded events in sequence. It cannot decide, before Sanskrit's architecture is examined, whether the language drifted naturally or was deliberately calibrated. Yet the pyramid's chronology recasts Sanskrit's two domains as historical periods. It presents *"Vedic Sanskrit"* as an early and changing form of the language. It then places *"Classical Sanskrit"* after Pāṇini and claims that his codification stopped the change.
 
 This book argues the opposite: Sanskrit has one architecture with two domains. One domain keeps the Vedic content unchanged. The other uses the same language for new composition. These are different responsibilities within one language, not stages in its evolution. The Vedas kept Sanskrit calibrated before Pāṇini and have continued to do so after him. Pāṇini documented that architecture; he did not create its invariance by codifying drifting speech.
 
-This book examines the architecture first. It uses dates when they establish a useful sequence and *thousands of years* when a more exact date contributes nothing.[NOTE: chronology-asymmetry-rationale] Chapters 1 and 3 expose how the pyramid turns chronology into an instrument of classification and control.
+This book examines the architecture first. It uses dates when they establish a useful sequence and *thousands of years* when a more exact date contributes nothing.[NOTE: chronology-asymmetry-rationale] Chapters 1 and 3 expose how the pyramid uses chronology as an instrument of classification and control.
 
 ## The शङ्ख (*Śaṅkha*) Sounds
 

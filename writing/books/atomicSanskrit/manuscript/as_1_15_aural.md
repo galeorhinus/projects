@@ -66,7 +66,7 @@ The विकृति (*vikṛti*) recitations add further constraint. Each mod
 
 The reciters use all of these checks together (Chapter 14 §14.3). छन्दस् (*Chandas*) binds the verse to a known metrical form. The पाठाः (*pāṭhas*) place the same words and joins into several specified arrangements. शिक्षा (*Śikṣā*) trains the reciter to reproduce them, while the teacher and other listeners compare what they hear with the form they already know.[NOTE: combinatorial-redundancy-comparative]
 
-If one word changes, the departure does not remain confined to one place. It disturbs adjacent pairs in क्रम (*krama*), forward and reverse joins in जटा (*jaṭā*), moving three-word windows in घन (*ghana*), and the meter of the verse. Several known relationships now identify the same departure. That is how planned redundancy turns recitation into continuing calibration.
+If one word changes, the departure does not remain confined to one place. It disturbs adjacent pairs in क्रम (*krama*), forward and reverse joins in जटा (*jaṭā*), moving three-word windows in घन (*ghana*), and the meter of the verse. Several known relationships now identify the same departure. That is how planned redundancy makes recitation a continuing process of calibration.
 
 The architecture distributes this correction among trained people. No office needs to issue a new official copy before a teacher can hear a departure and restore the transmitted form.
 

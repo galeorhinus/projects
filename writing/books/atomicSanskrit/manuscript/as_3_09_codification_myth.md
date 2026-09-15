@@ -12,7 +12,7 @@ The first claim concerns differences within the Vedas. The pyramid points to dif
 
 The second concerns the relationship between वैदिक (*vaidika*) and लौकिक (*laukika*). The pyramid points to Vedic pitch, प्लुत (*pluta*) duration, लेट्लकार (*leṭ-lakāra*), additional infinitive and declensional forms, and other differences documented in Chapter 16 and Appendix Part 8. It then arranges the two domains on a timeline: *"Vedic Sanskrit"* comes first, Pāṇini intervenes, and *"Classical Sanskrit"* follows.
 
-The 2×2 from Chapter 2 exposes the category switch inside this sequence. The story first places Sanskrit among natural languages so that it can drift and descend from PIE. It then turns Pāṇini's documentation into an act of authority that supposedly regularized the language and stopped the drift. Sanskrit remains a natural language when the story needs ancestry, but becomes a controlled formal language when the story needs to explain its precision.
+The 2×2 from Chapter 2 exposes the category switch inside this sequence. The story first places Sanskrit among natural languages so that it can drift and descend from PIE. It then recasts Pāṇini's documentation as an act of authority that supposedly regularized the language and stopped the drift. Sanskrit remains a natural language when the story needs ancestry, but becomes a controlled formal language when the story needs to explain its precision.
 
 The codification myth must demonstrate more than variation. It must establish that Sanskrit's architecture changed substantially before Pāṇini and that his intervention arrested the change. Different forms in different domains do not establish either claim.
 

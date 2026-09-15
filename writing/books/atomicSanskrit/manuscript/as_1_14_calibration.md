@@ -24,7 +24,7 @@
 
 The Vedas do not merely serve as Sanskrit's calibrant. Ṛgveda 1.164.24 describes calibration within Vedic Speech itself and contains the book's three attributes in one mantra. Speech radiates through chant, melody, and voice. Each form provides a calibrant for another. The same operation repeats from the अक्षर (*akṣara*) through the metrical quarter to the complete recitation, giving the mantra a fractal structure.
 
-The Vedas are Sanskrit's primary **प्रतिमानकम् (*pratimānakam*)**. Their **ध्रौव्यता (*dhrauvyatā*)** keeps the reference invariant, while the calibration matrix keeps it available for comparison and correction. Sanskrit has therefore remained calibrated across thousands of years and can serve in turn as a linguistic and civilizational calibrant. This chapter describes the greater engineering feat: the matrix that has kept Sanskrit aligned against unintended entropy and deliberate attack.
+The Vedas are Sanskrit's primary **प्रतिमानकम् (*pratimānakam*)**. Their **ध्रौव्यता (*dhrauvyatā*)** keeps the reference invariant, while the calibration matrix keeps it available for comparison and correction. Sanskrit has therefore remained calibrated across thousands of years and can also serve as a linguistic and civilizational calibrant. This chapter describes the greater engineering feat: the matrix that has kept Sanskrit aligned against unintended entropy and deliberate attack.
 
 The matrix is **दिव्य (*divya*)** in the precise sense: radiant, brilliant, bearing the order of the देवाः (*devāḥ*). A system that preserves sound, meter, grammar, memory, and lineage without apex command is radiant because its order gives light without needing a pyramid to issue it.
 
@@ -116,13 +116,13 @@ Auditure preserves the Vedic corpus as sound. The full calibration matrix contai
 
 शिक्षा (*Śikṣā*) is not a seventh layer. It trains the human being across the matrix. It teaches articulation, tone, duration, accent, breath, and sequence so that the preserved architecture can pass from one generation to the next.
 
-The Vedas remain the calibrant throughout this matrix. The supporting disciplines do not replace them. They make pronunciation, grammar, semantic atoms, sonomer addresses, and meter explicit, while शिक्षा (*śikṣā*) turns that knowledge into trained human practice.
+The Vedas remain the calibrant throughout this matrix. The supporting disciplines do not replace them. They make pronunciation, grammar, semantic atoms, sonomer addresses, and meter explicit, while शिक्षा (*śikṣā*) carries that knowledge into trained human practice.
 
 The layers overlap because they check different features of the same language. A recitation supplies the performed form. Meter exposes a mismatch in count, duration, or rhythm. Pitch exposes a departure in accent. The प्रातिशाख्य (*Prātiśākhya*) discipline explains pronunciation, व्याकरणम् (*vyākaraṇam*) explains the formation of words and sentences, and the धातुपाठ (*Dhātupāṭha*) and वर्णमाला (*Varṇamālā*) make the constituent inventories available. A learner can therefore approach the same Sanskrit form through performance, hearing, and explicit analysis.
 
 ## 14.4 छन्दस् (*Chandas*) Counts the Possibilities of Poetry
 
-छन्दस् (*Chandas*) turns poetic meter into a countable design. A poet begins with a fixed duration. A लघु (*laghu*) syllable occupies one मात्रा (*mātrā*), while a गुरु (*guru*) syllable occupies two. Once the duration is fixed, the discipline can ask how many valid patterns of short and long syllables will fill it exactly.
+छन्दस् (*Chandas*) makes poetic meter countable. A poet begins with a fixed duration. A लघु (*laghu*) syllable occupies one मात्रा (*mātrā*), while a गुरु (*guru*) syllable occupies two. Once the duration is fixed, the discipline can ask how many valid patterns of short and long syllables will fill it exactly.
 
 ![Figure 14.3 — Chandas as mātrā tiling. The fillings of three, four, and five मात्राः (*mātrāḥ*); each measure is built from the two shorter ones, so the counts add.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=96%}
 
@@ -213,7 +213,7 @@ No single named author assembled the calibration matrix. The Vedic corpus is अ
 
 Pāṇini documented a matrix that Sanskrit already used. He did not originate it.
 
-**Pāṇini's praise is selective and therefore dangerously seductive.** The pyramid can admire a named documenter if that admiration makes him appear to be the source. Read correctly, Pāṇini threatens its account. His work demonstrates that Sanskrit's order already existed deeply enough to be decoded and compressed into rules. Calling him a codifier moves the engineering to a later named figure and hides the architecture beneath him. The pyramid praises him only by turning him into what he was not.
+**Pāṇini's praise is selective and therefore dangerously seductive.** The pyramid can admire a named documenter if that admiration makes him appear to be the source. Read correctly, Pāṇini threatens its account. His work demonstrates that Sanskrit's order already existed deeply enough to be decoded and compressed into rules. Calling him a codifier moves the engineering to a later named figure and hides the architecture beneath him. The pyramid praises him only by presenting him as what he was not.
 
 This is *heroic erasure*: praise the documenter, then use that praise to deny the civilization that made his work possible. The same move converts वैदिक (*vaidika*) and लौकिक (*laukika*) from two domains into a before-and-after chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. Calling him a codifier is a grammatical sleight of hand with civilizational consequences.
 
@@ -227,6 +227,6 @@ At the linguistic scale, the conclusion is already concrete. Order can exist wit
 
 This architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. Sanskrit therefore provides living evidence of calibrant order. Later *Second Shanti* volumes will follow the same architecture from language into संस्कृति (*saṃskṛti*) and society.
 
-Chapter 15 now turns to the eleven पाठाः (*pāṭhāḥ*) and the aural machinery through which the Vedic sound-body has remained invariant across thousands of years.
+Chapter 15 now examines the eleven पाठाः (*pāṭhāḥ*) and the aural machinery through which the Vedic sound-body has remained invariant across thousands of years.
 
 The radiant matrix outlasted the pyramids built over it. It will outlast the pyramids built against it.
