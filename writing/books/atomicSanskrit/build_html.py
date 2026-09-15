@@ -564,8 +564,10 @@ def render_index(entries: list[dict], book_title: str, subtitle: str,
             # Carry the part-opener URL when the entry has a `file:` field
             # (commit bbb1821 added Part-opener .md files). The TOC heading
             # emitter wraps the title in <a href> when this is set.
+            # Same override-aware lookup as slug_to_url below: a part opener
+            # could equally carry an explicit slug.
             part_url = (
-                f"{URL_BASE}/{slug_for(entry['file'])}/"
+                f"{URL_BASE}/{entry.get('slug') or slug_for(entry['file'])}/"
                 if entry.get("file") else None
             )
             current = {
@@ -620,7 +622,12 @@ def render_index(entries: list[dict], book_title: str, subtitle: str,
     lines.append('</header>')
     lines.append('<nav class="toc">')
     lines.append('')
-    slug_to_url = {e["file"]: f"{URL_BASE}/{slug_for(e['file'])}/" for e in entries}
+    # Use each entry's resolved url, not slug_for(file). An entry may carry an
+    # explicit `slug:` override -- Appendix Part 8 does, because its filename
+    # derives the same slug as Chapter 16 -- and rebuilding the URL from the
+    # filename here ignored that, so the contents linked Appendix Part 8 at
+    # Chapter 16's address.
+    slug_to_url = {e["file"]: e["url"] for e in entries}
     for group in groups:
         # Wrap the Part title in a link to its opener page when the group
         # carries one (Part I…VII after commit bbb1821). Plain text for
