@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-14",
+  "verified_candidate_relations": 958,
+  "prior_broad_input_form_overlaps": 0,
+  "confirmed_prior_word_meaning_overlaps_not_added": 0,
+  "same_spelling_output_groups_not_merged": 95,
+  "same_spelling_output_instances_beyond_first": 104,
+  "additional_compound_stack_word_meanings": 958,
+  "additional_by_operation_family": {
+    "taddhita": 480,
+    "namadhatu": 384,
+    "nan": 94
+  },
+  "additional_by_output_form_class": {
+    "derived_nominal_base": 574,
+    "derived_verbal_base": 384
+  },
+  "prior_combined_bounded_subtotal": 12845500,
+  "combined_bounded_word_meaning_subtotal": 12846458,
+  "inputs": {
+    "analysis/generativity/results/compound_stack_candidates.csv": "7dbdd2f3a1e4d513190364c10fc9179470e5994c141987ee4693d86ccc1322a3",
+    "analysis/generativity/results/compound_stack_verification.json": "8a66da05521dd61f68cbc9f02f72c25dc94a6bdc8c3bd919913642b518b4db0e",
+    "analysis/generativity/results/nominal_input_inventory.csv.gz": "e537b66b74d98626abb5772e7b4ac85340d21df58cfc7a34c727e529e0a1340e",
+    "analysis/generativity/reconcile_compound_stack_ledger.py": "9bcce83f909cb9435edf7873558f33b10f07c223441c97b1f35a52acce1ffbef"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

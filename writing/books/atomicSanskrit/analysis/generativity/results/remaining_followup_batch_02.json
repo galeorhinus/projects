@@ -1,0 +1,536 @@
+{
+  "date": "2026-09-13",
+  "baseline": 2645,
+  "status": "proposals_not_applied",
+  "cases": [
+    {
+      "id": "IR33",
+      "status": "defer_reading",
+      "decision": "Keep the two meanings separate. The sound entry is explicitly kshvid in Madhaviya, with kshvedati forms, whereas the sweating entry uses svidyati. The pinned first-class headword must be reconciled before any identity merger.",
+      "remaining": "Carry the headword discrepancy into source normalization; compare kshvid records there. Do not silently replace the pinned citation.",
+      "evidence": [
+        {
+          "source": "dhatu-mA629.html",
+          "anchor": "ञिक्ष्विदा अव्यक्ते_शब्दे",
+          "role": "The sound entry includes ksh.",
+          "record": {
+            "filename": "dhatu-mA629.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA629.html",
+            "accessed_utc": "2026-09-12T16:02:55.385366+00:00",
+            "sha256": "78ffd10926371d6ad399e01b12d0368dc6a12fa8d668893e240adb5c8a32437a",
+            "bytes": 2244
+          }
+        },
+        {
+          "source": "dhatu-XA868.html",
+          "anchor": "स्विद्यति",
+          "role": "Sweating form.",
+          "record": {
+            "filename": "dhatu-XA868.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA868.html",
+            "accessed_utc": "2026-09-12T16:02:55.639752+00:00",
+            "sha256": "2a379d1337dc2d1498a8747963d2853e81085547adc8b4d37893dc1b55ee257c",
+            "bytes": 874
+          }
+        }
+      ],
+      "batch": 2,
+      "label": "स्विद् (svid)",
+      "entries": {
+        "01.1133": [
+          "avyakte Sabde"
+        ],
+        "04.0127": [
+          "gAtraprakzaraRe"
+        ]
+      },
+      "before": "Leave these entries unmerged and flag the citation mismatch. The indistinct-sound entry is kshvid in the retrieved commentary, while the sweating entry is svid. The pinned data groups both under YizvidA.",
+      "original_followup": "Reconcile the pinned 01.1133 citation with the source reading before assigning lexical identity. Do not silently rewrite the pinned record.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR37",
+      "status": "defer_identity",
+      "decision": "Keep the existing two-unit result. The first-class commentary explicitly mentions an adhrshiya occurrence, but the retrieved tenth-class commentaries do not independently distinguish both numbered worship entries. This supports a connection, not yet a reliable assignment of every occurrence.",
+      "remaining": "Defer the last duplicate candidate until an edition locates both tenth-class positions and explains their relationship. No further open-ended search in this sweep.",
+      "evidence": [
+        {
+          "source": "dhatu-mA448.html",
+          "anchor": "अर्हतिराधृषीयोपि",
+          "role": "Adhrshiya cross-reference.",
+          "record": {
+            "filename": "dhatu-mA448.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA448.html",
+            "accessed_utc": "2026-09-12T16:01:11.922152+00:00",
+            "sha256": "80109a4f7ba044fd66676b25a22c36b6dc253f4281e18fd5d414494ae968a2e2",
+            "bytes": 1637
+          }
+        },
+        {
+          "source": "dhatu-kRi1321.html",
+          "anchor": "भ्वादौ (1488) अर्हति",
+          "role": "Tenth-class commentary points to the earlier form, without resolving both tenth-class positions.",
+          "record": {
+            "filename": "dhatu-kRi1321.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1321.html",
+            "accessed_utc": "2026-09-13T04:03:47.421545+00:00",
+            "sha256": "242b5145ed84ff260fd2f686d6b54539cdeeb9806ac2a10a6dddab1ed1d9d73a",
+            "bytes": 515
+          }
+        }
+      ],
+      "batch": 2,
+      "label": "अर्ह् (arh)",
+      "entries": {
+        "01.0841": [
+          "pUjAyAm"
+        ],
+        "10.0257": [
+          "pUjAyAm"
+        ],
+        "10.0367": [
+          "pUjAyAm"
+        ]
+      },
+      "before": "Consolidate the bhvadi and adhrishiya honoring assignments. Madhaviya explicitly links them. Keep the third, yujadi source assignment provisional: it is present in the base patha, but the retrieved concordance does not supply its commentary treatment.",
+      "original_followup": "Find a commentary or grammatical explanation for 10.0367 before consolidating its matching gloss with the other two.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR38",
+      "status": "retain_distinction",
+      "decision": "Retain acquisition and pratiyatna separately. Kshiratarangini explains the latter as samskara; Madhaviya also allows the curadi form in acquiring wealth. Shared use of arjayati does not erase the independent preparation meaning.",
+      "remaining": "The finer-sense model should represent the shared acquisition use without counting it again. No net reduction in the two independent meanings is justified.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1315.html",
+          "anchor": "प्रतियत्नः संस्कारः",
+          "role": "Meaning explained, not inferred from English effort.",
+          "record": {
+            "filename": "dhatu-kRi1315.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1315.html",
+            "accessed_utc": "2026-09-13T04:03:48.304190+00:00",
+            "sha256": "fb11bd881ab6a2aba5cdd38742dd5ad6e5f8d9e8df080541ccaa1d314ccbd7f0",
+            "bytes": 602
+          }
+        },
+        {
+          "source": "dhatu-mA1295.html",
+          "anchor": "द्रव्यमर्जयतीत्यादिप्रयोगदर्शनादयमर्थान्तरेऽपि",
+          "role": "Additional acquisition usage.",
+          "record": {
+            "filename": "dhatu-mA1295.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1295.html",
+            "accessed_utc": "2026-09-12T16:01:12.910377+00:00",
+            "sha256": "d64ce271f2a70ad064016dd577cabb22809f9e4d860e1811c2e9becea03d994b",
+            "bytes": 544
+          }
+        }
+      ],
+      "batch": 2,
+      "label": "अर्ज् (arj)",
+      "entries": {
+        "01.0256": [
+          "arjane"
+        ],
+        "10.0250": [
+          "pratiyatne"
+        ]
+      },
+      "before": "Keep acquisition and directed effort provisional as separate assignments. The later commentary expressly admits acquisition usage outside its stated pratiyatna heading. That connects the uses but does not yet determine whether the headings describe one meaning or distinguish two.",
+      "original_followup": "Compare the two meanings with examples and the scope of pratiyatna. Do not merge solely because arjayati can serve both.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR40",
+      "status": "retain_readings",
+      "decision": "Keep harming and speaking. The harming commentary explicitly distinguishes the later speaking use. The shared-list shining reading remains an alternative witness, not a third meaning silently added to this count.",
+      "remaining": "Closed for this identity sweep; carry the shared-list reading choice into the cross-reading model.",
+      "evidence": [
+        {
+          "source": "dhatu-mA1241.html",
+          "anchor": "भाषार्थोऽग्रे भविष्यति",
+          "role": "Explicit distinction from the later entry.",
+          "record": {
+            "filename": "dhatu-mA1241.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1241.html",
+            "accessed_utc": "2026-09-12T16:01:13.660039+00:00",
+            "sha256": "4b7a92d619d42cb37d06dfc039e26ca1b40ce46830916d3b71a0fcc7729d58d3",
+            "bytes": 1133
+          }
+        },
+        {
+          "source": "dhatu-kRi1340.html",
+          "anchor": "भासार्थाः",
+          "role": "Alternative shared-list reading.",
+          "record": {
+            "filename": "dhatu-kRi1340.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1340.html",
+            "accessed_utc": "2026-09-12T15:25:46.577396+00:00",
+            "sha256": "11679a4a79ecdfce86ad32173b0b67209e53039b6677cd018ce06a1a5113846a",
+            "bytes": 6627
+          }
+        }
+      ],
+      "batch": 2,
+      "label": "बर्ह् (barh)",
+      "entries": {
+        "10.0173": [
+          "hiMsAyAm"
+        ],
+        "10.0300": [
+          "BAzAyAm"
+        ]
+      },
+      "before": "Retain harming and speaking as different meanings. The harming commentary explicitly points forward to a separate bhashartha entry. The alternative shining reading also remains attached to its source.",
+      "original_followup": "Keep the bhasha/bhasa disagreement documented in the shared curadi group; this pass does not change the pinned speaking assignment.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR41",
+      "status": "defer_identity",
+      "decision": "Retain growth, sound, and the speech-group assignment. The commentary connects the earlier marked sound entry with the later group, but that alone does not establish that all sound and speech uses are one meaning.",
+      "remaining": "Defer sound/speech overlap to contextual examples. Keep the bhasa alternative and idit distinction attached to their witnesses.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi466.html",
+          "anchor": "बृहि शब्दे च",
+          "role": "Sound supplements growth.",
+          "record": {
+            "filename": "dhatu-kRi466.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi466.html",
+            "accessed_utc": "2026-09-12T16:01:14.218069+00:00",
+            "sha256": "9bed53172feb43efb0fa78fdb14199ad16fc78274e6ce549aeba5b35781fe958",
+            "bytes": 585
+          }
+        },
+        {
+          "source": "dhatu-mA1321.html",
+          "anchor": "इदितस्तु बृंहतीति शब्दे च",
+          "role": "Specific earlier sound cross-reference.",
+          "record": {
+            "filename": "dhatu-mA1321.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1321.html",
+            "accessed_utc": "2026-09-12T15:25:46.272990+00:00",
+            "sha256": "b62ce420581bdad1fa175c0fa883f78071249181757423528b8cc181e86eab6c",
+            "bytes": 7096
+          }
+        }
+      ],
+      "batch": 2,
+      "label": "बृह् (bṛh)",
+      "entries": {
+        "01.0837": [
+          "vfdDO",
+          "Sabde"
+        ],
+        "10.0299": [
+          "BAzAyAm"
+        ]
+      },
+      "before": "Keep growth, sound, and speech provisional as separate assignments. The curadi commentary connects the earlier idit form, but the sound/speech relationship and the alternative shining reading remain unresolved.",
+      "original_followup": "Determine whether shabda and bhasha denote the same word-meaning in this entry; preserve growth and the competing bhasa interpretation separately.",
+      "before_count": 3,
+      "proposed_count": 3,
+      "delta": 0
+    },
+    {
+      "id": "IR43",
+      "status": "propose_merge",
+      "decision": "Merge the two barking assignments. Kshiratarangini's tenth-class example explicitly makes a dog the subject and then points to first-class bukkati. This supplies the contextual link missing from the earlier review, even though the tenth-class heading spells bhashana with a long vowel.",
+      "remaining": "Approval is needed before applying this one-unit reduction. Preserve both heading spellings in the evidence; do not normalize the source quotation.",
+      "proposed_merges": [
+        [
+          [
+            "01.0126",
+            "BazaRe"
+          ],
+          [
+            "10.0238",
+            "BazaRe"
+          ]
+        ]
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-kRi1304.html",
+          "anchor": "बुक्कयति श्वा भ्वादौ (187) बुक्कति",
+          "role": "Dog example and explicit cross-class link.",
+          "record": {
+            "filename": "dhatu-kRi1304.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1304.html",
+            "accessed_utc": "2026-09-13T04:03:52.078249+00:00",
+            "sha256": "8f6b443971cf52b1ac2221470e61e892b29419e5214cf0b803fe7a28831792ca",
+            "bytes": 457
+          }
+        },
+        {
+          "source": "dhatu-mA80.html",
+          "anchor": "भषणमिह श्वरवः",
+          "role": "Earlier meaning expressly defined as a dog's sound.",
+          "record": {
+            "filename": "dhatu-mA80.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA80.html",
+            "accessed_utc": "2026-09-12T16:01:14.935055+00:00",
+            "sha256": "a69adb65560f4922583e426b68d657ee2d1c2462c05125932f59734e69c4092d",
+            "bytes": 581
+          }
+        }
+      ],
+      "batch": 2,
+      "label": "बुक्क् (bukk)",
+      "entries": {
+        "01.0126": [
+          "BazaRe"
+        ],
+        "10.0238": [
+          "BazaRe"
+        ]
+      },
+      "before": "Do not merge the two identical pinned barking glosses yet. The bhvadi commentary explicitly means a dog's bark, but the retrieved curadi witnesses say bhashana, speaking. A cross-reference exists, but the source reading must be reconciled first.",
+      "original_followup": "Locate the short-a bhashana reading underlying pinned 10.0238, or establish whether the long-a reading is broader speech or a transmission error. Do not silently change the original gloss.",
+      "before_count": 2,
+      "proposed_count": 1,
+      "delta": -1
+    },
+    {
+      "id": "IR46",
+      "status": "defer_senses",
+      "decision": "Keep the already consolidated shaking meaning, the tudadi annotations, and the separate curadi meaning. The commentary explains a repeated shaking entry through grammatical treatment; it does not resolve whether the two tudadi glosses designate independently countable meanings.",
+      "remaining": "Defer vilasana/vikasana segmentation. Preserve the kalpana/kampana reading discrepancy instead of silently correcting an edition.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi989.html",
+          "anchor": "चल विलसने",
+          "role": "Tudadi heading.",
+          "record": {
+            "filename": "dhatu-kRi989.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi989.html",
+            "accessed_utc": "2026-09-13T04:03:52.559885+00:00",
+            "sha256": "b263125767293ddc65874f327fb6425d7566bd5977f56e77274d373d0b136ee8",
+            "bytes": 730
+          }
+        },
+        {
+          "source": "dhatu-kRi989.html",
+          "anchor": "चलयति लताम्",
+          "role": "Concrete shaking example.",
+          "record": {
+            "filename": "dhatu-kRi989.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi989.html",
+            "accessed_utc": "2026-09-13T04:03:52.559885+00:00",
+            "sha256": "b263125767293ddc65874f327fb6425d7566bd5977f56e77274d373d0b136ee8",
+            "bytes": 730
+          }
+        },
+        {
+          "source": "dhatu-mA1193.html",
+          "anchor": "चल भृतौ",
+          "role": "Separate curadi heading.",
+          "record": {
+            "filename": "dhatu-mA1193.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1193.html",
+            "accessed_utc": "2026-09-12T16:01:16.844455+00:00",
+            "sha256": "924d12949944c590f38c11a06fd25753a7d31b378aed71e86e0f30d148e8b327",
+            "bytes": 449
+          }
+        }
+      ],
+      "batch": 2,
+      "label": "चल् (cal)",
+      "entries": {
+        "01.0924": [
+          "kampane"
+        ],
+        "01.0966": [
+          "kampane"
+        ],
+        "06.0083": [
+          "vilasane",
+          "vikasane"
+        ],
+        "10.0097": [
+          "BftO"
+        ]
+      },
+      "before": "Count the two shaking assignments once. Kshiratarangini explicitly links the kampana entry to its ghatadi mit treatment. Retain vilasana, vikasana, and maintenance; they have not been shown to be the same meaning.",
+      "original_followup": "Madhaviya's kalpane heading differs from Kshiratarangini and the base patha. Preserve that reading; this merger uses the explicit kampana witness. The vilasana/vikasana alternatives remain a separate within-entry meaning check.",
+      "before_count": 4,
+      "proposed_count": 4,
+      "delta": 0
+    },
+    {
+      "id": "IR48",
+      "status": "defer_reading",
+      "decision": "Keep the current assignments provisional. The tenth-class chan citation is explicitly an alternative to the neighboring entry. The sources inspected still do not explain whether its upahanana is identical to the earlier himsa use.",
+      "remaining": "Defer the alternative-reading identity question. The two listed tenth-class meanings must not be treated as proof of an additional independent atom.",
+      "evidence": [
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१०.३७८ चन श्रद्धोपहननयोरित्येके",
+          "role": "Numbered alternative reading.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        },
+        {
+          "source": "dhatu-mA492.html",
+          "anchor": "चन च हिंसायामिति शेषः",
+          "role": "Earlier harming use.",
+          "record": {
+            "filename": "dhatu-mA492.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA492.html",
+            "accessed_utc": "2026-09-12T16:01:17.533466+00:00",
+            "sha256": "73bcd91f0354eb1193bea555f4a77aaa1ffee20fa4a21f47c23759ee06331bd3",
+            "bytes": 448
+          }
+        }
+      ],
+      "batch": 2,
+      "label": "चन् (can)",
+      "entries": {
+        "01.0914": [
+          "hiMsAyAm"
+        ],
+        "10.0378": [
+          "SradDAyAm",
+          "upahanane"
+        ]
+      },
+      "before": "Keep harming, shraddha, and upahanana provisional. The later chan citation is recorded as an alternative reading at the end of the class. The retrieved evidence does not establish whether its upahanana is the same word-meaning as the earlier harming entry.",
+      "original_followup": "Find a commentary on the chan alternative to the neighboring tanu entry, then resolve upahanana versus himsa. Keep the variant provenance rather than treat it as an independent new atom.",
+      "before_count": 3,
+      "proposed_count": 3,
+      "delta": 0
+    },
+    {
+      "id": "IR49",
+      "status": "defer_reading",
+      "decision": "Retain soothing and the later assignment separately. The later chap witness says kalkana; Madhaviya records chap as an alternative under chah/parikalkana. The pinned parikalpana spelling therefore needs source reconciliation, not a speculative English meaning.",
+      "remaining": "Defer correction of the pinned gloss until the edition is selected. Do not copy every explanation of chah into chap.",
+      "evidence": [
+        {
+          "source": "dhatu-XA1263.html",
+          "anchor": "चप कल्कने",
+          "role": "Direct chap heading.",
+          "record": {
+            "filename": "dhatu-XA1263.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1263.html",
+            "accessed_utc": "2026-09-12T16:01:18.202880+00:00",
+            "sha256": "9e1f09370b5832ec2d461ef38b5d9681be373791b9c9f4330e9ae7256c34e2c7",
+            "bytes": 435
+          }
+        },
+        {
+          "source": "dhatu-mA1209.html",
+          "anchor": "मैत्रेयस्तु चपेति पठित्वा चपयतीत्युदाजहार",
+          "role": "Attributed variant.",
+          "record": {
+            "filename": "dhatu-mA1209.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1209.html",
+            "accessed_utc": "2026-09-12T16:01:16.125867+00:00",
+            "sha256": "24a5a2630a8d2dcbbce84c708fdddadae7c9f4fef53000b6c9e8147fbdac0260",
+            "bytes": 1268
+          }
+        }
+      ],
+      "batch": 2,
+      "label": "चप् (cap)",
+      "entries": {
+        "01.0465": [
+          "sAntvane"
+        ],
+        "10.0121": [
+          "parikalpane"
+        ]
+      },
+      "before": "Retain soothing and parikalpana as separate assignments. The first meaning is explicit; the later location has chap/chah and kalkana/parikalkana readings that must be reconciled before refining its description.",
+      "original_followup": "Reconcile pinned parikalpane with kalkana/parikalkana in the commentaries. Do not silently attach chah's detailed shathya explanation to every chap use.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR50",
+      "status": "retain_readings",
+      "decision": "Keep movement, eating, and the selected doubt meaning. Kshiratarangini explains vicarana through doubt, then explicitly attributes an opposite asamshaya reading to Durga. The alternatives are real and need not be blended into a replacement heading.",
+      "remaining": "Closed for this identity sweep. Preserve both doubt/asamshaya and the earlier sanchayana alternative for the cross-reading model.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1327.html",
+          "anchor": "विचारणा हि सति संशये भवति",
+          "role": "Contextual explanation of the selected meaning.",
+          "record": {
+            "filename": "dhatu-kRi1327.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1327.html",
+            "accessed_utc": "2026-09-13T04:03:55.629437+00:00",
+            "sha256": "3e9d9bd3914f6e65a14a765dcaa4c38a67df3b4199b30bba960c6b1b85a6fe0f",
+            "bytes": 544
+          }
+        },
+        {
+          "source": "dhatu-kRi1327.html",
+          "anchor": "चर असंशय इति दुर्गः",
+          "role": "Attributed competing reading.",
+          "record": {
+            "filename": "dhatu-kRi1327.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1327.html",
+            "accessed_utc": "2026-09-13T04:03:55.629437+00:00",
+            "sha256": "3e9d9bd3914f6e65a14a765dcaa4c38a67df3b4199b30bba960c6b1b85a6fe0f",
+            "bytes": 544
+          }
+        }
+      ],
+      "batch": 2,
+      "label": "चर् (car)",
+      "entries": {
+        "01.0640": [
+          "gatO",
+          "BakzaRe"
+        ],
+        "10.0274": [
+          "saMSaye"
+        ]
+      },
+      "before": "Retain movement, eating, and doubt as separate meanings. Madhaviya states the first two together and identifies the later samshaya entry separately.",
+      "original_followup": "The earlier commentary's closing sanchayana reading differs from the later samshaya heading; record the alternative without silently replacing the pinned meaning.",
+      "before_count": 3,
+      "proposed_count": 3,
+      "delta": 0
+    }
+  ],
+  "queued_records": 65,
+  "reviewed_records": 65,
+  "complete": true,
+  "proposed_delta": -11,
+  "archive_records": 949,
+  "vocabulary_total": null,
+  "inputs": {
+    "analysis/generativity/reconciliation_review_01.json": "5d31c2e90937fe5528d94ab37516ff4c1c6c19242cdaab20bcf6a75a1279378c",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/results/base_meanings.json": "30172ba60026a93745e1cf51e0c49bdb71ef0c2bc0f0955d3e7ad61c612f9fd4",
+    "analysis/generativity/results/base_meaning_assignments.csv": "4ee3401c434004984c9e4469566519c104190cd00a12dcdc924550fd1fb651be",
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "approved_reconciliation": "7bede88557c33c1d5bf17c76b0a832ccda7a8712ba5b278e1bb72e0deeca709c",
+    "followup_review": "66ca8cc84652986832429261451117774ac140dae5164d9550084948d525b4d5",
+    "approval_02": "0ea974881ec6246a5218137dc6e608abaf78905bda2281932a93f95032f7e765",
+    "remaining_review": "6a579463200fa14b59331845dc8bd262c1ca3b945429edc9c5d690f900a1d55e",
+    "source_manifest": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24"
+  },
+  "scope": "batch",
+  "batch": 2,
+  "batch_reviewed_records": 10
+}

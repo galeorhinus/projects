@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-14",
+  "active_reconstructible_assertions": 120,
+  "unique_eligible_relations": 113,
+  "duplicate_assertions_collapsed": 7,
+  "excluded_assertions": 47,
+  "maximum_member_count": 3,
+  "maximum_derivational_depth": 1,
+  "recursive_compounding_admitted": false,
+  "nominal_square_multiplier_applied": false,
+  "inputs": {
+    "analysis/generativity/results/samasa_source_examples.csv": "4b5f583772d356cc63b6d047e42fa0ebcd7f51119f15a1b3a312292e2e52ecac"
+  }
+}

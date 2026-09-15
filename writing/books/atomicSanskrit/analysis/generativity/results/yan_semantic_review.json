@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-13",
+  "status": "semantic_proposals_only_not_applied",
+  "vocabulary_total": null,
+  "published_total_changed": false,
+  "terms": {
+    "yaN": "\u092f\u0919\u0928\u094d\u0924 (ya\u1e45anta), repeated or intensive formation",
+    "yaNluk": "\u092f\u0919\u094d\u0932\u0941\u0917\u0928\u094d\u0924 (ya\u1e45luganta), ya\u1e45 formation with \u0932\u0941\u0915\u094d (luk)"
+  },
+  "primary_rule_findings": [
+    {
+      "rule": "3.1.22",
+      "finding": "The Kashika explains kriyasamabhihara as paunahpunya, repetition, or bhrshartha, intensity. These are two semantic relations, not two spellings."
+    },
+    {
+      "rule": "3.1.23",
+      "finding": "For a movement-denoting dhatu meaning, yan is obligatory when crooked movement is meant and is not licensed there merely for general repetition or intensity."
+    },
+    {
+      "rule": "3.1.24",
+      "finding": "For the listed dhatus, yan expresses disparagement of the action itself. Disparagement of the agent or instrument is insufficient."
+    },
+    {
+      "rule": "2.4.74",
+      "finding": "Luk deletes the audible yan suffix before the stated environment while pratyayalakshana retains consequences of the formation; the resulting dhatu is assigned to adadi in the pinned implementation."
+    }
+  ],
+  "engine_coverage": {
+    "source_entries": {
+      "3.1.22": 1754,
+      "3.1.24": 12,
+      "varttika_3.1.22.1": 9,
+      "zero_output": 454
+    },
+    "reconciled_base_meanings": {
+      "3.1.22": 2072,
+      "3.1.24": 15,
+      "varttika_3.1.22.1": 12,
+      "zero_output": 559
+    },
+    "rule_3.1.23_engine_path_entries": 0,
+    "rule_3.1.23_gap": "Vidyut 0.4.0 does not implement a separate semantic selection path for 3.1.23 in the pinned sanadi module. Movement meanings therefore require a source-led review.",
+    "movement_screen_rows": 316,
+    "movement_screen_unique_base_meanings": 312,
+    "movement_screen_status": "review_required_not_counted"
+  },
+  "known_anabhidhana_control": {
+    "rule": "3.1.22",
+    "source_entries": [
+      "01.0847 ruc",
+      "06.0046 shubh"
+    ],
+    "finding": "The Kashika excludes the general yan use for shobhate and rocate through anabhidhana even though the engine generates forms.",
+    "count_status": "not_admitted"
+  },
+  "proposals": [
+    {
+      "id": "YAN-P1",
+      "status": "pending_author_approval",
+      "proposal": "Represent repetition and intensity as two different meanings under general 3.1.22 eligibility. Do not assume that both are lexically available for every generated base meaning."
+    },
+    {
+      "id": "YAN-P2",
+      "status": "pending_author_approval",
+      "proposal": "For movement-denoting base meanings governed by 3.1.23, use one crooked-movement relation instead of the two general 3.1.22 relations."
+    },
+    {
+      "id": "YAN-P3",
+      "status": "pending_author_approval",
+      "proposal": "For base meanings governed by 3.1.24, use one disparaged-action relation instead of the two general 3.1.22 relations."
+    },
+    {
+      "id": "YAN-P4",
+      "status": "pending_author_approval",
+      "proposal": "Apply attested anabhidhana exclusions before admission. Exclude the known shubh and ruc controls from the general yan candidate set unless contrary lexical evidence is found."
+    },
+    {
+      "id": "YAN-P5",
+      "status": "pending_author_approval",
+      "proposal": "Treat a licensed yaN-luk formation as a separate derived verbal word because its formation and paradigm differ, but let it inherit the corresponding yaN semantic branch. Luk does not create another meaning multiplier."
+    }
+  ],
+  "limits": [
+    "The movement screen is a retrieval aid based on source gloss strings. It is not a grammatical classification.",
+    "The nine varttika 3.1.22.1 entries identify a special formal path, not a separate meaning.",
+    "Engine generation does not establish lexical use or semantic eligibility.",
+    "No proposed semantic branch is admitted by this pass."
+  ],
+  "sources": [
+    {
+      "filename": "rule-2.4.74.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.4.74.htm",
+      "accessed_utc": "2026-09-12T16:03:42.281997+00:00",
+      "sha256": "a33affff8e0b6e8516ee1d575b3ca951a5f70998e706fd317f3998eb3d196c1d",
+      "bytes": 10989
+    },
+    {
+      "filename": "rule-3.1.22.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.22.htm",
+      "accessed_utc": "2026-09-12T16:03:48.559378+00:00",
+      "sha256": "1ce33d5144eb706d3ad1e005847a0667b4f10bb4b8d3314a30d978eb59e7bbad",
+      "bytes": 13894
+    },
+    {
+      "filename": "rule-3.1.23.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.23.htm",
+      "accessed_utc": "2026-09-13T06:06:37.919236+00:00",
+      "sha256": "538696414963f28834c9622c2a57af8020c5f17b363978d1fdd4368bcfc9607f",
+      "bytes": 6620
+    },
+    {
+      "filename": "rule-3.1.24.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.24.htm",
+      "accessed_utc": "2026-09-13T06:06:38.839899+00:00",
+      "sha256": "a51be9d18a848482994064172f6e07c5ba81ff493b6883786c002f622585c61f",
+      "bytes": 5621
+    },
+    {
+      "filename": "sutrapatha.tsv",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/sutrapatha.tsv",
+      "accessed_utc": "2026-09-12T12:40:36.592077+00:00",
+      "sha256": "f2ff798707e8b8ea20dd5cf20a7bbcc4b849f0ab4d726a0a4af890ef87b7e87c",
+      "bytes": 112838
+    },
+    {
+      "filename": "vidyut-sanadi.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/sanadi.rs",
+      "accessed_utc": "2026-09-13T06:06:36.858207+00:00",
+      "sha256": "228edd5e973b429657ee872f29d983ff78ae74b4b579b900fff171503cd1fc34",
+      "bytes": 13862
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/results/sanadi_engine_results.csv": "5dbee41cc57af8bf4a21264759bc62e1e0f44fd57b9350254d5563250747d7a8",
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/review_yan_semantics.py": "90e20e21aa4eaaa505cccbac311705e3bd203191424e9c59af256405bfe28532"
+  },
+  "manifest_source_count": 949
+}

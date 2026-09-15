@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-13",
+  "candidate_relations": 65,
+  "verified_stri_derivations": 50,
+  "inflection_only_relations_not_admitted": 5,
+  "engine_mismatches_not_admitted": 10,
+  "suffixes_observed": [
+    "NIp",
+    "NIz",
+    "UN",
+    "wAp"
+  ],
+  "verification_policy": "The expected nominative forms must be reproduced by Vidyut 0.4.0, and at least one expected path must show an inserted स्त्रीप्रत्यय. Nominative inflection without a feminine derivation does not create a lexical row.",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0"
+  },
+  "inputs": {
+    "analysis/generativity/results/stri_eligible_inputs.csv": "7292c7e60b452aa0c41d787d7958ac30c091ed60dc264feaab7be02a7abd5c72",
+    "analysis/generativity/results/stri_suffix_inventory.csv": "50a022a6d71769e1d0ad9acca4420e7b1dd74d0c9c5424c43d034d9b32324fe3"
+  },
+  "publication_status": "research_verification_only_not_deployed"
+}

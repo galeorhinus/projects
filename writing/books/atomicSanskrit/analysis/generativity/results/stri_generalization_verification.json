@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-14",
+  "eligible_relations": 140568,
+  "generated_relations": 140568,
+  "excluded_relations": 0,
+  "verified_relations": 140568,
+  "verification_failures": 0,
+  "suffixes_observed": {
+    "NIp": 67972,
+    "wAp": 72596
+  },
+  "verification_policy": "Every eligible nominal meaning occurs exactly once in either the admitted or exclusion ledger. Every admitted row has a generated form and a logged 4.1 स्त्रीप्रत्यय path, and belongs to one of the four selected lexical-agent operations.",
+  "inputs": {
+    "analysis/generativity/results/stri_generalization_eligibility.csv.gz": "92327227892ca9f49ea589c664ed227ac3b396e8f2b99f996ffddcc7906dadb1",
+    "analysis/generativity/results/stri_generalization_ledger.csv.gz": "c5c1333b497b5e8a4f4f9979e01d2ab41e553e051e23d3b22a23f60030367c22",
+    "analysis/generativity/results/stri_generalization_exclusions.csv.gz": "4e41aa85e0ae48f48cb3f670c03b413d6f7d1fc732d4964b5d666aa9adc994d1",
+    "analysis/generativity/verify_stri_generalization.py": "48f432b92fd3f1e65d37007d52d30afde21ef012897993b6b54144610b21b48d"
+  },
+  "publication_status": "research_verification_only_not_deployed"
+}

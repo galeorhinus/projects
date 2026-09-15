@@ -1,0 +1,29 @@
+word_id,sense_id,stage,base,operation,result_slp1,meaning,evidence,source_locator
+pa-drink,drink,verbal,pA,Unmodified base,pA,drink,source_meaning,dhatupatha.tsv 01.1074: pane
+pa-protect,protect,verbal,pA,Unmodified base,pA,protect,source_meaning,dhatupatha.tsv 02.0051: raksane
+rc,praise,verbal,fc,Unmodified base,fc,praise,source_meaning,dhatupatha.tsv 06.0022: stutau
+rc,shine,verbal,fc,Unmodified base,fc,shine,source_meaning,dhatupatha.tsv 06.0022: diptau
+gam,go,verbal,gam,Unmodified base,gam,go,source_meaning,dhatupatha.tsv 01.1137: gatau
+kr,do,verbal,kf,Unmodified base,kf,do or make,source_meaning,dhatupatha.tsv 08.0010: karane; do/make is one broad reading here
+agam,come,verbal,gam,Prefix a,Agam,come,rule_application,Selected contextual reading; 1.4.59 classifies prefixes but does not itself define this meaning
+kr-causative,cause-to-do,verbal,kf,Causative nic,kAri,cause someone to do,source_example,Kashika: katam karayati
+kr-desiderative,want-to-do,verbal,kf,Desiderative san,cikIrza,want to do,source_example,Kashika: kartum icchati; cikirsati
+pac-intensive,cook-repeatedly,verbal,pac,Intensive yang: repetition,pApacya,cook repeatedly,source_example,Kashika: punah punah pacati; papacyate
+pac-intensive,cook-intensely,verbal,pac,Intensive yang: intensity,pApacya,cook intensely,rule_application,General bhrsartha alternative applied to pac; the exact pac example on this page illustrates repetition
+putriya,desire-son,verbal,putra,Noun-derived verb: kyac,putrIya,desire a son for oneself,source_example,Kashika: putram icchati; putriyati
+putrakamya,desire-son,verbal,putra,Noun-derived verb: kamyac,putrakAmya,desire a son for oneself,source_example,Kashika and Laghu Siddhanta Kaumudi: putrakamyati
+pacaka,agent-cooking,nominal,pac,Agent: nvul,pAcaka,one who cooks,rule_application,Agent rule applied to pac; do not add a separate cook/chef entry just for an English synonym
+kartr,agent-doing,nominal,kf,Agent: trc,kartf,one who does; a doer,source_example,Kashika: karta; displayed here as its base kartr
+gamana,action-going,nominal,gam,Action: lyut,gamana,going,rule_application,Bhava use of lyut applied to gam
+paka,action-cooking,nominal,pac,Action: ghanj,pAka,cooking,source_example,Kashika: pakah
+karana,action-doing,nominal,kf,Action: lyut,karaRa,doing; the action itself,rule_application,Bhava use of lyut applied to kr
+karana,instrument-doing,nominal,kf,Instrument: lyut,karaRa,an instrument by which something is done,source_example,Nyasa explicitly treats karana in the rule wording as a lyut formation with instrumental meaning
+asana,action-sitting,nominal,As,Action: lyut,Asana,sitting; the action itself,source_example,Kashika includes asanam in the bhava examples
+asana,place-sitting,nominal,As,Location: lyut,Asana,a seat; a place for sitting,rule_application,Adhikarana use of lyut applied to as; exact example on this page is a different location noun
+kaunteya,offspring-kunti,nominal,kuntI,Offspring: dhak,kOnteya,offspring of Kunti,rule_application,Applied to the declared feminine name Kunti; not a separate entry for every person called Kaunteya
+mitratva,being-friend,nominal,mitra,Abstract quality: tva,mitratva,the state of being a friend,rule_application,Bhava relation applied to mitra
+gotva,being-cow,nominal,go,Abstract quality: tva,gotva,the state of being a cow,source_example,Kashika: gotvam
+gota,being-cow,nominal,go,Abstract quality: tal,gotA,the state of being a cow,source_example,Kashika: gota; tal formation with its feminine outcome
+krtva,prior-doing,indeclinable,kf,Prior action: ktva,kftvA,"having done, before another action by the same agent",rule_application,Prior action and same-agent conditions applied to kr
+prakrtya,prior-performing,indeclinable,kf,pra plus ktva replaced by lyap,prakftya,having performed; prefixed prior action,source_example,Kashika's gati discussion gives prakrtya in rule-1.4.59.html; its actual rule is 1.4.60
+kartum,purpose-doing,indeclinable,kf,Purpose: tumun,kartum,"to do, as the purpose of another action",rule_application,Purpose construction applied to kr; other tumun constructions are outside this row

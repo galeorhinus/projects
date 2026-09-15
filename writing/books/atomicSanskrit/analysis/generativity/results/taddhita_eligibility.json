@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-13",
+  "scope": "First broad taddhita expansion over the declared laukika nominal inventory. General relations apply to every admitted nominal word-meaning for which the pinned engine constructs a form; the descendant relation remains limited to its declared source examples.",
+  "nominal_word_meanings": 794078,
+  "selected_semantic_operations": 4,
+  "eligible_operation_candidates": 2382237,
+  "operations": [
+    {
+      "operation_id": "state_tva",
+      "source_variant": "tva",
+      "semantic_context": "TasyaBhava",
+      "semantic_relation": "the state or defining quality denoted by the nominal base",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "eligible_nominal_ids": "",
+      "eligible_candidate_word_meanings": 794078,
+      "rule_refs": "5.1.119",
+      "count_status": "eligible_for_engine_generation"
+    },
+    {
+      "operation_id": "state_tal",
+      "source_variant": "tal",
+      "semantic_context": "TasyaBhava",
+      "semantic_relation": "the state or defining quality denoted by the nominal base",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "eligible_nominal_ids": "",
+      "eligible_candidate_word_meanings": 794078,
+      "rule_refs": "5.1.119",
+      "count_status": "eligible_for_engine_generation"
+    },
+    {
+      "operation_id": "possession_matup",
+      "source_variant": "matup",
+      "semantic_context": "TadAsyaAstiAsmin",
+      "semantic_relation": "one or that in which the nominal referent is present",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "eligible_nominal_ids": "",
+      "eligible_candidate_word_meanings": 794078,
+      "rule_refs": "5.2.94",
+      "count_status": "eligible_for_engine_generation"
+    },
+    {
+      "operation_id": "descendant_dhak",
+      "source_variant": "Qak",
+      "semantic_context": "TasyaApatyam",
+      "semantic_relation": "a descendant or offspring of the named feminine base",
+      "eligibility_scope": "listed_nominal_ids",
+      "eligible_nominal_ids": "declared:kunti;declared:suparna;declared:vinata",
+      "eligible_candidate_word_meanings": 3,
+      "rule_refs": "4.1.92;4.1.120",
+      "count_status": "eligible_for_engine_generation"
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/taddhita_operations.json": "927b8a95a063f9e44241c64b71d0b86882a51ea124a749cef8925097d7d03b9d",
+    "analysis/generativity/results/nominal_input_inventory.csv.gz": "e537b66b74d98626abb5772e7b4ac85340d21df58cfc7a34c727e529e0a1340e",
+    "analysis/generativity/results/taddhita_identifier_classification.csv": "40ab8b448f02c5dc6146e4fec371c9b934659c923f46837a5dd4859fe264de30",
+    "analysis/generativity/build_taddhita_eligibility.py": "8b84e56ae9771f374f33d278a932b72be1eda9726012c10d22dafb30fb14f057"
+  }
+}

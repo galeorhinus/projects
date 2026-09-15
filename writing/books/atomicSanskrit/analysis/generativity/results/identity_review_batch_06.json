@@ -1,0 +1,2100 @@
+{
+  "date": "2026-09-12",
+  "selection": "Next 30 unreviewed groups in the established SLP1 ledger order.",
+  "policy": "Merge only the documented shared word-meaning. Preserve source rows, grammatical class, markers, alternate readings, and other meanings. A cross-class base merge does not collapse all derived formations or authorize every operation.",
+  "reviewed_groups": 30,
+  "reviewed_entries": 68,
+  "merge_groups": 10,
+  "retained_groups": 15,
+  "open_groups": 5,
+  "before": 2701,
+  "after": 2691,
+  "reduction": 10,
+  "previously_reviewed_groups": 112,
+  "unreviewed_groups": 81,
+  "groups": [
+    {
+      "id": "IR111",
+      "batch": 6,
+      "group_id": "citation-2fcfaa53afa9",
+      "citation": "lUza~",
+      "entries": {
+        "01.0771": [
+          "BUzAyAm"
+        ],
+        "10.0100": [
+          "hiMsAyAm"
+        ]
+      },
+      "headword": "lUz",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain adorning and harming; the base patha and curadi commentary give different headings.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "लूषऽ १.७७२ रूष भूषायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1195.html",
+          "anchor": "लूष हिंसायाम्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatupatha-sanskritdocuments.html",
+          "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+          "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+          "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+          "bytes": 147148,
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "लूषऽ १.७७२ रूष भूषायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1195.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1195.html",
+          "accessed_utc": "2026-09-12T16:21:13.969478+00:00",
+          "sha256": "c9b0197d16e450200eacdae92db662bc8fefdb1508a86c70a0d86ce2a35983ba",
+          "bytes": 417,
+          "source": "dhatu-mA1195.html",
+          "anchor": "लूष हिंसायाम्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR112",
+      "batch": 6,
+      "group_id": "citation-920dc56399d9",
+      "citation": "laGi~",
+      "entries": {
+        "10.0291": [
+          "BAzAyAm"
+        ],
+        "10.0327": [
+          "BAzAyAm"
+        ]
+      },
+      "headword": "laG",
+      "outcome": "open",
+      "decision": "The two pinned speech entries occur in a group with competing speech/shining readings and laghi/raghi variants. A matching pinned citation does not settle the duplication.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA1321.html",
+          "anchor": "लघि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-kRi1340.html",
+          "anchor": "रघि लघि",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Reconcile the two exact locations and their citation readings before consolidating.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1321.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1321.html",
+          "accessed_utc": "2026-09-12T15:25:46.272990+00:00",
+          "sha256": "b62ce420581bdad1fa175c0fa883f78071249181757423528b8cc181e86eab6c",
+          "bytes": 7096,
+          "source": "dhatu-mA1321.html",
+          "anchor": "लघि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-kRi1340.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1340.html",
+          "accessed_utc": "2026-09-12T15:25:46.577396+00:00",
+          "sha256": "11679a4a79ecdfce86ad32173b0b67209e53039b6677cd018ce06a1a5113846a",
+          "bytes": 6627,
+          "source": "dhatu-kRi1340.html",
+          "anchor": "रघि लघि",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR113",
+      "batch": 6,
+      "group_id": "citation-6f75d2eabc74",
+      "citation": "labi~\\",
+      "entries": {
+        "01.0437": [
+          "Sabde"
+        ],
+        "01.0439": [
+          "avasraMsane",
+          "Sabde"
+        ]
+      },
+      "headword": "lab",
+      "outcome": "merge_shared_meanings",
+      "decision": "Count the repeated sound assignment once; the second heading adds falling/slipping with ca, retaining the earlier sound meaning.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0437",
+            "Sabde"
+          ],
+          "members": [
+            [
+              "01.0437",
+              "Sabde"
+            ],
+            [
+              "01.0439",
+              "Sabde"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA241.html",
+          "anchor": "रबि लबि अबि शब्दे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA242.html",
+          "anchor": "लबि अवस्रंसने च",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA241.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA241.html",
+          "accessed_utc": "2026-09-12T16:21:34.010070+00:00",
+          "sha256": "5525a06947e82eb54f08ee19b6301995801a42b30c1fc1423af376fd0415ae57",
+          "bytes": 1826,
+          "source": "dhatu-mA241.html",
+          "anchor": "रबि लबि अबि शब्दे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA242.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA242.html",
+          "accessed_utc": "2026-09-12T16:21:34.192229+00:00",
+          "sha256": "9ebd27ab3df8db78e57d0fa830f019cc3172d158b0a86e2d5340c0167a9846da",
+          "bytes": 592,
+          "source": "dhatu-mA242.html",
+          "anchor": "लबि अवस्रंसने च",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 2,
+      "reduction": 1
+    },
+    {
+      "id": "IR114",
+      "batch": 6,
+      "group_id": "citation-c0ab1de47264",
+      "citation": "laja~",
+      "entries": {
+        "01.0271": [
+          "Barjane"
+        ],
+        "10.0016": [
+          "apavAraRe"
+        ]
+      },
+      "headword": "laj",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain roasting and covering. The covering entry also records laj as an alternative to jal.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA138.html",
+          "anchor": "लज लजि भर्जने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1141.html",
+          "anchor": "लज इति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA138.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA138.html",
+          "accessed_utc": "2026-09-12T16:21:27.195895+00:00",
+          "sha256": "ee9ca394387799a81d614719a752b3e669500dcb1295b24e6b33a5f9c715fd1b",
+          "bytes": 428,
+          "source": "dhatu-mA138.html",
+          "anchor": "लज लजि भर्जने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1141.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1141.html",
+          "accessed_utc": "2026-09-12T16:21:11.100772+00:00",
+          "sha256": "c54b865f53a4186a11f1adab41ca7fe62736ec113159b7a925aabd53275a582a",
+          "bytes": 636,
+          "source": "dhatu-mA1141.html",
+          "anchor": "लज इति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR115",
+      "batch": 6,
+      "group_id": "citation-9fc4a25854ea",
+      "citation": "laji~",
+      "entries": {
+        "01.0272": [
+          "Barjane"
+        ],
+        "10.0048": [
+          "hiMsAyAm",
+          "balAdAne",
+          "niketane"
+        ],
+        "10.0315": [
+          "BAzAyAm"
+        ],
+        "10.0465": [
+          "prakASane"
+        ]
+      },
+      "headword": "laj",
+      "outcome": "open",
+      "decision": "Keep the meanings provisional. The later prakashana entry overlaps a competing shining reading of the speech group; treating all these as separate or identical needs source-specific resolution.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-kRi1439.html",
+          "anchor": "लजि प्रकाशने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1322.html",
+          "anchor": "प्राकाशे लञ्जयतीति कथादौ",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-kRi1174.html",
+          "anchor": "हिंसा,बलादान,निकेतनेषु",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Resolve speech versus shining/prakashana and the luj/laj variant in the harming group. Do not collapse roasting or the independently stated additional meanings.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-kRi1439.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1439.html",
+          "accessed_utc": "2026-09-12T16:20:52.994802+00:00",
+          "sha256": "d3f1eeeeb8d2b0ce0554c9264e464a31fb0b8dc881faf2704e0f118517a1f617",
+          "bytes": 557,
+          "source": "dhatu-kRi1439.html",
+          "anchor": "लजि प्रकाशने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1322.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1322.html",
+          "accessed_utc": "2026-09-12T15:42:29.741483+00:00",
+          "sha256": "7e6a3b62f141b36172bdc656c9b92d59612a568824a5ffbd055ee88ba8d13926",
+          "bytes": 4002,
+          "source": "dhatu-mA1322.html",
+          "anchor": "प्राकाशे लञ्जयतीति कथादौ",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-kRi1174.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1174.html",
+          "accessed_utc": "2026-09-12T16:20:48.497149+00:00",
+          "sha256": "3d5f4f1fa5a60dd2cadefc3b723214cfa1e937eabec34afc60c52c63d751490c",
+          "bytes": 1138,
+          "source": "dhatu-kRi1174.html",
+          "anchor": "हिंसा,बलादान,निकेतनेषु",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 6,
+      "after": 6,
+      "reduction": 0
+    },
+    {
+      "id": "IR116",
+      "batch": 6,
+      "group_id": "citation-d71db5b0bdec",
+      "citation": "lakza~",
+      "entries": {
+        "10.0006": [
+          "darSane",
+          "aNkane"
+        ],
+        "10.0219": [
+          "Alocane"
+        ]
+      },
+      "headword": "lakz",
+      "outcome": "open",
+      "decision": "Seeing, marking, and alocana are separately headed but closely related. The cross-reference does not by itself tell us whether alocana is a distinct meaning.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA1136.html",
+          "anchor": "लक्ष दर्शन,अङ्कनयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1269.html",
+          "anchor": "शम लक्ष आलोचने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Compare examples of darshana and alocana before combining any assignments; preserve marking.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1136.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1136.html",
+          "accessed_utc": "2026-09-12T16:21:10.443600+00:00",
+          "sha256": "2fd4b57ef738c7daea9030eba3126717cef08df6396be53d40eafe965ff68211",
+          "bytes": 1260,
+          "source": "dhatu-mA1136.html",
+          "anchor": "लक्ष दर्शन,अङ्कनयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1269.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1269.html",
+          "accessed_utc": "2026-09-12T16:21:20.470540+00:00",
+          "sha256": "3dd37466436ea6ef1532ae3aab9969a8d006eb0130e5fa02fab37c40f1cb87a0",
+          "bytes": 594,
+          "source": "dhatu-mA1269.html",
+          "anchor": "शम लक्ष आलोचने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 3,
+      "reduction": 0
+    },
+    {
+      "id": "IR117",
+      "batch": 6,
+      "group_id": "citation-38a9f747dfdd",
+      "citation": "lala~",
+      "entries": {
+        "01.0416": [
+          "vilAse"
+        ],
+        "10.0210": [
+          "IpsAyAm"
+        ]
+      },
+      "headword": "lal",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain playfulness and desire; the source records separate uses and a disagreement about the lal reading.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "लड विलासे । १.४१६ लल इत्येके ईप्सायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1261.html",
+          "anchor": "लल ईप्सायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA230.html",
+          "anchor": "लल ईप्सायामिति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "The pinned bhvadi assignment inherits vilasa, while the other patha explicitly supplies ipsa for the lal alternative. Reconcile that difference before testing a shared-desire merger.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatupatha-sanskritdocuments.html",
+          "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+          "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+          "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+          "bytes": 147148,
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "लड विलासे । १.४१६ लल इत्येके ईप्सायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1261.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1261.html",
+          "accessed_utc": "2026-09-12T16:21:20.068099+00:00",
+          "sha256": "6abb56dc1263dcc8548142f377018b7464cbf3b5910075621288b49c12cc1b59",
+          "bytes": 634,
+          "source": "dhatu-mA1261.html",
+          "anchor": "लल ईप्सायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA230.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA230.html",
+          "accessed_utc": "2026-09-12T16:21:33.175217+00:00",
+          "sha256": "6c55024c8bcb3adfe6e4cf0dd6c9ae5463f3e8140e45af34e0254aff0cda572f",
+          "bytes": 863,
+          "source": "dhatu-mA230.html",
+          "anchor": "लल ईप्सायामिति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR118",
+      "batch": 6,
+      "group_id": "citation-023fb3d36e88",
+      "citation": "laqa~",
+      "entries": {
+        "01.0415": [
+          "vilAse"
+        ],
+        "01.0926": [
+          "vilAse",
+          "jihvonmaTane"
+        ],
+        "10.0010": [
+          "upasevAyAm"
+        ]
+      },
+      "headword": "laq",
+      "outcome": "open",
+      "decision": "The ghatadi entry is explained through tongue movement, while the pinned list also assigns it vilasa. Leave the two vilasa assignments provisional until that attribution is checked.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA230.html",
+          "anchor": "लड विलासे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA230.html",
+          "anchor": "जिह्वोन्मथने घटादौ",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1138.html",
+          "anchor": "लड उपसेवायाम्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Locate evidence that the ghatadi record retains vilasa as a meaning, rather than being a citation repeated only for tongue movement.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA230.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA230.html",
+          "accessed_utc": "2026-09-12T16:21:33.175217+00:00",
+          "sha256": "6c55024c8bcb3adfe6e4cf0dd6c9ae5463f3e8140e45af34e0254aff0cda572f",
+          "bytes": 863,
+          "source": "dhatu-mA230.html",
+          "anchor": "लड विलासे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA230.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA230.html",
+          "accessed_utc": "2026-09-12T16:21:33.175217+00:00",
+          "sha256": "6c55024c8bcb3adfe6e4cf0dd6c9ae5463f3e8140e45af34e0254aff0cda572f",
+          "bytes": 863,
+          "source": "dhatu-mA230.html",
+          "anchor": "जिह्वोन्मथने घटादौ",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1138.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1138.html",
+          "accessed_utc": "2026-09-12T16:21:10.665746+00:00",
+          "sha256": "ffb9f4cd0828376cd261fe82bee11f5a54dca5d1dc351fd522df2958a93c81bc",
+          "bytes": 458,
+          "source": "dhatu-mA1138.html",
+          "anchor": "लड उपसेवायाम्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 4,
+      "after": 4,
+      "reduction": 0
+    },
+    {
+      "id": "IR119",
+      "batch": 6,
+      "group_id": "citation-b9c48220e9cf",
+      "citation": "lasa~",
+      "entries": {
+        "01.0811": [
+          "SlezaRe",
+          "krIqane"
+        ],
+        "10.0253": [
+          "Silpayoge"
+        ]
+      },
+      "headword": "las",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain joining, playing, and skilled craft activity; the commentary expressly distinguishes the earlier meanings.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA431.html",
+          "anchor": "लस श्लेषण,क्रीडनयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1298.html",
+          "anchor": "लस शिल्पयोगे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA431.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA431.html",
+          "accessed_utc": "2026-09-12T16:21:39.800617+00:00",
+          "sha256": "a817ba02fc254de06909d7792aeb2c4eefd3822b36eb7576f4632c345b900e41",
+          "bytes": 1046,
+          "source": "dhatu-mA431.html",
+          "anchor": "लस श्लेषण,क्रीडनयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1298.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1298.html",
+          "accessed_utc": "2026-09-12T16:21:23.285455+00:00",
+          "sha256": "aec44bb465a39672e7669ef24f4e367e8fed96a1d7340a218c6e5af9a8a877b4",
+          "bytes": 656,
+          "source": "dhatu-mA1298.html",
+          "anchor": "लस शिल्पयोगे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 3,
+      "reduction": 0
+    },
+    {
+      "id": "IR120",
+      "batch": 6,
+      "group_id": "citation-1ac627cb20f5",
+      "citation": "lawa~",
+      "entries": {
+        "01.0335": [
+          "bAlye"
+        ],
+        "10.0359": [
+          "BAzAyAm"
+        ]
+      },
+      "headword": "law",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain childlike behavior and speech; no shared word-meaning is established.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA183.html",
+          "anchor": "लट बाल्ये",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-XA1374.html",
+          "anchor": "पट पुट लट लुट",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA183.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA183.html",
+          "accessed_utc": "2026-09-12T16:21:30.161554+00:00",
+          "sha256": "f35568db6f5e057f75595c123c8401fce4d2e46da54f4519a91f7cf7ece9f534",
+          "bytes": 674,
+          "source": "dhatu-mA183.html",
+          "anchor": "लट बाल्ये",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-XA1374.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1374.html",
+          "accessed_utc": "2026-09-12T16:20:39.507101+00:00",
+          "sha256": "388178e2174a6d333f910453efe9ae8d0b5e2f2b88c65681e3e20e52b5d3e1d9",
+          "bytes": 5290,
+          "source": "dhatu-XA1374.html",
+          "anchor": "पट पुट लट लुट",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR121",
+      "batch": 6,
+      "group_id": "citation-def7adc67b7b",
+      "citation": "ligi~",
+      "entries": {
+        "01.0165": [
+          "gatO"
+        ],
+        "10.0267": [
+          "citrIkaraRe"
+        ]
+      },
+      "headword": "lig",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain movement and making varied/marked; the latter commentary identifies movement separately.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA1308.html",
+          "anchor": "लिगि चित्रीकरणे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1308.html",
+          "anchor": "गतौ च शपि",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1308.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1308.html",
+          "accessed_utc": "2026-09-12T16:21:23.703052+00:00",
+          "sha256": "f51165f2d0deb00efcbdbd4db177d52d38050906f27053ad9881cd807405ceee",
+          "bytes": 475,
+          "source": "dhatu-mA1308.html",
+          "anchor": "लिगि चित्रीकरणे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1308.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1308.html",
+          "accessed_utc": "2026-09-12T16:21:23.703052+00:00",
+          "sha256": "f51165f2d0deb00efcbdbd4db177d52d38050906f27053ad9881cd807405ceee",
+          "bytes": 475,
+          "source": "dhatu-mA1308.html",
+          "anchor": "गतौ च शपि",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR122",
+      "batch": 6,
+      "group_id": "citation-9bc57b449d48",
+      "citation": "luBa~",
+      "entries": {
+        "04.0153": [
+          "gArdDye"
+        ],
+        "06.0025": [
+          "vimohane"
+        ]
+      },
+      "headword": "luB",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain desire and confounding. Madhaviya explicitly defines them differently and gives meaning-conditioned grammatical treatment.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA874.html",
+          "anchor": "गार्ध्यमाकाङ्क्षा",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA929.html",
+          "anchor": "विमोहनमाकुलीकरणम्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA874.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA874.html",
+          "accessed_utc": "2026-09-12T16:21:59.400770+00:00",
+          "sha256": "16fb517bfae33b78841c48fe636df8f925e0c7289ab88fbc1ae6be25d2b48a87",
+          "bytes": 1589,
+          "source": "dhatu-mA874.html",
+          "anchor": "गार्ध्यमाकाङ्क्षा",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA929.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA929.html",
+          "accessed_utc": "2026-09-12T16:22:02.131759+00:00",
+          "sha256": "6d70bac0b4613e628e00ec7950929eda77daf724d7f4b76f4898005fce17ef64",
+          "bytes": 1239,
+          "source": "dhatu-mA929.html",
+          "anchor": "विमोहनमाकुलीकरणम्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR123",
+      "batch": 6,
+      "group_id": "citation-721545db4933",
+      "citation": "luWa~",
+      "entries": {
+        "01.0390": [
+          "upaGAte"
+        ],
+        "04.0134": [
+          "viloqane"
+        ],
+        "06.0110": [
+          "saMSlezaRe"
+        ]
+      },
+      "headword": "luW",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain injury, stirring, and joining; preserve the commentary's aspiration and citation variants.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA213.html",
+          "anchor": "रुठ लुठ उठ उपघाते",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-XA1033.html",
+          "anchor": "लुठ संश्लेषणे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "लुठ इत्येके",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Reconcile vilodana/pratighata variants at the fourth-class location before refining that meaning.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA213.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA213.html",
+          "accessed_utc": "2026-09-12T16:21:32.061869+00:00",
+          "sha256": "33a0fc65fed5f2cf9b026efc3a344577593990493a650210466b8b7232614d8c",
+          "bytes": 1690,
+          "source": "dhatu-mA213.html",
+          "anchor": "रुठ लुठ उठ उपघाते",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-XA1033.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1033.html",
+          "accessed_utc": "2026-09-12T16:20:35.958675+00:00",
+          "sha256": "7bd2d8930bb2acb3dd7b9f5a132591c1432da7df82c1ab74532fb1369939c373",
+          "bytes": 432,
+          "source": "dhatu-XA1033.html",
+          "anchor": "लुठ संश्लेषणे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatupatha-sanskritdocuments.html",
+          "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+          "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+          "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+          "bytes": 147148,
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "लुठ इत्येके",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 3,
+      "reduction": 0
+    },
+    {
+      "id": "IR124",
+      "batch": 6,
+      "group_id": "citation-c2ee813903a4",
+      "citation": "luWi~",
+      "entries": {
+        "01.0374": [
+          "steye"
+        ],
+        "01.0398": [
+          "Alasye",
+          "pratiGAte"
+        ],
+        "01.0401": [
+          "gatO"
+        ]
+      },
+      "headword": "luW",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain stealing, laziness, obstruction, and movement. The movement repetition is explicitly explained as a difference of meaning.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA206.html",
+          "anchor": "रुठि लुठि स्तेये",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA218.html",
+          "anchor": "आलस्ये, प्रतिघाते च",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA220.html",
+          "anchor": "अर्थभेदात्पुनः पाठो",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA206.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA206.html",
+          "accessed_utc": "2026-09-12T16:21:31.638204+00:00",
+          "sha256": "04142940336fb4eee14e46850141380076fab49305e0346984783338eb354fc4",
+          "bytes": 882,
+          "source": "dhatu-mA206.html",
+          "anchor": "रुठि लुठि स्तेये",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA218.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA218.html",
+          "accessed_utc": "2026-09-12T16:21:32.525061+00:00",
+          "sha256": "a1a679e0a2836659d8776ec406627e2b53d5374db6dc3b338178d2473d1306ec",
+          "bytes": 494,
+          "source": "dhatu-mA218.html",
+          "anchor": "आलस्ये, प्रतिघाते च",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA220.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA220.html",
+          "accessed_utc": "2026-09-12T16:21:32.767921+00:00",
+          "sha256": "69e5e78e7c0177b10d6d9e33fb54388a0877f4d0636487fd9fd03bc0a2cf7fe5",
+          "bytes": 610,
+          "source": "dhatu-mA220.html",
+          "anchor": "अर्थभेदात्पुनः पाठो",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 4,
+      "after": 4,
+      "reduction": 0
+    },
+    {
+      "id": "IR125",
+      "batch": 6,
+      "group_id": "citation-8c3802451575",
+      "citation": "lubi~",
+      "entries": {
+        "01.0493": [
+          "ardane"
+        ],
+        "10.0159": [
+          "adarSane"
+        ]
+      },
+      "headword": "lub",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain ardana and nonappearance under the chosen readings. Madhaviya explicitly explains why a different meaning makes both entries useful.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA266.html",
+          "anchor": "लुबि तुबि अर्दने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1235.html",
+          "anchor": "त्त्वर्थभेदात्सोपि सार्थकः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Retain Maitreya's ardana reading of the later entry; it could support a reading-specific consolidation, not deletion of the adarshana alternative.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA266.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA266.html",
+          "accessed_utc": "2026-09-12T16:21:34.869673+00:00",
+          "sha256": "e644e0e6803b80b344fbd229c90accb5b622b6d8ffa3b2dddf01a5135eb08957",
+          "bytes": 599,
+          "source": "dhatu-mA266.html",
+          "anchor": "लुबि तुबि अर्दने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1235.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1235.html",
+          "accessed_utc": "2026-09-12T16:21:16.909629+00:00",
+          "sha256": "ec18ae16ec7e7e4ae1c7628b92b81d0ca5c52d73f047b51877ef1d3da8b996db",
+          "bytes": 902,
+          "source": "dhatu-mA1235.html",
+          "anchor": "त्त्वर्थभेदात्सोपि सार्थकः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR126",
+      "batch": 6,
+      "group_id": "citation-c4989d9b630d",
+      "citation": "luji~",
+      "entries": {
+        "10.0049": [
+          "hiMsAyAm",
+          "balAdAne",
+          "niketane"
+        ],
+        "10.0289": [
+          "BAzAyAm"
+        ]
+      },
+      "headword": "luj",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain harming, forceful taking, lodging, and speaking; keep the alternative shining interpretation of the last group.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-kRi1174.html",
+          "anchor": "तुजि पिजि लुजि हिंसा,बलादान,निकेतनेषु",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1321.html",
+          "anchor": "लुजि",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-kRi1174.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1174.html",
+          "accessed_utc": "2026-09-12T16:20:48.497149+00:00",
+          "sha256": "3d5f4f1fa5a60dd2cadefc3b723214cfa1e937eabec34afc60c52c63d751490c",
+          "bytes": 1138,
+          "source": "dhatu-kRi1174.html",
+          "anchor": "तुजि पिजि लुजि हिंसा,बलादान,निकेतनेषु",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1321.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1321.html",
+          "accessed_utc": "2026-09-12T15:25:46.272990+00:00",
+          "sha256": "b62ce420581bdad1fa175c0fa883f78071249181757423528b8cc181e86eab6c",
+          "bytes": 7096,
+          "source": "dhatu-mA1321.html",
+          "anchor": "लुजि",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 4,
+      "after": 4,
+      "reduction": 0
+    },
+    {
+      "id": "IR127",
+      "batch": 6,
+      "group_id": "citation-064bf4f986b9",
+      "citation": "luwa~",
+      "entries": {
+        "01.0351": [
+          "viloqane"
+        ],
+        "04.0133": [
+          "viloqane"
+        ],
+        "06.0109": [
+          "saMSlezaRe"
+        ],
+        "10.0284": [
+          "BAzAyAm"
+        ]
+      },
+      "headword": "luw",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate the two stirring meanings. Madhaviya explicitly places this use in both bhvadi and divadi. Keep joining and speech separately.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0351",
+            "viloqane"
+          ],
+          "members": [
+            [
+              "01.0351",
+              "viloqane"
+            ],
+            [
+              "04.0133",
+              "viloqane"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA196.html",
+          "anchor": "अयं दिवादावपि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA862.html",
+          "anchor": "लुट विलोडने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA990.html",
+          "anchor": "लोटति लुट्यतीति विलोडने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA196.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA196.html",
+          "accessed_utc": "2026-09-12T16:21:30.773881+00:00",
+          "sha256": "6962ae54a61fc84bd8addac0f4aa709dcb04f2efd32651c3c7302b991e6f837a",
+          "bytes": 1562,
+          "source": "dhatu-mA196.html",
+          "anchor": "अयं दिवादावपि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA862.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA862.html",
+          "accessed_utc": "2026-09-12T16:21:58.290891+00:00",
+          "sha256": "065289c4b9549f49a130ab05d85b6b13edf997c85c5327e6c73bed052c757ef1",
+          "bytes": 762,
+          "source": "dhatu-mA862.html",
+          "anchor": "लुट विलोडने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA990.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA990.html",
+          "accessed_utc": "2026-09-12T16:22:07.018495+00:00",
+          "sha256": "294511f3e88bef6f00cd4fb813fb5541388b0b75b197f87aa5ef38a584f72fec",
+          "bytes": 900,
+          "source": "dhatu-mA990.html",
+          "anchor": "लोटति लुट्यतीति विलोडने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 4,
+      "after": 3,
+      "reduction": 1
+    },
+    {
+      "id": "IR128",
+      "batch": 6,
+      "group_id": "citation-1eb0ada3f672",
+      "citation": "mA\\N",
+      "entries": {
+        "03.0007": [
+          "mAne",
+          "Sabde"
+        ],
+        "04.0037": [
+          "mAne"
+        ]
+      },
+      "headword": "mA",
+      "outcome": "open",
+      "decision": "The fourth-class ma entry is a contested listing, and the discussion distinguishes several ma atoms. Do not equate its mana heading with the third-class assignment merely from spelling.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA737.html",
+          "anchor": "माङ् माने, शब्दे च",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA785.html",
+          "anchor": "अयं कैश्चिदेव पठ्यते",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Resolve the fourth-class entry's identity and the meaning of mana in this passage; preserve the third-class sound use.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA737.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA737.html",
+          "accessed_utc": "2026-09-12T16:21:52.169358+00:00",
+          "sha256": "3ecc7bd81febc52d18ae2eacc23514b708051f8de93a68545ed0f3adf748513e",
+          "bytes": 5516,
+          "source": "dhatu-mA737.html",
+          "anchor": "माङ् माने, शब्दे च",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA785.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA785.html",
+          "accessed_utc": "2026-09-12T16:21:54.904942+00:00",
+          "sha256": "6cea356450d9ad0fb4e0caae35339d211c0cd55315348e67e6fc1511911d2d45",
+          "bytes": 1699,
+          "source": "dhatu-mA785.html",
+          "anchor": "अयं कैश्चिदेव पठ्यते",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 3,
+      "reduction": 0
+    },
+    {
+      "id": "IR129",
+      "batch": 6,
+      "group_id": "citation-cd8b209280bf",
+      "citation": "mAna~",
+      "entries": {
+        "10.0233": [
+          "stamBe"
+        ],
+        "10.0381": [
+          "pUjAyAm"
+        ]
+      },
+      "headword": "mAn",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain stiffness and honoring; the honoring commentary explicitly distinguishes the stambha use.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA1358.html",
+          "anchor": "मान पूजायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1358.html",
+          "anchor": "स्तम्भे मानयतइत्याकुस्मीयः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1358.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1358.html",
+          "accessed_utc": "2026-09-12T16:21:26.357351+00:00",
+          "sha256": "a9538a7dde5c46158972147a3ec2ba45162e15db1afb48b7412631b55085d694",
+          "bytes": 1051,
+          "source": "dhatu-mA1358.html",
+          "anchor": "मान पूजायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1358.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1358.html",
+          "accessed_utc": "2026-09-12T16:21:26.357351+00:00",
+          "sha256": "a9538a7dde5c46158972147a3ec2ba45162e15db1afb48b7412631b55085d694",
+          "bytes": 1051,
+          "source": "dhatu-mA1358.html",
+          "anchor": "स्तम्भे मानयतइत्याकुस्मीयः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR130",
+      "batch": 6,
+      "group_id": "citation-fe42a4701d82",
+      "citation": "mUla~",
+      "entries": {
+        "01.0607": [
+          "pratizWAyAm"
+        ],
+        "10.0092": [
+          "rohaRe"
+        ]
+      },
+      "headword": "mUl",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain being established and growing; the curadi commentary distinguishes its earlier pratishtha use.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA325.html",
+          "anchor": "मूल प्रतिष्ठायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1189.html",
+          "anchor": "मूल रोहणे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA325.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA325.html",
+          "accessed_utc": "2026-09-12T16:21:36.620033+00:00",
+          "sha256": "5f7d79a43166454bd80c076ed2c91554f9c893ff285a812d5e0a6b11baad18aa",
+          "bytes": 3407,
+          "source": "dhatu-mA325.html",
+          "anchor": "मूल प्रतिष्ठायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1189.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1189.html",
+          "accessed_utc": "2026-09-12T16:21:13.343753+00:00",
+          "sha256": "8fd01f37adef1fce123ff479e295bd894aaec8207a44a434cbf883a28d55f7b8",
+          "bytes": 449,
+          "source": "dhatu-mA1189.html",
+          "anchor": "मूल रोहणे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR131",
+      "batch": 6,
+      "group_id": "citation-974e99a18191",
+      "citation": "madI~",
+      "entries": {
+        "01.0927": [
+          "harze",
+          "glepane"
+        ],
+        "04.0105": [
+          "harze",
+          "glepane"
+        ]
+      },
+      "headword": "mad",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate joy, which is explicitly linked to ghatadi mit treatment. Keep both glepana assignments provisional until their distribution is sourced.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0927",
+            "harze"
+          ],
+          "members": [
+            [
+              "01.0927",
+              "harze"
+            ],
+            [
+              "04.0105",
+              "harze"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA849.html",
+          "anchor": "मदी हर्षे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA849.html",
+          "anchor": "मदी हर्षग्लेपनयोः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "The divadi heading here gives only joy; locate its glepana reading before consolidating that additional pair.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA849.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA849.html",
+          "accessed_utc": "2026-09-12T16:21:57.357830+00:00",
+          "sha256": "1d155c8d2f613aa9461518030fb643cd2aa552a9e2f24ee4a90eaf94e5616c13",
+          "bytes": 2644,
+          "source": "dhatu-mA849.html",
+          "anchor": "मदी हर्षे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA849.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA849.html",
+          "accessed_utc": "2026-09-12T16:21:57.357830+00:00",
+          "sha256": "1d155c8d2f613aa9461518030fb643cd2aa552a9e2f24ee4a90eaf94e5616c13",
+          "bytes": 2644,
+          "source": "dhatu-mA849.html",
+          "anchor": "मदी हर्षग्लेपनयोः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 4,
+      "after": 3,
+      "reduction": 1
+    },
+    {
+      "id": "IR132",
+      "batch": 6,
+      "group_id": "citation-8f572f32598a",
+      "citation": "manTa~",
+      "entries": {
+        "01.0048": [
+          "viloqane"
+        ],
+        "09.0047": [
+          "viloqane"
+        ]
+      },
+      "headword": "manT",
+      "outcome": "merge_shared_meanings",
+      "decision": "Count stirring once; Madhaviya explicitly links manth in bhvadi and kryadi.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0048",
+            "viloqane"
+          ],
+          "members": [
+            [
+              "01.0048",
+              "viloqane"
+            ],
+            [
+              "09.0047",
+              "viloqane"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA34.html",
+          "anchor": "अयं क्यादावपि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1113.html",
+          "anchor": "विलोडने मन्थति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA34.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA34.html",
+          "accessed_utc": "2026-09-12T16:21:37.420298+00:00",
+          "sha256": "14a0722fd023652d1a5444500c978aa118657a363f2e3a53827baf145c054606",
+          "bytes": 3516,
+          "source": "dhatu-mA34.html",
+          "anchor": "अयं क्यादावपि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1113.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1113.html",
+          "accessed_utc": "2026-09-12T16:21:08.225105+00:00",
+          "sha256": "8a4e3660354bb3346bcb29cad4034691c5a930f7b24a82fcf76992400e4f5697",
+          "bytes": 852,
+          "source": "dhatu-mA1113.html",
+          "anchor": "विलोडने मन्थति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 1,
+      "reduction": 1
+    },
+    {
+      "id": "IR133",
+      "batch": 6,
+      "group_id": "citation-8871e63db145",
+      "citation": "maqi~",
+      "entries": {
+        "01.0361": [
+          "BUzAyAm"
+        ],
+        "10.0076": [
+          "BUzAyAM",
+          "harze"
+        ]
+      },
+      "headword": "maq",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate adorning, retaining joy. Madhaviya explicitly states that the adorning form is already supplied by bhvadi, while joy has a different nich condition.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0361",
+            "BUzAyAm"
+          ],
+          "members": [
+            [
+              "01.0361",
+              "BUzAyAm"
+            ],
+            [
+              "10.0076",
+              "BUzAyAM"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA1176.html",
+          "anchor": "मडि भूषायामिति भूवादौ",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1176.html",
+          "anchor": "तेन हर्षे मण्डतीति न भवति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1176.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1176.html",
+          "accessed_utc": "2026-09-12T16:21:12.704094+00:00",
+          "sha256": "091ed6e6d0c591fc7da9d40f10a0c7873c9642c3d868940d0ec89886eb631b6f",
+          "bytes": 811,
+          "source": "dhatu-mA1176.html",
+          "anchor": "मडि भूषायामिति भूवादौ",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1176.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1176.html",
+          "accessed_utc": "2026-09-12T16:21:12.704094+00:00",
+          "sha256": "091ed6e6d0c591fc7da9d40f10a0c7873c9642c3d868940d0ec89886eb631b6f",
+          "bytes": 811,
+          "source": "dhatu-mA1176.html",
+          "anchor": "तेन हर्षे मण्डतीति न भवति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 2,
+      "reduction": 1
+    },
+    {
+      "id": "IR134",
+      "batch": 6,
+      "group_id": "citation-4ee5d4ff59a6",
+      "citation": "mfjU~",
+      "entries": {
+        "02.0061": [
+          "SudDO"
+        ],
+        "10.0386": [
+          "SOce",
+          "alaNkAre"
+        ]
+      },
+      "headword": "mfj",
+      "outcome": "merge_shared_meanings",
+      "decision": "Count the shared cleaning meaning once; the commentary directly connects shuddhi and shauca across classes. Keep adorning separately.",
+      "merges": [
+        {
+          "canonical": [
+            "02.0061",
+            "SudDO"
+          ],
+          "members": [
+            [
+              "02.0061",
+              "SudDO"
+            ],
+            [
+              "10.0386",
+              "SOce"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA716.html",
+          "anchor": "अयं शौचालङ्कारयोर्युजादिः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1363.html",
+          "anchor": "मृजू शौच,अलङ्करणयोः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA716.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA716.html",
+          "accessed_utc": "2026-09-12T16:21:51.408431+00:00",
+          "sha256": "88c5d215eb04d394b31969598ea44c4c224e26bc9d8a3dac0d10cac1b744e3c8",
+          "bytes": 9580,
+          "source": "dhatu-mA716.html",
+          "anchor": "अयं शौचालङ्कारयोर्युजादिः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1363.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1363.html",
+          "accessed_utc": "2026-09-12T16:21:26.748770+00:00",
+          "sha256": "8b6cfd9886c717c7bb5dfa9f3d78cb01d5f721ebee0fd422941ef33af27f14d3",
+          "bytes": 715,
+          "source": "dhatu-mA1363.html",
+          "anchor": "मृजू शौच,अलङ्करणयोः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 2,
+      "reduction": 1
+    },
+    {
+      "id": "IR135",
+      "batch": 6,
+      "group_id": "citation-23d4821c4b23",
+      "citation": "mfqa~",
+      "entries": {
+        "06.0053": [
+          "suKane"
+        ],
+        "09.0052": [
+          "kzode",
+          "suKe"
+        ]
+      },
+      "headword": "mfq",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate the happiness use under the explicit sukhana reading of the ninth-class entry. Keep the crushing reading separately.",
+      "merges": [
+        {
+          "canonical": [
+            "06.0053",
+            "suKane"
+          ],
+          "members": [
+            [
+              "06.0053",
+              "suKane"
+            ],
+            [
+              "09.0052",
+              "suKe"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA942.html",
+          "anchor": "मृड सुखने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA942.html",
+          "anchor": "अयं क्र्यादौ च",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-kRi1133.html",
+          "anchor": "मृड सुखने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1117.html",
+          "anchor": "मृड सुखे चेति केचित्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Preserve the competing ninth-class readings; this merger is not a claim that crushing means happiness.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA942.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA942.html",
+          "accessed_utc": "2026-09-12T16:22:03.325955+00:00",
+          "sha256": "19782b84a61114d8c0d863f1ba34d8f3c5456f76dcf142b679737429788f3859",
+          "bytes": 1124,
+          "source": "dhatu-mA942.html",
+          "anchor": "मृड सुखने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA942.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA942.html",
+          "accessed_utc": "2026-09-12T16:22:03.325955+00:00",
+          "sha256": "19782b84a61114d8c0d863f1ba34d8f3c5456f76dcf142b679737429788f3859",
+          "bytes": 1124,
+          "source": "dhatu-mA942.html",
+          "anchor": "अयं क्र्यादौ च",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-kRi1133.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1133.html",
+          "accessed_utc": "2026-09-12T16:20:47.974245+00:00",
+          "sha256": "8c46a2663c43797eec30b86a7236408b2c64604f96be67fbc717b2b83eedcfea",
+          "bytes": 635,
+          "source": "dhatu-kRi1133.html",
+          "anchor": "मृड सुखने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1117.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1117.html",
+          "accessed_utc": "2026-09-12T16:21:08.606379+00:00",
+          "sha256": "4337a05590a17d1583233b76de98e75b15643020f90450c13604b6774367b2a5",
+          "bytes": 633,
+          "source": "dhatu-mA1117.html",
+          "anchor": "मृड सुखे चेति केचित्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 2,
+      "reduction": 1
+    },
+    {
+      "id": "IR136",
+      "batch": 6,
+      "group_id": "citation-7206e9a0cf1e",
+      "citation": "mfza~^",
+      "entries": {
+        "04.0060": [
+          "titikzAyAm"
+        ],
+        "10.0387": [
+          "titikzAyAm"
+        ]
+      },
+      "headword": "mfz",
+      "outcome": "merge_shared_meanings",
+      "decision": "Count forbearance once. Both commentary treatments explicitly connect the class uses.",
+      "merges": [
+        {
+          "canonical": [
+            "04.0060",
+            "titikzAyAm"
+          ],
+          "members": [
+            [
+              "04.0060",
+              "titikzAyAm"
+            ],
+            [
+              "10.0387",
+              "titikzAyAm"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA805.html",
+          "anchor": "मृष तितिक्षायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1364.html",
+          "anchor": "इतिदिवादौ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA805.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA805.html",
+          "accessed_utc": "2026-09-12T16:21:55.747766+00:00",
+          "sha256": "669a380bd0727528abceaaed3a96d49fded0615981fa5bb2e1ff87715753b434",
+          "bytes": 2168,
+          "source": "dhatu-mA805.html",
+          "anchor": "मृष तितिक्षायाम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1364.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1364.html",
+          "accessed_utc": "2026-09-12T16:21:26.972072+00:00",
+          "sha256": "749b42290808a15f108a215f16863b07e4e07b291c52f21ab20eb00d3426fabc",
+          "bytes": 746,
+          "source": "dhatu-mA1364.html",
+          "anchor": "इतिदिवादौ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 1,
+      "reduction": 1
+    },
+    {
+      "id": "IR137",
+      "batch": 6,
+      "group_id": "citation-fc1744274178",
+      "citation": "mleCa~",
+      "entries": {
+        "01.0233": [
+          "avyakte Sabde"
+        ],
+        "10.0170": [
+          "avyaktAyAM vAci"
+        ]
+      },
+      "headword": "mleC",
+      "outcome": "merge_shared_meanings",
+      "decision": "Count the shared unclear/improper speech meaning once. The commentaries explain the two glosses and explicitly link the forms.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0233",
+            "avyakte Sabde"
+          ],
+          "members": [
+            [
+              "01.0233",
+              "avyakte Sabde"
+            ],
+            [
+              "10.0170",
+              "avyaktAyAM vAci"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA113.html",
+          "anchor": "इहाव्यक्तशब्दोस्फुटशब्दोपशब्दश्च",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1240.html",
+          "anchor": "इहाव्यक्तवागपशब्दनम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1240.html",
+          "anchor": "म्लेच्छतीति भूवादौ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA113.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA113.html",
+          "accessed_utc": "2026-09-12T16:21:10.247287+00:00",
+          "sha256": "b3c7290fdab4e0494e877b8a7a3cbf6d5e7914d64857fa970d4373c107bb9c97",
+          "bytes": 5821,
+          "source": "dhatu-mA113.html",
+          "anchor": "इहाव्यक्तशब्दोस्फुटशब्दोपशब्दश्च",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1240.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1240.html",
+          "accessed_utc": "2026-09-12T16:21:17.721018+00:00",
+          "sha256": "6622b20614a9cf4f8080e348fb5b04537bde1992d645940945dde2817040b7e2",
+          "bytes": 557,
+          "source": "dhatu-mA1240.html",
+          "anchor": "इहाव्यक्तवागपशब्दनम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1240.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1240.html",
+          "accessed_utc": "2026-09-12T16:21:17.721018+00:00",
+          "sha256": "6622b20614a9cf4f8080e348fb5b04537bde1992d645940945dde2817040b7e2",
+          "bytes": 557,
+          "source": "dhatu-mA1240.html",
+          "anchor": "म्लेच्छतीति भूवादौ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 1,
+      "reduction": 1
+    },
+    {
+      "id": "IR138",
+      "batch": 6,
+      "group_id": "citation-031194aab81f",
+      "citation": "mrakza~",
+      "entries": {
+        "01.0755": [
+          "saNGAte"
+        ],
+        "10.0168": [
+          "mlecCane"
+        ]
+      },
+      "headword": "mrakz",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain bringing together and improper speech. The later commentary defines mlecchana and identifies the earlier meaning separately.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-XA430.html",
+          "anchor": "म्रक्ष संघाते",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1239.html",
+          "anchor": "म्लेच्छनमपशब्दनम्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-XA430.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA430.html",
+          "accessed_utc": "2026-09-12T16:20:41.790934+00:00",
+          "sha256": "85e9452bdc6e93a40c30cbde37f4d7dcaaa1600d6cf7d627244da73c2f4bf691",
+          "bytes": 419,
+          "source": "dhatu-XA430.html",
+          "anchor": "म्रक्ष संघाते",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1239.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1239.html",
+          "accessed_utc": "2026-09-12T16:21:17.533557+00:00",
+          "sha256": "4173389774ad1b83189f47d33b02f1d3aa563fc9305ce88398029498206c583d",
+          "bytes": 785,
+          "source": "dhatu-mA1239.html",
+          "anchor": "म्लेच्छनमपशब्दनम्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR139",
+      "batch": 6,
+      "group_id": "citation-3e7266415765",
+      "citation": "muwa~",
+      "entries": {
+        "01.0366": [
+          "mardane"
+        ],
+        "06.0101": [
+          "Akzepe",
+          "mardane"
+        ],
+        "10.0104": [
+          "saYcUrRane"
+        ]
+      },
+      "headword": "muw",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate the two mardana assignments; preserve casting and pulverizing pending any finer semantic comparison.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0366",
+            "mardane"
+          ],
+          "members": [
+            [
+              "01.0366",
+              "mardane"
+            ],
+            [
+              "06.0101",
+              "mardane"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA984.html",
+          "anchor": "मोटतीति प्रमर्दने शपि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1198.html",
+          "anchor": "मुट सञ्चूर्णने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Mardana and sancurnana remain separately recorded; related physical effects do not prove identity.",
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA984.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA984.html",
+          "accessed_utc": "2026-09-12T16:22:06.231466+00:00",
+          "sha256": "b7afc035e3df57ce144f1ca1bbed9caf9a66ae455d5a13015f9fc42a2261feac",
+          "bytes": 531,
+          "source": "dhatu-mA984.html",
+          "anchor": "मोटतीति प्रमर्दने शपि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1198.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1198.html",
+          "accessed_utc": "2026-09-12T16:21:14.385619+00:00",
+          "sha256": "10e8bfef09b923bf8f4ce7303930dd04bf7135f0bf262bde076976328f94cf4d",
+          "bytes": 526,
+          "source": "dhatu-mA1198.html",
+          "anchor": "मुट सञ्चूर्णने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 4,
+      "after": 3,
+      "reduction": 1
+    },
+    {
+      "id": "IR140",
+      "batch": 6,
+      "group_id": "citation-e7685163a771",
+      "citation": "muza~",
+      "entries": {
+        "01.0796": [
+          "hiMsAyAm"
+        ],
+        "09.0066": [
+          "steye"
+        ]
+      },
+      "headword": "muz",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain harming and stealing; the commentary distinguishes the ninth-class stealing use.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-kRi438.html",
+          "anchor": "मुष रुष रिष हिंसार्थाः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1129.html",
+          "anchor": "मुष स्तेये",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Preserve class, pada, markers, and source-specific meaning conditions in generation.",
+      "source_records": [
+        {
+          "filename": "dhatu-kRi438.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi438.html",
+          "accessed_utc": "2026-09-12T16:20:56.199247+00:00",
+          "sha256": "772b2dc2f174dfc7a77876c8971de10696cd66b6525d9ad8eb94073ff6588f05",
+          "bytes": 2899,
+          "source": "dhatu-kRi438.html",
+          "anchor": "मुष रुष रिष हिंसार्थाः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1129.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1129.html",
+          "accessed_utc": "2026-09-12T16:21:10.005624+00:00",
+          "sha256": "ee6871b0c445abb3d3eda44d3ae5307d0fc67b680251d7f7364c4f095ec0aa25",
+          "bytes": 935,
+          "source": "dhatu-mA1129.html",
+          "anchor": "मुष स्तेये",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    }
+  ],
+  "batches": [],
+  "inputs": {
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "analysis/dhatupatha/data/dhatupatha.csv": "e491d6cd8c68e3fe455f57098ba6d6ad2762cf0882a74dd585aa45e636eb9d86",
+    "analysis/generativity/meaning_analysis.json": "7aa9235ff707a1dc396b9a39af4f49f5c3515fd88ee6d95add1cae2c86ce8b05",
+    "analysis/generativity/meaning_review.json": "12aad8e5ca50fd23f48bd8aece0fd84bdc8be96df71fce4f31e52dfa2062a04e",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_base_meanings.py": "ce8c1b8693cabb84f55a0e900d29f27ded240418efe23ac4f28412161b05c40b",
+    "analysis/generativity/read_dhatu_concordance.py": "54c133a161dee4f94c6e5afc050ce02614f7ae3a6acf8668297fb4205dc0ccc1",
+    "analysis/generativity/run_pilot.py": "3f82d96451e02338afde2e897c80e78052e1bb55d3b07aa48cd3658976e19d1a",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/review_base_identities.py": "14fb2e36a69aa1b6266480eb98a97e1d65cfe5c6006b96965b00cc3e0fbdd421"
+  },
+  "number": 6,
+  "group_ids": [
+    "IR111",
+    "IR112",
+    "IR113",
+    "IR114",
+    "IR115",
+    "IR116",
+    "IR117",
+    "IR118",
+    "IR119",
+    "IR120",
+    "IR121",
+    "IR122",
+    "IR123",
+    "IR124",
+    "IR125",
+    "IR126",
+    "IR127",
+    "IR128",
+    "IR129",
+    "IR130",
+    "IR131",
+    "IR132",
+    "IR133",
+    "IR134",
+    "IR135",
+    "IR136",
+    "IR137",
+    "IR138",
+    "IR139",
+    "IR140"
+  ],
+  "batch_number": 6
+}

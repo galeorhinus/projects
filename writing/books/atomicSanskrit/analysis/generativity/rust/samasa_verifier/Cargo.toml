@@ -1,0 +1,8 @@
+[package]
+name = "samasa-verifier"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde_json = "1"
+vidyut-prakriya = { git = "https://github.com/ambuda-org/vidyut.git", rev = "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32" }

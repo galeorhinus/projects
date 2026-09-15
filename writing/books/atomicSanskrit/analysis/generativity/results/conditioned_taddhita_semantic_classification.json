@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-13",
+  "source_rows": 1056,
+  "conditioned_candidates": 1047,
+  "candidate_rows_with_documented_english_gloss": 1013,
+  "candidate_rows_with_source_context_identifier_only": 34,
+  "distinct_candidate_contexts": 122,
+  "by_disposition": {
+    "source_conditioned_candidate": 1047,
+    "source_negative_not_admitted": 9
+  },
+  "inputs": {
+    "analysis/generativity/results/conditioned_taddhita_source_examples.csv": "92bf611132f4fc2e1077c1ae96a296fefbf9f7bf62ef80a41c5a3ca75b16c410",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-args-taddhita.rs": "e93c932c7d90be63ddc5e785513d1ae24107673c249f8eb8dcb5aa6779909cf8",
+    "analysis/generativity/classify_conditioned_taddhita_semantics.py": "83d2522691c6e43c0054a6c04248b8295a8a94d898ffa808aaf70fcc918a19ff"
+  },
+  "publication_status": "research_classification_only_not_deployed"
+}

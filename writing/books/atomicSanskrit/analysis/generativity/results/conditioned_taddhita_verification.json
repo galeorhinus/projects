@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-13",
+  "candidate_relations": 1010,
+  "verified_relations": 975,
+  "engine_mismatches_not_admitted": 35,
+  "relations_with_additional_unconditioned_engine_forms": 24,
+  "verification_policy": "The expected forms recorded by the pinned Kāśikā test must be a subset of the forms produced by Vidyut 0.4.0 without an artha filter. Extra forms are diagnostics, not extra word-meanings.",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0"
+  },
+  "inputs": {
+    "analysis/generativity/results/conditioned_taddhita_inputs.csv": "0c663dc3a62a82f970b363d1b6baf779afa7a4cc84a100ef350a59c861ed610f",
+    "analysis/generativity/verify_conditioned_taddhita_examples.py": "6b126169b990a8bc970b0e170a1b297b9edda5eeb57e1a4ac1b0c69818cd6812"
+  },
+  "publication_status": "research_verification_only_not_deployed"
+}

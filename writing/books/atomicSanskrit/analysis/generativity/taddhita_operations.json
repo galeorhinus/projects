@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-13",
+  "scope": "First broad taddhita expansion over the declared laukika nominal inventory. General relations apply to every admitted nominal word-meaning for which the pinned engine constructs a form; the descendant relation remains limited to its declared source examples.",
+  "operations": [
+    {
+      "operation_id": "state_tva",
+      "source_variant": "tva",
+      "operation_display": "त्व (tva), state or defining quality",
+      "semantic_context": "TasyaBhava",
+      "semantic_branch_id": "bhava_tva",
+      "semantic_relation": "the state or defining quality denoted by the nominal base",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": ["5.1.119"]
+    },
+    {
+      "operation_id": "state_tal",
+      "source_variant": "tal",
+      "operation_display": "तल् (tal), state or defining quality",
+      "semantic_context": "TasyaBhava",
+      "semantic_branch_id": "bhava_tal",
+      "semantic_relation": "the state or defining quality denoted by the nominal base",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": ["5.1.119"]
+    },
+    {
+      "operation_id": "possession_matup",
+      "source_variant": "matup",
+      "operation_display": "मतुप् (matup), possession",
+      "semantic_context": "TadAsyaAstiAsmin",
+      "semantic_branch_id": "possession",
+      "semantic_relation": "one or that in which the nominal referent is present",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": ["5.2.94"]
+    },
+    {
+      "operation_id": "descendant_dhak",
+      "source_variant": "Qak",
+      "operation_display": "ढक् (ḍhak), descendant",
+      "semantic_context": "TasyaApatyam",
+      "semantic_branch_id": "apatyam",
+      "semantic_relation": "a descendant or offspring of the named feminine base",
+      "eligibility_scope": "listed_nominal_ids",
+      "eligible_nominal_ids": ["declared:kunti", "declared:suparna", "declared:vinata"],
+      "rule_refs": ["4.1.92", "4.1.120"]
+    }
+  ]
+}

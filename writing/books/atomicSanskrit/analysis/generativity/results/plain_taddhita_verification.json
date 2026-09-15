@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-13",
+  "eligible_relations": 245,
+  "verified_relations": 245,
+  "fully_verified_relations": 245,
+  "relations_with_partial_variant_coverage": 0,
+  "engine_mismatches_not_admitted": 0,
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "verification_boundary": "The engine verifies formation under the named suffix. The archived rule page, not the unconditioned engine call, supplies the semantic relation.",
+  "inputs": {
+    "analysis/generativity/results/plain_taddhita_eligible_relations.csv": "ba5b0850064bbef1927c560f34007cbae57cce0c80d917b023f763f6ae270724",
+    "analysis/generativity/verify_plain_taddhita_relations.py": "679c3b62576ff1b9fc235f2eae95d19d7a7f8ba4740a10b72b5ad4b806788a1d"
+  },
+  "publication_status": "research_verification_only_not_deployed"
+}

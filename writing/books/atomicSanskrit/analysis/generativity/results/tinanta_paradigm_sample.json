@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-14",
+  "sample_dhatus": 3,
+  "semantic_cells_requested": 270,
+  "semantic_cells_locally_regenerated": 270,
+  "engine_zero_unresolved_cells": 0,
+  "engine_requests_including_two_pada_series": 540,
+  "generated_surface_variants": 394,
+  "full_rule_paths_recorded": true
+}

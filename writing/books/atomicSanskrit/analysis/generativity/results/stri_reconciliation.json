@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-13",
+  "verified_candidates": 50,
+  "additional_stri_word_meanings": 50,
+  "excluded_by_status": {
+    "engine_mismatch_not_admitted": 10,
+    "inflection_only_no_stri_derivation": 5
+  },
+  "prior_combined_bounded_word_meaning_subtotal": 4762664,
+  "combined_bounded_word_meaning_subtotal": 4762714,
+  "counting_policy": "One source-demonstrated input-to-feminine relation contributes one word-meaning. Alternative nominative forms and alternative suffix paths remain variants of that relation. No grammatical case or number cell is counted here.",
+  "inputs": {
+    "analysis/generativity/results/stri_verification.csv": "a027366173e9d1ab31d65c9970ef5407e6218a162f22db94fea13953d2ad58fb",
+    "analysis/generativity/results/conditioned_taddhita_reconciliation.json": "f55ecc9f1aac275589ec2d575008c8c8149c83d9f2e715c187a35c9b1593afea"
+  },
+  "publication_status": "bounded_research_subtotal_not_deployed"
+}

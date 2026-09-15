@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-13",
+  "rules_classified": 14,
+  "productive_broad_relations": 4,
+  "conditioned_rule_groups": 10,
+  "exposed_general_constructors": [
+    "kyac",
+    "kAmyac",
+    "kyaN"
+  ],
+  "classification_boundary": "Rules 3.1.8-3.1.11 supply four broad meaning-relations. Rules 3.1.12-3.1.21 remain tied to named sets, stated conditions, or source-demonstrated examples.",
+  "sources": [
+    {
+      "filename": "rule-3.1.8.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.8.htm",
+      "accessed_utc": "2026-09-13T13:53:00.007739+00:00",
+      "sha256": "f5c717a57eb529bd0703ffecac467c72df857d53873db0f149465dc76669ef22",
+      "bytes": 17217
+    },
+    {
+      "filename": "rule-3.1.9.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.9.htm",
+      "accessed_utc": "2026-09-13T13:53:00.008491+00:00",
+      "sha256": "4884b78052a925adf813fcc415347b44c237fce3d99976fe71a4b2e0d964cc6a",
+      "bytes": 9881
+    },
+    {
+      "filename": "rule-3.1.10.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.10.htm",
+      "accessed_utc": "2026-09-13T13:53:01.503456+00:00",
+      "sha256": "662b29a05a94753845fa3a83800d2477932ed9c1169df2d3216518a779c7b221",
+      "bytes": 5165
+    },
+    {
+      "filename": "rule-3.1.11.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.11.htm",
+      "accessed_utc": "2026-09-13T13:53:01.503753+00:00",
+      "sha256": "3be2e1840ba64b4b3dcb05b59fb84a1e996dbb9397862f87e537f66babb837e3",
+      "bytes": 50194
+    },
+    {
+      "filename": "rule-3.1.12.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.12.htm",
+      "accessed_utc": "2026-09-13T13:53:03.156506+00:00",
+      "sha256": "268dfef7ea370c805714d0e2f1721df42be80b1c2db2749ecc76f73761dc620f",
+      "bytes": 34743
+    },
+    {
+      "filename": "rule-3.1.13.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.13.htm",
+      "accessed_utc": "2026-09-13T13:53:05.668980+00:00",
+      "sha256": "78c2dc22b6f6a5c17f910fadd414099ab85e60a840c2de98f26944c62cfa2938",
+      "bytes": 9459
+    },
+    {
+      "filename": "rule-3.1.14.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.14.htm",
+      "accessed_utc": "2026-09-13T13:53:07.406694+00:00",
+      "sha256": "29ea31e6a845c97a5697a4c145acd914b7d7425d2a2caf7601ad456ffb532b78",
+      "bytes": 9856
+    },
+    {
+      "filename": "rule-3.1.15.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.15.htm",
+      "accessed_utc": "2026-09-13T13:53:09.508601+00:00",
+      "sha256": "ff9a97ddb79e4f1b6c0f29492a9249b40a6c2e3b2eddda1a894f3909dde444ce",
+      "bytes": 11720
+    },
+    {
+      "filename": "rule-3.1.16.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.16.htm",
+      "accessed_utc": "2026-09-13T13:53:10.410061+00:00",
+      "sha256": "69fe7824503aa4d2cbbd1917c4cc15e65bc5509b1fd55f767fc423a4b561175c",
+      "bytes": 5009
+    },
+    {
+      "filename": "rule-3.1.17.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.17.htm",
+      "accessed_utc": "2026-09-13T13:53:11.305172+00:00",
+      "sha256": "a607396cf04f7245a1cd40fef5f49c706a635236d12605f2c7f52422b6729d87",
+      "bytes": 4790
+    },
+    {
+      "filename": "rule-3.1.18.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.18.htm",
+      "accessed_utc": "2026-09-13T13:53:12.488098+00:00",
+      "sha256": "0dfdcf629adfe16f565c8ed49ebecefeb3b958130a067e0ea9cf36236dbfeb17",
+      "bytes": 9286
+    },
+    {
+      "filename": "rule-3.1.19.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.19.htm",
+      "accessed_utc": "2026-09-13T13:53:13.452579+00:00",
+      "sha256": "7c4dd4810e4756595bb75a4f541968b30fccdb3d4f96f0e29c1f478159126b8b",
+      "bytes": 6216
+    },
+    {
+      "filename": "rule-3.1.20.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.20.htm",
+      "accessed_utc": "2026-09-13T13:53:14.385850+00:00",
+      "sha256": "97e3be6f384bc959b76658107f5133a9334f04ccc1e38799d8928daccb789e68",
+      "bytes": 4818
+    },
+    {
+      "filename": "rule-3.1.21.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.21.htm",
+      "accessed_utc": "2026-09-13T13:53:16.113872+00:00",
+      "sha256": "b80196d2cc0b7e445e50a8e6e8a52d56c79a37b4a4dc91b40194c89215268f7b",
+      "bytes": 84041
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/namadhatu_operations.json": "55f819663b905c291a25f9ae4fe4aaf83c669a37de85e0e1eea13ccda1e54657",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "working/40_reference/sources/archive/documents/generativity-pilot/namadhatu_manifest.json": "4e68d765e957aea0eaf20b21204912fba00535260561e6cc3d6deaa9711de998",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-sanadi.rs": "228edd5e973b429657ee872f29d983ff78ae74b4b579b900fff171503cd1fc34",
+    "working/40_reference/sources/archive/documents/generativity-pilot/sutrapatha.tsv": "f2ff798707e8b8ea20dd5cf20a7bbcc4b849f0ab4d726a0a4af890ef87b7e87c",
+    "analysis/generativity/classify_namadhatu_inventory.py": "3f5328cac08c1b622e355e06bba72912a9d734901bcc05afc276b2eef62f8875"
+  },
+  "publication_status": "research_classification_only_not_deployed"
+}

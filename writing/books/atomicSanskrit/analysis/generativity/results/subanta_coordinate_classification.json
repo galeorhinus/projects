@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 3,
+  "engine_relation_coordinates": 8,
+  "engine_number_coordinates": 3,
+  "cells_per_name_meaning": 24,
+  "relation_ids": [
+    "prathama",
+    "dvitiya",
+    "trtiya",
+    "caturthi",
+    "panchami",
+    "sasthi",
+    "saptami",
+    "sambodhana"
+  ],
+  "number_ids": [
+    "eka",
+    "dvi",
+    "bahu"
+  ],
+  "primary_rule_records_verified": [
+    "1.4.102",
+    "2.3.13",
+    "2.3.18",
+    "2.3.2",
+    "2.3.28",
+    "2.3.36",
+    "2.3.46",
+    "2.3.47",
+    "2.3.49",
+    "2.3.50",
+    "4.1.2"
+  ],
+  "inputs": {
+    "analysis/generativity/subanta_operations.json": "8754ba3442462deb4689c992604901f927b6237c115a71aa7344504b2e57d33e",
+    "working/40_reference/sources/archive/documents/generativity-pilot/sutrapatha.tsv": "f2ff798707e8b8ea20dd5cf20a7bbcc4b849f0ab4d726a0a4af890ef87b7e87c"
+  }
+}

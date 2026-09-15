@@ -1,0 +1,114 @@
+compound_word_meaning_id,compound_type,input_forms_slp1,input_semantic_relation,input_class,eligible_for_nominal_operations
+a7bcb00a7838b8bc,avyaya_tatpurusha,abrAhmaRa,brAhmaRa qualified by the indeclinable naY,derived_nominal_base,true
+634ef3bdfa09a259,avyaya_tatpurusha,avfzala,vfzala qualified by the indeclinable naY,derived_nominal_base,true
+d51c7482aa4efb47,avyayibhava,AkumAram,indeclinable relation of A to kumAra,complete_indeclinable,false
+dcaf84d16f3ba6b5,avyayibhava,ApAwaliputram,indeclinable relation of A to pAwaliputra,complete_indeclinable,false
+657dfce6864d572b,avyayibhava,SAkaprati,indeclinable relation of SAka to prati,complete_indeclinable,false
+8e9cf1199096f467,avyayibhava,SalAkApari,indeclinable relation of SalAkA to pari,complete_indeclinable,false
+4be75dcbae1f3197,avyayibhava,aByagni,indeclinable relation of aBi to agni,complete_indeclinable,false
+b7caad4a02f600bf,avyayibhava,akzapari,indeclinable relation of akza to pari,complete_indeclinable,false
+20f0fa4b456db950,avyayibhava,anuvanam,indeclinable relation of anu to vana,complete_indeclinable,false
+2355404be555a285,avyayibhava,catuzpari,indeclinable relation of catus to pari,complete_indeclinable,false
+86445b349e32ffec,avyayibhava,dvimuni,indeclinable relation of dvi to muni,complete_indeclinable,false
+5e2bf300c2419b35,avyayibhava,dvipari,indeclinable relation of dvi to pari,complete_indeclinable,false
+686b5cac6957de61,avyayibhava,ekapari,indeclinable relation of eka to pari,complete_indeclinable,false
+5f2bc721dc3cf8ec,avyayibhava,pratyagni,indeclinable relation of prati to agni,complete_indeclinable,false
+c038be6b4166193c,avyayibhava,trimuni,indeclinable relation of tri to muni,complete_indeclinable,false
+2b95e5782b6fbd59,avyayibhava,tripari,indeclinable relation of tri to pari,complete_indeclinable,false
+3115b2b39324cafd,avyayibhava,yAvadamatram,indeclinable relation of yAvat to amatra,complete_indeclinable,false
+aa462d4043085255,avyayibhava,yaTADyApakam,indeclinable relation of yaTA to aDyApaka,complete_indeclinable,false
+400c276336051809,avyayibhava,yaTAvfdDam,indeclinable relation of yaTA to vfdDa,complete_indeclinable,false
+1e5790590e79c410,caturthi_tatpurusha,aSvahita,hita for aSva,derived_nominal_base,true
+090b97450caf97f7,caturthi_tatpurusha,aSvarakzita,rakzita for aSva,derived_nominal_base,true
+45f1426cbbf00ad7,caturthi_tatpurusha,aSvasuKa,suKa for aSva,derived_nominal_base,true
+2071bc4e5cd7fd1c,caturthi_tatpurusha,brAhmaRArTa,arTa for brAhmaRa,derived_nominal_base,true
+16edccd0b5ab32e6,caturthi_tatpurusha,gohita,hita for go,derived_nominal_base,true
+e366678d32677dc4,caturthi_tatpurusha,gorakzita,rakzita for go,derived_nominal_base,true
+0a91d045dfe1c411,caturthi_tatpurusha,gosuKa,suKa for go,derived_nominal_base,true
+0cb44ff2bfb8f8a6,caturthi_tatpurusha,kuRqalahiraRya,hiraRya for kuRqala,derived_nominal_base,true
+a327be965454784b,caturthi_tatpurusha,kuberabali,bali for kubera,derived_nominal_base,true
+9f6b91d1110cd34b,caturthi_tatpurusha,mahArAjabali,bali for mahArAja,derived_nominal_base,true
+4dc5251f17d506b9,caturthi_tatpurusha,yUpadAru,dAru for yUpa,derived_nominal_base,true
+740574b25cf5b7c8,dvandva,DavaKadirapalASa,Dava and Kadira and palASa together,derived_nominal_base,true
+03a0319af9658a43,dvandva,plakzanyagroDa,plakza and nyagroDa together,derived_nominal_base,true
+d513482d4b25f186,dvitiya_tatpurusha,duHKApanna,Apanna directed toward or involving duHKa,derived_nominal_base,true
+a48f8df9f06a704a,dvitiya_tatpurusha,grAmagata,gata directed toward or involving grAma,derived_nominal_base,true
+dc571b46d008d415,dvitiya_tatpurusha,kAntArAtIta,atIta directed toward or involving kAntAra,derived_nominal_base,true
+af85a395004a3408,dvitiya_tatpurusha,kazwaSrita,Srita directed toward or involving kazwa,derived_nominal_base,true
+90df0ae72b055b7f,dvitiya_tatpurusha,narakaSrita,Srita directed toward or involving naraka,derived_nominal_base,true
+2cd0e88c8288914d,dvitiya_tatpurusha,narakapatita,patita directed toward or involving naraka,derived_nominal_base,true
+afd1bb3f2fa222cf,dvitiya_tatpurusha,suKApanna,Apanna directed toward or involving suKa,derived_nominal_base,true
+e2b0eb0a0f3bae7f,dvitiya_tatpurusha,suKaprApta,prApta directed toward or involving suKa,derived_nominal_base,true
+5d7f29479174bab0,dvitiya_tatpurusha,taraNgAtyasta,atyasta directed toward or involving taraNga,derived_nominal_base,true
+d7f39ab700ccf161,dvitiya_tatpurusha,tuhinAtyasta,atyasta directed toward or involving tuhina,derived_nominal_base,true
+3f8d71b845b417be,karmadharaya,aSvakuYjara,kuYjara qualified or identified by aSva,derived_nominal_base,true
+3b5f2352ee26c468,karmadharaya,aSvanAga,nAga qualified or identified by aSva,derived_nominal_base,true
+3a4f2a67b50e7ad7,karmadharaya,aSvavfndAraka,vfndAraka qualified or identified by aSva,derived_nominal_base,true
+a309a9263c37101b,karmadharaya,aparapuruza,puruza qualified or identified by apara,derived_nominal_base,true
+63bd946081b52deb,karmadharaya,caramapuruza,puruza qualified or identified by carama,derived_nominal_base,true
+91641b3d7697d5ae,karmadharaya,gokuYjara,kuYjara qualified or identified by go,derived_nominal_base,true
+50fa988a6b400e95,karmadharaya,gonAga,nAga qualified or identified by go,derived_nominal_base,true
+55de9b593b989ec3,karmadharaya,govfndAraka,vfndAraka qualified or identified by go,derived_nominal_base,true
+09fa737a40183661,karmadharaya,jaGanyapuruza,puruza qualified or identified by jaGanya,derived_nominal_base,true
+6023a74aa1e8e3b2,karmadharaya,maDyapuruza,puruza qualified or identified by maDya,derived_nominal_base,true
+b8f92b0aa1842e66,karmadharaya,maDyamapuruza,puruza qualified or identified by maDyama,derived_nominal_base,true
+f2d107d0d66e1f1f,karmadharaya,mahApuruza,puruza qualified or identified by mahat,derived_nominal_base,true
+0980128b795d505c,karmadharaya,pUrvapuruza,puruza qualified or identified by pUrva,derived_nominal_base,true
+a4ac82598a44d05d,karmadharaya,paramapuruza,puruza qualified or identified by parama,derived_nominal_base,true
+06bdd1a1dc92ecf1,karmadharaya,praTamapuruza,puruza qualified or identified by praTama,derived_nominal_base,true
+b7cf2c2321224e1b,karmadharaya,samAnapuruza,puruza qualified or identified by samAna,derived_nominal_base,true
+1ddb3cf861ae1a7a,karmadharaya,satpuruza,puruza qualified or identified by sat,derived_nominal_base,true
+e54272f5920cc524,karmadharaya,utkfzwapuruza,puruza qualified or identified by utkfzwa,derived_nominal_base,true
+79f04683478fea58,karmadharaya,uttamapuruza,puruza qualified or identified by uttama,derived_nominal_base,true
+0aa651bbe4f054e9,karmadharaya,vIrapuruza,puruza qualified or identified by vIra,derived_nominal_base,true
+c4459654b67a28d0,karmadharaya,yuvaKalati,Kalati qualified or identified by yuvan,derived_nominal_base,true
+d7e6aa5e7b733a6c,karmadharaya,yuvajarati,jarati qualified or identified by yuvan,derived_nominal_base,true
+225037709dd89419,karmadharaya,yuvapalita,palita qualified or identified by yuvan,derived_nominal_base,true
+61e321a972af4e8b,karmadharaya,yuvavalina,valina qualified or identified by yuvan,derived_nominal_base,true
+855ab7ff1fde249e,panchami_tatpurusha,cOraBaya,Baya from or because of cOra,derived_nominal_base,true
+3f8cc4de38a06104,panchami_tatpurusha,cakramukta,mukta from or because of cakra,derived_nominal_base,true
+a831aa0a80a03488,panchami_tatpurusha,dasyuBaya,Baya from or because of dasyu,derived_nominal_base,true
+115eeeb7ca4de3a2,panchami_tatpurusha,kalpanApoQa,apoQa from or because of kalpanA,derived_nominal_base,true
+63378c7d173e605d,panchami_tatpurusha,suKApeta,apeta from or because of suKa,derived_nominal_base,true
+a6a7da42e6fd02e3,panchami_tatpurusha,svargapatita,patita from or because of svarga,derived_nominal_base,true
+ddfb0a4b14a74dd2,panchami_tatpurusha,taraNgApatrasta,apatrasta from or because of taraNga,derived_nominal_base,true
+7ab546ec009c3e62,panchami_tatpurusha,vfkaBI,BI from or because of vfka,derived_nominal_base,true
+29aa3b7a0649db69,panchami_tatpurusha,vfkaBIta,BIta from or because of vfka,derived_nominal_base,true
+709a5557b1efe892,panchami_tatpurusha,vfkaBIti,BIti from or because of vfka,derived_nominal_base,true
+a0817ce5fa98b4a7,panchami_tatpurusha,vfkaBaya,Baya from or because of vfka,derived_nominal_base,true
+9b10cfb6fe407148,samahara_dvandva,vAgdfzada,the collection of vAc and dfzad,derived_nominal_base,true
+ea4436b53a25d8fd,samahara_dvandva,vAktvaca,the collection of vAc and tvac,derived_nominal_base,true
+2118140a10bc5542,saptami_tatpurusha,AtapaSuzka,Suzka in or upon Atapa,derived_nominal_base,true
+2f66d7a56441d700,saptami_tatpurusha,CAyASuzka,Suzka in or upon CAyA,derived_nominal_base,true
+900a37da3d14165b,saptami_tatpurusha,akzaDUrta,DUrta in or upon akza,derived_nominal_base,true
+dac372e73bfa9a5a,saptami_tatpurusha,akzaSORqa,SORqa in or upon akza,derived_nominal_base,true
+0675190bd75887e4,saptami_tatpurusha,akzakitava,kitava in or upon akza,derived_nominal_base,true
+2b3238ed43bfa220,saptami_tatpurusha,cakrabanDa,banDa in or upon cakra,derived_nominal_base,true
+f1a0e0a926665776,saptami_tatpurusha,kAmpilyasidDa,sidDa in or upon kAmpilya,derived_nominal_base,true
+5a00a8d6d8a0ef51,saptami_tatpurusha,kumBIpakva,pakva in or upon kumBI,derived_nominal_base,true
+b8be5a7d36eacf45,saptami_tatpurusha,sANkASyasidDa,sidDa in or upon sANkASya,derived_nominal_base,true
+4b989f8d5afc068b,saptami_tatpurusha,sTAlIpakva,pakva in or upon sTAlI,derived_nominal_base,true
+0c032f2cdcba8a13,saptami_tatpurusha,tIrTaDvANkza,DvANkza in or upon tIrTa,derived_nominal_base,true
+7bf5bf8e1daf2990,sasthi_tatpurusha,brAhmaRakambala,kambala of brAhmaRa,derived_nominal_base,true
+c3ec9bf61a1aca10,sasthi_tatpurusha,rAjapuruza,puruza of rAjan,derived_nominal_base,true
+7265feac4a674195,trtiya_tatpurusha,AcAraSlakzRa,"SlakzRa by, with, or through AcAra",derived_nominal_base,true
+4111626665d2f4cd,trtiya_tatpurusha,AcAranipuRa,"nipuRa by, with, or through AcAra",derived_nominal_base,true
+97fe2ff0670b6d26,trtiya_tatpurusha,DAnyArTa,"arTa by, with, or through DAnya",derived_nominal_base,true
+43924775654af11c,trtiya_tatpurusha,SaNkulAKaRqa,"KaRqa by, with, or through SaNkulA",derived_nominal_base,true
+9af582d1978ed7c7,trtiya_tatpurusha,ahihata,"hata by, with, or through ahi",derived_nominal_base,true
+94f26116c9b8117a,trtiya_tatpurusha,asikalaha,"kalaha by, with, or through asi",derived_nominal_base,true
+66d4a19e2403c332,trtiya_tatpurusha,daDyodana,"odana by, with, or through daDi",derived_nominal_base,true
+3619be7fbec42d44,trtiya_tatpurusha,guqamiSra,"miSra by, with, or through guqa",derived_nominal_base,true
+b263fa2fa4ad3559,trtiya_tatpurusha,kArzApaRona,"Una by, with, or through kArzApaRa",derived_nominal_base,true
+bb0ac255baf4d458,trtiya_tatpurusha,kirikARa,"kARa by, with, or through kiri",derived_nominal_base,true
+3ff720d254fedb1f,trtiya_tatpurusha,kzIrOdana,"odana by, with, or through kzIra",derived_nominal_base,true
+ee9961d3dc486a2a,trtiya_tatpurusha,mASona,"Una by, with, or through mASa",derived_nominal_base,true
+1af544dba1c50dab,trtiya_tatpurusha,mAsapUrva,"pUrva by, with, or through mAsa",derived_nominal_base,true
+17febe498f99d2c0,trtiya_tatpurusha,mAtfsadfSa,"sadfSa by, with, or through mAtf",derived_nominal_base,true
+bf1f9b7cee3322e3,trtiya_tatpurusha,mAtfsama,"sama by, with, or through mAtf",derived_nominal_base,true
+f968844b26669db5,trtiya_tatpurusha,paraSucCinna,"Cinna by, with, or through paraSu",derived_nominal_base,true
+ebc0595e6c35edef,trtiya_tatpurusha,pitfsadfSa,"sadfSa by, with, or through pitf",derived_nominal_base,true
+d5d89f742f3021aa,trtiya_tatpurusha,saMvatsarapUrva,"pUrva by, with, or through saMvatsara",derived_nominal_base,true
+274e037c5eeef16c,trtiya_tatpurusha,tilamiSra,"miSra by, with, or through tila",derived_nominal_base,true
+aba51ff49527c3d6,trtiya_tatpurusha,vAkkalaha,"kalaha by, with, or through vAc",derived_nominal_base,true
+59785e3b6cfee0ce,trtiya_tatpurusha,vANnipuRa,"nipuRa by, with, or through vAc",derived_nominal_base,true

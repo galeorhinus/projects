@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-13",
+  "candidate_relations": 24,
+  "verified_relations": 24,
+  "relations_with_partial_variant_coverage": 2,
+  "engine_mismatches_not_admitted": 0,
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "inputs": {
+    "analysis/generativity/results/suffix_conditioned_relations.csv": "8d4a6b29b7cc5dc013a1945b479dfb29e070c9c42a6a34c9d4a25224c8845a53",
+    "analysis/generativity/verify_suffix_conditioned_relations.py": "531f5c3c51c683e6c492ec764cabfba5d117c098b25ed0a1497305414c1f1cff"
+  },
+  "publication_status": "research_verification_only_not_deployed"
+}

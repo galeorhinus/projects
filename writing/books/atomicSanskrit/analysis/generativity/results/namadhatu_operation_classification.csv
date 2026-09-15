@@ -1,0 +1,15 @@
+operation_id,operation_scope,constructor,rule_ref,rule_text_slp1,semantic_relation,count_status
+self_desire_kyac,productive_broad_relation,kyac,3.1.8,supa AtmanaH kyac,desire the nominal referent in relation to oneself,admitted_for_eligibility_pass
+self_desire_kamyac,productive_broad_relation,kAmyac,3.1.9,kAmyacca,desire the nominal referent in relation to oneself,admitted_for_eligibility_pass
+object_comparison_kyac,productive_broad_relation,kyac,3.1.10,upamAnAdAcAre,treat an object as comparable to the nominal referent,admitted_for_eligibility_pass
+agent_comparison_kyang,productive_broad_relation,kyaN,3.1.11,kartuH kyaN salopaSca,act like the nominal referent,admitted_for_eligibility_pass
+conditioned_3_1_12,source_conditioned_relation,rule_supplied_or_source_selected,3.1.12,BfSAdiByo BuvyacverlopaSca halaH,one or more relations restricted by the rule's named inputs and conditions,requires_source_example_eligibility
+conditioned_3_1_13,source_conditioned_relation,rule_supplied_or_source_selected,3.1.13,lohitAdiqAjByaH kyaz,one or more relations restricted by the rule's named inputs and conditions,requires_source_example_eligibility
+conditioned_3_1_14,source_conditioned_relation,rule_supplied_or_source_selected,3.1.14,kazwAya kramaRe,one or more relations restricted by the rule's named inputs and conditions,requires_source_example_eligibility
+conditioned_3_1_15,source_conditioned_relation,rule_supplied_or_source_selected,3.1.15,karmaRo romanTatapoByAM varticaroH,one or more relations restricted by the rule's named inputs and conditions,requires_source_example_eligibility
+conditioned_3_1_16,source_conditioned_relation,rule_supplied_or_source_selected,3.1.16,bAzpozmaByAmudvamane,one or more relations restricted by the rule's named inputs and conditions,requires_source_example_eligibility
+conditioned_3_1_17,source_conditioned_relation,rule_supplied_or_source_selected,3.1.17,SabdavErakalahABrakaRvameGeByaH karaRe,one or more relations restricted by the rule's named inputs and conditions,requires_source_example_eligibility
+conditioned_3_1_18,source_conditioned_relation,rule_supplied_or_source_selected,3.1.18,suKAdiByaH kartfvedanAyAm,one or more relations restricted by the rule's named inputs and conditions,requires_source_example_eligibility
+conditioned_3_1_19,source_conditioned_relation,rule_supplied_or_source_selected,3.1.19,namovarivaScitraNaH kyac,one or more relations restricted by the rule's named inputs and conditions,requires_source_example_eligibility
+conditioned_3_1_20,source_conditioned_relation,rule_supplied_or_source_selected,3.1.20,pucCaBARqacIvarARRiN,one or more relations restricted by the rule's named inputs and conditions,requires_source_example_eligibility
+conditioned_3_1_21,source_conditioned_relation,rule_supplied_or_source_selected,3.1.21,muRqamiSraSlakzRalavaRavratavastrahalakalakftatUsteByo Ric,one or more relations restricted by the rule's named inputs and conditions,requires_source_example_eligibility

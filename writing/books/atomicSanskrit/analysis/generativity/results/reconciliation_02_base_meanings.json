@@ -1,0 +1,312 @@
+{
+  "date": "2026-09-13",
+  "status": "applied",
+  "current_provisional_assignments": 2645,
+  "baseline": 2649,
+  "vocabulary_total": null,
+  "preserved_source_rows": 2741,
+  "decisions": [
+    {
+      "case": "R02-03",
+      "members": [
+        [
+          "01.0985",
+          "calane"
+        ],
+        [
+          "04.0102",
+          "anavasTAne"
+        ]
+      ],
+      "before": 2649,
+      "after": 2648,
+      "evidence": [
+        {
+          "source": "dhatu-kRi865.html",
+          "anchor": "अनवस्थानं देशान्तरगमनम्",
+          "role": "Defines the formerly unclear gloss as movement from place to place.",
+          "record": {
+            "filename": "dhatu-kRi865.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi865.html",
+            "accessed_utc": "2026-09-13T03:33:04.245992+00:00",
+            "sha256": "234b95310e3f4a63a5c973d24fa2e74b695633edeece2cfe34a26bcb12b2e365",
+            "bytes": 833
+          }
+        },
+        {
+          "source": "dhatu-kRi546.html",
+          "anchor": "दिवादौ (498) शमाद्यर्थः पाठः",
+          "role": "Explicit grammatical reason for the repeated listing.",
+          "record": {
+            "filename": "dhatu-kRi546.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi546.html",
+            "accessed_utc": "2026-09-13T03:33:03.696663+00:00",
+            "sha256": "01d03a52b84154df32f0b94c80adf20f1b5485218ed87ca5f93797737ddd0456",
+            "bytes": 1243
+          }
+        },
+        {
+          "source": "dhatu-kRi865.html",
+          "anchor": "भ्वादौ भ्रमु चलने",
+          "role": "Fourth-class commentary identifies the first-class counterpart.",
+          "record": {
+            "filename": "dhatu-kRi865.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi865.html",
+            "accessed_utc": "2026-09-13T03:33:04.245992+00:00",
+            "sha256": "234b95310e3f4a63a5c973d24fa2e74b695633edeece2cfe34a26bcb12b2e365",
+            "bytes": 833
+          }
+        },
+        {
+          "source": "dhatu-XA558.html",
+          "anchor": "भ्राम्यतीति शमादिपाठात्",
+          "role": "Corroborates the effect of the shamadi listing on the form.",
+          "record": {
+            "filename": "dhatu-XA558.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA558.html",
+            "accessed_utc": "2026-09-13T03:33:03.966371+00:00",
+            "sha256": "9ed77710f3785a7713df7323c46f1e9ef0b41ec14d03c59fbb13bee13a68699b",
+            "bytes": 952
+          }
+        }
+      ]
+    },
+    {
+      "case": "R02-06",
+      "members": [
+        [
+          "01.0928",
+          "Sabde"
+        ],
+        [
+          "01.0962",
+          "Sabde"
+        ]
+      ],
+      "before": 2648,
+      "after": 2647,
+      "evidence": [
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "ज्वलादौ \"ध्वन शब्दे\" इति पठिष्यमाण एवात्र ध्वन्यात्मके अनुच्चारणजन्ये शब्दने मित्त्वार्थमनूद्यते",
+          "role": "Explicit identity and purpose in the extended commentary, not the wording of sutra 7.4.68.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "ध्वनयति घण्टामिति। शब्दायमानां करोतीत्यर्थः",
+          "role": "Concrete non-utterance example for the condition.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "अयं तु दन्त्यान्त इति भेदः",
+          "role": "Prevents collapsing a different retroflex citation.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "dhatu-XA538.html",
+          "anchor": "ध्वनति । दध्वान, दध्वनतुः, दध्वनुः । ध्वनिः",
+          "role": "Later dental dhvan listing.",
+          "record": {
+            "filename": "dhatu-XA538.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA538.html",
+            "accessed_utc": "2026-09-12T15:25:48.035220+00:00",
+            "sha256": "33b4cbc9cb30b99db163e46cb2617f57f261b9fd30d32f9af20271aa751b255b",
+            "bytes": 1761
+          }
+        }
+      ]
+    },
+    {
+      "case": "R02-10",
+      "members": [
+        [
+          "01.0815",
+          "tarjane"
+        ],
+        [
+          "06.0020",
+          "Bartsane"
+        ]
+      ],
+      "before": 2647,
+      "after": 2646,
+      "evidence": [
+        {
+          "source": "dhatu-mA924.html",
+          "anchor": "चर्चतिझर्झत्योः शपि पाठः स्वरार्थ इत्युक्तम्",
+          "role": "Explicit identity and accent-purpose statement.",
+          "record": {
+            "filename": "dhatu-mA924.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA924.html",
+            "accessed_utc": "2026-09-12T15:42:27.055734+00:00",
+            "sha256": "d8c963cd2bfdcf59b9b9ef0b1f1c7eb2671236b9be7f447d96beaf4797feb677",
+            "bytes": 1057
+          }
+        },
+        {
+          "source": "dhatu-XA459.html",
+          "anchor": "चर्च झर्झ इत्येतौ तुदादवपि पठ्येते । इह तु स्वरार्थं पठितौ",
+          "role": "Corroborates the repeated atom and gives santarjana in the heading.",
+          "record": {
+            "filename": "dhatu-XA459.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA459.html",
+            "accessed_utc": "2026-09-12T16:20:42.278009+00:00",
+            "sha256": "179e74c127f889f5838ca2cd0c9f9bca41a0f682380a6cfef537ae6e4af263e8",
+            "bytes": 969
+          }
+        },
+        {
+          "source": "dhatu-mA127.html",
+          "anchor": "तर्ज भर्त्सने",
+          "role": "Direct cross-gloss within the atom commentary tradition.",
+          "record": {
+            "filename": "dhatu-mA127.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA127.html",
+            "accessed_utc": "2026-09-12T16:21:20.654576+00:00",
+            "sha256": "ce866948108e98071bf6d88c8af102a34a5d1c4fbc11a8860f73cfc15ffcdd77",
+            "bytes": 470
+          }
+        },
+        {
+          "source": "dhatu-mA1257.html",
+          "anchor": "तर्ज भर्त्स सन्तर्जने",
+          "role": "The two descriptive verbs share the santarjana gloss; their different word identities remain separate.",
+          "record": {
+            "filename": "dhatu-mA1257.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1257.html",
+            "accessed_utc": "2026-09-12T16:21:19.705129+00:00",
+            "sha256": "1392b7c8500de4f339dc22a06667320b3fe7359f755ff6dbd6bce43a38e7357f",
+            "bytes": 711
+          }
+        },
+        {
+          "source": "dhatu-mA433.html",
+          "anchor": "झर्झ परिभाषण,हिंसा,तर्जनेषु",
+          "role": "Harming remains an independently listed assignment and is not swallowed by this merger.",
+          "record": {
+            "filename": "dhatu-mA433.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA433.html",
+            "accessed_utc": "2026-09-12T15:42:26.751279+00:00",
+            "sha256": "139d33282325ffc67474a6372e51d61e3b81ac72ed7ad6d828ee2ac605794427",
+            "bytes": 1083
+          }
+        }
+      ]
+    },
+    {
+      "case": "R02-05",
+      "target": [
+        "01.1115",
+        "avabanDane"
+      ],
+      "classification": "unresolved_source_reading",
+      "before": 2646,
+      "after": 2645,
+      "evidence": [
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.१११५ धृङ् अवध्वंसने",
+          "role": "Numbered first-class entry.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        },
+        {
+          "source": "dhatupatha-svara-sanskritdocuments.html",
+          "anchor": "१.१११५ धृ॒ङ् अव॒ध्वंस॑ने",
+          "role": "Accented transcription agrees; not claimed as an independent manuscript witness.",
+          "record": {
+            "filename": "dhatupatha-svara-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha_svara.html",
+            "accessed_utc": "2026-09-13T03:36:37.735493+00:00",
+            "sha256": "fa92e0a502096e3b86dbee4fbfe7abeb9847e2e898bdfb4aca9a28a92934ee96",
+            "bytes": 167529
+          }
+        },
+        {
+          "source": "dhatu-mA610.html",
+          "anchor": "धृङ् अवध्वंसने",
+          "role": "Madhaviya's heading.",
+          "record": {
+            "filename": "dhatu-mA610.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA610.html",
+            "accessed_utc": "2026-09-12T15:25:46.811896+00:00",
+            "sha256": "5de3cb67a25df06aa780015b5c830235e463f0f1e2764e6b4ebb7c45e6d1a7e2",
+            "bytes": 450
+          }
+        },
+        {
+          "source": "dhatu-kRi636.html",
+          "anchor": "धृङ् अवध्वंसने",
+          "role": "Kshiratarangini's heading.",
+          "record": {
+            "filename": "dhatu-kRi636.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi636.html",
+            "accessed_utc": "2026-09-13T03:33:04.691976+00:00",
+            "sha256": "dccfa2a920dd83574c804c10a998643ffb1b20bff8f0f179d99ac35b634e1daf",
+            "bytes": 1216
+          }
+        },
+        {
+          "source": "dhatu-XA649.html",
+          "anchor": "धृङ् अवध्वंसने",
+          "role": "Dhatupradipa's heading.",
+          "record": {
+            "filename": "dhatu-XA649.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA649.html",
+            "accessed_utc": "2026-09-13T03:33:04.970321+00:00",
+            "sha256": "565a1d7eff6f23588a88b98ffeee593b1b03e4a3418492b6ecaed571a3ab96cb",
+            "bytes": 423
+          }
+        },
+        {
+          "source": "dhatu-XA1066.html",
+          "anchor": "धृङ् अवस्थाने - ध्रियते",
+          "role": "The remaining/staying entry is retained separately.",
+          "record": {
+            "filename": "dhatu-XA1066.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1066.html",
+            "accessed_utc": "2026-09-13T03:33:05.206760+00:00",
+            "sha256": "6995dbbfddddba30bef05d9c1ed991ccd144acd5231f9ecd4ba46cafa567f389",
+            "bytes": 691
+          }
+        }
+      ]
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/reconciliation_review_01.json": "5d31c2e90937fe5528d94ab37516ff4c1c6c19242cdaab20bcf6a75a1279378c",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/results/base_meanings.json": "30172ba60026a93745e1cf51e0c49bdb71ef0c2bc0f0955d3e7ad61c612f9fd4",
+    "analysis/generativity/results/base_meaning_assignments.csv": "4ee3401c434004984c9e4469566519c104190cd00a12dcdc924550fd1fb651be",
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "approved_reconciliation": "7bede88557c33c1d5bf17c76b0a832ccda7a8712ba5b278e1bb72e0deeca709c",
+    "followup_review": "66ca8cc84652986832429261451117774ac140dae5164d9550084948d525b4d5",
+    "approval_02": "0ea974881ec6246a5218137dc6e608abaf78905bda2281932a93f95032f7e765"
+  }
+}

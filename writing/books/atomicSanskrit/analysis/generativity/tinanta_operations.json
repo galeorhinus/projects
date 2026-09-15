@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-14",
+  "scope": "Kartari tinanta capacity over the current laukika verbal word-meaning inventory. Inflectional cells are counted separately from lexical meanings and surface variants.",
+  "laukika_lakaras": [
+    {"id": "lat", "vidyut": "Lat", "display": "लट् (laṭ)", "plain_function": "present", "principal_rule_refs": ["3.2.123"]},
+    {"id": "lit", "vidyut": "Lit", "display": "लिट् (liṭ)", "plain_function": "perfect past", "principal_rule_refs": ["3.2.115"]},
+    {"id": "lut", "vidyut": "Lut", "display": "लुट् (luṭ)", "plain_function": "periphrastic future", "principal_rule_refs": ["3.3.15"]},
+    {"id": "lrt", "vidyut": "Lrt", "display": "लृट् (lṛṭ)", "plain_function": "future", "principal_rule_refs": ["3.3.13"]},
+    {"id": "lot", "vidyut": "Lot", "display": "लोट् (loṭ)", "plain_function": "command or request", "principal_rule_refs": ["3.3.162"]},
+    {"id": "lan", "vidyut": "Lan", "display": "लङ् (laṅ)", "plain_function": "imperfect past", "principal_rule_refs": ["3.2.111"]},
+    {"id": "vidhilin", "vidyut": "VidhiLin", "display": "विधिलिङ् (vidhiliṅ)", "plain_function": "possibility, prescription, or intention", "principal_rule_refs": ["3.3.161"]},
+    {"id": "ashirlin", "vidyut": "AshirLin", "display": "आशीर्लिङ् (āśīrliṅ)", "plain_function": "blessing or wish", "principal_rule_refs": ["3.3.173"]},
+    {"id": "lun", "vidyut": "Lun", "display": "लुङ् (luṅ)", "plain_function": "aorist past", "principal_rule_refs": ["3.2.110"]},
+    {"id": "lrn", "vidyut": "Lrn", "display": "लृङ् (lṛṅ)", "plain_function": "conditional", "principal_rule_refs": ["3.3.139"]}
+  ],
+  "vaidika_lakara_withheld": {
+    "id": "let",
+    "vidyut": "Let",
+    "display": "लेट् (leṭ)",
+    "reason": "Leṭ belongs to the Vaidika domain and does not enter the ten-lakara laukika capacity."
+  },
+  "citation_coordinate": {
+    "purusha": "Prathama",
+    "vacana": "Eka",
+    "plain_description": "third-person singular",
+    "cells_per_lakara": 1
+  },
+  "full_person_number_matrix": {
+    "purushas": ["Prathama", "Madhyama", "Uttama"],
+    "vacanas": ["Eka", "Dvi", "Bahu"],
+    "cells_per_lakara": 9
+  },
+  "prayoga": "Kartari",
+  "pada_policy": "Parasmaipada and Atmanepada outputs are alternatives attached to the same semantic grammatical cell. They do not create an automatic x2 multiplier.",
+  "attestation_required": false,
+  "engine_zero_policy": "An engine zero in a sample records an implementation gap or unavailable path; it does not prove a grammatical prohibition."
+}

@@ -1,0 +1,60 @@
+# Synthesis Pass 4: Manuscript Claim Audit
+
+## Chapter 0 §0.6
+
+[manuscript/as_1_00_seekers.md](../../../manuscript/as_1_00_seekers.md#L181)
+
+These operations give a finite inventory enormous reach. A bounded reconstruction conducted for this book begins with 2,634 recorded meanings carried by Sanskrit's semantic atoms. Before inflection, the operations tested so far generate 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings. When the ordinary-language portion passes through the declared verb and noun matrices, it occupies 602,707,133 grammatical cells. The count stops before unrestricted recursive compounding, which has no fixed ceiling. Chapter 12 explains each stage of the calculation.[NOTE: sanskrit-generative-wordspace]
+
+## Chapter 12 §12.7
+
+[manuscript/as_1_12_building_vakya.md](../../../manuscript/as_1_12_building_vakya.md#L207)
+
+The scale of this generativity can now be followed from operation to operation. The reconstruction begins with 2,634 recorded meanings carried by Sanskrit's semantic atoms. Prefixes and verbal transformations raise the count beyond 1.3 million. Sanskrit then turns those verbal meanings into actions, agents, instruments, qualities, obligations, and other kinds of meaning. Further operations express state, possession, descent, origin, comparison, negation, and bounded compounds. Before inflection begins, the resulting inventory contains 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings.
+
+The लौकिक (*laukika*) portion divides into three familiar Sanskrit categories:
+
+- **4,540,848 क्रियार्थाः (*kriyārthāḥ*)**, meanings of actions and processes;
+- **8,084,287 नामार्थाः (*nāmārthāḥ*)**, meanings that name people, things, qualities, states, and relations; and
+- **7,925 अव्ययानि (*avyayāni*)**, complete words whose forms do not change.
+
+The क्रियार्थाः (*kriyārthāḥ*) can appear across ten settings of time and mood, three grammatical persons, and three numbers. The नामार्थाः (*nāmārthāḥ*) can appear across eight grammatical relations and three numbers. Under these declared matrices, the ordinary-language inventory occupies 602,707,133 grammatical cells.[NOTE: sanskrit-generative-wordspace]
+
+This gives Bṛhaspati's thousand divine years a numerical scale. Even a deliberately bounded reconstruction passes six hundred million cells before unrestricted recursive compounding begins. A dictionary can record words that speakers have already used. It cannot reach the end of Sanskrit's generative capacity.
+
+## Endnote `sanskrit-generative-wordspace`
+
+[manuscript/as_endnotes.md](../../../manuscript/as_endnotes.md#L2357)
+
+### `sanskrit-generative-wordspace`
+
+<!-- SOURCE-RECORDS
+- project-generativity-capacity-synthesis | reconciled lexical, verbal-inflection, nominal-inflection, and integrated-capacity reports
+- project-dhatupatha-csv | original project inventory behind the earlier baseline
+- generativity-vidyut-040-pilot | pinned engine, source inventory, rule snapshots, checksums, and generated derivation paths
+-->
+
+**Short:** A reproducible reconstruction begins with 2,634 reconciled धातुः (*dhātuḥ*) meanings and generates 12,846,458 bounded शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings, before inflection. The 12,633,060 लौकिक (*laukika*) meanings then occupy 602,707,133 semantic grammatical cells under the declared verb and noun matrices. The 213,398 Vedic meanings remain a separate lexical inventory.
+
+**Deployments:** Chapter 0 §0.6; Chapter 12 §12.7.
+
+The bounded lexical inventory divides into three लौकिक meaning classes:
+
+- **4,540,848 क्रियार्थाः (*kriyārthāḥ*)**, action and process meanings. Ten settings of time and mood, three grammatical persons, and three numbers produce **408,676,320** cells: 4,540,848 × 10 × 3 × 3.
+- **8,084,287 नामार्थाः (*nāmārthāḥ*)**, meanings naming people, things, qualities, states, and relations. In the technical count these are प्रातिपदिकार्थाः (*prātipadikārthāḥ*), meanings carried by nominal bases. Eight grammatical relations and three numbers produce **194,022,888** cells: 8,084,287 × 8 × 3.
+- **7,925 अव्ययानि (*avyayāni*)**, complete words whose forms do not change. Each contributes one cell.
+
+The integrated लौकिक capacity is therefore **408,676,320 + 194,022,888 + 7,925 = 602,707,133 semantic grammatical cells**. The calculation replaces each lexical input with its grammatical matrix; it does not add the 12,633,060 inputs again. A repeated spelling remains attached to every distinct meaning and grammatical coordinate it expresses.
+
+The count is bounded by design. The verbal matrix covers ten लौकिक settings of time and mood in कर्तरि (*kartari*) construction. The nominal matrix covers eight relations and three numbers, with gender treated as an output property rather than an automatic multiplier. Vedic inflection, कर्मणि (*karmaṇi*), भावे (*bhāve*), further agreement-driven gender forms, and unrestricted recursive compounding remain outside this total.
+
+Local regeneration verifies ninety verbal citation cells, 270 complete verbal sample cells, eight nominal citation cells, and 192 complete nominal sample cells with rule histories. The full capacities are calculated from the reconciled meaning inventories and declared coordinate matrices; hundreds of millions of rows are not materialized merely to repeat the same arithmetic.
+
+This number does not claim that Sanskrit has 602,707,133 distinct spellings or that a dictionary records that many entries. It measures the semantic and grammatical capacity reached by the operations included in the model. The separate compound experiment demonstrates why unrestricted compounding cannot provide a finite upper limit.
+
+## Findings
+
+- The approved count cascade is present in Chapter 0 and Chapter 12.
+- The supporting endnote carries the reconciled arithmetic, scope, and exclusions.
+- The obsolete 20,942,880-slot count has no remaining manuscript occurrence.
+- The Chapter 0 deployment points to the current §0.6.

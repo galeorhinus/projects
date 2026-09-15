@@ -1,0 +1,430 @@
+{
+  "date": "2026-09-13",
+  "status": "applied",
+  "current_provisional_assignments": 2634,
+  "baseline": 2645,
+  "vocabulary_total": null,
+  "preserved_source_rows": 2741,
+  "decisions": [
+    {
+      "case": "IR43",
+      "before": 2645,
+      "after": 2644,
+      "evidence": [
+        {
+          "source": "dhatu-kRi1304.html",
+          "anchor": "बुक्कयति श्वा भ्वादौ (187) बुक्कति",
+          "role": "Dog example and explicit cross-class link.",
+          "record": {
+            "filename": "dhatu-kRi1304.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1304.html",
+            "accessed_utc": "2026-09-13T04:03:52.078249+00:00",
+            "sha256": "8f6b443971cf52b1ac2221470e61e892b29419e5214cf0b803fe7a28831792ca",
+            "bytes": 457
+          }
+        },
+        {
+          "source": "dhatu-mA80.html",
+          "anchor": "भषणमिह श्वरवः",
+          "role": "Earlier meaning expressly defined as a dog's sound.",
+          "record": {
+            "filename": "dhatu-mA80.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA80.html",
+            "accessed_utc": "2026-09-12T16:01:14.935055+00:00",
+            "sha256": "a69adb65560f4922583e426b68d657ee2d1c2462c05125932f59734e69c4092d",
+            "bytes": 581
+          }
+        }
+      ]
+    },
+    {
+      "case": "IR51",
+      "before": 2644,
+      "after": 2643,
+      "evidence": [
+        {
+          "source": "dhatu-mA433.html",
+          "anchor": "पाठः स्वरार्थ",
+          "role": "Accent explains the repeated carc record.",
+          "record": {
+            "filename": "dhatu-mA433.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA433.html",
+            "accessed_utc": "2026-09-12T15:42:26.751279+00:00",
+            "sha256": "139d33282325ffc67474a6372e51d61e3b81ac72ed7ad6d828ee2ac605794427",
+            "bytes": 1083
+          }
+        },
+        {
+          "source": "dhatu-mA924.html",
+          "anchor": "परिभाषण,भर्त्सनयोः",
+          "role": "Matching later list.",
+          "record": {
+            "filename": "dhatu-mA924.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA924.html",
+            "accessed_utc": "2026-09-12T15:42:27.055734+00:00",
+            "sha256": "d8c963cd2bfdcf59b9b9ef0b1f1c7eb2671236b9be7f447d96beaf4797feb677",
+            "bytes": 1057
+          }
+        },
+        {
+          "source": "dhatu-kRi1303.html",
+          "anchor": "चर्चयति वेदम्",
+          "role": "Independent study example.",
+          "record": {
+            "filename": "dhatu-kRi1303.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1303.html",
+            "accessed_utc": "2026-09-13T04:03:56.083639+00:00",
+            "sha256": "7569bd11a26ca12f243084ea7a7bf7c4102e5302da0b5d703521aca1c449267e",
+            "bytes": 747
+          }
+        }
+      ]
+    },
+    {
+      "case": "IR68",
+      "before": 2643,
+      "after": 2642,
+      "evidence": [
+        {
+          "source": "dhatu-kRi350.html",
+          "anchor": "स्रवणेऽपि अनेकार्थत्वात्",
+          "role": "Flowing expressly added to the earlier entry.",
+          "record": {
+            "filename": "dhatu-kRi350.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi350.html",
+            "accessed_utc": "2026-09-13T04:03:59.297832+00:00",
+            "sha256": "dd43c6bd204b44805090f5f70c434befa3fb142417826a4c43808f9128a60bff",
+            "bytes": 717
+          }
+        },
+        {
+          "source": "dhatu-kRi350.html",
+          "anchor": "चुरादौ गल स्रावणे",
+          "role": "Direct later-entry link.",
+          "record": {
+            "filename": "dhatu-kRi350.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi350.html",
+            "accessed_utc": "2026-09-13T04:03:59.297832+00:00",
+            "sha256": "dd43c6bd204b44805090f5f70c434befa3fb142417826a4c43808f9128a60bff",
+            "bytes": 717
+          }
+        }
+      ]
+    },
+    {
+      "case": "IR72",
+      "before": 2642,
+      "after": 2641,
+      "evidence": [
+        {
+          "source": "dhatu-kRi1130.html",
+          "anchor": "संदर्भो बन्धनम्",
+          "role": "Direct definition in the ninth-class entry.",
+          "record": {
+            "filename": "dhatu-kRi1130.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1130.html",
+            "accessed_utc": "2026-09-13T04:03:59.750831+00:00",
+            "sha256": "8f79ed9a4f277760de657881faf5fe6e51bd9e5eaca7a5875c9cbb036bb5003a",
+            "bytes": 605
+          }
+        },
+        {
+          "source": "dhatu-kRi1368.html",
+          "anchor": "संदर्भो बन्धनम्",
+          "role": "Same definition in the later tenth-class pair.",
+          "record": {
+            "filename": "dhatu-kRi1368.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1368.html",
+            "accessed_utc": "2026-09-13T04:04:00.278698+00:00",
+            "sha256": "0fcbc91ef3a81398abb7e0fc7180e13d975927d0c3c017072273b24fde95b91b",
+            "bytes": 942
+          }
+        },
+        {
+          "source": "dhatu-mA1342.html",
+          "anchor": "ग्रन्थ बन्धने",
+          "role": "The remaining binding heading.",
+          "record": {
+            "filename": "dhatu-mA1342.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1342.html",
+            "accessed_utc": "2026-09-12T16:21:26.175152+00:00",
+            "sha256": "6f4fc1d8b251ab4f8b9f50dae5571788696f2e34865d02bb5b799f2476420e01",
+            "bytes": 1077
+          }
+        }
+      ]
+    },
+    {
+      "case": "IR116",
+      "before": 2641,
+      "after": 2640,
+      "evidence": [
+        {
+          "source": "dhatu-kRi1152.html",
+          "anchor": "आत्मनेपदार्थः पाठः",
+          "role": "Explicit grammatical purpose of the repeat.",
+          "record": {
+            "filename": "dhatu-kRi1152.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1152.html",
+            "accessed_utc": "2026-09-13T04:04:08.164553+00:00",
+            "sha256": "ba46b79aa70b01958d0036bca43eb2ca47752d3ac302b6a0c7337857aca5194f",
+            "bytes": 944
+          }
+        },
+        {
+          "source": "dhatu-kRi1288.html",
+          "anchor": "लक्षयति घटम्",
+          "role": "Concrete seeing example.",
+          "record": {
+            "filename": "dhatu-kRi1288.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1288.html",
+            "accessed_utc": "2026-09-13T04:04:08.534943+00:00",
+            "sha256": "123eccc2c3200fe8d74e2108748383a9c8627ede7ed74a60344ffd7ac8d3418e",
+            "bytes": 877
+          }
+        },
+        {
+          "source": "dhatu-mA1269.html",
+          "anchor": "दर्शनाङ्कनयोर्लक्षयति, लक्षयते इति गतम्",
+          "role": "Back-reference to the earlier entry.",
+          "record": {
+            "filename": "dhatu-mA1269.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1269.html",
+            "accessed_utc": "2026-09-12T16:21:20.470540+00:00",
+            "sha256": "3dd37466436ea6ef1532ae3aab9969a8d006eb0130e5fa02fab37c40f1cb87a0",
+            "bytes": 594
+          }
+        }
+      ]
+    },
+    {
+      "case": "IR118",
+      "before": 2640,
+      "after": 2639,
+      "evidence": [
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "एवं च धातुभेदाऽभावात्सर्वथैव मित्त्वकार्यं भवति",
+          "role": "Extended Bala-manorama discussion, not the sutra itself: no different atom.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "लाडयति पुत्रमिति",
+          "role": "Vilasa example retained outside the restricted treatment.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        }
+      ]
+    },
+    {
+      "case": "IR131",
+      "before": 2639,
+      "after": 2638,
+      "evidence": [
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "ग्लेपनं दैन्यमिति",
+          "role": "Extended Bala-manorama meaning explanation, not sutra wording.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "तथा च श्यन्विकरण एवाऽयमिति भावः",
+          "role": "Explicitly retains the divadi formation.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "dhatu-mA849.html",
+          "anchor": "घटादिपाठान्मित्त्वम्",
+          "role": "Independent grammatical connection.",
+          "record": {
+            "filename": "dhatu-mA849.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA849.html",
+            "accessed_utc": "2026-09-12T16:21:57.357830+00:00",
+            "sha256": "1d155c8d2f613aa9461518030fb643cd2aa552a9e2f24ee4a90eaf94e5616c13",
+            "bytes": 2644
+          }
+        }
+      ]
+    },
+    {
+      "case": "IR160",
+      "before": 2638,
+      "after": 2637,
+      "evidence": [
+        {
+          "source": "dhatu-kRi290.html",
+          "anchor": "रण-मण-क्वणां गतौ मित्त्वं स्मर्यते",
+          "role": "Explicit movement restriction on the sound-group atom.",
+          "record": {
+            "filename": "dhatu-kRi290.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi290.html",
+            "accessed_utc": "2026-09-13T04:04:15.508856+00:00",
+            "sha256": "47bc4f2ae9ff4eb1bc0a2eae042bec380156cefbdaf96c3f66a895810856f46a",
+            "bytes": 4236
+          }
+        },
+        {
+          "source": "dhatu-kRi290.html",
+          "anchor": "रणयति, अन्यत्र राणयति",
+          "role": "Contrasting grammatical treatment.",
+          "record": {
+            "filename": "dhatu-kRi290.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi290.html",
+            "accessed_utc": "2026-09-13T04:04:15.508856+00:00",
+            "sha256": "47bc4f2ae9ff4eb1bc0a2eae042bec380156cefbdaf96c3f66a895810856f46a",
+            "bytes": 4236
+          }
+        },
+        {
+          "source": "dhatu-kRi513.html",
+          "anchor": "कण रण गतौ",
+          "role": "Restricted ghatadi heading.",
+          "record": {
+            "filename": "dhatu-kRi513.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi513.html",
+            "accessed_utc": "2026-09-13T04:04:15.932024+00:00",
+            "sha256": "17d8ed317c33470643eed010cb20599f564a9b2a3c38edcab7ede01e35fe76c4",
+            "bytes": 543
+          }
+        }
+      ]
+    },
+    {
+      "case": "IR166",
+      "before": 2637,
+      "after": 2636,
+      "evidence": [
+        {
+          "source": "dhatu-kRi438.html",
+          "anchor": "रेषति दिवादौ रिष्यति",
+          "role": "Direct link from the harming group.",
+          "record": {
+            "filename": "dhatu-kRi438.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi438.html",
+            "accessed_utc": "2026-09-12T16:20:56.199247+00:00",
+            "sha256": "772b2dc2f174dfc7a77876c8971de10696cd66b6525d9ad8eb94073ff6588f05",
+            "bytes": 2899
+          }
+        },
+        {
+          "source": "dhatu-mA869.html",
+          "anchor": "रिष हिंसायां चेति पठन्ति",
+          "role": "Harming reading recorded.",
+          "record": {
+            "filename": "dhatu-mA869.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA869.html",
+            "accessed_utc": "2026-09-12T16:21:58.535758+00:00",
+            "sha256": "b3cabe633d0b84709c615e71713b949ddf545a79b299e38ff90b716017a7ea17",
+            "bytes": 1830
+          }
+        },
+        {
+          "source": "dhatu-mA869.html",
+          "anchor": "आत्रेयमैत्रेयादयस्तु न पेठुः",
+          "role": "Other grammarians omit that entry.",
+          "record": {
+            "filename": "dhatu-mA869.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA869.html",
+            "accessed_utc": "2026-09-12T16:21:58.535758+00:00",
+            "sha256": "b3cabe633d0b84709c615e71713b949ddf545a79b299e38ff90b716017a7ea17",
+            "bytes": 1830
+          }
+        }
+      ]
+    },
+    {
+      "case": "IR219",
+      "before": 2636,
+      "after": 2634,
+      "evidence": [
+        {
+          "source": "dhatu-kRi624.html",
+          "anchor": "अदादौ (234) सौति",
+          "role": "Forward link under the shared two-meaning heading.",
+          "record": {
+            "filename": "dhatu-kRi624.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi624.html",
+            "accessed_utc": "2026-09-13T04:04:28.100324+00:00",
+            "sha256": "473149f026d1ebbf045bed62015f9a473f6f8c2660cc344e2fff9c6855083379",
+            "bytes": 606
+          }
+        },
+        {
+          "source": "dhatu-kRi713.html",
+          "anchor": "भ्वादौ (1672) सवति",
+          "role": "Reciprocal link.",
+          "record": {
+            "filename": "dhatu-kRi713.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi713.html",
+            "accessed_utc": "2026-09-13T04:04:28.536063+00:00",
+            "sha256": "90d67e6ba8f8fe0b675a29ec052f9464cb694de046916aa205d060b0c0a0bf4a",
+            "bytes": 743
+          }
+        },
+        {
+          "source": "dhatu-mA599.html",
+          "anchor": "प्रसवोऽभ्यनुज्ञा",
+          "role": "Permission explicitly defined in the first class.",
+          "record": {
+            "filename": "dhatu-mA599.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA599.html",
+            "accessed_utc": "2026-09-12T16:21:46.669982+00:00",
+            "sha256": "55a9f63bbefa1e9346a1497a6929fc030b2a8c6a4a6f5a8997e245f63a93895d",
+            "bytes": 4046
+          }
+        },
+        {
+          "source": "dhatu-mA691.html",
+          "anchor": "प्रसवोऽभ्यनुज्ञानमिति",
+          "role": "Same definition in the second class.",
+          "record": {
+            "filename": "dhatu-mA691.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA691.html",
+            "accessed_utc": "2026-09-12T16:21:49.870015+00:00",
+            "sha256": "128837d41b5f7462a9444d0a6acdb0dbb7e406219cb50ba318a682791a16a6de",
+            "bytes": 1359
+          }
+        }
+      ]
+    }
+  ],
+  "remaining_eight_pass_proposed_delta": 0,
+  "inputs": {
+    "analysis/generativity/reconciliation_review_01.json": "5d31c2e90937fe5528d94ab37516ff4c1c6c19242cdaab20bcf6a75a1279378c",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/results/base_meanings.json": "30172ba60026a93745e1cf51e0c49bdb71ef0c2bc0f0955d3e7ad61c612f9fd4",
+    "analysis/generativity/results/base_meaning_assignments.csv": "4ee3401c434004984c9e4469566519c104190cd00a12dcdc924550fd1fb651be",
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "approved_reconciliation": "7bede88557c33c1d5bf17c76b0a832ccda7a8712ba5b278e1bb72e0deeca709c",
+    "followup_review": "66ca8cc84652986832429261451117774ac140dae5164d9550084948d525b4d5",
+    "approval_02": "0ea974881ec6246a5218137dc6e608abaf78905bda2281932a93f95032f7e765",
+    "approved_eight_passes_01": "b357f78870829dd1e97a85f30b98e1ff5e8eccb8174ff36e42ef5681bc2907a8",
+    "remaining_review": "6a579463200fa14b59331845dc8bd262c1ca3b945429edc9c5d690f900a1d55e"
+  }
+}

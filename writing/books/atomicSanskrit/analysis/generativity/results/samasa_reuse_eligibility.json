@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-14",
+  "depth_one_compound_meaning_slots": 196034769247681,
+  "operations_per_compound": 10,
+  "post_compound_derivational_slots": 1960347692476810,
+  "formula": "C1 x O",
+  "maximum_compound_depth": 1,
+  "maximum_following_operations": 1,
+  "materialized_all_outputs": false,
+  "inputs": {
+    "analysis/generativity/results/samasa_capacity_eligibility.json": "3dd3c4a9c1787e96e5517e1d0f35ad55c1639b61aad7779de5d9aa5544377b7b",
+    "analysis/generativity/results/samasa_reuse_classification.json": "586534a4ad56008ca97f2ec6f0b04f0dee3eafb135debb08dc0d1b3352966167"
+  }
+}

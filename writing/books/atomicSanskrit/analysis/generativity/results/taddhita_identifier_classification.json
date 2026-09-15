@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-13",
+  "scope": "Classification of all 175 taddhita identifiers exposed by the pinned engine. Classification does not itself admit a word-meaning.",
+  "identifier_count": 175,
+  "identifiers_with_semantic_contexts": 99,
+  "identifiers_selected_by_declared_operations": 4,
+  "by_disposition": {
+    "conditioned_semantic_relation_deferred": 95,
+    "self_meaning_or_structural_relation_deferred": 42,
+    "engine_identifier_not_reached_in_archived_implementation": 34,
+    "admitted_listed_examples_only": 1,
+    "admitted_general_relation": 3
+  },
+  "semantic_context_count": 139,
+  "inputs": {
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "working/40_reference/sources/archive/documents/generativity-pilot/taddhita_manifest.json": "fa49794e95d7bcd25a07b7e728dc0487d33bace94c58a8f8c1c5d3246e44160c",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-args-taddhita.rs": "e93c932c7d90be63ddc5e785513d1ae24107673c249f8eb8dcb5aa6779909cf8",
+    "analysis/generativity/taddhita_operations.json": "927b8a95a063f9e44241c64b71d0b86882a51ea124a749cef8925097d7d03b9d",
+    "analysis/generativity/results/operation_inventory.csv": "a0b4d287fd42f2e8b4b3edaf77a51f4ed65c42978dab781a7d31ff754c7cc289",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-matvartha.rs": "c33c5b90b1955260f6b3d1fde82bafa091d45ebdaad91ee8ef6c0b998ff2444c",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-nan-snan.rs": "b5d0f288a40e175831d62fcd8359ae105e2f8208ec827c834d24521e12f46b5c",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-panchami.rs": "19c438db0053c53b64efb751bda788d333cd5c5d1933fb0e633f0eb5ca4a1776",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-pragdishiya.rs": "fd42a16673c29652e49b4924a4a6bd7a8e27131c0813cda0402951c28b2756d7",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-pragdivyatiya.rs": "2309a1aeceec8cfbd78562a08344a9a7fbca5f88394ed6a860c841b30bd26e09",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-pragghitiya.rs": "f5ee54f775cc4f23e4de5fc535800624df3bee932afc49e2981debda37c1141b",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-pragiviya.rs": "c4058fc979473f14a9f6cf2213de5b2a18d0fa31d1090666651021aa91ab1032",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-pragvahatiya.rs": "6115b6ec8891795d32a69bd7b651f8d2c067d4358c64e67b71cb0cacd1d82aba",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-pragvatiya.rs": "685bbb9a74016c2708905c8f625a2f0ef46d18d75dd9fb225942621b45082192",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-prakkritiya.rs": "93355761e91005848f7252ec1ea23b27d9d6112d6b73fb149386374ee4a348e5",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-samasanta.rs": "fab96f6837c3e45f9aff3ec1b0ec53168a86539c9a0835e9daa700b85bf19dd9",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-svarthika.rs": "371c57493d98c4a97d97ff2bfea974a42c3a66673fe1ee4c9decb307209b8ca4",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-taddhita-utils.rs": "879e25b005de3e013155163501bd96014dd5f80edf08403b26ade817a45b4d33",
+    "analysis/generativity/classify_taddhita_inventory.py": "3f703b20a644ebd41eba9fa9db7ab30549996a019ed5f9c55993c0e34dd6483d"
+  }
+}

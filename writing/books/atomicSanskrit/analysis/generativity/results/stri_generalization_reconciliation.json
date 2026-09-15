@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-14",
+  "generated_generalized_relations": 140568,
+  "confirmed_existing_word_meaning_overlaps_not_added": 2,
+  "same_spelling_cases_not_merged": 4,
+  "additional_generalized_stri_word_meanings": 140566,
+  "prior_combined_bounded_word_meaning_subtotal": 12704821,
+  "combined_bounded_word_meaning_subtotal": 12845387,
+  "overlaps": [
+    {
+      "earlier_input_slp1": "hartf",
+      "earlier_output_slp1": "hartrI",
+      "generalized_word_meaning_id": "d055af0a7947b516ac1b",
+      "source_operation_id": "agent_trc",
+      "base_count_key": "[\"01.1046\", \"meaning-a11ab7a98174\"]",
+      "disposition": "same_agent_feminine_relation_not_added_twice"
+    },
+    {
+      "earlier_input_slp1": "kartf",
+      "earlier_output_slp1": "kartrI",
+      "generalized_word_meaning_id": "63c9178076dec7457029",
+      "source_operation_id": "agent_trc",
+      "base_count_key": "[\"05.0007\", \"meaning-3bf7963ee53c\"]",
+      "disposition": "same_agent_feminine_relation_not_added_twice"
+    }
+  ],
+  "surface_matches_not_merged": [
+    {
+      "earlier_input_slp1": "cawaka",
+      "earlier_output_slp1": "cawakA",
+      "generalized_candidate_count": 2,
+      "source_operations": [
+        "blessed_agent_vun"
+      ],
+      "disposition": "same_spelling_without_same_established_meaning_retained_separately"
+    },
+    {
+      "earlier_input_slp1": "eqaka",
+      "earlier_output_slp1": "eqakA",
+      "generalized_candidate_count": 2,
+      "source_operations": [
+        "agent_nvul"
+      ],
+      "disposition": "same_spelling_without_same_established_meaning_retained_separately"
+    },
+    {
+      "earlier_input_slp1": "manda",
+      "earlier_output_slp1": "mandA",
+      "generalized_candidate_count": 6,
+      "source_operations": [
+        "agent_ac"
+      ],
+      "disposition": "same_spelling_without_same_established_meaning_retained_separately"
+    },
+    {
+      "earlier_input_slp1": "pAka",
+      "earlier_output_slp1": "pAkA",
+      "generalized_candidate_count": 3,
+      "source_operations": [
+        "blessed_agent_vun"
+      ],
+      "disposition": "same_spelling_without_same_established_meaning_retained_separately"
+    }
+  ],
+  "reconciliation_policy": "Spelling alone never establishes identity. Only the earlier कर्तृ-कर्त्री and हर्तृ-हर्त्री agent relations are confirmed overlaps. Other coincident forms retain separate meanings because their earlier source example does not establish the same derived-agent sense.",
+  "inputs": {
+    "analysis/generativity/results/stri_generalization_ledger.csv.gz": "c5c1333b497b5e8a4f4f9979e01d2ab41e553e051e23d3b22a23f60030367c22",
+    "analysis/generativity/results/stri_ledger.csv": "456596e17c3dbba58c9bb3dd834c5734d5f9370838f68742ad9cab5e9234b4df",
+    "analysis/generativity/results/taddhita_generalization_six_pass_summary.json": "0c408bd46435b2b1248f8eb1563491514c9f926257b07acadb6f8534c41fd50f",
+    "analysis/generativity/reconcile_stri_generalization.py": "e806d42ef700c6d7bb5dec46c4924cce68b1ad6be114914180f2d9e5fdf93a70"
+  },
+  "publication_status": "research_reconciliation_only_not_deployed"
+}

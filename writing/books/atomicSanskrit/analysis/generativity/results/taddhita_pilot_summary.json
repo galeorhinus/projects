@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-13",
+  "scope": "A deliberately small nominal-input inventory for testing two sourced taddhita relations. It is not a census of Sanskrit nominal bases.",
+  "nominal_input_count": 5,
+  "selected_taddhita_semantic_operations": 3,
+  "eligible_operation_candidates": 7,
+  "admitted_taddhita_word_meanings": 7,
+  "not_admitted_total": 0,
+  "admitted_by_operation": {
+    "descendant_dhak": 3,
+    "state_tal": 2,
+    "state_tva": 2
+  },
+  "prior_bounded_word_meaning_subtotal": 2174714,
+  "bounded_word_meaning_subtotal_including_pilot": 2174721,
+  "vocabulary_total": null,
+  "publication_status": "bounded_pilot_only_not_a_nominal_inventory_total",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "sources": [
+    {
+      "filename": "vidyut-args-taddhita.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/taddhita.rs",
+      "accessed_utc": "2026-09-13T05:27:01.324789+00:00",
+      "sha256": "e93c932c7d90be63ddc5e785513d1ae24107673c249f8eb8dcb5aa6779909cf8",
+      "bytes": 22600
+    },
+    {
+      "filename": "rule-4.1.92.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.92.htm",
+      "accessed_utc": "2026-09-12T16:07:37.372516+00:00",
+      "sha256": "7cfc4c9813dba4b5abcd6fafe198ba6234394a70af434fdea9ddafcd6accd1ad",
+      "bytes": 45881
+    },
+    {
+      "filename": "rule-4.1.120.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.120.htm",
+      "accessed_utc": "2026-09-12T16:07:38.512362+00:00",
+      "sha256": "bce9b9ed1d31bf3931022e0da67d21aa5835c8e8cfcd13d3c4978741ebee989b",
+      "bytes": 8016
+    },
+    {
+      "filename": "rule-5.1.119.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.119.htm",
+      "accessed_utc": "2026-09-12T16:07:40.851799+00:00",
+      "sha256": "45567a56628675149bb161297ea329137a219e75a51825bb32a165555996068c",
+      "bytes": 10377
+    },
+    {
+      "filename": "kashika_4_1.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_4_1.rs",
+      "resolved_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_4_1.rs",
+      "accessed_utc": "2026-09-12T12:29:54.654853+00:00",
+      "sha256": "080a42c99e7185dec5eda2a1bf2a8f3fc8e719bad874a6fdf7f732d7729548e4",
+      "bytes": 33473
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/nominal_taddhita_pilot.json": "fd6cb90e4f61864ee8b19a6bf1465610e8d70e59377312d49b82d69ce76b4f4e",
+    "analysis/generativity/results/sanadi_krdanta_summary.json": "cf9ffed502b3077cc2d087bfc5c5bfbdd83a8262a622ad9d358f5e960361bcc5",
+    "analysis/generativity/admission_standard.md": "f1aee832f493cbffedcbcd0138d9ef5bfa379ba2da25a65f3e231d9b336e96ff",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_nominal_taddhita_pilot.py": "32d31c1c03b2f60d4f463658b69ca5fc1f53b519b921f897053284a2796836e6"
+  }
+}

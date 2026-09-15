@@ -1,0 +1,12 @@
+axis,id,vidyut,display,plain_function,principal_rule_refs
+relation,prathama,Prathama,प्रथमा,naming or identifying the participant,2.3.46
+relation,dvitiya,Dvitiya,द्वितीया,"the object, extent, or destination",2.3.2
+relation,trtiya,Trtiya,तृतीया,"the means, instrument, or accompaniment",2.3.18
+relation,caturthi,Caturthi,चतुर्थी,"the recipient, beneficiary, or purpose",2.3.13
+relation,panchami,Panchami,पञ्चमी,"the source, separation, or comparison point",2.3.28
+relation,sasthi,Sasthi,षष्ठी,"a relation, including possession",2.3.50
+relation,saptami,Saptami,सप्तमी,"the location, setting, or topic",2.3.36
+relation,sambodhana,Sambodhana,सम्बोधनम्,direct address,2.3.47;2.3.49
+number,eka,Eka,एकम्,one,
+number,dvi,Dvi,द्वे,two,
+number,bahu,Bahu,बहूनि,more than two,

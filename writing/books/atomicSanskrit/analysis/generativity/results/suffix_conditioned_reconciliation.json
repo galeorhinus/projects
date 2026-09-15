@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-13",
+  "candidate_relations": 24,
+  "verified_relations": 24,
+  "existing_relation_overlaps_not_added": 0,
+  "engine_mismatches_not_admitted": 0,
+  "additional_suffix_word_meanings": 24,
+  "prior_combined_bounded_word_meaning_subtotal": 11116406,
+  "combined_bounded_word_meaning_subtotal": 11116430,
+  "counting_unit": "one source-conditioned input-meaning-suffix relation; output variants do not multiply it",
+  "inputs": {
+    "analysis/generativity/results/suffix_conditioned_verification.csv": "d1aa46e0d5b21742d3b1b9f765d44c1d3fde4fa606bca7570d778a0eb106afba",
+    "analysis/generativity/results/taddhita_ledger.csv.gz": "f8a0cc8a88d7b85631e71bb82c0bc36be73ddcba65d13f04807d908afe78f19d",
+    "analysis/generativity/results/conditioned_taddhita_ledger.csv": "ec2419b7dbbeeb4d113b3028502807f618f362c24f64cfe2e34ff984577db384",
+    "analysis/generativity/results/nan_reconciliation.json": "ff80a259d2f730868f7eb3c210201917e845e635d45297e886bf57b0ea3246cb",
+    "analysis/generativity/reconcile_suffix_conditioned_relations.py": "778acd827482413208b03b938fa1f53640db2e289c385103a7249dc9aff3890f"
+  },
+  "publication_status": "bounded_research_subtotal_not_deployed"
+}

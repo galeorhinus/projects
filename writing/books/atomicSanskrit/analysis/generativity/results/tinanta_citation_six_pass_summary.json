@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 6,
+  "laukika_verbal_word_meanings": 4540848,
+  "laukika_lakaras": 10,
+  "citation_semantic_cells": 45408480,
+  "sampled_recipe_classes": 8,
+  "locally_regenerated_sample_cells": 90,
+  "engine_zero_unresolved_sample_cells": 0,
+  "surface_forms_materialized_for_full_capacity": false,
+  "capacity_added_to_lexical_subtotal": false,
+  "remaining_tinanta_passes": 6,
+  "inputs": {
+    "analysis/generativity/results/tinanta_lakara_classification.json": "4c4caecfcfb6973bef155a49c8e5dfb2fef48de58144a0a826b7381fe8dc6713",
+    "analysis/generativity/results/tinanta_verbal_inventory.json": "45cff07f4230f4fecbf31c156c338719c1996c3a07e9afc18c5f7d36e30f4b2d",
+    "analysis/generativity/results/tinanta_reconstruction_classification.json": "c5c467b6d8b94e3e245d8fdc57f6e106d4743934ad53195bf56b147204ed8701",
+    "analysis/generativity/results/tinanta_citation_capacity.json": "1de73c29fc749b11deae893058111563ae53485784c9d7d6feff519fb4a10a1a",
+    "analysis/generativity/results/tinanta_citation_sample.json": "2422cf72b982da7579e7e62384d5d71a932a049be244dc96a27a9bb75863951f"
+  }
+}

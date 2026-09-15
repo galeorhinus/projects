@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-13",
+  "candidate_relations": 1010,
+  "engine_verified_relations": 975,
+  "engine_mismatches_not_admitted": 35,
+  "existing_broad_relation_overlaps_not_added": 0,
+  "additional_conditioned_taddhita_word_meanings": 975,
+  "prior_combined_bounded_word_meaning_subtotal": 4761689,
+  "combined_bounded_word_meaning_subtotal": 4762664,
+  "exclusions_by_status": {
+    "engine_mismatch_not_admitted": 35
+  },
+  "overlap_policy": "An exact input-form, semantic-context, and suffix match already represented in the broad taddhita ledger is not added again. Different word-meaning inputs sharing a spelling remain distinguishable inside the broad ledger, but the source test does not identify which such input meaning it intends.",
+  "inputs": {
+    "analysis/generativity/results/conditioned_taddhita_verification.csv": "c5666db9d0db1961fa1b774a5b8e24719364a506c27b3e137f5407d64bd80998",
+    "analysis/generativity/results/taddhita_ledger.csv.gz": "f8a0cc8a88d7b85631e71bb82c0bc36be73ddcba65d13f04807d908afe78f19d",
+    "analysis/generativity/results/taddhita_reconciliation.json": "c3d66aed9b5193dfbfc40cf070fd5010bcff7f08ecc80510e6a7f4d82463d88c",
+    "analysis/generativity/reconcile_conditioned_taddhita.py": "513036b96ac61acc80471cbe2de79d1a3cfd15c2cb9d277d86dae8e53b47ecf6"
+  },
+  "publication_status": "bounded_research_subtotal_not_deployed"
+}

@@ -1,0 +1,149 @@
+{
+  "date": "2026-09-13",
+  "scope": "One sanadi-pratyaya operation, no upasarga, applied to each pinned dhatu source entry; pratipadika-input sanadi operations deferred.",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "counting_unit": "A candidate is keyed by operation and reconciled base word-meaning. Coincident spellings do not merge different meanings; alternative generated forms remain attached to the same candidate unless separate evidence establishes different words or meanings.",
+  "current_base_word_meanings": 2634,
+  "preserved_assignment_rows": 2741,
+  "lexical_assignment_rows": 2739,
+  "source_entries_tested": 2229,
+  "source_entries_without_admitted_meaning": [
+    "01.0900",
+    "01.0930",
+    "01.0951"
+  ],
+  "verbal_operations": [
+    {
+      "operation_id": "causative",
+      "display_label": "\u0923\u093f\u091c\u0928\u094d\u0924 (\u1e47ijanta), causative",
+      "sanadi": "Ric",
+      "relation": "cause the base action or state",
+      "rule_refs": "3.1.26",
+      "source_entries_tested": 2229,
+      "source_entries_with_output": 2229,
+      "source_entries_with_zero_output": 0,
+      "base_word_meanings_with_output": 2634,
+      "candidate_derived_word_meanings": 2634,
+      "distinct_output_spellings_diagnostic": 1550,
+      "admitted_derived_word_meanings": 0
+    },
+    {
+      "operation_id": "desiderative",
+      "display_label": "\u0938\u0928\u094d\u0928\u0928\u094d\u0924 (sannanta), desiderative",
+      "sanadi": "san",
+      "relation": "desire to perform the base action by the same agent",
+      "rule_refs": "3.1.7",
+      "source_entries_tested": 2229,
+      "source_entries_with_output": 2229,
+      "source_entries_with_zero_output": 0,
+      "base_word_meanings_with_output": 2634,
+      "candidate_derived_word_meanings": 2634,
+      "distinct_output_spellings_diagnostic": 2145,
+      "admitted_derived_word_meanings": 0
+    },
+    {
+      "operation_id": "intensive",
+      "display_label": "\u092f\u0919\u0928\u094d\u0924 (ya\u1e45anta), intensive",
+      "sanadi": "yaN",
+      "relation": "perform the base action repeatedly or intensely",
+      "rule_refs": "3.1.22",
+      "source_entries_tested": 2229,
+      "source_entries_with_output": 1775,
+      "source_entries_with_zero_output": 454,
+      "base_word_meanings_with_output": 2099,
+      "candidate_derived_word_meanings": 2099,
+      "distinct_output_spellings_diagnostic": 1380,
+      "admitted_derived_word_meanings": 0
+    },
+    {
+      "operation_id": "intensive_luk",
+      "display_label": "\u092f\u0919\u094d\u0932\u0941\u0917\u0928\u094d\u0924 (ya\u1e45luganta), intensive with luk",
+      "sanadi": "yaNluk",
+      "relation": "perform the base action repeatedly or intensely through the luk formation",
+      "rule_refs": "3.1.22;2.4.74",
+      "source_entries_tested": 2229,
+      "source_entries_with_output": 1775,
+      "source_entries_with_zero_output": 454,
+      "base_word_meanings_with_output": 2099,
+      "candidate_derived_word_meanings": 2099,
+      "distinct_output_spellings_diagnostic": 1609,
+      "admitted_derived_word_meanings": 0
+    }
+  ],
+  "nominal_input_operations_deferred": [
+    "kAmyac",
+    "kyaN",
+    "kyac"
+  ],
+  "vocabulary_total": null,
+  "candidate_rows_are_not_a_count": true,
+  "known_semantic_control": {
+    "rule": "3.1.22",
+    "source_statement": "The Kashika commentary excludes the general yan formation of shobhate and rocate through anabhidhana.",
+    "engine_outputs": {
+      "01.0847 ruc": [
+        "rorucya",
+        "roruc"
+      ],
+      "06.0046 shubh": [
+        "SoSuBya",
+        "SoSuB"
+      ]
+    },
+    "disposition": "Retain as generated candidates but do not admit them without semantic review."
+  },
+  "limits": [
+    "Engine output establishes software generation, not semantic eligibility or attested lexical use.",
+    "Zero output is retained as unresolved; it is not automatically called a grammatical prohibition.",
+    "The three nominal-input sanadi identifiers require a separately bounded nominal inventory.",
+    "No prefixes, operation stacking, inflection, Vedic-only extensions, or compounds enter this run."
+  ],
+  "sources": [
+    {
+      "filename": "rule-2.4.74.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.4.74.htm",
+      "accessed_utc": "2026-09-12T16:03:42.281997+00:00",
+      "sha256": "a33affff8e0b6e8516ee1d575b3ca951a5f70998e706fd317f3998eb3d196c1d",
+      "bytes": 10989
+    },
+    {
+      "filename": "rule-3.1.22.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.22.htm",
+      "accessed_utc": "2026-09-12T16:03:48.559378+00:00",
+      "sha256": "1ce33d5144eb706d3ad1e005847a0667b4f10bb4b8d3314a30d978eb59e7bbad",
+      "bytes": 13894
+    },
+    {
+      "filename": "rule-3.1.26.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.26.htm",
+      "accessed_utc": "2026-09-12T16:03:50.141844+00:00",
+      "sha256": "8944ff6d15ad0a8f69392cc2833a0320bd5a0b3f8af543d6e1c0ec404970fbd7",
+      "bytes": 43778
+    },
+    {
+      "filename": "rule-3.1.7.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.7.htm",
+      "accessed_utc": "2026-09-12T16:03:43.491630+00:00",
+      "sha256": "c16d91d965acb06d3374a422abf77725b3d8e824bff7ed46a90716a79827598d",
+      "bytes": 29100
+    },
+    {
+      "filename": "vidyut-args-dhatu.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/dhatu.rs",
+      "accessed_utc": "2026-09-13T05:27:01.055292+00:00",
+      "sha256": "f63ee74be4e5eef8581def3f9b029fe2b1e01f7e92ca7a322c506d3e33764c63",
+      "bytes": 22640
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "analysis/generativity/results/current_base_meanings.json": "b35de339f2f36734bce2fbffe6b5dfb299dec997e1e4066931af73197b0d553a",
+    "analysis/generativity/operations.csv": "c874a468f6763e9029e9823247f9299f7bcdb4d63cec918e90b2a93ea858967b",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/run_sanadi_eligibility.py": "c133944ed65e6aea9c74b73529c5f50ee66e0c8533f24994f0e935940d40fdb1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-14",
+  "reconstruction_classes": 8,
+  "classified_verbal_word_meanings": 4540848,
+  "all_classes_reconstructible_from_existing_provenance": true,
+  "rows": [
+    {
+      "source_layer": "base",
+      "display": "मूलधातुः",
+      "reconstruction_recipe": "source धातुः entry",
+      "word_meanings": 2623
+    },
+    {
+      "source_layer": "one_sanadi",
+      "display": "one सनादि operation",
+      "reconstruction_recipe": "source धातुः + one recorded सनादि operation",
+      "word_meanings": 12480
+    },
+    {
+      "source_layer": "one_upasarga",
+      "display": "one उपसर्गः",
+      "reconstruction_recipe": "source धातुः + one recorded उपसर्गः",
+      "word_meanings": 52347
+    },
+    {
+      "source_layer": "upasarga_sanadi",
+      "display": "उपसर्गः + सनादि",
+      "reconstruction_recipe": "source धातुः + recorded सनादि and उपसर्ग operations",
+      "word_meanings": 249200
+    },
+    {
+      "source_layer": "curadi_true_causative",
+      "display": "द्विणिजन्त",
+      "reconstruction_recipe": "चरादिगण source धातुः + two णिच् operations",
+      "word_meanings": 522
+    },
+    {
+      "source_layer": "two_upasarga",
+      "display": "two ordered उपसर्गाः",
+      "reconstruction_recipe": "source धातुः + two recorded ordered उपसर्गाः",
+      "word_meanings": 1046940
+    },
+    {
+      "source_layer": "namadhatu",
+      "display": "नामधातुः",
+      "reconstruction_recipe": "recorded nominal input + नामधातुः operation",
+      "word_meanings": 3176352
+    },
+    {
+      "source_layer": "compound_namadhatu",
+      "display": "compound नामधातुः",
+      "reconstruction_recipe": "source compound + नामधातुः operation",
+      "word_meanings": 384
+    }
+  ]
+}

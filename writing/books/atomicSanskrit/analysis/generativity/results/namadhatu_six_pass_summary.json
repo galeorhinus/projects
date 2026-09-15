@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-13",
+  "passes_completed": 6,
+  "rules_classified": 14,
+  "unique_source_relations": 67,
+  "broad_candidate_relations": 3176312,
+  "conditioned_candidate_relations": 40,
+  "admitted_namadhatu_word_meanings": 3176352,
+  "unresolved_candidates": 0,
+  "combined_bounded_word_meaning_subtotal": 7939066,
+  "complete_inflected_words_counted": 0,
+  "stage_graph_nodes": 18,
+  "inputs": {
+    "analysis/generativity/results/namadhatu_operation_classification.json": "f4b13fa0e2e8cc5afe8659735d00abda89ea45600cac0ccc9ca389bfe1f5118f",
+    "analysis/generativity/results/namadhatu_source_examples.json": "b3ad7545075c13c2df99df21d935ec78a69e55b28940e90253c4c2a3f5d6b3be",
+    "analysis/generativity/results/namadhatu_eligibility.json": "6caf9fb7ef423b89a77fab600f298e7fd299097e3d69aa2ab9b5317876702a0a",
+    "analysis/generativity/results/namadhatu_summary.json": "8bf069ca55e56ca7661fd1118625df04d3c0f8c6ae7844b832a6b442f2c4f270",
+    "analysis/generativity/results/namadhatu_reconciliation.json": "3e6a7570295b7b7d6d804f06908b24c6abdf0795550409bf2049c47497e5cd63",
+    "analysis/generativity/results/generation_stage_graph.json": "88e44e20d9592af419f0098eb2589f1e1ca9bbbc904a56ba87b00fd15e691cb9",
+    "analysis/generativity/build_namadhatu_six_pass_summary.py": "681946301df02f971a87f7b950cabc67f8b2bd378165428eec07f947c1bd9258"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

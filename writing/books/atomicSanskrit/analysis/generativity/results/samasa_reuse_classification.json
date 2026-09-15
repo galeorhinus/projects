@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-14",
+  "post_compound_operation_count": 10,
+  "post_compound_operations": [
+    {
+      "operation_id": "state_tva",
+      "family": "taddhita",
+      "source_variant": "tva",
+      "semantic_context": "TasyaBhava",
+      "semantic_branch_id": "bhava_tva",
+      "semantic_relation": "the state or defining quality denoted by the compound meaning",
+      "rule_refs": [
+        "5.1.119"
+      ]
+    },
+    {
+      "operation_id": "state_tal",
+      "family": "taddhita",
+      "source_variant": "tal",
+      "semantic_context": "TasyaBhava",
+      "semantic_branch_id": "bhava_tal",
+      "semantic_relation": "the state or defining quality denoted by the compound meaning",
+      "rule_refs": [
+        "5.1.119"
+      ]
+    },
+    {
+      "operation_id": "possession_matup",
+      "family": "taddhita",
+      "source_variant": "matup",
+      "semantic_context": "TadAsyaAstiAsmin",
+      "semantic_branch_id": "possession",
+      "semantic_relation": "one or that in which the compound referent is present",
+      "rule_refs": [
+        "5.2.94"
+      ]
+    },
+    {
+      "operation_id": "superlative_tamap",
+      "family": "taddhita",
+      "source_variant": "tamap",
+      "semantic_context": "AtishayanaSuperlative",
+      "semantic_branch_id": "superlative",
+      "semantic_relation": "the compound meaning understood to the highest degree within the intended comparison",
+      "rule_refs": [
+        "5.3.55"
+      ]
+    },
+    {
+      "operation_id": "comparative_tarap",
+      "family": "taddhita",
+      "source_variant": "tarap",
+      "semantic_context": "AtishayanaComparative",
+      "semantic_branch_id": "comparative",
+      "semantic_relation": "the compound meaning understood to a greater degree within the intended comparison",
+      "rule_refs": [
+        "5.3.57"
+      ]
+    },
+    {
+      "operation_id": "self_desire_kyac",
+      "family": "namadhatu",
+      "source_variant": "kyac",
+      "semantic_context": "AtmanaIccha",
+      "semantic_branch_id": "atma_iccha_kyac",
+      "semantic_relation": "desire the compound referent in relation to oneself",
+      "rule_refs": [
+        "3.1.8"
+      ]
+    },
+    {
+      "operation_id": "self_desire_kamyac",
+      "family": "namadhatu",
+      "source_variant": "kAmyac",
+      "semantic_context": "AtmanaIccha",
+      "semantic_branch_id": "atma_iccha_kamyac",
+      "semantic_relation": "desire the compound referent in relation to oneself",
+      "rule_refs": [
+        "3.1.9"
+      ]
+    },
+    {
+      "operation_id": "object_comparison_kyac",
+      "family": "namadhatu",
+      "source_variant": "kyac",
+      "semantic_context": "UpamanaKarmaAcara",
+      "semantic_branch_id": "upamana_karma_acara",
+      "semantic_relation": "treat an object as comparable to the compound referent",
+      "rule_refs": [
+        "3.1.10"
+      ]
+    },
+    {
+      "operation_id": "agent_comparison_kyang",
+      "family": "namadhatu",
+      "source_variant": "kyaN",
+      "semantic_context": "UpamanaKartrAcara",
+      "semantic_branch_id": "upamana_kartr_acara",
+      "semantic_relation": "act like the compound referent",
+      "rule_refs": [
+        "3.1.11"
+      ]
+    },
+    {
+      "operation_id": "nan_privative",
+      "family": "nan",
+      "source_variant": "nan",
+      "semantic_context": "NanPrivative",
+      "semantic_branch_id": "nan_privative",
+      "semantic_relation": "the absence, non-occurrence, or negation of the compound meaning",
+      "rule_refs": [
+        "2.2.6",
+        "6.3.73",
+        "6.3.74"
+      ],
+      "exclude_compound_types": [
+        "avyaya_tatpurusha"
+      ]
+    }
+  ],
+  "recursive_compound_relation_count": 4,
+  "recursive_compound_relations": [
+    "sasthi_tatpurusha",
+    "bahuvrihi",
+    "dvandva",
+    "samahara_dvandva"
+  ],
+  "maximum_compound_depth": 2,
+  "two_compounds_as_members": false,
+  "inputs": {
+    "analysis/generativity/samasa_capacity_operations.json": "ed1b79285d0a0637653404ec99c4ec4537454ca2869d5dcf1e545fd599af3979",
+    "analysis/generativity/compound_stack_operations.json": "d8776e347ed581dbabb5389176517b763a849ec40b879138bc033f7aaff0e764"
+  }
+}

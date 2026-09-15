@@ -1,0 +1,5 @@
+operation_id,constructor,semantic_relation,eligibility_scope,eligible_candidate_word_meanings,rule_refs,count_status
+self_desire_kyac,kyac,desire the nominal referent in relation to oneself,all_declared_laukika_nominal_word_meanings,794078,3.1.8,eligible_for_engine_generation
+self_desire_kamyac,kAmyac,desire the nominal referent in relation to oneself,all_declared_laukika_nominal_word_meanings,794078,3.1.9,eligible_for_engine_generation
+object_comparison_kyac,kyac,treat an object as comparable to the nominal referent,all_declared_laukika_nominal_word_meanings,794078,3.1.10,eligible_for_engine_generation
+agent_comparison_kyang,kyaN,act like the nominal referent,all_declared_laukika_nominal_word_meanings,794078,3.1.11,eligible_for_engine_generation

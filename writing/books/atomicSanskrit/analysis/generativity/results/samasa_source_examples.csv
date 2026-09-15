@@ -1,0 +1,168 @@
+source_example_id,source_file,source_function,source_line,rule_ref,source_test_status,helper,compound_type,member_forms_slp1,member_count,input_resolution,semantic_template,expected_forms_slp1,expected_variant_count
+7ef8fc1eefdd09b3,kashika_2_1.rs,sutra_2_1_1,19,2.1.1,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,kazwa;Srita,2,literal_members,{b} directed toward or involving {a},kazwaSrita,1
+e7c3d6b270063d6b,kashika_2_1.rs,sutra_2_1_1,20,2.1.1,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,SaNkulA;KaRqa,2,literal_members,"{b} by, with, or through {a}",SaNkulAKaRqa,1
+f9945ed0ecb3848d,kashika_2_1.rs,sutra_2_1_1,21,2.1.1,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,yUpa;dAru,2,literal_members,{b} for {a},yUpadAru,1
+ee56bc0ff4866dd7,kashika_2_1.rs,sutra_2_1_1,22,2.1.1,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,vfka;Baya,2,literal_members,{b} from or because of {a},vfkaBaya,1
+6acfbb56ac5ba42e,kashika_2_1.rs,sutra_2_1_1,23,2.1.1,active,assert_has_sasthi_tatpurusha,sasthi_tatpurusha,rAjan;puruza,2,literal_members,{b} of {a},rAjapuruza,1
+cab81f07e69c080e,kashika_2_1.rs,sutra_2_1_1,24,2.1.1,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,akza;SORqa,2,literal_members,{b} in or upon {a},akzaSORqa,1
+ff83d91cb320b97d,kashika_2_1.rs,sutra_2_1_5,38,2.1.5,active,assert_has_avyayibhava,avyayibhava,yaTA;vfdDa,2,literal_members,indeclinable relation of {a} to {b},yaTAvfdDam,1
+38ed00136788df0b,kashika_2_1.rs,sutra_2_1_6,45,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,aDi;strI,2,literal_members,indeclinable relation of {a} to {b},aDistri,1
+4ad82e66211f9088,kashika_2_1.rs,sutra_2_1_6,46,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,aDi;kumArI,2,literal_members,indeclinable relation of {a} to {b},aDikumAri,1
+523765c4394cf0e7,kashika_2_1.rs,sutra_2_1_6,47,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,upa;kumBa,2,literal_members,indeclinable relation of {a} to {b},upakumBam,1
+bef876e2e3b45bbd,kashika_2_1.rs,sutra_2_1_6,48,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,upa;maRika,2,literal_members,indeclinable relation of {a} to {b},upamaRikam,1
+e1f5bb1ce9ef1e9d,kashika_2_1.rs,sutra_2_1_6,49,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,su;madra,2,literal_members,indeclinable relation of {a} to {b},sumadram,1
+61633990e41b93e4,kashika_2_1.rs,sutra_2_1_6,50,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,su;magaDa,2,literal_members,indeclinable relation of {a} to {b},sumagaDam,1
+1fec672c7178b9b3,kashika_2_1.rs,sutra_2_1_6,51,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,dur;gavadika,2,literal_members,indeclinable relation of {a} to {b},durgavadikam,1
+9e2419f8e608b4eb,kashika_2_1.rs,sutra_2_1_6,52,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,dur;yavana,2,literal_members,indeclinable relation of {a} to {b},duryavanam,1
+e87de34612990d15,kashika_2_1.rs,sutra_2_1_6,53,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,nir;makzika,2,literal_members,indeclinable relation of {a} to {b},nirmakzikam,1
+53c8c501446b3e26,kashika_2_1.rs,sutra_2_1_6,54,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,nir;maSaka,2,literal_members,indeclinable relation of {a} to {b},nirmaSakam,1
+e33a4db591a1ee2f,kashika_2_1.rs,sutra_2_1_6,55,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,ati;hima,2,literal_members,indeclinable relation of {a} to {b},atihimam,1
+26879a87f7e3a459,kashika_2_1.rs,sutra_2_1_6,56,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,nir;hima,2,literal_members,indeclinable relation of {a} to {b},nirhimam,1
+4320626b662e5c3c,kashika_2_1.rs,sutra_2_1_6,57,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,nir;SIta,2,literal_members,indeclinable relation of {a} to {b},niHSItam;niSSItam,2
+b9cc8ae118f73803,kashika_2_1.rs,sutra_2_1_6,58,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,ati;tEsfka,2,literal_members,indeclinable relation of {a} to {b},atitEsfkam,1
+0bc724708d88685a,kashika_2_1.rs,sutra_2_1_6,59,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,tad;pARini,2,literal_members,indeclinable relation of {a} to {b},tatpARini,1
+5a562584e09238c4,kashika_2_1.rs,sutra_2_1_6,60,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,anu;raTa,2,literal_members,indeclinable relation of {a} to {b},anuraTam,1
+6b416965dc081936,kashika_2_1.rs,sutra_2_1_6,61,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,prati;arTa,2,literal_members,indeclinable relation of {a} to {b},pratyarTam,1
+21723c5be211be42,kashika_2_1.rs,sutra_2_1_6,62,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,yaTA;Sakti,2,literal_members,indeclinable relation of {a} to {b},yaTASakti,1
+5b7eab742703a28d,kashika_2_1.rs,sutra_2_1_6,63,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,anu;jyezWa,2,literal_members,indeclinable relation of {a} to {b},anujyezWam,1
+52b019b48d0ca8d3,kashika_2_1.rs,sutra_2_1_6,64,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,sa;cakra,2,literal_members,indeclinable relation of {a} to {b},sacakram,1
+4d000243b2bee5b7,kashika_2_1.rs,sutra_2_1_6,65,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,sa;brahman,2,literal_members,indeclinable relation of {a} to {b},sabrahma,1
+22ac5034bc4e326a,kashika_2_1.rs,sutra_2_1_6,66,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,sa;kzatra,2,literal_members,indeclinable relation of {a} to {b},sakzatram,1
+ff7c4e51ac560d33,kashika_2_1.rs,sutra_2_1_6,67,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,sa;busa,2,literal_members,indeclinable relation of {a} to {b},sabusam,1
+4e67357b51febbdf,kashika_2_1.rs,sutra_2_1_6,68,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,sa;agni,2,literal_members,indeclinable relation of {a} to {b},sAgni,1
+80f6d2c014fbddac,kashika_2_1.rs,sutra_2_1_6,69,2.1.6,ignored,assert_has_avyayibhava,avyayibhava,sa;izwi,2,literal_members,indeclinable relation of {a} to {b},sezwi,1
+fb1a0f2dcca8407b,kashika_2_1.rs,sutra_2_1_7,74,2.1.7,active,assert_has_avyayibhava,avyayibhava,yaTA;vfdDa,2,literal_members,indeclinable relation of {a} to {b},yaTAvfdDam,1
+be563d9c1d35627b,kashika_2_1.rs,sutra_2_1_7,75,2.1.7,active,assert_has_avyayibhava,avyayibhava,yaTA;aDyApaka,2,literal_members,indeclinable relation of {a} to {b},yaTADyApakam,1
+370323c51578ce0e,kashika_2_1.rs,sutra_2_1_8,80,2.1.8,active,assert_has_avyayibhava,avyayibhava,yAvat;amatra,2,literal_members,indeclinable relation of {a} to {b},yAvadamatram,1
+bd49a0807dd3bdfd,kashika_2_1.rs,sutra_2_1_9,85,2.1.9,active,assert_has_avyayibhava,avyayibhava,SAka;prati,2,literal_members,indeclinable relation of {a} to {b},SAkaprati,1
+cb0a46ea3438bd37,kashika_2_1.rs,sutra_2_1_10,90,2.1.10,active,assert_has_avyayibhava,avyayibhava,akza;pari,2,literal_members,indeclinable relation of {a} to {b},akzapari,1
+5dc3f7bd1396b99a,kashika_2_1.rs,sutra_2_1_10,91,2.1.10,active,assert_has_avyayibhava,avyayibhava,SalAkA;pari,2,literal_members,indeclinable relation of {a} to {b},SalAkApari,1
+bd933599081ded56,kashika_2_1.rs,sutra_2_1_10,92,2.1.10,active,assert_has_avyayibhava,avyayibhava,eka;pari,2,literal_members,indeclinable relation of {a} to {b},ekapari,1
+5d5ebabcc7ddb35d,kashika_2_1.rs,sutra_2_1_10,93,2.1.10,active,assert_has_avyayibhava,avyayibhava,dvi;pari,2,literal_members,indeclinable relation of {a} to {b},dvipari,1
+895cc6b26ee32350,kashika_2_1.rs,sutra_2_1_10,94,2.1.10,active,assert_has_avyayibhava,avyayibhava,tri;pari,2,literal_members,indeclinable relation of {a} to {b},tripari,1
+a8b08f9f1455b744,kashika_2_1.rs,sutra_2_1_10,95,2.1.10,active,assert_has_avyayibhava,avyayibhava,catus;pari,2,literal_members,indeclinable relation of {a} to {b},catuzpari,1
+e0d6bdf61bc31875,kashika_2_1.rs,sutra_2_1_13,100,2.1.13,active,assert_has_avyayibhava,avyayibhava,A;pAwaliputra,2,literal_members,indeclinable relation of {a} to {b},ApAwaliputram,1
+74275ac6828bf49b,kashika_2_1.rs,sutra_2_1_13,101,2.1.13,active,assert_has_avyayibhava,avyayibhava,A;kumAra,2,literal_members,indeclinable relation of {a} to {b},AkumAram,1
+8298428680d2426d,kashika_2_1.rs,sutra_2_1_14,106,2.1.14,active,assert_has_avyayibhava,avyayibhava,aBi;agni,2,literal_members,indeclinable relation of {a} to {b},aByagni,1
+bd8e0309e64be5da,kashika_2_1.rs,sutra_2_1_14,107,2.1.14,active,assert_has_avyayibhava,avyayibhava,prati;agni,2,literal_members,indeclinable relation of {a} to {b},pratyagni,1
+55995bedce45f6a5,kashika_2_1.rs,sutra_2_1_15,112,2.1.15,active,assert_has_avyayibhava,avyayibhava,anu;vana,2,literal_members,indeclinable relation of {a} to {b},anuvanam,1
+dd1c67cb3deb66a6,kashika_2_1.rs,sutra_2_1_19,117,2.1.19,active,assert_has_avyayibhava,avyayibhava,dvi;muni,2,literal_members,indeclinable relation of {a} to {b},dvimuni,1
+f85d55ab3997fb6a,kashika_2_1.rs,sutra_2_1_19,118,2.1.19,active,assert_has_avyayibhava,avyayibhava,tri;muni,2,literal_members,indeclinable relation of {a} to {b},trimuni,1
+2457fa3f270da5f7,kashika_2_1.rs,sutra_2_1_24,123,2.1.24,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,kazwa;Srita,2,literal_members,{b} directed toward or involving {a},kazwaSrita,1
+a391d1b997c471c2,kashika_2_1.rs,sutra_2_1_24,124,2.1.24,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,naraka;Srita,2,literal_members,{b} directed toward or involving {a},narakaSrita,1
+e441bfebde8cb02d,kashika_2_1.rs,sutra_2_1_24,125,2.1.24,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,kAntAra;atIta,2,literal_members,{b} directed toward or involving {a},kAntArAtIta,1
+554b51233446b84b,kashika_2_1.rs,sutra_2_1_24,126,2.1.24,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,naraka;patita,2,literal_members,{b} directed toward or involving {a},narakapatita,1
+604af35003168d65,kashika_2_1.rs,sutra_2_1_24,127,2.1.24,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,grAma;gata,2,literal_members,{b} directed toward or involving {a},grAmagata,1
+726f0bbebfc8a00b,kashika_2_1.rs,sutra_2_1_24,128,2.1.24,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,taraNga;atyasta,2,literal_members,{b} directed toward or involving {a},taraNgAtyasta,1
+bdf9da55e5812de1,kashika_2_1.rs,sutra_2_1_24,129,2.1.24,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,tuhina;atyasta,2,literal_members,{b} directed toward or involving {a},tuhinAtyasta,1
+315403dd319ed0c0,kashika_2_1.rs,sutra_2_1_24,130,2.1.24,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,suKa;prApta,2,literal_members,{b} directed toward or involving {a},suKaprApta,1
+ee01d024ae5339a6,kashika_2_1.rs,sutra_2_1_24,131,2.1.24,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,suKa;Apanna,2,literal_members,{b} directed toward or involving {a},suKApanna,1
+f633d0918b5806ba,kashika_2_1.rs,sutra_2_1_24,132,2.1.24,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,duHKa;Apanna,2,literal_members,{b} directed toward or involving {a},duHKApanna,1
+8ce004181518ab99,kashika_2_1.rs,sutra_2_1_25,139,2.1.25,active,assert_has_avyaya_tatpurusha,avyaya_tatpurusha,,0,constructed_or_unresolved_member,{b} qualified by the indeclinable {a},svayanDOta,1
+1e4729aede42b3ee,kashika_2_1.rs,sutra_2_1_25,140,2.1.25,active,assert_has_avyaya_tatpurusha,avyaya_tatpurusha,,0,constructed_or_unresolved_member,{b} qualified by the indeclinable {a},svayaMvilIna,1
+74206ed15fcf079d,kashika_2_1.rs,sutra_2_1_26,147,2.1.26,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,,0,constructed_or_unresolved_member,{b} directed toward or involving {a},KawvArUQa,1
+f0b8cacc7d4a0fa6,kashika_2_1.rs,sutra_2_1_26,148,2.1.26,active,assert_has_dvitiya_tatpurusha,dvitiya_tatpurusha,,0,constructed_or_unresolved_member,{b} directed toward or involving {a},KawvApluta,1
+f64912bb38f97c7b,kashika_2_1.rs,sutra_2_1_27,156,2.1.27,active,assert_has_avyaya_tatpurusha,avyaya_tatpurusha,,0,constructed_or_unresolved_member,{b} qualified by the indeclinable {a},sAmikfta,1
+cd045707da7499f2,kashika_2_1.rs,sutra_2_1_27,157,2.1.27,active,assert_has_avyaya_tatpurusha,avyaya_tatpurusha,,0,constructed_or_unresolved_member,{b} qualified by the indeclinable {a},sAmipIta,1
+fa50f155e772f814,kashika_2_1.rs,sutra_2_1_27,158,2.1.27,active,assert_has_avyaya_tatpurusha,avyaya_tatpurusha,,0,constructed_or_unresolved_member,{b} qualified by the indeclinable {a},sAmiBukta,1
+829df7900f311d9b,kashika_2_1.rs,sutra_2_1_30,163,2.1.30,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,SaNkulA;KaRqa,2,literal_members,"{b} by, with, or through {a}",SaNkulAKaRqa,1
+e9baaa9561f645b8,kashika_2_1.rs,sutra_2_1_30,164,2.1.30,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,kiri;kARa,2,literal_members,"{b} by, with, or through {a}",kirikARa,1
+88415eb17e099f2c,kashika_2_1.rs,sutra_2_1_30,165,2.1.30,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,DAnya;arTa,2,literal_members,"{b} by, with, or through {a}",DAnyArTa,1
+371bd37c5ad4b1d0,kashika_2_1.rs,sutra_2_1_31,170,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,mAsa;pUrva,2,literal_members,"{b} by, with, or through {a}",mAsapUrva,1
+f9e687fd4d4abd49,kashika_2_1.rs,sutra_2_1_31,171,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,saMvatsara;pUrva,2,literal_members,"{b} by, with, or through {a}",saMvatsarapUrva,1
+615d543ae9d91f53,kashika_2_1.rs,sutra_2_1_31,172,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,mAtf;sadfSa,2,literal_members,"{b} by, with, or through {a}",mAtfsadfSa,1
+ecb1781a9a23b807,kashika_2_1.rs,sutra_2_1_31,173,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,pitf;sadfSa,2,literal_members,"{b} by, with, or through {a}",pitfsadfSa,1
+9f2b78072fa526bd,kashika_2_1.rs,sutra_2_1_31,174,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,mAtf;sama,2,literal_members,"{b} by, with, or through {a}",mAtfsama,1
+7dd88e269e1d92ce,kashika_2_1.rs,sutra_2_1_31,175,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,mASa;Una,2,literal_members,"{b} by, with, or through {a}",mASona,1
+212f9355dc1e9409,kashika_2_1.rs,sutra_2_1_31,176,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,kArzApaRa;Una,2,literal_members,"{b} by, with, or through {a}",kArzApaRona,1
+3004d1877b39f52a,kashika_2_1.rs,sutra_2_1_31,178,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,asi;kalaha,2,literal_members,"{b} by, with, or through {a}",asikalaha,1
+8a55358e88022d36,kashika_2_1.rs,sutra_2_1_31,179,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,vAc;kalaha,2,literal_members,"{b} by, with, or through {a}",vAkkalaha,1
+6b6876b8b6312a16,kashika_2_1.rs,sutra_2_1_31,180,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,vAc;nipuRa,2,literal_members,"{b} by, with, or through {a}",vANnipuRa,1
+c057d905408cbdae,kashika_2_1.rs,sutra_2_1_31,181,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,AcAra;nipuRa,2,literal_members,"{b} by, with, or through {a}",AcAranipuRa,1
+3bc28f84e593a086,kashika_2_1.rs,sutra_2_1_31,182,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,guqa;miSra,2,literal_members,"{b} by, with, or through {a}",guqamiSra,1
+3832d7dd3762af08,kashika_2_1.rs,sutra_2_1_31,183,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,tila;miSra,2,literal_members,"{b} by, with, or through {a}",tilamiSra,1
+5211d3ecc35879d8,kashika_2_1.rs,sutra_2_1_31,184,2.1.31,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,AcAra;SlakzRa,2,literal_members,"{b} by, with, or through {a}",AcAraSlakzRa,1
+8498abeea9ae4ee8,kashika_2_1.rs,sutra_2_1_32,189,2.1.32,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,ahi;hata,2,literal_members,"{b} by, with, or through {a}",ahihata,1
+e79de150b3d3dc5e,kashika_2_1.rs,sutra_2_1_32,191,2.1.32,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,,0,constructed_or_unresolved_member,"{b} by, with, or through {a}",naKanirBinna,1
+d6e0783faae573ff,kashika_2_1.rs,sutra_2_1_32,192,2.1.32,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,paraSu;Cinna,2,literal_members,"{b} by, with, or through {a}",paraSucCinna,1
+88f70a3c28ac3eeb,kashika_2_1.rs,sutra_2_1_33,198,2.1.33,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,,0,constructed_or_unresolved_member,"{b} by, with, or through {a}",kAkapeya,1
+897fab702ce7f3a5,kashika_2_1.rs,sutra_2_1_33,201,2.1.33,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,,0,constructed_or_unresolved_member,"{b} by, with, or through {a}",Svalehya,1
+d79d86d6fc229f57,kashika_2_1.rs,sutra_2_1_33,204,2.1.33,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,,0,constructed_or_unresolved_member,"{b} by, with, or through {a}",bAzpacCedya,1
+811c8a1f8459df2c,kashika_2_1.rs,sutra_2_1_33,207,2.1.33,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,,0,constructed_or_unresolved_member,"{b} by, with, or through {a}",kaRwakasaYceya,1
+38121084a3ce3c20,kashika_2_1.rs,sutra_2_1_34,212,2.1.34,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,daDi;odana,2,literal_members,"{b} by, with, or through {a}",daDyodana,1
+33172c8b2a8aff94,kashika_2_1.rs,sutra_2_1_34,213,2.1.34,active,assert_has_trtiya_tatpurusha,trtiya_tatpurusha,kzIra;odana,2,literal_members,"{b} by, with, or through {a}",kzIrOdana,1
+3f867024766b81c5,kashika_2_1.rs,sutra_2_1_36,218,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,yUpa;dAru,2,literal_members,{b} for {a},yUpadAru,1
+99926a27f3f0951b,kashika_2_1.rs,sutra_2_1_36,219,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,kuRqala;hiraRya,2,literal_members,{b} for {a},kuRqalahiraRya,1
+27e3e7b577d1027f,kashika_2_1.rs,sutra_2_1_36,220,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,brAhmaRa;arTa,2,literal_members,{b} for {a},brAhmaRArTa,1
+d619aff6a813c401,kashika_2_1.rs,sutra_2_1_36,221,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,kubera;bali,2,literal_members,{b} for {a},kuberabali,1
+f76cbc8aa4e40d73,kashika_2_1.rs,sutra_2_1_36,222,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,mahArAja;bali,2,literal_members,{b} for {a},mahArAjabali,1
+aea3624426247ab7,kashika_2_1.rs,sutra_2_1_36,223,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,go;hita,2,literal_members,{b} for {a},gohita,1
+11f06bc152a8fe8c,kashika_2_1.rs,sutra_2_1_36,224,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,aSva;hita,2,literal_members,{b} for {a},aSvahita,1
+6bd0059b84537061,kashika_2_1.rs,sutra_2_1_36,225,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,go;suKa,2,literal_members,{b} for {a},gosuKa,1
+29101430cc5f6ff4,kashika_2_1.rs,sutra_2_1_36,226,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,aSva;suKa,2,literal_members,{b} for {a},aSvasuKa,1
+d5eefc2abf6b3d3b,kashika_2_1.rs,sutra_2_1_36,227,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,go;rakzita,2,literal_members,{b} for {a},gorakzita,1
+7b68c0140ac54bd3,kashika_2_1.rs,sutra_2_1_36,228,2.1.36,active,assert_has_caturthi_tatpurusha,caturthi_tatpurusha,aSva;rakzita,2,literal_members,{b} for {a},aSvarakzita,1
+fe4cbc67cb26fa77,kashika_2_1.rs,sutra_2_1_37,233,2.1.37,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,vfka;Baya,2,literal_members,{b} from or because of {a},vfkaBaya,1
+97c41778c566c26c,kashika_2_1.rs,sutra_2_1_37,234,2.1.37,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,cOra;Baya,2,literal_members,{b} from or because of {a},cOraBaya,1
+d83cd4627e8d38a2,kashika_2_1.rs,sutra_2_1_37,235,2.1.37,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,dasyu;Baya,2,literal_members,{b} from or because of {a},dasyuBaya,1
+5caf3e90849333f3,kashika_2_1.rs,sutra_2_1_37_v1,240,2.1.37,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,vfka;BIta,2,literal_members,{b} from or because of {a},vfkaBIta,1
+ef01f39342d41502,kashika_2_1.rs,sutra_2_1_37_v1,241,2.1.37,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,vfka;BIti,2,literal_members,{b} from or because of {a},vfkaBIti,1
+fccb44816059cbcf,kashika_2_1.rs,sutra_2_1_37_v1,242,2.1.37,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,vfka;BI,2,literal_members,{b} from or because of {a},vfkaBI,1
+a43f6028d2cea8fa,kashika_2_1.rs,sutra_2_1_38,247,2.1.38,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,suKa;apeta,2,literal_members,{b} from or because of {a},suKApeta,1
+b1f99134e5eba1cd,kashika_2_1.rs,sutra_2_1_38,248,2.1.38,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,kalpanA;apoQa,2,literal_members,{b} from or because of {a},kalpanApoQa,1
+032406842a3179bd,kashika_2_1.rs,sutra_2_1_38,249,2.1.38,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,cakra;mukta,2,literal_members,{b} from or because of {a},cakramukta,1
+b0819143c5d64f00,kashika_2_1.rs,sutra_2_1_38,250,2.1.38,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,svarga;patita,2,literal_members,{b} from or because of {a},svargapatita,1
+27b3449859576bd6,kashika_2_1.rs,sutra_2_1_38,251,2.1.38,active,assert_has_panchami_tatpurusha,panchami_tatpurusha,taraNga;apatrasta,2,literal_members,{b} from or because of {a},taraNgApatrasta,1
+0bab1bca6307ed97,kashika_2_1.rs,sutra_2_1_40,256,2.1.40,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,akza;SORqa,2,literal_members,{b} in or upon {a},akzaSORqa,1
+a1eae278d225c24d,kashika_2_1.rs,sutra_2_1_40,257,2.1.40,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,akza;DUrta,2,literal_members,{b} in or upon {a},akzaDUrta,1
+45ad1a481194bcc6,kashika_2_1.rs,sutra_2_1_40,258,2.1.40,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,akza;kitava,2,literal_members,{b} in or upon {a},akzakitava,1
+5da0910d37f6befb,kashika_2_1.rs,sutra_2_1_41,263,2.1.41,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,sANkASya;sidDa,2,literal_members,{b} in or upon {a},sANkASyasidDa,1
+04703377b8d829fb,kashika_2_1.rs,sutra_2_1_41,264,2.1.41,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,kAmpilya;sidDa,2,literal_members,{b} in or upon {a},kAmpilyasidDa,1
+3fabcd3566820c58,kashika_2_1.rs,sutra_2_1_41,265,2.1.41,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,Atapa;Suzka,2,literal_members,{b} in or upon {a},AtapaSuzka,1
+4966d56e65c67de2,kashika_2_1.rs,sutra_2_1_41,266,2.1.41,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,CAyA;Suzka,2,literal_members,{b} in or upon {a},CAyASuzka,1
+3bf939501812562a,kashika_2_1.rs,sutra_2_1_41,267,2.1.41,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,sTAlI;pakva,2,literal_members,{b} in or upon {a},sTAlIpakva,1
+a0e10ab434dbd648,kashika_2_1.rs,sutra_2_1_41,268,2.1.41,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,kumBI;pakva,2,literal_members,{b} in or upon {a},kumBIpakva,1
+d2cc048f696f5cf4,kashika_2_1.rs,sutra_2_1_41,269,2.1.41,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,cakra;banDa,2,literal_members,{b} in or upon {a},cakrabanDa,1
+ccb550eaab3746c1,kashika_2_1.rs,sutra_2_1_42,274,2.1.42,active,assert_has_saptami_tatpurusha,saptami_tatpurusha,tIrTa;DvANkza,2,literal_members,{b} in or upon {a},tIrTaDvANkza,1
+86e982cc6a85e431,kashika_2_1.rs,sutra_2_1_47,284,2.1.47,ignored,assert_has_saptami_tatpurusha,saptami_tatpurusha,,0,constructed_or_unresolved_member,{b} in or upon {a},tatraBukta,1
+6795855179583d48,kashika_2_1.rs,sutra_2_1_47,285,2.1.47,ignored,assert_has_saptami_tatpurusha,saptami_tatpurusha,,0,constructed_or_unresolved_member,{b} in or upon {a},tatrakfta,1
+b92109d2d313befe,kashika_2_1.rs,sutra_2_1_47,286,2.1.47,ignored,assert_has_saptami_tatpurusha,saptami_tatpurusha,,0,constructed_or_unresolved_member,{b} in or upon {a},tatrapIta,1
+376debe1ad9745f8,kashika_2_1.rs,sutra_2_1_58,291,2.1.58,active,assert_has_karmadharaya,karmadharaya,pUrva;puruza,2,literal_members,{b} qualified or identified by {a},pUrvapuruza,1
+5ba81719759ab490,kashika_2_1.rs,sutra_2_1_58,292,2.1.58,active,assert_has_karmadharaya,karmadharaya,apara;puruza,2,literal_members,{b} qualified or identified by {a},aparapuruza,1
+f5f57cf92452b5e3,kashika_2_1.rs,sutra_2_1_58,293,2.1.58,active,assert_has_karmadharaya,karmadharaya,praTama;puruza,2,literal_members,{b} qualified or identified by {a},praTamapuruza,1
+98dda9c5c818b886,kashika_2_1.rs,sutra_2_1_58,294,2.1.58,active,assert_has_karmadharaya,karmadharaya,carama;puruza,2,literal_members,{b} qualified or identified by {a},caramapuruza,1
+683b751e6c82c24b,kashika_2_1.rs,sutra_2_1_58,295,2.1.58,active,assert_has_karmadharaya,karmadharaya,jaGanya;puruza,2,literal_members,{b} qualified or identified by {a},jaGanyapuruza,1
+91f41501c06c03e9,kashika_2_1.rs,sutra_2_1_58,296,2.1.58,active,assert_has_karmadharaya,karmadharaya,samAna;puruza,2,literal_members,{b} qualified or identified by {a},samAnapuruza,1
+086049c666d62d7e,kashika_2_1.rs,sutra_2_1_58,297,2.1.58,active,assert_has_karmadharaya,karmadharaya,maDya;puruza,2,literal_members,{b} qualified or identified by {a},maDyapuruza,1
+1983a97e64dddcbd,kashika_2_1.rs,sutra_2_1_58,298,2.1.58,active,assert_has_karmadharaya,karmadharaya,maDyama;puruza,2,literal_members,{b} qualified or identified by {a},maDyamapuruza,1
+69f1f0549a378ef7,kashika_2_1.rs,sutra_2_1_58,299,2.1.58,active,assert_has_karmadharaya,karmadharaya,vIra;puruza,2,literal_members,{b} qualified or identified by {a},vIrapuruza,1
+ecf8fff0f852013a,kashika_2_1.rs,sutra_2_1_61,304,2.1.61,active,assert_has_karmadharaya,karmadharaya,sat;puruza,2,literal_members,{b} qualified or identified by {a},satpuruza,1
+862abe52ee0614bc,kashika_2_1.rs,sutra_2_1_61,305,2.1.61,active,assert_has_karmadharaya,karmadharaya,mahat;puruza,2,literal_members,{b} qualified or identified by {a},mahApuruza,1
+cde365a50f2ee374,kashika_2_1.rs,sutra_2_1_61,306,2.1.61,active,assert_has_karmadharaya,karmadharaya,parama;puruza,2,literal_members,{b} qualified or identified by {a},paramapuruza,1
+d5dd0489e3bc1496,kashika_2_1.rs,sutra_2_1_61,307,2.1.61,active,assert_has_karmadharaya,karmadharaya,uttama;puruza,2,literal_members,{b} qualified or identified by {a},uttamapuruza,1
+f8b630ab8af35072,kashika_2_1.rs,sutra_2_1_61,308,2.1.61,active,assert_has_karmadharaya,karmadharaya,utkfzwa;puruza,2,literal_members,{b} qualified or identified by {a},utkfzwapuruza,1
+c538123c1d7931d5,kashika_2_1.rs,sutra_2_1_62,313,2.1.62,active,assert_has_karmadharaya,karmadharaya,go;vfndAraka,2,literal_members,{b} qualified or identified by {a},govfndAraka,1
+824b9c7ff1ac2b19,kashika_2_1.rs,sutra_2_1_62,314,2.1.62,active,assert_has_karmadharaya,karmadharaya,aSva;vfndAraka,2,literal_members,{b} qualified or identified by {a},aSvavfndAraka,1
+882977578064a1e6,kashika_2_1.rs,sutra_2_1_62,315,2.1.62,active,assert_has_karmadharaya,karmadharaya,go;nAga,2,literal_members,{b} qualified or identified by {a},gonAga,1
+133b21387152f20f,kashika_2_1.rs,sutra_2_1_62,316,2.1.62,active,assert_has_karmadharaya,karmadharaya,aSva;nAga,2,literal_members,{b} qualified or identified by {a},aSvanAga,1
+f94c2efa1cde75e8,kashika_2_1.rs,sutra_2_1_62,317,2.1.62,active,assert_has_karmadharaya,karmadharaya,go;kuYjara,2,literal_members,{b} qualified or identified by {a},gokuYjara,1
+f9f5dcf0e427fd9c,kashika_2_1.rs,sutra_2_1_62,318,2.1.62,active,assert_has_karmadharaya,karmadharaya,aSva;kuYjara,2,literal_members,{b} qualified or identified by {a},aSvakuYjara,1
+be0f9fd693de9c64,kashika_2_1.rs,sutra_2_1_64,325,2.1.64,ignored,assert_has_karmadharaya,karmadharaya,kim;rAjan,2,literal_members,{b} qualified or identified by {a},kiMrAjan,1
+3f069b8b9e75d9a9,kashika_2_1.rs,sutra_2_1_64,326,2.1.64,ignored,assert_has_karmadharaya,karmadharaya,kim;saKi,2,literal_members,{b} qualified or identified by {a},kiMsaKi,1
+aace91413c7b57b0,kashika_2_1.rs,sutra_2_1_64,327,2.1.64,ignored,assert_has_karmadharaya,karmadharaya,kim;go,2,literal_members,{b} qualified or identified by {a},kiNgo,1
+4e6a26add950dd7f,kashika_2_1.rs,sutra_2_1_67,332,2.1.67,active,assert_has_karmadharaya,karmadharaya,yuvan;Kalati,2,literal_members,{b} qualified or identified by {a},yuvaKalati,1
+cbdf1147527c32d5,kashika_2_1.rs,sutra_2_1_67,333,2.1.67,active,assert_has_karmadharaya,karmadharaya,yuvan;palita,2,literal_members,{b} qualified or identified by {a},yuvapalita,1
+fb5e4b3e05b38068,kashika_2_1.rs,sutra_2_1_67,334,2.1.67,active,assert_has_karmadharaya,karmadharaya,yuvan;valina,2,literal_members,{b} qualified or identified by {a},yuvavalina,1
+d08f18c226086fe5,kashika_2_1.rs,sutra_2_1_67,335,2.1.67,active,assert_has_karmadharaya,karmadharaya,yuvan;jarati,2,literal_members,{b} qualified or identified by {a},yuvajarati,1
+df1e0e27407f21ab,kashika_2_2.rs,sutra_2_2_6,6,2.2.6,active,assert_has_avyaya_tatpurusha,avyaya_tatpurusha,naY;brAhmaRa,2,literal_members,{b} qualified by the indeclinable {a},abrAhmaRa,1
+da34fdf7a9095f1d,kashika_2_2.rs,sutra_2_2_6,7,2.2.6,active,assert_has_avyaya_tatpurusha,avyaya_tatpurusha,naY;vfzala,2,literal_members,{b} qualified by the indeclinable {a},avfzala,1
+31f8ab326b87a90a,kashika_2_2.rs,sutra_2_2_8,12,2.2.8,active,assert_has_sasthi_tatpurusha,sasthi_tatpurusha,rAjan;puruza,2,literal_members,{b} of {a},rAjapuruza,1
+e1c98f92ecffe692,kashika_2_2.rs,sutra_2_2_8,13,2.2.8,active,assert_has_sasthi_tatpurusha,sasthi_tatpurusha,brAhmaRa;kambala,2,literal_members,{b} of {a},brAhmaRakambala,1
+96c8ddb57b5fb501,kashika_2_2.rs,sutra_2_2_24,19,2.2.24,ignored,assert_has_bahuvrihi,bahuvrihi,UQa;raTa,2,literal_members,one characterized by {a} and {b},UQaraTa,1
+0b29f087f157e851,kashika_2_2.rs,sutra_2_2_24,20,2.2.24,ignored,assert_has_bahuvrihi,bahuvrihi,upagfta;paSu,2,literal_members,one characterized by {a} and {b},upagftapaSu,1
+540034eaec44eb07,kashika_2_2.rs,sutra_2_2_24,21,2.2.24,ignored,assert_has_bahuvrihi,bahuvrihi,udDfta;odana,2,literal_members,one characterized by {a} and {b},udDftOdana,1
+33f72618446d7677,kashika_2_2.rs,sutra_2_2_24,22,2.2.24,ignored,assert_has_bahuvrihi,bahuvrihi,citra;go,2,literal_members,one characterized by {a} and {b},citragu,1
+98cc65fe61e72058,kashika_2_2.rs,sutra_2_2_29,27,2.2.29,active,assert_has_dvandva,dvandva,plakza;nyagroDa,2,literal_members,{members} together,plakzanyagroDa,1
+b8e8c4607948beea,kashika_2_2.rs,sutra_2_2_29,28,2.2.29,active,assert_has_dvandva,dvandva,Dava;Kadira;palASa,3,literal_members,{members} together,DavaKadirapalASa,1
+8f742b6bf7561a02,kashika_2_2.rs,sutra_2_2_29,29,2.2.29,active,assert_has_samahara_dvandva,samahara_dvandva,vAc;tvac,2,literal_members,the collection of {members},vAktvaca,1
+468ff545fa15d2f7,kashika_2_2.rs,sutra_2_2_29,30,2.2.29,active,assert_has_samahara_dvandva,samahara_dvandva,vAc;dfzad,2,literal_members,the collection of {members},vAgdfzada,1

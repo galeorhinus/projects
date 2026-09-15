@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 6,
+  "implemented_compound_types": 8,
+  "source_assertions": 167,
+  "active_source_assertions": 132,
+  "unique_eligible_relations": 113,
+  "relations_asserted_by_pinned_active_tests": 113,
+  "locally_regenerated_relations": 113,
+  "additional_samasa_word_meanings": 113,
+  "combined_bounded_word_meaning_subtotal": 12845500,
+  "remaining_passes": 18,
+  "counts_by_compound_type": {
+    "avyaya_tatpurusha": 2,
+    "avyayibhava": 17,
+    "caturthi_tatpurusha": 11,
+    "dvandva": 2,
+    "dvitiya_tatpurusha": 10,
+    "karmadharaya": 24,
+    "panchami_tatpurusha": 11,
+    "samahara_dvandva": 2,
+    "saptami_tatpurusha": 11,
+    "sasthi_tatpurusha": 2,
+    "trtiya_tatpurusha": 21
+  },
+  "maximum_member_count": 3,
+  "maximum_derivational_depth": 1,
+  "inputs": {
+    "analysis/generativity/results/samasa_type_inventory.json": "c23fa81885e3326fdf37b7e86d09f039fa83e9a39f7f36e3530590421e312d38",
+    "analysis/generativity/results/samasa_source_examples.json": "82b506ef0f00f3ff03335788da3e1790dbff6cf2c037f0b0edef062d9abd1e02",
+    "analysis/generativity/results/samasa_eligibility.json": "8b896af411efeebe90f167590d6c257b5b09175932311d71062fb70607d3473d",
+    "analysis/generativity/results/samasa_verification.json": "3d41b22d42c9db0097ede5d64cda4a30c95289863a4fe3a76747bd1dcfbbfbb3",
+    "analysis/generativity/results/samasa_reconciliation.json": "83817bbf4817c8100ec52191b7905be13766294f458bada139780cbe5e777e0e",
+    "analysis/generativity/results/samasa_ledger.csv": "62ae94472001684decaff46aeb579cf0f20855bffb1b57f95da9890bd6ea24c3",
+    "analysis/generativity/results/generation_stage_graph.json": "e838214a4db2d37393e5ea94198088ce7512cb31c5a188044247989ad16400df",
+    "analysis/generativity/build_samasa_six_pass_summary.py": "17e6fbeec31428a6e7cd220993ad716e33953f92fb2f6baba30138b517ca6aad"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

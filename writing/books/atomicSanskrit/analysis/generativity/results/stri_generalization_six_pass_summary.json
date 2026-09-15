@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 6,
+  "selected_semantic_operations": 4,
+  "eligible_lexical_agent_meanings": 140568,
+  "engine_verified_relations": 140568,
+  "engine_exclusions": 0,
+  "confirmed_prior_overlaps": 2,
+  "same_spelling_cases_not_merged": 4,
+  "additional_generalized_stri_word_meanings": 140566,
+  "combined_bounded_word_meaning_subtotal": 12845387,
+  "remaining_passes": 24,
+  "inputs": {
+    "analysis/generativity/results/stri_generalization_classification.json": "17718f7f59d6e311bf1a9cf0ca26235b2a4794db6e4cdd83427534903e5b07e8",
+    "analysis/generativity/results/stri_generalization_eligibility.json": "74a49c331f6196c2737d04d66a1453244470d4c4f66537483a7c5f9c6165a4bc",
+    "analysis/generativity/results/stri_generalization_generation.json": "024f7dc4b76c6d81f80f6c2d0a7627ab26d3ece5e1506c42e51ea953cb87e5c7",
+    "analysis/generativity/results/stri_generalization_verification.json": "9923011f39103513c74c0f9341a240ffd3b352b052e8b394dcef7836014b0c4c",
+    "analysis/generativity/results/stri_generalization_reconciliation.json": "b60fb14e4f6fdacb1b87b38729cc3f75962921b437c104cab7bf3482cedd1c5f",
+    "analysis/generativity/results/stri_generalization_ledger.csv.gz": "c5c1333b497b5e8a4f4f9979e01d2ab41e553e051e23d3b22a23f60030367c22",
+    "analysis/generativity/results/generation_stage_graph.json": "4cd912dd6adb4ece651c74097c3f4af5494261ce9590b8458bbf7dc3d43e3bdd",
+    "analysis/generativity/build_stri_generalization_six_pass_summary.py": "aec9ed3a5f1d3232dfe68c259cc74c68c257255489dbb10c9a0444bfed57c30b"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

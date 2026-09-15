@@ -1,0 +1,53 @@
+member_id,source_layer,operation_id,forms_slp1,semantic_relation,domain,form_variant_count
+base:broad_taddhita:5e589811f7844a9620f2,base:broad_taddhita,state_tva,Bavanatva,the state or defining quality denoted by the nominal base,laukika,1
+base:broad_taddhita:2a1e8aeeeed55b87c667,base:broad_taddhita,state_tva,eDanatva,the state or defining quality denoted by the nominal base,laukika,1
+base:broad_taddhita:2055cfb25d478ad91fdc,base:broad_taddhita,state_tva,sparDanatva,the state or defining quality denoted by the nominal base,laukika,1
+base:broad_taddhita:7185d52a5309754fb804,base:broad_taddhita,state_tva,gADanatva,the state or defining quality denoted by the nominal base,laukika,1
+base:first_nominal:conditioned_krdanta:ced58d06e8c232a7ca6f,base:conditioned_krdanta,action_ktin,BUti,"the action or state expressed by the base, formed as a feminine nominal",laukika,1
+base:first_nominal:conditioned_krdanta:c2d90f3d9e294153b7ee,base:conditioned_krdanta,action_ktin,edDi,"the action or state expressed by the base, formed as a feminine nominal",laukika,1
+base:first_nominal:conditioned_krdanta:30df8a24af752db3ce3d,base:conditioned_krdanta,action_ktin,sparDi;spardDi,"the action or state expressed by the base, formed as a feminine nominal",laukika,2
+base:first_nominal:conditioned_krdanta:269c696cfe54906733fc,base:conditioned_krdanta,action_ktin,gAdDi,"the action or state expressed by the base, formed as a feminine nominal",laukika,1
+base:conditioned_taddhita:92921fd12c8aeb1e9d96,base:conditioned_taddhita,Ka,AQakIna,"What is capable of this, or holds this, or cooks this. (5.152)",laukika,1
+base:conditioned_taddhita:461094465d4a5ba652ae,base:conditioned_taddhita,Wak,AQakika,"What is capable of this, or holds this, or cooks this. (5.152)",laukika,1
+base:conditioned_taddhita:3edc979fcfea69e8f6e1,base:conditioned_taddhita,Ka,ASitaNgavIna,,laukika,1
+base:conditioned_taddhita:522cc5ce4315afd6bdd6,base:conditioned_taddhita,vuY,ASvayujaka,Where this was adapted. (4.3.41),laukika,1
+base:first_nominal:declared:kunti,base:declared_pilot_nominal,,kuntI,कुन्ती (Kuntī),laukika,1
+base:first_nominal:declared:suparna,base:declared_pilot_nominal,,suparRA,सुपर्णा (Suparṇā),laukika,1
+base:first_nominal:declared:vinata,base:declared_pilot_nominal,,vinatA,विनता (Vinatā),laukika,1
+base:first_nominal:declared:mitra,base:declared_pilot_nominal,,mitra,मित्र (mitra),laukika,1
+base:first_nominal:direct_krdanta:073a08498247064e9cd4,base:direct_krdanta,action_lyut,Bavana,the action or state expressed by the base,laukika,1
+base:first_nominal:direct_krdanta:692170858767473a1cda,base:direct_krdanta,action_lyut,eDana,the action or state expressed by the base,laukika,1
+base:first_nominal:direct_krdanta:9f893830b9f3011d1272,base:direct_krdanta,action_lyut,sparDana,the action or state expressed by the base,laukika,1
+base:first_nominal:direct_krdanta:71ff99e966b04694ca4c,base:direct_krdanta,action_lyut,gADana,the action or state expressed by the base,laukika,1
+base:first_nominal:prefixed_krdanta:27e5367e9ec0f172d559,base:prefixed_krdanta,agent_nvul,praBAvaka,an agent who performs the base action from the prefixed verbal meaning,laukika,1
+base:first_nominal:prefixed_krdanta:22eab9929d04beb3be62,base:prefixed_krdanta,agent_nvul,prEDaka,an agent who performs the base action from the prefixed verbal meaning,laukika,1
+base:first_nominal:prefixed_krdanta:ea7ca8dcc43dfce6df9c,base:prefixed_krdanta,agent_nvul,prasparDaka,an agent who performs the base action from the prefixed verbal meaning,laukika,1
+base:first_nominal:prefixed_krdanta:24e44daa64a7407aa6ce,base:prefixed_krdanta,agent_nvul,pragADaka,an agent who performs the base action from the prefixed verbal meaning,laukika,1
+base:first_nominal:sanadi_krdanta:bbfda9b02b622b5a01cb,base:sanadi_krdanta,agent_nvul,BAvaka,an agent who performs the base action from the admitted sanadi-derived verbal meaning,laukika,1
+base:first_nominal:sanadi_krdanta:ef6e12c15909bfed293b,base:sanadi_krdanta,agent_nvul,eDaka,an agent who performs the base action from the admitted sanadi-derived verbal meaning,laukika,1
+base:first_nominal:sanadi_krdanta:4c2f9d489deff5af3155,base:sanadi_krdanta,agent_nvul,sparDaka,an agent who performs the base action from the admitted sanadi-derived verbal meaning,laukika,1
+base:first_nominal:sanadi_krdanta:5b1158922e6ad8686791,base:sanadi_krdanta,agent_nvul,gADaka,an agent who performs the base action from the admitted sanadi-derived verbal meaning,laukika,1
+base:stri:393ce7caa59f7109ae7b,base:stri,wAp,BastraPalA,feminine counterpart of the demonstrated nominal base,laukika,1
+base:stri:9258fb06c8c1b889eb70,base:stri,NIz,BavAnI,feminine counterpart of the demonstrated nominal base,laukika,1
+base:stri:adeb942508ea6170158f,base:stri,NIp,CatriRI,feminine counterpart of the demonstrated nominal base,laukika,1
+base:stri:8792659db93b0c391028,base:stri,NIp,DIvarI,feminine counterpart of the demonstrated nominal base,laukika,1
+conditioned_suffix:f141534c9ff0201c3d48,conditioned_suffix,devata_relation,dyAvApfTivIya,having the named form as its devata,laukika,1
+conditioned_suffix:8a1d9aad5b7d7155e60e,conditioned_suffix,devata_relation,dyAvApfTivya,having the named form as its devata,laukika,1
+conditioned_suffix:d3e518aab10c65c22c75,conditioned_suffix,devata_relation,SunAsIrIya,having the named form as its devata,laukika,1
+conditioned_suffix:a17936e8188a61650d4b,conditioned_suffix,devata_relation,SunAsIrya,having the named form as its devata,laukika,1
+degree:0bbd18f4fd34975cece5,degree,superlative_tamap,Bavanatama,the nominal meaning understood to the highest degree within the intended comparison,laukika,1
+degree:2d3b75f7d1050487cdf4,degree,superlative_tamap,eDanatama,the nominal meaning understood to the highest degree within the intended comparison,laukika,1
+degree:43bb5e2d7685fdf692f8,degree,superlative_tamap,sparDanatama,the nominal meaning understood to the highest degree within the intended comparison,laukika,1
+degree:1352cac55641b2d57c4f,degree,superlative_tamap,gADanatama,the nominal meaning understood to the highest degree within the intended comparison,laukika,1
+lexical_stri:f9c8b50d7ec9c3193a8d,lexical_stri,blessed_agent_vun,SvalkakA,a wished-for female agent who performs the source action,laukika,1
+lexical_stri:74e734da586d9de5a534,lexical_stri,blessed_agent_vun,knavakA,a wished-for female agent who performs the source action,laukika,1
+lexical_stri:ae445b1da61ef607c7a6,lexical_stri,blessed_agent_vun,tUrakA,a wished-for female agent who performs the source action,laukika,1
+lexical_stri:55c607774d06c1b30d6b,lexical_stri,agent_ac,vAhA,a female agent characterized by performing the source action,laukika,1
+nan:141ccf7ffc76723b270f,nan,nan_privative,aBavana,"the absence, non-occurrence, or negation of the source nominal meaning",laukika,1
+nan:7fe676d8ca4275a75cc1,nan,nan_privative,aneDana,"the absence, non-occurrence, or negation of the source nominal meaning",laukika,1
+nan:a4a276a44e0cabb7ec54,nan,nan_privative,asparDana,"the absence, non-occurrence, or negation of the source nominal meaning",laukika,1
+nan:9bf940c7c29add184df6,nan,nan_privative,agADana,"the absence, non-occurrence, or negation of the source nominal meaning",laukika,1
+plain_taddhita:ff22232ab00ecd306c9b,plain_taddhita,aR,SEva,a descendant or child of the named person,laukika,1
+plain_taddhita:19a81c2e3acb50bc8de3,plain_taddhita,aR,kAnIna,a descendant or child of the named person,laukika,1
+plain_taddhita:04b88828446da37a5fa8,plain_taddhita,aR,prOzWa,a descendant or child of the named person,laukika,1
+plain_taddhita:35c3e66333a05645b744,plain_taddhita,aR,yAmuna,a descendant or child of the named person,laukika,1

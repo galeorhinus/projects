@@ -1,0 +1,188 @@
+{
+  "date": "2026-09-13",
+  "scope": "Classification of all 122 ordinary krt identifiers exposed by pinned Vidyut 0.4.0 for a bounded laukika nominal-derivation pass.",
+  "ordinary_krt_identifiers": 122,
+  "classification_counts": {
+    "bounded_laukika_generation": 12,
+    "laukika_avyaya_deferred": 3,
+    "near_duplicate_deferred": 1,
+    "root_or_construction_conditioned_deferred": 87,
+    "vedic_only_deferred": 19
+  },
+  "property_counts": {
+    "vedic_only": 19,
+    "avyaya": 21,
+    "near_duplicate": 7
+  },
+  "bounded_laukika_identifiers": 12,
+  "bounded_laukika_semantic_operations": 14,
+  "bounded_operations": [
+    {
+      "operation_id": "agent_nvul",
+      "source_variant": "Rvul",
+      "display": "ण्वुल् (ṇvul), agent",
+      "semantic_branch_id": "agent",
+      "semantic_relation": "an agent who performs the base action",
+      "rule_refs": [
+        "3.1.133"
+      ]
+    },
+    {
+      "operation_id": "agent_trc",
+      "source_variant": "tfc",
+      "display": "तृच् (tṛc), agent",
+      "semantic_branch_id": "agent",
+      "semantic_relation": "an agent who performs the base action",
+      "rule_refs": [
+        "3.1.133"
+      ]
+    },
+    {
+      "operation_id": "action_lyut",
+      "source_variant": "lyuw",
+      "display": "ल्युट् (lyuṭ), action",
+      "semantic_branch_id": "action",
+      "semantic_relation": "the action or state expressed by the base",
+      "rule_refs": [
+        "3.3.115"
+      ]
+    },
+    {
+      "operation_id": "instrument_lyut",
+      "source_variant": "lyuw",
+      "display": "ल्युट् (lyuṭ), instrument",
+      "semantic_branch_id": "instrument",
+      "semantic_relation": "an instrument by which the base action is performed",
+      "rule_refs": [
+        "3.3.117"
+      ]
+    },
+    {
+      "operation_id": "location_lyut",
+      "source_variant": "lyuw",
+      "display": "ल्युट् (lyuṭ), location",
+      "semantic_branch_id": "location",
+      "semantic_relation": "a location in which the base action occurs",
+      "rule_refs": [
+        "3.3.117"
+      ]
+    },
+    {
+      "operation_id": "completed_kta",
+      "source_variant": "kta",
+      "display": "क्त (kta), completed-action formation",
+      "semantic_branch_id": "completed_action",
+      "semantic_relation": "a participant or state characterized by completion of the base action",
+      "rule_refs": [
+        "3.2.102",
+        "3.4.70"
+      ]
+    },
+    {
+      "operation_id": "completed_agent_ktavatu",
+      "source_variant": "ktavatu",
+      "display": "क्तवतु (ktavatu), completed-action agent",
+      "semantic_branch_id": "completed_action_agent",
+      "semantic_relation": "an agent characterized by having completed the base action",
+      "rule_refs": [
+        "3.2.102"
+      ]
+    },
+    {
+      "operation_id": "present_satr",
+      "source_variant": "Satf",
+      "display": "शतृ (śatṛ), present participant",
+      "semantic_branch_id": "present_participant",
+      "semantic_relation": "a participant currently performing the base action in the parasmaipada formation",
+      "rule_refs": [
+        "3.2.124"
+      ]
+    },
+    {
+      "operation_id": "present_sanac",
+      "source_variant": "SAnac",
+      "display": "शानच् (śānac), present participant",
+      "semantic_branch_id": "present_participant",
+      "semantic_relation": "a participant currently performing or undergoing the base action in the atmanepada formation",
+      "rule_refs": [
+        "3.2.124"
+      ]
+    },
+    {
+      "operation_id": "obligation_tavya",
+      "source_variant": "tavya",
+      "display": "तव्य (tavya), obligation or fitness",
+      "semantic_branch_id": "obligation_or_fitness",
+      "semantic_relation": "the base action is to be performed or is fitting to be performed",
+      "rule_refs": [
+        "3.1.96"
+      ]
+    },
+    {
+      "operation_id": "obligation_aniyar",
+      "source_variant": "anIyar",
+      "display": "अनीयर् (anīyar), obligation or fitness",
+      "semantic_branch_id": "obligation_or_fitness",
+      "semantic_relation": "the base action is to be performed or is fitting to be performed",
+      "rule_refs": [
+        "3.1.96"
+      ]
+    },
+    {
+      "operation_id": "obligation_yat",
+      "source_variant": "yat",
+      "display": "यत् (yat), obligation or fitness",
+      "semantic_branch_id": "obligation_or_fitness",
+      "semantic_relation": "the base action is to be performed or is fitting to be performed",
+      "rule_refs": [
+        "3.1.97",
+        "3.1.124"
+      ]
+    },
+    {
+      "operation_id": "obligation_kyap",
+      "source_variant": "kyap",
+      "display": "क्यप् (kyap), obligation or fitness",
+      "semantic_branch_id": "obligation_or_fitness",
+      "semantic_relation": "the base action is to be performed or is fitting to be performed",
+      "rule_refs": [
+        "3.1.97",
+        "3.1.124"
+      ]
+    },
+    {
+      "operation_id": "obligation_nyat",
+      "source_variant": "Ryat",
+      "display": "ण्यत् (ṇyat), obligation or fitness",
+      "semantic_branch_id": "obligation_or_fitness",
+      "semantic_relation": "the base action is to be performed or is fitting to be performed",
+      "rule_refs": [
+        "3.1.97",
+        "3.1.124"
+      ]
+    }
+  ],
+  "classification_policy": {
+    "selected": "General laukika nominal formations whose semantic relation and governing rule are explicit enough for the current bounded count.",
+    "vedic_only": "Preserved for a separate vaidika-domain count.",
+    "avyaya": "Preserved for the separate avyaya pass.",
+    "near_duplicate": "Not counted when the pinned source says it always duplicates another result except for accent.",
+    "conditioned": "Preserved for root-, prefix-, upapada-, sense-, or other construction-level review; absence from a dictionary is not the reason for deferral."
+  },
+  "vocabulary_total": null,
+  "publication_status": "classification_only_not_deployed",
+  "source": {
+    "filename": "vidyut-args-krt.rs",
+    "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/krt.rs",
+    "accessed_utc": "2026-09-13T05:27:01.241686+00:00",
+    "sha256": "07e2a29545918b1528fa13eaf66b3fe5c9585184f945df5c479a25525de33f6f",
+    "bytes": 20834
+  },
+  "inputs": {
+    "analysis/generativity/results/operation_inventory.csv": "a0b4d287fd42f2e8b4b3edaf77a51f4ed65c42978dab781a7d31ff754c7cc289",
+    "analysis/generativity/krt_classification.json": "7536d6f4d2df87dd13ab5936f0646b03c1aa94ba6dfdfbcfe0d823d6042802b3",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-args-krt.rs": "07e2a29545918b1528fa13eaf66b3fe5c9585184f945df5c479a25525de33f6f",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/classify_krt_inventory.py": "6d44ce1f75e7de529a8a106540ab7d128b316278a909572e62e9861dfbfee088"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-13",
+  "scope": "Semantic classification of the nineteen Vedic-domain krt identifiers exposed by pinned Vidyut 0.4.0 plus kvasu, whose general Vedic domain is supplied by Ashtadhyayi 3.2.107 despite the engine metadata. Alternative suffixes and accent variants do not become separate word-meanings merely because their forms differ.",
+  "identifiers": [
+    "tosun", "kasun", "kAnac", "se", "sen", "ase", "asen", "kase", "kasen", "kamul",
+    "aDyE", "aDyEn", "kaDyE", "kaDyEn", "SaDyE", "SaDyEn", "tavE", "taveN", "taven", "kvasu"
+  ],
+  "operations": [
+    {
+      "operation_id": "vedic_perfect_participle_kanac",
+      "identifiers": ["kAnac"],
+      "semantic_branch_id": "vedic_perfect_participant",
+      "semantic_relation": "a participant characterized by the base action in the Vedic perfect",
+      "rule_refs": ["3.2.105", "3.2.106"],
+      "condition": "Vedic domain; kAnac optionally replaces lit",
+      "engine_strategy": "direct"
+    },
+    {
+      "operation_id": "vedic_perfect_participle_kvasu",
+      "identifiers": ["kvasu"],
+      "semantic_branch_id": "vedic_perfect_active_participant",
+      "semantic_relation": "an active participant characterized by the base action in the Vedic perfect",
+      "rule_refs": ["3.2.105", "3.2.107"],
+      "condition": "Vedic domain generally; later rules separately license limited forms in bhasha",
+      "engine_strategy": "direct"
+    },
+    {
+      "operation_id": "vedic_purpose_family_3_4_9",
+      "identifiers": ["se", "sen", "ase", "asen", "kase", "kasen", "aDyE", "aDyEn", "kaDyE", "kaDyEn", "SaDyE", "SaDyEn", "tavE", "taveN", "taven"],
+      "semantic_branch_id": "purpose",
+      "semantic_relation": "the purpose of performing the base action",
+      "rule_refs": ["3.4.9"],
+      "condition": "Vedic domain; tumun sense",
+      "engine_strategy": "coverage_gap"
+    },
+    {
+      "operation_id": "vedic_sak_purpose_kamul",
+      "identifiers": ["kamul"],
+      "semantic_branch_id": "purpose_with_sak",
+      "semantic_relation": "the base action as the purpose complement of sak, to be capable",
+      "rule_refs": ["3.4.12"],
+      "condition": "Vedic domain; sak is the accompanying verb",
+      "engine_strategy": "conditioned"
+    },
+    {
+      "operation_id": "vedic_isvara_purpose_tosun_kasun",
+      "identifiers": ["tosun", "kasun"],
+      "semantic_branch_id": "purpose_with_isvara",
+      "semantic_relation": "the base action as the purpose complement of isvara, to be capable",
+      "rule_refs": ["3.4.13"],
+      "condition": "Vedic domain; isvara is the accompanying word",
+      "engine_strategy": "coverage_gap"
+    },
+    {
+      "operation_id": "vedic_bhavalaksana_tosun",
+      "identifiers": ["tosun"],
+      "semantic_branch_id": "event_delimiter",
+      "semantic_relation": "the base action marks the event boundary for another action",
+      "rule_refs": ["3.4.16"],
+      "condition": "Vedic domain; bhavalaksana; limited to stha, i, kr, vad, car, hu, tam, and jan",
+      "eligible_source_codes": ["01.1077", "02.0040", "08.0010", "01.1164", "01.0640", "03.0001", "04.0099", "04.0044"],
+      "engine_strategy": "coverage_gap"
+    },
+    {
+      "operation_id": "vedic_bhavalaksana_kasun",
+      "identifiers": ["kasun"],
+      "semantic_branch_id": "event_delimiter",
+      "semantic_relation": "the base action marks the event boundary for another action",
+      "rule_refs": ["3.4.17"],
+      "condition": "Vedic domain; bhavalaksana; limited to srp and trd",
+      "eligible_source_codes": ["01.1138", "07.0009"],
+      "engine_strategy": "conditioned"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-15",
+  "pass": 3,
+  "stages": [
+    {
+      "id": "atoms",
+      "count": 2634,
+      "label": "Recorded semantic atoms and their meanings",
+      "operation": "starting inventory",
+      "examples": [
+        "⟪गम्⟫ (gam), to go",
+        "⟪दृश्⟫ (dṛś), to see"
+      ]
+    },
+    {
+      "id": "first_verbal_expansion",
+      "count": 318285,
+      "label": "Verbal meanings after prefixes and transformations",
+      "operation": "redirect an action; express causation, desire, repetition, or intensity",
+      "examples": [
+        "आ + ⟪गम्⟫ redirects going toward coming",
+        "the causative makes an agent cause the action"
+      ]
+    },
+    {
+      "id": "two_prefixes",
+      "count": 1369625,
+      "label": "Verbal meanings after two ordered prefixes",
+      "operation": "apply a second ordered redirection",
+      "examples": [
+        "सम् + आ + ⟪गम्⟫ produces समागम्, the base behind समागम (samāgama), coming together"
+      ]
+    },
+    {
+      "id": "first_derivatives",
+      "count": 2174721,
+      "label": "Actions, agents, instruments, qualities, and obligations",
+      "operation": "turn verbal meanings into further kinds of meaning",
+      "examples": [
+        "दर्शन (darśana), seeing",
+        "कर्तव्य (kartavya), what ought to be done"
+      ]
+    },
+    {
+      "id": "noun_relations",
+      "count": 4762664,
+      "label": "Quality, state, possession, descent, origin, use, and measure",
+      "operation": "make a generated noun the input to another relation",
+      "examples": [
+        "कर्तृत्व (kartṛtva), agency",
+        "कौन्तेय (Kaunteya), a son or descendant of Kuntī"
+      ]
+    },
+    {
+      "id": "nouns_back_to_verbs",
+      "count": 7939066,
+      "label": "Nouns returned to the verbal engine",
+      "operation": "turn a nominal meaning into a new action",
+      "examples": [
+        "नमस्यति (namasyati), offers honor or worship",
+        "श्येनायते (śyenāyate), acts like a falcon"
+      ]
+    },
+    {
+      "id": "negative_counterparts",
+      "count": 11116406,
+      "label": "Negative counterparts",
+      "operation": "express absence, non-occurrence, or negation once per eligible meaning",
+      "examples": [
+        "ज्ञान (jñāna) → अज्ञान (ajñāna)",
+        "कर्तृत्व (kartṛtva) → अकर्तृत्व (akartṛtva)"
+      ]
+    },
+    {
+      "id": "bounded_lexical_subtotal",
+      "count": 12846458,
+      "label": "Bounded word-meaning subtotal before inflection",
+      "operation": "add comparison, female-agent meanings, bounded compounds, and one post-compound step",
+      "examples": [
+        "महापुरुष (mahāpuruṣa) → महापुरुषत्व (mahāpuruṣatva)"
+      ]
+    },
+    {
+      "id": "laukika_grammatical_capacity",
+      "count": 602707133,
+      "label": "Complete declared लौकिक grammatical capacity",
+      "operation": "carry action meanings through 10 × 3 × 3 and name meanings through 8 × 3; retain unchanging words once",
+      "examples": [
+        "भवति, भवतः, भवन्ति",
+        "कौन्तेयः, कौन्तेयौ, कौन्तेयाः"
+      ]
+    }
+  ],
+  "vedic_branch": {
+    "count": 213398,
+    "unit": "lexical_word_meaning",
+    "enters_final_laukika_capacity": false
+  },
+  "recursive_compound_capacity_enters_headline": false,
+  "inputs": {
+    "analysis/generativity/results/generation_stage_graph.json": "790379405d28916d6cb22d71e18e19c8f52b85de2a3ae5e1d4511607110a9b37",
+    "analysis/generativity/results/integrated_grammatical_capacity.json": "b99d5cee146a91c52f2ae0537d5f88503b7ffa331d3ef81da45b309a4a1a989d",
+    "analysis/generativity/results/vaidika_capacity_boundary.json": "65d63060b7450b3f84b3bc3fd6e40a9861faa8de763d78fa99cd0045fe5d9f05"
+  }
+}

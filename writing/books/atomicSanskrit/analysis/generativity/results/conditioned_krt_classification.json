@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-13",
+  "scope": "A conservative source-defined subset of the 87 krt identifiers previously deferred for root, meaning, prefix, upapada, or construction conditions.",
+  "deferred_identifiers_classified": 87,
+  "engine_path_classification_counts": {
+    "direct_full_source_entry_coverage": 7,
+    "direct_root_conditioned_coverage": 60,
+    "prefix_conditioned_coverage": 3,
+    "upapada_other_construction_or_engine_gap": 17
+  },
+  "selected_identifiers": 7,
+  "selected_semantic_operations": 10,
+  "selected_operations": [
+    {
+      "operation_id": "agent_ac",
+      "source_variant": "ac",
+      "display": "अच् (ac), agent",
+      "semantic_branch_id": "agent",
+      "semantic_relation": "an agent characterized by performing the base action",
+      "rule_refs": [
+        "3.1.134",
+        "Varttika 3.1.134.1"
+      ]
+    },
+    {
+      "operation_id": "susceptibility_kelimar",
+      "source_variant": "kelimar",
+      "display": "केलिमर् (kelimar), susceptibility or ease",
+      "semantic_branch_id": "susceptibility",
+      "semantic_relation": "a participant or object is susceptible to, fit for, or readily undergoes the base action",
+      "rule_refs": [
+        "Varttika 3.1.96.2"
+      ]
+    },
+    {
+      "operation_id": "blessed_agent_vun",
+      "source_variant": "vun",
+      "display": "वुन् (vun), agent wished for in a blessing",
+      "semantic_branch_id": "blessing_agent",
+      "semantic_relation": "a wished-for agent who performs the base action",
+      "rule_refs": [
+        "3.1.150"
+      ]
+    },
+    {
+      "operation_id": "habit_canas",
+      "source_variant": "cAnaS",
+      "display": "चानश् (cānaś), habitual disposition",
+      "semantic_branch_id": "habit_or_disposition",
+      "semantic_relation": "a participant characterized by a habit or disposition toward the base action",
+      "rule_refs": [
+        "3.2.129"
+      ]
+    },
+    {
+      "operation_id": "age_canas",
+      "source_variant": "cAnaS",
+      "display": "चानश् (cānaś), age or stage of life",
+      "semantic_branch_id": "age_or_life_stage",
+      "semantic_relation": "a participant whose age or stage of life is characterized through the base action",
+      "rule_refs": [
+        "3.2.129"
+      ]
+    },
+    {
+      "operation_id": "capacity_canas",
+      "source_variant": "cAnaS",
+      "display": "चानश् (cānaś), capacity",
+      "semantic_branch_id": "capacity",
+      "semantic_relation": "a participant possessing the capacity to perform the base action",
+      "rule_refs": [
+        "3.2.129"
+      ]
+    },
+    {
+      "operation_id": "action_ktin",
+      "source_variant": "ktin",
+      "display": "क्तिन् (ktin), action or state",
+      "semantic_branch_id": "action_or_state",
+      "semantic_relation": "the action or state expressed by the base, formed as a feminine nominal",
+      "rule_refs": [
+        "3.3.94"
+      ]
+    },
+    {
+      "operation_id": "instrument_name_gha",
+      "source_variant": "Ga",
+      "display": "घ (gha), instrument designation",
+      "semantic_branch_id": "instrument_designation",
+      "semantic_relation": "a masculine designation for an instrument associated with the base action",
+      "rule_refs": [
+        "3.3.118"
+      ]
+    },
+    {
+      "operation_id": "location_name_gha",
+      "source_variant": "Ga",
+      "display": "घ (gha), location designation",
+      "semantic_branch_id": "location_designation",
+      "semantic_relation": "a masculine designation for a location associated with the base action",
+      "rule_refs": [
+        "3.3.118"
+      ]
+    },
+    {
+      "operation_id": "blessing_name_ktic",
+      "source_variant": "ktic",
+      "display": "क्तिच् (ktic), designation in a blessing",
+      "semantic_branch_id": "blessing_designation",
+      "semantic_relation": "a designation formed from the base action in the setting of a blessing",
+      "rule_refs": [
+        "3.3.174"
+      ]
+    }
+  ],
+  "classification_boundary": "The engine path is a coverage diagnostic, not a grammatical license. Only operations with an explicit semantic relation and source rule enter the next ledger. Zero output does not prove prohibition.",
+  "vocabulary_total": null,
+  "publication_status": "classification_only_not_deployed",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "source": {
+    "filename": "vidyut-krt-basic.rs",
+    "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/krt/basic.rs",
+    "accessed_utc": "2026-09-13T09:07:15.500086+00:00",
+    "sha256": "d4316e3cedba64a1b6a9bcbff762b8a6d56a576572769fc166bd76f5188bd5f6",
+    "bytes": 66932
+  },
+  "inputs": {
+    "analysis/generativity/results/krt_classification.csv": "0d092bf481bb106a15a24274e8ecde5894eaf06664a75ed501038b797004a3f3",
+    "analysis/generativity/upasarga_inventory.csv": "cf3e86d1d8e7ebc6613130b99a11c1d0da4a943093cbbbc72667e08004a82c04",
+    "analysis/generativity/conditioned_krt_operations.json": "96027959f27ad812c0a34d1bb7f07bf1a4ceca53dd554305eca2b4564c0a0dcf",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/classify_conditioned_krt.py": "76cd2fd96499535ce29c3581845dffebbbcea85011ece348520c45920f7517b3"
+  }
+}

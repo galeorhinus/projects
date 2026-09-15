@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-14",
+  "candidate_relations": 958,
+  "verified_relations": 958,
+  "mismatches": 0,
+  "verification_scope": "Separate exact output-set regeneration from every admitted source compound and declared second operation.",
+  "inputs": {
+    "analysis/generativity/results/compound_stack_candidates.csv": "7dbdd2f3a1e4d513190364c10fc9179470e5994c141987ee4693d86ccc1322a3",
+    "analysis/generativity/results/compound_stack_verification.csv": "41881ec4af415b90443d917aa546d040b780d29a64442fd24b02d75dcda5af4c",
+    "analysis/generativity/verify_compound_stack_ledger.py": "0bc483834af746c00f1aadd4867527e1cd7d53ab1ed821a7049c870f658a9d4d"
+  }
+}

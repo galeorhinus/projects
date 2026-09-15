@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-13",
+  "active_resolved_assertions": 66,
+  "unique_source_demonstrated_inputs": 65,
+  "duplicate_assertions_collapsed": 1,
+  "ignored_or_unresolved_assertions_excluded": 11,
+  "eligibility_policy": "Only an active, source-located feminine assertion creates a candidate. Repeated assertions for one input collapse into one feminine word-meaning relation; alternative forms remain variants of that relation.",
+  "broad_nominal_multiplier_applied": false,
+  "inputs": {
+    "analysis/generativity/results/stri_source_examples.csv": "69e58510535bab5758f101c05c9d8e5813ae446bafa1b68522889350447e93c0"
+  },
+  "publication_status": "research_eligibility_only_not_deployed"
+}

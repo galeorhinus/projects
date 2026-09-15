@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-13",
+  "prior_combined_bounded_word_meanings": 2379459,
+  "prior_taddhita_pilot_word_meanings_already_counted": 7,
+  "broad_taddhita_ledger_word_meanings": 2382237,
+  "additional_taddhita_word_meanings": 2382230,
+  "bounded_laukika_subtotal_after_taddhita_expansion": 4548291,
+  "bounded_vaidika_subtotal_unchanged": 213398,
+  "combined_bounded_word_meaning_subtotal": 4761689,
+  "unsupported_vaidika_semantic_candidates_not_counted": 5280,
+  "scope_limits": [
+    "The nominal input boundary contains generated laukika krdanta meanings plus five declared pilot nominals, not every inherited Sanskrit nominal.",
+    "Only three general taddhita relations and three listed descendant examples are admitted.",
+    "Conditioned taddhita relations, feminine formations, nominally derived verbs, compounds, deeper stacks, and inflection remain outside the subtotal."
+  ],
+  "inputs": {
+    "analysis/generativity/results/vaidika_laukika_reconciliation.json": "ea0241dd5e8838426581dbbd32c4e5df10e1ac522495c236c74a69f7cd1d0df9",
+    "analysis/generativity/results/taddhita_pilot_ledger.csv": "1daea7bf8423fc8e993ec7bf91ca8874b4b41b88e877304b3884ca42c61a5b06",
+    "analysis/generativity/results/taddhita_summary.json": "f7ef38ea7a99ca0fe4c9df0664fbbe8f599178b07755a78184cc751c4180dbf7",
+    "analysis/generativity/results/taddhita_ledger.csv.gz": "f8a0cc8a88d7b85631e71bb82c0bc36be73ddcba65d13f04807d908afe78f19d",
+    "analysis/generativity/build_taddhita_reconciliation.py": "16f5fd95cb1a593b9baf2894cc3f23c6d91ce93326b2587e8aeedfaac23bbabf"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

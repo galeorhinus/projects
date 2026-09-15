@@ -1,0 +1,10 @@
+verbal_word_meaning_id,source_layer,base_source_codes,base_citations_slp1,meaning,input_forms_slp1,prefixes_slp1,operation_id,constructor,output_base_forms_slp1
+base:71c4b5e50db4b382b2c3,base,01.0001,BU,सत्तायाम् (sattāyām),,,,,BU
+base:56e552412e3ebfe4b646,base,01.0002,eDa~\,वृद्धौ (vṛddhau),,,,,eDa~\
+one_sanadi:f1314ebb8d6ad926716e,one_sanadi,01.0001,BU,"cause an independent agent to perform the base action, or bring about the base state",,,causative,,BAvi
+one_upasarga:f68a2f1ffbbbc67b4753,one_upasarga,01.0001,BU,the upasarga modifies the base action; exact contextual gloss remains open,,pra,,,praBU
+upasarga_sanadi:1391aa7528fb82a94755,upasarga_sanadi,01.0001,BU,"cause an independent agent to perform the base action, or bring about the base state with the action modified by pra",,pra,causative,,praBAvi
+curadi_true_causative:b1003430eb7d860d6037,curadi_true_causative,10.0001,cura~,"cause an independent agent to perform the base action, or bring about the base state",,,curadi_true_causative,,cori
+two_upasarga:55b94962bf3288e1202b,two_upasarga,01.0001,BU,the ordered pair of upasargas modifies the base action; exact contextual gloss remains open,,pra;pra,,,prapraBU
+namadhatu:53b29795f184979d0168,namadhatu,,,desire the nominal referent in relation to oneself,Bavana,,self_desire_kyac,kyac,BavanIya
+compound_namadhatu:653996470a251f0a3d9e,compound_namadhatu,,,desire the compound referent in relation to oneself,abrAhmaRa,,self_desire_kyac,kyac,abrAhmaRIya

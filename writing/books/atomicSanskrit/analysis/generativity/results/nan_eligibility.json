@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-13",
+  "eligible_nominal_word_meanings": 3177340,
+  "eligible_by_source_layer": {
+    "first_nominal_inventory": 794078,
+    "broad_taddhita": 2382237,
+    "conditioned_taddhita": 975,
+    "stri": 50
+  },
+  "semantic_operations_per_input": 1,
+  "candidate_nan_word_meanings": 3177340,
+  "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+  "exclusions": [
+    "vaidika nominal meanings outside the declared laukika inventory",
+    "recursive application of नञ् to its own outputs",
+    "multiple philosophical interpretations of negation",
+    "compound inflection"
+  ],
+  "inputs": {
+    "analysis/generativity/nan_operations.json": "0feab8bb6019bb5ccbdd4b7d3a27789273fe8a52d10384a461ec2f2b39185937",
+    "analysis/generativity/results/nominal_input_inventory.csv.gz": "e537b66b74d98626abb5772e7b4ac85340d21df58cfc7a34c727e529e0a1340e",
+    "analysis/generativity/results/taddhita_ledger.csv.gz": "f8a0cc8a88d7b85631e71bb82c0bc36be73ddcba65d13f04807d908afe78f19d",
+    "analysis/generativity/results/conditioned_taddhita_ledger.csv": "ec2419b7dbbeeb4d113b3028502807f618f362c24f64cfe2e34ff984577db384",
+    "analysis/generativity/results/stri_ledger.csv": "456596e17c3dbba58c9bb3dd834c5734d5f9370838f68742ad9cab5e9234b4df",
+    "analysis/generativity/build_nan_eligibility.py": "170191651947f678bc0d69e44895224eb4761d56fcf245d3e0aa90952ab602e8"
+  },
+  "publication_status": "research_eligibility_only_not_deployed"
+}

@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-13",
+  "scope": "A conservative source-defined subset of the 87 krt identifiers previously deferred for root, meaning, prefix, upapada, or construction conditions.",
+  "operations": [
+    {
+      "operation_id": "agent_ac",
+      "source_variant": "ac",
+      "display": "अच् (ac), agent",
+      "semantic_branch_id": "agent",
+      "semantic_relation": "an agent characterized by performing the base action",
+      "rule_refs": ["3.1.134", "Varttika 3.1.134.1"]
+    },
+    {
+      "operation_id": "susceptibility_kelimar",
+      "source_variant": "kelimar",
+      "display": "केलिमर् (kelimar), susceptibility or ease",
+      "semantic_branch_id": "susceptibility",
+      "semantic_relation": "a participant or object is susceptible to, fit for, or readily undergoes the base action",
+      "rule_refs": ["Varttika 3.1.96.2"]
+    },
+    {
+      "operation_id": "blessed_agent_vun",
+      "source_variant": "vun",
+      "display": "वुन् (vun), agent wished for in a blessing",
+      "semantic_branch_id": "blessing_agent",
+      "semantic_relation": "a wished-for agent who performs the base action",
+      "rule_refs": ["3.1.150"]
+    },
+    {
+      "operation_id": "habit_canas",
+      "source_variant": "cAnaS",
+      "display": "चानश् (cānaś), habitual disposition",
+      "semantic_branch_id": "habit_or_disposition",
+      "semantic_relation": "a participant characterized by a habit or disposition toward the base action",
+      "rule_refs": ["3.2.129"]
+    },
+    {
+      "operation_id": "age_canas",
+      "source_variant": "cAnaS",
+      "display": "चानश् (cānaś), age or stage of life",
+      "semantic_branch_id": "age_or_life_stage",
+      "semantic_relation": "a participant whose age or stage of life is characterized through the base action",
+      "rule_refs": ["3.2.129"]
+    },
+    {
+      "operation_id": "capacity_canas",
+      "source_variant": "cAnaS",
+      "display": "चानश् (cānaś), capacity",
+      "semantic_branch_id": "capacity",
+      "semantic_relation": "a participant possessing the capacity to perform the base action",
+      "rule_refs": ["3.2.129"]
+    },
+    {
+      "operation_id": "action_ktin",
+      "source_variant": "ktin",
+      "display": "क्तिन् (ktin), action or state",
+      "semantic_branch_id": "action_or_state",
+      "semantic_relation": "the action or state expressed by the base, formed as a feminine nominal",
+      "rule_refs": ["3.3.94"]
+    },
+    {
+      "operation_id": "instrument_name_gha",
+      "source_variant": "Ga",
+      "display": "घ (gha), instrument designation",
+      "semantic_branch_id": "instrument_designation",
+      "semantic_relation": "a masculine designation for an instrument associated with the base action",
+      "rule_refs": ["3.3.118"]
+    },
+    {
+      "operation_id": "location_name_gha",
+      "source_variant": "Ga",
+      "display": "घ (gha), location designation",
+      "semantic_branch_id": "location_designation",
+      "semantic_relation": "a masculine designation for a location associated with the base action",
+      "rule_refs": ["3.3.118"]
+    },
+    {
+      "operation_id": "blessing_name_ktic",
+      "source_variant": "ktic",
+      "display": "क्तिच् (ktic), designation in a blessing",
+      "semantic_branch_id": "blessing_designation",
+      "semantic_relation": "a designation formed from the base action in the setting of a blessing",
+      "rule_refs": ["3.3.174"]
+    }
+  ]
+}

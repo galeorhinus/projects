@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 12,
+  "materialized_lexical_word_meaning_subtotal": 12846458,
+  "laukika_name_word_meanings": 8084287,
+  "laukika_complete_unchanging_word_meanings": 7925,
+  "citation_semantic_cells": 8084287,
+  "full_relation_number_semantic_cells": 194022888,
+  "gender_multiplier": 1,
+  "locally_regenerated_citation_sample_cells": 8,
+  "locally_regenerated_full_paradigm_sample_cells": 192,
+  "all_inflection_rows_materialized": false,
+  "inflectional_cells_added_to_lexical_subtotal": false,
+  "remaining_subanta_passes": 0,
+  "withheld_extensions": [
+    "agreement-driven additional gender forms",
+    "Vedic-domain nominal inflection",
+    "meaning-specific restrictions on number usage"
+  ],
+  "inputs": {
+    "analysis/generativity/results/subanta_citation_six_pass_summary.json": "b662f1be40392c3f1c3562aa3ad1e99c588e8cdda8d8f10a8b4cf37ac2208909",
+    "analysis/generativity/results/subanta_paradigm_capacity.json": "0883627d4fc995de4aa3fff984375b6941548b8a88b3f63920aedad478a0340f",
+    "analysis/generativity/results/subanta_gender_classification.json": "c0dae10a708fc1377c191854f2702bf65a76c150bdeb1bf1ce36a6cc6e40f108",
+    "analysis/generativity/results/subanta_paradigm_sample.json": "cbcfcd49599706746d62fa1789ccd03eb60617fca71f2a2cf660b9ff584adef9",
+    "analysis/generativity/results/subanta_sample_collisions.json": "4b44019b88037ebeb469fe4c18674962d8500de6c87de16cc7cc30b1693d799f",
+    "analysis/generativity/results/subanta_capacity_reconciliation.json": "e5eeef1d53f77a1b7e7b218ec693e0794d4e6d023d8f157a6d6d6ded27934f92"
+  },
+  "publication_status": "research_capacity_only_not_deployed"
+}

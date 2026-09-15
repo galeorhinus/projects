@@ -1,0 +1,117 @@
+{
+  "date": "2026-09-13",
+  "scope": "Explicit prefix conditions attached to meanings in the archived Paninian Dhatupatha witness.",
+  "source_filename": "dhatupatha-sanskritdocuments.html",
+  "restrictions": [
+    {
+      "source_code": "01.0716",
+      "meaning_slp1": "icCAyAm",
+      "allowed_upasarga_ids": ["ang"],
+      "source_locator": "Dhatupatha 1.716",
+      "source_quote": "1.716 ANaH Sasi icCAyAm",
+      "source_quote_devanagari": "1.716 आङः शसि इच्छायाम्",
+      "reason": "The desire meaning is assigned to this dhatu with AN, not to the other upasargas."
+    },
+    {
+      "source_code": "02.0012",
+      "meaning_slp1": "icCAyAm",
+      "allowed_upasarga_ids": ["ang"],
+      "source_locator": "Dhatupatha 2.12",
+      "source_quote": "2.12 ANaH SAsu icCAyAm",
+      "source_quote_devanagari": "2.12 आङः शासु इच्छायाम्",
+      "reason": "The desire meaning is assigned to this dhatu with AN, not to the other upasargas."
+    },
+    {
+      "source_code": "02.0041",
+      "meaning_slp1": "aDyayane",
+      "allowed_upasarga_ids": ["adhi"],
+      "source_locator": "Dhatupatha 2.41",
+      "source_quote": "2.41 iN aDyayane; nityam aDipUrvaH",
+      "source_quote_devanagari": "2.41 इङ् अध्ययने । नित्यमधिपूर्वः",
+      "reason": "The study meaning is expressly described as always preceded by adhi."
+    },
+    {
+      "source_code": "02.0042",
+      "meaning_slp1": "smaraRe",
+      "allowed_upasarga_ids": ["adhi"],
+      "source_locator": "Dhatupatha 2.42",
+      "source_quote": "2.42 ik smaraRe; ayam api aDipUrvaH",
+      "source_quote_devanagari": "2.42 इक् स्मरणे । अयमप्यधिपूर्वः",
+      "reason": "The remembering meaning is also expressly described as preceded by adhi."
+    },
+    {
+      "source_code": "10.0252",
+      "meaning_slp1": "sAtatye",
+      "allowed_upasarga_ids": ["ang"],
+      "source_locator": "Dhatupatha 10.252",
+      "source_quote": "10.252 ANaH kranda sAtatye",
+      "source_quote_devanagari": "10.252 आङः क्रन्द सातत्ये",
+      "reason": "The continuity meaning is assigned to krand with AN, not to the other upasargas."
+    },
+    {
+      "source_code": "10.0368",
+      "meaning_slp1": "gatO",
+      "allowed_upasarga_ids": ["ang"],
+      "source_locator": "Dhatupatha 10.368",
+      "source_quote": "10.368 ANaH zada padyarTe",
+      "source_quote_devanagari": "10.368 आङः षद पद्यर्थे",
+      "reason": "The movement meaning is assigned to shad with AN, not to the other upasargas."
+    },
+    {
+      "source_code": "10.0401",
+      "meaning_slp1": "gatO",
+      "allowed_upasarga_ids": [],
+      "source_locator": "Dhatupatha 10.401",
+      "source_quote": "10.401 paza anupasargAt gatO",
+      "source_quote_devanagari": "10.401 पष अनुपसर्गात् गतौ",
+      "reason": "The movement meaning is expressly limited to use without an upasarga."
+    }
+  ],
+  "prefixed_meaning_enrichments": [
+    {
+      "source_code": "10.0377",
+      "meaning_id": "prefix-conditioned-dErGye",
+      "meaning_slp1": "dErGye",
+      "meaning_display": "दैर्घ्ये (dairghye)",
+      "allowed_upasarga_ids": "all",
+      "source_locator": "Dhatupatha 10.377",
+      "source_quote": "10.377 tanu SradDopakaraRayoH; upasargAc ca dErGye",
+      "source_quote_devanagari": "10.377 तनु श्रद्धोपकरणयोः । उपसर्गाच्च दैर्घ्ये",
+      "semantic_relation": "the prefixed formation carries the additional meaning of lengthening"
+    },
+    {
+      "source_code": "10.0385",
+      "meaning_id": "prefix-conditioned-utkaRWA-vacane",
+      "meaning_slp1": "utkaRWA-vacane",
+      "meaning_display": "उत्कण्ठावचने (utkaṇṭhā-vacane)",
+      "allowed_upasarga_ids": ["ut"],
+      "source_locator": "Dhatupatha 10.385",
+      "source_quote": "10.385 kaWi Soke; prAyeRotpUrva utkaRWA-vacanaH",
+      "source_quote_devanagari": "10.385 कठि शोके । प्रायेणोत्पूर्व उत्कण्ठावचनः",
+      "semantic_relation": "the ud-prefixed formation carries the additional meaning of longing"
+    }
+  ],
+  "non_subtractive_annotations": [
+    {
+      "source_code": "10.0239",
+      "source_locator": "Dhatupatha 10.239",
+      "source_quote": "10.239 Sabda SabdakriyAyAm; upasargAt AvizkAre ca",
+      "source_quote_devanagari": "10.239 शब्द शब्दक्रियायाम् । उपसर्गादाविष्कारे च",
+      "disposition": "No exclusion. The prefix-conditioned avishkara meaning is already represented in the current base-meaning ledger."
+    },
+    {
+      "source_code": "10.0377",
+      "source_locator": "Dhatupatha 10.377",
+      "source_quote": "10.377 tanu SradDopakaraRayoH; upasargAc ca dErGye",
+      "source_quote_devanagari": "10.377 तनु श्रद्धोपकरणयोः । उपसर्गाच्च दैर्घ्ये",
+      "disposition": "No exclusion. The additional prefix-conditioned lengthening meaning is counted in the prefixed meaning-enrichment pass."
+    },
+    {
+      "source_code": "10.0385",
+      "source_locator": "Dhatupatha 10.385",
+      "source_quote": "10.385 kaWi Soke; prAyeRotpUrva utkaRWA-vacanaH",
+      "source_quote_devanagari": "10.385 कठि शोके । प्रायेणोत्पूर्व उत्कण्ठावचनः",
+      "disposition": "No exclusion. The usual ud-prefixed sense is counted as a meaning enrichment, not treated as a prohibition on another construction."
+    }
+  ]
+}

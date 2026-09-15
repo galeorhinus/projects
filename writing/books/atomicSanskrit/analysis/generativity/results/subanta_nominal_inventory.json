@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 2,
+  "laukika_name_word_meanings": 8084287,
+  "counts_by_source_layer": {
+    "initial_laukika_derived_nominals": 794073,
+    "bounded_taddhita_pilot_outputs": 7,
+    "additional_broad_taddhita": 2382230,
+    "conditioned_taddhita": 975,
+    "source_demonstrated_feminines": 50,
+    "negative_counterparts": 3177340,
+    "conditioned_suffix_relations": 24,
+    "plain_taddhita_nominals": 197,
+    "comparatives_and_superlatives": 1588155,
+    "lexical_feminine_agents": 140566,
+    "source_compound_nominals": 96,
+    "post_compound_nominals": 574
+  },
+  "complete_unchanging_meanings_excluded": 7925,
+  "inventory_storage": "normalized virtual view over completed source ledgers",
+  "full_inventory_duplicated": false,
+  "materialized_sample_records": 8,
+  "sample_source_ledgers_verified": 6,
+  "inputs": {
+    "analysis/generativity/results/subanta_word_class_reconciliation.json": "af5a1f33a4895a9c38588c0543385a8e44c8aedf4125be6c9bc992699d265d89",
+    "analysis/generativity/results/krdanta_ledger.csv": "3f3692a4722eb61034fa09786e4de077d2ae0353d929f2d3b6eff06c064b4eac",
+    "analysis/generativity/results/taddhita_ledger.csv.gz": "f8a0cc8a88d7b85631e71bb82c0bc36be73ddcba65d13f04807d908afe78f19d",
+    "analysis/generativity/results/stri_generalization_ledger.csv.gz": "c5c1333b497b5e8a4f4f9979e01d2ab41e553e051e23d3b22a23f60030367c22",
+    "analysis/generativity/results/nan_ledger.csv.gz": "8bf55c25abf358230c14b415170b7f5341227202bbcd04017a5fdb8bddccded1",
+    "analysis/generativity/results/samasa_ledger.csv": "62ae94472001684decaff46aeb579cf0f20855bffb1b57f95da9890bd6ea24c3",
+    "analysis/generativity/results/compound_stack_ledger.csv": "26f25d31e6126e007d3b9a583ff8fad5481a33b0ccf638a1a2b167a56b8780cd"
+  },
+  "publication_status": "research_inventory_not_deployed"
+}

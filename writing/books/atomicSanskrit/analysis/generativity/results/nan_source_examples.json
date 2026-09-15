@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-13",
+  "verified_examples": 5,
+  "a_before_consonant": 3,
+  "an_before_vowel": 2,
+  "inputs": {
+    "working/40_reference/sources/archive/documents/generativity-pilot/nan_manifest.json": "2d8f903ff5eed87f543ed7794dde0f2afce7bbeb70018295e52a4a594b96555b",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_6_3.rs": "4c95cc703081fce8b504f76861345f4623fb9dea6072a2a7ac4a166909e29afc",
+    "analysis/generativity/extract_nan_source_examples.py": "9459a0ea5ee60eaa02b1a091cd4fe28b15ec30d6ca954c992624467b68c681a7"
+  },
+  "publication_status": "research_source_examples_only_not_deployed"
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-14",
+  "current_materialized_lexical_word_meanings": 12846458,
+  "symbolic_depth_one_compound_slots": 196034769247681,
+  "source_demonstrated_fixture_relations": 113,
+  "locally_regenerated_fixture_relations": 113,
+  "source_fixture_added_to_symbolic_capacity": false,
+  "symbolic_capacity_added_to_materialized_lexical_subtotal": false,
+  "count_boundary": "The lexical subtotal counts materialized word-meaning records. Compound capacity counts licensed semantic slots at a declared depth. They are reported beside one another and are not summed.",
+  "inputs": {
+    "analysis/generativity/results/samasa_capacity_eligibility.json": "3dd3c4a9c1787e96e5517e1d0f35ad55c1639b61aad7779de5d9aa5544377b7b",
+    "analysis/generativity/results/samasa_verification.json": "3d41b22d42c9db0097ede5d64cda4a30c95289863a4fe3a76747bd1dcfbbfbb3"
+  }
+}

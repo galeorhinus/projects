@@ -1,0 +1,29 @@
+flowchart TB
+    all["समस्ताः शब्दार्थाः<br/>12,846,458<br/><small>all word-meanings</small>"]
+    vedic["वैदिकाः शब्दार्थाः<br/>213,398<br/><small>Vedic domain</small>"]
+    ordinary["लौकिकाः शब्दार्थाः<br/>12,633,060<br/><small>ordinary domain</small>"]
+    action["क्रियार्थाः<br/>4,540,848<br/><small>actions and processes</small>"]
+    names["नामार्थाः<br/>8,084,287<br/><small>names, things, and qualities</small>"]
+    unchanging["अव्ययानि<br/>7,925<br/><small>complete words whose forms do not change</small>"]
+    citation["दश कालभावेषु सः-सा-तत् रूपाणि<br/>45,408,480"]
+    full["सर्वाणि कर्तृ-संख्यारूपाणि<br/>408,676,320"]
+    namecitation["एकं नामरूपम्<br/>8,084,287"]
+    nameforms["सम्बन्ध-संख्यारूपाणि<br/>194,022,888"]
+
+    all --> vedic
+    all --> ordinary
+    ordinary --> action
+    ordinary --> names
+    ordinary --> unchanging
+    action -. grammatical expansion .-> citation
+    citation -. grammatical expansion .-> full
+    names -. grammatical expansion .-> namecitation
+    namecitation -. grammatical expansion .-> nameforms
+
+    classDef total fill:#eadfca,stroke:#5b4a35,stroke-width:2px,color:#221f1a;
+    classDef lexical fill:#fff,stroke:#5b4a35,color:#221f1a;
+    classDef capacity fill:#f7f5f0,stroke:#5b4a35,stroke-dasharray:5 4,color:#221f1a;
+    classDef pending fill:#fff,stroke:#9f6b20,stroke-dasharray:3 3,color:#221f1a;
+    class all total;
+    class vedic,ordinary,action,names,unchanging lexical;
+    class citation,full,namecitation,nameforms capacity;

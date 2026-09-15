@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-13",
+  "active_semantic_rows": 249,
+  "eligible_word_meaning_relations": 245,
+  "duplicate_assertions_collapsed": 4,
+  "alternative_derivations_collapsed": 0,
+  "by_output_class": {
+    "nominal_base": 206,
+    "complete_avyaya": 39
+  },
+  "by_relation_class": {
+    "meaning_bearing_derivative": 222,
+    "same_referent_or_lexical_derivative": 23
+  },
+  "inputs": {
+    "analysis/generativity/results/plain_taddhita_semantic_classification.csv": "e7d561bf42bc82a8d7b9ad23febe615854be840e56ff8889d4cfca000732a1f2",
+    "analysis/generativity/build_plain_taddhita_eligibility.py": "910358a6530ebce8300004ab2d07057c571faccba1940c65a5676b4e7cf517e4"
+  },
+  "publication_status": "research_eligibility_only_not_deployed"
+}

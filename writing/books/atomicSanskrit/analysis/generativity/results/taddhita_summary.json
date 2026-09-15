@@ -1,0 +1,224 @@
+{
+  "date": "2026-09-13",
+  "scope": "First broad taddhita expansion over the declared laukika nominal inventory. General relations apply to every admitted nominal word-meaning for which the pinned engine constructs a form; the descendant relation remains limited to its declared source examples.",
+  "eligible_operation_candidates": 2382237,
+  "admitted_taddhita_word_meanings": 2382237,
+  "not_admitted_total": 0,
+  "admitted_by_operation": {
+    "state_tva": 794078,
+    "state_tal": 794078,
+    "possession_matup": 794078,
+    "descendant_dhak": 3
+  },
+  "not_admitted_by_operation": {},
+  "engine_requests_after_form_cache": {
+    "state_tva": 420659,
+    "state_tal": 420659,
+    "possession_matup": 420659,
+    "descendant_dhak": 3
+  },
+  "generated_output_variants_by_operation": {
+    "state_tva": 863706,
+    "state_tal": 863706,
+    "possession_matup": 863706,
+    "descendant_dhak": 3
+  },
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "sources": [
+    {
+      "filename": "vidyut-args-taddhita.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/taddhita.rs",
+      "accessed_utc": "2026-09-13T05:27:01.324789+00:00",
+      "sha256": "e93c932c7d90be63ddc5e785513d1ae24107673c249f8eb8dcb5aa6779909cf8",
+      "bytes": 22600
+    },
+    {
+      "filename": "rule-4.1.92.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.92.htm",
+      "accessed_utc": "2026-09-12T16:07:37.372516+00:00",
+      "sha256": "7cfc4c9813dba4b5abcd6fafe198ba6234394a70af434fdea9ddafcd6accd1ad",
+      "bytes": 45881
+    },
+    {
+      "filename": "rule-4.1.120.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.120.htm",
+      "accessed_utc": "2026-09-12T16:07:38.512362+00:00",
+      "sha256": "bce9b9ed1d31bf3931022e0da67d21aa5835c8e8cfcd13d3c4978741ebee989b",
+      "bytes": 8016
+    },
+    {
+      "filename": "rule-5.1.119.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.119.htm",
+      "accessed_utc": "2026-09-12T16:07:40.851799+00:00",
+      "sha256": "45567a56628675149bb161297ea329137a219e75a51825bb32a165555996068c",
+      "bytes": 10377
+    },
+    {
+      "filename": "rule-5.2.94.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.94.htm",
+      "accessed_utc": "2026-09-12T16:07:42.083749+00:00",
+      "sha256": "f8062660040b8161379b1ef031c77184cf53e15054b30822dfb2c8783bb647f8",
+      "bytes": 15591
+    },
+    {
+      "filename": "vidyut-taddhita.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita.rs",
+      "accessed_utc": "2026-09-13T11:43:10.067350+00:00",
+      "sha256": "e1c9768211eb3c92cf7372585c4f8d27f24096080a904d2bb0f385ab13fc5cf9",
+      "bytes": 2760
+    },
+    {
+      "filename": "vidyut-taddhita-matvartha.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/matvartha_prakarana.rs",
+      "accessed_utc": "2026-09-13T11:43:10.399285+00:00",
+      "sha256": "c33c5b90b1955260f6b3d1fde82bafa091d45ebdaad91ee8ef6c0b998ff2444c",
+      "bytes": 4660
+    },
+    {
+      "filename": "vidyut-taddhita-nan-snan.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/nan_snan_adhikara_prakarana.rs",
+      "accessed_utc": "2026-09-13T11:43:10.748205+00:00",
+      "sha256": "b5d0f288a40e175831d62fcd8359ae105e2f8208ec827c834d24521e12f46b5c",
+      "bytes": 547
+    },
+    {
+      "filename": "vidyut-taddhita-panchami.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/panchami_prakarana.rs",
+      "accessed_utc": "2026-09-13T11:43:11.080799+00:00",
+      "sha256": "19c438db0053c53b64efb751bda788d333cd5c5d1933fb0e633f0eb5ca4a1776",
+      "bytes": 7265
+    },
+    {
+      "filename": "vidyut-taddhita-pragdishiya.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/pragdishiya.rs",
+      "accessed_utc": "2026-09-13T11:43:11.426424+00:00",
+      "sha256": "fd42a16673c29652e49b4924a4a6bd7a8e27131c0813cda0402951c28b2756d7",
+      "bytes": 3126
+    },
+    {
+      "filename": "vidyut-taddhita-pragdivyatiya.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/pragdivyatiya.rs",
+      "accessed_utc": "2026-09-13T11:43:11.755076+00:00",
+      "sha256": "2309a1aeceec8cfbd78562a08344a9a7fbca5f88394ed6a860c841b30bd26e09",
+      "bytes": 33383
+    },
+    {
+      "filename": "vidyut-taddhita-pragghitiya.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/pragghitiya.rs",
+      "accessed_utc": "2026-09-13T11:43:12.094071+00:00",
+      "sha256": "f5ee54f775cc4f23e4de5fc535800624df3bee932afc49e2981debda37c1141b",
+      "bytes": 5546
+    },
+    {
+      "filename": "vidyut-taddhita-pragiviya.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/pragiviya.rs",
+      "accessed_utc": "2026-09-13T11:43:12.419079+00:00",
+      "sha256": "c4058fc979473f14a9f6cf2213de5b2a18d0fa31d1090666651021aa91ab1032",
+      "bytes": 5439
+    },
+    {
+      "filename": "vidyut-taddhita-pragvahatiya.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/pragvahatiya.rs",
+      "accessed_utc": "2026-09-13T11:43:12.740677+00:00",
+      "sha256": "6115b6ec8891795d32a69bd7b651f8d2c067d4358c64e67b71cb0cacd1d82aba",
+      "bytes": 11422
+    },
+    {
+      "filename": "vidyut-taddhita-pragvatiya.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/pragvatiya.rs",
+      "accessed_utc": "2026-09-13T11:43:13.160087+00:00",
+      "sha256": "685bbb9a74016c2708905c8f625a2f0ef46d18d75dd9fb225942621b45082192",
+      "bytes": 8358
+    },
+    {
+      "filename": "vidyut-taddhita-prakkritiya.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/prakkritiya.rs",
+      "accessed_utc": "2026-09-13T11:43:13.569869+00:00",
+      "sha256": "93355761e91005848f7252ec1ea23b27d9d6112d6b73fb149386374ee4a348e5",
+      "bytes": 3074
+    },
+    {
+      "filename": "vidyut-taddhita-samasanta.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/samasanta_prakarana.rs",
+      "accessed_utc": "2026-09-13T11:43:13.893421+00:00",
+      "sha256": "fab96f6837c3e45f9aff3ec1b0ec53168a86539c9a0835e9daa700b85bf19dd9",
+      "bytes": 6687
+    },
+    {
+      "filename": "vidyut-taddhita-svarthika.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/svarthika_prakarana.rs",
+      "accessed_utc": "2026-09-13T11:43:14.284358+00:00",
+      "sha256": "371c57493d98c4a97d97ff2bfea974a42c3a66673fe1ee4c9decb307209b8ca4",
+      "bytes": 7043
+    },
+    {
+      "filename": "vidyut-taddhita-utils.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/taddhita/utils.rs",
+      "accessed_utc": "2026-09-13T11:43:14.614249+00:00",
+      "sha256": "879e25b005de3e013155163501bd96014dd5f80edf08403b26ade817a45b4d33",
+      "bytes": 5996
+    },
+    {
+      "filename": "kashika_4_2.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_4_2.rs",
+      "accessed_utc": "2026-09-13T11:43:14.946912+00:00",
+      "sha256": "da9ab407fbc791fc4e83b1768c93cf473a3d177cecc43197165d59b1fbd4eb9d",
+      "bytes": 16838
+    },
+    {
+      "filename": "kashika_4_3.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_4_3.rs",
+      "accessed_utc": "2026-09-13T11:43:15.312062+00:00",
+      "sha256": "70e55a3652db53fe34da43e8d25a6ba945b47d870d6cd30df4238a4829903eb4",
+      "bytes": 18593
+    },
+    {
+      "filename": "kashika_4_4.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_4_4.rs",
+      "accessed_utc": "2026-09-13T11:43:15.743256+00:00",
+      "sha256": "aff740b38950ad5f4aeace275439e160a34277d7d0c7986bd6ec7177d196b157",
+      "bytes": 23798
+    },
+    {
+      "filename": "kashika_5_1.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_5_1.rs",
+      "accessed_utc": "2026-09-13T11:43:16.128558+00:00",
+      "sha256": "408d070d0660e79855472d583db5c44c412090ab60fc089297b0c1d45ef7af75",
+      "bytes": 20463
+    },
+    {
+      "filename": "kashika_5_2.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_5_2.rs",
+      "accessed_utc": "2026-09-13T11:43:16.455629+00:00",
+      "sha256": "9c00b4ba577f0ccda278dea231425937e0d7a296a7f76d19663854be635a00bb",
+      "bytes": 13985
+    },
+    {
+      "filename": "kashika_5_3.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_5_3.rs",
+      "accessed_utc": "2026-09-13T11:43:16.947184+00:00",
+      "sha256": "e3ce2c675ff38cfae87980c138a3e99ee00ee4b66a938a8f81c74f439e7812b3",
+      "bytes": 12331
+    },
+    {
+      "filename": "kashika_5_4.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_5_4.rs",
+      "accessed_utc": "2026-09-13T11:43:17.971655+00:00",
+      "sha256": "9990132fe1cf0697055b361b148a31ae08cfe2ff6c00d37145f73fb1d44bd742",
+      "bytes": 11133
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/results/nominal_input_inventory.csv.gz": "e537b66b74d98626abb5772e7b4ac85340d21df58cfc7a34c727e529e0a1340e",
+    "analysis/generativity/results/taddhita_eligibility.json": "f31f441cd68c96fc2daa57e69900bbe5f91a3bfcc1d6e20129d3e1105d24b155",
+    "analysis/generativity/taddhita_operations.json": "927b8a95a063f9e44241c64b71d0b86882a51ea124a749cef8925097d7d03b9d",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "working/40_reference/sources/archive/documents/generativity-pilot/taddhita_manifest.json": "fa49794e95d7bcd25a07b7e728dc0487d33bace94c58a8f8c1c5d3246e44160c",
+    "analysis/generativity/build_taddhita_ledger.py": "9619a55954d24476051ee46037c4da14b85d287bf698d8fb4e84b444b734a9da"
+  },
+  "publication_status": "bounded_research_subtotal_not_deployed"
+}

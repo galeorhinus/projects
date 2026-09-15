@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-13",
+  "declared_laukika_nominal_word_meanings": 794078,
+  "broad_semantic_operations": 4,
+  "broad_candidate_relations": 3176312,
+  "active_conditioned_source_relations": 40,
+  "total_candidate_relations": 3176352,
+  "ignored_source_relations_not_eligible": 10,
+  "policy": "Productive rules 3.1.8-3.1.11 apply to every admitted nominal word-meaning because the operation supplies the desire or comparison context. Rules 3.1.12-3.1.21 remain limited to active source-demonstrated relations.",
+  "inputs": {
+    "analysis/generativity/results/nominal_input_inventory.csv.gz": "e537b66b74d98626abb5772e7b4ac85340d21df58cfc7a34c727e529e0a1340e",
+    "analysis/generativity/namadhatu_operations.json": "55f819663b905c291a25f9ae4fe4aaf83c669a37de85e0e1eea13ccda1e54657",
+    "analysis/generativity/results/namadhatu_operation_classification.json": "f4b13fa0e2e8cc5afe8659735d00abda89ea45600cac0ccc9ca389bfe1f5118f",
+    "analysis/generativity/results/namadhatu_source_examples.csv": "06df0a88b08bc3d689750c9a0f53f5cc8ab50b816d3704022f1dbba60ee27dce",
+    "analysis/generativity/build_namadhatu_eligibility.py": "748092c9335057fe942bae0aa8daab1163c4e406e8f85e7735aab8f73d783afb"
+  },
+  "publication_status": "research_eligibility_only_not_deployed"
+}

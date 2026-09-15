@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-14",
+  "scope": "Binary laukika compound capacity over the current derived nominal-meaning inventory. Count meanings and grammatical relations, not distinct spellings or attested dictionary entries.",
+  "counted_relations": [
+    {
+      "relation_id": "sasthi_tatpurusha",
+      "display": "षष्ठी-तत्पुरुषः (ṣaṣṭhī-tatpuruṣaḥ)",
+      "vidyut_helper": "sasthi_tatpurusha",
+      "rule_refs": ["2.2.8"],
+      "pair_model": "ordered_with_self",
+      "meaning_template": "the second nominal meaning in a genitive relation to the first",
+      "counting_basis": "The rule admits mutually related members in a genitive relation. A self-pair can express a distinct recursive or contrastive relation and is not removed merely because both member identities match."
+    },
+    {
+      "relation_id": "bahuvrihi",
+      "display": "बहुव्रीहिः (bahuvrīhiḥ)",
+      "vidyut_helper": "bahuvrihi",
+      "rule_refs": ["2.2.24"],
+      "pair_model": "ordered_distinct",
+      "meaning_template": "an external referent characterized through the first and second nominal meanings",
+      "counting_basis": "The compound denotes another referent. Member order is retained; identical member identities are withheld from this first capacity model."
+    },
+    {
+      "relation_id": "dvandva",
+      "display": "द्वन्द्वः (dvandvaḥ)",
+      "vidyut_helper": "dvandva",
+      "rule_refs": ["2.2.29"],
+      "pair_model": "unordered_distinct",
+      "meaning_template": "the first and second nominal meanings taken together",
+      "counting_basis": "Reversing the two semantic members does not create another coordination meaning in this count. Identical member identities are excluded."
+    },
+    {
+      "relation_id": "samahara_dvandva",
+      "display": "समाहार-द्वन्द्वः (samāhāra-dvandvaḥ)",
+      "vidyut_helper": "samahara_dvandva",
+      "rule_refs": ["2.2.29"],
+      "pair_model": "unordered_distinct",
+      "meaning_template": "the first and second nominal meanings taken as one collection",
+      "counting_basis": "The collective reading is distinct from ordinary coordination. Reversal and identical-member duplication are excluded."
+    }
+  ],
+  "conditioned_relations": [
+    "avyayibhava",
+    "avyaya_tatpurusha",
+    "dvitiya_tatpurusha",
+    "trtiya_tatpurusha",
+    "caturthi_tatpurusha",
+    "panchami_tatpurusha",
+    "saptami_tatpurusha",
+    "karmadharaya",
+    "dvigu",
+    "ekadeshin"
+  ],
+  "depth_one_boundary": {
+    "member_count": 2,
+    "maximum_compound_depth": 1,
+    "attestation_required": false,
+    "semantic_relation_required": true,
+    "surface_variants_create_new_meanings": false
+  },
+  "post_compound_operations": [
+    "state_tva",
+    "state_tal",
+    "possession_matup",
+    "superlative_tamap",
+    "comparative_tarap",
+    "self_desire_kyac",
+    "self_desire_kamyac",
+    "object_comparison_kyac",
+    "agent_comparison_kyang",
+    "nan_privative"
+  ],
+  "depth_two_boundary": {
+    "description": "Exactly one admitted depth-one compound meaning and one original nominal meaning become the two members of one further counted compound relation.",
+    "maximum_compound_depth": 2,
+    "two_depth_one_compounds_as_members": false,
+    "further_recursion": false
+  }
+}

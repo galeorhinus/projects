@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-14",
+  "source_assertions": 167,
+  "active_assertions": 132,
+  "ignored_assertions": 35,
+  "reconstructible_assertions": 152,
+  "constructed_or_unresolved_assertions": 15,
+  "scope": "All recognized compound assertions in pinned K\u0101\u015bik\u0101 2.1 and 2.2 tests; ignored and locally constructed inputs remain visible.",
+  "inputs": {
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_2_1.rs": "44e0b58ee7270f40705f16c4524f4c46d1303756fdefaee5bf32691e57c24036",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_2_2.rs": "24240fb89e0d9fb5158246a6362c38cb03879d7751dada181adbec36cbe5172b",
+    "working/40_reference/sources/archive/documents/generativity-pilot/samasa_manifest.json": "f7db740232de8d600ee8d61b87c9733d301c643e45f7a2cc80b1069d9781aa51"
+  }
+}

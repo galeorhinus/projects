@@ -1,0 +1,39 @@
+{
+  "scope": "Extend only the general tamap and tarap comparative relations across the declared laukika nominal inventory. Rule 5.3.58 restricts isthan and iyasun to the traditional gunavacana class, which the present inventory does not independently identify.",
+  "operations": [
+    {
+      "operation_id": "superlative_tamap",
+      "source_variant": "tamap",
+      "operation_display": "तमप् (tamap), highest degree",
+      "semantic_context": "AtishayanaSuperlative",
+      "semantic_branch_id": "superlative",
+      "semantic_relation": "the nominal meaning understood to the highest degree within the intended comparison",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": ["5.3.55"]
+    },
+    {
+      "operation_id": "comparative_tarap",
+      "source_variant": "tarap",
+      "operation_display": "तरप् (tarap), greater degree",
+      "semantic_context": "AtishayanaComparative",
+      "semantic_branch_id": "comparative",
+      "semantic_relation": "the nominal meaning understood to a greater degree within the intended comparison",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": ["5.3.57"]
+    }
+  ],
+  "deferred_operations": [
+    {
+      "source_variant": "izWan",
+      "semantic_context": "AtishayanaSuperlative",
+      "rule_refs": ["5.3.55", "5.3.58"],
+      "reason": "Rule 5.3.58 requires a guṇavacana input. The present inventory does not independently classify that traditional category."
+    },
+    {
+      "source_variant": "Iyasun",
+      "semantic_context": "AtishayanaComparative",
+      "rule_refs": ["5.3.57", "5.3.58"],
+      "reason": "Rule 5.3.58 requires a guṇavacana input. The present inventory does not independently classify that traditional category."
+    }
+  ]
+}

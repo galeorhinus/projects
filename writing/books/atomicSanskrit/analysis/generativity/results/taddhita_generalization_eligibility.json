@@ -1,0 +1,64 @@
+{
+  "date": "2026-09-14",
+  "nominal_word_meanings": 794078,
+  "deferred_gunavacana_operations": [
+    {
+      "source_variant": "izWan",
+      "semantic_context": "AtishayanaSuperlative",
+      "rule_refs": [
+        "5.3.55",
+        "5.3.58"
+      ],
+      "reason": "Rule 5.3.58 requires a guṇavacana input. The present inventory does not independently classify that traditional category."
+    },
+    {
+      "source_variant": "Iyasun",
+      "semantic_context": "AtishayanaComparative",
+      "rule_refs": [
+        "5.3.57",
+        "5.3.58"
+      ],
+      "reason": "Rule 5.3.58 requires a guṇavacana input. The present inventory does not independently classify that traditional category."
+    }
+  ],
+  "operations": [
+    {
+      "operation_id": "superlative_tamap",
+      "source_variant": "tamap",
+      "operation_display": "तमप् (tamap), highest degree",
+      "semantic_context": "AtishayanaSuperlative",
+      "semantic_branch_id": "superlative",
+      "semantic_relation": "the nominal meaning understood to the highest degree within the intended comparison",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": [
+        "5.3.55"
+      ],
+      "eligible_semantic_branches": "",
+      "eligible_candidate_word_meanings": 794078,
+      "count_status": "eligible_for_engine_generation"
+    },
+    {
+      "operation_id": "comparative_tarap",
+      "source_variant": "tarap",
+      "operation_display": "तरप् (tarap), greater degree",
+      "semantic_context": "AtishayanaComparative",
+      "semantic_branch_id": "comparative",
+      "semantic_relation": "the nominal meaning understood to a greater degree within the intended comparison",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": [
+        "5.3.57"
+      ],
+      "eligible_semantic_branches": "",
+      "eligible_candidate_word_meanings": 794078,
+      "count_status": "eligible_for_engine_generation"
+    }
+  ],
+  "eligible_operation_relations": 1588156,
+  "inputs": {
+    "analysis/generativity/results/nominal_input_inventory.csv.gz": "e537b66b74d98626abb5772e7b4ac85340d21df58cfc7a34c727e529e0a1340e",
+    "analysis/generativity/results/taddhita_generalization_classification.json": "aa9f17829bd4072c34ca3b80b80424d2bf4ad5d318b7289b6246761bd78e7587",
+    "analysis/generativity/taddhita_generalization_operations.json": "935d9c00a910d14aa486a6e2ba65d2b2e2555599be9b82fbea548c874f1bb929",
+    "analysis/generativity/build_taddhita_generalization_eligibility.py": "de9440545e430543ddacdd8d590d3f531d59265385c75806c614f32848235d5e"
+  },
+  "publication_status": "research_eligibility_not_deployed"
+}

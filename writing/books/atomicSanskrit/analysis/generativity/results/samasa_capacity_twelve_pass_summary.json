@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 12,
+  "compoundable_nominal_word_meanings": 8083621,
+  "materialized_lexical_word_meaning_subtotal": 12846458,
+  "symbolic_depth_one_compound_slots": 196034769247681,
+  "symbolic_post_compound_derivational_slots": 1960347692476810,
+  "symbolic_depth_two_compound_slots": 9508024664524249997406,
+  "locally_regenerated_source_fixture_relations": 113,
+  "locally_regenerated_depth_one_samples": 16,
+  "locally_regenerated_depth_two_samples": 6,
+  "maximum_compound_depth": 2,
+  "all_capacity_rows_materialized": false,
+  "symbolic_counts_added_to_lexical_subtotal": false,
+  "remaining_samasa_capacity_passes": 0,
+  "next_stage": "तिङन्त citation forms and inflectional matrices",
+  "inputs": {
+    "analysis/generativity/results/samasa_capacity_six_pass_summary.json": "dab22cd3bedbbe1bb5ac2364bfcdfd665b4d2b2d2dc9a9887887e87ecbbdaed5",
+    "analysis/generativity/results/samasa_reuse_classification.json": "586534a4ad56008ca97f2ec6f0b04f0dee3eafb135debb08dc0d1b3352966167",
+    "analysis/generativity/results/samasa_reuse_eligibility.json": "57743c29b5b17dbe5912ea77d3f5df675c5c3302e902a0052d3bda9b24188a7e",
+    "analysis/generativity/results/recursive_samasa_capacity.json": "ee476a200f60a2d3097774dc36dc2d1d62f1e076083e682867c5c1f295acaa54",
+    "analysis/generativity/results/recursive_samasa_sample.json": "1706dd67d6612ffe773a4bd4c37b75a5dabdad47bc60c9e900b844e31e7f80aa",
+    "analysis/generativity/results/samasa_capacity_reconciliation.json": "6cea01a8888fcaac8fac447c8c499a77b50a1ad82ea849994692cb17bd7096cc"
+  },
+  "publication_status": "research_capacity_only_not_deployed"
+}

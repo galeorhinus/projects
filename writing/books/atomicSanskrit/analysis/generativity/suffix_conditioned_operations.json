@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-13",
+  "scope": "Meaning-conditioned taddhita relations encoded through local helpers or constructed nominal inputs in the pinned Kashika tests. Each declared relation retains its source rule, semantic condition, suffix identity, and expected output. Plain assert_has_taddhita forms without an explicit semantic relation remain outside the word-meaning count.",
+  "families": [
+    {
+      "family_id": "devata_relation",
+      "source_file": "kashika_4_2.rs",
+      "rule_ref": "4.2.32",
+      "semantic_context": "SaAsyaDevata",
+      "semantic_relation": "having the named form as its devata",
+      "helper_definition_line": 114,
+      "source_kind": "expanded_local_helper",
+      "suffixes": [
+        {"source_variant": "Ca", "output_argument": 0},
+        {"source_variant": "yat", "output_argument": 1}
+      ],
+      "calls": [
+        {"source_line": 120, "input_form_slp1": "dyAvApfTivI", "outputs_slp1": ["dyAvApfTivIya", "dyAvApfTivya"]},
+        {"source_line": 121, "input_form_slp1": "SunAsIra", "outputs_slp1": ["SunAsIrIya", "SunAsIrya"]},
+        {"source_line": 122, "input_form_slp1": "marutvat", "outputs_slp1": ["marutvatIya", "marutvatya"]},
+        {"source_line": 123, "input_form_slp1": "agnIzoma", "outputs_slp1": ["agnIzomIya", "agnIzomya"]},
+        {"source_line": 124, "input_form_slp1": "vAstozpati", "outputs_slp1": ["vAstozpatIya", "vAstozpatya"]},
+        {"source_line": 125, "input_form_slp1": "gfhameDa", "outputs_slp1": ["gfhameDIya", "gfhameDya"]}
+      ]
+    },
+    {
+      "family_id": "crop_field_relation",
+      "source_file": "kashika_5_2.rs",
+      "rule_ref": "5.2.4",
+      "semantic_context": "DhanyanamBhavaneKshetre",
+      "semantic_relation": "a field in which the named crop grows",
+      "helper_definition_line": 38,
+      "source_kind": "expanded_local_helper",
+      "suffixes": [
+        {"source_variant": "yat", "output_argument": 0},
+        {"source_variant": "KaY", "output_argument": 1}
+      ],
+      "calls": [
+        {"source_line": 43, "input_form_slp1": "tila", "outputs_slp1": ["tilya", "tElIna"]},
+        {"source_line": 44, "input_form_slp1": "mAza", "outputs_slp1": ["mAzya", "mAzIRa"]},
+        {"source_line": 45, "input_form_slp1": "umA", "outputs_slp1": ["umya", "OmIna"]},
+        {"source_line": 46, "input_form_slp1": "BaNgA", "outputs_slp1": ["BaNgya", "BANgIna"]},
+        {"source_line": 47, "input_form_slp1": "aRu", "outputs_slp1": ["aRavya", "ARavIna"]}
+      ]
+    },
+    {
+      "family_id": "purchase_measure_relation",
+      "source_file": "kashika_5_1.rs",
+      "rule_ref": "5.1.23",
+      "semantic_context": "TenaKritam",
+      "semantic_relation": "bought for the named measure or amount",
+      "source_kind": "resolved_constructed_input",
+      "suffixes": [
+        {"source_variant": "kan", "output_argument": 0}
+      ],
+      "calls": [
+        {
+          "source_line": 218,
+          "input_construction_line": 217,
+          "input_form_slp1": "tAvat",
+          "outputs_slp1": ["tAvatka", "tAvatika"]
+        },
+        {
+          "source_line": 221,
+          "input_construction_line": 220,
+          "input_form_slp1": "yAvat",
+          "outputs_slp1": ["yAvatka", "yAvatika"]
+        }
+      ]
+    }
+  ]
+}

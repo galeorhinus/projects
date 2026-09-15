@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-13",
+  "suffix_identifiers": 175,
+  "by_productivity_class": {
+    "conditioned_inputs_only": 95,
+    "form_capacity_not_new_meaning": 42,
+    "unreached_not_counted": 34,
+    "listed_inputs_only": 1,
+    "broad_declared_operation": 3
+  },
+  "broad_multipliers": [
+    "tal",
+    "tva",
+    "matup"
+  ],
+  "plain_source_assertions_outside_count": 292,
+  "plain_assertion_reason": "These positive source assertions record forms but do not by themselves establish a distinct word-meaning. They therefore remain evidence of formation capacity rather than additions to a meaning count.",
+  "inputs": {
+    "analysis/generativity/results/suffix_semantic_families.csv": "e5ab2c3a03cb6d330d84e1d87e83af409262907e02178e7275e8ab2b48b50112",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_4_1.rs": "080a42c99e7185dec5eda2a1bf2a8f3fc8e719bad874a6fdf7f732d7729548e4",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_4_2.rs": "da9ab407fbc791fc4e83b1768c93cf473a3d177cecc43197165d59b1fbd4eb9d",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_4_3.rs": "70e55a3652db53fe34da43e8d25a6ba945b47d870d6cd30df4238a4829903eb4",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_4_4.rs": "aff740b38950ad5f4aeace275439e160a34277d7d0c7986bd6ec7177d196b157",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_5_1.rs": "408d070d0660e79855472d583db5c44c412090ab60fc089297b0c1d45ef7af75",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_5_2.rs": "9c00b4ba577f0ccda278dea231425937e0d7a296a7f76d19663854be635a00bb",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_5_3.rs": "e3ce2c675ff38cfae87980c138a3e99ee00ee4b66a938a8f81c74f439e7812b3",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_5_4.rs": "9990132fe1cf0697055b361b148a31ae08cfe2ff6c00d37145f73fb1d44bd742",
+    "analysis/generativity/classify_suffix_productivity.py": "dda1fa2c920f811e525a23a533d26459081891dfe9ce45e8e02dc0aa07e74571"
+  },
+  "publication_status": "research_classification_only_not_deployed"
+}

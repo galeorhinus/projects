@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 5,
+  "sample_records": 8,
+  "requested_citation_cells": 8,
+  "locally_regenerated_cells": 8,
+  "expected_citation_forms_recovered": 8,
+  "engine_zero_unresolved_cells": 0,
+  "sample_gender_profile": {
+    "Pum": 3,
+    "Stri": 1,
+    "Napumsaka": 4
+  },
+  "sample_constructor_profile": {
+    "basic": 7,
+    "nyap": 1
+  },
+  "full_inflection_rule_paths_recorded": true
+}

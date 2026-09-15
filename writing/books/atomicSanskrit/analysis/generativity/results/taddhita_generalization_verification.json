@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-14",
+  "candidate_relations_verified": 1588156,
+  "excluded_relations_verified": 0,
+  "verified_by_operation": {
+    "superlative_tamap": 794078,
+    "comparative_tarap": 794078
+  },
+  "unique_stable_ids": 1588156,
+  "deferred_gunavacana_operations": [
+    {
+      "source_variant": "izWan",
+      "semantic_context": "AtishayanaSuperlative",
+      "rule_refs": [
+        "5.3.55",
+        "5.3.58"
+      ],
+      "reason": "Rule 5.3.58 requires a guṇavacana input. The present inventory does not independently classify that traditional category."
+    },
+    {
+      "source_variant": "Iyasun",
+      "semantic_context": "AtishayanaComparative",
+      "rule_refs": [
+        "5.3.57",
+        "5.3.58"
+      ],
+      "reason": "Rule 5.3.58 requires a guṇavacana input. The present inventory does not independently classify that traditional category."
+    }
+  ],
+  "malformed_output_rows": 0,
+  "sample_engine_and_ledger_checks": [
+    {
+      "input_slp1": "darSanIya",
+      "suffix": "tamap",
+      "expected_slp1": "darSanIyatama"
+    },
+    {
+      "input_slp1": "darSanIya",
+      "suffix": "tarap",
+      "expected_slp1": "darSanIyatara"
+    },
+    {
+      "input_slp1": "Bavana",
+      "suffix": "tamap",
+      "expected_slp1": "Bavanatama"
+    },
+    {
+      "input_slp1": "Bavana",
+      "suffix": "tarap",
+      "expected_slp1": "Bavanatara"
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/results/taddhita_generalization_candidates.csv.gz": "587fed14ed130ae710a3d8642e6fa038c210e4fabc79882e9a0f0eaeed8ae0a6",
+    "analysis/generativity/results/taddhita_generalization_exclusions.csv.gz": "83a035d1d89309dafe28b176d580b6b9cc2917d2d50c9549dbaebcd14f749ec1",
+    "analysis/generativity/results/taddhita_generalization_generation.json": "9cc2cd858bb65fdc05877f2efa5288c20f411c74e5563fc40e3317bd923458ef",
+    "analysis/generativity/results/taddhita_generalization_eligibility.json": "eb294f8cf493a77a89f78096583bbd3aed60ba535a2e92ec0489501b01983602",
+    "analysis/generativity/taddhita_generalization_operations.json": "935d9c00a910d14aa486a6e2ba65d2b2e2555599be9b82fbea548c874f1bb929",
+    "analysis/generativity/verify_taddhita_generalization.py": "368653457d6a3e8859b50aac9f1a4b24ba5a1cb386b214507a120c5c33b1fdc5"
+  },
+  "verification_status": "passed",
+  "publication_status": "verified_candidate_ledger_not_yet_reconciled"
+}

@@ -1,0 +1,10 @@
+{
+  "date":"2026-09-13", "baseline":2649, "expected_after":2645,
+  "authorization":"Author authorized the next stage, including applying the four reviewed changes before completing seven further review passes and consolidation.",
+  "merges":[
+    {"case":"R02-03","members":[["01.0985","calane"],["04.0102","anavasTAne"]]},
+    {"case":"R02-06","members":[["01.0928","Sabde"],["01.0962","Sabde"]]},
+    {"case":"R02-10","members":[["01.0815","tarjane"],["06.0020","Bartsane"]]}
+  ],
+  "exclude":[{"case":"R02-05","target":["01.1115","avabanDane"],"classification":"unresolved_source_reading"}]
+}

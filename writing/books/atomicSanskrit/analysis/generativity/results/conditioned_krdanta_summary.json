@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-13",
+  "scope": "A conservative source-defined subset of the 87 krt identifiers previously deferred for root, meaning, prefix, upapada, or construction conditions.",
+  "base_word_meanings": 2634,
+  "selected_identifiers": 7,
+  "selected_semantic_operations": 10,
+  "structural_operation_candidates": 26340,
+  "admitted_conditioned_krdanta_word_meanings": 25703,
+  "not_admitted_total": 637,
+  "admitted_by_operation": {
+    "action_ktin": 2634,
+    "age_canas": 2629,
+    "agent_ac": 2012,
+    "blessed_agent_vun": 2634,
+    "blessing_name_ktic": 2634,
+    "capacity_canas": 2629,
+    "habit_canas": 2629,
+    "instrument_name_gha": 2634,
+    "location_name_gha": 2634,
+    "susceptibility_kelimar": 2634
+  },
+  "not_admitted_by_operation": {
+    "age_canas": 5,
+    "agent_ac": 622,
+    "capacity_canas": 5,
+    "habit_canas": 5
+  },
+  "spelling_diagnostics": {
+    "distinct_output_spellings": 8786,
+    "spellings_shared_by_multiple_word_meanings": 6573
+  },
+  "prior_bounded_word_meaning_subtotal": 1407523,
+  "bounded_word_meaning_subtotal": 1433226,
+  "vocabulary_total": null,
+  "publication_status": "research_subtotal_only_not_deployed",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "sources": [
+    {
+      "filename": "vidyut-args-krt.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/krt.rs",
+      "accessed_utc": "2026-09-13T05:27:01.241686+00:00",
+      "sha256": "07e2a29545918b1528fa13eaf66b3fe5c9585184f945df5c479a25525de33f6f",
+      "bytes": 20834
+    },
+    {
+      "filename": "vidyut-krt-basic.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/krt/basic.rs",
+      "accessed_utc": "2026-09-13T09:07:15.500086+00:00",
+      "sha256": "d4316e3cedba64a1b6a9bcbff762b8a6d56a576572769fc166bd76f5188bd5f6",
+      "bytes": 66932
+    },
+    {
+      "filename": "rule-3.1.96.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.96.htm",
+      "accessed_utc": "2026-09-12T16:03:52.351008+00:00",
+      "sha256": "bbd869e074c796190faed0dd88919e915f789dbfb9f9e7ba104c2373b0bb1c7a",
+      "bytes": 7812
+    },
+    {
+      "filename": "rule-3.1.134.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.134.htm",
+      "accessed_utc": "2026-09-13T09:41:29.297071+00:00",
+      "sha256": "3315e71471dc22afdd00dbe8e64ad49cfd6d3181a25f912530a08ac1bad3ae94",
+      "bytes": 31705
+    },
+    {
+      "filename": "rule-3.1.150.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.150.htm",
+      "accessed_utc": "2026-09-13T09:38:17.610163+00:00",
+      "sha256": "2069a32b2491ff64c1bb392d5c47f28b678e0bd925e3c380cb3179443d58c920",
+      "bytes": 7907
+    },
+    {
+      "filename": "rule-3.2.129.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.2.129.htm",
+      "accessed_utc": "2026-09-13T09:38:19.768378+00:00",
+      "sha256": "ff802c77132fd56bb78b7cdbd716b6a2e6872f00ebe9b26a754953985d84cd21",
+      "bytes": 4847
+    },
+    {
+      "filename": "rule-3.3.94.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.94.htm",
+      "accessed_utc": "2026-09-13T09:38:20.845898+00:00",
+      "sha256": "d859b01b10b83119bd16cb9eb8135eb68959e486a21de9317811713fda1d780c",
+      "bytes": 9507
+    },
+    {
+      "filename": "rule-3.3.118.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.118.htm",
+      "accessed_utc": "2026-09-13T09:38:21.777695+00:00",
+      "sha256": "88eab90ebda251debd44857a8f2950824858563907c2cbb19e965d299f8f71bb",
+      "bytes": 3631
+    },
+    {
+      "filename": "rule-3.3.174.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.174.htm",
+      "accessed_utc": "2026-09-13T09:38:22.625214+00:00",
+      "sha256": "ada643ad17bbc4b1e6dc1ac44d6eefad3784b68f1723c2dabeed2a4d64043f2b",
+      "bytes": 5760
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "analysis/generativity/results/conditioned_krt_classification.json": "f8e425d31d30f07116dcc28f584d543a478ed43802ee1bcc0ef20fb068c2f70c",
+    "analysis/generativity/conditioned_krt_operations.json": "96027959f27ad812c0a34d1bb7f07bf1a4ceca53dd554305eca2b4564c0a0dcf",
+    "analysis/generativity/results/avyaya_summary.json": "3e14bfd6a15ecd689e86d61d8d8ba03a1c46cf54f3c8ae936504dbbbcadb3d2a",
+    "analysis/generativity/admission_standard.md": "f1aee832f493cbffedcbcd0138d9ef5bfa379ba2da25a65f3e231d9b336e96ff",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_conditioned_krdanta_ledger.py": "e5b0a20ddf7dfbbb78b8ff93caed6d5551ac6af5e0c361fa890abcbe72a39aae"
+  }
+}

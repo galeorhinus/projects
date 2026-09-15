@@ -1,0 +1,130 @@
+{
+  "date": "2026-09-13",
+  "scope": "Classification of all 122 ordinary krt identifiers exposed by pinned Vidyut 0.4.0 for a bounded laukika nominal-derivation pass.",
+  "vedic_only": [
+    "tosun", "kasun", "kAnac", "se", "sen", "ase", "asen", "kase", "kasen", "kamul", "aDyE",
+    "aDyEn", "kaDyE", "kaDyEn", "SaDyE", "SaDyEn", "tavE", "taveN", "taven"
+  ],
+  "avyaya": [
+    "tumun", "Ramul", "se", "sen", "ase", "asen", "kamul", "kase", "kasen",
+    "aDyE", "aDyEn", "kaDyE", "kaDyEn", "SaDyE", "SaDyEn", "tavE", "taveN",
+    "taven", "ktvA", "tosun", "kasun"
+  ],
+  "near_duplicates": [
+    "tavyat", "sen", "asen", "kasen", "aDyEn", "kaDyEn", "SaDyEn"
+  ],
+  "bounded_laukika_operations": [
+    {
+      "operation_id": "agent_nvul",
+      "source_variant": "Rvul",
+      "display": "ण्वुल् (ṇvul), agent",
+      "semantic_branch_id": "agent",
+      "semantic_relation": "an agent who performs the base action",
+      "rule_refs": ["3.1.133"]
+    },
+    {
+      "operation_id": "agent_trc",
+      "source_variant": "tfc",
+      "display": "तृच् (tṛc), agent",
+      "semantic_branch_id": "agent",
+      "semantic_relation": "an agent who performs the base action",
+      "rule_refs": ["3.1.133"]
+    },
+    {
+      "operation_id": "action_lyut",
+      "source_variant": "lyuw",
+      "display": "ल्युट् (lyuṭ), action",
+      "semantic_branch_id": "action",
+      "semantic_relation": "the action or state expressed by the base",
+      "rule_refs": ["3.3.115"]
+    },
+    {
+      "operation_id": "instrument_lyut",
+      "source_variant": "lyuw",
+      "display": "ल्युट् (lyuṭ), instrument",
+      "semantic_branch_id": "instrument",
+      "semantic_relation": "an instrument by which the base action is performed",
+      "rule_refs": ["3.3.117"]
+    },
+    {
+      "operation_id": "location_lyut",
+      "source_variant": "lyuw",
+      "display": "ल्युट् (lyuṭ), location",
+      "semantic_branch_id": "location",
+      "semantic_relation": "a location in which the base action occurs",
+      "rule_refs": ["3.3.117"]
+    },
+    {
+      "operation_id": "completed_kta",
+      "source_variant": "kta",
+      "display": "क्त (kta), completed-action formation",
+      "semantic_branch_id": "completed_action",
+      "semantic_relation": "a participant or state characterized by completion of the base action",
+      "rule_refs": ["3.2.102", "3.4.70"]
+    },
+    {
+      "operation_id": "completed_agent_ktavatu",
+      "source_variant": "ktavatu",
+      "display": "क्तवतु (ktavatu), completed-action agent",
+      "semantic_branch_id": "completed_action_agent",
+      "semantic_relation": "an agent characterized by having completed the base action",
+      "rule_refs": ["3.2.102"]
+    },
+    {
+      "operation_id": "present_satr",
+      "source_variant": "Satf",
+      "display": "शतृ (śatṛ), present participant",
+      "semantic_branch_id": "present_participant",
+      "semantic_relation": "a participant currently performing the base action in the parasmaipada formation",
+      "rule_refs": ["3.2.124"]
+    },
+    {
+      "operation_id": "present_sanac",
+      "source_variant": "SAnac",
+      "display": "शानच् (śānac), present participant",
+      "semantic_branch_id": "present_participant",
+      "semantic_relation": "a participant currently performing or undergoing the base action in the atmanepada formation",
+      "rule_refs": ["3.2.124"]
+    },
+    {
+      "operation_id": "obligation_tavya",
+      "source_variant": "tavya",
+      "display": "तव्य (tavya), obligation or fitness",
+      "semantic_branch_id": "obligation_or_fitness",
+      "semantic_relation": "the base action is to be performed or is fitting to be performed",
+      "rule_refs": ["3.1.96"]
+    },
+    {
+      "operation_id": "obligation_aniyar",
+      "source_variant": "anIyar",
+      "display": "अनीयर् (anīyar), obligation or fitness",
+      "semantic_branch_id": "obligation_or_fitness",
+      "semantic_relation": "the base action is to be performed or is fitting to be performed",
+      "rule_refs": ["3.1.96"]
+    },
+    {
+      "operation_id": "obligation_yat",
+      "source_variant": "yat",
+      "display": "यत् (yat), obligation or fitness",
+      "semantic_branch_id": "obligation_or_fitness",
+      "semantic_relation": "the base action is to be performed or is fitting to be performed",
+      "rule_refs": ["3.1.97", "3.1.124"]
+    },
+    {
+      "operation_id": "obligation_kyap",
+      "source_variant": "kyap",
+      "display": "क्यप् (kyap), obligation or fitness",
+      "semantic_branch_id": "obligation_or_fitness",
+      "semantic_relation": "the base action is to be performed or is fitting to be performed",
+      "rule_refs": ["3.1.97", "3.1.124"]
+    },
+    {
+      "operation_id": "obligation_nyat",
+      "source_variant": "Ryat",
+      "display": "ण्यत् (ṇyat), obligation or fitness",
+      "semantic_branch_id": "obligation_or_fitness",
+      "semantic_relation": "the base action is to be performed or is fitting to be performed",
+      "rule_refs": ["3.1.97", "3.1.124"]
+    }
+  ]
+}

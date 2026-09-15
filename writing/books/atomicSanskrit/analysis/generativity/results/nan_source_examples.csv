@@ -1,0 +1,6 @@
+source_example_id,source_file,source_line,input_form_slp1,expected_output_slp1,derived_output_slp1,surface_outcome,rule_refs,verification_status
+d43969f7fb8bcaa7a3fd,kashika_6_3.rs,134,brAhmaRa,abrAhmaRa,abrAhmaRa,a_before_consonant,2.2.6;6.3.73;6.3.74,matches_pinned_source_test
+3276a2b8465bf40185e4,kashika_6_3.rs,135,vfzala,avfzala,avfzala,a_before_consonant,2.2.6;6.3.73;6.3.74,matches_pinned_source_test
+2874805a07cc93266d28,kashika_6_3.rs,136,somapa,asomapa,asomapa,a_before_consonant,2.2.6;6.3.73;6.3.74,matches_pinned_source_test
+857d97d8eb44335eef59,kashika_6_3.rs,141,aja,anaja,anaja,an_before_vowel,2.2.6;6.3.73;6.3.74,matches_pinned_source_test
+64d7081b8e52e1bd325b,kashika_6_3.rs,142,aSva,anaSva,anaSva,an_before_vowel,2.2.6;6.3.73;6.3.74,matches_pinned_source_test

@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-13",
+  "scope": "Fourteen previously classified laukika krdanta semantic operations applied to every admitted one-upasarga verbal meaning; conditioned krt operations, avyayas, sanadi stacking, and inflection are excluded.",
+  "source_prefixed_word_meanings": 52567,
+  "selected_semantic_operations": 14,
+  "structural_operation_candidates": 735938,
+  "source_entry_operations_tested": 534960,
+  "source_entry_operations_with_output": 418162,
+  "admitted_prefixed_krdanta_word_meanings": 598606,
+  "not_admitted_total": 137332,
+  "admitted_by_operation": {
+    "action_lyut": 52567,
+    "agent_nvul": 52567,
+    "agent_trc": 52567,
+    "completed_agent_ktavatu": 52567,
+    "completed_kta": 52567,
+    "instrument_lyut": 52567,
+    "location_lyut": 52567,
+    "obligation_aniyar": 52567,
+    "obligation_kyap": 2772,
+    "obligation_nyat": 38755,
+    "obligation_tavya": 52567,
+    "obligation_yat": 17256,
+    "present_sanac": 26637,
+    "present_satr": 40083
+  },
+  "not_admitted_by_operation": {
+    "obligation_kyap": 49795,
+    "obligation_nyat": 13812,
+    "obligation_yat": 35311,
+    "present_sanac": 25930,
+    "present_satr": 12484
+  },
+  "spelling_diagnostics": {
+    "distinct_output_spellings": 353163,
+    "spellings_shared_by_multiple_word_meanings": 139333
+  },
+  "prior_bounded_word_meaning_subtotal": 1433226,
+  "bounded_word_meaning_subtotal": 2031832,
+  "vocabulary_total": null,
+  "publication_status": "research_subtotal_only_not_deployed",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "sources": [
+    {
+      "filename": "dhatupatha.tsv",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "resolved_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "accessed_utc": "2026-09-12T12:29:52.999531+00:00",
+      "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+      "bytes": 55022
+    },
+    {
+      "filename": "vidyut-args-krt.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/krt.rs",
+      "accessed_utc": "2026-09-13T05:27:01.241686+00:00",
+      "sha256": "07e2a29545918b1528fa13eaf66b3fe5c9585184f945df5c479a25525de33f6f",
+      "bytes": 20834
+    },
+    {
+      "filename": "vidyut-krt-basic.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/krt/basic.rs",
+      "accessed_utc": "2026-09-13T09:07:15.500086+00:00",
+      "sha256": "d4316e3cedba64a1b6a9bcbff762b8a6d56a576572769fc166bd76f5188bd5f6",
+      "bytes": 66932
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/results/upasarga_generation_ledger.csv": "7d670a4f4290a25c42ea5c6e4803e93e4eda9ead1326a20289e7afb0ddf950ed",
+    "analysis/generativity/upasarga_inventory.csv": "cf3e86d1d8e7ebc6613130b99a11c1d0da4a943093cbbbc72667e08004a82c04",
+    "analysis/generativity/krt_classification.json": "7536d6f4d2df87dd13ab5936f0646b03c1aa94ba6dfdfbcfe0d823d6042802b3",
+    "analysis/generativity/results/conditioned_krdanta_summary.json": "793b478f18268ae805a9fb94c79a0ff1beddf0b1bad24b10758f2a45eaebd88a",
+    "analysis/generativity/admission_standard.md": "f1aee832f493cbffedcbcd0138d9ef5bfa379ba2da25a65f3e231d9b336e96ff",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_prefixed_krdanta_ledger.py": "a36cca94af2f3fb0c46caada45892114c5f7ca17dd50d162d6f74803a41e7d68"
+  }
+}

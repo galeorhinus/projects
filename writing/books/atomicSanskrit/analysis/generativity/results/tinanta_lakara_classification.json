@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-14",
+  "engine_lakaras": 11,
+  "counted_laukika_lakaras": 10,
+  "withheld_vaidika_lakaras": 1,
+  "citation_cells_per_word_meaning": 10,
+  "full_person_number_cells_per_word_meaning": 90,
+  "prayoga": "Kartari",
+  "pada_multiplier": 1,
+  "input": {
+    "analysis/generativity/tinanta_operations.json": "5767caafd73bb4c1768d0e9ebc8cb81de2d9fb9918ca523f141a3403bbc8bea7"
+  }
+}

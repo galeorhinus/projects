@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-14",
+  "laukika_verbal_word_meanings": 4540848,
+  "counts_by_source_layer": {
+    "base": 2623,
+    "one_sanadi": 12480,
+    "one_upasarga": 52347,
+    "upasarga_sanadi": 249200,
+    "curadi_true_causative": 522,
+    "two_upasarga": 1046940,
+    "namadhatu": 3176352,
+    "compound_namadhatu": 384
+  },
+  "known_vaidika_restricted_meanings_excluded_by_layer": {
+    "base": 11,
+    "one_sanadi": 42,
+    "one_upasarga": 220,
+    "upasarga_sanadi": 840,
+    "two_upasarga": 4400
+  },
+  "inventory_storage": "normalized virtual view over existing reconciled ledgers",
+  "full_inventory_duplicated": false,
+  "materialized_sample_records": 9,
+  "inputs": {
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "analysis/generativity/results/verbal_derivation_ledger.csv": "d24e885863a5f840637054d2686a75717ce5f7efb7bbb78c901e9ebbac920617",
+    "analysis/generativity/results/upasarga_generation_ledger.csv": "7d670a4f4290a25c42ea5c6e4803e93e4eda9ead1326a20289e7afb0ddf950ed",
+    "analysis/generativity/results/upasarga_sanadi_ledger.csv.gz": "f3e68ed3f679feb3a770327cdf1a7b85ba7d215c757dda1d04b6050fe240f991",
+    "analysis/generativity/results/curadi_causative_ledger.csv": "6f81d8f3c0b37964c9ff27703a66333570e10f8ea81b2b2e31ff5fb458a9c73b",
+    "analysis/generativity/results/two_upasarga_ledger.csv.gz": "68689fdee3551a32940a845dc62329d2287dc05f24ba15d9e5a6dae408da1a62",
+    "analysis/generativity/results/namadhatu_ledger.csv.gz": "022f750230867d6e1d1981c9a3e2293eabc70a069870db19cea5ef73ae545350",
+    "analysis/generativity/results/compound_stack_ledger.csv": "26f25d31e6126e007d3b9a583ff8fad5481a33b0ccf638a1a2b167a56b8780cd"
+  }
+}

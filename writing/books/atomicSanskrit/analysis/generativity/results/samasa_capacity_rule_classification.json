@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "broad_relations_counted": 4,
+  "conditioned_relation_families_deferred": 10,
+  "counted_relation_ids": [
+    "sasthi_tatpurusha",
+    "bahuvrihi",
+    "dvandva",
+    "samahara_dvandva"
+  ],
+  "conditioned_relation_ids": [
+    "avyayibhava",
+    "avyaya_tatpurusha",
+    "dvitiya_tatpurusha",
+    "trtiya_tatpurusha",
+    "caturthi_tatpurusha",
+    "panchami_tatpurusha",
+    "saptami_tatpurusha",
+    "karmadharaya",
+    "dvigu",
+    "ekadeshin"
+  ],
+  "source_example_fixture_relations": 113,
+  "inputs": {
+    "analysis/generativity/samasa_capacity_operations.json": "ed1b79285d0a0637653404ec99c4ec4537454ca2869d5dcf1e545fd599af3979",
+    "working/40_reference/sources/archive/documents/generativity-pilot/samasa_manifest.json": "f7db740232de8d600ee8d61b87c9733d301c643e45f7a2cc80b1069d9781aa51",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-samasa.rs": "a0257779f147288004393707599fbafd885e4998b71d50a1c62c2df11f6e102c",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-args-samasa.rs": "d593d0616c7ae3e9c2a99aca393f21f97b5c8aa7f671479ba672c4de4bf5582e",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-sutrapatha.tsv": "f2ff798707e8b8ea20dd5cf20a7bbcc4b849f0ab4d726a0a4af890ef87b7e87c"
+  }
+}

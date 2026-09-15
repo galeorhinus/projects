@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-13",
+  "prior_combined_bounded_word_meanings": 7939066,
+  "prior_bounded_laukika_word_meanings": 7725668,
+  "bounded_vaidika_subtotal_unchanged": 213398,
+  "additional_nan_word_meanings": 3177340,
+  "bounded_laukika_subtotal_after_nan": 10903008,
+  "combined_bounded_word_meaning_subtotal": 11116406,
+  "complete_inflected_words_counted": 0,
+  "counting_boundary": "One nonrecursive nan relation per eligible nominal word-meaning. The a-/an- surface distinction does not multiply meanings.",
+  "remaining_layers": [
+    "other bounded compounds",
+    "finite verb conjugation",
+    "nominal declension"
+  ],
+  "inputs": {
+    "analysis/generativity/results/namadhatu_reconciliation.json": "3e6a7570295b7b7d6d804f06908b24c6abdf0795550409bf2049c47497e5cd63",
+    "analysis/generativity/results/nan_summary.json": "bbba8c2e85f9a18a41e0447f9e6f7049556332aebf1bbdd641e998c1a91f8acb",
+    "analysis/generativity/results/nan_ledger.csv.gz": "8bf55c25abf358230c14b415170b7f5341227202bbcd04017a5fdb8bddccded1",
+    "analysis/generativity/results/vaidika_laukika_reconciliation.json": "ea0241dd5e8838426581dbbd32c4e5df10e1ac522495c236c74a69f7cd1d0df9",
+    "analysis/generativity/reconcile_nan_ledger.py": "57fb9673464fc171017ddc7c72c5d17ce6551c2086c4adbaf0c149198d6ebafe"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

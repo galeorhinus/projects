@@ -1,0 +1,123 @@
+source_variant,engine_id,visible_suffix,is_vedic_only,is_avyaya,is_near_duplicate,primary_classification,bounded_operation_ids,bounded_semantic_operation_count,count_status,source_description
+a,a,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+aN,aN,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-a,"
+ac,ac,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+aR,aR,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+aDyE,aDyE,aDyE,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-aDyE
+aDyEn,aDyEn,aDyE,true,true,true,vedic_only_deferred,,0,not_admitted_in_current_pass,-aDyE
+atfn,atf~n,at,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-at (jarat)
+aTuc,aTuc,aTu,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-aTu (vepaTu). Allowed only for dhatus that are `qvit`.
+ani,ani,ani,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ani
+anIyar,anIyar,anIya,false,false,false,bounded_laukika_generation,obligation_aniyar,1,eligible_for_bounded_generation,"-anIya (gamanIya, BavanIya, ...)"
+ap,ap,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+ase,ase,ase,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-ase
+asen,asen,ase,true,true,true,vedic_only_deferred,,0,not_admitted_in_current_pass,-ase
+Aluc,Aluc,Alu,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-Alu
+Aru,Aru,Aru,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-Aru
+ika,ika,ika,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ika
+ikavaka,ikavaka,ikavaka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ikavaka
+iY,iY,i,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-i
+itra,itra,itra,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-itra
+in_,in,in,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-in. The trailing `_` is to avoid colliding with Rust's `in` keyword.
+ini,ini~,in,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-in
+izRuc,izRuc,izRu,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-izRu (alaMkarizRu, prajanizRu, ...)"
+u,u,u,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-u (yuyutsu, Bikzu, ...)"
+ukaY,ukaY,uka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-uka
+Uka,Uka,Uka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-Uka
+ka,ka,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+kaY,kaY,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+kaDyE,kaDyE,aDyE,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-aDyE
+kaDyEn,kaDyEn,aDyE,true,true,true,vedic_only_deferred,,0,not_admitted_in_current_pass,-aDyE
+kamul,kamu~l,am,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-am
+kasun,kasu~n,as,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,"-as (visfpaH, ...)"
+kap,kap,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+kase,kase,ase,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-ase
+kasen,kasen,ase,true,true,true,vedic_only_deferred,,0,not_admitted_in_current_pass,-ase
+kAnac,kAnac,Ana,true,false,false,vedic_only_deferred,,0,not_admitted_in_current_pass,"-Ana (cakrARa, ...)"
+ki,ki,i,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-i (udaDi, ...)"
+kin,kin,i,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-i
+kurac,kurac,ura,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-ura (BaNgura, ...)"
+kelimar,kelimar,elima,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-elima (pacelima, ...)"
+kta,kta,ta,false,false,false,bounded_laukika_generation,completed_kta,1,eligible_for_bounded_generation,"-ta (gata, bhUta, ...)"
+ktavatu,ktavatu~,tavat,false,false,false,bounded_laukika_generation,completed_agent_ktavatu,1,eligible_for_bounded_generation,"-tavat (gatavat, bhUtavat, ...)"
+ktic,ktic,ti,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ti
+ktin,ktin,ti,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ti
+ktri,ktri,tri,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-tri
+ktvA,ktvA,tvA,false,true,false,laukika_avyaya_deferred,,0,not_admitted_in_current_pass,"-tvA (gatvA, bhUtva, ...)"
+knu,knu,nu,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-nu
+kmarac,kmarac,mara,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-mara
+kyap,kyap,ya,false,false,false,bounded_laukika_generation,obligation_kyap,1,eligible_for_bounded_generation,-ya
+kru,kru,ru,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ru (BIru)
+krukan,krukan,ruka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ruka (BIruka)
+klukan,klukan,luka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-luka (BIluka)
+kvanip,kvani~p,van,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-van
+kvarap,kvarap,vara,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-vara
+kvasu,kvasu~,vas,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-vas
+ksnu,ksnu,snu,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-snu (glAsnu, jizRu, ...)"
+kvin,kvi~n,,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,(empty suffix)
+kvip,kvi~p,,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,(empty suffix)
+Kac,Kac,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-a (priyaMvada, vaSaMvada)"
+KaS,KaS,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+Kal,Kal,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-a (Izatkara, duzkara, sukara, ...)"
+KizRuc,KizRuc,izRu,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-izRu
+KukaY,KukaY,uka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-uka
+Kyun,Kyu~n,ana,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ana
+Ga,Ga,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+GaY,GaY,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+GinuR,Ginu~R,in,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-in
+Gurac,Gurac,ura,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ura
+Nvanip,Nvani~p,van,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-van
+cAnaS,cAnaS,Ana,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-Ana
+Yyuw,Yyu~w,ana,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ana
+wa,wa,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+wak,wak,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+qa,qa,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+qara,qara,ara,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-ara,"
+qu,qu,u,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-u
+Ra,Ra,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+Ramul,Ramu~l,am,false,true,false,laukika_avyaya_deferred,,0,not_admitted_in_current_pass,-am
+Rini,Rini~,in,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-in
+Ryat,Ryat,ya,false,false,false,bounded_laukika_generation,obligation_nyat,1,eligible_for_bounded_generation,-ya
+Ryuw,Ryu~w,ana,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ana
+Rvi,Rvi~,,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,(empty)
+Rvuc,Rvu~c,aka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-aka
+Rvul,Rvu~l,aka,false,false,false,bounded_laukika_generation,agent_nvul,1,eligible_for_bounded_generation,-aka
+taveN,taveN,tave,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-tave
+taven,taven,tave,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-tave
+tavE,tavE,tavE,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-tavE
+tavya,tavya,tavya,false,false,false,bounded_laukika_generation,obligation_tavya,1,eligible_for_bounded_generation,"-tavya (gantavya, bhavitavya, ...)"
+tavyat,tavyat,tavya,false,false,true,near_duplicate_deferred,,0,not_admitted_in_current_pass,-tavya
+tumun,tumu~n,tum,false,true,false,laukika_avyaya_deferred,,0,not_admitted_in_current_pass,"-tum (gantum, bhavitum, ...)"
+tfc,tfc,tf,false,false,false,bounded_laukika_generation,agent_trc,1,eligible_for_bounded_generation,"-tf (gantA, bhavitA, ...)"
+tfn,tfn,tf,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-tf
+tosun,tosu~n,tos,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-tos (udetoH)
+Takan,Takan,Taka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-Taka (gATaka)
+naN,naN,na,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-na
+najiN,naji~N,naj,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-naj
+nan,nan,na,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-na (svapna)
+ni,ni,ni,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-ni,"
+manin,mani~n,man,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-man
+ya,ya,ya,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ya
+yat,yat,ya,false,false,false,bounded_laukika_generation,obligation_yat,1,eligible_for_bounded_generation,-ya
+yuc,yu~c,ana,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ana
+ra,ra,na,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,"-na (namra, kampra, ...)"
+ru,ru,ru,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ru
+lyu,lyu~,ana,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-ana
+lyuw,lyu~w,ana,false,false,false,bounded_laukika_generation,action_lyut;instrument_lyut;location_lyut,3,eligible_for_bounded_generation,-ana
+vanip,vani~p,van,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-van
+varac,varac,vara,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-vara
+vic,vi~c,,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,(empty suffix)
+viw,vi~w,,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,(none)
+vuY,vu~Y,aka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-aka
+vun,vu~n,aka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-aka
+zAkan,zAkan,Aka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-Aka
+zwran,zwran,tra,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-tra
+zvun,zvu~n,aka,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-aka
+Sa,Sa,a,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-a
+Satf,Satf~,at,false,false,false,bounded_laukika_generation,present_satr,1,eligible_for_bounded_generation,"-at (gacCat, Bavat, ...)"
+SaDyE,SaDyE,aDyE,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-aDyE
+SaDyEn,SaDyEn,aDyE,true,true,true,vedic_only_deferred,,0,not_admitted_in_current_pass,-aDyE
+SAnac,SAnac,Ana,false,false,false,bounded_laukika_generation,present_sanac,1,eligible_for_bounded_generation,"-Ana (laBamAna, sevamAna, ...)"
+SAnan,SAnan,Ana,false,false,false,root_or_construction_conditioned_deferred,,0,not_admitted_in_current_pass,-Ana
+se,se,se,true,true,false,vedic_only_deferred,,0,not_admitted_in_current_pass,-se
+sen,sen,se,true,true,true,vedic_only_deferred,,0,not_admitted_in_current_pass,-se

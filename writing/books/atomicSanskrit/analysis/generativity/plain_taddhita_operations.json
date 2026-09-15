@@ -1,0 +1,410 @@
+{
+  "method": "Each entry classifies the semantic work established by the governing rule page. A source-recorded derivative may count once even when the rule calls it svartha, because it is a new word carrying a recorded meaning. Optional output forms and later substitutions remain variants of one relation.",
+  "rule_operations": [
+    {
+      "rules": ["4.1.112", "4.1.116", "4.1.121"],
+      "canonical_rule": "4.1.92",
+      "semantic_context": "TasyaApatyam",
+      "semantic_relation": "a descendant or child of the named person",
+      "semantic_family": "descent",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["4.2.67"],
+      "semantic_context": "CaturarthikaPresence",
+      "semantic_relation": "a place named for the presence of the named entity",
+      "semantic_family": "place_presence",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["4.2.68"],
+      "semantic_context": "CaturarthikaCreation",
+      "semantic_relation": "a place established or produced by the named entity",
+      "semantic_family": "place_creation",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["4.2.69"],
+      "semantic_context": "CaturarthikaDwelling",
+      "semantic_relation": "a place where the named people or entity dwell",
+      "semantic_family": "place_dwelling",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["4.2.70"],
+      "semantic_context": "CaturarthikaProximity",
+      "semantic_relation": "a place near the named feature",
+      "semantic_family": "place_proximity",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["4.2.71", "4.2.72", "4.2.75", "4.2.77", "4.2.78", "4.2.79", "4.2.84", "4.2.86", "4.2.87"],
+      "semantic_context": "Caturarthika",
+      "semantic_relation": "the applicable place relation: presence, creation, dwelling, or proximity",
+      "semantic_family": "fourfold_place_relation",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative",
+      "counting_note": "The source permits up to four senses as applicable. A plain assertion counts once because it does not establish all four for its input."
+    },
+    {
+      "rules": ["4.2.92", "4.2.93", "4.2.94", "4.2.95", "4.2.97", "4.2.98", "4.2.99", "4.2.100", "4.2.101", "4.2.102", "4.2.103", "4.2.114", "4.2.115"],
+      "semantic_context": "Sheshe",
+      "semantic_relation": "the geographic, origin, or other association specified for the named base",
+      "semantic_family": "specified_association",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative",
+      "counting_note": "The rule pages supply the listed examples under shesha; the pass does not generalize beyond those examples."
+    },
+    {
+      "rules": ["4.2.105"],
+      "semantic_context": "ShesheTemporal",
+      "semantic_relation": "belonging to or occurring in the named time",
+      "semantic_family": "temporal_association",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["4.4.34"],
+      "semantic_context": "Karoti",
+      "semantic_relation": "one who performs or produces the named action or sound",
+      "semantic_family": "performer",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["4.4.65"],
+      "semantic_context": "HitamBhaksha",
+      "semantic_relation": "one for whom the named food is suitable",
+      "semantic_family": "suitable_food",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["4.4.71"],
+      "semantic_context": "AdhyayiniAdeshaKala",
+      "semantic_relation": "one who studies at the named prohibited place or time",
+      "semantic_family": "study_place_or_time",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["4.4.91", "4.4.97"],
+      "semantic_context": "InputSpecificRelation",
+      "semantic_relation": "the relation specified for the individual base in the governing rule",
+      "semantic_family": "input_specific_relation",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.1.2"],
+      "semantic_context": "PrakKritiya",
+      "semantic_relation": "material intended or suitable for the named thing",
+      "semantic_family": "intended_material",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.1.3"],
+      "semantic_context": "KambalyaMeasure",
+      "semantic_relation": "the named conventional measure of wool",
+      "semantic_family": "named_measure",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.1.22"],
+      "semantic_context": "TenaKritam",
+      "semantic_relation": "bought for the named count or amount",
+      "semantic_family": "purchase_amount",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.1.77"],
+      "semantic_context": "AhrtamGacchati",
+      "semantic_relation": "brought or traveling by the named route",
+      "semantic_family": "route_relation",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.1.105", "5.1.106"],
+      "semantic_context": "TadAsyaPraptam",
+      "semantic_relation": "whose proper season has arrived; seasonal",
+      "semantic_family": "seasonal_relation",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.1.119", "5.1.122"],
+      "semantic_context": "TasyaBhava",
+      "semantic_relation": "the state or defining quality denoted by the nominal base",
+      "semantic_family": "state_or_quality",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.2.28"],
+      "semantic_context": "SvarthaLexicalQuality",
+      "semantic_relation": "the listed quality of breadth or absence of constriction",
+      "semantic_family": "listed_lexical_quality",
+      "output_class": "nominal_base",
+      "relation_class": "same_referent_or_lexical_derivative"
+    },
+    {
+      "rules": ["5.2.9", "5.2.29", "5.2.30"],
+      "semantic_context": "SvarthaLexicalFormation",
+      "semantic_relation": "the lexical quality or substance specified for the listed base",
+      "semantic_family": "listed_lexical_formation",
+      "output_class": "nominal_base",
+      "relation_class": "same_referent_or_lexical_derivative"
+    },
+    {
+      "rules": ["5.2.31", "5.2.32", "5.2.33"],
+      "semantic_context": "NataNasika",
+      "semantic_relation": "a bent or lowered nose, or one characterized by it",
+      "semantic_family": "physical_characteristic",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.2.34"],
+      "semantic_context": "AsannaArudha",
+      "semantic_relation": "ground near a mountain or ground ascending it",
+      "semantic_family": "terrain_relation",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.2.35"],
+      "semantic_context": "KarmaniGhatah",
+      "semantic_relation": "one actively engaged or effective in work",
+      "semantic_family": "work_disposition",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.2.94", "5.2.96", "5.2.100", "5.2.121"],
+      "semantic_context": "TadAsyaAstiAsmin",
+      "semantic_relation": "possessing or containing the named quality, feature, or object",
+      "semantic_family": "possession",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.5", "5.3.7"],
+      "suffixes": ["tasil"],
+      "semantic_context": "DigDeshaKalaAblative",
+      "semantic_relation": "from the named place, direction, extent, or point of reference",
+      "semantic_family": "source_or_direction",
+      "output_class": "complete_avyaya",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.9"],
+      "semantic_context": "DigDeshaKalaSurrounding",
+      "semantic_relation": "around or on the sides of the named reference",
+      "semantic_family": "surrounding_direction",
+      "output_class": "complete_avyaya",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.3", "5.3.5", "5.3.10", "5.3.11", "5.3.12", "5.3.13"],
+      "suffixes": ["tral", "at", "ha"],
+      "semantic_context": "DigDeshaKalaLocative",
+      "semantic_relation": "at or in the named or questioned place",
+      "semantic_family": "location",
+      "output_class": "complete_avyaya",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.4", "5.3.6", "5.3.15", "5.3.16", "5.3.18", "5.3.19"],
+      "suffixes": ["rhil", "dA", "dAnIm"],
+      "semantic_context": "DigDeshaKalaTime",
+      "semantic_relation": "at the time or frequency denoted by the base",
+      "semantic_family": "time",
+      "output_class": "complete_avyaya",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.4", "5.3.23", "5.3.24", "5.3.25"],
+      "suffixes": ["Tamu", "TAl"],
+      "semantic_context": "Prakara",
+      "semantic_relation": "in the manner denoted or questioned by the base",
+      "semantic_family": "manner",
+      "output_class": "complete_avyaya",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.42", "5.3.44", "5.3.45"],
+      "canonical_rule": "5.3.42",
+      "semantic_context": "PrakaraDivision",
+      "semantic_relation": "in the named number of ways or divisions",
+      "semantic_family": "number_of_ways",
+      "output_class": "complete_avyaya",
+      "relation_class": "meaning_bearing_derivative",
+      "counting_note": "Rules 5.3.44-46 replace the form created under 5.3.42; their outputs are variants of the same relation."
+    },
+    {
+      "rules": ["5.3.47"],
+      "semantic_context": "Yapya",
+      "semantic_relation": "a contemptible or deficient instance of the named role",
+      "semantic_family": "contempt",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.52"],
+      "semantic_context": "Asahaya",
+      "semantic_relation": "alone or without a companion",
+      "semantic_family": "solitary_state",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.53"],
+      "semantic_context": "BhutaPurva",
+      "semantic_relation": "one who formerly had the quality named by the base",
+      "semantic_family": "former_state",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.54"],
+      "semantic_context": "BhutaPurvaSambandha",
+      "semantic_relation": "something formerly connected with or possessed by the named person",
+      "semantic_family": "former_association",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.55", "5.3.60", "5.3.62", "5.3.63", "5.3.64"],
+      "suffixes": ["tamap", "izWan"],
+      "canonical_rule": "5.3.55",
+      "semantic_context": "AtishayanaSuperlative",
+      "semantic_relation": "having the named quality to the highest degree within a set",
+      "semantic_family": "superlative",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.57", "5.3.60", "5.3.62", "5.3.63", "5.3.64"],
+      "suffixes": ["tarap", "Iyasun"],
+      "canonical_rule": "5.3.57",
+      "semantic_context": "AtishayanaComparative",
+      "semantic_relation": "having more of the named quality in a comparison",
+      "semantic_family": "comparative",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.66"],
+      "semantic_context": "Prashamsa",
+      "semantic_relation": "a complete or exemplary instance of the named character",
+      "semantic_family": "emphatic_character",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.67", "5.3.68"],
+      "semantic_context": "IshadAsamapti",
+      "semantic_relation": "approaching but not fully reaching the quality named by the base",
+      "semantic_family": "approximation",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.3.69", "5.4.3"],
+      "semantic_context": "PrakaraVacane",
+      "semantic_relation": "a kind or type characterized by the named quality",
+      "semantic_family": "type_or_kind",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.4.17", "5.4.18", "5.4.19"],
+      "semantic_context": "KriyaAbhyavrttiGanana",
+      "semantic_relation": "the named number of repetitions of an action",
+      "semantic_family": "action_repetition",
+      "output_class": "complete_avyaya",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.4.21"],
+      "semantic_context": "TatPrakrtaVacane",
+      "semantic_relation": "made or constituted predominantly from the named material",
+      "semantic_family": "material_composition",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.4.23", "5.4.27", "5.4.28", "5.4.29", "5.4.30", "5.4.33", "5.4.34", "5.4.39"],
+      "semantic_context": "Svarthe",
+      "semantic_relation": "a source-listed derivative retaining the base referent",
+      "semantic_family": "same_referent_derivative",
+      "output_class": "nominal_base",
+      "relation_class": "same_referent_or_lexical_derivative"
+    },
+    {
+      "rules": ["5.4.26"],
+      "semantic_context": "Tadarthye",
+      "semantic_relation": "intended for a guest",
+      "semantic_family": "intended_recipient",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.4.35"],
+      "semantic_context": "VyahrtaArtha",
+      "semantic_relation": "a message or utterance conveying a meaning stated beforehand",
+      "semantic_family": "reported_message",
+      "output_class": "nominal_base",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.4.43"],
+      "semantic_context": "PratyayaDistributive",
+      "semantic_relation": "in groups or successive units of the named amount",
+      "semantic_family": "distribution",
+      "output_class": "complete_avyaya",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.4.44"],
+      "semantic_context": "PratiyogaPanchami",
+      "semantic_relation": "from, relative to, or with respect to the named reference",
+      "semantic_family": "relative_direction",
+      "output_class": "complete_avyaya",
+      "relation_class": "meaning_bearing_derivative"
+    },
+    {
+      "rules": ["5.4.54"],
+      "semantic_context": "TadAdhina",
+      "semantic_relation": "placed under the control or dependence of the named entity",
+      "semantic_family": "dependence",
+      "output_class": "complete_avyaya",
+      "relation_class": "meaning_bearing_derivative"
+    }
+  ],
+  "input_relations": [
+    {"rule": "4.4.91", "input_form_slp1": "nO", "semantic_context": "NavaTaryam", "semantic_relation": "water or a route traversable by boat", "semantic_family": "means_of_crossing"},
+    {"rule": "4.4.91", "input_form_slp1": "vayas", "semantic_context": "VayasaTulyah", "semantic_relation": "a companion or friend equal in age", "semantic_family": "equality_in_age"},
+    {"rule": "4.4.91", "input_form_slp1": "Darma", "semantic_context": "DharmenaPrapyam", "semantic_relation": "attainable through dharma", "semantic_family": "means_of_attainment"},
+    {"rule": "4.4.91", "input_form_slp1": "viza", "semantic_context": "VishenaVadhyah", "semantic_relation": "liable or fit to be killed by poison", "semantic_family": "means_of_killing"},
+    {"rule": "4.4.91", "input_form_slp1": "mUla", "semantic_context": "MulenaAnamyam", "semantic_relation": "overcome or acquired by the named price", "semantic_family": "price_relation"},
+    {"rule": "4.4.91", "input_form_slp1": "mUla", "semantic_context": "MulenaSamam", "semantic_relation": "equal in value to the named price", "semantic_family": "price_equivalence"},
+    {"rule": "4.4.91", "input_form_slp1": "sItA", "semantic_context": "SitayaSamitam", "semantic_relation": "a field measured or joined by the named furrow", "semantic_family": "field_measure"},
+    {"rule": "4.4.91", "input_form_slp1": "tulA", "semantic_context": "TulayaSammitam", "semantic_relation": "equal or commensurate according to a balance", "semantic_family": "measured_equivalence"},
+    {"rule": "4.4.97", "input_form_slp1": "mata", "semantic_context": "MatasyaKaranam", "semantic_relation": "the act or instrument of cognition", "semantic_family": "cognitive_instrument_or_act"},
+    {"rule": "4.4.97", "input_form_slp1": "jana", "semantic_context": "JanasyaJalpah", "semantic_relation": "speech or talk of people", "semantic_family": "community_speech"},
+    {"rule": "4.4.97", "input_form_slp1": "hala", "semantic_context": "HalasyaKarshah", "semantic_relation": "ploughing performed with a plough", "semantic_family": "means_of_ploughing"}
+  ],
+  "domain_overrides": [
+    {"rule": "5.1.106", "domain": "vaidika"}
+  ]
+}

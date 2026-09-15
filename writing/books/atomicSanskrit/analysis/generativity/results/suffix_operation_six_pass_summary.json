@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-13",
+  "passes_completed": 6,
+  "suffix_identifiers_classified": 175,
+  "broad_suffix_identifiers": 3,
+  "plain_source_forms_not_counted_as_new_meanings": 292,
+  "new_source_conditioned_candidates": 24,
+  "verified_relations": 24,
+  "additional_suffix_word_meanings": 24,
+  "combined_bounded_word_meaning_subtotal": 11116430,
+  "stage_graph_nodes": 20,
+  "inputs": {
+    "analysis/generativity/results/suffix_semantic_families.json": "b031a25f7032cb82228299727effbe773fa834294c62a79f7ae75238e04e91c1",
+    "analysis/generativity/results/suffix_productivity_classification.json": "65797f7a0dc172a05814bc170eae1da9eb1f55df30508c9890ec0213b89a37f4",
+    "analysis/generativity/results/suffix_conditioned_relations.json": "b49beb59d6fb2da40966701ce003a50c174447bc39781fabb4d6b08f737eb434",
+    "analysis/generativity/results/suffix_conditioned_verification.json": "27c2080398429ad48f95cd5a0702c6c1f5b9a80340472b4ec7709641381d28ed",
+    "analysis/generativity/results/suffix_conditioned_reconciliation.json": "ada60f2f57a934ece65087270a523f22bdd50c5201d5b3ef8e5504c1dc7720f9",
+    "analysis/generativity/results/suffix_conditioned_ledger.csv": "731f1d63f566e119887f8d4b3426cdde3b5a3250180da7ce6596a2ece57e1581",
+    "analysis/generativity/results/generation_stage_graph.json": "adf2510fe75898a1a13125ad4899119401d8a8a3a6b9390385a6e9baa7641119",
+    "analysis/generativity/build_suffix_operation_six_pass_summary.py": "98c6b4dbc93d6a3916042fd4ec27d172b59feae7444c0f9074a2ffc861b3920c"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

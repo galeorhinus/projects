@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-13",
+  "admitted_vaidika_conditioned_word_meanings": 2637,
+  "not_admitted_engine_or_condition_total": 0,
+  "admitted_by_operation": {
+    "vedic_bhavalaksana_kasun": 3,
+    "vedic_sak_purpose_kamul": 2634
+  },
+  "coverage_gaps": [
+    {
+      "operation_id": "vedic_purpose_family_3_4_9",
+      "identifiers": [
+        "se",
+        "sen",
+        "ase",
+        "asen",
+        "kase",
+        "kasen",
+        "aDyE",
+        "aDyEn",
+        "kaDyE",
+        "kaDyEn",
+        "SaDyE",
+        "SaDyEn",
+        "tavE",
+        "taveN",
+        "taven"
+      ],
+      "semantic_candidates": 2634,
+      "rule_refs": [
+        "3.4.9"
+      ],
+      "status": "not_admitted_engine_coverage_gap_not_prohibition"
+    },
+    {
+      "operation_id": "vedic_isvara_purpose_tosun_kasun",
+      "identifiers": [
+        "tosun",
+        "kasun"
+      ],
+      "semantic_candidates": 2634,
+      "rule_refs": [
+        "3.4.13"
+      ],
+      "status": "not_admitted_engine_coverage_gap_not_prohibition"
+    },
+    {
+      "operation_id": "vedic_bhavalaksana_tosun",
+      "identifiers": [
+        "tosun"
+      ],
+      "semantic_candidates": 12,
+      "rule_refs": [
+        "3.4.16"
+      ],
+      "status": "not_admitted_engine_coverage_gap_not_prohibition"
+    }
+  ],
+  "prior_vaidika_specific_subtotal": 5268,
+  "vaidika_specific_subtotal": 7905,
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32",
+    "is_chandasi": true,
+    "use_svaras": true
+  },
+  "inputs": {
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "analysis/generativity/vaidika_krt_operations.json": "e29b7226471a7381d5b59ea189e0341c463e3a00e535739b9f0ff11e8d59e31c",
+    "analysis/generativity/results/vaidika_direct_summary.json": "fcbc1bddf14e1d5fcf05830bda270614465e1269dfc23b50ef842c5c25aa7202",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_vaidika_conditioned_ledger.py": "7a0178cd9447a9d1a7ae73648e846a84390d7483962d2c40dc0dbd0f81bbe4e3"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

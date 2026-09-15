@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 7,
+  "laukika_name_word_meanings": 8084287,
+  "relation_coordinates": 8,
+  "number_coordinates": 3,
+  "cells_per_name_meaning": 24,
+  "full_relation_number_semantic_cells": 194022888,
+  "citation_cells_contained_within_full_matrix": 8084287,
+  "gender_multiplier_applied": false,
+  "all_cells_materialized": false,
+  "inputs": {
+    "analysis/generativity/results/subanta_citation_six_pass_summary.json": "b662f1be40392c3f1c3562aa3ad1e99c588e8cdda8d8f10a8b4cf37ac2208909",
+    "analysis/generativity/results/subanta_coordinate_classification.json": "8c1debd74a8a646d2b45348014fa9aede061e8139777c22c6c0691a1c8e79a85",
+    "analysis/generativity/subanta_operations.json": "8754ba3442462deb4689c992604901f927b6237c115a71aa7344504b2e57d33e"
+  }
+}

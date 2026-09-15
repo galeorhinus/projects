@@ -1,0 +1,5 @@
+operation_id,source_variant,semantic_context,semantic_relation,eligibility_scope,eligible_nominal_ids,eligible_candidate_word_meanings,rule_refs,count_status
+state_tva,tva,TasyaBhava,the state or defining quality denoted by the nominal base,all_declared_laukika_nominal_word_meanings,,794078,5.1.119,eligible_for_engine_generation
+state_tal,tal,TasyaBhava,the state or defining quality denoted by the nominal base,all_declared_laukika_nominal_word_meanings,,794078,5.1.119,eligible_for_engine_generation
+possession_matup,matup,TadAsyaAstiAsmin,one or that in which the nominal referent is present,all_declared_laukika_nominal_word_meanings,,794078,5.2.94,eligible_for_engine_generation
+descendant_dhak,Qak,TasyaApatyam,a descendant or offspring of the named feminine base,listed_nominal_ids,declared:kunti;declared:suparna;declared:vinata,3,4.1.92;4.1.120,eligible_for_engine_generation

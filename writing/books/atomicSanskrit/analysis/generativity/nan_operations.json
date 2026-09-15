@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-13",
+  "scope": "One bounded privative relation over every declared laukika nominal word-meaning in the first nominal inventory.",
+  "operation_id": "nan_privative",
+  "operation_display": "नञ् privative compound",
+  "reader_label": "A noun or descriptive meaning generates its negative counterpart",
+  "semantic_relation": "the absence, non-occurrence, or negation of the source nominal meaning",
+  "compound_rule": "2.2.6",
+  "surface_rules": ["6.3.73", "6.3.74"],
+  "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+  "counting_rule": "One new word-meaning per eligible source word-meaning. Alternative input and output forms remain attached to that meaning.",
+  "allomorph_rule": "अ- before a consonant and अन्- before a vowel are two surface outcomes of one operation, not separate multipliers.",
+  "attestation_rule": "Attestation is not an admission requirement. The construction must be grammatically licensed and mechanically formable.",
+  "exclusions": [
+    "vaidika nominal meanings outside the declared laukika inventory",
+    "recursive application of नञ् to its own outputs",
+    "multiple philosophical interpretations of negation",
+    "compound inflection"
+  ]
+}

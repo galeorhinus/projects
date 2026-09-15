@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-13",
+  "prior_combined_bounded_word_meanings": 4762714,
+  "prior_bounded_laukika_word_meanings": 4549316,
+  "bounded_vaidika_subtotal_unchanged": 213398,
+  "additional_namadhatu_word_meanings": 3176352,
+  "additional_by_source_kind": {
+    "broad_productive_relation": 3176312,
+    "source_demonstrated_conditioned_relation": 40
+  },
+  "bounded_laukika_subtotal_after_namadhatu": 7725668,
+  "combined_bounded_word_meaning_subtotal": 7939066,
+  "complete_inflected_words_counted": 0,
+  "form_boundary": "The new rows are derived verbal bases. तिङन्त inflection remains a later and separately reported expansion.",
+  "inputs": {
+    "analysis/generativity/results/stri_six_pass_summary.json": "01c1bb40d58c03a09da29fbb56330a126d1a0d40c05ccab12047ce105f4a527d",
+    "analysis/generativity/results/namadhatu_summary.json": "8bf069ca55e56ca7661fd1118625df04d3c0f8c6ae7844b832a6b442f2c4f270",
+    "analysis/generativity/results/namadhatu_ledger.csv.gz": "022f750230867d6e1d1981c9a3e2293eabc70a069870db19cea5ef73ae545350",
+    "analysis/generativity/reconcile_namadhatu_ledger.py": "380be62a16b225967355d7224fd04d6694f0c0a389ba69245dc3d4c9a66edb1f"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

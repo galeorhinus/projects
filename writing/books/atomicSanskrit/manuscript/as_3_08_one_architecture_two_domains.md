@@ -46,9 +46,9 @@ Prevalence also requires different measures. A percentage comes from a known num
 
 Chapter 9 §9.10 distinguishes reusable sonomers from off-grid sonances. This appendix records three such sounds and the boundaries that contain them.
 
-In Ṛgveda 1.1.2, the विसर्ग (*visarga*) before **प** in **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)** becomes the [ɸ]-like उपध्मानीय (*upadhmānīya*). Before **क** or **ख**, the corresponding junction produces जिह्वामूलीय (*jihvāmūlīya*) near the back of the mouth. The Taittirīya Saṃhitā preserves that junction in **नमः कपर्दिने च (*namaḥ kapardine ca*)**. The neighboring sounds generate both sonances under stated Sanskrit-wide conditions, so neither requires an independent grid address.[NOTE: vedic-jihvamuliya-upadhmaniya-pair]
+In Ṛgveda 1.1.2, the विसर्ग (*visarga*) before **प** in **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)** becomes the [ɸ]-like उपध्मानीय (*upadhmānīya*). Before **क** or **ख**, the corresponding junction produces जिह्वामूलीय (*jihvāmūlīya*) near the back of the mouth. The Taittirīya Saṃhitā uses that junction in **नमः कपर्दिने च (*namaḥ kapardine ca*)**. The neighboring sounds generate both sonances under stated Sanskrit-wide conditions, so neither requires an independent grid address.[NOTE: vedic-jihvamuliya-upadhmaniya-pair]
 
-The Ṛgvedic **ळ [ɭ]** belongs to a narrower scope. The received words fix its position, and the Ṛgveda-Prātiśākhya specifies its recitational operation. A trained reciter preserves the sound wherever that corpus requires it, while the reusable laukika grid leaves the neighboring retroflex address unassigned.
+The Ṛgvedic **ळ [ɭ]** belongs to a narrower scope. Its position is fixed in the words that use it, and the Ṛgveda-Prātiśākhya specifies its recitational operation. A trained reciter produces the sound wherever the Ṛgveda requires it, while the reusable laukika grid leaves the neighboring retroflex address unassigned.
 
 | Off-grid sonance | Contribution | Bounding support | Scope |
 |---|---|---|---|

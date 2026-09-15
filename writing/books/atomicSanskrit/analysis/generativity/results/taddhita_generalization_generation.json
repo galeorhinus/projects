@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-14",
+  "eligible_operation_relations": 1588156,
+  "engine_verified_candidate_relations": 1588156,
+  "engine_zero_or_error_relations": 0,
+  "verified_by_operation": {
+    "superlative_tamap": 794078,
+    "comparative_tarap": 794078
+  },
+  "excluded_by_operation": {},
+  "engine_requests_after_form_cache": {
+    "superlative_tamap": 420659,
+    "comparative_tarap": 420659
+  },
+  "generated_output_variants_by_operation": {
+    "superlative_tamap": 863706,
+    "comparative_tarap": 863706
+  },
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "inputs": {
+    "analysis/generativity/results/nominal_input_inventory.csv.gz": "e537b66b74d98626abb5772e7b4ac85340d21df58cfc7a34c727e529e0a1340e",
+    "analysis/generativity/results/taddhita_generalization_eligibility.json": "eb294f8cf493a77a89f78096583bbd3aed60ba535a2e92ec0489501b01983602",
+    "analysis/generativity/taddhita_generalization_operations.json": "935d9c00a910d14aa486a6e2ba65d2b2e2555599be9b82fbea548c874f1bb929",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_taddhita_generalization_ledger.py": "7ebdf98e4b5e0f0d6c03c1f64188417bf440531032bea854fd6a0b73d5f1b0f6"
+  },
+  "publication_status": "candidate_ledger_not_yet_reconciled"
+}

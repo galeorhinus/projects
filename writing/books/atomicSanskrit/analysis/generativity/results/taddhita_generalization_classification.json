@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "semantic_families_reviewed": 57,
+  "family_dispositions": {
+    "semantic_class_not_yet_identified": 38,
+    "source_input_bounded": 11,
+    "selected_for_semantic_class_generalization": 2,
+    "source_list_bounded": 4,
+    "already_generalized_in_prior_ledger": 2
+  },
+  "selected_families": [
+    "comparative",
+    "superlative"
+  ],
+  "inputs": {
+    "analysis/generativity/results/plain_taddhita_semantic_classification.csv": "e7d561bf42bc82a8d7b9ad23febe615854be840e56ff8889d4cfca000732a1f2",
+    "analysis/generativity/taddhita_generalization_operations.json": "935d9c00a910d14aa486a6e2ba65d2b2e2555599be9b82fbea548c874f1bb929",
+    "analysis/generativity/classify_taddhita_generalization.py": "cd37d296d00379b09aa9648d9584a60f562ea2bc617cb818991ddaa5c0cd6a75"
+  },
+  "publication_status": "research_classification_not_deployed"
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-13",
+  "passes_completed": 6,
+  "nominal_input_word_meanings": 794078,
+  "taddhita_identifiers_classified": 175,
+  "semantic_operations_selected": 4,
+  "eligible_operation_candidates": 2382237,
+  "admitted_taddhita_word_meanings": 2382237,
+  "unresolved_candidates": 0,
+  "additional_word_meanings_after_pilot_overlap": 2382230,
+  "combined_bounded_word_meaning_subtotal": 4761689,
+  "inputs": {
+    "analysis/generativity/results/nominal_input_inventory_summary.json": "b90e32648e57a2406eaa60974412b4e91e83157e58aaa1c77dc9bd2ea17be6fc",
+    "analysis/generativity/results/taddhita_identifier_classification.json": "da18ea7b4ae68b07fc3c6a533cc184f9fd7bd1aa406a98919df503fea2b3701e",
+    "analysis/generativity/results/taddhita_eligibility.json": "f31f441cd68c96fc2daa57e69900bbe5f91a3bfcc1d6e20129d3e1105d24b155",
+    "analysis/generativity/results/taddhita_summary.json": "f7ef38ea7a99ca0fe4c9df0664fbbe8f599178b07755a78184cc751c4180dbf7",
+    "analysis/generativity/results/taddhita_reconciliation.json": "c3d66aed9b5193dfbfc40cf070fd5010bcff7f08ecc80510e6a7f4d82463d88c",
+    "analysis/generativity/build_nominal_six_pass_summary.py": "7287fc93a68eb2648d069ee49cf390ff80a68eea6a0c17d0f199dbb00fde3f79"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

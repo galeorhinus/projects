@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-14",
+  "compoundable_nominal_word_meanings": 8083621,
+  "member_form_variants": 8838595,
+  "counts_by_source_layer": {
+    "base:direct_krdanta": 29875,
+    "base:conditioned_krdanta": 25593,
+    "base:prefixed_krdanta": 596186,
+    "base:sanadi_krdanta": 142419,
+    "base:declared_pilot_nominal": 5,
+    "base:broad_taddhita": 2382237,
+    "base:conditioned_taddhita": 975,
+    "base:stri": 50,
+    "nan": 3177340,
+    "conditioned_suffix": 24,
+    "plain_taddhita": 196,
+    "degree": 1588155,
+    "lexical_stri": 140566
+  },
+  "form_variants_by_source_layer": {
+    "base:direct_krdanta": 31776,
+    "base:conditioned_krdanta": 27555,
+    "base:prefixed_krdanta": 665365,
+    "base:sanadi_krdanta": 159805,
+    "base:declared_pilot_nominal": 5,
+    "base:broad_taddhita": 2591121,
+    "base:conditioned_taddhita": 979,
+    "base:stri": 52,
+    "nan": 3476658,
+    "conditioned_suffix": 24,
+    "plain_taddhita": 205,
+    "degree": 1727411,
+    "lexical_stri": 157639
+  },
+  "inventory_storage": "normalized virtual view over existing reconciled ledgers",
+  "materialized_records": 52,
+  "full_inventory_duplicated": false,
+  "identity_boundary": "Source-layer prefixes keep identities disjoint; uniqueness inside each source ledger is inherited from its completed reconciliation pass.",
+  "domain_boundary": "Only laukika nominal meanings enter this capacity inventory; Vedic plain-taddhita outputs remain in their own domain.",
+  "known_vaidika_nominal_outputs_excluded": 1,
+  "confirmed_prior_feminine_overlaps_excluded": 2,
+  "inputs": {
+    "analysis/generativity/results/nan_nominal_inventory.csv.gz": "ef293b537f831142d245d25f9375bf2cb23a8e78186804436bf458bcf6e29e6a",
+    "analysis/generativity/results/nan_ledger.csv.gz": "8bf55c25abf358230c14b415170b7f5341227202bbcd04017a5fdb8bddccded1",
+    "analysis/generativity/results/suffix_conditioned_ledger.csv": "731f1d63f566e119887f8d4b3426cdde3b5a3250180da7ce6596a2ece57e1581",
+    "analysis/generativity/results/plain_taddhita_ledger.csv": "c76435c1c559f4beb13e51c649c7067e7e6a260143ca5d2e38bcae98574c0a88",
+    "analysis/generativity/results/taddhita_generalization_ledger.csv.gz": "73d2ef25d037b9fbf6b1c59d822feef50559cb2d9d42ab0cfc242f3505fca598",
+    "analysis/generativity/results/stri_generalization_ledger.csv.gz": "c5c1333b497b5e8a4f4f9979e01d2ab41e553e051e23d3b22a23f60030367c22",
+    "analysis/generativity/results/stri_generalization_reconciliation.json": "b60fb14e4f6fdacb1b87b38729cc3f75962921b437c104cab7bf3482cedd1c5f"
+  }
+}

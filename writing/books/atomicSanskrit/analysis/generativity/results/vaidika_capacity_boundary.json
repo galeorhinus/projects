@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-15",
+  "pass": 2,
+  "bounded_lexical_word_meanings": 12846458,
+  "vaidika_lexical_word_meanings": 213398,
+  "laukika_lexical_word_meanings": 12633060,
+  "laukika_grammatical_cells": 602707133,
+  "vaidika_inflection_modeled": false,
+  "mixed_unit_grand_total_published": false,
+  "reason": "The Vaidika number counts lexical meanings, while the laukika number counts grammatical cells. Adding them would mix units.",
+  "inputs": {
+    "analysis/generativity/results/wordspace_category_graph.json": "8961c978a4b77a9b8727b975500f870ba03aa1c40e5109aafdded2b425e22280",
+    "analysis/generativity/results/integrated_grammatical_capacity.json": "b99d5cee146a91c52f2ae0537d5f88503b7ffa331d3ef81da45b309a4a1a989d"
+  }
+}

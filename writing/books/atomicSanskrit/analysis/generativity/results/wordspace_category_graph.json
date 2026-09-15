@@ -1,0 +1,130 @@
+{
+  "date": "2026-09-15",
+  "terminology_policy": "reader-facing Sanskrit descriptions without Paninian category labels",
+  "nodes": [
+    {
+      "id": "all_word_meanings",
+      "label": "समस्ताः शब्दार्थाः",
+      "english": "all currently counted word-meanings",
+      "count": 12846458,
+      "count_role": "lexical_subtotal"
+    },
+    {
+      "id": "vedic_word_meanings",
+      "label": "वैदिकाः शब्दार्थाः",
+      "english": "Vedic-domain word-meanings",
+      "count": 213398,
+      "count_role": "lexical_partition"
+    },
+    {
+      "id": "ordinary_word_meanings",
+      "label": "लौकिकाः शब्दार्थाः",
+      "english": "ordinary-domain word-meanings",
+      "count": 12633060,
+      "count_role": "lexical_partition"
+    },
+    {
+      "id": "action_meanings",
+      "label": "क्रियार्थाः",
+      "english": "action and process meanings",
+      "count": 4540848,
+      "count_role": "lexical_partition"
+    },
+    {
+      "id": "name_meanings",
+      "label": "नामार्थाः",
+      "english": "name, thing, quality, state, and relation meanings",
+      "count": 8084287,
+      "count_role": "lexical_partition"
+    },
+    {
+      "id": "unchanging_meanings",
+      "label": "अव्ययानि",
+      "english": "complete word-meanings whose forms do not change",
+      "count": 7925,
+      "count_role": "lexical_partition"
+    },
+    {
+      "id": "ten_time_mood_forms",
+      "label": "दश कालभावेषु सः-सा-तत् रूपाणि",
+      "english": "he, she, or it forms across ten time-and-mood settings",
+      "count": 45408480,
+      "count_role": "non_additive_grammatical_capacity"
+    },
+    {
+      "id": "all_action_forms",
+      "label": "सर्वाणि कर्तृ-संख्यारूपाणि",
+      "english": "all speaker-role and number forms",
+      "count": 408676320,
+      "count_role": "non_additive_grammatical_capacity"
+    },
+    {
+      "id": "name_citation_forms",
+      "label": "एकं नामरूपम्",
+      "english": "one citation form per name meaning",
+      "count": 8084287,
+      "count_role": "non_additive_grammatical_capacity"
+    },
+    {
+      "id": "all_name_forms",
+      "label": "सम्बन्ध-संख्यारूपाणि",
+      "english": "all relation and number forms",
+      "count": 194022888,
+      "count_role": "non_additive_grammatical_capacity"
+    }
+  ],
+  "edges": [
+    {
+      "from": "all_word_meanings",
+      "to": "vedic_word_meanings",
+      "role": "partition"
+    },
+    {
+      "from": "all_word_meanings",
+      "to": "ordinary_word_meanings",
+      "role": "partition"
+    },
+    {
+      "from": "ordinary_word_meanings",
+      "to": "action_meanings",
+      "role": "partition"
+    },
+    {
+      "from": "ordinary_word_meanings",
+      "to": "name_meanings",
+      "role": "partition"
+    },
+    {
+      "from": "ordinary_word_meanings",
+      "to": "unchanging_meanings",
+      "role": "partition"
+    },
+    {
+      "from": "action_meanings",
+      "to": "ten_time_mood_forms",
+      "role": "non_additive_expansion"
+    },
+    {
+      "from": "ten_time_mood_forms",
+      "to": "all_action_forms",
+      "role": "non_additive_expansion"
+    },
+    {
+      "from": "name_meanings",
+      "to": "name_citation_forms",
+      "role": "non_additive_expansion"
+    },
+    {
+      "from": "name_citation_forms",
+      "to": "all_name_forms",
+      "role": "non_additive_expansion"
+    }
+  ],
+  "reconciliation": {
+    "all_word_meanings": 12846458,
+    "vedic_plus_ordinary": 12846458,
+    "ordinary_word_meanings": 12633060,
+    "ordinary_partition": 12633060
+  },
+  "capacity_policy": "The action-form and name-form totals are grammatical capacities and are not added to the 12,846,458 lexical subtotal."
+}

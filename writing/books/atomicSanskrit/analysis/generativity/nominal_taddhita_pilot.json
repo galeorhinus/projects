@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-13",
+  "scope": "A deliberately small nominal-input inventory for testing two sourced taddhita relations. It is not a census of Sanskrit nominal bases.",
+  "nominal_inputs": [
+    {
+      "nominal_id": "kunti",
+      "input_slp1": "kuntI",
+      "display": "कुन्ती (Kuntī)",
+      "input_type": "feminine_name",
+      "nyap": true,
+      "source_basis": "Declared familiar example already used in the generativity pilot"
+    },
+    {
+      "nominal_id": "suparna",
+      "input_slp1": "suparRA",
+      "display": "सुपर्णा (Suparṇā)",
+      "input_type": "feminine_name",
+      "nyap": true,
+      "source_basis": "Kāśikā example under 4.1.120"
+    },
+    {
+      "nominal_id": "vinata",
+      "input_slp1": "vinatA",
+      "display": "विनता (Vinatā)",
+      "input_type": "feminine_name",
+      "nyap": true,
+      "source_basis": "Kāśikā example under 4.1.120"
+    },
+    {
+      "nominal_id": "mitra",
+      "input_slp1": "mitra",
+      "display": "मित्र (mitra)",
+      "input_type": "ordinary_nominal",
+      "nyap": false,
+      "source_basis": "Declared regular nominal used in the generativity pilot"
+    },
+    {
+      "nominal_id": "go",
+      "input_slp1": "go",
+      "display": "गो (go)",
+      "input_type": "ordinary_nominal",
+      "nyap": false,
+      "source_basis": "Kāśikā example under 5.1.119"
+    }
+  ],
+  "operations": [
+    {
+      "operation_id": "descendant_dhak",
+      "source_variant": "Qak",
+      "display": "ढक् (ḍhak), descendant",
+      "semantic_branch_id": "apatyam",
+      "semantic_relation": "a descendant or offspring of the named feminine base",
+      "eligible_input_type": "feminine_name",
+      "rule_refs": ["4.1.92", "4.1.120"]
+    },
+    {
+      "operation_id": "state_tva",
+      "source_variant": "tva",
+      "display": "त्व (tva), state or quality",
+      "semantic_branch_id": "bhava",
+      "semantic_relation": "the state or defining quality denoted by the nominal base",
+      "eligible_input_type": "ordinary_nominal",
+      "rule_refs": ["5.1.119"]
+    },
+    {
+      "operation_id": "state_tal",
+      "source_variant": "tal",
+      "display": "तल् (tal), state or quality",
+      "semantic_branch_id": "bhava",
+      "semantic_relation": "the state or defining quality denoted by the nominal base",
+      "eligible_input_type": "ordinary_nominal",
+      "rule_refs": ["5.1.119"]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "date": "2026-09-13",
+  "identifier_count": 20,
+  "engine_metadata_deferred_identifiers": 19,
+  "source_recovered_identifiers": [
+    "kvasu"
+  ],
+  "semantic_operation_count": 7,
+  "operation_strategy_counts": {
+    "conditioned": 2,
+    "coverage_gap": 3,
+    "direct": 2
+  },
+  "operations": [
+    {
+      "operation_id": "vedic_perfect_participle_kanac",
+      "identifiers": [
+        "kAnac"
+      ],
+      "semantic_branch_id": "vedic_perfect_participant",
+      "semantic_relation": "a participant characterized by the base action in the Vedic perfect",
+      "rule_refs": [
+        "3.2.105",
+        "3.2.106"
+      ],
+      "condition": "Vedic domain; kAnac optionally replaces lit",
+      "engine_strategy": "direct"
+    },
+    {
+      "operation_id": "vedic_perfect_participle_kvasu",
+      "identifiers": [
+        "kvasu"
+      ],
+      "semantic_branch_id": "vedic_perfect_active_participant",
+      "semantic_relation": "an active participant characterized by the base action in the Vedic perfect",
+      "rule_refs": [
+        "3.2.105",
+        "3.2.107"
+      ],
+      "condition": "Vedic domain generally; later rules separately license limited forms in bhasha",
+      "engine_strategy": "direct"
+    },
+    {
+      "operation_id": "vedic_purpose_family_3_4_9",
+      "identifiers": [
+        "se",
+        "sen",
+        "ase",
+        "asen",
+        "kase",
+        "kasen",
+        "aDyE",
+        "aDyEn",
+        "kaDyE",
+        "kaDyEn",
+        "SaDyE",
+        "SaDyEn",
+        "tavE",
+        "taveN",
+        "taven"
+      ],
+      "semantic_branch_id": "purpose",
+      "semantic_relation": "the purpose of performing the base action",
+      "rule_refs": [
+        "3.4.9"
+      ],
+      "condition": "Vedic domain; tumun sense",
+      "engine_strategy": "coverage_gap"
+    },
+    {
+      "operation_id": "vedic_sak_purpose_kamul",
+      "identifiers": [
+        "kamul"
+      ],
+      "semantic_branch_id": "purpose_with_sak",
+      "semantic_relation": "the base action as the purpose complement of sak, to be capable",
+      "rule_refs": [
+        "3.4.12"
+      ],
+      "condition": "Vedic domain; sak is the accompanying verb",
+      "engine_strategy": "conditioned"
+    },
+    {
+      "operation_id": "vedic_isvara_purpose_tosun_kasun",
+      "identifiers": [
+        "tosun",
+        "kasun"
+      ],
+      "semantic_branch_id": "purpose_with_isvara",
+      "semantic_relation": "the base action as the purpose complement of isvara, to be capable",
+      "rule_refs": [
+        "3.4.13"
+      ],
+      "condition": "Vedic domain; isvara is the accompanying word",
+      "engine_strategy": "coverage_gap"
+    },
+    {
+      "operation_id": "vedic_bhavalaksana_tosun",
+      "identifiers": [
+        "tosun"
+      ],
+      "semantic_branch_id": "event_delimiter",
+      "semantic_relation": "the base action marks the event boundary for another action",
+      "rule_refs": [
+        "3.4.16"
+      ],
+      "condition": "Vedic domain; bhavalaksana; limited to stha, i, kr, vad, car, hu, tam, and jan",
+      "eligible_source_codes": [
+        "01.1077",
+        "02.0040",
+        "08.0010",
+        "01.1164",
+        "01.0640",
+        "03.0001",
+        "04.0099",
+        "04.0044"
+      ],
+      "engine_strategy": "coverage_gap"
+    },
+    {
+      "operation_id": "vedic_bhavalaksana_kasun",
+      "identifiers": [
+        "kasun"
+      ],
+      "semantic_branch_id": "event_delimiter",
+      "semantic_relation": "the base action marks the event boundary for another action",
+      "rule_refs": [
+        "3.4.17"
+      ],
+      "condition": "Vedic domain; bhavalaksana; limited to srp and trd",
+      "eligible_source_codes": [
+        "01.1138",
+        "07.0009"
+      ],
+      "engine_strategy": "conditioned"
+    }
+  ],
+  "engine_diagnostics": [
+    {
+      "identifier": "tosun",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "kasun",
+      "source_entries_with_output": 2,
+      "output_forms": 2,
+      "samples": [
+        {
+          "source_code": "01.1138",
+          "forms_slp1": [
+            "sf/pas"
+          ]
+        },
+        {
+          "source_code": "07.0009",
+          "forms_slp1": [
+            "tf/das"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "kAnac",
+      "source_entries_with_output": 2229,
+      "output_forms": 3624,
+      "samples": [
+        {
+          "source_code": "01.0001",
+          "forms_slp1": [
+            "baBUvAna/"
+          ]
+        },
+        {
+          "source_code": "01.0002",
+          "forms_slp1": [
+            "eDAYcakrARa/",
+            "eDAmAsAna/"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "se",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "sen",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "ase",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "asen",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "kase",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "kasen",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "kamul",
+      "source_entries_with_output": 2229,
+      "output_forms": 2317,
+      "samples": [
+        {
+          "source_code": "01.0001",
+          "forms_slp1": [
+            "Bu/vam"
+          ]
+        },
+        {
+          "source_code": "01.0002",
+          "forms_slp1": [
+            "e/Dam"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "aDyE",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "aDyEn",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "kaDyE",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "kaDyEn",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "SaDyE",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "SaDyEn",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "tavE",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "taveN",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "taven",
+      "source_entries_with_output": 0,
+      "output_forms": 0,
+      "samples": []
+    },
+    {
+      "identifier": "kvasu",
+      "source_entries_with_output": 2229,
+      "output_forms": 3630,
+      "samples": [
+        {
+          "source_code": "01.0001",
+          "forms_slp1": [
+            "baBUva/s"
+          ]
+        },
+        {
+          "source_code": "01.0002",
+          "forms_slp1": [
+            "eDAYcakfva/s",
+            "eDAmAsiva/s"
+          ]
+        }
+      ]
+    }
+  ],
+  "interpretation": "An engine zero records a coverage gap, not a grammatical prohibition. Multiple identifiers attached to one operation are alternative formal realizations unless the source assigns distinct meanings.",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "inputs": {
+    "analysis/generativity/vaidika_krt_operations.json": "e29b7226471a7381d5b59ea189e0341c463e3a00e535739b9f0ff11e8d59e31c",
+    "analysis/generativity/krt_classification.json": "7536d6f4d2df87dd13ab5936f0646b03c1aa94ba6dfdfbcfe0d823d6042802b3",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/classify_vaidika_krt.py": "e6faf70d6913d342501b1a316242380776ae843c8c9e52d1a534c8ae2888aaec"
+  }
+}

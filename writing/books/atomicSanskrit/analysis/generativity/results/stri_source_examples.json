@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-13",
+  "source_assertions": 77,
+  "active_assertions": 66,
+  "ignored_assertions": 11,
+  "literal_inputs": 56,
+  "constructed_inputs_resolved": 21,
+  "unresolved_inputs": 0,
+  "scope": "All assert_has_stri calls in the pinned Kāśikā 4.1 integration file; ignored tests and unresolved inputs remain explicit exclusions.",
+  "inputs": {
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_4_1.rs": "080a42c99e7185dec5eda2a1bf2a8f3fc8e719bad874a6fdf7f732d7729548e4",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24"
+  },
+  "publication_status": "research_source_inventory_only_not_deployed"
+}

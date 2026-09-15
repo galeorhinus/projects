@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-13",
+  "passes_completed": 6,
+  "literal_plain_assertions": 301,
+  "positive_assertions": 292,
+  "active_positive_assertions": 248,
+  "ignored_positive_assertions_not_admitted": 44,
+  "active_semantic_rows": 249,
+  "eligible_word_meaning_relations": 245,
+  "duplicate_assertions_collapsed": 4,
+  "verified_relations": 245,
+  "existing_word_meaning_overlaps_not_added": 9,
+  "additional_plain_taddhita_word_meanings": 236,
+  "additional_nominal_bases": 197,
+  "additional_complete_avyayas": 39,
+  "additional_same_referent_or_lexical_derivatives": 23,
+  "combined_bounded_word_meaning_subtotal": 11116666,
+  "stage_graph_nodes": 21,
+  "inputs": {
+    "analysis/generativity/results/plain_taddhita_source_assertions.json": "aa1842412fa87f8bac008e82e5e7f2efa7fde790aa3c79a6425cc04dfa7afff7",
+    "analysis/generativity/results/plain_taddhita_semantic_classification.json": "7d69bca2b087b27b1c9cfd71084d3082064d65914dec622cdc2bcba7b181b81b",
+    "analysis/generativity/results/plain_taddhita_eligibility.json": "4523797d8baae24d1af7ff39bf1e8f1da499102519ee769eb4938814b4fee1be",
+    "analysis/generativity/results/plain_taddhita_verification.json": "d6bd4c06142c79801c2dffe3b13013ff092cda5c3cd751773f625aefc3950404",
+    "analysis/generativity/results/plain_taddhita_reconciliation.json": "4e981cee32f109b59d2a14072190cca0bdfbda875daace9a684b79ab2dbe05b0",
+    "analysis/generativity/results/plain_taddhita_ledger.csv": "c76435c1c559f4beb13e51c649c7067e7e6a260143ca5d2e38bcae98574c0a88",
+    "analysis/generativity/results/generation_stage_graph.json": "6100773010ef404cd92a517fad7dba35a20e324bf626796e5db95a488219d0c4",
+    "analysis/generativity/build_plain_taddhita_six_pass_summary.py": "e37d06822ddbfa6a81ac387ba2bdbad6de093bcd35258f4b5884ebb6171d88a7"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

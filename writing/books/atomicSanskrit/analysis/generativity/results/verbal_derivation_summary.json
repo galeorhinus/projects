@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-13",
+  "scope": "One verbal-base sanadi operation, no upasarga, laukika engine mode; inflection and stacked operations excluded.",
+  "admission_standard": "A productive rule licenses the word-meaning; the pinned engine constructs its form; explicit restrictions override generation; dictionary attestation is not required.",
+  "base_word_meanings": 2634,
+  "admitted_derived_word_meanings": 12522,
+  "verbal_word_meanings_including_bases": 15156,
+  "admitted_by_operation": {
+    "causative": 2112,
+    "desiderative": 2634,
+    "intensive": 3888,
+    "intensive_luk": 3888
+  },
+  "admitted_by_operation_and_branch": {
+    "causative:causation": 2112,
+    "desiderative:same_agent_desire": 2634,
+    "intensive:crooked_movement": 289,
+    "intensive:disparaged_action": 15,
+    "intensive:intensity": 1792,
+    "intensive:repetition": 1792,
+    "intensive_luk:crooked_movement": 289,
+    "intensive_luk:disparaged_action": 15,
+    "intensive_luk:intensity": 1792,
+    "intensive_luk:repetition": 1792
+  },
+  "not_admitted_by_status": {
+    "not_admitted_engine_zero_unresolved": 1070,
+    "not_counted_anabhidhana": 6,
+    "not_counted_class_forming_nic": 522
+  },
+  "formation_findings": {
+    "causative": "The bounded first-nic run admits non-curadigana causatives. For curadigana-only bases, that nic is class-forming under 3.1.25; their causatives require a stacked-nic run.",
+    "desiderative": "Rule 3.1.7 licenses one same-agent desire meaning for each admitted base word-meaning in the bounded run.",
+    "yaN": "General 3.1.22 contributes separate repetition and intensity meanings; 3.1.23 and 3.1.24 replace them in their semantic domains.",
+    "yaNluk": "A separate derived verbal word inherits the licensed yaN branch and adds no semantic multiplier."
+  },
+  "spelling_diagnostics": {
+    "distinct_output_spellings": 6468,
+    "spellings_shared_by_multiple_word_meanings": 3745,
+    "shared_spelling_word_meaning_links": 11397,
+    "policy": "Shared spelling does not merge different words or meanings."
+  },
+  "vocabulary_total": null,
+  "publication_status": "research_subtotal_only_not_deployed",
+  "sources": [
+    {
+      "filename": "rule-2.4.74.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.4.74.htm",
+      "accessed_utc": "2026-09-12T16:03:42.281997+00:00",
+      "sha256": "a33affff8e0b6e8516ee1d575b3ca951a5f70998e706fd317f3998eb3d196c1d",
+      "bytes": 10989
+    },
+    {
+      "filename": "rule-3.1.7.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.7.htm",
+      "accessed_utc": "2026-09-12T16:03:43.491630+00:00",
+      "sha256": "c16d91d965acb06d3374a422abf77725b3d8e824bff7ed46a90716a79827598d",
+      "bytes": 29100
+    },
+    {
+      "filename": "rule-3.1.22.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.22.htm",
+      "accessed_utc": "2026-09-12T16:03:48.559378+00:00",
+      "sha256": "1ce33d5144eb706d3ad1e005847a0667b4f10bb4b8d3314a30d978eb59e7bbad",
+      "bytes": 13894
+    },
+    {
+      "filename": "rule-3.1.23.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.23.htm",
+      "accessed_utc": "2026-09-13T06:06:37.919236+00:00",
+      "sha256": "538696414963f28834c9622c2a57af8020c5f17b363978d1fdd4368bcfc9607f",
+      "bytes": 6620
+    },
+    {
+      "filename": "rule-3.1.24.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.24.htm",
+      "accessed_utc": "2026-09-13T06:06:38.839899+00:00",
+      "sha256": "a51be9d18a848482994064172f6e07c5ba81ff493b6883786c002f622585c61f",
+      "bytes": 5621
+    },
+    {
+      "filename": "rule-3.1.25.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.25.htm",
+      "accessed_utc": "2026-09-13T06:36:31.470294+00:00",
+      "sha256": "42b8f559ab087cd96425df4ced1c92aa0627f1d42576875d29b19971e61d3040",
+      "bytes": 11269
+    },
+    {
+      "filename": "rule-3.1.26.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.26.htm",
+      "accessed_utc": "2026-09-12T16:03:50.141844+00:00",
+      "sha256": "8944ff6d15ad0a8f69392cc2833a0320bd5a0b3f8af543d6e1c0ec404970fbd7",
+      "bytes": 43778
+    },
+    {
+      "filename": "vidyut-sanadi.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/sanadi.rs",
+      "accessed_utc": "2026-09-13T06:06:36.858207+00:00",
+      "sha256": "228edd5e973b429657ee872f29d983ff78ae74b4b579b900fff171503cd1fc34",
+      "bytes": 13862
+    }
+  ],
+  "manifest_source_count": 949,
+  "inputs": {
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "analysis/generativity/results/sanadi_candidate_meanings.csv": "ca866049487ff087658012fa3273d5731f33983c88d7f01f5cf37f3e55a30fb8",
+    "analysis/generativity/results/sanadi_engine_results.csv": "5dbee41cc57af8bf4a21264759bc62e1e0f44fd57b9350254d5563250747d7a8",
+    "analysis/generativity/results/yan_movement_classification.csv": "455bd74413cba10a2b39502595aa879c6167762cbc35df5ab207d63f9df45810",
+    "analysis/generativity/approved_yan_semantics.json": "02adead94fdd7b17afed328546126b0c4b3107e766af608664d0377d3bb2ed51",
+    "analysis/generativity/admission_standard.md": "f1aee832f493cbffedcbcd0138d9ef5bfa379ba2da25a65f3e231d9b336e96ff",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_verbal_derivation_ledger.py": "195ecb68bcd3e15e4db6088dd140b52f3e6e7ac3cf4931d6576f840c792e09d1"
+  }
+}

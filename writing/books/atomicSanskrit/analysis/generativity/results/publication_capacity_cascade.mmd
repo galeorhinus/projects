@@ -1,0 +1,22 @@
+flowchart LR
+    atoms["Recorded semantic atoms and their meanings<br/>2,634"]
+    first_verbal_expansion["Verbal meanings after prefixes and transformations<br/>318,285"]
+    two_prefixes["Verbal meanings after two ordered prefixes<br/>1,369,625"]
+    first_derivatives["Actions, agents, instruments, qualities, and obligations<br/>2,174,721"]
+    noun_relations["Quality, state, possession, descent, origin, use, and measure<br/>4,762,664"]
+    nouns_back_to_verbs["Nouns returned to the verbal engine<br/>7,939,066"]
+    negative_counterparts["Negative counterparts<br/>11,116,406"]
+    bounded_lexical_subtotal["Bounded word-meanings<br/>12,846,458"]
+    vaidika_branch["Vedic meanings held separate<br/>213,398"]
+    laukika_branch["Laukika meanings<br/>12,633,060"]
+    laukika_grammatical_capacity["Declared laukika grammatical cells<br/>602,707,133"]
+    atoms --> first_verbal_expansion
+    first_verbal_expansion --> two_prefixes
+    two_prefixes --> first_derivatives
+    first_derivatives --> noun_relations
+    noun_relations --> nouns_back_to_verbs
+    nouns_back_to_verbs --> negative_counterparts
+    negative_counterparts --> bounded_lexical_subtotal
+    bounded_lexical_subtotal --> vaidika_branch
+    bounded_lexical_subtotal --> laukika_branch
+    laukika_branch --> laukika_grammatical_capacity

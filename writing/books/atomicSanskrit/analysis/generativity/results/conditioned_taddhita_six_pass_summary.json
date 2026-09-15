@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-13",
+  "passes_completed": 6,
+  "positive_source_assertions": 1047,
+  "semantic_contexts": 122,
+  "unique_conditioned_relations": 1010,
+  "verified_relations": 975,
+  "engine_mismatches_not_admitted": 35,
+  "broad_ledger_overlaps_not_added": 0,
+  "additional_conditioned_taddhita_word_meanings": 975,
+  "combined_bounded_word_meaning_subtotal": 4762664,
+  "inputs": {
+    "analysis/generativity/results/conditioned_taddhita_source_examples.json": "c52da1bd0f652d6691d0f0edf661c7e7bca619b57ff8cb16da5f77921293d912",
+    "analysis/generativity/results/conditioned_taddhita_semantic_classification.json": "0443ac6026bd8bd6f4d1e544fc2a9e17f9f6523515fb54428e0624f125db9aa8",
+    "analysis/generativity/results/conditioned_taddhita_inputs.json": "0e70a74b3f7225bf7d9dfa1c19f1f32924331561e69465a981c6a6bae8496f42",
+    "analysis/generativity/results/conditioned_taddhita_verification.json": "cbaac2ffdf45db7821842cc73ec5ca1b078f8876ff11efb17f170604da52c4e2",
+    "analysis/generativity/results/conditioned_taddhita_reconciliation.json": "f55ecc9f1aac275589ec2d575008c8c8149c83d9f2e715c187a35c9b1593afea",
+    "analysis/generativity/results/conditioned_taddhita_ledger.csv": "ec2419b7dbbeeb4d113b3028502807f618f362c24f64cfe2e34ff984577db384",
+    "analysis/generativity/build_conditioned_taddhita_six_pass_summary.py": "12b49815944b2a72b62c97a12b777bf5c06d63ed1c12412f49101ae34611b5d8"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

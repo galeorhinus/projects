@@ -1,0 +1,585 @@
+{
+  "date": "2026-09-13",
+  "baseline": 2645,
+  "status": "proposals_not_applied",
+  "cases": [
+    {
+      "id": "IR51",
+      "status": "propose_merge",
+      "decision": "Merge tarjana and bhartsana for carc. Both passages name carc in the same shared list, and the earlier commentary explains its repetition through accent. Keep harming and study independent; the new curadi source specifically illustrates studying the Veda.",
+      "remaining": "Approve the one-unit reduction before applying it. Preserve all grammatical records and the already consolidated speaking meaning.",
+      "proposed_merges": [
+        [
+          [
+            "01.0814",
+            "tarjane"
+          ],
+          [
+            "06.0019",
+            "Bartsane"
+          ]
+        ]
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA433.html",
+          "anchor": "पाठः स्वरार्थ",
+          "role": "Accent explains the repeated carc record.",
+          "record": {
+            "filename": "dhatu-mA433.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA433.html",
+            "accessed_utc": "2026-09-12T15:42:26.751279+00:00",
+            "sha256": "139d33282325ffc67474a6372e51d61e3b81ac72ed7ad6d828ee2ac605794427",
+            "bytes": 1083
+          }
+        },
+        {
+          "source": "dhatu-mA924.html",
+          "anchor": "परिभाषण,भर्त्सनयोः",
+          "role": "Matching later list.",
+          "record": {
+            "filename": "dhatu-mA924.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA924.html",
+            "accessed_utc": "2026-09-12T15:42:27.055734+00:00",
+            "sha256": "d8c963cd2bfdcf59b9b9ef0b1f1c7eb2671236b9be7f447d96beaf4797feb677",
+            "bytes": 1057
+          }
+        },
+        {
+          "source": "dhatu-kRi1303.html",
+          "anchor": "चर्चयति वेदम्",
+          "role": "Independent study example.",
+          "record": {
+            "filename": "dhatu-kRi1303.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1303.html",
+            "accessed_utc": "2026-09-13T04:03:56.083639+00:00",
+            "sha256": "7569bd11a26ca12f243084ea7a7bf7c4102e5302da0b5d703521aca1c449267e",
+            "bytes": 747
+          }
+        }
+      ],
+      "batch": 3,
+      "label": "चर्च् (carc)",
+      "entries": {
+        "01.0814": [
+          "pariBAzaRe",
+          "hiMsAyAm",
+          "tarjane"
+        ],
+        "06.0019": [
+          "pariBAzaRe",
+          "Bartsane"
+        ],
+        "10.0237": [
+          "aDyayane"
+        ]
+      },
+      "before": "Consolidate the shared speaking meaning; retain harming, study, and the unresolved rebuke descriptions.",
+      "original_followup": "Tarjana and bhartsana still need meaning-specific reconciliation, as in the earlier jharjh group.",
+      "before_count": 5,
+      "proposed_count": 4,
+      "delta": -1
+    },
+    {
+      "id": "IR58",
+      "status": "defer_reading",
+      "decision": "Retain the provisional assignments. The new commentary gives splitting wood for the curadi entry and points back to first-class dal/visharana. It does not supply the first-class vidarana reading needed to merge that particular annotation.",
+      "remaining": "Defer the first-class vidarana annotation to edition reconciliation. Falling apart and actively splitting remain distinguishable until their lexical relationship is established.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1339.html",
+          "anchor": "दालयति दारु",
+          "role": "Concrete splitting example.",
+          "record": {
+            "filename": "dhatu-kRi1339.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1339.html",
+            "accessed_utc": "2026-09-13T04:03:57.055454+00:00",
+            "sha256": "1cb38e4c384acb013331869bfa3389b09ee8897550ec84e0a236ab449c305a6e",
+            "bytes": 599
+          }
+        },
+        {
+          "source": "dhatu-kRi1339.html",
+          "anchor": "भ्वादौ दल विशरणे",
+          "role": "Cross-reference retains the different heading.",
+          "record": {
+            "filename": "dhatu-kRi1339.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1339.html",
+            "accessed_utc": "2026-09-13T04:03:57.055454+00:00",
+            "sha256": "1cb38e4c384acb013331869bfa3389b09ee8897550ec84e0a236ab449c305a6e",
+            "bytes": 599
+          }
+        }
+      ],
+      "batch": 3,
+      "label": "दल् (dal)",
+      "entries": {
+        "01.0629": [
+          "viSaraRe",
+          "vidAraRe"
+        ],
+        "10.0281": [
+          "vidAraRe"
+        ]
+      },
+      "before": "The curadi commentary connects dal to the earlier entry, but its earlier heading is falling apart rather than the pinned additional splitting meaning.",
+      "original_followup": "Locate the earlier vidarana reading before consolidating that assignment; do not equate falling apart and splitting solely from their relationship.",
+      "before_count": 3,
+      "proposed_count": 3,
+      "delta": 0
+    },
+    {
+      "id": "IR62",
+      "status": "defer_reading",
+      "decision": "Keep the three entry groups and their current meaning annotations. Kshiratarangini confirms a distinct parikujana use with a cart example. The later ardana heading still differs from the pinned mardana label; neither spelling should silently replace the other.",
+      "remaining": "Defer ardana/mardana reconciliation and the finer segmentation of the long fourth-class meaning list. They are not evidence of an extra inflection-based word count.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1297.html",
+          "anchor": "देवयते गन्त्री",
+          "role": "Contextual parikujana example.",
+          "record": {
+            "filename": "dhatu-kRi1297.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1297.html",
+            "accessed_utc": "2026-09-13T04:03:58.594266+00:00",
+            "sha256": "faec18514f0e5b90fa9a9c3691a4867e1dfb5e97143b367ec1e9ca8950cc9e0c",
+            "bytes": 546
+          }
+        },
+        {
+          "source": "dhatu-kRi1314.html",
+          "anchor": "दिवु अर्दने",
+          "role": "Reading requiring reconciliation.",
+          "record": {
+            "filename": "dhatu-kRi1314.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1314.html",
+            "accessed_utc": "2026-09-12T16:20:52.489295+00:00",
+            "sha256": "4de99c7b4d2946e4ceda09385dd16826896e84df616dbdb8c34cef6d99d9b8bc",
+            "bytes": 554
+          }
+        }
+      ],
+      "batch": 3,
+      "label": "दिव् (div)",
+      "entries": {
+        "04.0001": [
+          "krIqAyAm",
+          "vijigIzAyAm",
+          "vyavahAre",
+          "dyutO",
+          "stutO",
+          "mode",
+          "made",
+          "svapne",
+          "kAntO",
+          "gatO"
+        ],
+        "10.0230": [
+          "parikUjane"
+        ],
+        "10.0249": [
+          "mardane"
+        ]
+      },
+      "before": "Retain the ten divadi meanings, lamentation, and mardana. The later entry is expressly an additional meaning; an ardana reading also needs to remain visible.",
+      "original_followup": "Reconcile mardana/ardana wording without silently replacing the pinned gloss.",
+      "before_count": 12,
+      "proposed_count": 12,
+      "delta": 0
+    },
+    {
+      "id": "IR68",
+      "status": "propose_merge",
+      "decision": "Merge the two flowing assignments, keeping eating separate. Kshiratarangini explicitly adds flowing to first-class gal and points to the curadi flowing entry. The earlier transcription's shravana no longer needs to control the decision: this witness supplies the required meaning directly.",
+      "remaining": "Approve the one-unit reduction. Preserve shravana/sravana/sravana-with-length reading provenance without changing the archived quotations.",
+      "proposed_merges": [
+        [
+          [
+            "01.0627",
+            "sravaRe"
+          ],
+          [
+            "10.0223",
+            "sravaRe"
+          ]
+        ]
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-kRi350.html",
+          "anchor": "स्रवणेऽपि अनेकार्थत्वात्",
+          "role": "Flowing expressly added to the earlier entry.",
+          "record": {
+            "filename": "dhatu-kRi350.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi350.html",
+            "accessed_utc": "2026-09-13T04:03:59.297832+00:00",
+            "sha256": "dd43c6bd204b44805090f5f70c434befa3fb142417826a4c43808f9128a60bff",
+            "bytes": 717
+          }
+        },
+        {
+          "source": "dhatu-kRi350.html",
+          "anchor": "चुरादौ गल स्रावणे",
+          "role": "Direct later-entry link.",
+          "record": {
+            "filename": "dhatu-kRi350.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi350.html",
+            "accessed_utc": "2026-09-13T04:03:59.297832+00:00",
+            "sha256": "dd43c6bd204b44805090f5f70c434befa3fb142417826a4c43808f9128a60bff",
+            "bytes": 717
+          }
+        }
+      ],
+      "batch": 3,
+      "label": "गल् (gal)",
+      "entries": {
+        "01.0627": [
+          "adane",
+          "sravaRe"
+        ],
+        "10.0223": [
+          "sravaRe"
+        ]
+      },
+      "before": "Keep the two flow assignments provisional. The retrieved curadi heading reads shravana rather than sravana, while the earlier heading gives eating.",
+      "original_followup": "Resolve the shravana/sravana reading and locate the earlier flow meaning before merging.",
+      "before_count": 3,
+      "proposed_count": 2,
+      "delta": -1
+    },
+    {
+      "id": "IR72",
+      "status": "propose_merge",
+      "decision": "Merge binding with the already consolidated sandarbha assignment. Kshiratarangini expressly defines sandarbha as bandhana in both the ninth-class entry and the later tenth-class pair. The separate binding heading supplies no independent meaning beyond that definition.",
+      "remaining": "Approve the one-unit reduction; retain the competing krath reading at the earlier tenth-class position as a source variant, not as granth's new meaning.",
+      "proposed_merges": [
+        [
+          [
+            "09.0049",
+            "sandarBe"
+          ],
+          [
+            "10.0362",
+            "banDane"
+          ]
+        ]
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-kRi1130.html",
+          "anchor": "संदर्भो बन्धनम्",
+          "role": "Direct definition in the ninth-class entry.",
+          "record": {
+            "filename": "dhatu-kRi1130.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1130.html",
+            "accessed_utc": "2026-09-13T04:03:59.750831+00:00",
+            "sha256": "8f79ed9a4f277760de657881faf5fe6e51bd9e5eaca7a5875c9cbb036bb5003a",
+            "bytes": 605
+          }
+        },
+        {
+          "source": "dhatu-kRi1368.html",
+          "anchor": "संदर्भो बन्धनम्",
+          "role": "Same definition in the later tenth-class pair.",
+          "record": {
+            "filename": "dhatu-kRi1368.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1368.html",
+            "accessed_utc": "2026-09-13T04:04:00.278698+00:00",
+            "sha256": "0fcbc91ef3a81398abb7e0fc7180e13d975927d0c3c017072273b24fde95b91b",
+            "bytes": 942
+          }
+        },
+        {
+          "source": "dhatu-mA1342.html",
+          "anchor": "ग्रन्थ बन्धने",
+          "role": "The remaining binding heading.",
+          "record": {
+            "filename": "dhatu-mA1342.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1342.html",
+            "accessed_utc": "2026-09-12T16:21:26.175152+00:00",
+            "sha256": "6f4fc1d8b251ab4f8b9f50dae5571788696f2e34865d02bb5b799f2476420e01",
+            "bytes": 1077
+          }
+        }
+      ],
+      "batch": 3,
+      "label": "ग्रन्थ् (granth)",
+      "entries": {
+        "09.0049": [
+          "sandarBe"
+        ],
+        "10.0362": [
+          "banDane"
+        ],
+        "10.0375": [
+          "sandarBe"
+        ]
+      },
+      "before": "Consolidate the two sandarbha assignments; retain bandhana provisionally.",
+      "original_followup": "Whether bandhana and sandarbha identify one meaning in these entries remains a separate comparison.",
+      "before_count": 2,
+      "proposed_count": 1,
+      "delta": -1
+    },
+    {
+      "id": "IR74",
+      "status": "defer_identity",
+      "decision": "Retain both provisional sound assignments. The commentary explains the earlier indistinct-sound entry but does not locate and explain the second numbered gung occurrence. A short sound label alone is not enough to decide the duplication.",
+      "remaining": "Defer the second occurrence to an edition-level lookup. Keep this separate from the unmarked gu/excretion entry.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi631.html",
+          "anchor": "गुङ् अव्यक्ते_शब्दे",
+          "role": "Earlier sound heading.",
+          "record": {
+            "filename": "dhatu-kRi631.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi631.html",
+            "accessed_utc": "2026-09-13T04:04:00.734184+00:00",
+            "sha256": "229913b9620dcb339875cbbfb016715d4e072b6b519b1d44e0d1b7bb79554024",
+            "bytes": 595
+          }
+        },
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.११०५ गुङ्ऽ",
+          "role": "Second numbered occurrence remains identifiable.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        }
+      ],
+      "batch": 3,
+      "label": "गु (gu)",
+      "entries": {
+        "01.1100": [
+          "avyakte Sabde"
+        ],
+        "01.1105": [
+          "Sabde"
+        ]
+      },
+      "before": "Both entries concern sound, but the scope of the indistinct-sound qualification is not yet resolved.",
+      "original_followup": "Find an explanation of the repeated gung entry and determine whether shabda is shorthand for the same indistinct-sound meaning.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR75",
+      "status": "defer_formation",
+      "decision": "Keep the completed lexical merger. The new sources preserve both gunjati and the unmarked gojati reading, and the tudadi commentary points specifically to that alternative. These are formation data, not a reason to count the same sound meaning again.",
+      "remaining": "Move the idit/anidit restriction into formation eligibility; no further lexical investigation is needed in this sweep.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi117.html",
+          "anchor": "अनिदिदित्येके",
+          "role": "Marked/unmarked alternative.",
+          "record": {
+            "filename": "dhatu-kRi117.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi117.html",
+            "accessed_utc": "2026-09-13T04:04:01.159251+00:00",
+            "sha256": "4d1e2627490cf1f958f4e34ec751a2b5d64bfc2c70e2a2019bba63406d047c6b",
+            "bytes": 536
+          }
+        },
+        {
+          "source": "dhatu-kRi1000.html",
+          "anchor": "एकीयमते",
+          "role": "Cross-reference explicitly depends on one reading.",
+          "record": {
+            "filename": "dhatu-kRi1000.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1000.html",
+            "accessed_utc": "2026-09-13T04:04:01.665470+00:00",
+            "sha256": "8ef577f80fe31b87c78950f7e1621020e3dc9fa14467944a6769d6dac912efcc",
+            "bytes": 482
+          }
+        }
+      ],
+      "batch": 3,
+      "label": "गुज् (guj)",
+      "entries": {
+        "01.0230": [
+          "avyakte Sabde"
+        ],
+        "06.0096": [
+          "Sabde"
+        ]
+      },
+      "before": "Consolidate sound here: the tudadi commentary explicitly reports Atreya's indistinct-sound gloss and connects the bhvadi form.",
+      "original_followup": "Keep the idit/anidit disagreement in the citation provenance; the merger does not erase those grammatical readings.",
+      "before_count": 1,
+      "proposed_count": 1,
+      "delta": 0
+    },
+    {
+      "id": "IR79",
+      "status": "defer_reading",
+      "decision": "Keep crookedness and the provisional covering assignment separate. The direct commentary located in this pass confirms crookedness but still does not explain the later covering occurrence.",
+      "remaining": "Defer the covering entry to edition-level confirmation. Do not manufacture a shared meaning from the identical headword.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi615.html",
+          "anchor": "ह्वृ कौटिल्ये",
+          "role": "Confirmed earlier heading.",
+          "record": {
+            "filename": "dhatu-kRi615.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi615.html",
+            "accessed_utc": "2026-09-13T04:04:02.203821+00:00",
+            "sha256": "1847f651ef783ec4f6c4c9b7a22cb71fac5960e6c5cf9953454ad3cddb66d424",
+            "bytes": 465
+          }
+        },
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.१०८४",
+          "role": "Pinned later location.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        }
+      ],
+      "batch": 3,
+      "label": "ह्वृ (hvṛ)",
+      "entries": {
+        "01.1080": [
+          "kOwilye"
+        ],
+        "01.1084": [
+          "saMvaraRe"
+        ]
+      },
+      "before": "Retain crookedness and covering. The second meaning remains separately recorded in the base source, not inferred from the first.",
+      "original_followup": "The base transcription locates the second record; a direct commentary on its covering use remains desirable.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR82",
+      "status": "retain_readings",
+      "decision": "Keep the completed ageing merger. Kshiratarangini explicitly links the tenth-class entry to the ninth-class form. The disagreement about admitting that ninth-class entry remains edition provenance; it does not reopen identity under the reading already selected.",
+      "remaining": "Closed for this sweep. Preserve alternative jri forms for the later generation model.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1351.html",
+          "anchor": "क्र्य्यादौ (923) जृणाति",
+          "role": "Direct ninth-class cross-reference.",
+          "record": {
+            "filename": "dhatu-kRi1351.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1351.html",
+            "accessed_utc": "2026-09-13T04:04:03.977809+00:00",
+            "sha256": "4b837dbd1d6330a8866a694da0aec6e6299ab26654af0e745f0937e540aa75dd",
+            "bytes": 677
+          }
+        },
+        {
+          "source": "dhatu-kRi1351.html",
+          "anchor": "ज्रि इति च नन्दी",
+          "role": "Attributed alternative retained.",
+          "record": {
+            "filename": "dhatu-kRi1351.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1351.html",
+            "accessed_utc": "2026-09-13T04:04:03.977809+00:00",
+            "sha256": "4b837dbd1d6330a8866a694da0aec6e6299ab26654af0e745f0937e540aa75dd",
+            "bytes": 677
+          }
+        }
+      ],
+      "batch": 3,
+      "label": "जॄ (jṝ)",
+      "entries": {
+        "09.0027": [
+          "vayohAnO"
+        ],
+        "10.0346": [
+          "vayohAnO"
+        ]
+      },
+      "before": "Count aging once. The curadi treatment expressly follows the earlier jirya/jrina forms.",
+      "original_followup": "Retain the documented debate about admitting the ninth-class entry; the inventory includes that reading.",
+      "before_count": 1,
+      "proposed_count": 1,
+      "delta": 0
+    },
+    {
+      "id": "IR85",
+      "status": "defer_identity",
+      "decision": "Keep jarj's assignments provisional. The new tudadi source confirms jarjati and related forms, but the explicit accent explanation in Madhaviya names carc and jharjh, not this third member. Extending their approved merger to jarj would skip the remaining identity question.",
+      "remaining": "Defer jarj/jarch identity and its threatening glosses together. Do not count a variant spelling as a new meaning or assume a neighboring atom's explanation applies.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi947.html",
+          "anchor": "जर्जति जर्जरः",
+          "role": "Tudadi forms confirmed.",
+          "record": {
+            "filename": "dhatu-kRi947.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi947.html",
+            "accessed_utc": "2026-09-13T03:33:07.290772+00:00",
+            "sha256": "f44c27b11b320274a500c44ba3d85905281f5be45ec5fef7de87ca2cfcf7f774",
+            "bytes": 643
+          }
+        },
+        {
+          "source": "dhatu-mA924.html",
+          "anchor": "चर्चतिझर्झत्योः शपि पाठः स्वरार्थ",
+          "role": "The explicit explanation names the other two members.",
+          "record": {
+            "filename": "dhatu-mA924.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA924.html",
+            "accessed_utc": "2026-09-12T15:42:27.055734+00:00",
+            "sha256": "d8c963cd2bfdcf59b9b9ef0b1f1c7eb2671236b9be7f447d96beaf4797feb677",
+            "bytes": 1057
+          }
+        }
+      ],
+      "batch": 3,
+      "label": "जर्ज् (jarj)",
+      "entries": {
+        "01.0813": [
+          "pariBAzaRe",
+          "hiMsAyAm",
+          "tarjane"
+        ],
+        "06.0018": [
+          "pariBAzaRe",
+          "Bartsane"
+        ]
+      },
+      "before": "The shared speaking gloss is plausible, but the explicit accent-purpose statement names charch and jharjh, not jarj. Preserve the jarj/jarch reading difference and leave this group unmerged.",
+      "original_followup": "Find a direct identity explanation for jarj/jarch and resolve tarjana/bhartsana before consolidating.",
+      "before_count": 5,
+      "proposed_count": 5,
+      "delta": 0
+    }
+  ],
+  "queued_records": 65,
+  "reviewed_records": 65,
+  "complete": true,
+  "proposed_delta": -11,
+  "archive_records": 949,
+  "vocabulary_total": null,
+  "inputs": {
+    "analysis/generativity/reconciliation_review_01.json": "5d31c2e90937fe5528d94ab37516ff4c1c6c19242cdaab20bcf6a75a1279378c",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/results/base_meanings.json": "30172ba60026a93745e1cf51e0c49bdb71ef0c2bc0f0955d3e7ad61c612f9fd4",
+    "analysis/generativity/results/base_meaning_assignments.csv": "4ee3401c434004984c9e4469566519c104190cd00a12dcdc924550fd1fb651be",
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "approved_reconciliation": "7bede88557c33c1d5bf17c76b0a832ccda7a8712ba5b278e1bb72e0deeca709c",
+    "followup_review": "66ca8cc84652986832429261451117774ac140dae5164d9550084948d525b4d5",
+    "approval_02": "0ea974881ec6246a5218137dc6e608abaf78905bda2281932a93f95032f7e765",
+    "remaining_review": "6a579463200fa14b59331845dc8bd262c1ca3b945429edc9c5d690f900a1d55e",
+    "source_manifest": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24"
+  },
+  "scope": "batch",
+  "batch": 3,
+  "batch_reviewed_records": 10
+}

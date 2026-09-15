@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 12,
+  "laukika_verbal_word_meanings": 4540848,
+  "materialized_lexical_word_meaning_subtotal": 12846458,
+  "third_person_singular_citation_cells": 45408480,
+  "full_kartari_person_number_cells": 408676320,
+  "pada_multiplier": 1,
+  "locally_regenerated_citation_sample_cells": 90,
+  "locally_regenerated_full_paradigm_sample_cells": 270,
+  "all_inflection_rows_materialized": false,
+  "inflectional_cells_added_to_lexical_subtotal": false,
+  "remaining_tinanta_passes": 0,
+  "next_stage": "सुबन्त eight-case-by-three-number expansion",
+  "inputs": {
+    "analysis/generativity/results/tinanta_citation_six_pass_summary.json": "44f4ab6c1c23aa88627ed97cbe824bc68760ca2ea0f8f00f8a3c8962ca4d490e",
+    "analysis/generativity/results/tinanta_paradigm_capacity.json": "22485ab4552080aacc42366e67935f9c246458108d7b6731c7b9c944a9882df9",
+    "analysis/generativity/results/tinanta_pada_classification.json": "fac5d94d8a793dfdb394699f13b8f8bf6ececa8ad03a54c3e9bc72cf5fb7b022",
+    "analysis/generativity/results/tinanta_paradigm_sample.json": "78ceb1466db1c9ac9634144168bb4adea503d94288fef58efa2dd5715be3a74c",
+    "analysis/generativity/results/tinanta_sample_collisions.json": "585e34dcad96998c19cd8b29440eb9665f0fff7f385426859f6fd2873923715c",
+    "analysis/generativity/results/tinanta_capacity_reconciliation.json": "1f4f13d2f07460ab49e3156f39b618d9fce30b901daa802ebdaa0272aeac062b"
+  },
+  "publication_status": "research_capacity_only_not_deployed"
+}

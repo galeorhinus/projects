@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-14",
+  "source_compound_word_meanings": 113,
+  "derived_nominal_bases": 96,
+  "complete_avyayibhava_indeclinables": 17,
+  "classification_rule": "Avyayibhava compounds are complete indeclinables. Other admitted source compounds enter this bounded experiment as nominal bases.",
+  "inputs": {
+    "analysis/generativity/results/samasa_ledger.csv": "62ae94472001684decaff46aeb579cf0f20855bffb1b57f95da9890bd6ea24c3"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "date": "2026-09-13",
+  "scope": "Fourteen bounded laukika krdanta semantic operations applied to each admitted one-sanadi meaning and each admitted true curadigana causative; prefixes, further sanadi stacking, Vedic operations, and inflection are excluded.",
+  "source_one_sanadi_word_meanings": 12522,
+  "source_curadi_true_causative_word_meanings": 522,
+  "source_sanadi_word_meanings": 13044,
+  "selected_semantic_operations": 14,
+  "structural_operation_candidates": 182616,
+  "source_entry_operations_tested": 95448,
+  "source_entry_operations_with_output": 72549,
+  "admitted_sanadi_krdanta_word_meanings": 142882,
+  "not_admitted_total": 39734,
+  "admitted_by_source_sanadi_operation": {
+    "causative": 25337,
+    "curadi_true_causative": 6213,
+    "desiderative": 29684,
+    "intensive": 42768,
+    "intensive_luk": 38880
+  },
+  "admitted_by_krt_operation": {
+    "action_lyut": 13044,
+    "agent_nvul": 13044,
+    "agent_trc": 13044,
+    "completed_agent_ktavatu": 13044,
+    "completed_kta": 13044,
+    "instrument_lyut": 13044,
+    "location_lyut": 13044,
+    "obligation_aniyar": 13044,
+    "obligation_tavya": 13044,
+    "obligation_yat": 9156,
+    "present_sanac": 7855,
+    "present_satr": 8475
+  },
+  "not_admitted_by_krt_operation": {
+    "obligation_kyap": 13044,
+    "obligation_nyat": 13044,
+    "obligation_yat": 3888,
+    "present_sanac": 5189,
+    "present_satr": 4569
+  },
+  "spelling_diagnostics": {
+    "distinct_output_spellings": 54528,
+    "spellings_shared_by_multiple_word_meanings": 32470,
+    "policy": "Different admitted words or meanings remain separate when their spellings coincide."
+  },
+  "prior_bounded_word_meaning_subtotal": 2031832,
+  "bounded_word_meaning_subtotal": 2174714,
+  "vocabulary_total": null,
+  "publication_status": "research_subtotal_only_not_deployed",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "sources": [
+    {
+      "filename": "dhatupatha.tsv",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "resolved_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "accessed_utc": "2026-09-12T12:29:52.999531+00:00",
+      "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+      "bytes": 55022
+    },
+    {
+      "filename": "vidyut-args-krt.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/krt.rs",
+      "accessed_utc": "2026-09-13T05:27:01.241686+00:00",
+      "sha256": "07e2a29545918b1528fa13eaf66b3fe5c9585184f945df5c479a25525de33f6f",
+      "bytes": 20834
+    },
+    {
+      "filename": "vidyut-krt-basic.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/krt/basic.rs",
+      "accessed_utc": "2026-09-13T09:07:15.500086+00:00",
+      "sha256": "d4316e3cedba64a1b6a9bcbff762b8a6d56a576572769fc166bd76f5188bd5f6",
+      "bytes": 66932
+    },
+    {
+      "filename": "vidyut-sanadi.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/sanadi.rs",
+      "accessed_utc": "2026-09-13T06:06:36.858207+00:00",
+      "sha256": "228edd5e973b429657ee872f29d983ff78ae74b4b579b900fff171503cd1fc34",
+      "bytes": 13862
+    },
+    {
+      "filename": "rule-3.1.7.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.7.htm",
+      "accessed_utc": "2026-09-12T16:03:43.491630+00:00",
+      "sha256": "c16d91d965acb06d3374a422abf77725b3d8e824bff7ed46a90716a79827598d",
+      "bytes": 29100
+    },
+    {
+      "filename": "rule-3.1.22.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.22.htm",
+      "accessed_utc": "2026-09-12T16:03:48.559378+00:00",
+      "sha256": "1ce33d5144eb706d3ad1e005847a0667b4f10bb4b8d3314a30d978eb59e7bbad",
+      "bytes": 13894
+    },
+    {
+      "filename": "rule-3.1.23.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.23.htm",
+      "accessed_utc": "2026-09-13T06:06:37.919236+00:00",
+      "sha256": "538696414963f28834c9622c2a57af8020c5f17b363978d1fdd4368bcfc9607f",
+      "bytes": 6620
+    },
+    {
+      "filename": "rule-3.1.24.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.24.htm",
+      "accessed_utc": "2026-09-13T06:06:38.839899+00:00",
+      "sha256": "a51be9d18a848482994064172f6e07c5ba81ff493b6883786c002f622585c61f",
+      "bytes": 5621
+    },
+    {
+      "filename": "rule-3.1.25.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.25.htm",
+      "accessed_utc": "2026-09-13T06:36:31.470294+00:00",
+      "sha256": "42b8f559ab087cd96425df4ced1c92aa0627f1d42576875d29b19971e61d3040",
+      "bytes": 11269
+    },
+    {
+      "filename": "rule-3.1.26.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.26.htm",
+      "accessed_utc": "2026-09-12T16:03:50.141844+00:00",
+      "sha256": "8944ff6d15ad0a8f69392cc2833a0320bd5a0b3f8af543d6e1c0ec404970fbd7",
+      "bytes": 43778
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/results/verbal_derivation_ledger.csv": "d24e885863a5f840637054d2686a75717ce5f7efb7bbb78c901e9ebbac920617",
+    "analysis/generativity/results/curadi_causative_ledger.csv": "6f81d8f3c0b37964c9ff27703a66333570e10f8ea81b2b2e31ff5fb458a9c73b",
+    "analysis/generativity/krt_classification.json": "7536d6f4d2df87dd13ab5936f0646b03c1aa94ba6dfdfbcfe0d823d6042802b3",
+    "analysis/generativity/results/prefixed_krdanta_summary.json": "3db19e1a40996422faa5975fb00126a832048d33b2ef75cdbefaf78f4b89886e",
+    "analysis/generativity/admission_standard.md": "f1aee832f493cbffedcbcd0138d9ef5bfa379ba2da25a65f3e231d9b336e96ff",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_sanadi_krdanta_ledger.py": "0d980c737cdce64c4fe1a76893a63ffd9b1af4194f0373a7f5a5e05d064da6e9"
+  }
+}

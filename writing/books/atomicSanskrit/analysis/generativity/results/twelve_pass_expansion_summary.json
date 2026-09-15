@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-13",
+  "scope": "Twelve bounded research passes following the reconciled 2,634 original dhatu meanings; operations run in laukika engine mode, with inflection separate.",
+  "first_six_pass_subtotal": 1399621,
+  "second_six_passes": [
+    {
+      "pass": 7,
+      "label": "Laukika अव्ययानि",
+      "word_meanings": 7902
+    },
+    {
+      "pass": 8,
+      "label": "Classification of 87 conditioned krt identifiers",
+      "word_meanings": 0,
+      "note": "Classification pass; it admits no words by itself."
+    },
+    {
+      "pass": 9,
+      "label": "Selected conditioned कृदन्त formations from original धातु meanings",
+      "word_meanings": 25703
+    },
+    {
+      "pass": 10,
+      "label": "Fourteen कृदन्त operations from one-उपसर्गः meanings",
+      "word_meanings": 598606
+    },
+    {
+      "pass": 11,
+      "label": "Fourteen कृदन्त operations from सनादि-derived meanings",
+      "word_meanings": 142882
+    },
+    {
+      "pass": 12,
+      "label": "Bounded तद्धित pilot",
+      "word_meanings": 7
+    }
+  ],
+  "bounded_word_meaning_subtotal": 2174721,
+  "not_a_complete_sanskrit_vocabulary_total": true,
+  "domain": "laukika_generation_mode_over_current_base_inventory",
+  "vedic_boundary": "Nineteen Vedic-only krt identifiers and accent-sensitive formations remain reserved for a separate is_chandasi=True ledger. A separate domain audit removes descendants of eleven base meanings already documented as Vedic-only from the current known laukika subtotal.",
+  "remaining_major_layers": [
+    "Vedic-only and accent-sensitive formations in a separate domain ledger",
+    "the remaining conditioned krt operations after source-level semantic classification",
+    "three or more upasargas and other bounded operation orderings",
+    "a sourced Sanskrit nominal-base inventory and broader taddhita classification",
+    "namadhatus, feminine formations, compounds, and further nominal derivations",
+    "tin and sup inflection, reported separately from word-meanings"
+  ],
+  "publication_status": "research_subtotal_only_not_deployed",
+  "inputs": {
+    "analysis/generativity/results/six_pass_expansion_summary.json": "ea7d183ebdd20996760dcc45a08462b7e6b34c5f0a8ed507ba87c18c240eccad",
+    "analysis/generativity/results/avyaya_summary.json": "3e14bfd6a15ecd689e86d61d8d8ba03a1c46cf54f3c8ae936504dbbbcadb3d2a",
+    "analysis/generativity/results/conditioned_krt_classification.json": "f8e425d31d30f07116dcc28f584d543a478ed43802ee1bcc0ef20fb068c2f70c",
+    "analysis/generativity/results/conditioned_krdanta_summary.json": "793b478f18268ae805a9fb94c79a0ff1beddf0b1bad24b10758f2a45eaebd88a",
+    "analysis/generativity/results/prefixed_krdanta_summary.json": "3db19e1a40996422faa5975fb00126a832048d33b2ef75cdbefaf78f4b89886e",
+    "analysis/generativity/results/sanadi_krdanta_summary.json": "cf9ffed502b3077cc2d087bfc5c5bfbdd83a8262a622ad9d358f5e960361bcc5",
+    "analysis/generativity/results/taddhita_pilot_summary.json": "3b70fbe328265f369ecb0679a79a7ae8a41139ecc8fc355e12d711e5c375e48a"
+  }
+}

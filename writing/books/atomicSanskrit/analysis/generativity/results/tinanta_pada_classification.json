@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-14",
+  "sample_cells": 90,
+  "sample_profile": {
+    "parasmaipada_only": 50,
+    "atmanepada_only": 10,
+    "both": 30
+  },
+  "pada_policy": "A semantic person-number-lakara cell is counted once. All generated parasmaipada and atmanepada forms remain attached as alternatives.",
+  "automatic_pada_multiplier": 1,
+  "meaning_sensitive_pada_analysis_deferred": true
+}

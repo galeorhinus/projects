@@ -204,9 +204,17 @@ Figure 12.5 groups these examples by the material placed before ⟪कृ⟫. Th
 
 Sanskrit also uses the same assembly procedures to build compounds. When India's lunar mission required a name, speakers joined **चन्द्र (*candra*)**, Moon, and **यान (*yāna*)**, vehicle, as **चन्द्रयान (*Candrayāna*)**. Speakers used existing Sanskrit words and an established compounding procedure to name the new undertaking **चन्द्रयान (*Candrayāna*)**.
 
-The scale of this generativity can now be estimated. The model introduced in Chapter 0 begins with Sanskrit's 2,168 semantic atoms and combines them with prefix states, verb systems, person-number endings, and a small selection of common nominal derivations. It contains **20,942,880 formal slots** before compounding. Not every slot produces a valid or distinct word, but the total demonstrates the scale of Sanskrit's generative architecture.[NOTE: sanskrit-generative-wordspace]
+The scale of this generativity can now be followed from operation to operation. The reconstruction begins with 2,634 recorded meanings carried by Sanskrit's semantic atoms. Prefixes and verbal transformations raise the count beyond 1.3 million. Sanskrit then turns those verbal meanings into actions, agents, instruments, qualities, obligations, and other kinds of meaning. Further operations express state, possession, descent, origin, comparison, negation, and bounded compounds. Before inflection begins, the resulting inventory contains 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings.
 
-The scale helps explain why Bṛhaspati never reached the end of his word-by-word recitation to Indra. Compounding extends the range still further because a completed compound can itself enter another construction. A dictionary records words that people have already used. Sanskrit's architecture continues generating beyond that list.
+The लौकिक (*laukika*) portion divides into three familiar Sanskrit categories:
+
+- **4,540,848 क्रियार्थाः (*kriyārthāḥ*)**, meanings of actions and processes;
+- **8,084,287 नामार्थाः (*nāmārthāḥ*)**, meanings that name people, things, qualities, states, and relations; and
+- **7,925 अव्ययानि (*avyayāni*)**, complete words whose forms do not change.
+
+The क्रियार्थाः (*kriyārthāḥ*) can appear across ten settings of time and mood, three grammatical persons, and three numbers. The नामार्थाः (*nāmārthāḥ*) can appear across eight grammatical relations and three numbers. Under these declared matrices, the ordinary-language inventory occupies 602,707,133 grammatical cells.[NOTE: sanskrit-generative-wordspace]
+
+This gives Bṛhaspati's thousand divine years a numerical scale. Even a deliberately bounded reconstruction passes six hundred million cells before unrestricted recursive compounding begins. A dictionary can record words that speakers have already used. It cannot reach the end of Sanskrit's generative capacity.
 
 The division of responsibilities between the two domains allows Sanskrit to remain invariant while its range of expression continues to grow. The Vedas preserve the sounds, formations, endings, and sentence relations. The लौकिक (*laukika*) domain applies them when people compose poetry or examine philosophy. Mathematicians, astronomers, and physicians can use the same architecture for their disciplines. Manufacturers and traders can create expressions for their own materials, objects, and transactions. Every generation can describe circumstances that no earlier composition anticipated.
 

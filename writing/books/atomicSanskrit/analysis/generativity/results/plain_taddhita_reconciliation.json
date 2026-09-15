@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-13",
+  "verified_candidate_relations": 245,
+  "existing_word_meaning_overlaps_not_added": 9,
+  "engine_mismatches_not_admitted": 0,
+  "additional_plain_taddhita_word_meanings": 236,
+  "additional_nominal_bases": 197,
+  "additional_complete_avyayas": 39,
+  "additional_same_referent_or_lexical_derivatives": 23,
+  "prior_combined_bounded_word_meaning_subtotal": 11116430,
+  "combined_bounded_word_meaning_subtotal": 11116666,
+  "counting_unit": "one source-defined word-meaning; optional outputs and alternative derivational paths do not multiply it",
+  "overlaps_by_ledger": {
+    "conditioned_taddhita": 2,
+    "broad_taddhita": 7,
+    "taddhita_pilot": 2
+  },
+  "inputs": {
+    "analysis/generativity/results/plain_taddhita_verification.csv": "0e3621ac983a88faf8f214297e9734ef50992a7561a265ec6b1e7990c40dcc97",
+    "analysis/generativity/results/suffix_conditioned_reconciliation.json": "ada60f2f57a934ece65087270a523f22bdd50c5201d5b3ef8e5504c1dc7720f9",
+    "analysis/generativity/results/taddhita_ledger.csv.gz": "f8a0cc8a88d7b85631e71bb82c0bc36be73ddcba65d13f04807d908afe78f19d",
+    "analysis/generativity/results/taddhita_pilot_ledger.csv": "1daea7bf8423fc8e993ec7bf91ca8874b4b41b88e877304b3884ca42c61a5b06",
+    "analysis/generativity/results/conditioned_taddhita_ledger.csv": "ec2419b7dbbeeb4d113b3028502807f618f362c24f64cfe2e34ff984577db384",
+    "analysis/generativity/results/suffix_conditioned_ledger.csv": "731f1d63f566e119887f8d4b3426cdde3b5a3250180da7ce6596a2ece57e1581",
+    "analysis/generativity/reconcile_plain_taddhita_relations.py": "9b8c01fbc0a2748f9d2359cc4ae9d63aba5644ab340116b6a24a2ca47ef45368"
+  },
+  "publication_status": "bounded_research_subtotal_not_deployed"
+}

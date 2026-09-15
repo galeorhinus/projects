@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-13",
+  "scope": "Exactly two ordered normalized upasargas applied to each original dhatu meaning, plus source-attested prefix-conditioned meaning enrichments; no sanadi, krdanta, or inflection. Two positions are a declared computational bound, not a grammatical maximum.",
+  "sequence_policy": "Aṣṭādhyāyī 1.4.80 places upasargas before the dhatu in laukika use, and 6.4.96 expressly recognizes a two-upasarga environment. The inventory contains 20 upasarga identities and therefore 400 ordered two-prefix sequences, including repetition. Rows record outer upasarga, then inner upasarga, then dhatu. For a meaning requiring a named upasarga, that upasarga must be the inner member immediately before the dhatu. An anupasarga-only meaning admits no sequence.",
+  "base_word_meanings": 2634,
+  "ordered_upasarga_sequences": 400,
+  "structural_base_candidates": 1053600,
+  "source_entry_operations_tested": 891600,
+  "source_entry_zero_outputs": 0,
+  "documented_base_meaning_conflicts": 2680,
+  "unresolved_zero_output_meanings": 0,
+  "source_attested_enrichment_meanings": 420,
+  "admitted_two_upasarga_word_meanings": 1051340,
+  "admitted_by_inner_upasarga": {
+    "abhi": 52560,
+    "adhi": 52600,
+    "ang": 52640,
+    "anu": 52560,
+    "apa": 52560,
+    "api": 52560,
+    "ati": 52560,
+    "ava": 52560,
+    "dus": 52560,
+    "ni": 52560,
+    "nis": 52560,
+    "para": 52560,
+    "pari": 52560,
+    "pra": 52560,
+    "prati": 52560,
+    "sam": 52560,
+    "su": 52560,
+    "upa": 52560,
+    "ut": 52580,
+    "vi": 52560
+  },
+  "distinct_output_spellings_diagnostic": 849579,
+  "prior_bounded_verbal_capacity_subtotal": 318285,
+  "bounded_verbal_capacity_subtotal": 1369625,
+  "vocabulary_total": null,
+  "publication_status": "research_subtotal_only_not_deployed",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "sources": [
+    {
+      "filename": "dhatupatha.tsv",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "resolved_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "accessed_utc": "2026-09-12T12:29:52.999531+00:00",
+      "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+      "bytes": 55022
+    },
+    {
+      "filename": "dhatupatha-sanskritdocuments.html",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+      "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+      "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+      "bytes": 147148
+    },
+    {
+      "filename": "sutrapatha.tsv",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/sutrapatha.tsv",
+      "accessed_utc": "2026-09-12T12:40:36.592077+00:00",
+      "sha256": "f2ff798707e8b8ea20dd5cf20a7bbcc4b849f0ab4d726a0a4af890ef87b7e87c",
+      "bytes": 112838
+    },
+    {
+      "filename": "rule-1.4.58.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.58.htm",
+      "accessed_utc": "2026-09-12T16:03:36.811505+00:00",
+      "sha256": "48d90df31af7dc6dad1e4270e4d14fa78554310125142e68a0a49a7cbf876348",
+      "bytes": 12586
+    },
+    {
+      "filename": "rule-1.4.59.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.59.htm",
+      "accessed_utc": "2026-09-12T16:03:37.911527+00:00",
+      "sha256": "77d6ed0305efb66a3bccc702778b76ed73c84190205564295ad83d86a231de42",
+      "bytes": 15507
+    },
+    {
+      "filename": "vidyut-args-dhatu.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/dhatu.rs",
+      "accessed_utc": "2026-09-13T05:27:01.055292+00:00",
+      "sha256": "f63ee74be4e5eef8581def3f9b029fe2b1e01f7e92ca7a322c506d3e33764c63",
+      "bytes": 22640
+    }
+  ],
+  "stacking_commentary_sources": [
+    {
+      "filename": "rule-6.4.96-stacking.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/6/6.4.96.htm",
+      "accessed_utc": "2026-09-13T12:59:36.812933+00:00",
+      "sha256": "d673ccf7155338d6979cf9e200da9a99601058e77ad3f9a1d80cde58be370d1c",
+      "bytes": 9363
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/upasarga_inventory.csv": "cf3e86d1d8e7ebc6613130b99a11c1d0da4a943093cbbbc72667e08004a82c04",
+    "analysis/generativity/upasarga_restrictions.json": "fde7d21a9b7c2427301244668d6f986ef2cfdbade72bbbe979ee7a97f4294fa5",
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "analysis/generativity/results/curadi_causative_summary.json": "57f639fa0ab7a673160316d88dcfa37cb710d0a9e30bc74ed30e3ac147c78e7d",
+    "analysis/generativity/admission_standard.md": "f1aee832f493cbffedcbcd0138d9ef5bfa379ba2da25a65f3e231d9b336e96ff",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "working/40_reference/sources/archive/documents/generativity-pilot/upasarga_stacking_manifest.json": "458cfe1e5e371434f2c01b954084fef37aa75fb317750ae02a0f6add6c17fc34",
+    "analysis/generativity/build_two_upasarga_ledger.py": "647798dd6ee8c8b453e9baf8085dcdea21975cd435d7266cb41a24afbaa5441a"
+  }
+}

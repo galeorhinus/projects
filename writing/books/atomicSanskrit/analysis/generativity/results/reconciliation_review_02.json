@@ -1,0 +1,1401 @@
+{
+  "date": "2026-09-13",
+  "status": "proposed_not_applied",
+  "baseline": 2649,
+  "selection": "Corrected ay first, followed by the earliest nine remaining records in the historical follow-up list: IR01, IR04, IR07, IR08, IR10, IR11, IR12, IR13, IR14. Selection was not based on the expected direction of count changes.",
+  "cases": [
+    {
+      "id": "R02-01",
+      "prior_id": "IR210",
+      "label": "अय् (ay)",
+      "entries": {
+        "01.0546": [
+          "gatO"
+        ],
+        "01.1031": [
+          "gatO"
+        ]
+      },
+      "before_count": 2,
+      "proposed_count": 2,
+      "outcome": "retain_pending_reading_alignment",
+      "before": "The approved correction replaced the spurious yam/cessation assignment at 01.1031 with ay/movement. The inventory already contains ay/movement at 01.0546, with a different marker reading.",
+      "after": "Keep the two provisional assignments for now. The accented patha confirms that the corrected listing has a svarita marker, while the earlier entry has an anudatta marker. The commentary on 8.2.19 debates how to explain udayati: one explanation uses a different i atom, another permits the relevant pada behavior. That discussion cannot by itself establish that the two ay listings are one repeated word.",
+      "remaining": "Locate an explicit explanation of the separate svarita-marked ay listing and its relation to 01.0546. Do not merge the independent i atom merely because its inflected form can resemble ayati. The approved ay correction remains in force.",
+      "evidence": [
+        {
+          "source": "dhatupatha-svara-sanskritdocuments.html",
+          "anchor": "१.१०३१ (अयँ॑ गतौ॑ ।)",
+          "role": "Confirms the corrected entry and marker; parentheses in this transcription are retained.",
+          "record": {
+            "filename": "dhatupatha-svara-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha_svara.html",
+            "accessed_utc": "2026-09-13T03:36:37.735493+00:00",
+            "sha256": "fa92e0a502096e3b86dbee4fbfe7abeb9847e2e898bdfb4aca9a28a92934ee96",
+            "bytes": 167529
+          }
+        },
+        {
+          "source": "dhatu-mA291.html",
+          "anchor": "इत आरभ्य रेवत्यन्ता उदात्ता अनुदात्तेतः",
+          "role": "Earlier ay group carries a different marker condition.",
+          "record": {
+            "filename": "dhatu-mA291.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA291.html",
+            "accessed_utc": "2026-09-13T03:33:02.407962+00:00",
+            "sha256": "d4b4875ec850e2955e717400fa04220ad7cd5d0b7d3a210f143d81467c2c38d2",
+            "bytes": 7664
+          }
+        },
+        {
+          "source": "dhatu-kRi576.html",
+          "anchor": "अय गतौ - अयते उदयति दिननाथः",
+          "role": "Later ay entry, with the earlier-page cross-reference preserved in the archive.",
+          "record": {
+            "filename": "dhatu-kRi576.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi576.html",
+            "accessed_utc": "2026-09-13T03:12:23.119124+00:00",
+            "sha256": "5b37150b23cd028ab32f9c2472a5f84a378c9461c525b73abb269174f166c2de",
+            "bytes": 459
+          }
+        },
+        {
+          "source": "rule-8.2.19.html",
+          "anchor": "प्रश्लिष्टस्येति। \"इधातो\"रिति शेषः",
+          "role": "One explanation of the udayati example invokes i, so this form alone is not evidence of identical ay entries.",
+          "record": {
+            "filename": "rule-8.2.19.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/8/8.2.19.htm",
+            "accessed_utc": "2026-09-13T03:36:39.919665+00:00",
+            "sha256": "92642865befc2f344b4a2610908f105b0b360501baea5dad818c81c6481e55a5",
+            "bytes": 14484
+          }
+        }
+      ],
+      "original_rows": [
+        {
+          "source_code": "01.0546",
+          "meaning_id": "meaning-5fa3d59b62c4",
+          "provisional_word_id": "01.0546",
+          "gana": "1",
+          "citation_slp1": "aya~\\",
+          "meaning_slp1": "gatO",
+          "meaning_display": "गतौ (gatau)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "gatO",
+          "source_line": "547",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"01.0546\", \"meaning-5fa3d59b62c4\"]",
+          "identity_batch_review_id": "",
+          "normalized_citation_slp1": "aya~\\",
+          "normalized_meaning_slp1": "gatO",
+          "normalized_count_key": "[\"01.0546\", \"meaning-5fa3d59b62c4\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "01.1031",
+          "meaning_id": "meaning-3f5211d7ba81",
+          "provisional_word_id": "01.1031",
+          "gana": "1",
+          "citation_slp1": "ya\\ma~",
+          "meaning_slp1": "uparame",
+          "meaning_display": "उपरमे (uparame)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "uparame",
+          "source_line": "1032",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"01.1031\", \"meaning-3f5211d7ba81\"]",
+          "identity_batch_review_id": "IR210",
+          "normalized_citation_slp1": "aya~^",
+          "normalized_meaning_slp1": "gatO",
+          "normalized_count_key": "[\"01.1031\", \"meaning-3f5211d7ba81\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": "IR210"
+        }
+      ],
+      "delta": 0
+    },
+    {
+      "id": "R02-02",
+      "prior_id": "IR01",
+      "label": "भू (bhū)",
+      "entries": {
+        "01.0001": [
+          "sattAyAm"
+        ],
+        "10.0277": [
+          "avakalkane"
+        ],
+        "10.0382": [
+          "prAptO"
+        ]
+      },
+      "before_count": 3,
+      "proposed_count": 3,
+      "outcome": "headword_question_resolved_readings_retained",
+      "before": "Being, avakalkana, and attainment are counted separately. The earlier follow-up wondered whether the commentary heading bhuvo indicated a different citation from bhu.",
+      "after": "Retain the three assignments. Kshiratarangini explicitly calls the heading's form a panchami, an ablative reference to bhu, and connects it with the other bhu entries. There is no reason to invent a different bhuv atom from that heading. For avakalkana it gives a concrete mixing example: bhavayati dadhnaudanam, mixing rice with curds. Other commentaries explain the same heading through thinking, affliction, or other readings; retain those attributions separately.",
+      "remaining": "The headword concern is closed. Mixing is directly supported under Kshiratarangini's reading. Decide later whether the inventory will count a union of independently admitted meanings across traditions; do not add every alternative explanation of this heading as an extra meaning automatically.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1329.html",
+          "anchor": "भुवो अवकल्कने - अवकल्कनम् मिश्रीकरणम् भावयति दध्नौदनम् अनित्यण्यन्तत्त्वार्थम्पञ्चमी",
+          "role": "Concrete mixing example and explicit explanation of the declined heading.",
+          "record": {
+            "filename": "dhatu-kRi1329.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1329.html",
+            "accessed_utc": "2026-09-13T03:33:03.235747+00:00",
+            "sha256": "97fac6f483e441120d6a999e5dfc55ace21a058cd8b719a527cbb57cd5bbcb7c",
+            "bytes": 813
+          }
+        },
+        {
+          "source": "dhatu-kRi1329.html",
+          "anchor": "भू प्राप्तावात्मनेपदी",
+          "role": "Identifies the attainment entry separately.",
+          "record": {
+            "filename": "dhatu-kRi1329.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1329.html",
+            "accessed_utc": "2026-09-13T03:33:03.235747+00:00",
+            "sha256": "97fac6f483e441120d6a999e5dfc55ace21a058cd8b719a527cbb57cd5bbcb7c",
+            "bytes": 813
+          }
+        },
+        {
+          "source": "dhatu-mA1316.html",
+          "anchor": "अवकल्कनं चिन्तनमिति काश्यपः",
+          "role": "Thinking is an attributed alternative interpretation, not a duplicate source for mixing.",
+          "record": {
+            "filename": "dhatu-mA1316.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1316.html",
+            "accessed_utc": "2026-09-12T15:25:42.767312+00:00",
+            "sha256": "08eae5da0c78a79068eebc9780ffdebfeb5d624d5189b0185054a2304db93753",
+            "bytes": 1668
+          }
+        },
+        {
+          "source": "dhatu-XA1362.html",
+          "anchor": "अवकल्कने पीडनम्",
+          "role": "A further interpretation remains tied to its witness.",
+          "record": {
+            "filename": "dhatu-XA1362.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1362.html",
+            "accessed_utc": "2026-09-13T03:33:03.497679+00:00",
+            "sha256": "64d14e01bee26a621d7baca955edd1fc96ad3ef7c4c3d133da1eec506f399229",
+            "bytes": 484
+          }
+        }
+      ],
+      "original_rows": [
+        {
+          "source_code": "01.0001",
+          "meaning_id": "meaning-4f8785226893",
+          "provisional_word_id": "01.0001",
+          "gana": "1",
+          "citation_slp1": "BU",
+          "meaning_slp1": "sattAyAm",
+          "meaning_display": "सत्तायाम् (sattāyām)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "sattAyAm",
+          "source_line": "2",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"01.0001\", \"meaning-4f8785226893\"]",
+          "identity_batch_review_id": "IR01",
+          "normalized_citation_slp1": "BU",
+          "normalized_meaning_slp1": "sattAyAm",
+          "normalized_count_key": "[\"01.0001\", \"meaning-4f8785226893\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "10.0277",
+          "meaning_id": "meaning-de23b2763dfb",
+          "provisional_word_id": "10.0277",
+          "gana": "10",
+          "citation_slp1": "BU",
+          "meaning_slp1": "avakalkane",
+          "meaning_display": "अवकल्कने (avakalkane)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "avakalkane",
+          "source_line": "2028",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"10.0277\", \"meaning-de23b2763dfb\"]",
+          "identity_batch_review_id": "IR01",
+          "normalized_citation_slp1": "BU",
+          "normalized_meaning_slp1": "avakalkane",
+          "normalized_count_key": "[\"10.0277\", \"meaning-de23b2763dfb\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "10.0382",
+          "meaning_id": "meaning-8623ae1c435c",
+          "provisional_word_id": "10.0382",
+          "gana": "10",
+          "citation_slp1": "BU",
+          "meaning_slp1": "prAptO",
+          "meaning_display": "प्राप्तौ (prāptau)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "prAptO",
+          "source_line": "2133",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"10.0382\", \"meaning-8623ae1c435c\"]",
+          "identity_batch_review_id": "IR01",
+          "normalized_citation_slp1": "BU",
+          "normalized_meaning_slp1": "prAptO",
+          "normalized_count_key": "[\"10.0382\", \"meaning-8623ae1c435c\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        }
+      ],
+      "delta": 0
+    },
+    {
+      "id": "R02-03",
+      "prior_id": "IR04",
+      "label": "भ्रम् (bhram)",
+      "entries": {
+        "01.0985": [
+          "calane"
+        ],
+        "04.0102": [
+          "anavasTAne"
+        ]
+      },
+      "before_count": 2,
+      "proposed_count": 1,
+      "outcome": "merge_proposed",
+      "before": "Movement and not remaining settled were counted separately because the earlier passages had not explained whether their meanings overlap.",
+      "after": "Count one shared movement meaning here. Kshiratarangini defines anavasthana as moving from one place to another and identifies the fourth-class listing as serving the shamadi treatment. Its first-class discussion points to that grammatical purpose; its fourth-class discussion points back to the first-class movement entry. The evidence supports a repeated word-meaning with different grammatical treatment.",
+      "remaining": "Retain the different vikaranas, vowel length, accent, and conditions on the generated forms. This merger concerns these two movement assignments, not every figurative meaning of bhram.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi865.html",
+          "anchor": "अनवस्थानं देशान्तरगमनम्",
+          "role": "Defines the formerly unclear gloss as movement from place to place.",
+          "record": {
+            "filename": "dhatu-kRi865.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi865.html",
+            "accessed_utc": "2026-09-13T03:33:04.245992+00:00",
+            "sha256": "234b95310e3f4a63a5c973d24fa2e74b695633edeece2cfe34a26bcb12b2e365",
+            "bytes": 833
+          }
+        },
+        {
+          "source": "dhatu-kRi546.html",
+          "anchor": "दिवादौ (498) शमाद्यर्थः पाठः",
+          "role": "Explicit grammatical reason for the repeated listing.",
+          "record": {
+            "filename": "dhatu-kRi546.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi546.html",
+            "accessed_utc": "2026-09-13T03:33:03.696663+00:00",
+            "sha256": "01d03a52b84154df32f0b94c80adf20f1b5485218ed87ca5f93797737ddd0456",
+            "bytes": 1243
+          }
+        },
+        {
+          "source": "dhatu-kRi865.html",
+          "anchor": "भ्वादौ भ्रमु चलने",
+          "role": "Fourth-class commentary identifies the first-class counterpart.",
+          "record": {
+            "filename": "dhatu-kRi865.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi865.html",
+            "accessed_utc": "2026-09-13T03:33:04.245992+00:00",
+            "sha256": "234b95310e3f4a63a5c973d24fa2e74b695633edeece2cfe34a26bcb12b2e365",
+            "bytes": 833
+          }
+        },
+        {
+          "source": "dhatu-XA558.html",
+          "anchor": "भ्राम्यतीति शमादिपाठात्",
+          "role": "Corroborates the effect of the shamadi listing on the form.",
+          "record": {
+            "filename": "dhatu-XA558.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA558.html",
+            "accessed_utc": "2026-09-13T03:33:03.966371+00:00",
+            "sha256": "9ed77710f3785a7713df7323c46f1e9ef0b41ec14d03c59fbb13bee13a68699b",
+            "bytes": 952
+          }
+        }
+      ],
+      "original_rows": [
+        {
+          "source_code": "01.0985",
+          "meaning_id": "meaning-ded5b8f0e366",
+          "provisional_word_id": "01.0985",
+          "gana": "1",
+          "citation_slp1": "Bramu~",
+          "meaning_slp1": "calane",
+          "meaning_display": "चलने (calane)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "calane",
+          "source_line": "986",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"01.0985\", \"meaning-ded5b8f0e366\"]",
+          "identity_batch_review_id": "IR04",
+          "normalized_citation_slp1": "Bramu~",
+          "normalized_meaning_slp1": "calane",
+          "normalized_count_key": "[\"01.0985\", \"meaning-ded5b8f0e366\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "04.0102",
+          "meaning_id": "meaning-b06d0dfd1d07",
+          "provisional_word_id": "04.0102",
+          "gana": "4",
+          "citation_slp1": "Bramu~",
+          "meaning_slp1": "anavasTAne",
+          "meaning_display": "अनवस्थाने (anavasthāne)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "anavasTAne",
+          "source_line": "1372",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"04.0102\", \"meaning-b06d0dfd1d07\"]",
+          "identity_batch_review_id": "IR04",
+          "normalized_citation_slp1": "Bramu~",
+          "normalized_meaning_slp1": "anavasTAne",
+          "normalized_count_key": "[\"04.0102\", \"meaning-b06d0dfd1d07\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        }
+      ],
+      "delta": -1
+    },
+    {
+      "id": "R02-04",
+      "prior_id": "IR07",
+      "label": "धूप् (dhūp)",
+      "entries": {
+        "01.0462": [
+          "santApe"
+        ],
+        "10.0303": [
+          "BAzAyAm"
+        ]
+      },
+      "before_count": 2,
+      "proposed_count": 2,
+      "outcome": "alternate_reading_recorded",
+      "before": "Heating and speaking are counted. A shining interpretation of the larger curadi group remains a follow-up.",
+      "after": "Keep the two assignments under the pinned speech reading and record shining as an alternative reading of the curadi group. Madhaviya explicitly contrasts bhashartha with bhasartha and attributes the latter explanation to Kshirasvamin; Kshiratarangini's list actually includes dhup. The difference is real, not a third meaning to add silently to a count following another reading.",
+      "remaining": "If a later pass deliberately counts meanings across readings, admit shining with its own provenance and check its relationship to heating. Do not turn an alternative group heading into an automatic multiplier.",
+      "evidence": [
+        {
+          "source": "dhatu-mA1321.html",
+          "anchor": "भासार्था इत्येक इति मैत्रेयः",
+          "role": "Explicit alternative to the speech-group reading.",
+          "record": {
+            "filename": "dhatu-mA1321.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1321.html",
+            "accessed_utc": "2026-09-12T15:25:46.272990+00:00",
+            "sha256": "b62ce420581bdad1fa175c0fa883f78071249181757423528b8cc181e86eab6c",
+            "bytes": 7096
+          }
+        },
+        {
+          "source": "dhatu-mA1321.html",
+          "anchor": "क्षीरस्वामी भासा दिप्तिरर्थो येषान्ते भासार्था",
+          "role": "Explains and attributes the shining reading.",
+          "record": {
+            "filename": "dhatu-mA1321.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1321.html",
+            "accessed_utc": "2026-09-12T15:25:46.272990+00:00",
+            "sha256": "b62ce420581bdad1fa175c0fa883f78071249181757423528b8cc181e86eab6c",
+            "bytes": 7096
+          }
+        },
+        {
+          "source": "dhatu-kRi1340.html",
+          "anchor": "गुपू धूप विच्छ चीव",
+          "role": "Confirms that dhup itself belongs to this witness's alternative list.",
+          "record": {
+            "filename": "dhatu-kRi1340.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1340.html",
+            "accessed_utc": "2026-09-12T15:25:46.577396+00:00",
+            "sha256": "11679a4a79ecdfce86ad32173b0b67209e53039b6677cd018ce06a1a5113846a",
+            "bytes": 6627
+          }
+        },
+        {
+          "source": "dhatu-kRi1340.html",
+          "anchor": "भासयति दिशः दीपयति, इन्धयति, प्रकाशयति",
+          "role": "The commentary gives illuminating examples, rather than merely a similar-looking heading.",
+          "record": {
+            "filename": "dhatu-kRi1340.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1340.html",
+            "accessed_utc": "2026-09-12T15:25:46.577396+00:00",
+            "sha256": "11679a4a79ecdfce86ad32173b0b67209e53039b6677cd018ce06a1a5113846a",
+            "bytes": 6627
+          }
+        }
+      ],
+      "original_rows": [
+        {
+          "source_code": "01.0462",
+          "meaning_id": "meaning-7f3a5b5d2c60",
+          "provisional_word_id": "01.0462",
+          "gana": "1",
+          "citation_slp1": "DUpa~",
+          "meaning_slp1": "santApe",
+          "meaning_display": "सन्तापे (santāpe)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "santApe",
+          "source_line": "463",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"01.0462\", \"meaning-7f3a5b5d2c60\"]",
+          "identity_batch_review_id": "IR07",
+          "normalized_citation_slp1": "DUpa~",
+          "normalized_meaning_slp1": "santApe",
+          "normalized_count_key": "[\"01.0462\", \"meaning-7f3a5b5d2c60\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "10.0303",
+          "meaning_id": "meaning-ea0ca4b6a28b",
+          "provisional_word_id": "10.0303",
+          "gana": "10",
+          "citation_slp1": "DUpa~",
+          "meaning_slp1": "BAzAyAm",
+          "meaning_display": "भाषायाम् (bhāṣāyām)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "BAzAyAm",
+          "source_line": "2054",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"10.0303\", \"meaning-ea0ca4b6a28b\"]",
+          "identity_batch_review_id": "IR07",
+          "normalized_citation_slp1": "DUpa~",
+          "normalized_meaning_slp1": "BAzAyAm",
+          "normalized_count_key": "[\"10.0303\", \"meaning-ea0ca4b6a28b\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        }
+      ],
+      "delta": 0
+    },
+    {
+      "id": "R02-05",
+      "prior_id": "IR08",
+      "label": "धृङ् (dhṛṅ)",
+      "entries": {
+        "01.1115": [
+          "avabanDane",
+          "viDvaMsane"
+        ],
+        "06.0148": [
+          "avasTAne"
+        ]
+      },
+      "before_count": 3,
+      "proposed_count": 2,
+      "outcome": "unsupported_assignment_removal_proposed",
+      "after": "Use destruction for the first-class entry and retain remaining or staying for the sixth-class entry. The first-class binding assignment is not supported by the three inspected traditional commentaries or either patha transcription, all of which give avadhvamsana. Move that pinned binding gloss to the unresolved source-reading record rather than counting it as an established extra meaning. Do not borrow the separate dhri-ny entry's holding meaning to justify it.",
+      "before": "The pinned first-class list contributes both binding and destruction; the sixth class contributes remaining. The earlier review had found destruction but no source for binding.",
+      "remaining": "Preserve the original avabandhana wording and the outstanding task of identifying its textual source. This is a proposed source-supported normalization, not a claim that a binding reading can never be found. Do not merge destruction with remaining.",
+      "evidence": [
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.१११५ धृङ् अवध्वंसने",
+          "role": "Numbered first-class entry.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        },
+        {
+          "source": "dhatupatha-svara-sanskritdocuments.html",
+          "anchor": "१.१११५ धृ॒ङ् अव॒ध्वंस॑ने",
+          "role": "Accented transcription agrees; not claimed as an independent manuscript witness.",
+          "record": {
+            "filename": "dhatupatha-svara-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha_svara.html",
+            "accessed_utc": "2026-09-13T03:36:37.735493+00:00",
+            "sha256": "fa92e0a502096e3b86dbee4fbfe7abeb9847e2e898bdfb4aca9a28a92934ee96",
+            "bytes": 167529
+          }
+        },
+        {
+          "source": "dhatu-mA610.html",
+          "anchor": "धृङ् अवध्वंसने",
+          "role": "Madhaviya's heading.",
+          "record": {
+            "filename": "dhatu-mA610.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA610.html",
+            "accessed_utc": "2026-09-12T15:25:46.811896+00:00",
+            "sha256": "5de3cb67a25df06aa780015b5c830235e463f0f1e2764e6b4ebb7c45e6d1a7e2",
+            "bytes": 450
+          }
+        },
+        {
+          "source": "dhatu-kRi636.html",
+          "anchor": "धृङ् अवध्वंसने",
+          "role": "Kshiratarangini's heading.",
+          "record": {
+            "filename": "dhatu-kRi636.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi636.html",
+            "accessed_utc": "2026-09-13T03:33:04.691976+00:00",
+            "sha256": "dccfa2a920dd83574c804c10a998643ffb1b20bff8f0f179d99ac35b634e1daf",
+            "bytes": 1216
+          }
+        },
+        {
+          "source": "dhatu-XA649.html",
+          "anchor": "धृङ् अवध्वंसने",
+          "role": "Dhatupradipa's heading.",
+          "record": {
+            "filename": "dhatu-XA649.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA649.html",
+            "accessed_utc": "2026-09-13T03:33:04.970321+00:00",
+            "sha256": "565a1d7eff6f23588a88b98ffeee593b1b03e4a3418492b6ecaed571a3ab96cb",
+            "bytes": 423
+          }
+        },
+        {
+          "source": "dhatu-XA1066.html",
+          "anchor": "धृङ् अवस्थाने - ध्रियते",
+          "role": "The remaining/staying entry is retained separately.",
+          "record": {
+            "filename": "dhatu-XA1066.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1066.html",
+            "accessed_utc": "2026-09-13T03:33:05.206760+00:00",
+            "sha256": "6995dbbfddddba30bef05d9c1ed991ccd144acd5231f9ecd4ba46cafa567f389",
+            "bytes": 691
+          }
+        }
+      ],
+      "original_rows": [
+        {
+          "source_code": "01.1115",
+          "meaning_id": "meaning-52f610ed3234",
+          "provisional_word_id": "01.1115",
+          "gana": "1",
+          "citation_slp1": "Df\\N",
+          "meaning_slp1": "avabanDane",
+          "meaning_display": "अवबन्धने (avabandhane)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "avabanDane viDvaMsane ca",
+          "source_line": "1116",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "enumerated_glosses",
+          "count_key": "[\"01.1115\", \"meaning-52f610ed3234\"]",
+          "identity_batch_review_id": "IR08",
+          "normalized_citation_slp1": "Df\\N",
+          "normalized_meaning_slp1": "avabanDane",
+          "normalized_count_key": "[\"01.1115\", \"meaning-52f610ed3234\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "01.1115",
+          "meaning_id": "meaning-c8f3e5e74123",
+          "provisional_word_id": "01.1115",
+          "gana": "1",
+          "citation_slp1": "Df\\N",
+          "meaning_slp1": "viDvaMsane",
+          "meaning_display": "विध्वंसने (vidhvaṃsane)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "avabanDane viDvaMsane ca",
+          "source_line": "1116",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "enumerated_glosses",
+          "count_key": "[\"01.1115\", \"meaning-c8f3e5e74123\"]",
+          "identity_batch_review_id": "IR08",
+          "normalized_citation_slp1": "Df\\N",
+          "normalized_meaning_slp1": "viDvaMsane",
+          "normalized_count_key": "[\"01.1115\", \"meaning-c8f3e5e74123\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "06.0148",
+          "meaning_id": "meaning-7f44d9752485",
+          "provisional_word_id": "06.0148",
+          "gana": "6",
+          "citation_slp1": "Df\\N",
+          "meaning_slp1": "avasTAne",
+          "meaning_display": "अवस्थाने (avasthāne)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "avasTAne",
+          "source_line": "1619",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"06.0148\", \"meaning-7f44d9752485\"]",
+          "identity_batch_review_id": "IR08",
+          "normalized_citation_slp1": "Df\\N",
+          "normalized_meaning_slp1": "avasTAne",
+          "normalized_count_key": "[\"06.0148\", \"meaning-7f44d9752485\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        }
+      ],
+      "delta": -1
+    },
+    {
+      "id": "R02-06",
+      "prior_id": "IR10",
+      "label": "ध्वन् (dhvan)",
+      "entries": {
+        "01.0928": [
+          "Sabde"
+        ],
+        "01.0962": [
+          "Sabde"
+        ]
+      },
+      "before_count": 2,
+      "proposed_count": 1,
+      "outcome": "merge_proposed",
+      "before": "The two sound assignments remain separate because the earlier retrieved mit explanation concerned svan, not dhvan.",
+      "after": "Count the shared sound assignment once. The extended Bala-manorama discussion on the 7.4.68 page explicitly identifies the later dhvan entry as the one repeated for mit treatment. It illustrates the condition with making a bell sound and distinguishes that use from utterance. This is the missing dhvan-specific link, not an inference borrowed from svan.",
+      "remaining": "Keep the non-utterance/utterance condition for grammatical generation. Also keep dental dhvan distinct from the separate retroflex dhvan reading and from any curadi records outside this comparison.",
+      "evidence": [
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "ज्वलादौ \"ध्वन शब्दे\" इति पठिष्यमाण एवात्र ध्वन्यात्मके अनुच्चारणजन्ये शब्दने मित्त्वार्थमनूद्यते",
+          "role": "Explicit identity and purpose in the extended commentary, not the wording of sutra 7.4.68.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "ध्वनयति घण्टामिति। शब्दायमानां करोतीत्यर्थः",
+          "role": "Concrete non-utterance example for the condition.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "अयं तु दन्त्यान्त इति भेदः",
+          "role": "Prevents collapsing a different retroflex citation.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "dhatu-XA538.html",
+          "anchor": "ध्वनति । दध्वान, दध्वनतुः, दध्वनुः । ध्वनिः",
+          "role": "Later dental dhvan listing.",
+          "record": {
+            "filename": "dhatu-XA538.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA538.html",
+            "accessed_utc": "2026-09-12T15:25:48.035220+00:00",
+            "sha256": "33b4cbc9cb30b99db163e46cb2617f57f261b9fd30d32f9af20271aa751b255b",
+            "bytes": 1761
+          }
+        }
+      ],
+      "original_rows": [
+        {
+          "source_code": "01.0928",
+          "meaning_id": "meaning-2dcb1894fd9b",
+          "provisional_word_id": "01.0928",
+          "gana": "1",
+          "citation_slp1": "Dvana~",
+          "meaning_slp1": "Sabde",
+          "meaning_display": "शब्दे (śabde)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "Sabde",
+          "source_line": "929",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"01.0928\", \"meaning-2dcb1894fd9b\"]",
+          "identity_batch_review_id": "IR10",
+          "normalized_citation_slp1": "Dvana~",
+          "normalized_meaning_slp1": "Sabde",
+          "normalized_count_key": "[\"01.0928\", \"meaning-2dcb1894fd9b\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "01.0962",
+          "meaning_id": "meaning-2dcb1894fd9b",
+          "provisional_word_id": "01.0962",
+          "gana": "1",
+          "citation_slp1": "Dvana~",
+          "meaning_slp1": "Sabde",
+          "meaning_display": "शब्दे (śabde)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "Sabde",
+          "source_line": "963",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"01.0962\", \"meaning-2dcb1894fd9b\"]",
+          "identity_batch_review_id": "IR10",
+          "normalized_citation_slp1": "Dvana~",
+          "normalized_meaning_slp1": "Sabde",
+          "normalized_count_key": "[\"01.0962\", \"meaning-2dcb1894fd9b\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        }
+      ],
+      "delta": -1
+    },
+    {
+      "id": "R02-07",
+      "prior_id": "IR11",
+      "label": "घट् (ghaṭ)",
+      "entries": {
+        "10.0248": [
+          "saNGAte"
+        ],
+        "10.0297": [
+          "BAzAyAm"
+        ]
+      },
+      "before_count": 2,
+      "proposed_count": 2,
+      "outcome": "retain_meanings_and_reading_specific_membership",
+      "before": "Combining and speaking are counted separately; the shining reading of the larger group remains a follow-up.",
+      "after": "Keep the two meanings. Madhaviya and Dhatupradipa explicitly explain the repeated listing through a difference in meaning. Record the group's shining alternative, but check its membership before attaching it to a particular atom: Kshiratarangini lists ghati in that group, not the same plain ghata citation. Its earlier ghat discussion also contrasts a hanti/breaking treatment with Durga's combining reading. These are source-specific decisions, not interchangeable copies of one universal list.",
+      "remaining": "Retain the shining and breaking alternatives with their source membership. Do not add them to the present two assignments without a separate decision about the reading being counted.",
+      "evidence": [
+        {
+          "source": "dhatu-mA1321.html",
+          "anchor": "अतः पुनः पाठो ऽर्थभेदादिति मैत्रेयः",
+          "role": "Explicit explanation of repeated ghat by meaning difference.",
+          "record": {
+            "filename": "dhatu-mA1321.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1321.html",
+            "accessed_utc": "2026-09-12T15:25:46.272990+00:00",
+            "sha256": "b62ce420581bdad1fa175c0fa883f78071249181757423528b8cc181e86eab6c",
+            "bytes": 7096
+          }
+        },
+        {
+          "source": "dhatu-XA1374.html",
+          "anchor": "अयं सङ्घातेऽपि अतः पुनर्घटिः पठ्यते अर्थभेदात्",
+          "role": "The archived wording is retained even where the transcription is awkward.",
+          "record": {
+            "filename": "dhatu-XA1374.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1374.html",
+            "accessed_utc": "2026-09-12T16:20:39.507101+00:00",
+            "sha256": "388178e2174a6d333f910453efe9ae8d0b5e2f2b88c65681e3e20e52b5d3e1d9",
+            "bytes": 5290
+          }
+        },
+        {
+          "source": "dhatu-kRi1340.html",
+          "anchor": "दसि दशि घटि रघि लघि",
+          "role": "This witness lists the marked ghati form; do not silently transfer membership to ghata.",
+          "record": {
+            "filename": "dhatu-kRi1340.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1340.html",
+            "accessed_utc": "2026-09-12T15:25:46.577396+00:00",
+            "sha256": "11679a4a79ecdfce86ad32173b0b67209e53039b6677cd018ce06a1a5113846a",
+            "bytes": 6627
+          }
+        },
+        {
+          "source": "dhatu-kRi1313.html",
+          "anchor": "घट संघाते इति दुर्गः",
+          "role": "Combining is explicitly attributed beside other treatments of this entry.",
+          "record": {
+            "filename": "dhatu-kRi1313.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1313.html",
+            "accessed_utc": "2026-09-13T03:33:07.537573+00:00",
+            "sha256": "0e566f218dd7c2150aa8f191eca11ca1e47af4c63c06bc9e2e36cf32c5eca55b",
+            "bytes": 1384
+          }
+        }
+      ],
+      "original_rows": [
+        {
+          "source_code": "10.0248",
+          "meaning_id": "meaning-1685c224b9c2",
+          "provisional_word_id": "10.0248",
+          "gana": "10",
+          "citation_slp1": "Gawa~",
+          "meaning_slp1": "saNGAte",
+          "meaning_display": "सङ्घाते (saṅghāte)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "saNGAte",
+          "source_line": "1999",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"10.0248\", \"meaning-1685c224b9c2\"]",
+          "identity_batch_review_id": "IR11",
+          "normalized_citation_slp1": "Gawa~",
+          "normalized_meaning_slp1": "saNGAte",
+          "normalized_count_key": "[\"10.0248\", \"meaning-1685c224b9c2\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "10.0297",
+          "meaning_id": "meaning-ea0ca4b6a28b",
+          "provisional_word_id": "10.0297",
+          "gana": "10",
+          "citation_slp1": "Gawa~",
+          "meaning_slp1": "BAzAyAm",
+          "meaning_display": "भाषायाम् (bhāṣāyām)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "BAzAyAm",
+          "source_line": "2048",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"10.0297\", \"meaning-ea0ca4b6a28b\"]",
+          "identity_batch_review_id": "IR11",
+          "normalized_citation_slp1": "Gawa~",
+          "normalized_meaning_slp1": "BAzAyAm",
+          "normalized_count_key": "[\"10.0297\", \"meaning-ea0ca4b6a28b\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        }
+      ],
+      "delta": 0
+    },
+    {
+      "id": "R02-08",
+      "prior_id": "IR12",
+      "label": "घृ (ghṛ)",
+      "entries": {
+        "01.1088": [
+          "secane"
+        ],
+        "03.0015": [
+          "kzaraRe",
+          "dIptO"
+        ]
+      },
+      "before_count": 3,
+      "proposed_count": 3,
+      "outcome": "retain_meanings",
+      "before": "Sprinkling, flowing, and shining are counted. The question was whether sprinkling and flowing were merely two labels for the same meaning.",
+      "after": "Keep all three assignments. Kshiratarangini explicitly defines ksharana as flowing and continues to label the first-class entry secana. It links the class forms and uses some of the same derived examples, but this does not establish that sprinkling liquid and liquid flowing are the same meaning. Shining is independently listed and is unaffected by that comparison.",
+      "remaining": "A finer use-based comparison may establish a shared portion, but no merger is supported here. Preserve the commentary's restrictions on first-class use and the Vedic domain treatment of the third-class group.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi767.html",
+          "anchor": "क्षरणं स्रवणम्",
+          "role": "Direct explanation of flowing.",
+          "record": {
+            "filename": "dhatu-kRi767.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi767.html",
+            "accessed_utc": "2026-09-13T03:33:06.019130+00:00",
+            "sha256": "196be861362fa92e233f29e6ee9d3307cf5a79188de38c87ef455f45b0dcaf05",
+            "bytes": 935
+          }
+        },
+        {
+          "source": "dhatu-kRi621.html",
+          "anchor": "गृ घृ सेचने - गरति घरति अमुं नियतविषयमाहुः",
+          "role": "First-class sprinkling and its restricted use remain explicit.",
+          "record": {
+            "filename": "dhatu-kRi621.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi621.html",
+            "accessed_utc": "2026-09-13T03:33:05.483578+00:00",
+            "sha256": "b3f08eaea9518ba2cc6f22136ad2aa609cf5c465b0c5bd78543a9c9347d78e19",
+            "bytes": 831
+          }
+        },
+        {
+          "source": "dhatu-kRi767.html",
+          "anchor": "घृ क्षरण,दीप्त्योः",
+          "role": "Shining is separately present in the third-class heading.",
+          "record": {
+            "filename": "dhatu-kRi767.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi767.html",
+            "accessed_utc": "2026-09-13T03:33:06.019130+00:00",
+            "sha256": "196be861362fa92e233f29e6ee9d3307cf5a79188de38c87ef455f45b0dcaf05",
+            "bytes": 935
+          }
+        },
+        {
+          "source": "dhatu-mA745.html",
+          "anchor": "ते सर्वे छान्दसाः",
+          "role": "Retain the stated domain condition rather than applying it to every ghri record.",
+          "record": {
+            "filename": "dhatu-mA745.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA745.html",
+            "accessed_utc": "2026-09-12T15:42:25.547349+00:00",
+            "sha256": "49c76d094ecf1f786e925e6d096fece1241e5a6aeeb3c752409c6e81154d26c6",
+            "bytes": 2937
+          }
+        }
+      ],
+      "original_rows": [
+        {
+          "source_code": "01.1088",
+          "meaning_id": "meaning-5b3b4eb5a8ec",
+          "provisional_word_id": "01.1088",
+          "gana": "1",
+          "citation_slp1": "Gf\\",
+          "meaning_slp1": "secane",
+          "meaning_display": "सेचने (secane)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "secane",
+          "source_line": "1089",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"01.1088\", \"meaning-5b3b4eb5a8ec\"]",
+          "identity_batch_review_id": "IR12",
+          "normalized_citation_slp1": "Gf\\",
+          "normalized_meaning_slp1": "secane",
+          "normalized_count_key": "[\"01.1088\", \"meaning-5b3b4eb5a8ec\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "03.0015",
+          "meaning_id": "meaning-dd1adc78b9c7",
+          "provisional_word_id": "03.0015",
+          "gana": "3",
+          "citation_slp1": "Gf\\",
+          "meaning_slp1": "kzaraRe",
+          "meaning_display": "क्षरणे (kṣaraṇe)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "kzaraRadIptyoH",
+          "source_line": "1259",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "enumerated_glosses",
+          "count_key": "[\"03.0015\", \"meaning-dd1adc78b9c7\"]",
+          "identity_batch_review_id": "IR12",
+          "normalized_citation_slp1": "Gf\\",
+          "normalized_meaning_slp1": "kzaraRe",
+          "normalized_count_key": "[\"03.0015\", \"meaning-dd1adc78b9c7\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "03.0015",
+          "meaning_id": "meaning-7345560b9c17",
+          "provisional_word_id": "03.0015",
+          "gana": "3",
+          "citation_slp1": "Gf\\",
+          "meaning_slp1": "dIptO",
+          "meaning_display": "दीप्तौ (dīptau)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "kzaraRadIptyoH",
+          "source_line": "1259",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "enumerated_glosses",
+          "count_key": "[\"03.0015\", \"meaning-7345560b9c17\"]",
+          "identity_batch_review_id": "IR12",
+          "normalized_citation_slp1": "Gf\\",
+          "normalized_meaning_slp1": "dIptO",
+          "normalized_count_key": "[\"03.0015\", \"meaning-7345560b9c17\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        }
+      ],
+      "delta": 0
+    },
+    {
+      "id": "R02-09",
+      "prior_id": "IR13",
+      "label": "घुष् (ghuṣ)",
+      "entries": {
+        "01.0741": [
+          "aviSabdane"
+        ],
+        "10.0251": [
+          "viSabdane"
+        ]
+      },
+      "before_count": 2,
+      "proposed_count": 2,
+      "outcome": "concrete_non_declaring_use_located",
+      "before": "One broad non-declaring assignment and one declaring assignment are counted. The former is a condition, not an enumeration of all meanings within it.",
+      "after": "Keep the two provisional assignments and attach the concrete example now located. In the commentary on 7.2.23, ghushta rajjuh is explained as a rope produced or extended, while the contrasting example concerns an uttered statement. Thus avishabdana must not be translated as silence or counted as merely the logical opposite of speech. The commentators also preserve different readings of the curadi heading.",
+      "remaining": "Before replacing the broad non-declaring assignment with a fuller list, distinguish the alternative explanations of ghushta from independently demonstrated meanings. Preserve the nishtha-it and optional-nic conditions. This is not the same situation as yam's standalone mit instruction, so do not automatically delete this lexical entry as metadata.",
+      "evidence": [
+        {
+          "source": "rule-7.2.23.html",
+          "anchor": "घुष्टा रज्जुरिति। उत्पादितेत्यर्थः। आयामितेति वा",
+          "role": "Concrete non-declaring use with two attributed explanations, not two automatically countable senses.",
+          "record": {
+            "filename": "rule-7.2.23.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.2.23.htm",
+            "accessed_utc": "2026-09-13T03:36:38.813200+00:00",
+            "sha256": "565683944444eaedded00d74a798869eba0902e63d53a9c337fec8737b7c51f3",
+            "bytes": 6791
+          }
+        },
+        {
+          "source": "rule-7.2.23.html",
+          "anchor": "विशब्दनं प्रतिज्ञानम्",
+          "role": "Defines the declaring sense.",
+          "record": {
+            "filename": "rule-7.2.23.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.2.23.htm",
+            "accessed_utc": "2026-09-13T03:36:38.813200+00:00",
+            "sha256": "565683944444eaedded00d74a798869eba0902e63d53a9c337fec8737b7c51f3",
+            "bytes": 6791
+          }
+        },
+        {
+          "source": "dhatu-kRi415.html",
+          "anchor": "घुष्टा रज्जुः नेह- संघुषितं वाक्यम्",
+          "role": "The atom commentary also contrasts rope and statement examples.",
+          "record": {
+            "filename": "dhatu-kRi415.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi415.html",
+            "accessed_utc": "2026-09-13T03:33:06.513435+00:00",
+            "sha256": "1904782a4759b397b763179ca82607c9aad6cb751d932b44aa798fd3f5b92995",
+            "bytes": 1075
+          }
+        },
+        {
+          "source": "dhatu-XA1349.html",
+          "anchor": "घुषिर् अविशब्दने",
+          "role": "The alternative curadi heading remains attached to its witness.",
+          "record": {
+            "filename": "dhatu-XA1349.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1349.html",
+            "accessed_utc": "2026-09-12T15:42:26.499360+00:00",
+            "sha256": "ff4ccd234cfb73e8dc3760cbd2834462820e77d362155c1fb7e97f03a18d150f",
+            "bytes": 1028
+          }
+        }
+      ],
+      "original_rows": [
+        {
+          "source_code": "01.0741",
+          "meaning_id": "meaning-64578eb7fa58",
+          "provisional_word_id": "01.0741",
+          "gana": "1",
+          "citation_slp1": "Guzi~r",
+          "meaning_slp1": "aviSabdane",
+          "meaning_display": "अविशब्दने (aviśabdane)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "aviSabdane",
+          "source_line": "742",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"01.0741\", \"meaning-64578eb7fa58\"]",
+          "identity_batch_review_id": "IR13",
+          "normalized_citation_slp1": "Guzi~r",
+          "normalized_meaning_slp1": "aviSabdane",
+          "normalized_count_key": "[\"01.0741\", \"meaning-64578eb7fa58\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "10.0251",
+          "meaning_id": "meaning-1b016eb41ed6",
+          "provisional_word_id": "10.0251",
+          "gana": "10",
+          "citation_slp1": "Guzi~r",
+          "meaning_slp1": "viSabdane",
+          "meaning_display": "विशब्दने (viśabdane)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "viSabdane",
+          "source_line": "2002",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "single_gloss",
+          "count_key": "[\"10.0251\", \"meaning-1b016eb41ed6\"]",
+          "identity_batch_review_id": "IR13",
+          "normalized_citation_slp1": "Guzi~r",
+          "normalized_meaning_slp1": "viSabdane",
+          "normalized_count_key": "[\"10.0251\", \"meaning-1b016eb41ed6\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        }
+      ],
+      "delta": 0
+    },
+    {
+      "id": "R02-10",
+      "prior_id": "IR14",
+      "label": "झर्झ् (jharjh)",
+      "entries": {
+        "01.0815": [
+          "pariBAzaRe",
+          "hiMsAyAm",
+          "tarjane"
+        ],
+        "06.0020": [
+          "pariBAzaRe",
+          "Bartsane"
+        ]
+      },
+      "before_count": 4,
+      "proposed_count": 3,
+      "outcome": "shared_rebuke_meaning_merge_proposed",
+      "before": "Speaking is already consolidated. Harming, tarjana, and bhartsana remain separately counted, giving four current assignments.",
+      "after": "Count the shared rebuking or threatening meaning once across tarjana and bhartsana in these jharjh listings. Madhaviya explicitly identifies the repeated atom as a matter of accent, and Dhatupradipa corroborates that link. Within the same grammatical tradition, tarj itself is glossed as bhartsana, while tarj and bharts are both listed in santarjana. That is stronger evidence than separating the meanings because one English gloss says threatening and another says rebuking. Retain harming and speaking separately.",
+      "remaining": "Keep class and accent conditions. This proposal consolidates two descriptions of one jharjh meaning; it does not merge the different words tarj and bharts merely because their meanings overlap.",
+      "evidence": [
+        {
+          "source": "dhatu-mA924.html",
+          "anchor": "चर्चतिझर्झत्योः शपि पाठः स्वरार्थ इत्युक्तम्",
+          "role": "Explicit identity and accent-purpose statement.",
+          "record": {
+            "filename": "dhatu-mA924.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA924.html",
+            "accessed_utc": "2026-09-12T15:42:27.055734+00:00",
+            "sha256": "d8c963cd2bfdcf59b9b9ef0b1f1c7eb2671236b9be7f447d96beaf4797feb677",
+            "bytes": 1057
+          }
+        },
+        {
+          "source": "dhatu-XA459.html",
+          "anchor": "चर्च झर्झ इत्येतौ तुदादवपि पठ्येते । इह तु स्वरार्थं पठितौ",
+          "role": "Corroborates the repeated atom and gives santarjana in the heading.",
+          "record": {
+            "filename": "dhatu-XA459.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA459.html",
+            "accessed_utc": "2026-09-12T16:20:42.278009+00:00",
+            "sha256": "179e74c127f889f5838ca2cd0c9f9bca41a0f682380a6cfef537ae6e4af263e8",
+            "bytes": 969
+          }
+        },
+        {
+          "source": "dhatu-mA127.html",
+          "anchor": "तर्ज भर्त्सने",
+          "role": "Direct cross-gloss within the atom commentary tradition.",
+          "record": {
+            "filename": "dhatu-mA127.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA127.html",
+            "accessed_utc": "2026-09-12T16:21:20.654576+00:00",
+            "sha256": "ce866948108e98071bf6d88c8af102a34a5d1c4fbc11a8860f73cfc15ffcdd77",
+            "bytes": 470
+          }
+        },
+        {
+          "source": "dhatu-mA1257.html",
+          "anchor": "तर्ज भर्त्स सन्तर्जने",
+          "role": "The two descriptive verbs share the santarjana gloss; their different word identities remain separate.",
+          "record": {
+            "filename": "dhatu-mA1257.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1257.html",
+            "accessed_utc": "2026-09-12T16:21:19.705129+00:00",
+            "sha256": "1392b7c8500de4f339dc22a06667320b3fe7359f755ff6dbd6bce43a38e7357f",
+            "bytes": 711
+          }
+        },
+        {
+          "source": "dhatu-mA433.html",
+          "anchor": "झर्झ परिभाषण,हिंसा,तर्जनेषु",
+          "role": "Harming remains an independently listed assignment and is not swallowed by this merger.",
+          "record": {
+            "filename": "dhatu-mA433.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA433.html",
+            "accessed_utc": "2026-09-12T15:42:26.751279+00:00",
+            "sha256": "139d33282325ffc67474a6372e51d61e3b81ac72ed7ad6d828ee2ac605794427",
+            "bytes": 1083
+          }
+        }
+      ],
+      "original_rows": [
+        {
+          "source_code": "01.0815",
+          "meaning_id": "meaning-6c1cf9a54ef6",
+          "provisional_word_id": "01.0815",
+          "gana": "1",
+          "citation_slp1": "JarJa~",
+          "meaning_slp1": "pariBAzaRe",
+          "meaning_display": "परिभाषणे (paribhāṣaṇe)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "pariBAzaRahiMsAtarjanezu",
+          "source_line": "816",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "enumerated_glosses",
+          "count_key": "[\"01.0815\", \"meaning-6c1cf9a54ef6\"]",
+          "identity_batch_review_id": "IR14",
+          "normalized_citation_slp1": "JarJa~",
+          "normalized_meaning_slp1": "pariBAzaRe",
+          "normalized_count_key": "[\"01.0815\", \"meaning-6c1cf9a54ef6\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "01.0815",
+          "meaning_id": "meaning-3bf7963ee53c",
+          "provisional_word_id": "01.0815",
+          "gana": "1",
+          "citation_slp1": "JarJa~",
+          "meaning_slp1": "hiMsAyAm",
+          "meaning_display": "हिंसायाम् (hiṃsāyām)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "pariBAzaRahiMsAtarjanezu",
+          "source_line": "816",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "enumerated_glosses",
+          "count_key": "[\"01.0815\", \"meaning-3bf7963ee53c\"]",
+          "identity_batch_review_id": "IR14",
+          "normalized_citation_slp1": "JarJa~",
+          "normalized_meaning_slp1": "hiMsAyAm",
+          "normalized_count_key": "[\"01.0815\", \"meaning-3bf7963ee53c\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "01.0815",
+          "meaning_id": "meaning-0d928599a6f6",
+          "provisional_word_id": "01.0815",
+          "gana": "1",
+          "citation_slp1": "JarJa~",
+          "meaning_slp1": "tarjane",
+          "meaning_display": "तर्जने (tarjane)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "pariBAzaRahiMsAtarjanezu",
+          "source_line": "816",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "enumerated_glosses",
+          "count_key": "[\"01.0815\", \"meaning-0d928599a6f6\"]",
+          "identity_batch_review_id": "IR14",
+          "normalized_citation_slp1": "JarJa~",
+          "normalized_meaning_slp1": "tarjane",
+          "normalized_count_key": "[\"01.0815\", \"meaning-0d928599a6f6\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "06.0020",
+          "meaning_id": "meaning-6c1cf9a54ef6",
+          "provisional_word_id": "06.0020",
+          "gana": "6",
+          "citation_slp1": "JarJa~",
+          "meaning_slp1": "pariBAzaRe",
+          "meaning_display": "परिभाषणे (paribhāṣaṇe)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "pariBAzaRaBartsanayoH",
+          "source_line": "1491",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "enumerated_glosses",
+          "count_key": "[\"01.0815\", \"meaning-6c1cf9a54ef6\"]",
+          "identity_batch_review_id": "IR14",
+          "normalized_citation_slp1": "JarJa~",
+          "normalized_meaning_slp1": "pariBAzaRe",
+          "normalized_count_key": "[\"01.0815\", \"meaning-6c1cf9a54ef6\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        },
+        {
+          "source_code": "06.0020",
+          "meaning_id": "meaning-419b680bba71",
+          "provisional_word_id": "06.0020",
+          "gana": "6",
+          "citation_slp1": "JarJa~",
+          "meaning_slp1": "Bartsane",
+          "meaning_display": "भर्त्सने (bhartsane)",
+          "status": "source_assignment_pending_lexical_review",
+          "source_gloss_slp1": "pariBAzaRaBartsanayoH",
+          "source_line": "1491",
+          "source_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "meaning_evidence": "",
+          "cross_reference_evidence": "",
+          "entry_completeness": "enumerated_glosses",
+          "count_key": "[\"06.0020\", \"meaning-419b680bba71\"]",
+          "identity_batch_review_id": "IR14",
+          "normalized_citation_slp1": "JarJa~",
+          "normalized_meaning_slp1": "Bartsane",
+          "normalized_count_key": "[\"06.0020\", \"meaning-419b680bba71\"]",
+          "record_kind": "lexical",
+          "reconciliation_id": ""
+        }
+      ],
+      "delta": -1
+    }
+  ],
+  "proposed_delta": -4,
+  "proposed_subtotal": 2645,
+  "vocabulary_total": null,
+  "archive_records": 949,
+  "followup_coverage": {
+    "historical_records": 84,
+    "records_revisited": 19,
+    "not_revisited": 65,
+    "next_unreviewed_ids": [
+      "IR16",
+      "IR18",
+      "IR19",
+      "IR20",
+      "IR21",
+      "IR25",
+      "IR26",
+      "IR28",
+      "IR29",
+      "IR31"
+    ]
+  },
+  "inputs": {
+    "analysis/generativity/reconciliation_review_01.json": "5d31c2e90937fe5528d94ab37516ff4c1c6c19242cdaab20bcf6a75a1279378c",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/results/base_meanings.json": "30172ba60026a93745e1cf51e0c49bdb71ef0c2bc0f0955d3e7ad61c612f9fd4",
+    "analysis/generativity/results/base_meaning_assignments.csv": "4ee3401c434004984c9e4469566519c104190cd00a12dcdc924550fd1fb651be",
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "approved_reconciliation": "7bede88557c33c1d5bf17c76b0a832ccda7a8712ba5b278e1bb72e0deeca709c",
+    "followup_review": "66ca8cc84652986832429261451117774ac140dae5164d9550084948d525b4d5"
+  }
+}

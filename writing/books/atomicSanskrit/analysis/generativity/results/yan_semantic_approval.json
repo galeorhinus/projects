@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-13",
+  "status": "five_semantic_decisions_approved_movement_queue_reviewed",
+  "approved_proposal_ids": [
+    "YAN-P1",
+    "YAN-P2",
+    "YAN-P3",
+    "YAN-P4",
+    "YAN-P5"
+  ],
+  "movement_queue": {
+    "unique_base_meanings_reviewed": 312,
+    "classification_counts": {
+      "direct_movement": 289,
+      "not_movement": 23
+    },
+    "source_meanings_by_classification": {
+      "direct_movement": [
+        "ASugamane",
+        "CadmagatO",
+        "aBigamane",
+        "agragamane",
+        "calane",
+        "gatO",
+        "gatyAm",
+        "kiYciccalane",
+        "kutsite gamane",
+        "mandAyAM gatO",
+        "nIcErgatO",
+        "plavagatO",
+        "plavane",
+        "plutagatO",
+        "prApaRe",
+        "saYcalane",
+        "saYcaraRe",
+        "vihAyasA gatO"
+      ],
+      "not_movement": [
+        "ADyAne",
+        "avagamane",
+        "dravIkaraRe",
+        "dravyavinimaye",
+        "gaticAturye",
+        "gatinivfttO",
+        "gatipratiGAte",
+        "gatitvaraRe",
+        "gativEkalye",
+        "gatyAkzepe",
+        "gatyAramBe",
+        "prAptO",
+        "praKyAne",
+        "saMstyAne",
+        "saNKyAne",
+        "saNgatikaraRe"
+      ]
+    },
+    "deferred_rows_remain_uncounted": true
+  },
+  "semantic_model": {
+    "3.1.22": [
+      "repetition",
+      "intensity"
+    ],
+    "3.1.23": [
+      "crooked movement"
+    ],
+    "3.1.24": [
+      "disparagement of the action"
+    ],
+    "yaNluk": "A separate derived verbal word inheriting its licensed yaN meaning; no additional meaning multiplier.",
+    "anabhidhana": "Established lexical exclusions override formal engine generation."
+  },
+  "count_status": {
+    "vocabulary_total": null,
+    "derived_word_meanings_admitted": 0,
+    "reason": "Rule 3.1.23 classification is complete for all 312 rows, but base-level lexical admission remains a separate step.",
+    "published_total_changed": false
+  },
+  "next_pass": "Apply the approved admission standard to the four verbal-base sanadi operations.",
+  "inputs": {
+    "analysis/generativity/approved_yan_semantics.json": "02adead94fdd7b17afed328546126b0c4b3107e766af608664d0377d3bb2ed51",
+    "analysis/generativity/results/yan_semantic_review.json": "1feb48ba1d2f6e1314ef2072e2d8a20869afb9b944652faa8b8f3b9061a0517f",
+    "analysis/generativity/results/yan_movement_candidates.csv": "248e90f1e82ad72183264c2221ffe7a0c5a105d490bf6db85b541eb094492a48",
+    "analysis/generativity/apply_yan_semantic_approvals.py": "448e5e1ae36ed61611c9c5167297a2d8e6c342915b7b57f0d102e5dfece6cd3b"
+  }
+}

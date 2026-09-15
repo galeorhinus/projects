@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "source_nominal_compounds": 96,
+  "operation_count": 10,
+  "eligible_relations": 958,
+  "eligible_by_operation": {
+    "state_tva": 96,
+    "state_tal": 96,
+    "possession_matup": 96,
+    "superlative_tamap": 96,
+    "comparative_tarap": 96,
+    "self_desire_kyac": 96,
+    "self_desire_kamyac": 96,
+    "object_comparison_kyac": 96,
+    "agent_comparison_kyang": 96,
+    "nan_privative": 94
+  },
+  "excluded_operation_relations": 172,
+  "excluded_by_reason": {
+    "recursive_nan": 2,
+    "complete_indeclinable": 170
+  },
+  "maximum_derivational_depth": 2,
+  "recursive_nan_admitted": false,
+  "recursive_compounding_admitted": false,
+  "inputs": {
+    "analysis/generativity/results/compound_stack_classification.json": "c8a644b4607f456f7221130a3044face6594ca6a4c5964189bb185ea70e37fee",
+    "analysis/generativity/results/compound_stack_classification.csv": "9d235b5f7d37233ae6ebc4ab33ba512d11ae0d837c750c55f7d8e5d13658101b",
+    "analysis/generativity/compound_stack_operations.json": "d8776e347ed581dbabb5389176517b763a849ec40b879138bc033f7aaff0e764"
+  }
+}

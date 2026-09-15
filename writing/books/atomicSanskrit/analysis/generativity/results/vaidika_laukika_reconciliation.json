@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-13",
+  "current_bounded_laukika_subtotal_after_known_restrictions": 2166061,
+  "vedic_only_base_and_ordinary_descendant_word_meanings": 8660,
+  "vaidika_specific_operation_word_meanings": 204738,
+  "bounded_vaidika_subtotal": 213398,
+  "combined_bounded_word_meaning_subtotal": 2379459,
+  "materialized_vaidika_ledger_counts": {
+    "vaidika_direct_ledger.csv": 5268,
+    "vaidika_conditioned_ledger.csv": 2637,
+    "vaidika_stacked_ledger.csv.gz": 196833
+  },
+  "unsupported_vaidika_semantic_candidates_not_counted": 5280,
+  "partition_policy": "The prior twelve-pass subtotal is split into the current bounded laukika subtotal and rows descending from bases explicitly documented as Vedic-only. Vaidika-specific operations are then added once. Alternative forms and accents remain attributes of one semantic row.",
+  "scope_limits": [
+    "The 2,623 bases without a restriction in cited evidence are not thereby proved exhaustively laukika.",
+    "Unsupported Vaidika suffix families contribute zero rather than being treated as prohibited.",
+    "Two-prefix, prefix-plus-sanadi, deeper stacking, nominal expansion, compounds, and inflection remain outside the Vaidika run.",
+    "The combined figure is a reproducible research subtotal, not a complete Sanskrit vocabulary total."
+  ],
+  "inputs": {
+    "analysis/generativity/results/domain_boundary_audit.json": "9f9820ac68066d8d1642b57dbc6eb5dd3166ad1e9fef032f87dd6c10eb58960d",
+    "analysis/generativity/results/vaidika_direct_summary.json": "fcbc1bddf14e1d5fcf05830bda270614465e1269dfc23b50ef842c5c25aa7202",
+    "analysis/generativity/results/vaidika_conditioned_summary.json": "b57e47b880de1dfc2af3529bc489e41a226a0879f98d31b0614e4dc8c82f325d",
+    "analysis/generativity/results/vaidika_stacked_summary.json": "75e04d145bf8251c36e11ce40510604baea5158512310321ddea60993be7a910",
+    "analysis/generativity/results/vaidika_direct_ledger.csv": "715c3776f86757109d9fffdde7cca26e8db1a83a8b9a3d06253db2d7e47d4d39",
+    "analysis/generativity/results/vaidika_conditioned_ledger.csv": "3afca4205ffa05f4643962915d28f8ce9ffc890957af1bba48ed1747bebd3ce1",
+    "analysis/generativity/results/vaidika_stacked_ledger.csv.gz": "49571730e0f198c06d5fb27fe76351ef2fd143b55381658899cad04c6f1c5a40",
+    "analysis/generativity/build_vaidika_reconciliation.py": "bb75adffbb026e58f81ffe687e960da7b30132d440db4945014a3458c371e6dc"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-13",
+  "approval_basis": "Author message: approved",
+  "approved_proposal_ids": [
+    "YAN-P1",
+    "YAN-P2",
+    "YAN-P3",
+    "YAN-P4",
+    "YAN-P5"
+  ],
+  "decisions": [
+    {
+      "id": "YAN-P1",
+      "decision": "Treat repetition and intensity as different meanings under general 3.1.22 eligibility; base-level lexical eligibility remains required."
+    },
+    {
+      "id": "YAN-P2",
+      "decision": "For movement-denoting meanings governed by 3.1.23, use crooked movement instead of the two general 3.1.22 meanings."
+    },
+    {
+      "id": "YAN-P3",
+      "decision": "For meanings governed by 3.1.24, use disparagement of the action instead of the two general 3.1.22 meanings."
+    },
+    {
+      "id": "YAN-P4",
+      "decision": "Apply established anabhidhana exclusions before admitting a derived word-meaning."
+    },
+    {
+      "id": "YAN-P5",
+      "decision": "Treat a licensed yaN-luk formation as a separate derived verbal word that inherits the corresponding yaN meaning; luk supplies no additional meaning multiplier."
+    }
+  ]
+}

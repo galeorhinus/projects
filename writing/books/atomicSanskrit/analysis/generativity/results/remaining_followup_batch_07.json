@@ -1,0 +1,312 @@
+{
+  "date": "2026-09-13",
+  "baseline": 2645,
+  "status": "proposals_not_applied",
+  "cases": [
+    {
+      "id": "IR216",
+      "status": "defer_reading",
+      "decision": "Keep the two assignments provisional rather than merging them. The direct fourth-class witness gives capability, not the pinned satisfaction heading. The curadi commentary independently illustrates enduring humiliation, supporting its marshana meaning.",
+      "remaining": "Defer the fourth-class satisfaction locator. A capability witness must not silently replace the pinned gloss or be equated with endurance.",
+      "evidence": [
+        {
+          "source": "dhatu-XA812.html",
+          "anchor": "षह षुह शक्यार्थे",
+          "role": "Fourth-class witness disagrees with the pinned meaning.",
+          "record": {
+            "filename": "dhatu-XA812.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA812.html",
+            "accessed_utc": "2026-09-12T16:20:44.955350+00:00",
+            "sha256": "507bbe04f4288f9e0a2f4991fd117da82e556772601bf3cfe53edcdffd40d9e0",
+            "bytes": 857
+          }
+        },
+        {
+          "source": "dhatu-kRi1346.html",
+          "anchor": "सहति कलभेभ्यः परिभवम्",
+          "role": "Concrete enduring example in the curadi discussion.",
+          "record": {
+            "filename": "dhatu-kRi1346.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1346.html",
+            "accessed_utc": "2026-09-13T04:04:27.323195+00:00",
+            "sha256": "e945f616f282ee6f4aa67994e2809c7d1be0e4d8cfa880d663dd20d335bcc147",
+            "bytes": 561
+          }
+        }
+      ],
+      "batch": 7,
+      "label": "सह् (sah)",
+      "entries": {
+        "04.0023": [
+          "tfptO"
+        ],
+        "10.0341": [
+          "marzaRe"
+        ]
+      },
+      "before": "Retain the pinned satisfaction and forbearance meanings; do not equate them on the strength of sah alone.",
+      "original_followup": "The retrieved fourth-class source gives capability, not the pinned satisfaction gloss. Locate that reading before a finer sense count.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR217",
+      "status": "defer_identity",
+      "decision": "Retain the two movement assignments provisionally. The archived commentaries confirm a sal/movement entry but do not independently locate both marked salr occurrences and explain their repetition.",
+      "remaining": "Defer the two-location edition check. Repetition of the same gloss is a duplicate candidate, not by itself a completed identity decision.",
+      "evidence": [
+        {
+          "source": "dhatu-mA335.html",
+          "anchor": "षल गतौ",
+          "role": "One movement heading.",
+          "record": {
+            "filename": "dhatu-mA335.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA335.html",
+            "accessed_utc": "2026-09-12T16:21:36.991968+00:00",
+            "sha256": "831716c920ea5d911d3551b03f4572b40bbcbbcea3c894b7c44b78f4982d1e22",
+            "bytes": 594
+          }
+        },
+        {
+          "source": "dhatu-kRi351.html",
+          "anchor": "सल गतौ",
+          "role": "Independent witness of that heading, not both numbered occurrences.",
+          "record": {
+            "filename": "dhatu-kRi351.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi351.html",
+            "accessed_utc": "2026-09-12T16:20:55.995081+00:00",
+            "sha256": "88d4f9c3c0e765efc404e1aabf3e2bfb7cd49f49f237fc5e887f3250d25baf60",
+            "bytes": 396
+          }
+        }
+      ],
+      "batch": 7,
+      "label": "सल् (sal)",
+      "entries": {
+        "01.0253": [
+          "gatO"
+        ],
+        "01.0759": [
+          "gatO"
+        ]
+      },
+      "before": "Both pinned listings give movement. The retrieved sources document sal without establishing the relationship between the two salr locations.",
+      "original_followup": "Locate both marked salr listings and their reason for repetition.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR219",
+      "status": "propose_merge",
+      "decision": "Merge the corresponding permission and sovereignty assignments across the two short-vowel entries. Kshiratarangini links the classes in both directions under the same two-meaning heading; Madhaviya explicitly explains prasava as permission in both. Keep the two meanings distinct from one another and from pressing or childbirth.",
+      "remaining": "Approve the two-unit reduction. Preserve the forms and grammatical restrictions from both classes; this does not merge the separate short-vowel pressing or long-vowel birth atoms.",
+      "proposed_merges": [
+        [
+          [
+            "01.1091",
+            "prasave"
+          ],
+          [
+            "02.0036",
+            "prasave"
+          ]
+        ],
+        [
+          [
+            "01.1091",
+            "ESvarye"
+          ],
+          [
+            "02.0036",
+            "ESvarye"
+          ]
+        ]
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-kRi624.html",
+          "anchor": "अदादौ (234) सौति",
+          "role": "Forward link under the shared two-meaning heading.",
+          "record": {
+            "filename": "dhatu-kRi624.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi624.html",
+            "accessed_utc": "2026-09-13T04:04:28.100324+00:00",
+            "sha256": "473149f026d1ebbf045bed62015f9a473f6f8c2660cc344e2fff9c6855083379",
+            "bytes": 606
+          }
+        },
+        {
+          "source": "dhatu-kRi713.html",
+          "anchor": "भ्वादौ (1672) सवति",
+          "role": "Reciprocal link.",
+          "record": {
+            "filename": "dhatu-kRi713.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi713.html",
+            "accessed_utc": "2026-09-13T04:04:28.536063+00:00",
+            "sha256": "90d67e6ba8f8fe0b675a29ec052f9464cb694de046916aa205d060b0c0a0bf4a",
+            "bytes": 743
+          }
+        },
+        {
+          "source": "dhatu-mA599.html",
+          "anchor": "प्रसवोऽभ्यनुज्ञा",
+          "role": "Permission explicitly defined in the first class.",
+          "record": {
+            "filename": "dhatu-mA599.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA599.html",
+            "accessed_utc": "2026-09-12T16:21:46.669982+00:00",
+            "sha256": "55a9f63bbefa1e9346a1497a6929fc030b2a8c6a4a6f5a8997e245f63a93895d",
+            "bytes": 4046
+          }
+        },
+        {
+          "source": "dhatu-mA691.html",
+          "anchor": "प्रसवोऽभ्यनुज्ञानमिति",
+          "role": "Same definition in the second class.",
+          "record": {
+            "filename": "dhatu-mA691.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA691.html",
+            "accessed_utc": "2026-09-12T16:21:49.870015+00:00",
+            "sha256": "128837d41b5f7462a9444d0a6acdb0dbb7e406219cb50ba318a682791a16a6de",
+            "bytes": 1359
+          }
+        }
+      ],
+      "batch": 7,
+      "label": "सु (su)",
+      "entries": {
+        "01.1091": [
+          "prasave",
+          "ESvarye"
+        ],
+        "02.0036": [
+          "prasave",
+          "ESvarye"
+        ]
+      },
+      "before": "Both headings give permission and lordship, but the discussion distinguishes several su words for grammatical rules. Keep the two pairs pending an explicit identity check.",
+      "original_followup": "Establish the shared word identity of these two short-vowel listings without confusing them with pressing or giving birth.",
+      "before_count": 4,
+      "proposed_count": 2,
+      "delta": -2
+    },
+    {
+      "id": "IR220",
+      "status": "defer_formation",
+      "decision": "Keep the completed within-headword merger for long stup. Its explicit curadi cross-reference remains valid; the alternative short vowel is a separate cross-spelling question, not grounds to reverse this decision.",
+      "remaining": "Move the short/long-vowel identity question to the cross-spelling stage alongside IR221. No additional within-headword search is needed.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi891.html",
+          "anchor": "चुरादौ (1122) स्तूपयति",
+          "role": "Direct long-vowel cross-class link.",
+          "record": {
+            "filename": "dhatu-kRi891.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi891.html",
+            "accessed_utc": "2026-09-12T16:21:00.180803+00:00",
+            "sha256": "1cd8ba52606b34c19870e9dccc23cdd7bf615f7a83313b39405b269790492005",
+            "bytes": 629
+          }
+        },
+        {
+          "source": "dhatu-mA1249.html",
+          "anchor": "ष्टूप समुच्छ्राये",
+          "role": "Long-vowel curadi heading.",
+          "record": {
+            "filename": "dhatu-mA1249.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1249.html",
+            "accessed_utc": "2026-09-12T16:21:18.864556+00:00",
+            "sha256": "21fc0af4876c753464b56e5abaf9a3bc1e275b2d04e67ed34f3acfc706f7e577",
+            "bytes": 417
+          }
+        }
+      ],
+      "batch": 7,
+      "label": "स्तूप् (stūp)",
+      "entries": {
+        "04.0152": [
+          "samucCrAye"
+        ],
+        "10.0191": [
+          "samucCrAye"
+        ]
+      },
+      "before": "Count raising once for the long-vowel word across the fourth and tenth classes. The commentary explicitly connects them.",
+      "original_followup": "Preserve the short-vowel alternative separately; this decision does not merge IR220 with IR221.",
+      "before_count": 1,
+      "proposed_count": 1,
+      "delta": 0
+    },
+    {
+      "id": "IR221",
+      "status": "defer_formation",
+      "decision": "Keep the completed within-headword merger for short stup. The curadi witness supplies the explicit divadi cross-reference. Whether the short- and long-vowel headwords are themselves one word remains outside this exact-headword sweep.",
+      "remaining": "Handle the shared vowel-identity question once, with IR220, during cross-spelling normalization. Do not count this deferral as two independent research problems.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1268.html",
+          "anchor": "स्तुप समुच्छ्राये",
+          "role": "Short-vowel curadi heading.",
+          "record": {
+            "filename": "dhatu-kRi1268.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1268.html",
+            "accessed_utc": "2026-09-12T16:20:50.969499+00:00",
+            "sha256": "e766b48959c2bad7d8a111d8a9fdc7717f26bdaaec790de21d4a4db4e95b23a0",
+            "bytes": 761
+          }
+        },
+        {
+          "source": "dhatu-kRi1268.html",
+          "anchor": "दिवादौ (4125) स्तूप्यति",
+          "role": "Explicit cross-class link.",
+          "record": {
+            "filename": "dhatu-kRi1268.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1268.html",
+            "accessed_utc": "2026-09-12T16:20:50.969499+00:00",
+            "sha256": "e766b48959c2bad7d8a111d8a9fdc7717f26bdaaec790de21d4a4db4e95b23a0",
+            "bytes": 761
+          }
+        }
+      ],
+      "batch": 7,
+      "label": "स्तुप् (stup)",
+      "entries": {
+        "04.0151": [
+          "samucCrAye"
+        ],
+        "10.0190": [
+          "samucCrAye"
+        ]
+      },
+      "before": "Count raising once for the short-vowel word across the fourth and tenth classes. The commentary explicitly connects them.",
+      "original_followup": "Keep the short/long-vowel word-identity question separate from this within-word cross-class merger.",
+      "before_count": 1,
+      "proposed_count": 1,
+      "delta": 0
+    }
+  ],
+  "queued_records": 65,
+  "reviewed_records": 65,
+  "complete": true,
+  "proposed_delta": -11,
+  "archive_records": 949,
+  "vocabulary_total": null,
+  "inputs": {
+    "analysis/generativity/reconciliation_review_01.json": "5d31c2e90937fe5528d94ab37516ff4c1c6c19242cdaab20bcf6a75a1279378c",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/results/base_meanings.json": "30172ba60026a93745e1cf51e0c49bdb71ef0c2bc0f0955d3e7ad61c612f9fd4",
+    "analysis/generativity/results/base_meaning_assignments.csv": "4ee3401c434004984c9e4469566519c104190cd00a12dcdc924550fd1fb651be",
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "approved_reconciliation": "7bede88557c33c1d5bf17c76b0a832ccda7a8712ba5b278e1bb72e0deeca709c",
+    "followup_review": "66ca8cc84652986832429261451117774ac140dae5164d9550084948d525b4d5",
+    "approval_02": "0ea974881ec6246a5218137dc6e608abaf78905bda2281932a93f95032f7e765",
+    "remaining_review": "6a579463200fa14b59331845dc8bd262c1ca3b945429edc9c5d690f900a1d55e",
+    "source_manifest": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24"
+  },
+  "scope": "batch",
+  "batch": 7,
+  "batch_reviewed_records": 5
+}

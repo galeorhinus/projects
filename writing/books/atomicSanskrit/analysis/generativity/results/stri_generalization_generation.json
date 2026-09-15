@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-14",
+  "eligible_candidates": 140568,
+  "engine_verified_relations": 140568,
+  "engine_zero_or_no_stri_suffix_relations": 0,
+  "generated_by_source_operation": {
+    "agent_ac": 2001,
+    "agent_nvul": 67972,
+    "agent_trc": 67972,
+    "blessed_agent_vun": 2623
+  },
+  "applied_stri_suffix_counts": {
+    "NIp": 67972,
+    "wAp": 72596
+  },
+  "applied_rule_counts": {
+    "4.1.4": 72596,
+    "4.1.5": 67972
+  },
+  "cached_source_constructions": 112908,
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0"
+  },
+  "inputs": {
+    "analysis/generativity/results/stri_generalization_eligibility.csv.gz": "92327227892ca9f49ea589c664ed227ac3b396e8f2b99f996ffddcc7906dadb1",
+    "analysis/generativity/upasarga_inventory.csv": "cf3e86d1d8e7ebc6613130b99a11c1d0da4a943093cbbbc72667e08004a82c04",
+    "working/40_reference/sources/archive/documents/generativity-pilot/stri_manifest.json": "c0eeda2e9fb0321fe534afee6993724afc20c2be1ffdb14473230324841b2a69",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_stri_generalization_ledger.py": "e2479a88c0a39832f2c75fea40afbb8aa9c5e96858077e2d455c261a0e29c1b4"
+  },
+  "publication_status": "research_generation_only_not_deployed"
+}

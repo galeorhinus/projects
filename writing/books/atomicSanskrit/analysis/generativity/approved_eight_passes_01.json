@@ -1,0 +1,7 @@
+{
+  "date": "2026-09-13",
+  "authorization": "Author approved all ten count-changing records from the eight-pass review.",
+  "baseline": 2645,
+  "expected_after": 2634,
+  "cases": ["IR43", "IR51", "IR68", "IR72", "IR116", "IR118", "IR131", "IR160", "IR166", "IR219"]
+}

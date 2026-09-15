@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 6,
+  "laukika_name_word_meanings": 8084287,
+  "complete_unchanging_meanings_excluded": 7925,
+  "citation_semantic_cells": 8084287,
+  "relation_coordinates": 8,
+  "number_coordinates": 3,
+  "sample_citation_cells_regenerated": 8,
+  "expected_citation_forms_recovered": 8,
+  "gender_multiplier_applied": false,
+  "citation_cells_added_to_lexical_subtotal": false,
+  "former_reader_graph_residual": 8591,
+  "remaining_passes": 6,
+  "inputs": {
+    "analysis/generativity/results/subanta_word_class_reconciliation.json": "af5a1f33a4895a9c38588c0543385a8e44c8aedf4125be6c9bc992699d265d89",
+    "analysis/generativity/results/subanta_nominal_inventory.json": "ec0421aa684eede4c175f60d9c16a7c902162f4a7764382396c45d5d0bc4f4c7",
+    "analysis/generativity/results/subanta_coordinate_classification.json": "8c1debd74a8a646d2b45348014fa9aede061e8139777c22c6c0691a1c8e79a85",
+    "analysis/generativity/results/subanta_citation_capacity.json": "20ac1500bc92393f9bb23c6dba2dfaec8c6c3b9a3e58d04f1ea1e0ad67b53fe5",
+    "analysis/generativity/results/subanta_citation_sample.json": "a2457caf7f62a71fa073b7f804ac92ba2421972cc482a8ffb8719ea9416a664e"
+  }
+}

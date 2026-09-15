@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-13",
+  "scope": "General laukika indeclinable krt operations applied directly to the reconciled original dhatu meanings.",
+  "operations": [
+    {
+      "operation_id": "purpose_tumun",
+      "source_variant": "tumun",
+      "display": "तुमुन् (tumun), intended or purposeful action",
+      "semantic_branch_id": "purpose",
+      "semantic_relation": "the base action is intended or undertaken for the purpose of another action",
+      "rule_refs": ["3.3.10"]
+    },
+    {
+      "operation_id": "prior_action_ktva",
+      "source_variant": "ktvA",
+      "display": "क्त्वा (ktvā), prior action by the same agent",
+      "semantic_branch_id": "prior_action",
+      "semantic_relation": "the same agent completes the base action before performing another action",
+      "rule_refs": ["3.4.21"]
+    },
+    {
+      "operation_id": "repeated_prior_action_namul",
+      "source_variant": "Ramul",
+      "display": "णमुल् (ṇamul), repeated prior action",
+      "semantic_branch_id": "repeated_action",
+      "semantic_relation": "the same agent repeatedly performs the base action before or while proceeding to another action",
+      "rule_refs": ["3.4.22"]
+    }
+  ],
+  "deferred_or_excluded": [
+    {
+      "source_variant": "kamul",
+      "status": "vedic_only_deferred",
+      "reason": "Rule 3.4.12 continues the chandasi condition and licenses kamul in the tumun sense with sak as the accompanying verb."
+    },
+    {
+      "source_variant": "kase",
+      "status": "vedic_only_engine_unsupported",
+      "reason": "Rule 3.4.9 licenses the form only in the Vedic domain; Vidyut 0.4.0 exposes the identifier but its ordinary derivation path supplies no output."
+    },
+    {
+      "source_variant": "kasen",
+      "status": "vedic_only_near_duplicate_engine_unsupported",
+      "reason": "Rule 3.4.9 licenses the form only in the Vedic domain, and the pinned engine marks it as differing from kase only in accent while supplying no ordinary derivation output."
+    }
+  ]
+}

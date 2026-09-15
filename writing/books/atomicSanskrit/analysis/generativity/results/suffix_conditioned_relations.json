@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-13",
+  "eligible_relations": 24,
+  "semantic_families": 3,
+  "suffix_identifiers": 4,
+  "by_family": {
+    "devata_relation": 12,
+    "crop_field_relation": 10,
+    "purchase_measure_relation": 2
+  },
+  "by_visible_suffix": {
+    "Iya": 6,
+    "ya": 11,
+    "Ina": 5,
+    "ka": 2
+  },
+  "inputs": {
+    "analysis/generativity/suffix_conditioned_operations.json": "6f38a94ec2e6d9e65787b02895202fc8b72ac638b067c160d987ce912e86f51e",
+    "analysis/generativity/results/suffix_productivity_classification.csv": "1981af0a8e7ae94b44bf71a947a9d5cff2109b857f12f3517bb486d793d0ba2f",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_4_2.rs": "da9ab407fbc791fc4e83b1768c93cf473a3d177cecc43197165d59b1fbd4eb9d",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_5_1.rs": "408d070d0660e79855472d583db5c44c412090ab60fc089297b0c1d45ef7af75",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_5_2.rs": "9c00b4ba577f0ccda278dea231425937e0d7a296a7f76d19663854be635a00bb",
+    "analysis/generativity/extract_suffix_conditioned_relations.py": "3fe66c544555ad0c8bc94e495cabac0ba387ef898bf23bb644b9bd22d75bab9c"
+  },
+  "publication_status": "research_inventory_only_not_deployed"
+}

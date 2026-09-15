@@ -1,0 +1,3050 @@
+{
+  "scope": "A selected word-and-meaning sample for review, not a complete vocabulary or affix enumeration.",
+  "unit": "word identity plus specified lexical meaning",
+  "selected_entries_by_stage": {
+    "verbal": 13,
+    "nominal": 12,
+    "indeclinable": 3
+  },
+  "sanskrit_vocabulary_total": null,
+  "author_review_pending": false,
+  "author_review_date": "2026-09-12",
+  "inputs": {
+    "analysis/generativity/semantic_sample.json": "78cc48bd818f16bc265c027725f2c6d6550675bc83298270e5125e33998f7d80",
+    "analysis/generativity/build_semantic_sample.py": "075574ddda8b1a6010454b01451047a2464cc56299f36eb48a1c6f6123ad52fe",
+    "analysis/generativity/run_pilot.py": "3f82d96451e02338afde2e897c80e78052e1bb55d3b07aa48cd3658976e19d1a",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24"
+  },
+  "entries": [
+    {
+      "word_id": "pa-drink",
+      "sense_id": "drink",
+      "stage": "verbal",
+      "base": "pA",
+      "meaning": "drink",
+      "operation": "Unmodified base",
+      "request": {
+        "dhatu": "01.1074"
+      },
+      "expected": [
+        "pA"
+      ],
+      "evidence": "source_meaning",
+      "rules": [],
+      "source_locator": "dhatupatha.tsv 01.1074: pane",
+      "actual": [
+        "pA"
+      ],
+      "display": "पा (*pā*)",
+      "source_entry": {
+        "code": "01.1074",
+        "citation": "pA\\",
+        "meaning_slp1": "pAne"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "pA",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        }
+      ]
+    },
+    {
+      "word_id": "pa-protect",
+      "sense_id": "protect",
+      "stage": "verbal",
+      "base": "pA",
+      "meaning": "protect",
+      "operation": "Unmodified base",
+      "request": {
+        "dhatu": "02.0051"
+      },
+      "expected": [
+        "pA"
+      ],
+      "evidence": "source_meaning",
+      "rules": [],
+      "source_locator": "dhatupatha.tsv 02.0051: raksane",
+      "actual": [
+        "pA"
+      ],
+      "display": "पा (*pā*)",
+      "source_entry": {
+        "code": "02.0051",
+        "citation": "pA\\",
+        "meaning_slp1": "rakzaRe"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "pA",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        }
+      ]
+    },
+    {
+      "word_id": "rc",
+      "sense_id": "praise",
+      "stage": "verbal",
+      "base": "fc",
+      "meaning": "praise",
+      "operation": "Unmodified base",
+      "request": {
+        "dhatu": "06.0022"
+      },
+      "expected": [
+        "fc"
+      ],
+      "evidence": "source_meaning",
+      "rules": [],
+      "source_locator": "dhatupatha.tsv 06.0022: stutau",
+      "actual": [
+        "fc"
+      ],
+      "display": "ऋच् (*ṛc*)",
+      "source_entry": {
+        "code": "06.0022",
+        "citation": "fca~",
+        "meaning_slp1": "stutO dIptO ca"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "fc",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        }
+      ]
+    },
+    {
+      "word_id": "rc",
+      "sense_id": "shine",
+      "stage": "verbal",
+      "base": "fc",
+      "meaning": "shine",
+      "operation": "Unmodified base",
+      "request": {
+        "dhatu": "06.0022"
+      },
+      "expected": [
+        "fc"
+      ],
+      "evidence": "source_meaning",
+      "rules": [],
+      "source_locator": "dhatupatha.tsv 06.0022: diptau",
+      "actual": [
+        "fc"
+      ],
+      "display": "ऋच् (*ṛc*)",
+      "source_entry": {
+        "code": "06.0022",
+        "citation": "fca~",
+        "meaning_slp1": "stutO dIptO ca"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "fc",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        }
+      ]
+    },
+    {
+      "word_id": "gam",
+      "sense_id": "go",
+      "stage": "verbal",
+      "base": "gam",
+      "meaning": "go",
+      "operation": "Unmodified base",
+      "request": {
+        "dhatu": "01.1137"
+      },
+      "expected": [
+        "gam"
+      ],
+      "evidence": "source_meaning",
+      "rules": [],
+      "source_locator": "dhatupatha.tsv 01.1137: gatau",
+      "actual": [
+        "gam"
+      ],
+      "display": "गम् (*gam*)",
+      "source_entry": {
+        "code": "01.1137",
+        "citation": "ga\\mx~",
+        "meaning_slp1": "gatO"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "gam",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "DAtupAWaH",
+              "code": "01.0934"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        }
+      ]
+    },
+    {
+      "word_id": "kr",
+      "sense_id": "do",
+      "stage": "verbal",
+      "base": "kf",
+      "meaning": "do or make",
+      "operation": "Unmodified base",
+      "request": {
+        "dhatu": "08.0010"
+      },
+      "expected": [
+        "kf"
+      ],
+      "evidence": "source_meaning",
+      "rules": [],
+      "source_locator": "dhatupatha.tsv 08.0010: karane; do/make is one broad reading here",
+      "actual": [
+        "kf"
+      ],
+      "display": "कृ (*kṛ*)",
+      "source_entry": {
+        "code": "08.0010",
+        "citation": "qukf\\Y",
+        "meaning_slp1": "karaRe"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "kf",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        }
+      ]
+    },
+    {
+      "word_id": "agam",
+      "sense_id": "come",
+      "stage": "verbal",
+      "base": "gam",
+      "meaning": "come",
+      "operation": "Prefix a",
+      "request": {
+        "dhatu": "01.1137",
+        "prefixes": [
+          "AN"
+        ]
+      },
+      "expected": [
+        "Agam"
+      ],
+      "evidence": "rule_application",
+      "rules": [
+        "1.4.59"
+      ],
+      "source_locator": "Selected contextual reading; 1.4.59 classifies prefixes but does not itself define this meaning",
+      "actual": [
+        "Agam"
+      ],
+      "display": "आगम् (*āgam*)",
+      "source_entry": {
+        "code": "01.1137",
+        "citation": "ga\\mx~",
+        "meaning_slp1": "gatO"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "Agam",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.58"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.59"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.60"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.80"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "DAtupAWaH",
+              "code": "01.0934"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.45"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.73"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.43"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.37"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.14"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-1.4.59.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.59.htm",
+          "sha256": "77d6ed0305efb66a3bccc702778b76ed73c84190205564295ad83d86a231de42"
+        }
+      ]
+    },
+    {
+      "word_id": "kr-causative",
+      "sense_id": "cause-to-do",
+      "stage": "verbal",
+      "base": "kf",
+      "meaning": "cause someone to do",
+      "operation": "Causative nic",
+      "request": {
+        "dhatu": "08.0010",
+        "sanadi": "Ric"
+      },
+      "expected": [
+        "kAri"
+      ],
+      "illustration": "kArayati",
+      "evidence": "source_example",
+      "rules": [
+        "3.1.26"
+      ],
+      "source_locator": "Kashika: katam karayati",
+      "actual": [
+        "kAri"
+      ],
+      "display": "कारयति (*kārayati*)",
+      "source_entry": {
+        "code": "08.0010",
+        "citation": "qukf\\Y",
+        "meaning_slp1": "karaRe"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "kAri",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.26"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.32"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.7"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.74"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.2.115"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            }
+          ]
+        },
+        {
+          "text": "kAri",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.26"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.32"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.7"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.2.115"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.1.26.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.26.htm",
+          "sha256": "8944ff6d15ad0a8f69392cc2833a0320bd5a0b3f8af543d6e1c0ec404970fbd7"
+        }
+      ]
+    },
+    {
+      "word_id": "kr-desiderative",
+      "sense_id": "want-to-do",
+      "stage": "verbal",
+      "base": "kf",
+      "meaning": "want to do",
+      "operation": "Desiderative san",
+      "request": {
+        "dhatu": "08.0010",
+        "sanadi": "san"
+      },
+      "expected": [
+        "cikIrza"
+      ],
+      "illustration": "cikIrzati",
+      "evidence": "source_example",
+      "rules": [
+        "3.1.7"
+      ],
+      "source_locator": "Kashika: kartum icchati; cikirsati",
+      "actual": [
+        "cikIrza"
+      ],
+      "display": "चिकीर्षति (*cikīrṣati*)",
+      "source_entry": {
+        "code": "08.0010",
+        "citation": "qukf\\Y",
+        "meaning_slp1": "karaRe"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "cikIrza",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.7"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.32"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.72"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.2.12"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.4.16"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.1.100"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.4"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.4.60"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.4.62"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.10"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.2.77"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.3.59"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        },
+        {
+          "text": "cikIrza",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.7"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.32"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.2.12"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.4.16"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.1.100"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.4"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.4.60"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.4.62"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.10"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.2.77"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.3.59"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.1.7.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.7.htm",
+          "sha256": "c16d91d965acb06d3374a422abf77725b3d8e824bff7ed46a90716a79827598d"
+        }
+      ]
+    },
+    {
+      "word_id": "pac-intensive",
+      "sense_id": "cook-repeatedly",
+      "stage": "verbal",
+      "base": "pac",
+      "meaning": "cook repeatedly",
+      "operation": "Intensive yang: repetition",
+      "request": {
+        "dhatu": "01.1151",
+        "sanadi": "yaN"
+      },
+      "expected": [
+        "pApacya"
+      ],
+      "illustration": "pApacyate",
+      "evidence": "source_example",
+      "rules": [
+        "3.1.22"
+      ],
+      "source_locator": "Kashika: punah punah pacati; papacyate",
+      "actual": [
+        "pApacya"
+      ],
+      "display": "पापच्यते (*pāpacyate*)",
+      "source_entry": {
+        "code": "01.1151",
+        "citation": "qupa\\ca~^z",
+        "meaning_slp1": "pAke"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "pApacya",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.22"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.32"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.12"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.4"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.4.60"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.4.83"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.1.22.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.22.htm",
+          "sha256": "1ce33d5144eb706d3ad1e005847a0667b4f10bb4b8d3314a30d978eb59e7bbad"
+        }
+      ]
+    },
+    {
+      "word_id": "pac-intensive",
+      "sense_id": "cook-intensely",
+      "stage": "verbal",
+      "base": "pac",
+      "meaning": "cook intensely",
+      "operation": "Intensive yang: intensity",
+      "request": {
+        "dhatu": "01.1151",
+        "sanadi": "yaN"
+      },
+      "expected": [
+        "pApacya"
+      ],
+      "illustration": "pApacyate",
+      "evidence": "rule_application",
+      "rules": [
+        "3.1.22"
+      ],
+      "source_locator": "General bhrsartha alternative applied to pac; the exact pac example on this page illustrates repetition",
+      "actual": [
+        "pApacya"
+      ],
+      "display": "पापच्यते (*pāpacyate*)",
+      "source_entry": {
+        "code": "01.1151",
+        "citation": "qupa\\ca~^z",
+        "meaning_slp1": "pAke"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "pApacya",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.22"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.32"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.12"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.4"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.4.60"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.4.83"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.1.22.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.22.htm",
+          "sha256": "1ce33d5144eb706d3ad1e005847a0667b4f10bb4b8d3314a30d978eb59e7bbad"
+        }
+      ]
+    },
+    {
+      "word_id": "putriya",
+      "sense_id": "desire-son",
+      "stage": "verbal",
+      "base": "putra",
+      "meaning": "desire a son for oneself",
+      "operation": "Noun-derived verb: kyac",
+      "request": {
+        "nominal": "putra",
+        "nama_sanadi": "kyac"
+      },
+      "expected": [
+        "putrIya"
+      ],
+      "illustration": "putrIyati",
+      "evidence": "source_example",
+      "rules": [
+        "3.1.8"
+      ],
+      "source_locator": "Kashika: putram icchati; putriyati",
+      "actual": [
+        "putrIya"
+      ],
+      "display": "पुत्रीयति (*putrīyati*)",
+      "source_entry": null,
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "putrIya",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.32"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.45"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.43"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.43"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.4.33"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.15"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.43"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.4.25"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.15"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "rule-3.1.8.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.8.htm",
+          "sha256": "f5c717a57eb529bd0703ffecac467c72df857d53873db0f149465dc76669ef22"
+        }
+      ]
+    },
+    {
+      "word_id": "putrakamya",
+      "sense_id": "desire-son",
+      "stage": "verbal",
+      "base": "putra",
+      "meaning": "desire a son for oneself",
+      "operation": "Noun-derived verb: kamyac",
+      "request": {
+        "nominal": "putra",
+        "nama_sanadi": "kAmyac"
+      },
+      "expected": [
+        "putrakAmya"
+      ],
+      "illustration": "putrakAmyati",
+      "evidence": "source_example",
+      "rules": [
+        "3.1.9"
+      ],
+      "source_locator": "Kashika and Laghu Siddhanta Kaumudi: putrakamyati",
+      "actual": [
+        "putrakAmya"
+      ],
+      "display": "पुत्रकाम्यति (*putrakāmyati*)",
+      "source_entry": null,
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "putrakAmya",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.32"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.45"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.43"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.43"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.14"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.43"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.14"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "rule-3.1.9.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.9.htm",
+          "sha256": "4884b78052a925adf813fcc415347b44c237fce3d99976fe71a4b2e0d964cc6a"
+        }
+      ]
+    },
+    {
+      "word_id": "pacaka",
+      "sense_id": "agent-cooking",
+      "stage": "nominal",
+      "base": "pac",
+      "meaning": "one who cooks",
+      "operation": "Agent: nvul",
+      "request": {
+        "dhatu": "01.1151",
+        "krt": "Rvul"
+      },
+      "expected": [
+        "pAcaka"
+      ],
+      "evidence": "rule_application",
+      "rules": [
+        "3.1.133"
+      ],
+      "source_locator": "Agent rule applied to pac; do not add a separate cook/chef entry just for an English synonym",
+      "actual": [
+        "pAcaka"
+      ],
+      "display": "पाचक (*pācaka*)",
+      "source_entry": {
+        "code": "01.1151",
+        "citation": "qupa\\ca~^z",
+        "meaning_slp1": "pAke"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "pAcaka",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.133"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.7"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.1.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.2.116"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.1.133.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.133.htm",
+          "sha256": "1f098ab11ad5a7df81a4bedd0aab749ef1654c57f50e022e685a426ca484c531"
+        }
+      ]
+    },
+    {
+      "word_id": "kartr",
+      "sense_id": "agent-doing",
+      "stage": "nominal",
+      "base": "kf",
+      "meaning": "one who does; a doer",
+      "operation": "Agent: trc",
+      "request": {
+        "dhatu": "08.0010",
+        "krt": "tfc"
+      },
+      "expected": [
+        "kartf"
+      ],
+      "evidence": "source_example",
+      "rules": [
+        "3.1.133"
+      ],
+      "source_locator": "Kashika: karta; displayed here as its base kartr",
+      "actual": [
+        "kartf"
+      ],
+      "display": "कर्तृ (*kartṛ*)",
+      "source_entry": {
+        "code": "08.0010",
+        "citation": "qukf\\Y",
+        "meaning_slp1": "karaRe"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "kartf",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.1.133"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.2.10"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.3.84"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.1.133.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.133.htm",
+          "sha256": "1f098ab11ad5a7df81a4bedd0aab749ef1654c57f50e022e685a426ca484c531"
+        }
+      ]
+    },
+    {
+      "word_id": "gamana",
+      "sense_id": "action-going",
+      "stage": "nominal",
+      "base": "gam",
+      "meaning": "going",
+      "operation": "Action: lyut",
+      "request": {
+        "dhatu": "01.1137",
+        "krt": "lyuw"
+      },
+      "expected": [
+        "gamana"
+      ],
+      "evidence": "rule_application",
+      "rules": [
+        "3.3.115"
+      ],
+      "source_locator": "Bhava use of lyut applied to gam",
+      "actual": [
+        "gamana"
+      ],
+      "display": "गमन (*gamana*)",
+      "source_entry": {
+        "code": "01.1137",
+        "citation": "ga\\mx~",
+        "meaning_slp1": "gatO"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "gamana",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "DAtupAWaH",
+              "code": "01.0934"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.3.115"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.1.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.3.115.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.115.htm",
+          "sha256": "03d42bc79582d0b6117d828625da6019b50503f505d2215fdebfe1f056cc9558"
+        }
+      ]
+    },
+    {
+      "word_id": "paka",
+      "sense_id": "action-cooking",
+      "stage": "nominal",
+      "base": "pac",
+      "meaning": "cooking",
+      "operation": "Action: ghanj",
+      "request": {
+        "dhatu": "01.1151",
+        "krt": "GaY"
+      },
+      "expected": [
+        "pAka"
+      ],
+      "evidence": "source_example",
+      "rules": [
+        "3.3.18"
+      ],
+      "source_locator": "Kashika: pakah",
+      "actual": [
+        "pAka"
+      ],
+      "display": "पाक (*pāka*)",
+      "source_entry": {
+        "code": "01.1151",
+        "citation": "qupa\\ca~^z",
+        "meaning_slp1": "pAke"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "pAka",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.3.18"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "liNgAnuSAsanam",
+              "code": "36"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.2.116"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.3.52"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.3.18.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.18.htm",
+          "sha256": "8ea2fe6b3664a4706c18543c48d2ca3c7efc3be95f6cb421275382aabeec73cc"
+        }
+      ]
+    },
+    {
+      "word_id": "karana",
+      "sense_id": "action-doing",
+      "stage": "nominal",
+      "base": "kf",
+      "meaning": "doing; the action itself",
+      "operation": "Action: lyut",
+      "request": {
+        "dhatu": "08.0010",
+        "krt": "lyuw"
+      },
+      "expected": [
+        "karaRa"
+      ],
+      "evidence": "rule_application",
+      "rules": [
+        "3.3.115"
+      ],
+      "source_locator": "Bhava use of lyut applied to kr",
+      "actual": [
+        "karaRa"
+      ],
+      "display": "करण (*karaṇa*)",
+      "source_entry": {
+        "code": "08.0010",
+        "citation": "qukf\\Y",
+        "meaning_slp1": "karaRe"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "karaRa",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.3.115"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.1.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.3.84"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.3.115.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.115.htm",
+          "sha256": "03d42bc79582d0b6117d828625da6019b50503f505d2215fdebfe1f056cc9558"
+        }
+      ]
+    },
+    {
+      "word_id": "karana",
+      "sense_id": "instrument-doing",
+      "stage": "nominal",
+      "base": "kf",
+      "meaning": "an instrument by which something is done",
+      "operation": "Instrument: lyut",
+      "request": {
+        "dhatu": "08.0010",
+        "krt": "lyuw"
+      },
+      "expected": [
+        "karaRa"
+      ],
+      "evidence": "source_example",
+      "rules": [
+        "3.3.117"
+      ],
+      "source_locator": "Nyasa explicitly treats karana in the rule wording as a lyut formation with instrumental meaning",
+      "actual": [
+        "karaRa"
+      ],
+      "display": "करण (*karaṇa*)",
+      "source_entry": {
+        "code": "08.0010",
+        "citation": "qukf\\Y",
+        "meaning_slp1": "karaRe"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "karaRa",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.3.115"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.1.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.3.84"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.3.117.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.117.htm",
+          "sha256": "8de6c1dfa5a6c19a71a574c842757d03bae64104cac32ba6f17d0c28b14f1aff"
+        }
+      ]
+    },
+    {
+      "word_id": "asana",
+      "sense_id": "action-sitting",
+      "stage": "nominal",
+      "base": "As",
+      "meaning": "sitting; the action itself",
+      "operation": "Action: lyut",
+      "request": {
+        "dhatu": "02.0011",
+        "krt": "lyuw"
+      },
+      "expected": [
+        "Asana"
+      ],
+      "evidence": "source_example",
+      "rules": [
+        "3.3.115"
+      ],
+      "source_locator": "Kashika includes asanam in the bhava examples",
+      "actual": [
+        "Asana"
+      ],
+      "display": "आसन (*āsana*)",
+      "source_entry": {
+        "code": "02.0011",
+        "citation": "Asa~\\",
+        "meaning_slp1": "upaveSane"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "Asana",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.3.115"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.1.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.3.115.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.115.htm",
+          "sha256": "03d42bc79582d0b6117d828625da6019b50503f505d2215fdebfe1f056cc9558"
+        }
+      ]
+    },
+    {
+      "word_id": "asana",
+      "sense_id": "place-sitting",
+      "stage": "nominal",
+      "base": "As",
+      "meaning": "a seat; a place for sitting",
+      "operation": "Location: lyut",
+      "request": {
+        "dhatu": "02.0011",
+        "krt": "lyuw"
+      },
+      "expected": [
+        "Asana"
+      ],
+      "evidence": "rule_application",
+      "rules": [
+        "3.3.117"
+      ],
+      "source_locator": "Adhikarana use of lyut applied to as; exact example on this page is a different location noun",
+      "actual": [
+        "Asana"
+      ],
+      "display": "आसन (*āsana*)",
+      "source_entry": {
+        "code": "02.0011",
+        "citation": "Asa~\\",
+        "meaning_slp1": "upaveSane"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "Asana",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.3.115"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.1.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.3.117.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.117.htm",
+          "sha256": "8de6c1dfa5a6c19a71a574c842757d03bae64104cac32ba6f17d0c28b14f1aff"
+        }
+      ]
+    },
+    {
+      "word_id": "kaunteya",
+      "sense_id": "offspring-kunti",
+      "stage": "nominal",
+      "base": "kuntI",
+      "meaning": "offspring of Kunti",
+      "operation": "Offspring: dhak",
+      "request": {
+        "nominal": "kuntI",
+        "nyap": true,
+        "taddhita": "Qak"
+      },
+      "expected": [
+        "kOnteya"
+      ],
+      "evidence": "rule_application",
+      "rules": [
+        "4.1.92",
+        "4.1.120"
+      ],
+      "source_locator": "Applied to the declared feminine name Kunti; not a separate entry for every person called Kaunteya",
+      "actual": [
+        "kOnteya"
+      ],
+      "display": "कौन्तेय (*kaunteya*)",
+      "source_entry": null,
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "kOnteya",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.45"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "4.1.120"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.1.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.2.118"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.18"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.4.148"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.3.24"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.58"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "rule-4.1.92.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.92.htm",
+          "sha256": "7cfc4c9813dba4b5abcd6fafe198ba6234394a70af434fdea9ddafcd6accd1ad"
+        },
+        {
+          "filename": "rule-4.1.120.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.120.htm",
+          "sha256": "bce9b9ed1d31bf3931022e0da67d21aa5835c8e8cfcd13d3c4978741ebee989b"
+        }
+      ]
+    },
+    {
+      "word_id": "mitratva",
+      "sense_id": "being-friend",
+      "stage": "nominal",
+      "base": "mitra",
+      "meaning": "the state of being a friend",
+      "operation": "Abstract quality: tva",
+      "request": {
+        "nominal": "mitra",
+        "taddhita": "tva"
+      },
+      "expected": [
+        "mitratva"
+      ],
+      "evidence": "rule_application",
+      "rules": [
+        "5.1.119"
+      ],
+      "source_locator": "Bhava relation applied to mitra",
+      "actual": [
+        "mitratva"
+      ],
+      "display": "मित्रत्व (*mitratva*)",
+      "source_entry": null,
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "mitratva",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.45"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "5.1.119"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.17"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "rule-5.1.119.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.119.htm",
+          "sha256": "45567a56628675149bb161297ea329137a219e75a51825bb32a165555996068c"
+        }
+      ]
+    },
+    {
+      "word_id": "gotva",
+      "sense_id": "being-cow",
+      "stage": "nominal",
+      "base": "go",
+      "meaning": "the state of being a cow",
+      "operation": "Abstract quality: tva",
+      "request": {
+        "nominal": "go",
+        "taddhita": "tva"
+      },
+      "expected": [
+        "gotva"
+      ],
+      "evidence": "source_example",
+      "rules": [
+        "5.1.119"
+      ],
+      "source_locator": "Kashika: gotvam",
+      "actual": [
+        "gotva"
+      ],
+      "display": "गोत्व (*gotva*)",
+      "source_entry": null,
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "gotva",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.45"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "5.1.119"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.17"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "rule-5.1.119.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.119.htm",
+          "sha256": "45567a56628675149bb161297ea329137a219e75a51825bb32a165555996068c"
+        }
+      ]
+    },
+    {
+      "word_id": "gota",
+      "sense_id": "being-cow",
+      "stage": "nominal",
+      "base": "go",
+      "meaning": "the state of being a cow",
+      "operation": "Abstract quality: tal",
+      "request": {
+        "nominal": "go",
+        "taddhita": "tal"
+      },
+      "expected": [
+        "gotA"
+      ],
+      "evidence": "source_example",
+      "rules": [
+        "5.1.119"
+      ],
+      "source_locator": "Kashika: gota; tal formation with its feminine outcome",
+      "actual": [
+        "gotA"
+      ],
+      "display": "गोता (*gotā*)",
+      "source_entry": null,
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "gotA",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.45"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "5.1.119"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "liNgAnuSAsanam",
+              "code": "17"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "4.1.4"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.7"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "4.1.4"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.7"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.17"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.18"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.18"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.101"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.101"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "rule-5.1.119.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.119.htm",
+          "sha256": "45567a56628675149bb161297ea329137a219e75a51825bb32a165555996068c"
+        }
+      ]
+    },
+    {
+      "word_id": "krtva",
+      "sense_id": "prior-doing",
+      "stage": "indeclinable",
+      "base": "kf",
+      "meaning": "having done, before another action by the same agent",
+      "operation": "Prior action: ktva",
+      "request": {
+        "dhatu": "08.0010",
+        "krt": "ktvA"
+      },
+      "expected": [
+        "kftvA"
+      ],
+      "evidence": "rule_application",
+      "rules": [
+        "3.4.21"
+      ],
+      "source_locator": "Prior action and same-agent conditions applied to kr",
+      "actual": [
+        "kftvA"
+      ],
+      "display": "कृत्वा (*kṛtvā*)",
+      "source_entry": {
+        "code": "08.0010",
+        "citation": "qukf\\Y",
+        "meaning_slp1": "karaRe"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "kftvA",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.21"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.73"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.40"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.73"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.40"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.2.11"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.5"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.4.21.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.4.21.htm",
+          "sha256": "03dea4cd49c2844bb1d4d3cbb4ab28eae2095e7383ce3780b18ca4056073944a"
+        }
+      ]
+    },
+    {
+      "word_id": "prakrtya",
+      "sense_id": "prior-performing",
+      "stage": "indeclinable",
+      "base": "kf",
+      "meaning": "having performed; prefixed prior action",
+      "operation": "pra plus ktva replaced by lyap",
+      "request": {
+        "dhatu": "08.0010",
+        "prefixes": [
+          "pra"
+        ],
+        "krt": "ktvA"
+      },
+      "expected": [
+        "prakftya"
+      ],
+      "evidence": "source_example",
+      "rules": [
+        "1.4.60",
+        "7.1.37"
+      ],
+      "source_pages": [
+        "rule-1.4.59.html",
+        "rule-7.1.37.html"
+      ],
+      "source_locator": "Kashika's gati discussion gives prakrtya in rule-1.4.59.html; its actual rule is 1.4.60",
+      "actual": [
+        "prakftya"
+      ],
+      "display": "प्रकृत्य (*prakṛtya*)",
+      "source_entry": {
+        "code": "08.0010",
+        "citation": "qukf\\Y",
+        "meaning_slp1": "karaRe"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "prakftya",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.58"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.59"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.60"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.80"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.21"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.45"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.73"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.43"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.37"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.40"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.73"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.43"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.37"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.40"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.1.37"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.8"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "6.1.71"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.14"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-1.4.59.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.59.htm",
+          "sha256": "77d6ed0305efb66a3bccc702778b76ed73c84190205564295ad83d86a231de42"
+        },
+        {
+          "filename": "rule-7.1.37.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.1.37.htm",
+          "sha256": "26d5b6cf0cc56ba872ebf44e7d139b4eec445fa95e81933f474865daa3762bad"
+        }
+      ]
+    },
+    {
+      "word_id": "kartum",
+      "sense_id": "purpose-doing",
+      "stage": "indeclinable",
+      "base": "kf",
+      "meaning": "to do, as the purpose of another action",
+      "operation": "Purpose: tumun",
+      "request": {
+        "dhatu": "08.0010",
+        "krt": "tumun"
+      },
+      "expected": [
+        "kartum"
+      ],
+      "evidence": "rule_application",
+      "rules": [
+        "3.3.10"
+      ],
+      "source_locator": "Purpose construction applied to kr; other tumun constructions are outside this row",
+      "actual": [
+        "kartum"
+      ],
+      "display": "कर्तुम् (*kartum*)",
+      "source_entry": {
+        "code": "08.0010",
+        "citation": "qukf\\Y",
+        "meaning_slp1": "karaRe"
+      },
+      "form_check_passed": true,
+      "semantic_condition_selected_by_engine": false,
+      "counting_status": "author_accepted_selected_annotation_not_full_lexical_verification",
+      "paths": [
+        {
+          "text": "kartum",
+          "rules": [
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.1"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.5"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.3.10"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.2"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.3"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.3.9"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.2.46"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "3.4.114"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.39"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.1.39"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.2.10"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "1.4.13"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "7.3.84"
+            },
+            {
+              "source": "azwADyAyI",
+              "code": "8.4.68"
+            }
+          ]
+        }
+      ],
+      "evidence_sources": [
+        {
+          "filename": "dhatupatha.tsv",
+          "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+          "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380"
+        },
+        {
+          "filename": "rule-3.3.10.html",
+          "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.10.htm",
+          "sha256": "a69f5f7fd634afe582d93636cb0e2e84d3b1c7111423d070e178e03458cf233d"
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "van-unspecified-meanings",
+      "dhatu": "01.0951",
+      "base": "van",
+      "source_artha": "anekArTatve",
+      "issue": "The source says that there are multiple meanings without enumerating them. Do not assign either one definitive sense or an invented number of senses.",
+      "action": "Consult a fuller source before counting its meanings."
+    },
+    {
+      "id": "rc-duplicate-local-records",
+      "local_codes": [
+        "06.0016",
+        "06.0022"
+      ],
+      "candidate_code": "06.0022",
+      "issue": "Both local records map by exact citation to one richer entry listing praise and shine. The two meanings are separately represented in the sample; the two source rows must not automatically double each meaning.",
+      "action": "Retain both provenance records and review edition alignment before merging lexical records."
+    },
+    {
+      "id": "camu-duplicate-local-records",
+      "local_codes": [
+        "01.0540",
+        "01.0541"
+      ],
+      "candidate_code": "01.0540",
+      "issue": "Two local records map to one candidate with the gloss adane. The old file has no meanings to prove equivalence.",
+      "action": "Review the original entries; no automatic merge or additional word count."
+    }
+  ]
+}

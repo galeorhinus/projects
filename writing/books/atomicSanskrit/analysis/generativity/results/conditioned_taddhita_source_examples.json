@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-13",
+  "scope": "Literal assert_has_artha_taddhita examples in the pinned Kāśikā integration tests for Aṣṭādhyāyī 4.1-5.4. Helper-generated and nonliteral constructions remain outside this pass.",
+  "test_files": 8,
+  "literal_conditioned_assertions": 1056,
+  "positive_source_examples": 1047,
+  "negative_source_examples": 9,
+  "distinct_semantic_context_tokens": 122,
+  "distinct_suffix_identifiers": 96,
+  "by_source_file": {
+    "kashika_4_1.rs": 168,
+    "kashika_4_2.rs": 102,
+    "kashika_4_3.rs": 196,
+    "kashika_4_4.rs": 233,
+    "kashika_5_1.rs": 185,
+    "kashika_5_2.rs": 105,
+    "kashika_5_3.rs": 51,
+    "kashika_5_4.rs": 16
+  },
+  "inputs": {
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_4_1.rs": "080a42c99e7185dec5eda2a1bf2a8f3fc8e719bad874a6fdf7f732d7729548e4",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_4_2.rs": "da9ab407fbc791fc4e83b1768c93cf473a3d177cecc43197165d59b1fbd4eb9d",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_4_3.rs": "70e55a3652db53fe34da43e8d25a6ba945b47d870d6cd30df4238a4829903eb4",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_4_4.rs": "aff740b38950ad5f4aeace275439e160a34277d7d0c7986bd6ec7177d196b157",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_5_1.rs": "408d070d0660e79855472d583db5c44c412090ab60fc089297b0c1d45ef7af75",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_5_2.rs": "9c00b4ba577f0ccda278dea231425937e0d7a296a7f76d19663854be635a00bb",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_5_3.rs": "e3ce2c675ff38cfae87980c138a3e99ee00ee4b66a938a8f81c74f439e7812b3",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_5_4.rs": "9990132fe1cf0697055b361b148a31ae08cfe2ff6c00d37145f73fb1d44bd742",
+    "analysis/generativity/extract_conditioned_taddhita_examples.py": "e33309e602cbea5786e58a61807bee71dc54dc3a209b4b9836341110e7575e2b"
+  },
+  "publication_status": "research_inventory_only_not_deployed"
+}

@@ -1,0 +1,645 @@
+{
+  "date": "2026-09-14",
+  "purpose": "Machine-readable source for a future figure showing how each operation enlarges the count while distinguishing derivational bases from complete inflected words.",
+  "visual_encoding": {
+    "derived_verbal_base_inventory": "solid warm fill",
+    "mixed_lexical_inventory": "solid warm fill with mixed-form marker",
+    "complete_indeclinable_word": "outlined accent fill",
+    "derived_nominal_base": "solid light fill",
+    "complete_inflected_word": "outlined accent fill",
+    "pending_count": "dashed border",
+    "edge_label": "operation and added count",
+    "node_number": "cumulative count"
+  },
+  "count_warning": "Do not add cumulative node totals together. Added counts belong on edges; cumulative counts belong in nodes.",
+  "nodes": [
+    {
+      "id": "dhatu_meanings",
+      "stage": 1,
+      "label": "Reconciled धातुः meanings",
+      "reader_label": "Recorded verbal atoms and their meanings",
+      "added_count": 2634,
+      "cumulative_count": 2634,
+      "count_unit": "word_meaning",
+      "form_class": "derived_verbal_base_inventory",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "one_sanadi",
+      "stage": 2,
+      "label": "One सनादि operation",
+      "reader_label": "Verbal transformations for causation, desire, repetition, and intensity",
+      "added_count": 12522,
+      "cumulative_count": 15156,
+      "count_unit": "word_meaning",
+      "form_class": "derived_verbal_base_inventory",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "one_upasarga",
+      "stage": 3,
+      "label": "One उपसर्गः",
+      "reader_label": "One prefix redirects the action",
+      "added_count": 52567,
+      "cumulative_count": 67723,
+      "count_unit": "word_meaning",
+      "form_class": "derived_verbal_base_inventory",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "upasarga_sanadi",
+      "stage": 4,
+      "label": "One उपसर्गः plus one सनादि operation",
+      "reader_label": "A prefix combines with a verbal transformation",
+      "added_count": 250040,
+      "cumulative_count": 317763,
+      "count_unit": "word_meaning",
+      "form_class": "derived_verbal_base_inventory",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "curadi_causative",
+      "stage": 5,
+      "label": "True चरादिगण causatives",
+      "reader_label": "A separate causative operation",
+      "added_count": 522,
+      "cumulative_count": 318285,
+      "count_unit": "word_meaning",
+      "form_class": "derived_verbal_base_inventory",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "two_upasarga",
+      "stage": 6,
+      "label": "Exactly two ordered उपसर्गाः",
+      "reader_label": "Two ordered prefixes redirect the action",
+      "added_count": 1051340,
+      "cumulative_count": 1369625,
+      "count_unit": "word_meaning",
+      "form_class": "derived_verbal_base_inventory",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "first_krdanta",
+      "stage": 7,
+      "label": "First कृदन्त layer",
+      "reader_label": "Verbs become actions, agents, instruments, qualities, and obligations",
+      "added_count": 29996,
+      "cumulative_count": 1399621,
+      "count_unit": "word_meaning",
+      "form_class": "mixed_lexical_inventory",
+      "complete_pada": "mixed",
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "wider_krdanta",
+      "stage": 8,
+      "label": "Wider अव्यय and कृदन्त layers plus तद्धित pilot",
+      "reader_label": "Those derivatives extend across prefixed and transformed verbs",
+      "added_count": 775100,
+      "cumulative_count": 2174721,
+      "count_unit": "word_meaning",
+      "form_class": "mixed_lexical_inventory",
+      "complete_pada": "mixed",
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "laukika_domain_correction",
+      "stage": 9,
+      "label": "Known लौकिक-वैदिक domain correction",
+      "reader_label": "Vedic-only formations move to the Vedic count",
+      "added_count": -8660,
+      "cumulative_count": 2166061,
+      "count_unit": "word_meaning",
+      "form_class": "mixed_lexical_inventory",
+      "complete_pada": "mixed",
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "vaidika_layer",
+      "stage": 10,
+      "label": "वैदिक-only bases, descendants, and operations",
+      "reader_label": "Vedic formations are counted in their own domain",
+      "added_count": 213398,
+      "cumulative_count": 2379459,
+      "count_unit": "word_meaning",
+      "form_class": "mixed_lexical_inventory",
+      "complete_pada": "mixed",
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "broad_taddhita",
+      "stage": 11,
+      "label": "Broad तद्धित relations",
+      "reader_label": "Nouns generate words for quality, state, and possession",
+      "added_count": 2382230,
+      "cumulative_count": 4761689,
+      "count_unit": "word_meaning",
+      "form_class": "mixed_lexical_inventory",
+      "complete_pada": "mixed",
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "conditioned_taddhita",
+      "stage": 12,
+      "label": "Conditioned तद्धित relations",
+      "reader_label": "Nouns express descent, origin, use, measure, and other specific relations",
+      "added_count": 975,
+      "cumulative_count": 4762664,
+      "count_unit": "word_meaning",
+      "form_class": "mixed_lexical_inventory",
+      "complete_pada": "mixed",
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "stri",
+      "stage": 13,
+      "label": "Source-demonstrated स्त्रीप्रत्ययः formations",
+      "reader_label": "Eligible nouns generate feminine counterparts",
+      "added_count": 50,
+      "cumulative_count": 4762714,
+      "count_unit": "word_meaning",
+      "form_class": "mixed_lexical_inventory",
+      "complete_pada": "mixed",
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "namadhatu",
+      "stage": 14,
+      "label": "नामधातुः from the first nominal inventory",
+      "reader_label": "Nouns become verbs",
+      "added_count": 3176352,
+      "cumulative_count": 7939066,
+      "count_unit": "word_meaning",
+      "form_class": "mixed_lexical_inventory",
+      "complete_pada": "mixed",
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "avyaya_complete_component",
+      "stage": 8,
+      "label": "Complete अव्यय word-meanings already inside Stage 8",
+      "added_count": 7902,
+      "cumulative_count": null,
+      "count_unit": "word_meaning",
+      "form_class": "complete_indeclinable_word",
+      "complete_pada": true,
+      "count_role": "component_already_included_in_stage_8",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "nan_privative",
+      "stage": 15,
+      "label": "Bounded नञ् compounds",
+      "reader_label": "Nouns and descriptive meanings generate negative counterparts",
+      "added_count": 3177340,
+      "cumulative_count": 11116406,
+      "count_unit": "word_meaning",
+      "form_class": "derived_nominal_base",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true,
+      "familiar_example": {
+        "input_slp1": "jYAna",
+        "output_slp1": "ajYAna",
+        "meaning": "absence of knowledge; ignorance"
+      },
+      "less_familiar_example": {
+        "input_slp1": "kartftva",
+        "output_slp1": "akartftva",
+        "meaning": "absence or negation of agency"
+      }
+    },
+    {
+      "id": "additional_suffix_relations",
+      "stage": 16,
+      "label": "Additional source-conditioned तद्धित relations",
+      "reader_label": "Named relations hidden inside source helpers add further noun-derived meanings",
+      "added_count": 24,
+      "cumulative_count": 11116430,
+      "count_unit": "word_meaning",
+      "form_class": "derived_nominal_base",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "plain_source_taddhita",
+      "stage": 17,
+      "label": "Source-defined plain तद्धित relations",
+      "reader_label": "Governing rules recover meanings behind further source-listed forms",
+      "added_count": 236,
+      "cumulative_count": 11116666,
+      "count_unit": "word_meaning",
+      "form_class": "mixed_lexical_inventory",
+      "complete_pada": "mixed",
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true,
+      "nominal_bases": 197,
+      "complete_avyayas": 39
+    },
+    {
+      "id": "generalized_comparison",
+      "stage": 18,
+      "label": "General comparative and superlative relations",
+      "reader_label": "Nominal meanings can express greater and highest degrees under stated semantic conditions",
+      "added_count": 1588155,
+      "cumulative_count": 12704821,
+      "count_unit": "word_meaning",
+      "form_class": "derived_nominal_base",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "generalized_stri",
+      "stage": 19,
+      "label": "Lexical feminine agent relations",
+      "reader_label": "Agent nouns generate feminine counterparts",
+      "added_count": 140566,
+      "cumulative_count": 12845387,
+      "count_unit": "word_meaning",
+      "form_class": "derived_nominal_base",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "compound_input_stacks",
+      "stage": 21,
+      "label": "One further operation over source compounds",
+      "reader_label": "A compound becomes the input to another word-forming operation",
+      "added_count": 958,
+      "cumulative_count": 12846458,
+      "count_unit": "word_meaning",
+      "form_class": "mixed_derived_base_inventory",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true,
+      "derived_nominal_bases": 574,
+      "derived_verbal_bases": 384
+    },
+    {
+      "id": "source_samasa",
+      "stage": 20,
+      "label": "Source-demonstrated bounded समास relations",
+      "reader_label": "Named relations combine words into compounds",
+      "added_count": 113,
+      "cumulative_count": 12845500,
+      "count_unit": "word_meaning",
+      "form_class": "derived_nominal_base",
+      "complete_pada": false,
+      "count_role": "cumulative_subtotal",
+      "included_in_current_research_subtotal": true
+    },
+    {
+      "id": "samasa_member_inventory",
+      "stage": 22,
+      "label": "Compoundable nominal inventory",
+      "reader_label": "Reconciled nominal meanings available as compound members",
+      "added_count": 8083621,
+      "cumulative_count": null,
+      "count_unit": "word_meaning_input",
+      "form_class": "virtual_nominal_input_inventory",
+      "complete_pada": false,
+      "count_role": "virtual_input_inventory_not_lexical_subtotal",
+      "included_in_current_research_subtotal": false
+    },
+    {
+      "id": "samasa_depth_one_capacity",
+      "stage": 23,
+      "label": "Depth-one समासः capacity",
+      "reader_label": "Nominal meanings enter four broad compound relations",
+      "added_count": 196034769247681,
+      "cumulative_count": null,
+      "count_unit": "formal_semantic_slot",
+      "form_class": "virtual_derived_nominal_base",
+      "complete_pada": false,
+      "count_role": "symbolic_capacity_not_lexical_subtotal",
+      "included_in_current_research_subtotal": false
+    },
+    {
+      "id": "post_compound_capacity",
+      "stage": 24,
+      "label": "One operation after a compound",
+      "reader_label": "A compound becomes the input to one established operation",
+      "added_count": 1960347692476810,
+      "cumulative_count": null,
+      "count_unit": "formal_derivational_slot",
+      "form_class": "virtual_mixed_derived_base",
+      "complete_pada": false,
+      "count_role": "symbolic_capacity_not_lexical_subtotal",
+      "included_in_current_research_subtotal": false
+    },
+    {
+      "id": "samasa_depth_two_capacity",
+      "stage": 25,
+      "label": "Depth-two समासः capacity",
+      "reader_label": "One compound joins one original nominal meaning",
+      "added_count": 9508024664524249997406,
+      "cumulative_count": null,
+      "count_unit": "formal_semantic_slot",
+      "form_class": "virtual_derived_nominal_base",
+      "complete_pada": false,
+      "count_role": "symbolic_capacity_not_lexical_subtotal",
+      "included_in_current_research_subtotal": false
+    },
+    {
+      "id": "laukika_nominal_inventory",
+      "stage": 29,
+      "label": "Laukika name-meaning inventory",
+      "reader_label": "Reconciled name, object, quality, state, and relation meanings",
+      "added_count": 8084287,
+      "cumulative_count": null,
+      "count_unit": "word_meaning_input",
+      "form_class": "virtual_nominal_input_inventory",
+      "complete_pada": false,
+      "count_role": "virtual_input_inventory_not_lexical_subtotal",
+      "included_in_current_research_subtotal": false
+    },
+    {
+      "id": "subanta_citation_capacity",
+      "stage": 30,
+      "label": "Name-form citation capacity",
+      "reader_label": "One citation coordinate per name meaning",
+      "added_count": 8084287,
+      "cumulative_count": null,
+      "count_unit": "semantic_grammatical_cell",
+      "form_class": "virtual_subanta",
+      "complete_pada": true,
+      "count_role": "grammatical_capacity_not_lexical_subtotal",
+      "included_in_current_research_subtotal": false
+    },
+    {
+      "id": "subanta_paradigm_capacity",
+      "stage": 31,
+      "label": "Full name-form capacity",
+      "reader_label": "Eight relations by three number values",
+      "added_count": 194022888,
+      "cumulative_count": null,
+      "count_unit": "semantic_grammatical_cell",
+      "form_class": "virtual_subanta",
+      "complete_pada": true,
+      "count_role": "grammatical_capacity_not_lexical_subtotal",
+      "included_in_current_research_subtotal": false
+    },
+    {
+      "id": "laukika_verbal_inventory",
+      "stage": 26,
+      "label": "Laukika verbal-meaning inventory",
+      "reader_label": "Reconciled verbal meanings available for inflection",
+      "added_count": 4540848,
+      "cumulative_count": null,
+      "count_unit": "word_meaning_input",
+      "form_class": "virtual_verbal_input_inventory",
+      "complete_pada": false,
+      "count_role": "virtual_input_inventory_not_lexical_subtotal",
+      "included_in_current_research_subtotal": false
+    },
+    {
+      "id": "tinanta_citation_capacity",
+      "stage": 27,
+      "label": "Ten-lakara citation capacity",
+      "reader_label": "Third-person singular in ten laukika lakaras",
+      "added_count": 45408480,
+      "cumulative_count": null,
+      "count_unit": "semantic_grammatical_cell",
+      "form_class": "virtual_tinanta",
+      "complete_pada": true,
+      "count_role": "grammatical_capacity_not_lexical_subtotal",
+      "included_in_current_research_subtotal": false
+    },
+    {
+      "id": "tinanta_paradigm_capacity",
+      "stage": 28,
+      "label": "Full kartari tinanta capacity",
+      "reader_label": "Ten lakaras by three persons by three numbers",
+      "added_count": 408676320,
+      "cumulative_count": null,
+      "count_unit": "semantic_grammatical_cell",
+      "form_class": "virtual_tinanta",
+      "complete_pada": true,
+      "count_role": "grammatical_capacity_not_lexical_subtotal",
+      "included_in_current_research_subtotal": false
+    }
+  ],
+  "edges": [
+    {
+      "from": "dhatu_meanings",
+      "to": "one_sanadi",
+      "operation": "One सनादि operation",
+      "added_count": 12522
+    },
+    {
+      "from": "one_sanadi",
+      "to": "one_upasarga",
+      "operation": "One उपसर्गः",
+      "added_count": 52567
+    },
+    {
+      "from": "one_upasarga",
+      "to": "upasarga_sanadi",
+      "operation": "One उपसर्गः plus one सनादि operation",
+      "added_count": 250040
+    },
+    {
+      "from": "upasarga_sanadi",
+      "to": "curadi_causative",
+      "operation": "True चरादिगण causatives",
+      "added_count": 522
+    },
+    {
+      "from": "curadi_causative",
+      "to": "two_upasarga",
+      "operation": "Exactly two ordered उपसर्गाः",
+      "added_count": 1051340
+    },
+    {
+      "from": "two_upasarga",
+      "to": "first_krdanta",
+      "operation": "First कृदन्त layer",
+      "added_count": 29996
+    },
+    {
+      "from": "first_krdanta",
+      "to": "wider_krdanta",
+      "operation": "Wider अव्यय and कृदन्त layers plus तद्धित pilot",
+      "added_count": 775100
+    },
+    {
+      "from": "wider_krdanta",
+      "to": "laukika_domain_correction",
+      "operation": "Known लौकिक-वैदिक domain correction",
+      "added_count": -8660
+    },
+    {
+      "from": "laukika_domain_correction",
+      "to": "vaidika_layer",
+      "operation": "वैदिक-only bases, descendants, and operations",
+      "added_count": 213398
+    },
+    {
+      "from": "vaidika_layer",
+      "to": "broad_taddhita",
+      "operation": "Broad तद्धित relations",
+      "added_count": 2382230
+    },
+    {
+      "from": "broad_taddhita",
+      "to": "conditioned_taddhita",
+      "operation": "Conditioned तद्धित relations",
+      "added_count": 975
+    },
+    {
+      "from": "conditioned_taddhita",
+      "to": "stri",
+      "operation": "Source-demonstrated स्त्रीप्रत्ययः formations",
+      "added_count": 50
+    },
+    {
+      "from": "stri",
+      "to": "namadhatu",
+      "operation": "नामधातुः from the first nominal inventory",
+      "added_count": 3176352
+    },
+    {
+      "from": "wider_krdanta",
+      "to": "avyaya_complete_component",
+      "operation": "contains complete indeclinables",
+      "added_count": 7902,
+      "non_additive_component_edge": true
+    },
+    {
+      "from": "namadhatu",
+      "to": "nan_privative",
+      "operation": "one bounded negative counterpart per current nominal meaning",
+      "added_count": 3177340
+    },
+    {
+      "from": "nan_privative",
+      "to": "additional_suffix_relations",
+      "operation": "additional source-conditioned suffix relations",
+      "added_count": 24
+    },
+    {
+      "from": "additional_suffix_relations",
+      "to": "plain_source_taddhita",
+      "operation": "source-defined plain तद्धित relations",
+      "added_count": 236
+    },
+    {
+      "from": "plain_source_taddhita",
+      "to": "generalized_comparison",
+      "operation": "comparative and superlative relations",
+      "added_count": 1588155
+    },
+    {
+      "from": "generalized_comparison",
+      "to": "generalized_stri",
+      "operation": "lexical feminine counterparts of agent nouns",
+      "added_count": 140566
+    },
+    {
+      "from": "generalized_stri",
+      "to": "source_samasa",
+      "operation": "source-demonstrated compound relations",
+      "added_count": 113
+    },
+    {
+      "from": "source_samasa",
+      "to": "compound_input_stacks",
+      "operation": "one established operation over each eligible source compound",
+      "added_count": 958
+    },
+    {
+      "from": "compound_input_stacks",
+      "to": "samasa_member_inventory",
+      "operation": "reconcile compoundable nominal inputs",
+      "added_count": 8083621,
+      "non_additive_capacity_edge": true
+    },
+    {
+      "from": "samasa_member_inventory",
+      "to": "samasa_depth_one_capacity",
+      "operation": "four broad compound relations",
+      "added_count": 196034769247681,
+      "non_additive_capacity_edge": true
+    },
+    {
+      "from": "samasa_depth_one_capacity",
+      "to": "post_compound_capacity",
+      "operation": "one established operation",
+      "added_count": 1960347692476810,
+      "non_additive_capacity_edge": true
+    },
+    {
+      "from": "samasa_depth_one_capacity",
+      "to": "samasa_depth_two_capacity",
+      "operation": "one compound plus one original nominal member",
+      "added_count": 9508024664524249997406,
+      "non_additive_capacity_edge": true
+    },
+    {
+      "from": "compound_input_stacks",
+      "to": "laukika_nominal_inventory",
+      "operation": "select reconciled laukika name meanings",
+      "added_count": 8084287,
+      "non_additive_capacity_edge": true
+    },
+    {
+      "from": "laukika_nominal_inventory",
+      "to": "subanta_citation_capacity",
+      "operation": "one citation coordinate",
+      "added_count": 8084287,
+      "non_additive_capacity_edge": true
+    },
+    {
+      "from": "subanta_citation_capacity",
+      "to": "subanta_paradigm_capacity",
+      "operation": "eight relations by three number values",
+      "added_count": 194022888,
+      "non_additive_capacity_edge": true
+    },
+    {
+      "from": "compound_input_stacks",
+      "to": "laukika_verbal_inventory",
+      "operation": "select reconciled laukika verbal meanings",
+      "added_count": 4540848,
+      "non_additive_capacity_edge": true
+    },
+    {
+      "from": "laukika_verbal_inventory",
+      "to": "tinanta_citation_capacity",
+      "operation": "ten third-person singular lakara coordinates",
+      "added_count": 45408480,
+      "non_additive_capacity_edge": true
+    },
+    {
+      "from": "tinanta_citation_capacity",
+      "to": "tinanta_paradigm_capacity",
+      "operation": "three purushas by three vacanas",
+      "added_count": 408676320,
+      "non_additive_capacity_edge": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-14",
+  "sample_relations": 16,
+  "locally_regenerated_relations": 16,
+  "zero_output_relations": 0,
+  "same_spelling_relation_groups": 4,
+  "same_spelling_relations": {
+    "kuntIvatsa": [
+      "bahuvrihi",
+      "dvandva",
+      "samahara_dvandva",
+      "sasthi_tatpurusha"
+    ],
+    "madrasuparRA": [
+      "bahuvrihi",
+      "dvandva",
+      "samahara_dvandva",
+      "sasthi_tatpurusha"
+    ],
+    "vinatAkuntI": [
+      "bahuvrihi",
+      "dvandva",
+      "samahara_dvandva",
+      "sasthi_tatpurusha"
+    ],
+    "vatsamadra": [
+      "bahuvrihi",
+      "dvandva",
+      "samahara_dvandva",
+      "sasthi_tatpurusha"
+    ]
+  },
+  "derivation_paths_retained": true
+}

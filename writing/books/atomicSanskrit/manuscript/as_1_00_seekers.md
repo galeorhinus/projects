@@ -178,7 +178,7 @@ English dictionaries list roughly 170,000 words in current use. Sanskrit is buil
 
 Prefixes can redirect their meanings. Suffixes and verb endings turn them into finished words. Sanskrit can then join finished words into compounds, and each compound can become a building block for another.
 
-These operations give a finite inventory enormous reach. The model contains **20,942,880 formal slots** before compounding. Not every slot produces a valid or distinct word, but the total demonstrates the scale of Sanskrit's generative architecture. Once compounding begins, the architecture places no fixed ceiling on the number of possible formations.[NOTE: sanskrit-generative-wordspace]
+These operations give a finite inventory enormous reach. A bounded reconstruction conducted for this book begins with 2,634 recorded meanings carried by Sanskrit's semantic atoms. Before inflection, the operations tested so far generate 12,846,458 शब्दार्थाः (*śabdārthāḥ*), distinct word-meanings. When the ordinary-language portion passes through the declared verb and noun matrices, it occupies 602,707,133 grammatical cells. The count stops before unrestricted recursive compounding, which has no fixed ceiling. Chapter 12 explains each stage of the calculation.[NOTE: sanskrit-generative-wordspace]
 
 Sanskrit is a word-engine.
 

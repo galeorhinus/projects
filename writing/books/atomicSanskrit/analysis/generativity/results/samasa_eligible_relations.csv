@@ -1,0 +1,114 @@
+compound_relation_id,compound_type,member_forms_slp1,member_count,derivational_depth,semantic_relation,rule_refs,source_assertion_ids,source_assertion_count,expected_forms_slp1,expected_variant_count,eligibility_status
+1f82b02af1a6638d,avyaya_tatpurusha,naY;brAhmaRa,2,1,brAhmaRa qualified by the indeclinable naY,2.2.6,df1e0e27407f21ab,1,abrAhmaRa,1,source_demonstrated_two_or_three_member_relation
+904e5b5c81081771,avyaya_tatpurusha,naY;vfzala,2,1,vfzala qualified by the indeclinable naY,2.2.6,da34fdf7a9095f1d,1,avfzala,1,source_demonstrated_two_or_three_member_relation
+b32ef7121c7dca2c,avyayibhava,A;kumAra,2,1,indeclinable relation of A to kumAra,2.1.13,74275ac6828bf49b,1,AkumAram,1,source_demonstrated_two_or_three_member_relation
+42773da5b7bb7502,avyayibhava,A;pAwaliputra,2,1,indeclinable relation of A to pAwaliputra,2.1.13,e0d6bdf61bc31875,1,ApAwaliputram,1,source_demonstrated_two_or_three_member_relation
+035e9c2db1855eec,avyayibhava,SAka;prati,2,1,indeclinable relation of SAka to prati,2.1.9,bd49a0807dd3bdfd,1,SAkaprati,1,source_demonstrated_two_or_three_member_relation
+a2c7ed3cdc2ba6d6,avyayibhava,SalAkA;pari,2,1,indeclinable relation of SalAkA to pari,2.1.10,5dc3f7bd1396b99a,1,SalAkApari,1,source_demonstrated_two_or_three_member_relation
+c09b3f7e8d8b1a7c,avyayibhava,aBi;agni,2,1,indeclinable relation of aBi to agni,2.1.14,8298428680d2426d,1,aByagni,1,source_demonstrated_two_or_three_member_relation
+eb3bcd7de7823bce,avyayibhava,akza;pari,2,1,indeclinable relation of akza to pari,2.1.10,cb0a46ea3438bd37,1,akzapari,1,source_demonstrated_two_or_three_member_relation
+a153e880f839d205,avyayibhava,anu;vana,2,1,indeclinable relation of anu to vana,2.1.15,55995bedce45f6a5,1,anuvanam,1,source_demonstrated_two_or_three_member_relation
+91171a629e7aafcd,avyayibhava,catus;pari,2,1,indeclinable relation of catus to pari,2.1.10,a8b08f9f1455b744,1,catuzpari,1,source_demonstrated_two_or_three_member_relation
+1159a530db31b551,avyayibhava,dvi;muni,2,1,indeclinable relation of dvi to muni,2.1.19,dd1c67cb3deb66a6,1,dvimuni,1,source_demonstrated_two_or_three_member_relation
+27bc2dd0734b0a99,avyayibhava,dvi;pari,2,1,indeclinable relation of dvi to pari,2.1.10,5d5ebabcc7ddb35d,1,dvipari,1,source_demonstrated_two_or_three_member_relation
+0c873456b6be7b78,avyayibhava,eka;pari,2,1,indeclinable relation of eka to pari,2.1.10,bd933599081ded56,1,ekapari,1,source_demonstrated_two_or_three_member_relation
+9f9cb760ed3d3afc,avyayibhava,prati;agni,2,1,indeclinable relation of prati to agni,2.1.14,bd8e0309e64be5da,1,pratyagni,1,source_demonstrated_two_or_three_member_relation
+b1f04cea644799db,avyayibhava,tri;muni,2,1,indeclinable relation of tri to muni,2.1.19,f85d55ab3997fb6a,1,trimuni,1,source_demonstrated_two_or_three_member_relation
+39c85a28001e6441,avyayibhava,tri;pari,2,1,indeclinable relation of tri to pari,2.1.10,895cc6b26ee32350,1,tripari,1,source_demonstrated_two_or_three_member_relation
+bbae00aacf510988,avyayibhava,yAvat;amatra,2,1,indeclinable relation of yAvat to amatra,2.1.8,370323c51578ce0e,1,yAvadamatram,1,source_demonstrated_two_or_three_member_relation
+bbb405880be2cab6,avyayibhava,yaTA;aDyApaka,2,1,indeclinable relation of yaTA to aDyApaka,2.1.7,be563d9c1d35627b,1,yaTADyApakam,1,source_demonstrated_two_or_three_member_relation
+94bc8c163be4f846,avyayibhava,yaTA;vfdDa,2,1,indeclinable relation of yaTA to vfdDa,2.1.5;2.1.7,fb1a0f2dcca8407b;ff83d91cb320b97d,2,yaTAvfdDam,1,source_demonstrated_two_or_three_member_relation
+eaf750a1397315e6,caturthi_tatpurusha,aSva;hita,2,1,hita for aSva,2.1.36,11f06bc152a8fe8c,1,aSvahita,1,source_demonstrated_two_or_three_member_relation
+91704d8f5902ae13,caturthi_tatpurusha,aSva;rakzita,2,1,rakzita for aSva,2.1.36,7b68c0140ac54bd3,1,aSvarakzita,1,source_demonstrated_two_or_three_member_relation
+c48b0fb556419983,caturthi_tatpurusha,aSva;suKa,2,1,suKa for aSva,2.1.36,29101430cc5f6ff4,1,aSvasuKa,1,source_demonstrated_two_or_three_member_relation
+350e6b9d3888db5f,caturthi_tatpurusha,brAhmaRa;arTa,2,1,arTa for brAhmaRa,2.1.36,27e3e7b577d1027f,1,brAhmaRArTa,1,source_demonstrated_two_or_three_member_relation
+f0ee319c6ee56a28,caturthi_tatpurusha,go;hita,2,1,hita for go,2.1.36,aea3624426247ab7,1,gohita,1,source_demonstrated_two_or_three_member_relation
+7d8ff59ef97a56ec,caturthi_tatpurusha,go;rakzita,2,1,rakzita for go,2.1.36,d5eefc2abf6b3d3b,1,gorakzita,1,source_demonstrated_two_or_three_member_relation
+94e7612e8a9fdc9d,caturthi_tatpurusha,go;suKa,2,1,suKa for go,2.1.36,6bd0059b84537061,1,gosuKa,1,source_demonstrated_two_or_three_member_relation
+66570471530aad2a,caturthi_tatpurusha,kuRqala;hiraRya,2,1,hiraRya for kuRqala,2.1.36,99926a27f3f0951b,1,kuRqalahiraRya,1,source_demonstrated_two_or_three_member_relation
+78bbafc9d44d3178,caturthi_tatpurusha,kubera;bali,2,1,bali for kubera,2.1.36,d619aff6a813c401,1,kuberabali,1,source_demonstrated_two_or_three_member_relation
+934353306369856e,caturthi_tatpurusha,mahArAja;bali,2,1,bali for mahArAja,2.1.36,f76cbc8aa4e40d73,1,mahArAjabali,1,source_demonstrated_two_or_three_member_relation
+9dab65064ad34c02,caturthi_tatpurusha,yUpa;dAru,2,1,dAru for yUpa,2.1.1;2.1.36,3f867024766b81c5;f9945ed0ecb3848d,2,yUpadAru,1,source_demonstrated_two_or_three_member_relation
+7583fede44e0b200,dvandva,Dava;Kadira;palASa,3,1,Dava and Kadira and palASa together,2.2.29,b8e8c4607948beea,1,DavaKadirapalASa,1,source_demonstrated_two_or_three_member_relation
+60b52fa35986dde4,dvandva,plakza;nyagroDa,2,1,plakza and nyagroDa together,2.2.29,98cc65fe61e72058,1,plakzanyagroDa,1,source_demonstrated_two_or_three_member_relation
+ca73e8bf05f795d5,dvitiya_tatpurusha,duHKa;Apanna,2,1,Apanna directed toward or involving duHKa,2.1.24,f633d0918b5806ba,1,duHKApanna,1,source_demonstrated_two_or_three_member_relation
+ba1be0946987641d,dvitiya_tatpurusha,grAma;gata,2,1,gata directed toward or involving grAma,2.1.24,604af35003168d65,1,grAmagata,1,source_demonstrated_two_or_three_member_relation
+3fcf50444197ced3,dvitiya_tatpurusha,kAntAra;atIta,2,1,atIta directed toward or involving kAntAra,2.1.24,e441bfebde8cb02d,1,kAntArAtIta,1,source_demonstrated_two_or_three_member_relation
+5e932b88a4907eb7,dvitiya_tatpurusha,kazwa;Srita,2,1,Srita directed toward or involving kazwa,2.1.1;2.1.24,2457fa3f270da5f7;7ef8fc1eefdd09b3,2,kazwaSrita,1,source_demonstrated_two_or_three_member_relation
+3c1fdb6bfc807ca6,dvitiya_tatpurusha,naraka;Srita,2,1,Srita directed toward or involving naraka,2.1.24,a391d1b997c471c2,1,narakaSrita,1,source_demonstrated_two_or_three_member_relation
+d50f49fb86cef1d1,dvitiya_tatpurusha,naraka;patita,2,1,patita directed toward or involving naraka,2.1.24,554b51233446b84b,1,narakapatita,1,source_demonstrated_two_or_three_member_relation
+535ac913974be06c,dvitiya_tatpurusha,suKa;Apanna,2,1,Apanna directed toward or involving suKa,2.1.24,ee01d024ae5339a6,1,suKApanna,1,source_demonstrated_two_or_three_member_relation
+dc18ef19cc048d86,dvitiya_tatpurusha,suKa;prApta,2,1,prApta directed toward or involving suKa,2.1.24,315403dd319ed0c0,1,suKaprApta,1,source_demonstrated_two_or_three_member_relation
+877a2f73017db26d,dvitiya_tatpurusha,taraNga;atyasta,2,1,atyasta directed toward or involving taraNga,2.1.24,726f0bbebfc8a00b,1,taraNgAtyasta,1,source_demonstrated_two_or_three_member_relation
+cb54512bab1ed1e8,dvitiya_tatpurusha,tuhina;atyasta,2,1,atyasta directed toward or involving tuhina,2.1.24,bdf9da55e5812de1,1,tuhinAtyasta,1,source_demonstrated_two_or_three_member_relation
+e217960596d3f27f,karmadharaya,aSva;kuYjara,2,1,kuYjara qualified or identified by aSva,2.1.62,f9f5dcf0e427fd9c,1,aSvakuYjara,1,source_demonstrated_two_or_three_member_relation
+dda4bb0208246ba0,karmadharaya,aSva;nAga,2,1,nAga qualified or identified by aSva,2.1.62,133b21387152f20f,1,aSvanAga,1,source_demonstrated_two_or_three_member_relation
+d1c874420a678ad7,karmadharaya,aSva;vfndAraka,2,1,vfndAraka qualified or identified by aSva,2.1.62,824b9c7ff1ac2b19,1,aSvavfndAraka,1,source_demonstrated_two_or_three_member_relation
+9458b7fd3db91762,karmadharaya,apara;puruza,2,1,puruza qualified or identified by apara,2.1.58,5ba81719759ab490,1,aparapuruza,1,source_demonstrated_two_or_three_member_relation
+abcbe1d954f99689,karmadharaya,carama;puruza,2,1,puruza qualified or identified by carama,2.1.58,98dda9c5c818b886,1,caramapuruza,1,source_demonstrated_two_or_three_member_relation
+8b95547514e9ee7f,karmadharaya,go;kuYjara,2,1,kuYjara qualified or identified by go,2.1.62,f94c2efa1cde75e8,1,gokuYjara,1,source_demonstrated_two_or_three_member_relation
+24b4be67b3455149,karmadharaya,go;nAga,2,1,nAga qualified or identified by go,2.1.62,882977578064a1e6,1,gonAga,1,source_demonstrated_two_or_three_member_relation
+feba8126209654b3,karmadharaya,go;vfndAraka,2,1,vfndAraka qualified or identified by go,2.1.62,c538123c1d7931d5,1,govfndAraka,1,source_demonstrated_two_or_three_member_relation
+2ed68be6c86a34c2,karmadharaya,jaGanya;puruza,2,1,puruza qualified or identified by jaGanya,2.1.58,683b751e6c82c24b,1,jaGanyapuruza,1,source_demonstrated_two_or_three_member_relation
+8d1d1a5f91abe8ec,karmadharaya,maDya;puruza,2,1,puruza qualified or identified by maDya,2.1.58,086049c666d62d7e,1,maDyapuruza,1,source_demonstrated_two_or_three_member_relation
+0a4ad4531c7723a5,karmadharaya,maDyama;puruza,2,1,puruza qualified or identified by maDyama,2.1.58,1983a97e64dddcbd,1,maDyamapuruza,1,source_demonstrated_two_or_three_member_relation
+1e12776e22be57da,karmadharaya,mahat;puruza,2,1,puruza qualified or identified by mahat,2.1.61,862abe52ee0614bc,1,mahApuruza,1,source_demonstrated_two_or_three_member_relation
+c12e0914e49b0f55,karmadharaya,pUrva;puruza,2,1,puruza qualified or identified by pUrva,2.1.58,376debe1ad9745f8,1,pUrvapuruza,1,source_demonstrated_two_or_three_member_relation
+6db683521412e7e3,karmadharaya,parama;puruza,2,1,puruza qualified or identified by parama,2.1.61,cde365a50f2ee374,1,paramapuruza,1,source_demonstrated_two_or_three_member_relation
+e570f3972939d90b,karmadharaya,praTama;puruza,2,1,puruza qualified or identified by praTama,2.1.58,f5f57cf92452b5e3,1,praTamapuruza,1,source_demonstrated_two_or_three_member_relation
+6291b0cf1beb4c59,karmadharaya,samAna;puruza,2,1,puruza qualified or identified by samAna,2.1.58,91f41501c06c03e9,1,samAnapuruza,1,source_demonstrated_two_or_three_member_relation
+8b55c1ae8def439a,karmadharaya,sat;puruza,2,1,puruza qualified or identified by sat,2.1.61,ecf8fff0f852013a,1,satpuruza,1,source_demonstrated_two_or_three_member_relation
+61422bde97bd946e,karmadharaya,utkfzwa;puruza,2,1,puruza qualified or identified by utkfzwa,2.1.61,f8b630ab8af35072,1,utkfzwapuruza,1,source_demonstrated_two_or_three_member_relation
+6d0e82f93e303bd0,karmadharaya,uttama;puruza,2,1,puruza qualified or identified by uttama,2.1.61,d5dd0489e3bc1496,1,uttamapuruza,1,source_demonstrated_two_or_three_member_relation
+e51fe98e7609ef35,karmadharaya,vIra;puruza,2,1,puruza qualified or identified by vIra,2.1.58,69f1f0549a378ef7,1,vIrapuruza,1,source_demonstrated_two_or_three_member_relation
+226f3924cdca8546,karmadharaya,yuvan;Kalati,2,1,Kalati qualified or identified by yuvan,2.1.67,4e6a26add950dd7f,1,yuvaKalati,1,source_demonstrated_two_or_three_member_relation
+17b653ad86ed7e04,karmadharaya,yuvan;jarati,2,1,jarati qualified or identified by yuvan,2.1.67,d08f18c226086fe5,1,yuvajarati,1,source_demonstrated_two_or_three_member_relation
+0bd08661b23785c2,karmadharaya,yuvan;palita,2,1,palita qualified or identified by yuvan,2.1.67,cbdf1147527c32d5,1,yuvapalita,1,source_demonstrated_two_or_three_member_relation
+a60d1fd8ca7b5826,karmadharaya,yuvan;valina,2,1,valina qualified or identified by yuvan,2.1.67,fb5e4b3e05b38068,1,yuvavalina,1,source_demonstrated_two_or_three_member_relation
+e401ff2173ac6381,panchami_tatpurusha,cOra;Baya,2,1,Baya from or because of cOra,2.1.37,97c41778c566c26c,1,cOraBaya,1,source_demonstrated_two_or_three_member_relation
+22a4a9efd0418530,panchami_tatpurusha,cakra;mukta,2,1,mukta from or because of cakra,2.1.38,032406842a3179bd,1,cakramukta,1,source_demonstrated_two_or_three_member_relation
+298737362598ec26,panchami_tatpurusha,dasyu;Baya,2,1,Baya from or because of dasyu,2.1.37,d83cd4627e8d38a2,1,dasyuBaya,1,source_demonstrated_two_or_three_member_relation
+69a7f2a3d6299b41,panchami_tatpurusha,kalpanA;apoQa,2,1,apoQa from or because of kalpanA,2.1.38,b1f99134e5eba1cd,1,kalpanApoQa,1,source_demonstrated_two_or_three_member_relation
+8a490c51aca46449,panchami_tatpurusha,suKa;apeta,2,1,apeta from or because of suKa,2.1.38,a43f6028d2cea8fa,1,suKApeta,1,source_demonstrated_two_or_three_member_relation
+af0d0a3a7de7d181,panchami_tatpurusha,svarga;patita,2,1,patita from or because of svarga,2.1.38,b0819143c5d64f00,1,svargapatita,1,source_demonstrated_two_or_three_member_relation
+166a907418d3501b,panchami_tatpurusha,taraNga;apatrasta,2,1,apatrasta from or because of taraNga,2.1.38,27b3449859576bd6,1,taraNgApatrasta,1,source_demonstrated_two_or_three_member_relation
+695d420671b3fe92,panchami_tatpurusha,vfka;BI,2,1,BI from or because of vfka,2.1.37,fccb44816059cbcf,1,vfkaBI,1,source_demonstrated_two_or_three_member_relation
+ccbbdd00cc5f6b49,panchami_tatpurusha,vfka;BIta,2,1,BIta from or because of vfka,2.1.37,5caf3e90849333f3,1,vfkaBIta,1,source_demonstrated_two_or_three_member_relation
+1c634381169cef79,panchami_tatpurusha,vfka;BIti,2,1,BIti from or because of vfka,2.1.37,ef01f39342d41502,1,vfkaBIti,1,source_demonstrated_two_or_three_member_relation
+500cfd8e1ab3ee29,panchami_tatpurusha,vfka;Baya,2,1,Baya from or because of vfka,2.1.1;2.1.37,ee56bc0ff4866dd7;fe4cbc67cb26fa77,2,vfkaBaya,1,source_demonstrated_two_or_three_member_relation
+cfa010e33e06da73,samahara_dvandva,vAc;dfzad,2,1,the collection of vAc and dfzad,2.2.29,468ff545fa15d2f7,1,vAgdfzada,1,source_demonstrated_two_or_three_member_relation
+39f92c7d1cb4b50b,samahara_dvandva,vAc;tvac,2,1,the collection of vAc and tvac,2.2.29,8f742b6bf7561a02,1,vAktvaca,1,source_demonstrated_two_or_three_member_relation
+99e33b600afc1b02,saptami_tatpurusha,Atapa;Suzka,2,1,Suzka in or upon Atapa,2.1.41,3fabcd3566820c58,1,AtapaSuzka,1,source_demonstrated_two_or_three_member_relation
+91f8063a4bd38470,saptami_tatpurusha,CAyA;Suzka,2,1,Suzka in or upon CAyA,2.1.41,4966d56e65c67de2,1,CAyASuzka,1,source_demonstrated_two_or_three_member_relation
+06d12797a4a15ff0,saptami_tatpurusha,akza;DUrta,2,1,DUrta in or upon akza,2.1.40,a1eae278d225c24d,1,akzaDUrta,1,source_demonstrated_two_or_three_member_relation
+4ab953e411ff1358,saptami_tatpurusha,akza;SORqa,2,1,SORqa in or upon akza,2.1.1;2.1.40,0bab1bca6307ed97;cab81f07e69c080e,2,akzaSORqa,1,source_demonstrated_two_or_three_member_relation
+cbc741b9e23612fc,saptami_tatpurusha,akza;kitava,2,1,kitava in or upon akza,2.1.40,45ad1a481194bcc6,1,akzakitava,1,source_demonstrated_two_or_three_member_relation
+98c9080073ed9340,saptami_tatpurusha,cakra;banDa,2,1,banDa in or upon cakra,2.1.41,d2cc048f696f5cf4,1,cakrabanDa,1,source_demonstrated_two_or_three_member_relation
+6b84f674ad8c9cba,saptami_tatpurusha,kAmpilya;sidDa,2,1,sidDa in or upon kAmpilya,2.1.41,04703377b8d829fb,1,kAmpilyasidDa,1,source_demonstrated_two_or_three_member_relation
+3cf13b08d4f90802,saptami_tatpurusha,kumBI;pakva,2,1,pakva in or upon kumBI,2.1.41,a0e10ab434dbd648,1,kumBIpakva,1,source_demonstrated_two_or_three_member_relation
+4aa6c414b0681049,saptami_tatpurusha,sANkASya;sidDa,2,1,sidDa in or upon sANkASya,2.1.41,5da0910d37f6befb,1,sANkASyasidDa,1,source_demonstrated_two_or_three_member_relation
+8033daa6e0633d9d,saptami_tatpurusha,sTAlI;pakva,2,1,pakva in or upon sTAlI,2.1.41,3bf939501812562a,1,sTAlIpakva,1,source_demonstrated_two_or_three_member_relation
+8139e72187f79de5,saptami_tatpurusha,tIrTa;DvANkza,2,1,DvANkza in or upon tIrTa,2.1.42,ccb550eaab3746c1,1,tIrTaDvANkza,1,source_demonstrated_two_or_three_member_relation
+665934a76beab0d2,sasthi_tatpurusha,brAhmaRa;kambala,2,1,kambala of brAhmaRa,2.2.8,e1c98f92ecffe692,1,brAhmaRakambala,1,source_demonstrated_two_or_three_member_relation
+6d200d5539757cc4,sasthi_tatpurusha,rAjan;puruza,2,1,puruza of rAjan,2.1.1;2.2.8,31f8ab326b87a90a;6acfbb56ac5ba42e,2,rAjapuruza,1,source_demonstrated_two_or_three_member_relation
+3af784b195282d72,trtiya_tatpurusha,AcAra;SlakzRa,2,1,"SlakzRa by, with, or through AcAra",2.1.31,5211d3ecc35879d8,1,AcAraSlakzRa,1,source_demonstrated_two_or_three_member_relation
+19233f5476a9fa7c,trtiya_tatpurusha,AcAra;nipuRa,2,1,"nipuRa by, with, or through AcAra",2.1.31,c057d905408cbdae,1,AcAranipuRa,1,source_demonstrated_two_or_three_member_relation
+d1e7b8b096ecc99e,trtiya_tatpurusha,DAnya;arTa,2,1,"arTa by, with, or through DAnya",2.1.30,88415eb17e099f2c,1,DAnyArTa,1,source_demonstrated_two_or_three_member_relation
+c03b5ff6c7d427c1,trtiya_tatpurusha,SaNkulA;KaRqa,2,1,"KaRqa by, with, or through SaNkulA",2.1.1;2.1.30,829df7900f311d9b;e7c3d6b270063d6b,2,SaNkulAKaRqa,1,source_demonstrated_two_or_three_member_relation
+117bdd955ef832e9,trtiya_tatpurusha,ahi;hata,2,1,"hata by, with, or through ahi",2.1.32,8498abeea9ae4ee8,1,ahihata,1,source_demonstrated_two_or_three_member_relation
+0b398da9de2eba51,trtiya_tatpurusha,asi;kalaha,2,1,"kalaha by, with, or through asi",2.1.31,3004d1877b39f52a,1,asikalaha,1,source_demonstrated_two_or_three_member_relation
+5191f61b00d83c39,trtiya_tatpurusha,daDi;odana,2,1,"odana by, with, or through daDi",2.1.34,38121084a3ce3c20,1,daDyodana,1,source_demonstrated_two_or_three_member_relation
+2e8c8ef6d94a6e8a,trtiya_tatpurusha,guqa;miSra,2,1,"miSra by, with, or through guqa",2.1.31,3bc28f84e593a086,1,guqamiSra,1,source_demonstrated_two_or_three_member_relation
+eccecdcb5c9cafda,trtiya_tatpurusha,kArzApaRa;Una,2,1,"Una by, with, or through kArzApaRa",2.1.31,212f9355dc1e9409,1,kArzApaRona,1,source_demonstrated_two_or_three_member_relation
+a1eb2ede694b80a1,trtiya_tatpurusha,kiri;kARa,2,1,"kARa by, with, or through kiri",2.1.30,e9baaa9561f645b8,1,kirikARa,1,source_demonstrated_two_or_three_member_relation
+bc70529c1d587943,trtiya_tatpurusha,kzIra;odana,2,1,"odana by, with, or through kzIra",2.1.34,33172c8b2a8aff94,1,kzIrOdana,1,source_demonstrated_two_or_three_member_relation
+64a01d0f3acca575,trtiya_tatpurusha,mASa;Una,2,1,"Una by, with, or through mASa",2.1.31,7dd88e269e1d92ce,1,mASona,1,source_demonstrated_two_or_three_member_relation
+56f6ef324aa66762,trtiya_tatpurusha,mAsa;pUrva,2,1,"pUrva by, with, or through mAsa",2.1.31,371bd37c5ad4b1d0,1,mAsapUrva,1,source_demonstrated_two_or_three_member_relation
+678781eb6760a7be,trtiya_tatpurusha,mAtf;sadfSa,2,1,"sadfSa by, with, or through mAtf",2.1.31,615d543ae9d91f53,1,mAtfsadfSa,1,source_demonstrated_two_or_three_member_relation
+6f7df4f11c356ad4,trtiya_tatpurusha,mAtf;sama,2,1,"sama by, with, or through mAtf",2.1.31,9f2b78072fa526bd,1,mAtfsama,1,source_demonstrated_two_or_three_member_relation
+a49b4f430920aad7,trtiya_tatpurusha,paraSu;Cinna,2,1,"Cinna by, with, or through paraSu",2.1.32,d6e0783faae573ff,1,paraSucCinna,1,source_demonstrated_two_or_three_member_relation
+1bd5cd2fd7c6982b,trtiya_tatpurusha,pitf;sadfSa,2,1,"sadfSa by, with, or through pitf",2.1.31,ecb1781a9a23b807,1,pitfsadfSa,1,source_demonstrated_two_or_three_member_relation
+bd28934676e30170,trtiya_tatpurusha,saMvatsara;pUrva,2,1,"pUrva by, with, or through saMvatsara",2.1.31,f9e687fd4d4abd49,1,saMvatsarapUrva,1,source_demonstrated_two_or_three_member_relation
+f58a3121cbbb03de,trtiya_tatpurusha,tila;miSra,2,1,"miSra by, with, or through tila",2.1.31,3832d7dd3762af08,1,tilamiSra,1,source_demonstrated_two_or_three_member_relation
+faa21d2f2def529e,trtiya_tatpurusha,vAc;kalaha,2,1,"kalaha by, with, or through vAc",2.1.31,8a55358e88022d36,1,vAkkalaha,1,source_demonstrated_two_or_three_member_relation
+83015808b86fd733,trtiya_tatpurusha,vAc;nipuRa,2,1,"nipuRa by, with, or through vAc",2.1.31,6b6876b8b6312a16,1,vANnipuRa,1,source_demonstrated_two_or_three_member_relation

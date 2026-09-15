@@ -1,0 +1,68 @@
+source_example_id,source_file,source_function,source_line,rule_ref,input_form_slp1,prefixes_slp1,constructor,semantic_relation,expected_present_forms_slp1,expected_variant_count,source_test_status,operation_scope
+44f5926d57aff55d95ac,kashika_3_1.rs,sutra_3_1_8,96,3.1.8,putra,,auto,desire the nominal referent in relation to oneself,putrIyati,1,active,broad_example
+b38e6394b65ed792479a,kashika_3_1.rs,sutra_3_1_9,106,3.1.9,kim,,kAmyac,desire the nominal referent in relation to oneself,kiNkAmyati,1,active,broad_example
+d0d4558c69e63ac1369a,kashika_3_1.rs,sutra_3_1_9,102,3.1.9,putra,,kAmyac,desire the nominal referent in relation to oneself,putrakAmyati,1,active,broad_example
+ed9448391114479af29f,kashika_3_1.rs,sutra_3_1_9,105,3.1.9,sarpis,,kAmyac,desire the nominal referent in relation to oneself,sarpizkAmyati,1,active,broad_example
+bb52614ae7f7d1826ec6,kashika_3_1.rs,sutra_3_1_9,107,3.1.9,svar,,kAmyac,desire the nominal referent in relation to oneself,svaHkAmyati,1,active,broad_example
+3ec07e103ba07f06ef01,kashika_3_1.rs,sutra_3_1_9,103,3.1.9,yaSas,,kAmyac,desire the nominal referent in relation to oneself,yaSaskAmyati,1,active,broad_example
+418b7c97728b5b985f43,kashika_3_1.rs,sutra_3_1_10_v1,119,3.1.10,paryaNka,,kyac,treat an object as comparable to the nominal referent,paryaNkIyati,1,active,broad_example
+d4c7308e47e172856eec,kashika_3_1.rs,sutra_3_1_10_v1,118,3.1.10,prAsAda,,kyac,treat an object as comparable to the nominal referent,prAsAdIyati,1,active,broad_example
+afc3be7b315ddb329492,kashika_3_1.rs,sutra_3_1_10,113,3.1.10,prAvAra,,kyac,treat an object as comparable to the nominal referent,prAvArIyati,1,active,broad_example
+ffabe219a939aa9062ec,kashika_3_1.rs,sutra_3_1_10,112,3.1.10,putra,,kyac,treat an object as comparable to the nominal referent,putrIyati,1,active,broad_example
+b1b665ef58c509ebe61a,kashika_3_1.rs,sutra_3_1_11,124,3.1.11,Syena,,kyaN,act like the nominal referent,SyenAyate,1,active,broad_example
+938e3bd22d55c57fa47b,kashika_3_1.rs,sutra_3_1_11,128,3.1.11,apsaras,,kyaN,act like the nominal referent,apsarAyate,1,active,broad_example
+a242cd0fbd0ff8c4fccb,kashika_3_1.rs,sutra_3_1_11,131,3.1.11,haMsa,,kyaN,act like the nominal referent,haMsAyate,1,active,broad_example
+d74a61113347a0d6d2ac,kashika_3_1.rs,sutra_3_1_11,126,3.1.11,ojas,,kyaN,act like the nominal referent,ojAyate,1,active,broad_example
+1ffadd3d779b793c31fe,kashika_3_1.rs,sutra_3_1_11,129,3.1.11,payas,,kyaN,act like the nominal referent,payAyate;payasyate,2,active,broad_example
+c5be5cfe5860af9a7afd,kashika_3_1.rs,sutra_3_1_11,125,3.1.11,puzkara,,kyaN,act like the nominal referent,puzkarAyate,1,active,broad_example
+c55d5b0d041c4ecfbbc9,kashika_3_1.rs,sutra_3_1_11,130,3.1.11,sArasa,,kyaN,act like the nominal referent,sArasAyate,1,active,broad_example
+b0b916b2e6608a050d21,kashika_3_1.rs,sutra_3_1_12,136,3.1.12,BfSa,,kyaN,become or present as the quality denoted by the nominal referent,BfSAyate,1,active,conditioned_example
+e9cadc2a89bdd51bcde4,kashika_3_1.rs,sutra_3_1_12,137,3.1.12,SIGra,,kyaN,become or present as the quality denoted by the nominal referent,SIGrAyate,1,active,conditioned_example
+35e7c082ab917cbe01ca,kashika_3_1.rs,sutra_3_1_13,143,3.1.13,lohita,,auto,become or present as the state denoted by the nominal referent,lohitAyati;lohitAyate,2,active,conditioned_example
+7acc0c20589920e7b53c,kashika_3_1.rs,sutra_3_1_14_v1,157,3.1.14,gahana,,kyaN,undertake crooked or wrongful conduct associated with the nominal referent,gahanAyate,1,active,conditioned_example
+62c9b2e6e0b91b16cec9,kashika_3_1.rs,sutra_3_1_14_v1,155,3.1.14,kakza,,kyaN,undertake crooked or wrongful conduct associated with the nominal referent,kakzAyate,1,active,conditioned_example
+fe1c7ce0869b3c0fa372,kashika_3_1.rs,sutra_3_1_14,148,3.1.14,kazwa,,kyaN,undertake crooked or wrongful conduct associated with the nominal referent,kazwAyate,1,active,conditioned_example
+118d2f9986611c0a6f7f,kashika_3_1.rs,sutra_3_1_14_v1,156,3.1.14,kfcCra,,kyaN,undertake crooked or wrongful conduct associated with the nominal referent,kfcCrAyate,1,active,conditioned_example
+6500235956c67c982761,kashika_3_1.rs,sutra_3_1_14_v1,153,3.1.14,satra,,kyaN,undertake crooked or wrongful conduct associated with the nominal referent,satrAyate,1,active,conditioned_example
+12984bd866c379519e04,kashika_3_1.rs,sutra_3_1_15,163,3.1.15,romanTa,,auto,ruminate,romanTAyate,1,active,conditioned_example
+76095965b68cdb26beb3,kashika_3_1.rs,sutra_3_1_15,164,3.1.15,tapas,,auto,practice tapas,tapasyati,1,active,conditioned_example
+47558e29eca7869a66a4,kashika_3_1.rs,sutra_3_1_16_v1,175,3.1.16,Pena,,kyaN,emit the substance denoted by the nominal referent,PenAyate,1,active,conditioned_example
+b67b89a8e5ec5cae5a5f,kashika_3_1.rs,sutra_3_1_16,169,3.1.16,bAzpa,,kyaN,emit the substance denoted by the nominal referent,bAzpAyate,1,active,conditioned_example
+a936a840bb72a87d84d3,kashika_3_1.rs,sutra_3_1_16,170,3.1.16,uzma,,kyaN,emit the substance denoted by the nominal referent,uzmAyate,1,active,conditioned_example
+bf6f78718402ff42fe31,kashika_3_1.rs,sutra_3_1_17_v2,199,3.1.17,SIkA,,kyaN,produce or perform the nominal referent,SIkAyate,1,active,conditioned_example
+e035233526dbff2c81dd,kashika_3_1.rs,sutra_3_1_17,180,3.1.17,Sabda,,kyaN,produce or perform the nominal referent,SabdAyate,1,active,conditioned_example
+3d8c4de16f9cb8c399d0,kashika_3_1.rs,sutra_3_1_17,183,3.1.17,aBra,,kyaN,produce or perform the nominal referent,aBrAyate,1,active,conditioned_example
+219ebd448d0de791f258,kashika_3_1.rs,sutra_3_1_17_v2,197,3.1.17,awA,,kyaN,produce or perform the nominal referent,awAyate,1,active,conditioned_example
+13298848802d5afd6aa4,kashika_3_1.rs,sutra_3_1_17_v2,198,3.1.17,awwA,,kyaN,produce or perform the nominal referent,awwAyate,1,active,conditioned_example
+61a0d0a405b62d6d71f7,kashika_3_1.rs,sutra_3_1_17_v1,191,3.1.17,durdina,,kyaN,produce or perform the nominal referent,durdinAyate,1,active,conditioned_example
+72d6cae237d4f90eae05,kashika_3_1.rs,sutra_3_1_17,184,3.1.17,kaRva,,kyaN,produce or perform the nominal referent,kaRvAyate,1,active,conditioned_example
+d30c8dd3b108304ea95c,kashika_3_1.rs,sutra_3_1_17,182,3.1.17,kalaha,,kyaN,produce or perform the nominal referent,kalahAyate,1,active,conditioned_example
+5477d2688b9477f74ae4,kashika_3_1.rs,sutra_3_1_17_v2,200,3.1.17,kowA,,kyaN,produce or perform the nominal referent,kowAyate,1,active,conditioned_example
+bb5b55ade81dd1ddf0c9,kashika_3_1.rs,sutra_3_1_17,185,3.1.17,meGa,,kyaN,produce or perform the nominal referent,meGAyate,1,active,conditioned_example
+efaa7c9486080a49b10c,kashika_3_1.rs,sutra_3_1_17_v1,192,3.1.17,nIhAra,,kyaN,produce or perform the nominal referent,nIhArAyate,1,active,conditioned_example
+52de49e7c1faccafb9e4,kashika_3_1.rs,sutra_3_1_17_v2,204,3.1.17,pluzwA,,kyaN,produce or perform the nominal referent,pluzwAyate,1,active,conditioned_example
+e02469732173909ac7ac,kashika_3_1.rs,sutra_3_1_17_v2,201,3.1.17,powA,,kyaN,produce or perform the nominal referent,powAyate,1,active,conditioned_example
+b0fdf3a453d55ab569bc,kashika_3_1.rs,sutra_3_1_17_v2,203,3.1.17,pruzwA,,kyaN,produce or perform the nominal referent,pruzwAyate,1,active,conditioned_example
+a492d65ee9e1a6f34657,kashika_3_1.rs,sutra_3_1_17_v2,202,3.1.17,sowA,,kyaN,produce or perform the nominal referent,sowAyate,1,active,conditioned_example
+dec2982f1ae455625952,kashika_3_1.rs,sutra_3_1_17_v1,190,3.1.17,sudina,,kyaN,produce or perform the nominal referent,sudinAyate,1,active,conditioned_example
+631d3e0eccfa750fa209,kashika_3_1.rs,sutra_3_1_17,181,3.1.17,vEra,,kyaN,produce or perform the nominal referent,vErAyate,1,active,conditioned_example
+44b7c9c69a84db5138e9,kashika_3_1.rs,sutra_3_1_18,210,3.1.18,duHKa,,kyaN,experience the state denoted by the nominal referent directly,duHKAyate,1,active,conditioned_example
+cc8f05b739ab219cd724,kashika_3_1.rs,sutra_3_1_18,209,3.1.18,suKa,,kyaN,experience the state denoted by the nominal referent directly,suKAyate,1,active,conditioned_example
+293d84d3f2d40d57af44,kashika_3_1.rs,sutra_3_1_19,218,3.1.19,citra,,auto,experience or produce wonder,citrIyate,1,active,conditioned_example
+841548e07f48543fc2f6,kashika_3_1.rs,sutra_3_1_19,216,3.1.19,namas,,auto,offer honor or worship,namasyati,1,active,conditioned_example
+f3a637dfde71639b6a16,kashika_3_1.rs,sutra_3_1_19,217,3.1.19,varivas,,auto,serve or attend upon,varivasyati,1,active,conditioned_example
+fb6d43ad78043c085c4d,kashika_3_1.rs,sutra_3_1_20,226,3.1.20,BARqa,sam,auto,heap or gather vessels,samBARqayate,1,active,conditioned_example
+616fe98fa337a85b4d33,kashika_3_1.rs,sutra_3_1_20,227,3.1.20,cIvara,sam,auto,acquire a robe,saYcIvarayate,1,active,conditioned_example
+c31ae8ea1c3f10528275,kashika_3_1.rs,Kāśikā commentary,,3.1.20,cIvara,sam,auto,put on or wear a robe,saYcIvarayate,1,active,conditioned_example
+309e2d407dd4343806cd,kashika_3_1.rs,sutra_3_1_20,225,3.1.20,pucCa,pari,auto,move the tail around,paripucCayate,1,active,conditioned_example
+2e601a3a4220843a9bc1,kashika_3_1.rs,sutra_3_1_20,224,3.1.20,pucCa,ud,auto,raise the tail,utpucCayate,1,active,conditioned_example
+1cd12a76e64fffaeab6c,kashika_3_1.rs,sutra_3_1_21,236,3.1.21,SlakzRa,,auto,perform the source-specified action associated with the nominal referent,SlakzRayati,1,ignored,conditioned_example
+cfd9135cb94fa4af708d,kashika_3_1.rs,sutra_3_1_21,240,3.1.21,hali,,auto,perform the source-specified action associated with the nominal referent,ajahalat;halayati,2,ignored,conditioned_example
+eeb10d2bbed1166c12c9,kashika_3_1.rs,sutra_3_1_21,241,3.1.21,kali,,auto,perform the source-specified action associated with the nominal referent,acakalat;kalayati,2,ignored,conditioned_example
+e7a93b707ea49bf758eb,kashika_3_1.rs,sutra_3_1_21,244,3.1.21,kft,,auto,perform the source-specified action associated with the nominal referent,kftayati,1,ignored,conditioned_example
+0de260f78765c9e120d9,kashika_3_1.rs,sutra_3_1_21,237,3.1.21,lavaRa,,auto,perform the source-specified action associated with the nominal referent,lavaRayati,1,ignored,conditioned_example
+0ea94c020d51c24ec075,kashika_3_1.rs,sutra_3_1_21,235,3.1.21,miSra,,auto,perform the source-specified action associated with the nominal referent,miSrayati,1,ignored,conditioned_example
+fcd4d93d4efad72923d2,kashika_3_1.rs,sutra_3_1_21,234,3.1.21,muRqa,,auto,perform the source-specified action associated with the nominal referent,muRqayati,1,ignored,conditioned_example
+fc6224c8056e99baefa7,kashika_3_1.rs,sutra_3_1_21,245,3.1.21,tUsta,vi,auto,perform the source-specified action associated with the nominal referent,tUstayati,1,ignored,conditioned_example
+c465ab6acb9b09834291,kashika_3_1.rs,sutra_3_1_21,239,3.1.21,vastra,sam,auto,perform the source-specified action associated with the nominal referent,saMvastrayati,1,ignored,conditioned_example
+b58ef370bd41eff2e330,kashika_3_1.rs,sutra_3_1_21,238,3.1.21,vrata,,auto,perform the source-specified action associated with the nominal referent,vratayati,1,ignored,conditioned_example

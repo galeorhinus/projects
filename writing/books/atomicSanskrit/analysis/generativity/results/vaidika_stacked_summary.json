@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-13",
+  "source_one_upasarga_word_meanings": 52567,
+  "source_one_sanadi_word_meanings": 13044,
+  "selected_vedic_operations": 3,
+  "structural_operation_candidates": 196833,
+  "admitted_vaidika_stacked_word_meanings": 196833,
+  "not_admitted_total": 0,
+  "admitted_by_source_kind": {
+    "one_sanadi": 39132,
+    "one_upasarga": 157701
+  },
+  "admitted_by_operation": {
+    "vedic_perfect_participle_kanac": 65611,
+    "vedic_perfect_participle_kvasu": 65611,
+    "vedic_sak_purpose_kamul": 65611
+  },
+  "not_admitted_by_operation": {},
+  "prior_vaidika_specific_subtotal": 7905,
+  "vaidika_specific_subtotal": 204738,
+  "scope": "The engine-supported Vedic perfect participle and sak-conditioned purpose operation applied separately to one-prefix and one-sanadi meanings. No two-prefix, prefix-plus-sanadi, inflectional, or unsupported Vedic suffix layer enters this pass.",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32",
+    "is_chandasi": true,
+    "use_svaras": true
+  },
+  "inputs": {
+    "analysis/generativity/results/upasarga_generation_ledger.csv": "7d670a4f4290a25c42ea5c6e4803e93e4eda9ead1326a20289e7afb0ddf950ed",
+    "analysis/generativity/results/verbal_derivation_ledger.csv": "d24e885863a5f840637054d2686a75717ce5f7efb7bbb78c901e9ebbac920617",
+    "analysis/generativity/results/curadi_causative_ledger.csv": "6f81d8f3c0b37964c9ff27703a66333570e10f8ea81b2b2e31ff5fb458a9c73b",
+    "analysis/generativity/upasarga_inventory.csv": "cf3e86d1d8e7ebc6613130b99a11c1d0da4a943093cbbbc72667e08004a82c04",
+    "analysis/generativity/vaidika_krt_operations.json": "e29b7226471a7381d5b59ea189e0341c463e3a00e535739b9f0ff11e8d59e31c",
+    "analysis/generativity/results/vaidika_conditioned_summary.json": "b57e47b880de1dfc2af3529bc489e41a226a0879f98d31b0614e4dc8c82f325d",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_vaidika_stacked_ledger.py": "31eb0cdfbdacf07f5e577b7948055c37dc2ecbc6db9ca71d4c58e48e90f4ccdb"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

@@ -1,0 +1,3 @@
+operation_id,source_variant,operation_display,semantic_context,semantic_branch_id,semantic_relation,eligibility_scope,eligible_semantic_branches,eligible_candidate_word_meanings,rule_refs,count_status
+superlative_tamap,tamap,"तमप् (tamap), highest degree",AtishayanaSuperlative,superlative,the nominal meaning understood to the highest degree within the intended comparison,all_declared_laukika_nominal_word_meanings,,794078,5.3.55,eligible_for_engine_generation
+comparative_tarap,tarap,"तरप् (tarap), greater degree",AtishayanaComparative,comparative,the nominal meaning understood to a greater degree within the intended comparison,all_declared_laukika_nominal_word_meanings,,794078,5.3.57,eligible_for_engine_generation

@@ -1,0 +1,573 @@
+{
+  "date": "2026-09-13",
+  "baseline": 2645,
+  "status": "proposals_not_applied",
+  "cases": [
+    {
+      "id": "IR128",
+      "status": "defer_identity",
+      "decision": "Retain the two mana assignments and the separate sound meaning. Madhaviya explicitly records disagreement over the fourth-class entry's admission and supplies its forms, but does not settle its lexical identity with the third-class entry merely by using the same heading.",
+      "remaining": "Defer mana's contextual interpretation and cross-class identity. Preserve the fourth-class reading rather than deleting it because some grammarians omit it.",
+      "evidence": [
+        {
+          "source": "dhatu-mA785.html",
+          "anchor": "अयं कैश्चिदेव पठ्यते",
+          "role": "Admission is reading-dependent.",
+          "record": {
+            "filename": "dhatu-mA785.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA785.html",
+            "accessed_utc": "2026-09-12T16:21:54.904942+00:00",
+            "sha256": "6cea356450d9ad0fb4e0caae35339d211c0cd55315348e67e6fc1511911d2d45",
+            "bytes": 1699
+          }
+        },
+        {
+          "source": "dhatu-kRi759.html",
+          "anchor": "माङ् माने, शब्दे च",
+          "role": "Third-class sound use remains independent.",
+          "record": {
+            "filename": "dhatu-kRi759.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi759.html",
+            "accessed_utc": "2026-09-13T04:04:11.382515+00:00",
+            "sha256": "bac3bcac30f20794a7fe0672f9d5e7c4aff54cc4e787be447a57ffcbc260e7b8",
+            "bytes": 923
+          }
+        }
+      ],
+      "batch": 5,
+      "label": "मा (mā)",
+      "entries": {
+        "03.0007": [
+          "mAne",
+          "Sabde"
+        ],
+        "04.0037": [
+          "mAne"
+        ]
+      },
+      "before": "The fourth-class ma entry is a contested listing, and the discussion distinguishes several ma atoms. Do not equate its mana heading with the third-class assignment merely from spelling.",
+      "original_followup": "Resolve the fourth-class entry's identity and the meaning of mana in this passage; preserve the third-class sound use.",
+      "before_count": 3,
+      "proposed_count": 3,
+      "delta": 0
+    },
+    {
+      "id": "IR131",
+      "status": "propose_merge",
+      "decision": "Merge the repeated glepana assignment, preserving the independently counted joy meaning. Bala-manorama defines glepana and explicitly states that this remains the divadi atom with its shyan formation, rather than a new first-class atom. Madhaviya independently connects that atom to ghatadi mit treatment.",
+      "remaining": "Approve the one-unit reduction. Keep glepana distinct from joy and preserve the grammatical restriction.",
+      "review_update": "Initially deferred in pass 5; the shared grammatical-source check during pass 6 resolved the atom identity.",
+      "proposed_merges": [
+        [
+          [
+            "01.0927",
+            "glepane"
+          ],
+          [
+            "04.0105",
+            "glepane"
+          ]
+        ]
+      ],
+      "evidence": [
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "ग्लेपनं दैन्यमिति",
+          "role": "Extended Bala-manorama meaning explanation, not sutra wording.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "तथा च श्यन्विकरण एवाऽयमिति भावः",
+          "role": "Explicitly retains the divadi formation.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        },
+        {
+          "source": "dhatu-mA849.html",
+          "anchor": "घटादिपाठान्मित्त्वम्",
+          "role": "Independent grammatical connection.",
+          "record": {
+            "filename": "dhatu-mA849.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA849.html",
+            "accessed_utc": "2026-09-12T16:21:57.357830+00:00",
+            "sha256": "1d155c8d2f613aa9461518030fb643cd2aa552a9e2f24ee4a90eaf94e5616c13",
+            "bytes": 2644
+          }
+        }
+      ],
+      "batch": 5,
+      "label": "मद् (mad)",
+      "entries": {
+        "01.0927": [
+          "harze",
+          "glepane"
+        ],
+        "04.0105": [
+          "harze",
+          "glepane"
+        ]
+      },
+      "before": "Consolidate joy, which is explicitly linked to ghatadi mit treatment. Keep both glepana assignments provisional until their distribution is sourced.",
+      "original_followup": "The divadi heading here gives only joy; locate its glepana reading before consolidating that additional pair.",
+      "before_count": 3,
+      "proposed_count": 2,
+      "delta": -1
+    },
+    {
+      "id": "IR135",
+      "status": "retain_readings",
+      "decision": "Keep the completed happiness merger and the separately recorded crushing reading. The direct tudadi source confirms sukhana; the ninth-class sources genuinely preserve competing readings. The earlier merger applies only to the shared happiness meaning.",
+      "remaining": "Closed for this sweep. Maintain reading-specific formation eligibility; crushing is not an English synonym for happiness.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi965.html",
+          "anchor": "मृड सुखने",
+          "role": "Direct tudadi heading.",
+          "record": {
+            "filename": "dhatu-kRi965.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi965.html",
+            "accessed_utc": "2026-09-13T04:04:11.841172+00:00",
+            "sha256": "44aa4f2f7fc972ef6159ec835d6a03a9d2e0c35c89a2fa990d682a024ecf2861",
+            "bytes": 483
+          }
+        },
+        {
+          "source": "dhatu-mA1117.html",
+          "anchor": "मृड सुखे चेति केचित्",
+          "role": "Ninth-class alternative expressly attributed.",
+          "record": {
+            "filename": "dhatu-mA1117.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1117.html",
+            "accessed_utc": "2026-09-12T16:21:08.606379+00:00",
+            "sha256": "4337a05590a17d1583233b76de98e75b15643020f90450c13604b6774367b2a5",
+            "bytes": 633
+          }
+        }
+      ],
+      "batch": 5,
+      "label": "मृड् (mṛḍ)",
+      "entries": {
+        "06.0053": [
+          "suKane"
+        ],
+        "09.0052": [
+          "kzode",
+          "suKe"
+        ]
+      },
+      "before": "Consolidate the happiness use under the explicit sukhana reading of the ninth-class entry. Keep the crushing reading separately.",
+      "original_followup": "Preserve the competing ninth-class readings; this merger is not a claim that crushing means happiness.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR139",
+      "status": "defer_senses",
+      "decision": "Keep crushing/rubbing and pulverizing separate for now, along with akshepa. Madhaviya names all three uses in a single cross-reference but does not define their semantic boundaries. Shared physical effects alone are insufficient to discard one meaning.",
+      "remaining": "Defer only mardana/sancurnana overlap to contextual examples. The earlier shared mardana merger remains applied.",
+      "evidence": [
+        {
+          "source": "dhatu-mA1198.html",
+          "anchor": "मुट सञ्चूर्णने",
+          "role": "Pulverizing heading.",
+          "record": {
+            "filename": "dhatu-mA1198.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1198.html",
+            "accessed_utc": "2026-09-12T16:21:14.385619+00:00",
+            "sha256": "10e8bfef09b923bf8f4ce7303930dd04bf7135f0bf262bde076976328f94cf4d",
+            "bytes": 526
+          }
+        },
+        {
+          "source": "dhatu-mA1198.html",
+          "anchor": "मोटतीति मर्दने शपि मुटतीति प्रमर्दनाक्षेपयोः शे",
+          "role": "Explicit links retain distinct meaning labels.",
+          "record": {
+            "filename": "dhatu-mA1198.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1198.html",
+            "accessed_utc": "2026-09-12T16:21:14.385619+00:00",
+            "sha256": "10e8bfef09b923bf8f4ce7303930dd04bf7135f0bf262bde076976328f94cf4d",
+            "bytes": 526
+          }
+        }
+      ],
+      "batch": 5,
+      "label": "मुट् (muṭ)",
+      "entries": {
+        "01.0366": [
+          "mardane"
+        ],
+        "06.0101": [
+          "Akzepe",
+          "mardane"
+        ],
+        "10.0104": [
+          "saYcUrRane"
+        ]
+      },
+      "before": "Consolidate the two mardana assignments; preserve casting and pulverizing pending any finer semantic comparison.",
+      "original_followup": "Mardana and sancurnana remain separately recorded; related physical effects do not prove identity.",
+      "before_count": 3,
+      "proposed_count": 3,
+      "delta": 0
+    },
+    {
+      "id": "IR148",
+      "status": "defer_reading",
+      "decision": "Keep protection, filling, and pleasure separate. The third-class witness uses long pr, whereas the fifth-class witness explicitly supplies short pr. The pinned short-vowel third-class citation requires reconciliation before any cross-spelling identity work.",
+      "remaining": "Defer the third-class citation correction; this is not a proposal to merge the independent meanings.",
+      "evidence": [
+        {
+          "source": "dhatu-mA735.html",
+          "anchor": "पॄ पालन,पूरणयोः",
+          "role": "Long-vowel third-class witness.",
+          "record": {
+            "filename": "dhatu-mA735.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA735.html",
+            "accessed_utc": "2026-09-12T16:21:51.944800+00:00",
+            "sha256": "d14d32e7e45053d41edc84b0b2743b9a629d38e4b7af95f1220065b2c55c0ffb",
+            "bytes": 11413
+          }
+        },
+        {
+          "source": "dhatu-kRi914.html",
+          "anchor": "पृ प्रीतौ",
+          "role": "Short-vowel fifth-class witness.",
+          "record": {
+            "filename": "dhatu-kRi914.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi914.html",
+            "accessed_utc": "2026-09-13T04:04:13.595817+00:00",
+            "sha256": "6e89390697b1c8861fc7bf66c60fc0b9be9d5bc1f57d595e4a29dcd6f1585c0d",
+            "bytes": 547
+          }
+        }
+      ],
+      "batch": 5,
+      "label": "पृ (pṛ)",
+      "entries": {
+        "03.0005": [
+          "pAlane",
+          "pUraRe"
+        ],
+        "05.0013": [
+          "prItO"
+        ]
+      },
+      "before": "Retain protecting, filling, and pleasing; a cross-reference between their forms does not erase these different meanings.",
+      "original_followup": "Locate the short-vowel third-class reading directly; the retrieved third-class heading uses the long vowel.",
+      "before_count": 3,
+      "proposed_count": 3,
+      "delta": 0
+    },
+    {
+      "id": "IR153",
+      "status": "defer_reading",
+      "decision": "Keep the completed greatness merger and the separate gathering assignment. Kshiratarangini explicitly discusses the redundant greatness occurrence, strengthening the existing consolidation. It does not settle the short/long vowel of the gathering entry.",
+      "remaining": "Defer only the gathering citation to edition normalization. Do not reopen the supported greatness merger.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1203.html",
+          "anchor": "अस्माद् एव प्राकृतेऽर्थे णिचि सिद्धे",
+          "role": "Same-meaning formation explains the redundant entry.",
+          "record": {
+            "filename": "dhatu-kRi1203.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1203.html",
+            "accessed_utc": "2026-09-12T16:20:48.957937+00:00",
+            "sha256": "a13c3b4e9450a19c92f314cf64039e9fcb6468c2d8ccd0308d27f4c385e353b4",
+            "bytes": 675
+          }
+        },
+        {
+          "source": "dhatu-kRi538.html",
+          "anchor": "पुल महत्त्वे",
+          "role": "Earlier greatness heading.",
+          "record": {
+            "filename": "dhatu-kRi538.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi538.html",
+            "accessed_utc": "2026-09-13T04:04:14.541667+00:00",
+            "sha256": "91ddb8283d1151744476ee8d821e478c18bd6d29b1cb7f9ef47476fd322c792a",
+            "bytes": 1140
+          }
+        }
+      ],
+      "batch": 5,
+      "label": "पुल् (pul)",
+      "entries": {
+        "01.0975": [
+          "mahattve"
+        ],
+        "10.0090": [
+          "mahattve"
+        ],
+        "10.0131": [
+          "saNGAte"
+        ]
+      },
+      "before": "Count greatness once in the bhvadi and curadi listings; the commentary explicitly connects them. Keep gathering separate.",
+      "original_followup": "Reconcile the short-vowel gathering citation with the long-vowel poola reading in the other patha before making any further identity claim.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR154",
+      "status": "defer_reading",
+      "decision": "Retain crushing and release separately. The direct tudadi source confirms release, but the archived bhvadi candidates do not yet resolve the unmarked citation requested by the earlier review.",
+      "remaining": "Defer the unmarked bhvadi locator. A marked pudi witness must not silently stand in for the pinned unmarked record.",
+      "evidence": [
+        {
+          "source": "dhatu-mA993.html",
+          "anchor": "पुड उत्सर्गे",
+          "role": "Direct release heading.",
+          "record": {
+            "filename": "dhatu-mA993.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA993.html",
+            "accessed_utc": "2026-09-12T16:22:07.452899+00:00",
+            "sha256": "a13c5b79b9483b44cba10988de9e68d1ff71411c40ff6003b389d5bf4d4cb9d9",
+            "bytes": 453
+          }
+        }
+      ],
+      "batch": 5,
+      "label": "पुड् (puḍ)",
+      "entries": {
+        "01.0367": [
+          "mardane"
+        ],
+        "06.0114": [
+          "utsarge"
+        ]
+      },
+      "before": "Retain crushing and releasing.",
+      "original_followup": "Locate a direct commentary for the unmarked bhvadi crushing entry; the retrieved pud-i page concerns the marked variant.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR160",
+      "status": "propose_merge",
+      "decision": "Merge the repeated sound assignment, keeping movement separate. Kshiratarangini explains the sound-group ran's mit treatment specifically in movement and contrasts its treatment elsewhere. The ghatadi occurrence therefore restricts the same atom; it does not create a second sound meaning.",
+      "remaining": "Approve the one-unit reduction. Preserve the movement-specific grammatical restriction for generation.",
+      "proposed_merges": [
+        [
+          [
+            "01.0513",
+            "Sabde"
+          ],
+          [
+            "01.0904",
+            "Sabde"
+          ]
+        ]
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-kRi290.html",
+          "anchor": "रण-मण-क्वणां गतौ मित्त्वं स्मर्यते",
+          "role": "Explicit movement restriction on the sound-group atom.",
+          "record": {
+            "filename": "dhatu-kRi290.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi290.html",
+            "accessed_utc": "2026-09-13T04:04:15.508856+00:00",
+            "sha256": "47bc4f2ae9ff4eb1bc0a2eae042bec380156cefbdaf96c3f66a895810856f46a",
+            "bytes": 4236
+          }
+        },
+        {
+          "source": "dhatu-kRi290.html",
+          "anchor": "रणयति, अन्यत्र राणयति",
+          "role": "Contrasting grammatical treatment.",
+          "record": {
+            "filename": "dhatu-kRi290.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi290.html",
+            "accessed_utc": "2026-09-13T04:04:15.508856+00:00",
+            "sha256": "47bc4f2ae9ff4eb1bc0a2eae042bec380156cefbdaf96c3f66a895810856f46a",
+            "bytes": 4236
+          }
+        },
+        {
+          "source": "dhatu-kRi513.html",
+          "anchor": "कण रण गतौ",
+          "role": "Restricted ghatadi heading.",
+          "record": {
+            "filename": "dhatu-kRi513.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi513.html",
+            "accessed_utc": "2026-09-13T04:04:15.932024+00:00",
+            "sha256": "17d8ed317c33470643eed010cb20599f564a9b2a3c38edcab7ede01e35fe76c4",
+            "bytes": 543
+          }
+        }
+      ],
+      "batch": 5,
+      "label": "रण् (raṇ)",
+      "entries": {
+        "01.0513": [
+          "Sabde"
+        ],
+        "01.0904": [
+          "gatO",
+          "Sabde"
+        ]
+      },
+      "before": "Keep the shared sound assignments unresolved. The commentary connects the ghatadi occurrence specifically with movement, not explicitly with the shared sound use.",
+      "original_followup": "Locate the ghatadi sound gloss and determine whether its sound meaning duplicates the earlier entry.",
+      "before_count": 3,
+      "proposed_count": 2,
+      "delta": -1
+    },
+    {
+      "id": "IR166",
+      "status": "propose_merge",
+      "decision": "Merge the two harming assignments under the reading that includes the divadi occurrence. Kshiratarangini places the first use in the harming group and explicitly points to divadi rishyati. Madhaviya records both acceptance and omission of that divadi entry, so the disagreement concerns admission rather than a demonstrated second meaning.",
+      "remaining": "Approve the one-unit reduction. Preserve Atreya/Maitreya's omission as provenance; do not describe every edition as containing the fourth-class entry.",
+      "proposed_merges": [
+        [
+          [
+            "01.0790",
+            "hiMsAyAm"
+          ],
+          [
+            "04.0144",
+            "hiMsAyAm"
+          ]
+        ]
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-kRi438.html",
+          "anchor": "रेषति दिवादौ रिष्यति",
+          "role": "Direct link from the harming group.",
+          "record": {
+            "filename": "dhatu-kRi438.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi438.html",
+            "accessed_utc": "2026-09-12T16:20:56.199247+00:00",
+            "sha256": "772b2dc2f174dfc7a77876c8971de10696cd66b6525d9ad8eb94073ff6588f05",
+            "bytes": 2899
+          }
+        },
+        {
+          "source": "dhatu-mA869.html",
+          "anchor": "रिष हिंसायां चेति पठन्ति",
+          "role": "Harming reading recorded.",
+          "record": {
+            "filename": "dhatu-mA869.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA869.html",
+            "accessed_utc": "2026-09-12T16:21:58.535758+00:00",
+            "sha256": "b3cabe633d0b84709c615e71713b949ddf545a79b299e38ff90b716017a7ea17",
+            "bytes": 1830
+          }
+        },
+        {
+          "source": "dhatu-mA869.html",
+          "anchor": "आत्रेयमैत्रेयादयस्तु न पेठुः",
+          "role": "Other grammarians omit that entry.",
+          "record": {
+            "filename": "dhatu-mA869.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA869.html",
+            "accessed_utc": "2026-09-12T16:21:58.535758+00:00",
+            "sha256": "b3cabe633d0b84709c615e71713b949ddf545a79b299e38ff90b716017a7ea17",
+            "bytes": 1830
+          }
+        }
+      ],
+      "batch": 5,
+      "label": "रिष् (riṣ)",
+      "entries": {
+        "01.0790": [
+          "hiMsAyAm"
+        ],
+        "04.0144": [
+          "hiMsAyAm"
+        ]
+      },
+      "before": "The harming meaning is present in the bhvadi group and as a disputed fourth-class addition. Keep both assignments pending the reading check.",
+      "original_followup": "Resolve the fourth-class addition, which the commentary says Atreya and Maitreya did not include.",
+      "before_count": 2,
+      "proposed_count": 1,
+      "delta": -1
+    },
+    {
+      "id": "IR169",
+      "status": "defer_reading",
+      "decision": "Retain anger and the speech-group assignment. Kshiratarangini confirms unaspirated rut in its group, but that witness reads bhasa rather than the pinned bhasha. It therefore closes the consonant locator only for the shining reading, not for the entire selected speech record.",
+      "remaining": "Defer the exact unaspirated speech-reading witness; preserve the anger use independently.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1265.html",
+          "anchor": "रुट रोषे",
+          "role": "Independent anger heading.",
+          "record": {
+            "filename": "dhatu-kRi1265.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1265.html",
+            "accessed_utc": "2026-09-12T16:20:50.475083+00:00",
+            "sha256": "bdca33afea63a1c89e840076632eca3d0bbf173864124ecfe826bb6c3e6b88f0",
+            "bytes": 635
+          }
+        },
+        {
+          "source": "dhatu-kRi1340.html",
+          "anchor": "पट पुट रुट लुट",
+          "role": "Unaspirated group member under the alternative bhasa reading.",
+          "record": {
+            "filename": "dhatu-kRi1340.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1340.html",
+            "accessed_utc": "2026-09-12T15:25:46.577396+00:00",
+            "sha256": "11679a4a79ecdfce86ad32173b0b67209e53039b6677cd018ce06a1a5113846a",
+            "bytes": 6627
+          }
+        }
+      ],
+      "batch": 5,
+      "label": "रुट् (ruṭ)",
+      "entries": {
+        "10.0188": [
+          "roze"
+        ],
+        "10.0314": [
+          "BAzAyAm"
+        ]
+      },
+      "before": "Retain anger and speech; preserve the rut/ruth/rush reading alternatives.",
+      "original_followup": "Locate the exact unaspirated rut citation in the speech group; nearby commentary readings differ.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    }
+  ],
+  "queued_records": 65,
+  "reviewed_records": 65,
+  "complete": true,
+  "proposed_delta": -11,
+  "archive_records": 949,
+  "vocabulary_total": null,
+  "inputs": {
+    "analysis/generativity/reconciliation_review_01.json": "5d31c2e90937fe5528d94ab37516ff4c1c6c19242cdaab20bcf6a75a1279378c",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/results/base_meanings.json": "30172ba60026a93745e1cf51e0c49bdb71ef0c2bc0f0955d3e7ad61c612f9fd4",
+    "analysis/generativity/results/base_meaning_assignments.csv": "4ee3401c434004984c9e4469566519c104190cd00a12dcdc924550fd1fb651be",
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "approved_reconciliation": "7bede88557c33c1d5bf17c76b0a832ccda7a8712ba5b278e1bb72e0deeca709c",
+    "followup_review": "66ca8cc84652986832429261451117774ac140dae5164d9550084948d525b4d5",
+    "approval_02": "0ea974881ec6246a5218137dc6e608abaf78905bda2281932a93f95032f7e765",
+    "remaining_review": "6a579463200fa14b59331845dc8bd262c1ca3b945429edc9c5d690f900a1d55e",
+    "source_manifest": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24"
+  },
+  "scope": "batch",
+  "batch": 5,
+  "batch_reviewed_records": 10
+}

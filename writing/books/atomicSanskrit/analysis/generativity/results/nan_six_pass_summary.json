@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-13",
+  "passes_completed": 6,
+  "rules_classified": 3,
+  "source_examples_verified": 5,
+  "eligible_nominal_word_meanings": 3177340,
+  "admitted_nan_word_meanings": 3177340,
+  "unresolved_candidates": 0,
+  "combined_bounded_word_meaning_subtotal": 11116406,
+  "complete_inflected_words_counted": 0,
+  "stage_graph_nodes": 19,
+  "inputs": {
+    "analysis/generativity/results/nan_rule_classification.json": "e0ea9b48bdd6ddcd26ac1a5149ff486969f028ce4f3028fcefa615ba98605162",
+    "analysis/generativity/results/nan_source_examples.json": "39530ce5c8b7b3c1922a5d403e5d1aa2156e4b3659ab4505262e48efb4a2e6ee",
+    "analysis/generativity/results/nan_eligibility.json": "b9a65a0a5def72af0abfadcc82629822a627a6c474f7e49c2f1426770a3b0c1b",
+    "analysis/generativity/results/nan_summary.json": "bbba8c2e85f9a18a41e0447f9e6f7049556332aebf1bbdd641e998c1a91f8acb",
+    "analysis/generativity/results/nan_reconciliation.json": "ff80a259d2f730868f7eb3c210201917e845e635d45297e886bf57b0ea3246cb",
+    "analysis/generativity/results/generation_stage_graph.json": "aa22c25c0f66c12908c30f4b5f862c53177a0260d5c4318a3f2dacffbed32d2f",
+    "analysis/generativity/build_nan_six_pass_summary.py": "e938054f64a5ac25603e6c4af5d8efa6113a4cb8b4c163418965b35ab05e54c1"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

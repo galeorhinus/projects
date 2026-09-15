@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-14",
+  "eligible_lexical_agent_meanings": 140568,
+  "eligible_by_operation": {
+    "agent_ac": 2001,
+    "agent_nvul": 67972,
+    "agent_trc": 67972,
+    "blessed_agent_vun": 2623
+  },
+  "eligible_by_source_layer": {
+    "conditioned_krdanta": 4624,
+    "direct_krdanta": 5246,
+    "prefixed_krdanta": 104694,
+    "sanadi_krdanta": 26004
+  },
+  "constructor_provenance_recovered": 140568,
+  "constructor_provenance_missing": 0,
+  "eligibility_policy": "Only nominal meanings already classified as agents enter. Every candidate retains the original dhatu codes, krt suffix, prefix or sanadi stack, and source semantic relation needed to reconstruct the derivation.",
+  "inputs": {
+    "analysis/generativity/stri_generalization_operations.json": "4d7d9fade05adfa103a9e2b29854774aa9569a4be7b54ced6e79380b54db68b9",
+    "analysis/generativity/results/nominal_input_inventory.csv.gz": "e537b66b74d98626abb5772e7b4ac85340d21df58cfc7a34c727e529e0a1340e",
+    "analysis/generativity/results/krdanta_ledger.csv": "3f3692a4722eb61034fa09786e4de077d2ae0353d929f2d3b6eff06c064b4eac",
+    "analysis/generativity/results/conditioned_krdanta_ledger.csv": "b3f67e0253511df6c4ed3bc069435c69150ef9a2a37756c432c6cc9d18e92a93",
+    "analysis/generativity/results/prefixed_krdanta_ledger.csv.gz": "fa8d92a685a6f7d0d5345451582a66142021d180973203010babf2cdac1dd9ae",
+    "analysis/generativity/results/sanadi_krdanta_ledger.csv.gz": "8e54d9579a200452a4bb45405ea5852d9ad023e040a342756b8a00d956b15178",
+    "analysis/generativity/build_stri_generalization_eligibility.py": "ba6036f64af575a31bc99bbb119bdff7e9e5dacd546fb67ee7bb46cf37f9a22c"
+  },
+  "publication_status": "research_eligibility_only_not_deployed"
+}

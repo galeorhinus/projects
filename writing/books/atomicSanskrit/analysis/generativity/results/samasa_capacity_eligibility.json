@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-14",
+  "member_inventory_size": 8083621,
+  "counted_relation_families": 4,
+  "eligible_depth_one_relation_slots": 196034769247681,
+  "rows": [
+    {
+      "relation_id": "sasthi_tatpurusha",
+      "display": "षष्ठी-तत्पुरुषः (ṣaṣṭhī-tatpuruṣaḥ)",
+      "member_inventory_size": 8083621,
+      "pair_model": "ordered_with_self",
+      "formula": "N x N",
+      "eligible_depth_one_relations": 65344928471641,
+      "semantic_relation": "the second nominal meaning in a genitive relation to the first",
+      "rule_refs": "2.2.8"
+    },
+    {
+      "relation_id": "bahuvrihi",
+      "display": "बहुव्रीहिः (bahuvrīhiḥ)",
+      "member_inventory_size": 8083621,
+      "pair_model": "ordered_distinct",
+      "formula": "N x (N - 1)",
+      "eligible_depth_one_relations": 65344920388020,
+      "semantic_relation": "an external referent characterized through the first and second nominal meanings",
+      "rule_refs": "2.2.24"
+    },
+    {
+      "relation_id": "dvandva",
+      "display": "द्वन्द्वः (dvandvaḥ)",
+      "member_inventory_size": 8083621,
+      "pair_model": "unordered_distinct",
+      "formula": "N x (N - 1) / 2",
+      "eligible_depth_one_relations": 32672460194010,
+      "semantic_relation": "the first and second nominal meanings taken together",
+      "rule_refs": "2.2.29"
+    },
+    {
+      "relation_id": "samahara_dvandva",
+      "display": "समाहार-द्वन्द्वः (samāhāra-dvandvaḥ)",
+      "member_inventory_size": 8083621,
+      "pair_model": "unordered_distinct",
+      "formula": "N x (N - 1) / 2",
+      "eligible_depth_one_relations": 32672460194010,
+      "semantic_relation": "the first and second nominal meanings taken as one collection",
+      "rule_refs": "2.2.29"
+    }
+  ],
+  "maximum_compound_depth": 1,
+  "materialized_all_relations": false,
+  "attestation_required": false,
+  "context_condition": "Each slot is available when a speaker intends the named relation between its member meanings. The count does not assert that every pair is useful without such a context.",
+  "inputs": {
+    "analysis/generativity/samasa_capacity_operations.json": "ed1b79285d0a0637653404ec99c4ec4537454ca2869d5dcf1e545fd599af3979",
+    "analysis/generativity/results/samasa_capacity_member_inventory.json": "bf9c188bb800ff2bd526be4bd29a710998edd70bc88995e1d6f793201ddaf5fc",
+    "analysis/generativity/results/samasa_capacity_rule_classification.json": "f2167fd88996258cd57b7328853f68017f14bacb917e7c1d84bb228844bef866"
+  }
+}

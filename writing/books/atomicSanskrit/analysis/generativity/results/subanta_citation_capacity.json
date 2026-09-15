@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 4,
+  "laukika_name_word_meanings": 8084287,
+  "citation_coordinate": {
+    "relation": "Prathama",
+    "number": "Eka",
+    "cells_per_meaning": 1
+  },
+  "citation_semantic_cells": 8084287,
+  "gender_multiplier_applied": false,
+  "surface_variants_counted_as_cells": false,
+  "inputs": {
+    "analysis/generativity/results/subanta_nominal_inventory.json": "ec0421aa684eede4c175f60d9c16a7c902162f4a7764382396c45d5d0bc4f4c7",
+    "analysis/generativity/results/subanta_coordinate_classification.json": "8c1debd74a8a646d2b45348014fa9aede061e8139777c22c6c0691a1c8e79a85",
+    "analysis/generativity/subanta_operations.json": "8754ba3442462deb4689c992604901f927b6237c115a71aa7344504b2e57d33e"
+  }
+}

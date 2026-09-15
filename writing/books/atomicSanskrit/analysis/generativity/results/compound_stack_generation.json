@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-14",
+  "eligible_relations": 958,
+  "generated_candidate_relations": 958,
+  "engine_zero_or_error_relations": 0,
+  "generated_by_operation": {
+    "state_tva": 96,
+    "state_tal": 96,
+    "possession_matup": 96,
+    "superlative_tamap": 96,
+    "comparative_tarap": 96,
+    "self_desire_kyac": 96,
+    "self_desire_kamyac": 96,
+    "object_comparison_kyac": 96,
+    "agent_comparison_kyang": 96,
+    "nan_privative": 94
+  },
+  "excluded_by_operation": {},
+  "output_variants_by_operation": {
+    "state_tva": 96,
+    "state_tal": 96,
+    "possession_matup": 96,
+    "superlative_tamap": 96,
+    "comparative_tarap": 96,
+    "self_desire_kyac": 96,
+    "self_desire_kamyac": 96,
+    "object_comparison_kyac": 96,
+    "agent_comparison_kyang": 96,
+    "nan_privative": 94
+  },
+  "engine_verified_relations": 864,
+  "classified_nan_surface_relations": 94,
+  "inputs": {
+    "analysis/generativity/compound_stack_operations.json": "d8776e347ed581dbabb5389176517b763a849ec40b879138bc033f7aaff0e764",
+    "analysis/generativity/results/compound_stack_eligibility.json": "79f2a6e4bf7110cc29a3edd400172ccef2478a514dc9b0aa2ec68026154e0a69",
+    "analysis/generativity/results/compound_stack_eligible_relations.csv": "dcb316e999ebeeb7c6c0c0cd04800a8b3797323fa5531d277835fc88ee43c142",
+    "analysis/generativity/build_compound_stack_ledger.py": "2992237912ff1c05e4400234042f8bc4168b4844f2ff200ee5e5f2b9c6a1dba5"
+  },
+  "publication_status": "candidate_ledger_not_yet_reconciled"
+}

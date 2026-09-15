@@ -1,0 +1,5 @@
+relation_id,display,member_inventory_size,pair_model,formula,eligible_depth_one_relations,semantic_relation,rule_refs
+sasthi_tatpurusha,षष्ठी-तत्पुरुषः (ṣaṣṭhī-tatpuruṣaḥ),8083621,ordered_with_self,N x N,65344928471641,the second nominal meaning in a genitive relation to the first,2.2.8
+bahuvrihi,बहुव्रीहिः (bahuvrīhiḥ),8083621,ordered_distinct,N x (N - 1),65344920388020,an external referent characterized through the first and second nominal meanings,2.2.24
+dvandva,द्वन्द्वः (dvandvaḥ),8083621,unordered_distinct,N x (N - 1) / 2,32672460194010,the first and second nominal meanings taken together,2.2.29
+samahara_dvandva,समाहार-द्वन्द्वः (samāhāra-dvandvaḥ),8083621,unordered_distinct,N x (N - 1) / 2,32672460194010,the first and second nominal meanings taken as one collection,2.2.29

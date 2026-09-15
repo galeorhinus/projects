@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 10,
+  "sample_semantic_cells": 192,
+  "generated_form_coordinate_links": 198,
+  "distinct_sample_spellings": 128,
+  "spellings_shared_across_semantic_cells": 46,
+  "shared_spelling_coordinate_links": 116,
+  "semantic_cells_merged": 0,
+  "policy": "Repeated spellings retain every word-meaning and relation-number coordinate they realize."
+}

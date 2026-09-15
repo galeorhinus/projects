@@ -1,0 +1,299 @@
+{
+  "generator_commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32",
+  "sources": [
+    {
+      "filename": "kashika_2_1.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_2_1.rs",
+      "accessed_utc": "2026-09-14T06:00:16.556403+00:00",
+      "sha256": "44e0b58ee7270f40705f16c4524f4c46d1303756fdefaee5bf32691e57c24036",
+      "bytes": 13136
+    },
+    {
+      "filename": "kashika_2_2.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_2_2.rs",
+      "accessed_utc": "2026-09-14T06:00:16.600936+00:00",
+      "sha256": "24240fb89e0d9fb5158246a6362c38cb03879d7751dada181adbec36cbe5172b",
+      "bytes": 976
+    },
+    {
+      "filename": "vidyut-samasa.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/samasa.rs",
+      "accessed_utc": "2026-09-14T06:00:16.958596+00:00",
+      "sha256": "a0257779f147288004393707599fbafd885e4998b71d50a1c62c2df11f6e102c",
+      "bytes": 14238
+    },
+    {
+      "filename": "vidyut-args-samasa.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/samasa.rs",
+      "accessed_utc": "2026-09-14T06:00:17.399173+00:00",
+      "sha256": "d593d0616c7ae3e9c2a99aca393f21f97b5c8aa7f671479ba672c4de4bf5582e",
+      "bytes": 2777
+    },
+    {
+      "filename": "vidyut-vyakarana.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/vyakarana.rs",
+      "accessed_utc": "2026-09-14T06:00:17.751757+00:00",
+      "sha256": "b27234efee598c38d8e5b8dd4adb6fede1632fe1c4384b26cf953b18d6277c42",
+      "bytes": 20609
+    },
+    {
+      "filename": "vidyut-test-utils.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/test_utils/src/lib.rs",
+      "accessed_utc": "2026-09-14T06:00:18.232280+00:00",
+      "sha256": "28a11df181490a606b9ad3ce294537e3df24d450845d51884e450852fd762556",
+      "bytes": 36661
+    },
+    {
+      "filename": "vidyut-sutrapatha.tsv",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/sutrapatha.tsv",
+      "accessed_utc": "2026-09-14T06:00:18.656951+00:00",
+      "sha256": "f2ff798707e8b8ea20dd5cf20a7bbcc4b849f0ab4d726a0a4af890ef87b7e87c",
+      "bytes": 112838
+    },
+    {
+      "filename": "rule-2.1.1.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.1.htm",
+      "accessed_utc": "2026-09-14T06:00:20.230315+00:00",
+      "sha256": "87ccc24b6b7b9bb3ad69b872ebc92f76bb27aa641380dff518ab998669b53ccb",
+      "bytes": 39978
+    },
+    {
+      "filename": "rule-2.1.5.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.5.htm",
+      "accessed_utc": "2026-09-14T06:00:21.316266+00:00",
+      "sha256": "3ebc47826f31b00c190b7933a9f87cd12266992fbeb943b97df5bc5334f85166",
+      "bytes": 5140
+    },
+    {
+      "filename": "rule-2.1.7.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.7.htm",
+      "accessed_utc": "2026-09-14T06:00:22.507094+00:00",
+      "sha256": "cb446a734967ba63f3a8d0d6d9aa68d172b87602d75cffe53fc507b0fef46aa1",
+      "bytes": 7547
+    },
+    {
+      "filename": "rule-2.1.8.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.8.htm",
+      "accessed_utc": "2026-09-14T06:00:23.658408+00:00",
+      "sha256": "8ec10c533eb9374ea812d769e7c3ad14bf3f200fe0f19a1b688e5f32c7cab03a",
+      "bytes": 5049
+    },
+    {
+      "filename": "rule-2.1.9.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.9.htm",
+      "accessed_utc": "2026-09-14T06:00:24.888933+00:00",
+      "sha256": "f1575b6e87733b90f984544e227df29e86bfa4f632dd0a5711c0140c027430c1",
+      "bytes": 11257
+    },
+    {
+      "filename": "rule-2.1.10.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.10.htm",
+      "accessed_utc": "2026-09-14T06:00:26.237837+00:00",
+      "sha256": "68a91fda698aeb6578575c8532436538d96b9ab88cc491e3579412f052d6c9c3",
+      "bytes": 9750
+    },
+    {
+      "filename": "rule-2.1.13.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.13.htm",
+      "accessed_utc": "2026-09-14T06:00:27.500070+00:00",
+      "sha256": "ab007e6baaaa0895ecbac40095aeadc69bdd29ca960fdd4ce3a58bcc09a51e18",
+      "bytes": 11630
+    },
+    {
+      "filename": "rule-2.1.14.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.14.htm",
+      "accessed_utc": "2026-09-14T06:00:28.637255+00:00",
+      "sha256": "cf8239ed5c4de2de411870ca827bb4f1a3c6c89474634dece5b7aa600b194bb9",
+      "bytes": 7309
+    },
+    {
+      "filename": "rule-2.1.15.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.15.htm",
+      "accessed_utc": "2026-09-14T06:00:29.904789+00:00",
+      "sha256": "01b9faa1107e6ceb3a6be612f46f26481689c73506c910c858a4d1be8d4cafba",
+      "bytes": 9176
+    },
+    {
+      "filename": "rule-2.1.19.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.19.htm",
+      "accessed_utc": "2026-09-14T06:00:31.075865+00:00",
+      "sha256": "6969326b88ef962f7fda9c11c517a9b10daf5279df1d0039084528f94eb5374d",
+      "bytes": 7889
+    },
+    {
+      "filename": "rule-2.1.24.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.24.htm",
+      "accessed_utc": "2026-09-14T06:00:32.363741+00:00",
+      "sha256": "5b872daa024e11ff100032b4480ac3e5b2511887394fd528e9e757938a402128",
+      "bytes": 6168
+    },
+    {
+      "filename": "rule-2.1.25.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.25.htm",
+      "accessed_utc": "2026-09-14T06:00:33.591086+00:00",
+      "sha256": "6fc0754afb8643d90a0c485944f892d2aa653a836d9c34939044025a85c08ac0",
+      "bytes": 8399
+    },
+    {
+      "filename": "rule-2.1.26.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.26.htm",
+      "accessed_utc": "2026-09-14T06:00:34.595642+00:00",
+      "sha256": "f7c60c257748adfb744ca030f5bb861538eea57b08e8843cc41eec483668e475",
+      "bytes": 3728
+    },
+    {
+      "filename": "rule-2.1.27.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.27.htm",
+      "accessed_utc": "2026-09-14T06:00:35.804215+00:00",
+      "sha256": "7cc775275c27864c8b0cfe38dfa202945eba39a567f67f01e5b837a89c364d17",
+      "bytes": 8308
+    },
+    {
+      "filename": "rule-2.1.30.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.30.htm",
+      "accessed_utc": "2026-09-14T06:00:37.032642+00:00",
+      "sha256": "93b3d2db39d0859946138cf79edebacc15e2cfb7a77123d8176dafeab24d4a32",
+      "bytes": 11857
+    },
+    {
+      "filename": "rule-2.1.31.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.31.htm",
+      "accessed_utc": "2026-09-14T06:00:38.301622+00:00",
+      "sha256": "99ca98a7cac7a76ee928f548623e0feda7516b1857e3b64ae2f746c79bc05047",
+      "bytes": 10723
+    },
+    {
+      "filename": "rule-2.1.32.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.32.htm",
+      "accessed_utc": "2026-09-14T06:00:39.532067+00:00",
+      "sha256": "9026e8a80feff89e72b08ae709c124f5dc2a11b441798ec785e8fc51d1f90a70",
+      "bytes": 11602
+    },
+    {
+      "filename": "rule-2.1.33.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.33.htm",
+      "accessed_utc": "2026-09-14T06:00:40.673670+00:00",
+      "sha256": "ee09c4be6e592272af87cf4f55747c786fe2855fa77fbe72a379ab2f8390f0ba",
+      "bytes": 4739
+    },
+    {
+      "filename": "rule-2.1.34.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.34.htm",
+      "accessed_utc": "2026-09-14T06:00:41.851814+00:00",
+      "sha256": "6b45784a69f98f1142a26b5f2c73f33e8f99ad27170b6ef4afc082da2c720967",
+      "bytes": 14001
+    },
+    {
+      "filename": "rule-2.1.36.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.36.htm",
+      "accessed_utc": "2026-09-14T06:00:43.114826+00:00",
+      "sha256": "309032f062d0b66a3d75ebab04a6e8e4d2b65aac47cbb1431ffed2580af4ad02",
+      "bytes": 7530
+    },
+    {
+      "filename": "rule-2.1.37.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.37.htm",
+      "accessed_utc": "2026-09-14T06:00:44.037934+00:00",
+      "sha256": "8db29c351924a59d683b82aa89c3394234d8d94c7c37d2a6abfefae2fbca96e4",
+      "bytes": 5846
+    },
+    {
+      "filename": "rule-2.1.38.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.38.htm",
+      "accessed_utc": "2026-09-14T06:00:45.078369+00:00",
+      "sha256": "bf78a9329d1b15b780feea334e371dde9a49d28fe947e2fd1c617221db1425cc",
+      "bytes": 6435
+    },
+    {
+      "filename": "rule-2.1.40.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.40.htm",
+      "accessed_utc": "2026-09-14T06:00:46.079814+00:00",
+      "sha256": "c2cf800ee36d6e83f8816a87e207bf18485c7e01c2295bbf1a58e38d5b64f339",
+      "bytes": 3991
+    },
+    {
+      "filename": "rule-2.1.41.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.41.htm",
+      "accessed_utc": "2026-09-14T06:00:46.960809+00:00",
+      "sha256": "e577230bcfc91508322c2a2d09be51fdb495d6970da029522051a64fe4a5a7bf",
+      "bytes": 6065
+    },
+    {
+      "filename": "rule-2.1.42.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.42.htm",
+      "accessed_utc": "2026-09-14T06:00:47.994470+00:00",
+      "sha256": "1032a773963bfadc47bdfb1f96b5c8e3cdda1c743528ea73be7bd5f40c42dee6",
+      "bytes": 9776
+    },
+    {
+      "filename": "rule-2.1.47.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.47.htm",
+      "accessed_utc": "2026-09-14T06:00:49.258282+00:00",
+      "sha256": "ee033c3f6ec1f0634341fb576ef4c5bbe354fa6be0700698704e54a609e741e0",
+      "bytes": 10925
+    },
+    {
+      "filename": "rule-2.1.58.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.58.htm",
+      "accessed_utc": "2026-09-14T06:00:50.489961+00:00",
+      "sha256": "7033b7b13e237aa1af0d4a7899caa20aa3d58c02c17c2038a662f004209aa381",
+      "bytes": 11852
+    },
+    {
+      "filename": "rule-2.1.61.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.61.htm",
+      "accessed_utc": "2026-09-14T06:00:51.547921+00:00",
+      "sha256": "dc96a9476282cff08d58b78267e1ecc6f04858103bed1052b5f9ebbb52a63a98",
+      "bytes": 6256
+    },
+    {
+      "filename": "rule-2.1.62.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.62.htm",
+      "accessed_utc": "2026-09-14T06:00:52.766418+00:00",
+      "sha256": "c112edc11d5474cd6e9385346a266f7c2b87172ed7deb127fa9faddc2f1dbca6",
+      "bytes": 8007
+    },
+    {
+      "filename": "rule-2.1.64.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.64.htm",
+      "accessed_utc": "2026-09-14T06:00:53.709235+00:00",
+      "sha256": "db16a22014b3a35511a65a8da6816e1dfae97d892ea8b795d79f88d64db2e4c7",
+      "bytes": 5512
+    },
+    {
+      "filename": "rule-2.1.67.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.1.67.htm",
+      "accessed_utc": "2026-09-14T06:00:54.841149+00:00",
+      "sha256": "fd7471adc24fd98bfcb69d54fa0268a5f0c90bfd37cfd8d6d32b9135b181eda2",
+      "bytes": 8194
+    },
+    {
+      "filename": "rule-2.2.6.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.2.6.htm",
+      "accessed_utc": "2026-09-14T06:00:55.970253+00:00",
+      "sha256": "cd898662255e45307fb1e1de0475e287fcf1c3046d5583df8ff085382d414ffe",
+      "bytes": 7736
+    },
+    {
+      "filename": "rule-2.2.8.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.2.8.htm",
+      "accessed_utc": "2026-09-14T06:00:57.103336+00:00",
+      "sha256": "251eac0d81547b0295999b352c0968b35b03d72e26f6be79ae60041671cd0453",
+      "bytes": 6836
+    },
+    {
+      "filename": "rule-2.2.24.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.2.24.htm",
+      "accessed_utc": "2026-09-14T06:00:58.280102+00:00",
+      "sha256": "ba8b67479f4725baa4d622ab2f37a4bd4377fc901c68e6b018385c2b21a59525",
+      "bytes": 28044
+    },
+    {
+      "filename": "rule-2.2.29.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.2.29.htm",
+      "accessed_utc": "2026-09-14T06:00:59.807331+00:00",
+      "sha256": "8a0312278ca69db3d827abafe6ae602d109a16bd4eaa3729981453c86fc8814e",
+      "bytes": 21960
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+flowchart LR
+    dhatu_meanings["Reconciled धातुः meanings<br/>2,634"]
+    one_sanadi["One सनादि operation<br/>15,156"]
+    one_upasarga["One उपसर्गः<br/>67,723"]
+    upasarga_sanadi["One उपसर्गः plus one सनादि operation<br/>317,763"]
+    curadi_causative["True चरादिगण causatives<br/>318,285"]
+    two_upasarga["Exactly two ordered उपसर्गाः<br/>1,369,625"]
+    first_krdanta["First कृदन्त layer<br/>1,399,621"]
+    wider_krdanta["Wider अव्यय and कृदन्त layers plus तद्धित pilot<br/>2,174,721"]
+    laukika_domain_correction["Known लौकिक-वैदिक domain correction<br/>2,166,061"]
+    vaidika_layer["वैदिक-only bases, descendants, and operations<br/>2,379,459"]
+    broad_taddhita["Broad तद्धित relations<br/>4,761,689"]
+    conditioned_taddhita["Conditioned तद्धित relations<br/>4,762,664"]
+    stri["Source-demonstrated स्त्रीप्रत्ययः formations<br/>4,762,714"]
+    namadhatu["नामधातुः from the first nominal inventory<br/>7,939,066"]
+    avyaya_complete_component["Complete अव्यय word-meanings already inside Stage 8<br/>7,902"]
+    nan_privative["Bounded नञ् compounds<br/>11,116,406"]
+    additional_suffix_relations["Additional source-conditioned तद्धित relations<br/>11,116,430"]
+    plain_source_taddhita["Source-defined plain तद्धित relations<br/>11,116,666"]
+    generalized_comparison["General comparative and superlative relations<br/>12,704,821"]
+    generalized_stri["Lexical feminine agent relations<br/>12,845,387"]
+    compound_input_stacks["One further operation over source compounds<br/>12,846,458"]
+    source_samasa["Source-demonstrated bounded समास relations<br/>12,845,500"]
+    samasa_member_inventory["Compoundable nominal inventory<br/>8,083,621"]
+    samasa_depth_one_capacity["Depth-one समासः capacity<br/>196,034,769,247,681"]
+    post_compound_capacity["One operation after a compound<br/>1,960,347,692,476,810"]
+    samasa_depth_two_capacity["Depth-two समासः capacity<br/>9,508,024,664,524,249,997,406"]
+    laukika_nominal_inventory["Laukika name-meaning inventory<br/>8,084,287"]
+    subanta_citation_capacity["Name-form citation capacity<br/>8,084,287"]
+    subanta_paradigm_capacity["Full name-form capacity<br/>194,022,888"]
+    laukika_verbal_inventory["Laukika verbal-meaning inventory<br/>4,540,848"]
+    tinanta_citation_capacity["Ten-lakara citation capacity<br/>45,408,480"]
+    tinanta_paradigm_capacity["Full kartari tinanta capacity<br/>408,676,320"]
+    dhatu_meanings -->|"One सनादि operation · +12,522"| one_sanadi
+    one_sanadi -->|"One उपसर्गः · +52,567"| one_upasarga
+    one_upasarga -->|"One उपसर्गः plus one सनादि operation · +250,040"| upasarga_sanadi
+    upasarga_sanadi -->|"True चरादिगण causatives · +522"| curadi_causative
+    curadi_causative -->|"Exactly two ordered उपसर्गाः · +1,051,340"| two_upasarga
+    two_upasarga -->|"First कृदन्त layer · +29,996"| first_krdanta
+    first_krdanta -->|"Wider अव्यय and कृदन्त layers plus तद्धित pilot · +775,100"| wider_krdanta
+    wider_krdanta -->|"Known लौकिक-वैदिक domain correction · -8,660"| laukika_domain_correction
+    laukika_domain_correction -->|"वैदिक-only bases, descendants, and operations · +213,398"| vaidika_layer
+    vaidika_layer -->|"Broad तद्धित relations · +2,382,230"| broad_taddhita
+    broad_taddhita -->|"Conditioned तद्धित relations · +975"| conditioned_taddhita
+    conditioned_taddhita -->|"Source-demonstrated स्त्रीप्रत्ययः formations · +50"| stri
+    stri -->|"नामधातुः from the first nominal inventory · +3,176,352"| namadhatu
+    wider_krdanta -->|"contains complete indeclinables · contains 7,902"| avyaya_complete_component
+    namadhatu -->|"one bounded negative counterpart per current nominal meaning · +3,177,340"| nan_privative
+    nan_privative -->|"additional source-conditioned suffix relations · +24"| additional_suffix_relations
+    additional_suffix_relations -->|"source-defined plain तद्धित relations · +236"| plain_source_taddhita
+    plain_source_taddhita -->|"comparative and superlative relations · +1,588,155"| generalized_comparison
+    generalized_comparison -->|"lexical feminine counterparts of agent nouns · +140,566"| generalized_stri
+    generalized_stri -->|"source-demonstrated compound relations · +113"| source_samasa
+    source_samasa -->|"one established operation over each eligible source compound · +958"| compound_input_stacks
+    compound_input_stacks -->|"reconcile compoundable nominal inputs · capacity 8,083,621"| samasa_member_inventory
+    samasa_member_inventory -->|"four broad compound relations · capacity 196,034,769,247,681"| samasa_depth_one_capacity
+    samasa_depth_one_capacity -->|"one established operation · capacity 1,960,347,692,476,810"| post_compound_capacity
+    samasa_depth_one_capacity -->|"one compound plus one original nominal member · capacity 9,508,024,664,524,249,997,406"| samasa_depth_two_capacity
+    compound_input_stacks -->|"select reconciled laukika name meanings · capacity 8,084,287"| laukika_nominal_inventory
+    laukika_nominal_inventory -->|"one citation coordinate · capacity 8,084,287"| subanta_citation_capacity
+    subanta_citation_capacity -->|"eight relations by three number values · capacity 194,022,888"| subanta_paradigm_capacity
+    compound_input_stacks -->|"select reconciled laukika verbal meanings · capacity 4,540,848"| laukika_verbal_inventory
+    laukika_verbal_inventory -->|"ten third-person singular lakara coordinates · capacity 45,408,480"| tinanta_citation_capacity
+    tinanta_citation_capacity -->|"three purushas by three vacanas · capacity 408,676,320"| tinanta_paradigm_capacity
+    classDef base fill:#eadfca,stroke:#5b4a35,color:#221f1a;
+    classDef complete fill:#fff,stroke:#9f6b20,stroke-width:2px,color:#221f1a;
+    classDef capacity fill:#f7f5f0,stroke:#5b4a35,stroke-dasharray:5 4,color:#221f1a;
+    class dhatu_meanings,one_sanadi,one_upasarga,upasarga_sanadi,curadi_causative,two_upasarga,first_krdanta,wider_krdanta,laukika_domain_correction,vaidika_layer,broad_taddhita,conditioned_taddhita,stri,namadhatu,nan_privative,additional_suffix_relations,plain_source_taddhita,generalized_comparison,generalized_stri,compound_input_stacks,source_samasa base;
+    class samasa_member_inventory,samasa_depth_one_capacity,post_compound_capacity,samasa_depth_two_capacity,laukika_nominal_inventory,subanta_citation_capacity,subanta_paradigm_capacity,laukika_verbal_inventory,tinanta_citation_capacity,tinanta_paradigm_capacity capacity;
+    class avyaya_complete_component complete;

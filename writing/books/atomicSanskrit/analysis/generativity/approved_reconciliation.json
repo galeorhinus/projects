@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-13",
+  "authorization": "Author approved applying the supported corrections, preserving original rows and previous decisions, then reviewing the next ten cases.",
+  "baseline": 2653,
+  "expected_after": 2649,
+  "decisions": [
+    {"review_id":"IR141", "delta":-1, "merges":[{"canonical":["09.0030","naye"], "members":[["01.0921","naye"],["09.0030","naye"]]}]},
+    {"review_id":"IR170", "delta":-1,
+     "corrections":[{"target":["04.0143","hiMsAyAm"], "meaning_slp1":"roze"}],
+     "merges":[{"canonical":["10.0187","roze"], "members":[["04.0143","hiMsAyAm"],["10.0187","roze"]]}]},
+    {"review_id":"IR194", "delta":-1, "merges":[{"canonical":["09.0060","uYCe"], "members":[["09.0060","uYCe"],["10.0270","uYCe"]]}]},
+    {"review_id":"IR210", "delta":0,
+     "corrections":[{"target":["01.1031","uparame"], "citation_slp1":"aya~^", "meaning_slp1":"gatO"}],
+     "remaining":"Compare normalized 01.1031 with 01.0546; preserve their different markers and pada conditions."},
+    {"review_id":"IR211", "delta":-1, "grammar_only":[["01.0930","aparivezaRe"]],
+     "remaining":"Retain the mit restriction and separately map serving and surrounding senses to their lexical entries."},
+    {"review_id":"IR156", "delta":0, "closed_followup":"The fourth-class division occurrence was confused with the nourishing occurrence. Keep all three current meanings; no source correction."}
+  ]
+}

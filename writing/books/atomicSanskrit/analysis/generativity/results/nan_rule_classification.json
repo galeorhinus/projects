@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-13",
+  "rules_classified": 3,
+  "semantic_operations": 1,
+  "surface_allomorphs": 2,
+  "counting_boundary": "One new word-meaning per eligible source word-meaning. Alternative input and output forms remain attached to that meaning.",
+  "attestation_boundary": "Attestation is not an admission requirement. The construction must be grammatically licensed and mechanically formable.",
+  "rules": [
+    {
+      "rule_ref": "2.2.6",
+      "rule_text_slp1": "naY",
+      "role": "licenses the nan compound",
+      "count_effect": "one semantic operation"
+    },
+    {
+      "rule_ref": "6.3.73",
+      "rule_text_slp1": "nalopo naYaH",
+      "role": "removes the n of nan before the following member",
+      "count_effect": "surface form only"
+    },
+    {
+      "rule_ref": "6.3.74",
+      "rule_text_slp1": "tasmAnnuqaci",
+      "role": "restores n before a vowel-initial following member",
+      "count_effect": "surface form only"
+    }
+  ],
+  "sources": [
+    {
+      "filename": "rule-2.2.6.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.2.6.htm",
+      "accessed_utc": "2026-09-13T14:46:59.188984+00:00",
+      "sha256": "cd898662255e45307fb1e1de0475e287fcf1c3046d5583df8ff085382d414ffe",
+      "bytes": 7736
+    },
+    {
+      "filename": "rule-6.3.73.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/6/6.3.73.htm",
+      "accessed_utc": "2026-09-13T14:47:00.861175+00:00",
+      "sha256": "317600cfc3b6185f2079ea4c0c9c125e16873abb711041dda670bd7bc31e5463",
+      "bytes": 12932
+    },
+    {
+      "filename": "rule-6.3.74.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/6/6.3.74.htm",
+      "accessed_utc": "2026-09-13T14:47:02.515873+00:00",
+      "sha256": "bfa4e019fac208154ef79e71d3f4df1ab0087662dd241a98569ea866e00f9f3e",
+      "bytes": 12328
+    },
+    {
+      "filename": "vidyut-samasa.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/samasa.rs",
+      "accessed_utc": "2026-09-13T14:48:01.001983+00:00",
+      "sha256": "a0257779f147288004393707599fbafd885e4998b71d50a1c62c2df11f6e102c",
+      "bytes": 14238
+    },
+    {
+      "filename": "kashika_2_2.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_2_2.rs",
+      "accessed_utc": "2026-09-13T14:48:01.371208+00:00",
+      "sha256": "24240fb89e0d9fb5158246a6362c38cb03879d7751dada181adbec36cbe5172b",
+      "bytes": 976
+    },
+    {
+      "filename": "kashika_6_3.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/tests/integration/kashika_6_3.rs",
+      "accessed_utc": "2026-09-13T14:48:01.735873+00:00",
+      "sha256": "4c95cc703081fce8b504f76861345f4623fb9dea6072a2a7ac4a166909e29afc",
+      "bytes": 11352
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/nan_operations.json": "0feab8bb6019bb5ccbdd4b7d3a27789273fe8a52d10384a461ec2f2b39185937",
+    "working/40_reference/sources/archive/documents/generativity-pilot/nan_manifest.json": "2d8f903ff5eed87f543ed7794dde0f2afce7bbeb70018295e52a4a594b96555b",
+    "working/40_reference/sources/archive/documents/generativity-pilot/sutrapatha.tsv": "f2ff798707e8b8ea20dd5cf20a7bbcc4b849f0ab4d726a0a4af890ef87b7e87c",
+    "working/40_reference/sources/archive/documents/generativity-pilot/vidyut-samasa.rs": "a0257779f147288004393707599fbafd885e4998b71d50a1c62c2df11f6e102c",
+    "analysis/generativity/classify_nan_inventory.py": "f50b4c619a1f87b82004a8d10b8a9af7b3b0a95911f013de037271f7e661fb8c"
+  },
+  "publication_status": "research_classification_only_not_deployed"
+}

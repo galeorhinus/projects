@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-14",
+  "sample_records": 9,
+  "sample_reconstruction_classes": 8,
+  "requested_citation_cells": 90,
+  "locally_regenerated_cells": 90,
+  "engine_zero_unresolved_cells": 0,
+  "pada_output_profile": {
+    "parasmaipada_only": 50,
+    "atmanepada_only": 10,
+    "both": 30,
+    "neither": 0
+  },
+  "full_rule_paths_recorded": true
+}

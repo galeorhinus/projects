@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 6,
+  "source_compound_word_meanings": 113,
+  "eligible_nominal_compounds": 96,
+  "complete_indeclinables_not_reopened": 17,
+  "eligible_operation_relations": 958,
+  "verified_relations": 958,
+  "additional_compound_stack_word_meanings": 958,
+  "additional_by_operation_family": {
+    "taddhita": 480,
+    "namadhatu": 384,
+    "nan": 94
+  },
+  "additional_by_output_form_class": {
+    "derived_nominal_base": 574,
+    "derived_verbal_base": 384
+  },
+  "combined_bounded_word_meaning_subtotal": 12846458,
+  "remaining_passes": 12,
+  "inputs": {
+    "analysis/generativity/results/compound_stack_classification.json": "c8a644b4607f456f7221130a3044face6594ca6a4c5964189bb185ea70e37fee",
+    "analysis/generativity/results/compound_stack_eligibility.json": "79f2a6e4bf7110cc29a3edd400172ccef2478a514dc9b0aa2ec68026154e0a69",
+    "analysis/generativity/results/compound_stack_generation.json": "3510544be9fc5c7ad114b7f500a4cf15d020c53b6742c904a3182b6cdf4fbbd5",
+    "analysis/generativity/results/compound_stack_verification.json": "8a66da05521dd61f68cbc9f02f72c25dc94a6bdc8c3bd919913642b518b4db0e",
+    "analysis/generativity/results/compound_stack_reconciliation.json": "02504671178ad12c21928a6c81d560e8cd6434a299367dac057ede3f49fb4bc8",
+    "analysis/generativity/results/compound_stack_ledger.csv": "26f25d31e6126e007d3b9a583ff8fad5481a33b0ccf638a1a2b167a56b8780cd",
+    "analysis/generativity/results/generation_stage_graph.json": "89c6bfda198f651acd3d5d7e79ed148229f10e458e91e6b1ab0a0a436759d446",
+    "analysis/generativity/build_compound_stack_six_pass_summary.py": "63da76de90562917079292d538bc6bef4e0d1c7196add3ed332a757938688d11"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-13",
+  "scope": "Source entries explicitly marked Vedic-only in the completed commentary review. This is the currently documented set, not a claim that every source entry has received a complete domain audit.",
+  "known_vedic_restricted_source_codes": [
+    "02.0072",
+    "03.0015",
+    "05.0014"
+  ],
+  "known_vedic_restricted_base_meanings": 11,
+  "layers": [
+    {
+      "layer": "one_sanadi",
+      "ledger": "analysis/generativity/results/verbal_derivation_ledger.csv",
+      "total_rows": 12522,
+      "known_vedic_restricted_rows": 42,
+      "mixed_restricted_and_unrestricted_rows": 0
+    },
+    {
+      "layer": "one_upasarga",
+      "ledger": "analysis/generativity/results/upasarga_generation_ledger.csv",
+      "total_rows": 52567,
+      "known_vedic_restricted_rows": 220,
+      "mixed_restricted_and_unrestricted_rows": 0
+    },
+    {
+      "layer": "upasarga_sanadi",
+      "ledger": "analysis/generativity/results/upasarga_sanadi_ledger.csv.gz",
+      "total_rows": 250040,
+      "known_vedic_restricted_rows": 840,
+      "mixed_restricted_and_unrestricted_rows": 0
+    },
+    {
+      "layer": "curadi_true_causative",
+      "ledger": "analysis/generativity/results/curadi_causative_ledger.csv",
+      "total_rows": 522,
+      "known_vedic_restricted_rows": 0,
+      "mixed_restricted_and_unrestricted_rows": 0
+    },
+    {
+      "layer": "two_upasarga",
+      "ledger": "analysis/generativity/results/two_upasarga_ledger.csv.gz",
+      "total_rows": 1051340,
+      "known_vedic_restricted_rows": 4400,
+      "mixed_restricted_and_unrestricted_rows": 0
+    },
+    {
+      "layer": "direct_krdanta",
+      "ledger": "analysis/generativity/results/krdanta_ledger.csv",
+      "total_rows": 29996,
+      "known_vedic_restricted_rows": 121,
+      "mixed_restricted_and_unrestricted_rows": 0
+    },
+    {
+      "layer": "avyaya",
+      "ledger": "analysis/generativity/results/avyaya_ledger.csv",
+      "total_rows": 7902,
+      "known_vedic_restricted_rows": 33,
+      "mixed_restricted_and_unrestricted_rows": 0
+    },
+    {
+      "layer": "conditioned_krdanta",
+      "ledger": "analysis/generativity/results/conditioned_krdanta_ledger.csv",
+      "total_rows": 25703,
+      "known_vedic_restricted_rows": 110,
+      "mixed_restricted_and_unrestricted_rows": 0
+    },
+    {
+      "layer": "prefixed_krdanta",
+      "ledger": "analysis/generativity/results/prefixed_krdanta_ledger.csv.gz",
+      "total_rows": 598606,
+      "known_vedic_restricted_rows": 2420,
+      "mixed_restricted_and_unrestricted_rows": 0
+    },
+    {
+      "layer": "sanadi_krdanta",
+      "ledger": "analysis/generativity/results/sanadi_krdanta_ledger.csv.gz",
+      "total_rows": 142882,
+      "known_vedic_restricted_rows": 463,
+      "mixed_restricted_and_unrestricted_rows": 0
+    }
+  ],
+  "gross_bounded_word_meaning_subtotal": 2174721,
+  "known_vedic_restricted_base_and_descendant_rows": 8660,
+  "bounded_laukika_subtotal_after_known_domain_restrictions": 2166061,
+  "vedic_generation_status": "completed",
+  "interpretation": "These rows are removed from the current known laukika subtotal. They are not automatically counted as Vedic words; Vedic generation must be run separately with Vedic mode and its own operations.",
+  "inputs": {
+    "analysis/generativity/vaidika_base_restrictions.json": "2d0a78e802dd173b2e90e657a4800a781e189e1fe2d1e264f2e54efc5c1c32c5",
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "analysis/generativity/results/twelve_pass_expansion_summary.json": "a344bb5ab0a8ecf65aec62143e5c0dd532632a8878cbd5b616d86be2bff80341",
+    "analysis/generativity/results/verbal_derivation_ledger.csv": "d24e885863a5f840637054d2686a75717ce5f7efb7bbb78c901e9ebbac920617",
+    "analysis/generativity/results/upasarga_generation_ledger.csv": "7d670a4f4290a25c42ea5c6e4803e93e4eda9ead1326a20289e7afb0ddf950ed",
+    "analysis/generativity/results/upasarga_sanadi_ledger.csv.gz": "f3e68ed3f679feb3a770327cdf1a7b85ba7d215c757dda1d04b6050fe240f991",
+    "analysis/generativity/results/curadi_causative_ledger.csv": "6f81d8f3c0b37964c9ff27703a66333570e10f8ea81b2b2e31ff5fb458a9c73b",
+    "analysis/generativity/results/two_upasarga_ledger.csv.gz": "68689fdee3551a32940a845dc62329d2287dc05f24ba15d9e5a6dae408da1a62",
+    "analysis/generativity/results/krdanta_ledger.csv": "3f3692a4722eb61034fa09786e4de077d2ae0353d929f2d3b6eff06c064b4eac",
+    "analysis/generativity/results/avyaya_ledger.csv": "d8c1206ac9e89a38c8fc2472c91eaf7309e240d7cb0f3a8dcacf26bc893e51ba",
+    "analysis/generativity/results/conditioned_krdanta_ledger.csv": "b3f67e0253511df6c4ed3bc069435c69150ef9a2a37756c432c6cc9d18e92a93",
+    "analysis/generativity/results/prefixed_krdanta_ledger.csv.gz": "03ac1c7d9e216c411333ccead68288f73d5734ac852c813ca2782a93f8867da4",
+    "analysis/generativity/results/sanadi_krdanta_ledger.csv.gz": "0eef5739fd69c4a3821365bb7a050bb74b4baab5f9caf5791437ddbf5dd4b398",
+    "analysis/generativity/results/vaidika_stacked_summary.json": "75e04d145bf8251c36e11ce40510604baea5158512310321ddea60993be7a910",
+    "analysis/generativity/audit_domain_boundary.py": "d43bdaf9d68e80dcc4f1b781666f5f7f8bce00fca814762155f3aa3f33a334a7"
+  }
+}

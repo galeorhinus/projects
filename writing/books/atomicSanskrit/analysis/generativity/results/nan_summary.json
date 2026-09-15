@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-13",
+  "eligible_nan_word_meanings": 3177340,
+  "admitted_nan_word_meanings": 3177340,
+  "not_admitted_total": 0,
+  "admitted_by_source_layer": {
+    "direct_krdanta": 29875,
+    "conditioned_krdanta": 25593,
+    "prefixed_krdanta": 596186,
+    "sanadi_krdanta": 142419,
+    "declared_pilot_nominal": 5,
+    "broad_taddhita": 2382237,
+    "conditioned_taddhita": 975,
+    "stri": 50
+  },
+  "word_meanings_by_surface_outcome": {
+    "a_before_consonant": 1947421,
+    "an_before_vowel": 1230099
+  },
+  "generated_output_variants": 3476658,
+  "distinct_output_spellings": 1606299,
+  "coincident_output_spellings_beyond_first": 1870359,
+  "collision_policy": "Coincident spellings do not merge different source meanings. One source word-meaning plus the nan relation remains one generated word-meaning.",
+  "implementation": "The pinned Python API exposes no compound constructor. This ledger applies the three classified rules directly after verifying both surface outcomes against five pinned source tests.",
+  "inputs": {
+    "analysis/generativity/nan_operations.json": "0feab8bb6019bb5ccbdd4b7d3a27789273fe8a52d10384a461ec2f2b39185937",
+    "analysis/generativity/results/nan_eligibility.json": "b9a65a0a5def72af0abfadcc82629822a627a6c474f7e49c2f1426770a3b0c1b",
+    "analysis/generativity/results/nan_nominal_inventory.csv.gz": "ef293b537f831142d245d25f9375bf2cb23a8e78186804436bf458bcf6e29e6a",
+    "analysis/generativity/results/nan_source_examples.csv": "8f46250221193e7291f1c010b2669f5775dd9eec7578e27df68626fe351fa54f",
+    "analysis/generativity/build_nan_ledger.py": "7f1e716c3f629693a1221f8713b333eaa5161457b5a0a52de3a8420257313fc2"
+  },
+  "publication_status": "bounded_research_subtotal_not_deployed"
+}

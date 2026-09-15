@@ -1,0 +1,2004 @@
+{
+  "date": "2026-09-12",
+  "selection": "Next 30 unreviewed groups in the established SLP1 ledger order.",
+  "policy": "Merge only the documented shared word-meaning. Preserve source rows, grammatical class, markers, alternate readings, and other meanings. A cross-class base merge does not collapse all derived formations or authorize every operation.",
+  "reviewed_groups": 30,
+  "reviewed_entries": 63,
+  "merge_groups": 11,
+  "retained_groups": 16,
+  "open_groups": 3,
+  "before": 2720,
+  "after": 2708,
+  "reduction": 12,
+  "previously_reviewed_groups": 52,
+  "unreviewed_groups": 141,
+  "groups": [
+    {
+      "id": "IR51",
+      "batch": 4,
+      "group_id": "citation-7f84f66b1fff",
+      "citation": "carca~",
+      "entries": {
+        "01.0814": [
+          "pariBAzaRe",
+          "hiMsAyAm",
+          "tarjane"
+        ],
+        "06.0019": [
+          "pariBAzaRe",
+          "Bartsane"
+        ],
+        "10.0237": [
+          "aDyayane"
+        ]
+      },
+      "headword": "carc",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate the shared speaking meaning; retain harming, study, and the unresolved rebuke descriptions.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0814",
+            "pariBAzaRe"
+          ],
+          "members": [
+            [
+              "01.0814",
+              "pariBAzaRe"
+            ],
+            [
+              "06.0019",
+              "pariBAzaRe"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA433.html",
+          "anchor": "पाठः स्वरार्थ",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA924.html",
+          "anchor": "परिभाषण,भर्त्सनयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1285.html",
+          "anchor": "चर्च अध्ययने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Tarjana and bhartsana still need meaning-specific reconciliation, as in the earlier jharjh group.",
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA433.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA433.html",
+          "accessed_utc": "2026-09-12T15:42:26.751279+00:00",
+          "sha256": "139d33282325ffc67474a6372e51d61e3b81ac72ed7ad6d828ee2ac605794427",
+          "bytes": 1083,
+          "source": "dhatu-mA433.html",
+          "anchor": "पाठः स्वरार्थ",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA924.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA924.html",
+          "accessed_utc": "2026-09-12T15:42:27.055734+00:00",
+          "sha256": "d8c963cd2bfdcf59b9b9ef0b1f1c7eb2671236b9be7f447d96beaf4797feb677",
+          "bytes": 1057,
+          "source": "dhatu-mA924.html",
+          "anchor": "परिभाषण,भर्त्सनयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1285.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1285.html",
+          "accessed_utc": "2026-09-12T16:21:22.423857+00:00",
+          "sha256": "8904bb6fd4e8ffee1a6c77992c7f01080899cb7289fb63268624fe1cfb583dc4",
+          "bytes": 749,
+          "source": "dhatu-mA1285.html",
+          "anchor": "चर्च अध्ययने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 6,
+      "after": 5,
+      "reduction": 1
+    },
+    {
+      "id": "IR52",
+      "batch": 4,
+      "group_id": "citation-be588ffc1d4b",
+      "citation": "cubi~",
+      "entries": {
+        "01.0495": [
+          "vaktrasaMyoge"
+        ],
+        "10.0130": [
+          "hiMsAyAm"
+        ]
+      },
+      "headword": "cub",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain mouth-contact and harming as different meanings.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA267.html",
+          "anchor": "चुबि वक्त्रसंयोगे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1216.html",
+          "anchor": "चुम्बतीति वक्त्रसंयोगे शपि",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA267.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA267.html",
+          "accessed_utc": "2026-09-12T16:21:35.116015+00:00",
+          "sha256": "983b1893b116b474a8022a9cc865e8ad42f0911a2aebf5ebc0c4f18ad743405d",
+          "bytes": 495,
+          "source": "dhatu-mA267.html",
+          "anchor": "चुबि वक्त्रसंयोगे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1216.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1216.html",
+          "accessed_utc": "2026-09-12T16:21:15.685887+00:00",
+          "sha256": "0b127ecc9992ec85554a7ddd307a18d7f5e9d88119d570f58c031887885dad3a",
+          "bytes": 1339,
+          "source": "dhatu-mA1216.html",
+          "anchor": "चुम्बतीति वक्त्रसंयोगे शपि",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR53",
+      "batch": 4,
+      "group_id": "citation-f935035666e6",
+      "citation": "cuwa~",
+      "entries": {
+        "06.0104": [
+          "Cedane"
+        ],
+        "10.0103": [
+          "Cedane"
+        ]
+      },
+      "headword": "cuw",
+      "outcome": "merge_shared_meanings",
+      "decision": "Count cutting once; the curadi commentary explicitly points to the tudadi form.",
+      "merges": [
+        {
+          "canonical": [
+            "06.0104",
+            "Cedane"
+          ],
+          "members": [
+            [
+              "06.0104",
+              "Cedane"
+            ],
+            [
+              "10.0103",
+              "Cedane"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA1197.html",
+          "anchor": "चुटतीति शे गतम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA987.html",
+          "anchor": "चुट छुट छेदने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1197.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1197.html",
+          "accessed_utc": "2026-09-12T16:21:14.177960+00:00",
+          "sha256": "2d8849a074735967ebc93263cc58aa82849aebd95b43f840773bc4c4d54716eb",
+          "bytes": 422,
+          "source": "dhatu-mA1197.html",
+          "anchor": "चुटतीति शे गतम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA987.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA987.html",
+          "accessed_utc": "2026-09-12T15:25:44.837183+00:00",
+          "sha256": "49963c1b5c9550f145d39eb8f366c17cd258952a9a1380dd544f4a44af998f53",
+          "bytes": 521,
+          "source": "dhatu-mA987.html",
+          "anchor": "चुट छुट छेदने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 1,
+      "reduction": 1
+    },
+    {
+      "id": "IR54",
+      "batch": 4,
+      "group_id": "citation-a75b03a6bc26",
+      "citation": "cuwi~",
+      "entries": {
+        "01.0360": [
+          "alpIBAve"
+        ],
+        "10.0164": [
+          "Cedane"
+        ]
+      },
+      "headword": "cuw",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain becoming small and cutting. The idit marker does not erase the different meanings.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-XA213.html",
+          "anchor": "चुटि अल्पीभावे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1237.html",
+          "anchor": "चुटि छेदने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-XA213.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA213.html",
+          "accessed_utc": "2026-09-12T16:20:40.514306+00:00",
+          "sha256": "c2f26ebf81a3cf9bab21989dd1ed9bfda6faab3790db33f0c49f8a9378e41e45",
+          "bytes": 538,
+          "source": "dhatu-XA213.html",
+          "anchor": "चुटि अल्पीभावे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1237.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1237.html",
+          "accessed_utc": "2026-09-12T16:21:17.131403+00:00",
+          "sha256": "0c32b57d8dbe90dbaf69d464f128032352befe363280ba4d5d9098267b8a6f2c",
+          "bytes": 697,
+          "source": "dhatu-mA1237.html",
+          "anchor": "चुटि छेदने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR55",
+      "batch": 4,
+      "group_id": "citation-cae1efc6256f",
+      "citation": "dF",
+      "entries": {
+        "01.0920": [
+          "Baye"
+        ],
+        "09.0026": [
+          "vidAraRe"
+        ]
+      },
+      "headword": "dF",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain fear and splitting. Commentators disagree on whether these are separate atoms or a meaning-conditioned repetition; neither view makes the two meanings identical.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA497.html",
+          "anchor": "अमुं धात्वन्तरमाहुः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1094.html",
+          "anchor": "भये ( दरयति ) अन्यत्र दारयति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA497.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA497.html",
+          "accessed_utc": "2026-09-12T16:21:42.393492+00:00",
+          "sha256": "1fd16e27118e1a7ff965b6943ab95e36ec104fb5faf089ad675810e45cbc8a8a",
+          "bytes": 2799,
+          "source": "dhatu-mA497.html",
+          "anchor": "अमुं धात्वन्तरमाहुः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1094.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1094.html",
+          "accessed_utc": "2026-09-12T16:21:06.528177+00:00",
+          "sha256": "22845325d6eb5488b803c4039751d7ecef2de3d12f4cfea4c0d36c467ebd1051",
+          "bytes": 1702,
+          "source": "dhatu-mA1094.html",
+          "anchor": "भये ( दरयति ) अन्यत्र दारयति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR56",
+      "batch": 4,
+      "group_id": "citation-72c1eaa39c6b",
+      "citation": "daSi~",
+      "entries": {
+        "10.0193": [
+          "daMSane"
+        ],
+        "10.0295": [
+          "BAzAyAm"
+        ]
+      },
+      "headword": "daS",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain biting and speaking. The speech group also has an attributed shining reading.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA1251.html",
+          "anchor": "दशि दंशने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1321.html",
+          "anchor": "भासार्था इत्येक",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1251.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1251.html",
+          "accessed_utc": "2026-09-12T16:21:19.102381+00:00",
+          "sha256": "93a94bf5eda305f4577e3402b7af8cb1237f3a6bd3a764b857de48e85e06e5ff",
+          "bytes": 645,
+          "source": "dhatu-mA1251.html",
+          "anchor": "दशि दंशने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1321.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1321.html",
+          "accessed_utc": "2026-09-12T15:25:46.272990+00:00",
+          "sha256": "b62ce420581bdad1fa175c0fa883f78071249181757423528b8cc181e86eab6c",
+          "bytes": 7096,
+          "source": "dhatu-mA1321.html",
+          "anchor": "भासार्था इत्येक",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR57",
+      "batch": 4,
+      "group_id": "citation-1736a86eb631",
+      "citation": "dakza~\\",
+      "entries": {
+        "01.0692": [
+          "vfdDO",
+          "SIGrArTe"
+        ],
+        "01.0874": [
+          "gatO",
+          "hiMsane",
+          "SAsane",
+          "vfdDO",
+          "SIGrArTe"
+        ]
+      },
+      "headword": "dakz",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate the shared growth and swiftness assignments; keep movement, harming, and governing separately.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0692",
+            "vfdDO"
+          ],
+          "members": [
+            [
+              "01.0692",
+              "vfdDO"
+            ],
+            [
+              "01.0874",
+              "vfdDO"
+            ]
+          ]
+        },
+        {
+          "canonical": [
+            "01.0692",
+            "SIGrArTe"
+          ],
+          "members": [
+            [
+              "01.0692",
+              "SIGrArTe"
+            ],
+            [
+              "01.0874",
+              "SIGrArTe"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA473.html",
+          "anchor": "वृद्धिशैघ्र्योरनुदात्तेदयं पठितस्तस्येहार्थविशेषे मित्त्वार्थोनुवादः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA473.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA473.html",
+          "accessed_utc": "2026-09-12T16:21:41.760975+00:00",
+          "sha256": "89d73798ec07d10a32513b00790fad7f89088992f2bd9624c2e1b94b19a80f84",
+          "bytes": 690,
+          "source": "dhatu-mA473.html",
+          "anchor": "वृद्धिशैघ्र्योरनुदात्तेदयं पठितस्तस्येहार्थविशेषे मित्त्वार्थोनुवादः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 7,
+      "after": 5,
+      "reduction": 2
+    },
+    {
+      "id": "IR58",
+      "batch": 4,
+      "group_id": "citation-ba8d46df6e83",
+      "citation": "dala~",
+      "entries": {
+        "01.0629": [
+          "viSaraRe",
+          "vidAraRe"
+        ],
+        "10.0281": [
+          "vidAraRe"
+        ]
+      },
+      "headword": "dal",
+      "outcome": "open",
+      "decision": "The curadi commentary connects dal to the earlier entry, but its earlier heading is falling apart rather than the pinned additional splitting meaning.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA1320.html",
+          "anchor": "दल विदारणे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA336.html",
+          "anchor": "दल विशरणे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Locate the earlier vidarana reading before consolidating that assignment; do not equate falling apart and splitting solely from their relationship.",
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1320.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1320.html",
+          "accessed_utc": "2026-09-12T16:21:24.301004+00:00",
+          "sha256": "ab1e2c2a175aef31af3a9fc8690d0daa1d52979f9753aa5b8d6e2cf0f4e868f9",
+          "bytes": 434,
+          "source": "dhatu-mA1320.html",
+          "anchor": "दल विदारणे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA336.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA336.html",
+          "accessed_utc": "2026-09-12T16:21:37.191723+00:00",
+          "sha256": "6e712ee6fe2d8789032417b5c79938948778cf5368be8e659395dbc1f859c875",
+          "bytes": 843,
+          "source": "dhatu-mA336.html",
+          "anchor": "दल विशरणे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 3,
+      "reduction": 0
+    },
+    {
+      "id": "IR59",
+      "batch": 4,
+      "group_id": "citation-8720a5fdeb07",
+      "citation": "dasi~",
+      "entries": {
+        "10.0194": [
+          "darSane",
+          "daMSane"
+        ],
+        "10.0317": [
+          "BAzAyAm"
+        ]
+      },
+      "headword": "das",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain seeing, biting, and speaking; keep the alternative violence and shining readings attached to their witnesses.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA1252.html",
+          "anchor": "दसि दर्शन,दंशनयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1322.html",
+          "anchor": "रुठ लजि अजि दसि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-XA1305.html",
+          "anchor": "दर्शन,हिंसयोः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1252.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1252.html",
+          "accessed_utc": "2026-09-12T16:21:19.323511+00:00",
+          "sha256": "858220be15ed23a05c7f196eb974c0ca577d36a2441b49ffd3bcf66554b890a6",
+          "bytes": 1633,
+          "source": "dhatu-mA1252.html",
+          "anchor": "दसि दर्शन,दंशनयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1322.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1322.html",
+          "accessed_utc": "2026-09-12T15:42:29.741483+00:00",
+          "sha256": "7e6a3b62f141b36172bdc656c9b92d59612a568824a5ffbd055ee88ba8d13926",
+          "bytes": 4002,
+          "source": "dhatu-mA1322.html",
+          "anchor": "रुठ लजि अजि दसि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-XA1305.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1305.html",
+          "accessed_utc": "2026-09-12T16:20:39.084635+00:00",
+          "sha256": "11ca5eca0096f8f040d37eb20397e4d601233f4f87cbcfbb9712ab2ca6a97090",
+          "bytes": 426,
+          "source": "dhatu-XA1305.html",
+          "anchor": "दर्शन,हिंसयोः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 3,
+      "reduction": 0
+    },
+    {
+      "id": "IR60",
+      "batch": 4,
+      "group_id": "citation-f984a18e7125",
+      "citation": "dfBI~",
+      "entries": {
+        "06.0048": [
+          "granTe"
+        ],
+        "10.0357": [
+          "Baye"
+        ]
+      },
+      "headword": "dfB",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain binding and fear as different meanings, despite the shared idit citation.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA938.html",
+          "anchor": "दृभी ग्रन्थे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1338.html",
+          "anchor": "दृभी भये",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA938.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA938.html",
+          "accessed_utc": "2026-09-12T16:22:02.886416+00:00",
+          "sha256": "0458023ef722d438c3970f310dfac619afd1438ab8964954cc0faa7f010c5e1d",
+          "bytes": 560,
+          "source": "dhatu-mA938.html",
+          "anchor": "दृभी ग्रन्थे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1338.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1338.html",
+          "accessed_utc": "2026-09-12T16:21:25.754556+00:00",
+          "sha256": "56562ae3c3a78f9e14d3619b5fe26468ea537dc14394daf5ba61d10dff3be85e",
+          "bytes": 489,
+          "source": "dhatu-mA1338.html",
+          "anchor": "दृभी भये",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR61",
+      "batch": 4,
+      "group_id": "citation-5952f0c14bc0",
+      "citation": "dfpa~",
+      "entries": {
+        "06.0036": [
+          "utkleSe"
+        ],
+        "10.0356": [
+          "sandIpane"
+        ]
+      },
+      "headword": "dfp",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain agitation and kindling. The commentary identifies the tudadi agitation entry separately from the later sandipana heading.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA837.html",
+          "anchor": "अमुमुत्कलेषे तुदादिः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-kRi1355.html",
+          "anchor": "तृप दृप संदीपने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA837.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA837.html",
+          "accessed_utc": "2026-09-12T16:21:56.882911+00:00",
+          "sha256": "5a752e3f39d4ce30593d181f87dc531e160aa561998145e3f0dabf242922746b",
+          "bytes": 965,
+          "source": "dhatu-mA837.html",
+          "anchor": "अमुमुत्कलेषे तुदादिः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-kRi1355.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1355.html",
+          "accessed_utc": "2026-09-12T14:07:02.099742+00:00",
+          "sha256": "31f9de07fc1067f00569b3724e7ae19ece705ac09e8e1b219fcc2416e1557140",
+          "bytes": 828,
+          "source": "dhatu-kRi1355.html",
+          "anchor": "तृप दृप संदीपने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR62",
+      "batch": 4,
+      "group_id": "citation-a3c48678ede7",
+      "citation": "divu~",
+      "entries": {
+        "04.0001": [
+          "krIqAyAm",
+          "vijigIzAyAm",
+          "vyavahAre",
+          "dyutO",
+          "stutO",
+          "mode",
+          "made",
+          "svapne",
+          "kAntO",
+          "gatO"
+        ],
+        "10.0230": [
+          "parikUjane"
+        ],
+        "10.0249": [
+          "mardane"
+        ]
+      },
+      "headword": "div",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain the ten divadi meanings, lamentation, and mardana. The later entry is expressly an additional meaning; an ardana reading also needs to remain visible.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA755.html",
+          "anchor": "दिवु क्रीडा,विजिगीषा",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1279.html",
+          "anchor": "धातुरर्थान्तरे चुरादि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-kRi1314.html",
+          "anchor": "दिवु अर्दने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Reconcile mardana/ardana wording without silently replacing the pinned gloss.",
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA755.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA755.html",
+          "accessed_utc": "2026-09-12T16:21:52.773712+00:00",
+          "sha256": "2e622ca75b55b29febf8e87c70bfbe2665be857f2c9c43ca6e6afd07849fdc90",
+          "bytes": 16029,
+          "source": "dhatu-mA755.html",
+          "anchor": "दिवु क्रीडा,विजिगीषा",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1279.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1279.html",
+          "accessed_utc": "2026-09-12T16:21:21.749261+00:00",
+          "sha256": "3dc69d781c9ed1157c8e4650d5449b2762fbaafe2f093f567efd6639c49e3c66",
+          "bytes": 1767,
+          "source": "dhatu-mA1279.html",
+          "anchor": "धातुरर्थान्तरे चुरादि",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-kRi1314.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1314.html",
+          "accessed_utc": "2026-09-12T16:20:52.489295+00:00",
+          "sha256": "4de99c7b4d2946e4ceda09385dd16826896e84df616dbdb8c34cef6d99d9b8bc",
+          "bytes": 554,
+          "source": "dhatu-kRi1314.html",
+          "anchor": "दिवु अर्दने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 12,
+      "after": 12,
+      "reduction": 0
+    },
+    {
+      "id": "IR63",
+      "batch": 4,
+      "group_id": "citation-1e73fa5e4eb6",
+      "citation": "ezf~\\",
+      "entries": {
+        "01.0701": [
+          "prayatne"
+        ],
+        "01.0705": [
+          "gatO"
+        ]
+      },
+      "headword": "ez",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain effort and movement; the source supplies separate headings.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA374.html",
+          "anchor": "एषृ प्रयत्ने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA375.html",
+          "anchor": "एषृ प्रेषृ गतौ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA374.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA374.html",
+          "accessed_utc": "2026-09-12T16:21:38.654794+00:00",
+          "sha256": "1b07125cc25403e3870b15e448744f10cf57fcdbc46d3071bc08cc858fc8f0a5",
+          "bytes": 401,
+          "source": "dhatu-mA374.html",
+          "anchor": "एषृ प्रयत्ने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA375.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA375.html",
+          "accessed_utc": "2026-09-12T16:21:38.879855+00:00",
+          "sha256": "000e992e5a38d165a331ca7801ab262b89aa3487fd4a2ffb00b5e71f34ce4dfa",
+          "bytes": 816,
+          "source": "dhatu-mA375.html",
+          "anchor": "एषृ प्रेषृ गतौ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR64",
+      "batch": 4,
+      "group_id": "citation-cb3a9fff4f6d",
+      "citation": "fDu~",
+      "entries": {
+        "04.0160": [
+          "vfdDO"
+        ],
+        "05.0027": [
+          "vfdDO"
+        ]
+      },
+      "headword": "fD",
+      "outcome": "merge_shared_meanings",
+      "decision": "Count growth once. Both commentaries explicitly connect the fourth- and fifth-class entries.",
+      "merges": [
+        {
+          "canonical": [
+            "04.0160",
+            "vfdDO"
+          ],
+          "members": [
+            [
+              "04.0160",
+              "vfdDO"
+            ],
+            [
+              "05.0027",
+              "vfdDO"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA880.html",
+          "anchor": "अयं स्वादौ च",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA904.html",
+          "anchor": "शेषमृध्यतिवत्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA880.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA880.html",
+          "accessed_utc": "2026-09-12T16:21:59.862158+00:00",
+          "sha256": "295441e3018d04502d6473890e91f06702ea55b2ee746ef99eb571561521cce0",
+          "bytes": 2072,
+          "source": "dhatu-mA880.html",
+          "anchor": "अयं स्वादौ च",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA904.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA904.html",
+          "accessed_utc": "2026-09-12T16:22:01.250684+00:00",
+          "sha256": "d5a460b4a5314dd91dbd0656c6d1aaf901eb10e6ca8e68440962d0dace7302e0",
+          "bytes": 1484,
+          "source": "dhatu-mA904.html",
+          "anchor": "शेषमृध्यतिवत्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 1,
+      "reduction": 1
+    },
+    {
+      "id": "IR65",
+      "batch": 4,
+      "group_id": "citation-7cc89b28d934",
+      "citation": "f\\",
+      "entries": {
+        "01.1086": [
+          "gatO",
+          "prApaRe"
+        ],
+        "03.0017": [
+          "gatO"
+        ]
+      },
+      "headword": "f",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate the shared movement meaning; retain reaching separately.",
+      "merges": [
+        {
+          "canonical": [
+            "01.1086",
+            "gatO"
+          ],
+          "members": [
+            [
+              "01.1086",
+              "gatO"
+            ],
+            [
+              "03.0017",
+              "gatO"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA595.html",
+          "anchor": "ऋ गति,प्रापणयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA747.html",
+          "anchor": "शेषं भौवादिकवत्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA595.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA595.html",
+          "accessed_utc": "2026-09-12T16:21:46.434578+00:00",
+          "sha256": "a5c1f688757f2d0b50ed88c9c4a8902866c383c17957a1411e485464163a2e54",
+          "bytes": 16907,
+          "source": "dhatu-mA595.html",
+          "anchor": "ऋ गति,प्रापणयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA747.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA747.html",
+          "accessed_utc": "2026-09-12T16:21:52.439124+00:00",
+          "sha256": "ca08bfa54c7ab5769035700346263fc3852ce760c37c26b95d3cbf9efb92343f",
+          "bytes": 4462,
+          "source": "dhatu-mA747.html",
+          "anchor": "शेषं भौवादिकवत्",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 2,
+      "reduction": 1
+    },
+    {
+      "id": "IR66",
+      "batch": 4,
+      "group_id": "citation-35ac0ebdda53",
+      "citation": "gF",
+      "entries": {
+        "06.0146": [
+          "nigaraRe"
+        ],
+        "09.0033": [
+          "Sabde"
+        ]
+      },
+      "headword": "gF",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain swallowing and sound; Madhaviya explicitly distinguishes the ninth-class sound use.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA1012.html",
+          "anchor": "गॄ निगरणे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1100.html",
+          "anchor": "गॄ शब्दे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1012.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1012.html",
+          "accessed_utc": "2026-09-12T16:21:03.181774+00:00",
+          "sha256": "9e7a336b1d96b8c60451ad8529992b5b44b578dff787c278bed9294404d51b9d",
+          "bytes": 7673,
+          "source": "dhatu-mA1012.html",
+          "anchor": "गॄ निगरणे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1100.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1100.html",
+          "accessed_utc": "2026-09-12T16:21:07.349710+00:00",
+          "sha256": "9e8295e2eb39dc413b3242247e155a219fe2b76a6856b651e6c3cb69175e476c",
+          "bytes": 2524,
+          "source": "dhatu-mA1100.html",
+          "anchor": "गॄ शब्दे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR67",
+      "batch": 4,
+      "group_id": "citation-4c8d198af5a7",
+      "citation": "gaja~",
+      "entries": {
+        "01.0279": [
+          "Sabde",
+          "madane"
+        ],
+        "10.0149": [
+          "SabdArTe"
+        ]
+      },
+      "headword": "gaj",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate the shared sound meaning, preserving the additional madana reading.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0279",
+            "Sabde"
+          ],
+          "members": [
+            [
+              "01.0279",
+              "Sabde"
+            ],
+            [
+              "10.0149",
+              "SabdArTe"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA143.html",
+          "anchor": "अयं चुरादावपि शब्दार्थः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1228.html",
+          "anchor": "गज मार्ज शब्दार्थे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA143.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA143.html",
+          "accessed_utc": "2026-09-12T16:21:27.856911+00:00",
+          "sha256": "1990163fd71edc6445319e8e849c8101ee0bda8551a52c444a7ebf89ef8fcaed",
+          "bytes": 1842,
+          "source": "dhatu-mA143.html",
+          "anchor": "अयं चुरादावपि शब्दार्थः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1228.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1228.html",
+          "accessed_utc": "2026-09-12T16:21:16.482023+00:00",
+          "sha256": "a8b55fcf1b41b35f8e94f0958244ed48e56f266d1fae8618b63a92bd7992e4fa",
+          "bytes": 958,
+          "source": "dhatu-mA1228.html",
+          "anchor": "गज मार्ज शब्दार्थे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 2,
+      "reduction": 1
+    },
+    {
+      "id": "IR68",
+      "batch": 4,
+      "group_id": "citation-472da4714659",
+      "citation": "gala~",
+      "entries": {
+        "01.0627": [
+          "adane",
+          "sravaRe"
+        ],
+        "10.0223": [
+          "sravaRe"
+        ]
+      },
+      "headword": "gal",
+      "outcome": "open",
+      "decision": "Keep the two flow assignments provisional. The retrieved curadi heading reads shravana rather than sravana, while the earlier heading gives eating.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA1272.html",
+          "anchor": "गल श्रवणे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA334.html",
+          "anchor": "गल अदने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Resolve the shravana/sravana reading and locate the earlier flow meaning before merging.",
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1272.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1272.html",
+          "accessed_utc": "2026-09-12T16:21:21.094430+00:00",
+          "sha256": "a792ead9adf0016c34ec35c3759a81e4451eabed7915b938cc1be11a49052991",
+          "bytes": 407,
+          "source": "dhatu-mA1272.html",
+          "anchor": "गल श्रवणे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA334.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA334.html",
+          "accessed_utc": "2026-09-12T16:21:36.794692+00:00",
+          "sha256": "7c58d2954559b1f36c0f86464c749f5f45dc02eba2f6eedcf46e1f7810966c6d",
+          "bytes": 567,
+          "source": "dhatu-mA334.html",
+          "anchor": "गल अदने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 3,
+      "reduction": 0
+    },
+    {
+      "id": "IR69",
+      "batch": 4,
+      "group_id": "citation-18b99ebeda26",
+      "citation": "garda~",
+      "entries": {
+        "01.0059": [
+          "Sabde"
+        ],
+        "10.0178": [
+          "Sabde"
+        ]
+      },
+      "headword": "gard",
+      "outcome": "merge_shared_meanings",
+      "decision": "Count the shared sound meaning once; Kshiratarangini explicitly links the two classes.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0059",
+            "Sabde"
+          ],
+          "members": [
+            [
+              "01.0059",
+              "Sabde"
+            ],
+            [
+              "10.0178",
+              "Sabde"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA45.html",
+          "anchor": "नर्द गर्द शब्दे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-kRi1257.html",
+          "anchor": "भ्वादौ (147) गर्दति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA45.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA45.html",
+          "accessed_utc": "2026-09-12T16:21:40.489663+00:00",
+          "sha256": "b0c4736a0b24705044900f94c434091710600253cffa1386e829b422c3984777",
+          "bytes": 1059,
+          "source": "dhatu-mA45.html",
+          "anchor": "नर्द गर्द शब्दे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-kRi1257.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1257.html",
+          "accessed_utc": "2026-09-12T16:20:50.255711+00:00",
+          "sha256": "3e84e23efaaa53f14518d0e3346a6aec2000cd8808773dded8245648e73d4aac",
+          "bytes": 469,
+          "source": "dhatu-kRi1257.html",
+          "anchor": "भ्वादौ (147) गर्दति",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 1,
+      "reduction": 1
+    },
+    {
+      "id": "IR70",
+      "batch": 4,
+      "group_id": "citation-9303b08bf534",
+      "citation": "garja~",
+      "entries": {
+        "01.0258": [
+          "Sabde"
+        ],
+        "10.0177": [
+          "Sabde"
+        ]
+      },
+      "headword": "garj",
+      "outcome": "merge_shared_meanings",
+      "decision": "Count the shared sound meaning once. Madhaviya records the optional curadi entry and states that the two sound atoms already occur in bhvadi.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0258",
+            "Sabde"
+          ],
+          "members": [
+            [
+              "01.0258",
+              "Sabde"
+            ],
+            [
+              "10.0177",
+              "Sabde"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA126.html",
+          "anchor": "गर्ज शब्दे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1241.html",
+          "anchor": "शप्यपि गतावाद्यौ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA126.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA126.html",
+          "accessed_utc": "2026-09-12T16:21:19.893594+00:00",
+          "sha256": "41d2a7208760fa767f3bdef9a5c25a749ad697fbd93b0295d6eb2cace3042570",
+          "bytes": 404,
+          "source": "dhatu-mA126.html",
+          "anchor": "गर्ज शब्दे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1241.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1241.html",
+          "accessed_utc": "2026-09-12T16:01:13.660039+00:00",
+          "sha256": "4b7a92d619d42cb37d06dfc039e26ca1b40ce46830916d3b71a0fcc7729d58d3",
+          "bytes": 1133,
+          "source": "dhatu-mA1241.html",
+          "anchor": "शप्यपि गतावाद्यौ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 1,
+      "reduction": 1
+    },
+    {
+      "id": "IR71",
+      "batch": 4,
+      "group_id": "citation-dfb7ae877b08",
+      "citation": "glepf~\\",
+      "entries": {
+        "01.0424": [
+          "dEnye"
+        ],
+        "01.0428": [
+          "kampane",
+          "gatO"
+        ]
+      },
+      "headword": "glep",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain distress, shaking, and movement; the commentary explicitly attributes the repeated entry to a meaning difference.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA235.html",
+          "anchor": "ग्लेपृ दैन्ये",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA237.html",
+          "anchor": "ग्लेपेरर्थभेदात्पुनः पाठः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA235.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA235.html",
+          "accessed_utc": "2026-09-12T16:21:33.613639+00:00",
+          "sha256": "220b6d3426c1777c0e8b9895353ebef70ce60eb31b9e7fc608e8cb08f663bb98",
+          "bytes": 419,
+          "source": "dhatu-mA235.html",
+          "anchor": "ग्लेपृ दैन्ये",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA237.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA237.html",
+          "accessed_utc": "2026-09-12T16:21:33.811423+00:00",
+          "sha256": "f01e7390f96f4e087f80db6f02396f30782e8f4004b289b392e8e182a028c977",
+          "bytes": 1451,
+          "source": "dhatu-mA237.html",
+          "anchor": "ग्लेपेरर्थभेदात्पुनः पाठः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 3,
+      "reduction": 0
+    },
+    {
+      "id": "IR72",
+      "batch": 4,
+      "group_id": "citation-8a64d01f467a",
+      "citation": "granTa~",
+      "entries": {
+        "09.0049": [
+          "sandarBe"
+        ],
+        "10.0362": [
+          "banDane"
+        ],
+        "10.0375": [
+          "sandarBe"
+        ]
+      },
+      "headword": "granT",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate the two sandarbha assignments; retain bandhana provisionally.",
+      "merges": [
+        {
+          "canonical": [
+            "09.0049",
+            "sandarBe"
+          ],
+          "members": [
+            [
+              "09.0049",
+              "sandarBe"
+            ],
+            [
+              "10.0375",
+              "sandarBe"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA1114.html",
+          "anchor": "ग्रन्थ सन्दर्भे इति चुरादावित्युक्त्वा क्र्यादावपीत्युक्तम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1342.html",
+          "anchor": "ग्रन्थ बन्धने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Whether bandhana and sandarbha identify one meaning in these entries remains a separate comparison.",
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1114.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1114.html",
+          "accessed_utc": "2026-09-12T16:21:08.404733+00:00",
+          "sha256": "cb7b7fe767e9be5c33a16e26f7114321cdeaec0920b7c384bf979c5e2999cd47",
+          "bytes": 1653,
+          "source": "dhatu-mA1114.html",
+          "anchor": "ग्रन्थ सन्दर्भे इति चुरादावित्युक्त्वा क्र्यादावपीत्युक्तम्",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1342.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1342.html",
+          "accessed_utc": "2026-09-12T16:21:26.175152+00:00",
+          "sha256": "6f4fc1d8b251ab4f8b9f50dae5571788696f2e34865d02bb5b799f2476420e01",
+          "bytes": 1077,
+          "source": "dhatu-mA1342.html",
+          "anchor": "ग्रन्थ बन्धने",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 2,
+      "reduction": 1
+    },
+    {
+      "id": "IR73",
+      "batch": 4,
+      "group_id": "citation-555d7cdd992e",
+      "citation": "guDa~",
+      "entries": {
+        "04.0014": [
+          "parivezwane"
+        ],
+        "09.0053": [
+          "roze"
+        ]
+      },
+      "headword": "guD",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain enveloping and anger; the source explicitly distinguishes the classes by meaning.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA767.html",
+          "anchor": "गुध परिवेष्टने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1118.html",
+          "anchor": "गुध रोषे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA767.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA767.html",
+          "accessed_utc": "2026-09-12T16:21:53.782160+00:00",
+          "sha256": "88be9dbc812642dcfea1527ab4e9d43cce6a8054b7ae7a31a1c74877b7a0fb22",
+          "bytes": 1335,
+          "source": "dhatu-mA767.html",
+          "anchor": "गुध परिवेष्टने",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1118.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1118.html",
+          "accessed_utc": "2026-09-12T16:21:08.806302+00:00",
+          "sha256": "e75deafe0d68bc01eba223275943ad16b100af1f236add971171a5eadd80c035",
+          "bytes": 824,
+          "source": "dhatu-mA1118.html",
+          "anchor": "गुध रोषे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR74",
+      "batch": 4,
+      "group_id": "citation-6ba2737db805",
+      "citation": "gu\\N",
+      "entries": {
+        "01.1100": [
+          "avyakte Sabde"
+        ],
+        "01.1105": [
+          "Sabde"
+        ]
+      },
+      "headword": "gu",
+      "outcome": "open",
+      "decision": "Both entries concern sound, but the scope of the indistinct-sound qualification is not yet resolved.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA605.html",
+          "anchor": "गुङ् अव्यक्ते_शब्दे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.११०५ गुङ्ऽ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Find an explanation of the repeated gung entry and determine whether shabda is shorthand for the same indistinct-sound meaning.",
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA605.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA605.html",
+          "accessed_utc": "2026-09-12T16:21:46.868046+00:00",
+          "sha256": "d98a117401baf369d191690ce6ade08ccdd84f4390e229749c8dae7f03129ed0",
+          "bytes": 2894,
+          "source": "dhatu-mA605.html",
+          "anchor": "गुङ् अव्यक्ते_शब्दे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatupatha-sanskritdocuments.html",
+          "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+          "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+          "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+          "bytes": 147148,
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.११०५ गुङ्ऽ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR75",
+      "batch": 4,
+      "group_id": "citation-4bb9fa80f721",
+      "citation": "guja~",
+      "entries": {
+        "01.0230": [
+          "avyakte Sabde"
+        ],
+        "06.0096": [
+          "Sabde"
+        ]
+      },
+      "headword": "guj",
+      "outcome": "merge_shared_meanings",
+      "decision": "Consolidate sound here: the tudadi commentary explicitly reports Atreya's indistinct-sound gloss and connects the bhvadi form.",
+      "merges": [
+        {
+          "canonical": [
+            "01.0230",
+            "avyakte Sabde"
+          ],
+          "members": [
+            [
+              "01.0230",
+              "avyakte Sabde"
+            ],
+            [
+              "06.0096",
+              "Sabde"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA979.html",
+          "anchor": "गुज शब्दे अव्यक्ते_शब्दे इत्यात्रेयः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA111.html",
+          "anchor": "अनिदिदित्येक",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "Keep the idit/anidit disagreement in the citation provenance; the merger does not erase those grammatical readings.",
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA979.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA979.html",
+          "accessed_utc": "2026-09-12T16:22:05.602038+00:00",
+          "sha256": "cf4c50733dd5131598db371f0a36cfdc3741263403ebb15339fbcaf959209de8",
+          "bytes": 604,
+          "source": "dhatu-mA979.html",
+          "anchor": "गुज शब्दे अव्यक्ते_शब्दे इत्यात्रेयः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA111.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA111.html",
+          "accessed_utc": "2026-09-12T16:21:07.792420+00:00",
+          "sha256": "c704d7fecb2bf04ee09b87f1a30ddfdbf7f53c136b907ed8e894416b6579f64f",
+          "bytes": 1136,
+          "source": "dhatu-mA111.html",
+          "anchor": "अनिदिदित्येक",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 1,
+      "reduction": 1
+    },
+    {
+      "id": "IR76",
+      "batch": 4,
+      "group_id": "citation-6ff10ff67501",
+      "citation": "gupa~",
+      "entries": {
+        "04.0147": [
+          "vyAkulatve"
+        ],
+        "10.0302": [
+          "BAzAyAm"
+        ]
+      },
+      "headword": "gup",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain agitation and speaking. The speech group's alternative shining reading remains source-specific.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA872.html",
+          "anchor": "गुप व्याकुलत्वे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1321.html",
+          "anchor": "गुप धूप विच्छ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA872.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA872.html",
+          "accessed_utc": "2026-09-12T16:21:59.201933+00:00",
+          "sha256": "afabd9543b71b85b0f5d0dce56d15d6ca8e82d76a07217ae40c56d651702724d",
+          "bytes": 542,
+          "source": "dhatu-mA872.html",
+          "anchor": "गुप व्याकुलत्वे",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1321.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1321.html",
+          "accessed_utc": "2026-09-12T15:25:46.272990+00:00",
+          "sha256": "b62ce420581bdad1fa175c0fa883f78071249181757423528b8cc181e86eab6c",
+          "bytes": 7096,
+          "source": "dhatu-mA1321.html",
+          "anchor": "गुप धूप विच्छ",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR77",
+      "batch": 4,
+      "group_id": "citation-118ee25f42ff",
+      "citation": "hisi~",
+      "entries": {
+        "07.0019": [
+          "hiMsAyAm"
+        ],
+        "10.0366": [
+          "hiMsAyAm"
+        ]
+      },
+      "headword": "his",
+      "outcome": "merge_shared_meanings",
+      "decision": "Count harming once; the curadi commentary explicitly links hinasti in the seventh class.",
+      "merges": [
+        {
+          "canonical": [
+            "07.0019",
+            "hiMsAyAm"
+          ],
+          "members": [
+            [
+              "07.0019",
+              "hiMsAyAm"
+            ],
+            [
+              "10.0366",
+              "hiMsAyAm"
+            ]
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source": "dhatu-mA1346.html",
+          "anchor": "हिनस्तीति श्नमि",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA1346.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1346.html",
+          "accessed_utc": "2026-09-12T16:01:12.425748+00:00",
+          "sha256": "dbc743763bb7997d6201c9ecc8c963b308edacf4a39ce4e657deb09e5e9c38f8",
+          "bytes": 645,
+          "source": "dhatu-mA1346.html",
+          "anchor": "हिनस्तीति श्नमि",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 1,
+      "reduction": 1
+    },
+    {
+      "id": "IR78",
+      "batch": 4,
+      "group_id": "citation-542263aac5a0",
+      "citation": "huqi~\\",
+      "entries": {
+        "01.0302": [
+          "saNGAte"
+        ],
+        "01.0310": [
+          "varaRe",
+          "haraRe"
+        ]
+      },
+      "headword": "huq",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain joining and acceptance/removal; the commentary records acceptance and removal as alternate explanations at the second location.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA158.html",
+          "anchor": "हुडि संघाते",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA166.html",
+          "anchor": "वरणं स्वीकारः हरणमिति मैत्रेयः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA158.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA158.html",
+          "accessed_utc": "2026-09-12T16:21:28.518193+00:00",
+          "sha256": "1b6bae144c0ac4152dbdcea510a17cc13712d2ad090f02a831cdf36c2d92cacf",
+          "bytes": 737,
+          "source": "dhatu-mA158.html",
+          "anchor": "हुडि संघाते",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA166.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA166.html",
+          "accessed_utc": "2026-09-12T16:21:29.244189+00:00",
+          "sha256": "7db7ba455f426bfaaece4b4a455a127a095a59ec9bd49a3058f92298987df9d6",
+          "bytes": 660,
+          "source": "dhatu-mA166.html",
+          "anchor": "वरणं स्वीकारः हरणमिति मैत्रेयः",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 3,
+      "reduction": 0
+    },
+    {
+      "id": "IR79",
+      "batch": 4,
+      "group_id": "citation-997970e05b90",
+      "citation": "hvf\\",
+      "entries": {
+        "01.1080": [
+          "kOwilye"
+        ],
+        "01.1084": [
+          "saMvaraRe"
+        ]
+      },
+      "headword": "hvf",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain crookedness and covering. The second meaning remains separately recorded in the base source, not inferred from the first.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA591.html",
+          "anchor": "ह्वृ कौटिल्ये",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.१०८४",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "remaining": "The base transcription locates the second record; a direct commentary on its covering use remains desirable.",
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA591.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA591.html",
+          "accessed_utc": "2026-09-12T16:21:45.595735+00:00",
+          "sha256": "9373e1f29e0173f2aef62cf3ebcd2794934797840e72d8b095755644fcf6009e",
+          "bytes": 2836,
+          "source": "dhatu-mA591.html",
+          "anchor": "ह्वृ कौटिल्ये",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatupatha-sanskritdocuments.html",
+          "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+          "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+          "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+          "bytes": 147148,
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.१०८४",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 2,
+      "after": 2,
+      "reduction": 0
+    },
+    {
+      "id": "IR80",
+      "batch": 4,
+      "group_id": "citation-87152ee7f646",
+      "citation": "ila~",
+      "entries": {
+        "06.0084": [
+          "svapne",
+          "kzepaRe"
+        ],
+        "10.0167": [
+          "preraRe"
+        ]
+      },
+      "headword": "il",
+      "outcome": "retain_distinct_meanings",
+      "decision": "Retain sleep, casting, and impelling as distinct listed meanings; the cross-reference does not assert synonymy.",
+      "merges": [],
+      "evidence": [
+        {
+          "source": "dhatu-mA968.html",
+          "anchor": "इल स्वप्न,क्षेपणयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "source": "dhatu-mA1238.html",
+          "anchor": "इल प्रेरणे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "eligibility": "Keep the recorded class, pada, markers, and meaning conditions for generation. Base identity does not collapse derived formations.",
+      "source_records": [
+        {
+          "filename": "dhatu-mA968.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA968.html",
+          "accessed_utc": "2026-09-12T16:22:04.565988+00:00",
+          "sha256": "7fdc6f94431aed6746a08205580a252ec91daa1df7d58514946fc8b04d27c53a",
+          "bytes": 964,
+          "source": "dhatu-mA968.html",
+          "anchor": "इल स्वप्न,क्षेपणयोः",
+          "role": "Source-specific evidence for this decision."
+        },
+        {
+          "filename": "dhatu-mA1238.html",
+          "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1238.html",
+          "accessed_utc": "2026-09-12T16:21:17.308738+00:00",
+          "sha256": "274b38f92bbad9e12ca21738208db15c5611ab4ce7f2bdfdc60cad3d1b58e656",
+          "bytes": 435,
+          "source": "dhatu-mA1238.html",
+          "anchor": "इल प्रेरणे",
+          "role": "Source-specific evidence for this decision."
+        }
+      ],
+      "before": 3,
+      "after": 3,
+      "reduction": 0
+    }
+  ],
+  "batches": [],
+  "inputs": {
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "analysis/dhatupatha/data/dhatupatha.csv": "e491d6cd8c68e3fe455f57098ba6d6ad2762cf0882a74dd585aa45e636eb9d86",
+    "analysis/generativity/meaning_analysis.json": "7aa9235ff707a1dc396b9a39af4f49f5c3515fd88ee6d95add1cae2c86ce8b05",
+    "analysis/generativity/meaning_review.json": "12aad8e5ca50fd23f48bd8aece0fd84bdc8be96df71fce4f31e52dfa2062a04e",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_base_meanings.py": "ce8c1b8693cabb84f55a0e900d29f27ded240418efe23ac4f28412161b05c40b",
+    "analysis/generativity/read_dhatu_concordance.py": "54c133a161dee4f94c6e5afc050ce02614f7ae3a6acf8668297fb4205dc0ccc1",
+    "analysis/generativity/run_pilot.py": "3f82d96451e02338afde2e897c80e78052e1bb55d3b07aa48cd3658976e19d1a",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/review_base_identities.py": "14fb2e36a69aa1b6266480eb98a97e1d65cfe5c6006b96965b00cc3e0fbdd421"
+  },
+  "number": 4,
+  "group_ids": [
+    "IR51",
+    "IR52",
+    "IR53",
+    "IR54",
+    "IR55",
+    "IR56",
+    "IR57",
+    "IR58",
+    "IR59",
+    "IR60",
+    "IR61",
+    "IR62",
+    "IR63",
+    "IR64",
+    "IR65",
+    "IR66",
+    "IR67",
+    "IR68",
+    "IR69",
+    "IR70",
+    "IR71",
+    "IR72",
+    "IR73",
+    "IR74",
+    "IR75",
+    "IR76",
+    "IR77",
+    "IR78",
+    "IR79",
+    "IR80"
+  ],
+  "batch_number": 4
+}

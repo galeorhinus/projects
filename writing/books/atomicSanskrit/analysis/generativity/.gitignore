@@ -1,0 +1,22 @@
+# Reproducible bulk ledgers. Keep local for analysis and future application
+# exports; regenerate from the tracked scripts, approvals, and source records.
+/results/conditioned_krdanta_ledger.csv
+/results/krdanta_ledger.csv
+/results/namadhatu_ledger.csv.gz
+/results/nan_ledger.csv.gz
+/results/nan_nominal_inventory.csv.gz
+/results/nominal_input_inventory.csv.gz
+/results/prefixed_krdanta_ledger.csv.gz
+/results/sanadi_krdanta_ledger.csv.gz
+/results/stri_generalization_eligibility.csv.gz
+/results/stri_generalization_ledger.csv.gz
+/results/taddhita_generalization_candidates.csv.gz
+/results/taddhita_generalization_ledger.csv.gz
+/results/taddhita_ledger.csv.gz
+/results/two_upasarga_ledger.csv.gz
+/results/upasarga_generation_ledger.csv
+/results/upasarga_sanadi_ledger.csv.gz
+/results/vaidika_stacked_ledger.csv.gz
+
+# Cargo build output from the local Vidyut verifier.
+/rust/samasa_verifier/target/

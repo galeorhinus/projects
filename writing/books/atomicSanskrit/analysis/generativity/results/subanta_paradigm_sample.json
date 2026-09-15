@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 9,
+  "sample_name_meanings": 8,
+  "semantic_cells_requested": 192,
+  "semantic_cells_locally_regenerated": 192,
+  "engine_zero_unresolved_cells": 0,
+  "generated_surface_form_links": 198,
+  "full_inflection_rule_paths_recorded": true
+}

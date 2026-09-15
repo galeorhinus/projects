@@ -1,0 +1,9 @@
+source_layer,display,reconstruction_recipe,word_meanings
+base,मूलधातुः,source धातुः entry,2623
+one_sanadi,one सनादि operation,source धातुः + one recorded सनादि operation,12480
+one_upasarga,one उपसर्गः,source धातुः + one recorded उपसर्गः,52347
+upasarga_sanadi,उपसर्गः + सनादि,source धातुः + recorded सनादि and उपसर्ग operations,249200
+curadi_true_causative,द्विणिजन्त,चरादिगण source धातुः + two णिच् operations,522
+two_upasarga,two ordered उपसर्गाः,source धातुः + two recorded ordered उपसर्गाः,1046940
+namadhatu,नामधातुः,recorded nominal input + नामधातुः operation,3176352
+compound_namadhatu,compound नामधातुः,source compound + नामधातुः operation,384

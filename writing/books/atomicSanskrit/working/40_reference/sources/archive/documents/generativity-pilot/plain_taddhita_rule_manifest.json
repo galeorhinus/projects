@@ -1,0 +1,884 @@
+{
+  "sources": [
+    {
+      "filename": "plain-taddhita-rule-4.1.92.html",
+      "rule": "4.1.92",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.92.htm",
+      "accessed_utc": "2026-09-13T16:17:28.043801+00:00",
+      "sha256": "7cfc4c9813dba4b5abcd6fafe198ba6234394a70af434fdea9ddafcd6accd1ad",
+      "bytes": 45881
+    },
+    {
+      "filename": "plain-taddhita-rule-4.1.112.html",
+      "rule": "4.1.112",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.112.htm",
+      "accessed_utc": "2026-09-13T16:06:11.096753+00:00",
+      "sha256": "7d74b08553da8b4e931b262adb33be95eaee25a7b2083fa8d9bbeffef4c28889",
+      "bytes": 15424
+    },
+    {
+      "filename": "plain-taddhita-rule-4.1.116.html",
+      "rule": "4.1.116",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.116.htm",
+      "accessed_utc": "2026-09-13T16:06:12.445859+00:00",
+      "sha256": "a337626e44230e6a538ddec5203e791050e27db288518c82c9a81be64382bfdd",
+      "bytes": 3282
+    },
+    {
+      "filename": "plain-taddhita-rule-4.1.121.html",
+      "rule": "4.1.121",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.121.htm",
+      "accessed_utc": "2026-09-13T16:06:13.951257+00:00",
+      "sha256": "76ae7f3924c107ad0aba4913d90360d97ae4dc06e352ed9ba981908010de1a65",
+      "bytes": 2800
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.67.html",
+      "rule": "4.2.67",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.67.htm",
+      "accessed_utc": "2026-09-13T16:06:15.255816+00:00",
+      "sha256": "941efe4407e4ffd1ecf6ac5b101273d821d94d95d82d110e753b55f49768f0de",
+      "bytes": 4418
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.68.html",
+      "rule": "4.2.68",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.68.htm",
+      "accessed_utc": "2026-09-13T16:06:16.470516+00:00",
+      "sha256": "8c19b60611553f86c8d75f9cb469ec6a90c38e3c56ea10505efde0e83b2674ad",
+      "bytes": 3866
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.69.html",
+      "rule": "4.2.69",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.69.htm",
+      "accessed_utc": "2026-09-13T16:06:17.691111+00:00",
+      "sha256": "ee51ba99a65b27b142ade967ff72042ab7910e8888fa240fd8147eedd3cd1752",
+      "bytes": 2437
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.70.html",
+      "rule": "4.2.70",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.70.htm",
+      "accessed_utc": "2026-09-13T16:06:18.921464+00:00",
+      "sha256": "08b769e0e159b3435a3547678c886d4fe30d4afe33cdcfb0fa40003f0d8096cb",
+      "bytes": 4503
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.71.html",
+      "rule": "4.2.71",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.71.htm",
+      "accessed_utc": "2026-09-13T16:06:20.114520+00:00",
+      "sha256": "8cd31305d56e996b8e3f8542990c49c8cf2a9be9b55f4dcb7d32faf596972e98",
+      "bytes": 3115
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.72.html",
+      "rule": "4.2.72",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.72.htm",
+      "accessed_utc": "2026-09-13T16:06:21.337105+00:00",
+      "sha256": "bfcc07e6b2729079f3ff28308b90a164a7046282a2e7d84fcc0b6a43fa6674d5",
+      "bytes": 3730
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.75.html",
+      "rule": "4.2.75",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.75.htm",
+      "accessed_utc": "2026-09-13T16:06:22.635877+00:00",
+      "sha256": "014f521c6c87c163cfb7eeb5686c09242828b99de36595f3392621c490dff5b9",
+      "bytes": 2673
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.77.html",
+      "rule": "4.2.77",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.77.htm",
+      "accessed_utc": "2026-09-13T16:06:23.794063+00:00",
+      "sha256": "99feb0f0ef0558ef87593abe99dd4e9c69c32b189483d9d7f6b89c5c664364b1",
+      "bytes": 4514
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.78.html",
+      "rule": "4.2.78",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.78.htm",
+      "accessed_utc": "2026-09-13T16:06:25.326141+00:00",
+      "sha256": "d4bfb991dedcb562546240b0b7996b1b0298078d978f6217430441f8266c8755",
+      "bytes": 6255
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.79.html",
+      "rule": "4.2.79",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.79.htm",
+      "accessed_utc": "2026-09-13T16:06:26.835384+00:00",
+      "sha256": "800e1cd74f09a413d4612db5cde6971d21bdf402eb4152907e461a10bdff93b6",
+      "bytes": 2279
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.84.html",
+      "rule": "4.2.84",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.84.htm",
+      "accessed_utc": "2026-09-13T16:06:28.454113+00:00",
+      "sha256": "614397cb9bb4420cac888e462770203875d90ef93049822b5b54b939fe5bc22f",
+      "bytes": 2600
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.86.html",
+      "rule": "4.2.86",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.86.htm",
+      "accessed_utc": "2026-09-13T16:06:29.727873+00:00",
+      "sha256": "d8cdbc2800bb8ab20ec2ad0289fc60408842799cf49b8cf943bbfa94ca0547b9",
+      "bytes": 2437
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.87.html",
+      "rule": "4.2.87",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.87.htm",
+      "accessed_utc": "2026-09-13T16:06:30.616452+00:00",
+      "sha256": "1f80f721aa9006a9707e6a68f9d591cfc2a355b5964d5b5058148de5b2ee3e7b",
+      "bytes": 6701
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.92.html",
+      "rule": "4.2.92",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.92.htm",
+      "accessed_utc": "2026-09-13T16:06:31.699777+00:00",
+      "sha256": "851684ee34c0701e70bc76993bce0cefefc08b35dda4ceb6a1dae6fc339e5be5",
+      "bytes": 15125
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.93.html",
+      "rule": "4.2.93",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.93.htm",
+      "accessed_utc": "2026-09-13T16:06:32.950567+00:00",
+      "sha256": "8ef5b9537ebed0199d8520f65fed819a8f8c1f88afcf6376a945c31e227cadf4",
+      "bytes": 9679
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.94.html",
+      "rule": "4.2.94",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.94.htm",
+      "accessed_utc": "2026-09-13T16:06:34.179011+00:00",
+      "sha256": "5a2a0355e90c18bd6dfa62bab93132de3a22805b246159cd3e9662c8cb5346b8",
+      "bytes": 2867
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.95.html",
+      "rule": "4.2.95",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.95.htm",
+      "accessed_utc": "2026-09-13T16:06:35.576923+00:00",
+      "sha256": "a7a48c0e245dd3138b7e30591eaf168c657976d083bf4b9d8196f8daecb55fb2",
+      "bytes": 4037
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.97.html",
+      "rule": "4.2.97",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.97.htm",
+      "accessed_utc": "2026-09-13T16:06:37.147192+00:00",
+      "sha256": "a6646f6525ba44cc455d303a0ec179eb4d085f02c4d781a84ec32f39982f9a56",
+      "bytes": 4031
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.98.html",
+      "rule": "4.2.98",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.98.htm",
+      "accessed_utc": "2026-09-13T16:06:38.070247+00:00",
+      "sha256": "0114a7571a70f4b6f56f62b8adf3f301b77a4d66d5eb3c30cc8d5db555190bd4",
+      "bytes": 4471
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.99.html",
+      "rule": "4.2.99",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.99.htm",
+      "accessed_utc": "2026-09-13T16:06:39.088966+00:00",
+      "sha256": "68fec46f11ba6cb329469af2bc5cf7e76da7106930230fb48c46e646878824f5",
+      "bytes": 3367
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.100.html",
+      "rule": "4.2.100",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.100.htm",
+      "accessed_utc": "2026-09-13T16:06:40.219145+00:00",
+      "sha256": "66727b73dc223f7958ae652368a552845af224b692871e88913c1db5805d991d",
+      "bytes": 8573
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.101.html",
+      "rule": "4.2.101",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.101.htm",
+      "accessed_utc": "2026-09-13T16:06:41.654802+00:00",
+      "sha256": "9afc7a13ae46a08c7cf916c68b74882015ebd0fd751bb6109d405bff5e9864ec",
+      "bytes": 8015
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.102.html",
+      "rule": "4.2.102",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.102.htm",
+      "accessed_utc": "2026-09-13T16:06:42.647791+00:00",
+      "sha256": "714d9bf0086073bf8dbd5790bf1fb14f6a480148acb7361450371c75d4c1cbef",
+      "bytes": 1604
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.103.html",
+      "rule": "4.2.103",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.103.htm",
+      "accessed_utc": "2026-09-13T16:06:43.522352+00:00",
+      "sha256": "db36deb8f98b26a4ff7ad47c9bed1144b5d2b5b0a8aaf2cb84a67779af80a100",
+      "bytes": 4690
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.105.html",
+      "rule": "4.2.105",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.105.htm",
+      "accessed_utc": "2026-09-13T16:06:44.459373+00:00",
+      "sha256": "7138a4e401ed61eac55f5f641678223764a9a5b518f08ae04b939abe8a7ee329",
+      "bytes": 4901
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.114.html",
+      "rule": "4.2.114",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.114.htm",
+      "accessed_utc": "2026-09-13T16:06:45.992156+00:00",
+      "sha256": "243b0492cfa0f0048ee3e7497896041beaf44907d40d821f29fb8a35f784f9d8",
+      "bytes": 6065
+    },
+    {
+      "filename": "plain-taddhita-rule-4.2.115.html",
+      "rule": "4.2.115",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.2.115.htm",
+      "accessed_utc": "2026-09-13T16:06:46.904533+00:00",
+      "sha256": "fb436f030b2e07ac1ff6787ac8e179e2f471909e07f613fb606b0e717ab0a49e",
+      "bytes": 2359
+    },
+    {
+      "filename": "plain-taddhita-rule-4.4.34.html",
+      "rule": "4.4.34",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.4.34.htm",
+      "accessed_utc": "2026-09-13T16:06:47.738727+00:00",
+      "sha256": "9c4bc774efc2a82a4d67ca3ae809cd92af3babc38f10b41d5af55f4b394d3a50",
+      "bytes": 5784
+    },
+    {
+      "filename": "plain-taddhita-rule-4.4.65.html",
+      "rule": "4.4.65",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.4.65.htm",
+      "accessed_utc": "2026-09-13T16:06:48.603565+00:00",
+      "sha256": "618965b82181fd0b859f7051168fc7dd066f2d5f90bbdc9f4008fbf745b957c7",
+      "bytes": 4460
+    },
+    {
+      "filename": "plain-taddhita-rule-4.4.71.html",
+      "rule": "4.4.71",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.4.71.htm",
+      "accessed_utc": "2026-09-13T16:06:49.569284+00:00",
+      "sha256": "2d572342e34266ed7f50b7dfa0d3b48196f6f97e99cb5ffd32a438081dd4a868",
+      "bytes": 3900
+    },
+    {
+      "filename": "plain-taddhita-rule-4.4.91.html",
+      "rule": "4.4.91",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.4.91.htm",
+      "accessed_utc": "2026-09-13T16:06:50.794567+00:00",
+      "sha256": "682ed1deb71261ad13b9bede0b087db56cf77e1c675fee3aefcbad777f4cdc02",
+      "bytes": 21070
+    },
+    {
+      "filename": "plain-taddhita-rule-4.4.97.html",
+      "rule": "4.4.97",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.4.97.htm",
+      "accessed_utc": "2026-09-13T16:06:51.845762+00:00",
+      "sha256": "53e85b5ef511c05a913a6314c01494f54795e288957c55906c21d4cdb3a552c4",
+      "bytes": 4219
+    },
+    {
+      "filename": "plain-taddhita-rule-5.1.2.html",
+      "rule": "5.1.2",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.2.htm",
+      "accessed_utc": "2026-09-13T16:06:53.020115+00:00",
+      "sha256": "45cce50c4c8d8273364fd607b3148b9902dd973f9bac301084f7a87b7f95fc77",
+      "bytes": 12454
+    },
+    {
+      "filename": "plain-taddhita-rule-5.1.3.html",
+      "rule": "5.1.3",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.3.htm",
+      "accessed_utc": "2026-09-13T16:06:54.250994+00:00",
+      "sha256": "c0e2f42b0a097b48fb13026880b959d1182d8bb40d8e2cde532b63ae0f54e0f7",
+      "bytes": 6357
+    },
+    {
+      "filename": "plain-taddhita-rule-5.1.22.html",
+      "rule": "5.1.22",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.22.htm",
+      "accessed_utc": "2026-09-13T16:06:55.375377+00:00",
+      "sha256": "9bb311aac06277b273dca130dd9e22496683212b4a54205a947797db1bb46f39",
+      "bytes": 9436
+    },
+    {
+      "filename": "plain-taddhita-rule-5.1.77.html",
+      "rule": "5.1.77",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.77.htm",
+      "accessed_utc": "2026-09-13T16:06:56.354447+00:00",
+      "sha256": "942b706c87de7dcc715c02a5d397c93e8eccc2928253a5fa77ddab7bdc3a4271",
+      "bytes": 6370
+    },
+    {
+      "filename": "plain-taddhita-rule-5.1.105.html",
+      "rule": "5.1.105",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.105.htm",
+      "accessed_utc": "2026-09-13T16:06:57.344601+00:00",
+      "sha256": "e063f0f2664353f0a1fd0811cd73258036cb533dc985cdbfeb2329cba4df7a0e",
+      "bytes": 3010
+    },
+    {
+      "filename": "plain-taddhita-rule-5.1.106.html",
+      "rule": "5.1.106",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.106.htm",
+      "accessed_utc": "2026-09-13T16:06:58.322103+00:00",
+      "sha256": "299694de67b31377bd8e03dfe7574d3a6c931081737641e721a181e3997316b6",
+      "bytes": 1775
+    },
+    {
+      "filename": "plain-taddhita-rule-5.1.119.html",
+      "rule": "5.1.119",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.119.htm",
+      "accessed_utc": "2026-09-13T16:06:59.375839+00:00",
+      "sha256": "45567a56628675149bb161297ea329137a219e75a51825bb32a165555996068c",
+      "bytes": 10377
+    },
+    {
+      "filename": "plain-taddhita-rule-5.1.122.html",
+      "rule": "5.1.122",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.122.htm",
+      "accessed_utc": "2026-09-13T16:07:00.234517+00:00",
+      "sha256": "86db5f7204feb58609d68d900b68160aa7c8b67170e2351a5968c9ea8ef8459d",
+      "bytes": 6684
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.9.html",
+      "rule": "5.2.9",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.9.htm",
+      "accessed_utc": "2026-09-13T16:07:01.725134+00:00",
+      "sha256": "bd6193d88b2f51ecc5739187dd86a65e8e103143c07af2a6d23b85efb7331812",
+      "bytes": 13413
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.28.html",
+      "rule": "5.2.28",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.28.htm",
+      "accessed_utc": "2026-09-13T16:07:02.705635+00:00",
+      "sha256": "fbf4228583f57027608a4ca4640abe0a1d1fea2b704076eded98197fc136aa47",
+      "bytes": 5166
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.29.html",
+      "rule": "5.2.29",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.29.htm",
+      "accessed_utc": "2026-09-13T16:07:03.840793+00:00",
+      "sha256": "15af9df88bbd2760639ed9c712fd4db308c3e50869822acbc2ef62f152a2b5c7",
+      "bytes": 12567
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.30.html",
+      "rule": "5.2.30",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.30.htm",
+      "accessed_utc": "2026-09-13T16:07:04.891598+00:00",
+      "sha256": "828daaf8b3148489e3ef3c53ada9ba3269883aab882d205390aa1b2507a9a108",
+      "bytes": 1771
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.31.html",
+      "rule": "5.2.31",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.31.htm",
+      "accessed_utc": "2026-09-13T16:07:06.088174+00:00",
+      "sha256": "a39ca9db032fb6b24f6ff8755a35996ce97f43739556b5a8b95aeb3b81e45b97",
+      "bytes": 7680
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.32.html",
+      "rule": "5.2.32",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.32.htm",
+      "accessed_utc": "2026-09-13T16:07:08.585844+00:00",
+      "sha256": "5aa5a7eda60893a3a677e0baa4100c4f84add654cbf6496405dcf7732fe44c9c",
+      "bytes": 3042
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.33.html",
+      "rule": "5.2.33",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.33.htm",
+      "accessed_utc": "2026-09-13T16:07:09.940554+00:00",
+      "sha256": "916e430fb2ffce26b16aca23996caea0f70446ec5901f4cfd2948fad9d2fed54",
+      "bytes": 7968
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.34.html",
+      "rule": "5.2.34",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.34.htm",
+      "accessed_utc": "2026-09-13T16:07:11.534582+00:00",
+      "sha256": "343e3c68147cba171cc8cd17846e58f36b81980b35361865bcbd2f4faf63eeed",
+      "bytes": 2478
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.35.html",
+      "rule": "5.2.35",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.35.htm",
+      "accessed_utc": "2026-09-13T16:07:13.091512+00:00",
+      "sha256": "8d7bfd74c12a87c77a04df0d10d469b257122e400e968a0792ef39b2dcaacf14",
+      "bytes": 3638
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.94.html",
+      "rule": "5.2.94",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.94.htm",
+      "accessed_utc": "2026-09-13T16:07:15.113150+00:00",
+      "sha256": "f8062660040b8161379b1ef031c77184cf53e15054b30822dfb2c8783bb647f8",
+      "bytes": 15591
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.96.html",
+      "rule": "5.2.96",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.96.htm",
+      "accessed_utc": "2026-09-13T16:07:16.642497+00:00",
+      "sha256": "a4c332c952744a54a9852ebfbcbec941a9d97b47c88951ead1a424fd609db6e2",
+      "bytes": 10036
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.100.html",
+      "rule": "5.2.100",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.100.htm",
+      "accessed_utc": "2026-09-13T16:07:17.904096+00:00",
+      "sha256": "7671456116b76ada808a4ce96905e3395ac6216c882ae95b77646a26530acba4",
+      "bytes": 13287
+    },
+    {
+      "filename": "plain-taddhita-rule-5.2.121.html",
+      "rule": "5.2.121",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.121.htm",
+      "accessed_utc": "2026-09-13T16:07:19.037285+00:00",
+      "sha256": "c3578e36caf85741b9d078498e2d684c129deec148f3ef328c4c44278f68f8fa",
+      "bytes": 11583
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.3.html",
+      "rule": "5.3.3",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.3.htm",
+      "accessed_utc": "2026-09-13T16:07:20.051552+00:00",
+      "sha256": "7e0dd8e1421f4317fc423a93aff0e1052480667595da5adfb4ac79987f147d61",
+      "bytes": 3523
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.4.html",
+      "rule": "5.3.4",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.4.htm",
+      "accessed_utc": "2026-09-13T16:07:21.045793+00:00",
+      "sha256": "c217fceb55e27f45f22d87c8f8dd19260129ddc24e9601dc1fd5689c8f72843a",
+      "bytes": 3771
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.5.html",
+      "rule": "5.3.5",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.5.htm",
+      "accessed_utc": "2026-09-13T16:07:22.158093+00:00",
+      "sha256": "4746fd658ba62ded9ae40e6613ef6117cedaec7878780e33dee1c73e6bbf4926",
+      "bytes": 8255
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.6.html",
+      "rule": "5.3.6",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.6.htm",
+      "accessed_utc": "2026-09-13T16:07:23.170049+00:00",
+      "sha256": "364a8ad45f63680314024448262b92a88703eef2cb342fcaa7a5b1b518d29b77",
+      "bytes": 7249
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.7.html",
+      "rule": "5.3.7",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.7.htm",
+      "accessed_utc": "2026-09-13T16:07:24.133772+00:00",
+      "sha256": "dbece29835f358f8393b4865521ce4b955e570c87ca78b09de2bbe11cdde9977",
+      "bytes": 6233
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.9.html",
+      "rule": "5.3.9",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.9.htm",
+      "accessed_utc": "2026-09-13T16:07:25.073420+00:00",
+      "sha256": "4d0c48092a0ccfbdef9b15e9fb03018d369d2354823d3b069063381a6df82ea9",
+      "bytes": 2994
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.10.html",
+      "rule": "5.3.10",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.10.htm",
+      "accessed_utc": "2026-09-13T16:07:26.055684+00:00",
+      "sha256": "3de120d9ab1281e9cb7847f0e014c429de8decab038c80b7c626c81dfd20275b",
+      "bytes": 2735
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.11.html",
+      "rule": "5.3.11",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.11.htm",
+      "accessed_utc": "2026-09-13T16:07:26.890278+00:00",
+      "sha256": "dd8b18675ac021ed821d21f04a272a612009ce25ebcbbfc70ed7984f533c068b",
+      "bytes": 1688
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.12.html",
+      "rule": "5.3.12",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.12.htm",
+      "accessed_utc": "2026-09-13T16:07:27.741225+00:00",
+      "sha256": "643d253292df9eac0bbb53ef6972394ddd695b2820cbbbdd428f8649d0479602",
+      "bytes": 4071
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.13.html",
+      "rule": "5.3.13",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.13.htm",
+      "accessed_utc": "2026-09-13T16:07:28.677345+00:00",
+      "sha256": "ff1e928c8a3470a59e81a18bd8502d85d82282f2a02d53a44a18355212dd0d7f",
+      "bytes": 3189
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.15.html",
+      "rule": "5.3.15",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.15.htm",
+      "accessed_utc": "2026-09-13T16:07:29.580296+00:00",
+      "sha256": "9ac94f18c7234fe964389576d39304d239cd99ac05885d308f3c5613f1fc65cc",
+      "bytes": 3963
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.16.html",
+      "rule": "5.3.16",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.16.htm",
+      "accessed_utc": "2026-09-13T16:07:30.454754+00:00",
+      "sha256": "6981147e489599282bd962b05e914899608a21daf3f241e63483b9939ce44a76",
+      "bytes": 3882
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.18.html",
+      "rule": "5.3.18",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.18.htm",
+      "accessed_utc": "2026-09-13T16:07:31.452199+00:00",
+      "sha256": "7e6b4bf5cd79503614e87940a9d11e75187808f2edc113115b47f155c40c1647",
+      "bytes": 2071
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.19.html",
+      "rule": "5.3.19",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.19.htm",
+      "accessed_utc": "2026-09-13T16:07:32.349383+00:00",
+      "sha256": "396f4facf9c26f7b5e3f75cb2aee8aed8f222d771b8a99428f11bfb3d6a7efd0",
+      "bytes": 2395
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.23.html",
+      "rule": "5.3.23",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.23.htm",
+      "accessed_utc": "2026-09-13T16:07:33.267226+00:00",
+      "sha256": "f4d70f45073e8c758692c5f0e19c1a24dc0bbb06a746e0edffb828c0dd80a6a1",
+      "bytes": 6662
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.24.html",
+      "rule": "5.3.24",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.24.htm",
+      "accessed_utc": "2026-09-13T16:07:34.246920+00:00",
+      "sha256": "37ae17d7b0a0dfe3df90543b5dfb34d48d30ecdb7639095913de747d5497013e",
+      "bytes": 2778
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.25.html",
+      "rule": "5.3.25",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.25.htm",
+      "accessed_utc": "2026-09-13T16:07:35.100817+00:00",
+      "sha256": "deced76470033ba6477bf8c8fb1e2ad48335cc5b54e8ae6f485661204a3e859a",
+      "bytes": 3451
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.42.html",
+      "rule": "5.3.42",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.42.htm",
+      "accessed_utc": "2026-09-13T16:07:36.040327+00:00",
+      "sha256": "ca9403f8c5d0e451d18b33e80fe16f5a3604d6f3dd77bf79fa557cb13ec1fc30",
+      "bytes": 7132
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.44.html",
+      "rule": "5.3.44",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.44.htm",
+      "accessed_utc": "2026-09-13T16:07:36.928044+00:00",
+      "sha256": "9d2d9bcc6be0ebf7f9ae67fc6a9075e66099e7056118fbdb84490939f1a6283e",
+      "bytes": 5636
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.45.html",
+      "rule": "5.3.45",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.45.htm",
+      "accessed_utc": "2026-09-13T16:07:37.874065+00:00",
+      "sha256": "a79f520b8652be781b202399e386344175fd1866beabdb4be12def896bf4e3a1",
+      "bytes": 3734
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.47.html",
+      "rule": "5.3.47",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.47.htm",
+      "accessed_utc": "2026-09-13T16:07:38.847323+00:00",
+      "sha256": "4ad57ee390bed96d878fb2c2dd41684ac50fcd86644d465c4c822f8df3d4e6e0",
+      "bytes": 5429
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.52.html",
+      "rule": "5.3.52",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.52.htm",
+      "accessed_utc": "2026-09-13T16:07:39.836095+00:00",
+      "sha256": "f9b1845ba41f5d602971f287c577a5b6ffe062c43d26bc41505285c2376592aa",
+      "bytes": 6493
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.53.html",
+      "rule": "5.3.53",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.53.htm",
+      "accessed_utc": "2026-09-13T16:07:40.740926+00:00",
+      "sha256": "460f9d1264ad3c5540f54f01b0b6dec75ac39a850f393f81787619dcef89bfa4",
+      "bytes": 4394
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.54.html",
+      "rule": "5.3.54",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.54.htm",
+      "accessed_utc": "2026-09-13T16:07:41.675811+00:00",
+      "sha256": "549e85970bc77786e557f5dc8e998f3271b3b92d20a2f2affce9fdf54fdc76b1",
+      "bytes": 5713
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.55.html",
+      "rule": "5.3.55",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.55.htm",
+      "accessed_utc": "2026-09-13T16:07:42.850735+00:00",
+      "sha256": "7e525c8dd71ba1a6e0d232b5c17cefdc83fe278460414459d62f081c5c3839fb",
+      "bytes": 14936
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.57.html",
+      "rule": "5.3.57",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.57.htm",
+      "accessed_utc": "2026-09-13T16:07:44.018058+00:00",
+      "sha256": "75d261b77bd297dfbd8403929ecc6aae1bdb8dc11a0f4d01799b1c0f44556732",
+      "bytes": 17970
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.58.html",
+      "rule": "5.3.58",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.58.htm",
+      "accessed_utc": "2026-09-14T04:10:13.162093+00:00",
+      "sha256": "c25b59284d83cd0944dc8e868fe4a0ffb5422496c730bca4f65024b427060d97",
+      "bytes": 5195
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.60.html",
+      "rule": "5.3.60",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.60.htm",
+      "accessed_utc": "2026-09-13T16:07:45.075869+00:00",
+      "sha256": "1be018164ceda7f22e2093a2019136b1cf2e75ae738b202acede2c9886d12a25",
+      "bytes": 5666
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.62.html",
+      "rule": "5.3.62",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.62.htm",
+      "accessed_utc": "2026-09-13T16:07:45.953589+00:00",
+      "sha256": "456913af526ee3a8a5528953d40f6c390ac527dcf15499b9372e90627acc7eea",
+      "bytes": 5914
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.63.html",
+      "rule": "5.3.63",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.63.htm",
+      "accessed_utc": "2026-09-13T16:07:47.014468+00:00",
+      "sha256": "7a096e5258090c4995eab0c5439cc1edff34ed937564b29f50f49a08a044d9a6",
+      "bytes": 5352
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.64.html",
+      "rule": "5.3.64",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.64.htm",
+      "accessed_utc": "2026-09-13T16:07:48.112442+00:00",
+      "sha256": "d5e44facb530a77b6ecb7ceae6d4935c5fd46465b043be050e02b9e08931678c",
+      "bytes": 6739
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.66.html",
+      "rule": "5.3.66",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.66.htm",
+      "accessed_utc": "2026-09-13T16:07:49.241884+00:00",
+      "sha256": "506951db3634ac998be19d5c53d1799b693ab8af2b7cfe748b7fadc5e676cd09",
+      "bytes": 12636
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.67.html",
+      "rule": "5.3.67",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.67.htm",
+      "accessed_utc": "2026-09-13T16:07:50.469876+00:00",
+      "sha256": "2f15ea1c149912fb29461943356223fe8c0127da921e1baa192c6307c0755881",
+      "bytes": 2562
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.68.html",
+      "rule": "5.3.68",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.68.htm",
+      "accessed_utc": "2026-09-13T16:07:51.984951+00:00",
+      "sha256": "21ed84556404b6c29c389e52dad065d807d3e0b6d2dea58d860b87846e93df6f",
+      "bytes": 24089
+    },
+    {
+      "filename": "plain-taddhita-rule-5.3.69.html",
+      "rule": "5.3.69",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.3.69.htm",
+      "accessed_utc": "2026-09-13T16:07:53.091592+00:00",
+      "sha256": "8dfd2a0091f576a7cc16d11fe473fcef0abcd7ca54ac9bdf0f004ed8a781dca0",
+      "bytes": 4229
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.3.html",
+      "rule": "5.4.3",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.3.htm",
+      "accessed_utc": "2026-09-13T16:07:54.381220+00:00",
+      "sha256": "5619834e9f1cc21d554124b04ebc447685aed18539890789ec7f3f332a4cd503",
+      "bytes": 10078
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.17.html",
+      "rule": "5.4.17",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.17.htm",
+      "accessed_utc": "2026-09-13T16:07:55.895884+00:00",
+      "sha256": "1ec3855a0b944950a2042fc16a126a6e6220e0932d24bd708b99b45f475308a2",
+      "bytes": 15339
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.18.html",
+      "rule": "5.4.18",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.18.htm",
+      "accessed_utc": "2026-09-13T16:07:57.070886+00:00",
+      "sha256": "50206d33a8d5cc4a897395e05da92a1adb006bb909ce8a7b810109cf6e5c27b4",
+      "bytes": 3587
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.19.html",
+      "rule": "5.4.19",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.19.htm",
+      "accessed_utc": "2026-09-13T16:07:58.361054+00:00",
+      "sha256": "8b5217b783b7112f3064c2207fe6d18c4b6296709c615212a81a1fa86f3f71b4",
+      "bytes": 7287
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.21.html",
+      "rule": "5.4.21",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.21.htm",
+      "accessed_utc": "2026-09-13T16:07:59.787730+00:00",
+      "sha256": "4083e915a86bd9d63d6942dce694c236bf8c55d581a32f66f4fe206548c4d1c3",
+      "bytes": 4455
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.23.html",
+      "rule": "5.4.23",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.23.htm",
+      "accessed_utc": "2026-09-13T16:08:01.054605+00:00",
+      "sha256": "f26b8e3d44365e65da88aeaa8d10a218c82199669d0ff2d7e7cb10be47d89c4d",
+      "bytes": 4234
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.26.html",
+      "rule": "5.4.26",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.26.htm",
+      "accessed_utc": "2026-09-13T16:08:02.449042+00:00",
+      "sha256": "c9bb40268411ac84daa02bc934badc9f104dca3a944965a74f80b37a8d595dcf",
+      "bytes": 1786
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.27.html",
+      "rule": "5.4.27",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.27.htm",
+      "accessed_utc": "2026-09-13T16:08:03.985796+00:00",
+      "sha256": "90948bdd5a537788a1aea22d6d533668efa172ff8be153631591727b879daa3b",
+      "bytes": 1469
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.28.html",
+      "rule": "5.4.28",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.28.htm",
+      "accessed_utc": "2026-09-13T16:08:05.354987+00:00",
+      "sha256": "4a24585747e6546ecb0eb8261d65d00b951e09fa0d96259432752eeaf26c5560",
+      "bytes": 1434
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.29.html",
+      "rule": "5.4.29",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.29.htm",
+      "accessed_utc": "2026-09-13T16:08:06.629441+00:00",
+      "sha256": "781201bed8239f12cbe6017e60f1a9af9213eb3005887d1f1fb8c24e17de8b66",
+      "bytes": 4811
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.30.html",
+      "rule": "5.4.30",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.30.htm",
+      "accessed_utc": "2026-09-13T16:08:08.184343+00:00",
+      "sha256": "b233cd07fab57badfa80502060f5ff75fda39d5251ba093b1652c62ee1b08c17",
+      "bytes": 1850
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.33.html",
+      "rule": "5.4.33",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.33.htm",
+      "accessed_utc": "2026-09-13T16:08:09.467133+00:00",
+      "sha256": "2d1764c0aa3dd368aec4b2a900282356d8fdb3da887200905964fc29e30bea5c",
+      "bytes": 2287
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.34.html",
+      "rule": "5.4.34",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.34.htm",
+      "accessed_utc": "2026-09-13T16:08:10.640676+00:00",
+      "sha256": "5b3855954ec35f97efec19d2bb3ed7ca208c09a5d5c9e6c8bc553997cf2b8a8d",
+      "bytes": 3727
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.35.html",
+      "rule": "5.4.35",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.35.htm",
+      "accessed_utc": "2026-09-13T16:08:11.873750+00:00",
+      "sha256": "a9043114d4ed9623ccd49ff7c5905404fdea1acefe11bedae72c28d2d45903be",
+      "bytes": 2738
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.39.html",
+      "rule": "5.4.39",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.39.htm",
+      "accessed_utc": "2026-09-13T16:08:13.275769+00:00",
+      "sha256": "047b02614875a8015d5b5815bd6a17490d6b57e8e501abe9c795f32bf19751b6",
+      "bytes": 3392
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.43.html",
+      "rule": "5.4.43",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.43.htm",
+      "accessed_utc": "2026-09-13T16:08:14.828538+00:00",
+      "sha256": "1781b33b603255c77b7e1152e657922ee611982924491b32fc51a23ac4c5e1e4",
+      "bytes": 19398
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.44.html",
+      "rule": "5.4.44",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.44.htm",
+      "accessed_utc": "2026-09-13T16:08:16.073617+00:00",
+      "sha256": "ec02f01ba73eea7433e2a63dc5989ce15f4ac2a33424162d4cbd21feedf3d0ec",
+      "bytes": 3431
+    },
+    {
+      "filename": "plain-taddhita-rule-5.4.54.html",
+      "rule": "5.4.54",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.4.54.htm",
+      "accessed_utc": "2026-09-13T16:08:17.220170+00:00",
+      "sha256": "498a2ecfb0194bb78bc45ab73a28a8eb71e917e961b981ee59119253e540701e",
+      "bytes": 5886
+    }
+  ]
+}

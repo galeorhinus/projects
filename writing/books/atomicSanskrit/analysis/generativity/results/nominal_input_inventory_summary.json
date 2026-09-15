@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-13",
+  "scope": "Laukika nominal word-meanings already produced by the completed krdanta ledgers, plus the five declared taddhita-pilot nominals. This is not a census of all inherited Sanskrit nominals.",
+  "admitted_nominal_word_meanings": 794078,
+  "distinct_input_spellings": 420659,
+  "admitted_by_layer": {
+    "direct_krdanta": 29875,
+    "conditioned_krdanta": 25593,
+    "prefixed_krdanta": 596186,
+    "sanadi_krdanta": 142419,
+    "declared_pilot_nominal": 5
+  },
+  "known_vedic_restricted_rows_excluded_by_layer": {
+    "direct_krdanta": 121,
+    "conditioned_krdanta": 110,
+    "prefixed_krdanta": 2420,
+    "sanadi_krdanta": 463
+  },
+  "known_vedic_restricted_rows_excluded": 3114,
+  "independently_inherited_nominals_in_scope": 5,
+  "inputs": {
+    "analysis/generativity/vaidika_base_restrictions.json": "2d0a78e802dd173b2e90e657a4800a781e189e1fe2d1e264f2e54efc5c1c32c5",
+    "analysis/generativity/nominal_taddhita_pilot.json": "fd6cb90e4f61864ee8b19a6bf1465610e8d70e59377312d49b82d69ce76b4f4e",
+    "analysis/generativity/results/krdanta_ledger.csv": "3f3692a4722eb61034fa09786e4de077d2ae0353d929f2d3b6eff06c064b4eac",
+    "analysis/generativity/results/conditioned_krdanta_ledger.csv": "b3f67e0253511df6c4ed3bc069435c69150ef9a2a37756c432c6cc9d18e92a93",
+    "analysis/generativity/results/prefixed_krdanta_ledger.csv.gz": "c650f4745caa9c71c7ee1cd661242de7554682fbe305c886632c2dfdcff810bf",
+    "analysis/generativity/results/sanadi_krdanta_ledger.csv.gz": "156dd43a146430362cdeb93a819e7b71f2f862ca7e9a38787735f92eeef7b2ca",
+    "analysis/generativity/build_nominal_input_inventory.py": "d51fdbb3232143f7a50437ff1741471e5d91f6a324c7663b1d13261d5f852de7"
+  }
+}

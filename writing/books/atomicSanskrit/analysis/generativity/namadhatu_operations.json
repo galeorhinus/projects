@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-13",
+  "scope": "First broad namadhatu expansion over the declared laukika nominal inventory, followed by a source-demonstrated pass for the narrower rules in 3.1.12-3.1.21.",
+  "broad_operations": [
+    {
+      "operation_id": "self_desire_kyac",
+      "constructor": "kyac",
+      "operation_display": "क्यच् (kyac), desire one's own referent",
+      "semantic_branch_id": "atma_iccha_kyac",
+      "semantic_relation": "desire the nominal referent in relation to oneself",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": ["3.1.8"]
+    },
+    {
+      "operation_id": "self_desire_kamyac",
+      "constructor": "kAmyac",
+      "operation_display": "काम्यच् (kāmyac), desire one's own referent",
+      "semantic_branch_id": "atma_iccha_kamyac",
+      "semantic_relation": "desire the nominal referent in relation to oneself",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": ["3.1.9"]
+    },
+    {
+      "operation_id": "object_comparison_kyac",
+      "constructor": "kyac",
+      "operation_display": "क्यच् (kyac), conduct toward an object by comparison",
+      "semantic_branch_id": "upamana_karma_acara",
+      "semantic_relation": "treat an object as comparable to the nominal referent",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": ["3.1.10"]
+    },
+    {
+      "operation_id": "agent_comparison_kyang",
+      "constructor": "kyaN",
+      "operation_display": "क्यङ् (kyaṅ), conduct of an agent by comparison",
+      "semantic_branch_id": "upamana_kartr_acara",
+      "semantic_relation": "act like the nominal referent",
+      "eligibility_scope": "all_declared_laukika_nominal_word_meanings",
+      "rule_refs": ["3.1.11"]
+    }
+  ],
+  "conditioned_rule_relations": {
+    "3.1.12": "become or present as the quality denoted by the nominal referent",
+    "3.1.13": "become or present as the state denoted by the nominal referent",
+    "3.1.14": "undertake crooked or wrongful conduct associated with the nominal referent",
+    "3.1.15:romanTa": "ruminate",
+    "3.1.15:tapas": "practice tapas",
+    "3.1.16": "emit the substance denoted by the nominal referent",
+    "3.1.17": "produce or perform the nominal referent",
+    "3.1.18": "experience the state denoted by the nominal referent directly",
+    "3.1.19:namas": "offer honor or worship",
+    "3.1.19:varivas": "serve or attend upon",
+    "3.1.19:citra": "experience or produce wonder",
+    "3.1.20:ud:pucCa": "raise the tail",
+    "3.1.20:pari:pucCa": "move the tail around",
+    "3.1.20:sam:BARqa": "heap or gather vessels",
+    "3.1.20:sam:cIvara": "acquire a robe",
+    "3.1.21": "perform the source-specified action associated with the nominal referent"
+  },
+  "additional_conditioned_relations": [
+    {
+      "rule_ref": "3.1.20",
+      "input_form_slp1": "cIvara",
+      "prefixes_slp1": ["sam"],
+      "semantic_relation": "put on or wear a robe",
+      "source_basis": "Kāśikā on 3.1.20 expressly gives both acquisition and wearing"
+    }
+  ]
+}

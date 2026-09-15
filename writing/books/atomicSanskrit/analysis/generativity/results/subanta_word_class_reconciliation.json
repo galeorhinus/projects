@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 1,
+  "combined_lexical_word_meanings": 12846458,
+  "vaidika_word_meanings": 213398,
+  "laukika_word_meanings": 12633060,
+  "laukika_action_meanings": 4540848,
+  "laukika_name_meanings": 8084287,
+  "laukika_unchanging_meanings": 7925,
+  "nominal_counts_by_source_layer": {
+    "initial_laukika_derived_nominals": 794073,
+    "bounded_taddhita_pilot_outputs": 7,
+    "additional_broad_taddhita": 2382230,
+    "conditioned_taddhita": 975,
+    "source_demonstrated_feminines": 50,
+    "negative_counterparts": 3177340,
+    "conditioned_suffix_relations": 24,
+    "plain_taddhita_nominals": 197,
+    "comparatives_and_superlatives": 1588155,
+    "lexical_feminine_agents": 140566,
+    "source_compound_nominals": 96,
+    "post_compound_nominals": 574
+  },
+  "unchanging_counts_by_source_layer": {
+    "initial_laukika_avyayas": 7869,
+    "plain_taddhita_avyayas": 39,
+    "source_compound_avyayibhavas": 17
+  },
+  "previous_compound_member_view": 8083621,
+  "difference_from_previous_compound_member_view": 666,
+  "former_unresolved_reader_graph_residual": 8591,
+  "unresolved_reader_graph_residual_after_reconciliation": 0,
+  "inputs": {
+    "analysis/generativity/results/nominal_input_inventory_summary.json": "b90e32648e57a2406eaa60974412b4e91e83157e58aaa1c77dc9bd2ea17be6fc",
+    "analysis/generativity/results/taddhita_pilot_summary.json": "3b70fbe328265f369ecb0679a79a7ae8a41139ecc8fc355e12d711e5c375e48a",
+    "analysis/generativity/results/taddhita_reconciliation.json": "c3d66aed9b5193dfbfc40cf070fd5010bcff7f08ecc80510e6a7f4d82463d88c",
+    "analysis/generativity/results/conditioned_taddhita_reconciliation.json": "f55ecc9f1aac275589ec2d575008c8c8149c83d9f2e715c187a35c9b1593afea",
+    "analysis/generativity/results/stri_reconciliation.json": "dc15f2fb3f920b4b4b84e48ea778342eb9c6c71a605c64ab9cd9a2f61641358c",
+    "analysis/generativity/results/nan_reconciliation.json": "ff80a259d2f730868f7eb3c210201917e845e635d45297e886bf57b0ea3246cb",
+    "analysis/generativity/results/suffix_conditioned_reconciliation.json": "ada60f2f57a934ece65087270a523f22bdd50c5201d5b3ef8e5504c1dc7720f9",
+    "analysis/generativity/results/plain_taddhita_reconciliation.json": "4e981cee32f109b59d2a14072190cca0bdfbda875daace9a684b79ab2dbe05b0",
+    "analysis/generativity/results/taddhita_generalization_reconciliation.json": "bcbb9fd8bc427710e83b2fc30e48b3075ed12152a6ef368d8e7111ccf2ec4510",
+    "analysis/generativity/results/stri_generalization_reconciliation.json": "b60fb14e4f6fdacb1b87b38729cc3f75962921b437c104cab7bf3482cedd1c5f",
+    "analysis/generativity/results/compound_stack_classification.json": "c8a644b4607f456f7221130a3044face6594ca6a4c5964189bb185ea70e37fee",
+    "analysis/generativity/results/compound_stack_reconciliation.json": "02504671178ad12c21928a6c81d560e8cd6434a299367dac057ede3f49fb4bc8",
+    "analysis/generativity/results/domain_boundary_audit.json": "9a24dfe913a98c376608f7f53b833bb762589001daaaaa1f63b346e6c06ca508",
+    "analysis/generativity/results/vaidika_laukika_reconciliation.json": "ea0241dd5e8838426581dbbd32c4e5df10e1ac522495c236c74a69f7cd1d0df9",
+    "analysis/generativity/results/tinanta_verbal_inventory.json": "0a80aa8a4abdbe7c62445db4773972c81d5a7fc96bae832e717fe23a68600b52"
+  },
+  "publication_status": "research_partition_not_deployed"
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 6,
+  "compoundable_nominal_word_meanings": 8083621,
+  "broad_relation_families_counted": 4,
+  "source_conditioned_families_deferred": 10,
+  "symbolic_depth_one_compound_slots": 196034769247681,
+  "locally_regenerated_source_fixture_relations": 113,
+  "locally_regenerated_capacity_sample_relations": 16,
+  "materialized_lexical_word_meaning_subtotal": 12846458,
+  "symbolic_slots_added_to_lexical_subtotal": false,
+  "remaining_samasa_capacity_passes": 6,
+  "inputs": {
+    "analysis/generativity/results/samasa_capacity_rule_classification.json": "f2167fd88996258cd57b7328853f68017f14bacb917e7c1d84bb228844bef866",
+    "analysis/generativity/results/samasa_capacity_member_inventory.json": "bf9c188bb800ff2bd526be4bd29a710998edd70bc88995e1d6f793201ddaf5fc",
+    "analysis/generativity/results/samasa_capacity_eligibility.json": "3dd3c4a9c1787e96e5517e1d0f35ad55c1639b61aad7779de5d9aa5544377b7b",
+    "analysis/generativity/results/samasa_capacity_counts.json": "0aef1a2df6ce64f4d53c300290f73af0ba93972ab15528dd8e5ab1a6c21d06de",
+    "analysis/generativity/results/samasa_capacity_sample.json": "3c02b9557a7f4fe4c98caf42951b86e1aab1a7f88bf6034587e901c4dd8e1c51"
+  },
+  "publication_status": "research_capacity_only_not_deployed"
+}

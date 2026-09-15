@@ -1,0 +1,6421 @@
+{
+  "engine_version": "0.4.0",
+  "generator_source_commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32",
+  "inputs": {
+    "analysis/dhatupatha/data/dhatupatha.csv": "e491d6cd8c68e3fe455f57098ba6d6ad2762cf0882a74dd585aa45e636eb9d86",
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "working/40_reference/sources/archive/documents/generativity-pilot/sutrapatha.tsv": "f2ff798707e8b8ea20dd5cf20a7bbcc4b849f0ab4d726a0a4af890ef87b7e87c",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/pilot_cases.json": "3489cd46e0347ae8ca41bb72a0715114265f450db386602d363431f251cbcf12",
+    "analysis/generativity/operations.csv": "2e137f628ad7593f27af2be629d16f4d09470ba509607f04a8fa08f9ecfc3832",
+    "analysis/generativity/run_pilot.py": "3f82d96451e02338afde2e897c80e78052e1bb55d3b07aa48cd3658976e19d1a"
+  },
+  "engine_signature_taddhita": "(pratipadika, taddhita)",
+  "engine_signature_krt": "(dhatu, krt)",
+  "engine_data_entries": 2229,
+  "local_entries": 2168,
+  "crosswalk_statuses": {
+    "same_code_and_citation": 1773,
+    "no_exact_same_gana_citation": 350,
+    "unique_same_gana_citation_candidate": 41,
+    "ambiguous_same_gana_citation": 4
+  },
+  "shared_target_rows": 50,
+  "pilot_cases": 28,
+  "matches": 28,
+  "cases": [
+    {
+      "id": "gam-base",
+      "operation": "identity",
+      "stage": "verbal_base",
+      "dhatu": "01.1137",
+      "expected": [
+        "gam"
+      ],
+      "meaning": "go",
+      "rules": [
+        "1.3.1"
+      ],
+      "actual": [
+        "gam"
+      ],
+      "actual_devanagari": [
+        "गम्"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "gam",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "ga\\mx~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "ga\\mx~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "gam"
+              ]
+            },
+            {
+              "source": "DAtupAWaH",
+              "rule": "01.0934",
+              "terms": [
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "gam"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "01.1137",
+        "aupadeshika": "ga\\mx~",
+        "gana": "BvAdi",
+        "artha_slp1": "gatO"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.3.1.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "1.3.1": "BUvAdayo DAtavaH"
+      }
+    },
+    {
+      "id": "kr-base",
+      "operation": "identity",
+      "stage": "verbal_base",
+      "dhatu": "08.0010",
+      "expected": [
+        "kf"
+      ],
+      "meaning": "do",
+      "rules": [
+        "1.3.1"
+      ],
+      "actual": [
+        "kf"
+      ],
+      "actual_devanagari": [
+        "कृ"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "kf",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "08.0010",
+        "aupadeshika": "qukf\\Y",
+        "gana": "tanAdi",
+        "artha_slp1": "karaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.3.1.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "1.3.1": "BUvAdayo DAtavaH"
+      }
+    },
+    {
+      "id": "a-gam-base",
+      "operation": "prefix",
+      "stage": "verbal_base",
+      "dhatu": "01.1137",
+      "prefixes": [
+        "AN"
+      ],
+      "expected": [
+        "Agam"
+      ],
+      "meaning": "come",
+      "rules": [
+        "1.4.59"
+      ],
+      "actual": [
+        "Agam"
+      ],
+      "actual_devanagari": [
+        "आगम्"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "Agam",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "ga\\mx~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "ga\\mx~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.58",
+              "terms": [
+                "AN",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.59",
+              "terms": [
+                "AN",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.60",
+              "terms": [
+                "AN",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.80",
+              "terms": [
+                "AN",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "AN",
+                "",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "A",
+                "",
+                "gam"
+              ]
+            },
+            {
+              "source": "DAtupAWaH",
+              "rule": "01.0934",
+              "terms": [
+                "A",
+                "",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.45",
+              "terms": [
+                "A",
+                "",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.73",
+              "terms": [
+                "A",
+                "",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.43",
+              "terms": [
+                "A",
+                "",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.37",
+              "terms": [
+                "A",
+                "",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "A",
+                "",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "A",
+                "",
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "A",
+                "",
+                "gam"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "01.1137",
+        "aupadeshika": "ga\\mx~",
+        "gana": "BvAdi",
+        "artha_slp1": "gatO"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.59.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "1.4.59": "upasargAH kriyAyoge"
+      }
+    },
+    {
+      "id": "kr-causative-base",
+      "operation": "causative",
+      "stage": "verbal_base",
+      "dhatu": "08.0010",
+      "sanadi": "Ric",
+      "expected": [
+        "kAri"
+      ],
+      "meaning": "cause to do",
+      "rules": [
+        "3.1.26"
+      ],
+      "actual": [
+        "kAri"
+      ],
+      "actual_devanagari": [
+        "कारि"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "kAri",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.26",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.7",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.74",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.115",
+              "terms": [
+                "kAr",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kAr",
+                "i"
+              ]
+            }
+          ]
+        },
+        {
+          "text": "kAri",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.26",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.7",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.115",
+              "terms": [
+                "kAr",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kAr",
+                "i"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "08.0010",
+        "aupadeshika": "qukf\\Y",
+        "gana": "tanAdi",
+        "artha_slp1": "karaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.26.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.1.26": "hetumati ca"
+      }
+    },
+    {
+      "id": "kr-desiderative-base",
+      "operation": "desiderative",
+      "stage": "verbal_base",
+      "dhatu": "08.0010",
+      "sanadi": "san",
+      "expected": [
+        "cikIrza"
+      ],
+      "meaning": "want to do; returned base retains the suffix vowel",
+      "rules": [
+        "3.1.7"
+      ],
+      "actual": [
+        "cikIrza"
+      ],
+      "actual_devanagari": [
+        "चिकीर्ष"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "cikIrza",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.7",
+              "terms": [
+                "kf",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "kf",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.72",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.12",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.9",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.4.16",
+              "terms": [
+                "kF",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.5",
+              "terms": [
+                "kF",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.1.100",
+              "terms": [
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.9",
+              "terms": [
+                "kir",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.4",
+              "terms": [
+                "kir",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.5",
+              "terms": [
+                "kir",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.60",
+              "terms": [
+                "ki",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.62",
+              "terms": [
+                "ci",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.10",
+              "terms": [
+                "ci",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "ci",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.5",
+              "terms": [
+                "ci",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.2.77",
+              "terms": [
+                "ci",
+                "kIr",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.3.59",
+              "terms": [
+                "ci",
+                "kIr",
+                "za"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "ci",
+                "kIr",
+                "za"
+              ]
+            }
+          ]
+        },
+        {
+          "text": "cikIrza",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.7",
+              "terms": [
+                "kf",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "kf",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.12",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.9",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.4.16",
+              "terms": [
+                "kF",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.5",
+              "terms": [
+                "kF",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.1.100",
+              "terms": [
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.9",
+              "terms": [
+                "kir",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.4",
+              "terms": [
+                "kir",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.5",
+              "terms": [
+                "kir",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.60",
+              "terms": [
+                "ki",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.62",
+              "terms": [
+                "ci",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.10",
+              "terms": [
+                "ci",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "ci",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.5",
+              "terms": [
+                "ci",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.2.77",
+              "terms": [
+                "ci",
+                "kIr",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.3.59",
+              "terms": [
+                "ci",
+                "kIr",
+                "za"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "ci",
+                "kIr",
+                "za"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "08.0010",
+        "aupadeshika": "qukf\\Y",
+        "gana": "tanAdi",
+        "artha_slp1": "karaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.7.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.1.7": "DAtoH karmaRaH samAnakartfkAdicCAyAM vA"
+      }
+    },
+    {
+      "id": "pac-intensive-base",
+      "operation": "intensive",
+      "stage": "verbal_base",
+      "dhatu": "01.1151",
+      "sanadi": "yaN",
+      "expected": [
+        "pApacya"
+      ],
+      "meaning": "cook repeatedly or intensely",
+      "rules": [
+        "3.1.22"
+      ],
+      "actual": [
+        "pApacya"
+      ],
+      "actual_devanagari": [
+        "पापच्य"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "pApacya",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pac"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.22",
+              "terms": [
+                "pac",
+                "yaN"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "pac",
+                "yaN"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pac",
+                "yaN"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pac",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "pac",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.12",
+              "terms": [
+                "pac",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "pac",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.9",
+              "terms": [
+                "pac",
+                "pac",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.4",
+              "terms": [
+                "pac",
+                "pac",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.5",
+              "terms": [
+                "pac",
+                "pac",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.60",
+              "terms": [
+                "pa",
+                "pac",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.83",
+              "terms": [
+                "pA",
+                "pac",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "pA",
+                "pac",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "pA",
+                "pac",
+                "ya"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "01.1151",
+        "aupadeshika": "qupa\\ca~^z",
+        "gana": "BvAdi",
+        "artha_slp1": "pAke"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.22.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.1.22": "DAtorekAco halAdeH kriyAsamaBihAre yaN"
+      }
+    },
+    {
+      "id": "putra-kyac-base",
+      "operation": "denominative_kyac",
+      "stage": "verbal_base",
+      "nominal": "putra",
+      "nama_sanadi": "kyac",
+      "expected": [
+        "putrIya"
+      ],
+      "meaning": "desire a son for oneself",
+      "rules": [
+        "3.1.8"
+      ],
+      "actual": [
+        "putrIya"
+      ],
+      "actual_devanagari": [
+        "पुत्रीय"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "putrIya",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.8",
+              "terms": [
+                "putra",
+                "",
+                "kyac"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "putra",
+                "",
+                "kyac"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "putra",
+                "",
+                "kyac"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "putra",
+                "",
+                "kyac"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "putra",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.45",
+              "terms": [
+                "putra",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.43",
+              "terms": [
+                "putra",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.43",
+              "terms": [
+                "putra",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "putra",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.33",
+              "terms": [
+                "putrI",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.15",
+              "terms": [
+                "putrI",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.43",
+              "terms": [
+                "putrI",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "putrI",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.25",
+              "terms": [
+                "putrI",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.15",
+              "terms": [
+                "putrI",
+                "",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "putrI",
+                "",
+                "ya"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": null,
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.8.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.1.8": "supa AtmanaH kyac"
+      }
+    },
+    {
+      "id": "putra-kamyac-base",
+      "operation": "denominative_kamyac",
+      "stage": "verbal_base",
+      "nominal": "putra",
+      "nama_sanadi": "kAmyac",
+      "expected": [
+        "putrakAmya"
+      ],
+      "meaning": "desire a son",
+      "rules": [
+        "3.1.9"
+      ],
+      "actual": [
+        "putrakAmya"
+      ],
+      "actual_devanagari": [
+        "पुत्रकाम्य"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "putrakAmya",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.9",
+              "terms": [
+                "putra",
+                "",
+                "kAmyac"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "putra",
+                "",
+                "kAmyac"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "putra",
+                "",
+                "kAmyac"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "putra",
+                "",
+                "kAmya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.45",
+              "terms": [
+                "putra",
+                "",
+                "kAmya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.43",
+              "terms": [
+                "putra",
+                "",
+                "kAmya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.43",
+              "terms": [
+                "putra",
+                "",
+                "kAmya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "putra",
+                "",
+                "kAmya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "putra",
+                "",
+                "kAmya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.43",
+              "terms": [
+                "putra",
+                "",
+                "kAmya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "putra",
+                "",
+                "kAmya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "putra",
+                "",
+                "kAmya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "putra",
+                "",
+                "kAmya"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": null,
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.9.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.1.9": "kAmyacca"
+      }
+    },
+    {
+      "id": "pac-agent",
+      "operation": "agent_nvul",
+      "stage": "nominal_base",
+      "dhatu": "01.1151",
+      "krt": "Rvul",
+      "expected": [
+        "pAcaka"
+      ],
+      "meaning": "one who cooks",
+      "rules": [
+        "3.1.133"
+      ],
+      "actual": [
+        "pAcaka"
+      ],
+      "actual_devanagari": [
+        "पाचक"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "pAcaka",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pac"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.133",
+              "terms": [
+                "pac",
+                "Rvu~l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pac",
+                "Rvu~l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.7",
+              "terms": [
+                "pac",
+                "Rvu~l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pac",
+                "vu~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.46",
+              "terms": [
+                "pac",
+                "vu~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "pac",
+                "vu~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.1.1",
+              "terms": [
+                "pac",
+                "aka"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "pac",
+                "aka"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.116",
+              "terms": [
+                "pAc",
+                "aka"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "pAc",
+                "aka"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "01.1151",
+        "aupadeshika": "qupa\\ca~^z",
+        "gana": "BvAdi",
+        "artha_slp1": "pAke"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.133.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.1.133": "RvultfcO"
+      }
+    },
+    {
+      "id": "kr-agent",
+      "operation": "agent_trc",
+      "stage": "nominal_base",
+      "dhatu": "08.0010",
+      "krt": "tfc",
+      "expected": [
+        "kartf"
+      ],
+      "meaning": "one who does",
+      "rules": [
+        "3.1.133"
+      ],
+      "actual": [
+        "kartf"
+      ],
+      "actual_devanagari": [
+        "कर्तृ"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "kartf",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.133",
+              "terms": [
+                "kf",
+                "tfc"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "tfc"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "tf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.46",
+              "terms": [
+                "kf",
+                "tf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "tf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.10",
+              "terms": [
+                "kf",
+                "tf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "tf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.3.84",
+              "terms": [
+                "kar",
+                "tf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "kar",
+                "tf"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "08.0010",
+        "aupadeshika": "qukf\\Y",
+        "gana": "tanAdi",
+        "artha_slp1": "karaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.133.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.1.133": "RvultfcO"
+      }
+    },
+    {
+      "id": "gam-action",
+      "operation": "action_lyut",
+      "stage": "nominal_base",
+      "dhatu": "01.1137",
+      "krt": "lyuw",
+      "expected": [
+        "gamana"
+      ],
+      "meaning": "going",
+      "rules": [
+        "3.3.115"
+      ],
+      "actual": [
+        "gamana"
+      ],
+      "actual_devanagari": [
+        "गमन"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "gamana",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "ga\\mx~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "ga\\mx~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "gam"
+              ]
+            },
+            {
+              "source": "DAtupAWaH",
+              "rule": "01.0934",
+              "terms": [
+                "gam"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.3.115",
+              "terms": [
+                "gam",
+                "lyu~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "gam",
+                "lyu~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "gam",
+                "lyu~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "gam",
+                "yu~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.46",
+              "terms": [
+                "gam",
+                "yu~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "gam",
+                "yu~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.1.1",
+              "terms": [
+                "gam",
+                "ana"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "gam",
+                "ana"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "gam",
+                "ana"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "01.1137",
+        "aupadeshika": "ga\\mx~",
+        "gana": "BvAdi",
+        "artha_slp1": "gatO"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.115.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.3.115": "lyuw ca"
+      }
+    },
+    {
+      "id": "pac-action",
+      "operation": "action_ghanj",
+      "stage": "nominal_base",
+      "dhatu": "01.1151",
+      "krt": "GaY",
+      "expected": [
+        "pAka"
+      ],
+      "meaning": "cooking",
+      "rules": [
+        "3.3.18"
+      ],
+      "actual": [
+        "pAka"
+      ],
+      "actual_devanagari": [
+        "पाक"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "pAka",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qupa\\ca~^z"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pac"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.3.18",
+              "terms": [
+                "pac",
+                "GaY"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pac",
+                "GaY"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "pac",
+                "GaY"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pac",
+                "a"
+              ]
+            },
+            {
+              "source": "liNgAnuSAsanam",
+              "rule": "36",
+              "terms": [
+                "pac",
+                "a"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.46",
+              "terms": [
+                "pac",
+                "a"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "pac",
+                "a"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "pac",
+                "a"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.116",
+              "terms": [
+                "pAc",
+                "a"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.3.52",
+              "terms": [
+                "pAk",
+                "a"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "pAk",
+                "a"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "01.1151",
+        "aupadeshika": "qupa\\ca~^z",
+        "gana": "BvAdi",
+        "artha_slp1": "pAke"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.18.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.3.18": "BAve"
+      }
+    },
+    {
+      "id": "kunti-offspring",
+      "operation": "offspring_dhak",
+      "stage": "nominal_base",
+      "nominal": "kuntI",
+      "nyap": true,
+      "taddhita": "Qak",
+      "expected": [
+        "kOnteya"
+      ],
+      "meaning": "offspring of Kunti",
+      "rules": [
+        "4.1.92",
+        "4.1.120"
+      ],
+      "actual": [
+        "kOnteya"
+      ],
+      "actual_devanagari": [
+        "कौन्तेय"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "kOnteya",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.45",
+              "terms": [
+                "kuntI",
+                ""
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "4.1.120",
+              "terms": [
+                "kuntI",
+                "",
+                "Qak"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kuntI",
+                "",
+                "Qak"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kuntI",
+                "",
+                "Qa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.46",
+              "terms": [
+                "kuntI",
+                "",
+                "Qa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.1.2",
+              "terms": [
+                "kuntI",
+                "",
+                "eya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kuntI",
+                "",
+                "eya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.118",
+              "terms": [
+                "kOntI",
+                "",
+                "eya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.18",
+              "terms": [
+                "kOntI",
+                "",
+                "eya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.4.148",
+              "terms": [
+                "kOnt",
+                "",
+                "eya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.3.24",
+              "terms": [
+                "kOMt",
+                "",
+                "eya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.58",
+              "terms": [
+                "kOnt",
+                "",
+                "eya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "kOnt",
+                "",
+                "eya"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": null,
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.92.htm",
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.120.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "4.1.92": "tasyApatyam",
+        "4.1.120": "strIByo Qak"
+      }
+    },
+    {
+      "id": "kunti-untyped-control",
+      "operation": "offspring_dhak",
+      "stage": "input_control",
+      "nominal": "kuntI",
+      "taddhita": "Qak",
+      "expected": [],
+      "meaning": "missing feminine metadata; no output is an input limitation not a ban on Kaunteya",
+      "rules": [
+        "4.1.120"
+      ],
+      "negative_control": true,
+      "actual": [],
+      "actual_devanagari": [],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [],
+      "source_entry": null,
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.120.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "4.1.120": "strIByo Qak"
+      }
+    },
+    {
+      "id": "mitra-tva",
+      "operation": "abstract_tva",
+      "stage": "nominal_base",
+      "nominal": "mitra",
+      "taddhita": "tva",
+      "expected": [
+        "mitratva"
+      ],
+      "meaning": "state of being a friend",
+      "rules": [
+        "5.1.119"
+      ],
+      "actual": [
+        "mitratva"
+      ],
+      "actual_devanagari": [
+        "मित्रत्व"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "mitratva",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.45",
+              "terms": [
+                "mitra"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "5.1.119",
+              "terms": [
+                "mitra",
+                "tva"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.46",
+              "terms": [
+                "mitra",
+                "tva"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "mitra",
+                "tva"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.17",
+              "terms": [
+                "mitra",
+                "tva"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "mitra",
+                "tva"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": null,
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.119.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "5.1.119": "tasya BAvastvatalO"
+      }
+    },
+    {
+      "id": "kr-ktva",
+      "operation": "prior_ktva",
+      "stage": "indeclinable",
+      "dhatu": "08.0010",
+      "krt": "ktvA",
+      "expected": [
+        "kftvA"
+      ],
+      "meaning": "having done",
+      "rules": [
+        "3.4.21"
+      ],
+      "actual": [
+        "kftvA"
+      ],
+      "actual_devanagari": [
+        "कृत्वा"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "kftvA",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.21",
+              "terms": [
+                "kf",
+                "ktvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "kf",
+                "ktvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.46",
+              "terms": [
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.73",
+              "terms": [
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.40",
+              "terms": [
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.73",
+              "terms": [
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.40",
+              "terms": [
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.11",
+              "terms": [
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.5",
+              "terms": [
+                "kf",
+                "tvA"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "08.0010",
+        "aupadeshika": "qukf\\Y",
+        "gana": "tanAdi",
+        "artha_slp1": "karaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.4.21.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.4.21": "samAnakartfkayoH pUrvakAle"
+      }
+    },
+    {
+      "id": "pra-kr-lyap",
+      "operation": "prior_lyap",
+      "stage": "indeclinable",
+      "dhatu": "08.0010",
+      "prefixes": [
+        "pra"
+      ],
+      "krt": "ktvA",
+      "expected": [
+        "prakftya"
+      ],
+      "meaning": "having performed; prefixed prior-action form",
+      "rules": [
+        "7.1.37"
+      ],
+      "actual": [
+        "prakftya"
+      ],
+      "actual_devanagari": [
+        "प्रकृत्य"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "prakftya",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.58",
+              "terms": [
+                "pra",
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.59",
+              "terms": [
+                "pra",
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.60",
+              "terms": [
+                "pra",
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.80",
+              "terms": [
+                "pra",
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.21",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "ktvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "ktvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.45",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.46",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.73",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.43",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.37",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.40",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.73",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.43",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.37",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.40",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tvA"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.1.37",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "lyap"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "lyap"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "lyap"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.5",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.71",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tu~k",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tu~k",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "tu~k",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "t",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "t",
+                "ya"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "pra",
+                "",
+                "kf",
+                "t",
+                "ya"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "08.0010",
+        "aupadeshika": "qukf\\Y",
+        "gana": "tanAdi",
+        "artha_slp1": "karaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.1.37.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "7.1.37": "samAse'naYpUrve ktvo lyap"
+      }
+    },
+    {
+      "id": "kr-tumun",
+      "operation": "purpose_tumun",
+      "stage": "indeclinable",
+      "dhatu": "08.0010",
+      "krt": "tumun",
+      "expected": [
+        "kartum"
+      ],
+      "meaning": "to do",
+      "rules": [
+        "3.3.10"
+      ],
+      "actual": [
+        "kartum"
+      ],
+      "actual_devanagari": [
+        "कर्तुम्"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "kartum",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.3.10",
+              "terms": [
+                "kf",
+                "tumu~n"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "kf",
+                "tumu~n"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "tumu~n"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "tum"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.46",
+              "terms": [
+                "kf",
+                "tum"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "tum"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.39",
+              "terms": [
+                "kf",
+                "tum"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.39",
+              "terms": [
+                "kf",
+                "tum"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.10",
+              "terms": [
+                "kf",
+                "tum"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "tum"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.3.84",
+              "terms": [
+                "kar",
+                "tum"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "kar",
+                "tum"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "08.0010",
+        "aupadeshika": "qukf\\Y",
+        "gana": "tanAdi",
+        "artha_slp1": "karaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.3.10.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.3.10": "tumunRvulO kriyAyAM kriyArTAyAm"
+      }
+    },
+    {
+      "id": "bhu-present",
+      "operation": "conjugation",
+      "stage": "inflection",
+      "dhatu": "01.0001",
+      "tinanta": true,
+      "expected": [
+        "Bavati"
+      ],
+      "meaning": "becomes",
+      "rules": [
+        "3.4.78"
+      ],
+      "actual": [
+        "Bavati"
+      ],
+      "actual_devanagari": [
+        "भवति"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "Bavati",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "BU"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "BU",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "BU",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "BU",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "BU",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.78",
+              "terms": [
+                "BU",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "BU",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "BU",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "BU",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "BU",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.68",
+              "terms": [
+                "BU",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "BU",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "BU",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "BU",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "BU",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "BU",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.3.84",
+              "terms": [
+                "Bo",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "Bo",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.78",
+              "terms": [
+                "Bav",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "Bav",
+                "a",
+                "ti"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "01.0001",
+        "aupadeshika": "BU",
+        "gana": "BvAdi",
+        "artha_slp1": "sattAyAm"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.4.78.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.4.78": "tiptasJisipTasTamibvasmas tAtAMJaTAsATAMDvamiqvahimahiN"
+      }
+    },
+    {
+      "id": "kr-causative-present",
+      "operation": "causative",
+      "stage": "inflection",
+      "dhatu": "08.0010",
+      "sanadi": "Ric",
+      "tinanta": true,
+      "pada": "Parasmaipada",
+      "expected": [
+        "kArayati"
+      ],
+      "meaning": "causes someone to do",
+      "rules": [
+        "3.1.26"
+      ],
+      "actual": [
+        "kArayati"
+      ],
+      "actual_devanagari": [
+        "कारयति"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "kArayati",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.26",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.7",
+              "terms": [
+                "kf",
+                "Ric"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.78",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.115",
+              "terms": [
+                "kAr",
+                "i"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "kAr",
+                "i",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "kAr",
+                "i",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kAr",
+                "i",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kAr",
+                "i",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "kAr",
+                "i",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kAr",
+                "i",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kAr",
+                "i",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "kAr",
+                "i",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.68",
+              "terms": [
+                "kAr",
+                "i",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kAr",
+                "i",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "kAr",
+                "i",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kAr",
+                "i",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "kAr",
+                "i",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kAr",
+                "i",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.3.84",
+              "terms": [
+                "kAr",
+                "e",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "kAr",
+                "e",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.78",
+              "terms": [
+                "kAr",
+                "ay",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "kAr",
+                "ay",
+                "a",
+                "ti"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "08.0010",
+        "aupadeshika": "qukf\\Y",
+        "gana": "tanAdi",
+        "artha_slp1": "karaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.26.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.1.26": "hetumati ca"
+      }
+    },
+    {
+      "id": "kr-desiderative-present",
+      "operation": "desiderative",
+      "stage": "inflection",
+      "dhatu": "08.0010",
+      "sanadi": "san",
+      "tinanta": true,
+      "pada": "Parasmaipada",
+      "expected": [
+        "cikIrzati"
+      ],
+      "meaning": "wants to do",
+      "rules": [
+        "3.1.7"
+      ],
+      "actual": [
+        "cikIrzati"
+      ],
+      "actual_devanagari": [
+        "चिकीर्षति"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "cikIrzati",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.7",
+              "terms": [
+                "kf",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "kf",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.78",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.2.12",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.9",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.4.16",
+              "terms": [
+                "kF",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.5",
+              "terms": [
+                "kF",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.1.100",
+              "terms": [
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.9",
+              "terms": [
+                "kir",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.4",
+              "terms": [
+                "kir",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.5",
+              "terms": [
+                "kir",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.60",
+              "terms": [
+                "ki",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.62",
+              "terms": [
+                "ci",
+                "kir",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.68",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.10",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.5",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "ci",
+                "kir",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.97",
+              "terms": [
+                "ci",
+                "kir",
+                "s",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.2.77",
+              "terms": [
+                "ci",
+                "kIr",
+                "s",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.3.59",
+              "terms": [
+                "ci",
+                "kIr",
+                "z",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "ci",
+                "kIr",
+                "z",
+                "a",
+                "ti"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "08.0010",
+        "aupadeshika": "qukf\\Y",
+        "gana": "tanAdi",
+        "artha_slp1": "karaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.7.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.1.7": "DAtoH karmaRaH samAnakartfkAdicCAyAM vA"
+      }
+    },
+    {
+      "id": "edh-middle",
+      "operation": "conjugation",
+      "stage": "inflection",
+      "dhatu": "01.0002",
+      "tinanta": true,
+      "pada": "Atmanepada",
+      "expected": [
+        "eDate"
+      ],
+      "meaning": "grows",
+      "rules": [
+        "1.3.12"
+      ],
+      "actual": [
+        "eDate"
+      ],
+      "actual_devanagari": [
+        "एधते"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "eDate",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "eDa~\\"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "eDa~\\"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "eD"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "eD",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "eD",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "eD",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "eD",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.12",
+              "terms": [
+                "eD",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "eD",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "eD",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.68",
+              "terms": [
+                "eD",
+                "Sap",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "eD",
+                "Sap",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "eD",
+                "Sap",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "eD",
+                "a",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "eD",
+                "a",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.79",
+              "terms": [
+                "eD",
+                "a",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.4",
+              "terms": [
+                "eD",
+                "a",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "eD",
+                "a",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "eD",
+                "a",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "eD",
+                "a",
+                "te"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "01.0002",
+        "aupadeshika": "eDa~\\",
+        "gana": "BvAdi",
+        "artha_slp1": "vfdDO"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.3.12.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "1.3.12": "anudAttaNita Atmanepadam"
+      }
+    },
+    {
+      "id": "edh-parasmai-negative",
+      "operation": "conjugation",
+      "stage": "inflection",
+      "dhatu": "01.0002",
+      "tinanta": true,
+      "pada": "Parasmaipada",
+      "expected": [],
+      "meaning": "unprefixed active present control; no parasmaipada output expected",
+      "rules": [
+        "1.3.12"
+      ],
+      "negative_control": true,
+      "actual": [],
+      "actual_devanagari": [],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [],
+      "source_entry": {
+        "code": "01.0002",
+        "aupadeshika": "eDa~\\",
+        "gana": "BvAdi",
+        "artha_slp1": "vfdDO"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.3.12.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "1.3.12": "anudAttaNita Atmanepadam"
+      }
+    },
+    {
+      "id": "kr-two-padas",
+      "operation": "conjugation",
+      "stage": "inflection",
+      "dhatu": "08.0010",
+      "tinanta": true,
+      "expected": [
+        "karoti",
+        "kurute"
+      ],
+      "meaning": "does; two pada series under their respective conditions",
+      "rules": [
+        "1.3.72"
+      ],
+      "actual": [
+        "karoti",
+        "kurute"
+      ],
+      "actual_devanagari": [
+        "करोति",
+        "कुरुते"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "kurute",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "kf",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "kf",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.72",
+              "terms": [
+                "kf",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "kf",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "kf",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.79",
+              "terms": [
+                "kf",
+                "u",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "u",
+                "ta"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.79",
+              "terms": [
+                "kf",
+                "u",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.4",
+              "terms": [
+                "kf",
+                "u",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "u",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.3.84",
+              "terms": [
+                "kar",
+                "u",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.1.5",
+              "terms": [
+                "kar",
+                "u",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "kar",
+                "u",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.4.110",
+              "terms": [
+                "kur",
+                "u",
+                "te"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.2.79",
+              "terms": [
+                "kur",
+                "u",
+                "te"
+              ]
+            }
+          ]
+        },
+        {
+          "text": "karoti",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.5",
+              "terms": [
+                "qukf\\Y"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "kf",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "kf",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.78",
+              "terms": [
+                "kf",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "kf",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "kf",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "kf",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "kf",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.79",
+              "terms": [
+                "kf",
+                "u",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "kf",
+                "u",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "kf",
+                "u",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.3.84",
+              "terms": [
+                "kar",
+                "u",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.3.84",
+              "terms": [
+                "kar",
+                "o",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "kar",
+                "o",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "kar",
+                "o",
+                "ti"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "08.0010",
+        "aupadeshika": "qukf\\Y",
+        "gana": "tanAdi",
+        "artha_slp1": "karaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.3.72.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "1.3.72": "svaritaYitaH kartraBiprAye kriyAPale"
+      }
+    },
+    {
+      "id": "pat-desiderative-variants",
+      "operation": "desiderative",
+      "stage": "inflection",
+      "dhatu": "01.0979",
+      "sanadi": "san",
+      "tinanta": true,
+      "expected": [
+        "pipatizati",
+        "pitsati"
+      ],
+      "meaning": "wants to fall or fly; alternative forms",
+      "rules": [
+        "3.1.7"
+      ],
+      "actual": [
+        "pipatizati",
+        "pitsati"
+      ],
+      "actual_devanagari": [
+        "पिपतिषति",
+        "पित्सति"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "pipatizati",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "patx~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "patx~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pat"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.7",
+              "terms": [
+                "pat",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "pat",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pat",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.78",
+              "terms": [
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "vArttikAH",
+              "rule": "7.2.49.1",
+              "terms": [
+                "pat",
+                "iw",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pat",
+                "iw",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pat",
+                "i",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "pat",
+                "i",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.9",
+              "terms": [
+                "pat",
+                "pat",
+                "i",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.4",
+              "terms": [
+                "pat",
+                "pat",
+                "i",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.5",
+              "terms": [
+                "pat",
+                "pat",
+                "i",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.60",
+              "terms": [
+                "pa",
+                "pat",
+                "i",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.79",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.68",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.97",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "s",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.3.59",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "z",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "pi",
+                "pat",
+                "i",
+                "z",
+                "a",
+                "ti"
+              ]
+            }
+          ]
+        },
+        {
+          "text": "pitsati",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "patx~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "patx~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pat"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.7",
+              "terms": [
+                "pat",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.32",
+              "terms": [
+                "pat",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pat",
+                "san"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.114",
+              "terms": [
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.78",
+              "terms": [
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "vArttikAH",
+              "rule": "7.2.49.1",
+              "terms": [
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.9",
+              "terms": [
+                "pat",
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.4",
+              "terms": [
+                "pat",
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.5",
+              "terms": [
+                "pat",
+                "pat",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.54",
+              "terms": [
+                "pat",
+                "pist",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.4.58",
+              "terms": [
+                "",
+                "pist",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.10",
+              "terms": [
+                "",
+                "pist",
+                "sa"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.68",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.2.10",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "",
+                "pist",
+                "sa",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.97",
+              "terms": [
+                "",
+                "pist",
+                "s",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.2.29",
+              "terms": [
+                "",
+                "pit",
+                "s",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "",
+                "pit",
+                "s",
+                "a",
+                "ti"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "01.0979",
+        "aupadeshika": "patx~",
+        "gana": "BvAdi",
+        "artha_slp1": "gatO"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.7.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "3.1.7": "DAtoH karmaRaH samAnakartfkAdicCAyAM vA"
+      }
+    },
+    {
+      "id": "pa-drink",
+      "operation": "conjugation",
+      "stage": "inflection",
+      "dhatu": "01.1074",
+      "tinanta": true,
+      "expected": [
+        "pibati"
+      ],
+      "meaning": "drinks",
+      "rules": [
+        "7.3.78"
+      ],
+      "actual": [
+        "pibati"
+      ],
+      "actual_devanagari": [
+        "पिबति"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "pibati",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "pA\\"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "pA",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "pA",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pA",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pA",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.78",
+              "terms": [
+                "pA",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "pA",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pA",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pA",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "pA",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.68",
+              "terms": [
+                "pA",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pA",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.8",
+              "terms": [
+                "pA",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pA",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "pA",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "pA",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "7.3.78",
+              "terms": [
+                "piba",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "piba",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "6.1.97",
+              "terms": [
+                "pib",
+                "a",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "pib",
+                "a",
+                "ti"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "01.1074",
+        "aupadeshika": "pA\\",
+        "gana": "BvAdi",
+        "artha_slp1": "pAne"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.3.78.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "7.3.78": "pAGrADmAsTAmnAdARdfSyarttisarttiSadasadAM pibajiGraDamatizWamanayacCapaSyarcCaDOSIyasIdAH"
+      }
+    },
+    {
+      "id": "pa-protect",
+      "operation": "conjugation",
+      "stage": "inflection",
+      "dhatu": "02.0051",
+      "tinanta": true,
+      "expected": [
+        "pAti"
+      ],
+      "meaning": "protects",
+      "rules": [
+        "2.4.72"
+      ],
+      "actual": [
+        "pAti"
+      ],
+      "actual_devanagari": [
+        "पाति"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "pAti",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "pA\\"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "pA",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "pA",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pA",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pA",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.78",
+              "terms": [
+                "pA",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "pA",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "pA",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "pA",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "pA",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.68",
+              "terms": [
+                "pA",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "2.4.72",
+              "terms": [
+                "pA",
+                "",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "pA",
+                "",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "pA",
+                "",
+                "ti"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "02.0051",
+        "aupadeshika": "pA\\",
+        "gana": "adAdi",
+        "artha_slp1": "rakzaRe"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.4.72.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "2.4.72": "adipraBftiByaH SapaH"
+      }
+    },
+    {
+      "id": "han-present",
+      "operation": "conjugation",
+      "stage": "inflection",
+      "dhatu": "02.0002",
+      "tinanta": true,
+      "expected": [
+        "hanti"
+      ],
+      "meaning": "strikes",
+      "rules": [
+        "2.4.72"
+      ],
+      "actual": [
+        "hanti"
+      ],
+      "actual_devanagari": [
+        "हन्ति"
+      ],
+      "matches_expected": true,
+      "missing": [],
+      "unexpected": [],
+      "derivation_paths": [
+        {
+          "text": "hanti",
+          "steps": [
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.1",
+              "terms": [
+                "ha\\na~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "ha\\na~"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "han"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.2.123",
+              "terms": [
+                "han",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.2",
+              "terms": [
+                "han",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "han",
+                "la~w"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "han",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.78",
+              "terms": [
+                "han",
+                "l"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.78",
+              "terms": [
+                "han",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.3",
+              "terms": [
+                "han",
+                "tip"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.3.9",
+              "terms": [
+                "han",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.4.113",
+              "terms": [
+                "han",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "3.1.68",
+              "terms": [
+                "han",
+                "Sap",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "2.4.72",
+              "terms": [
+                "han",
+                "",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.13",
+              "terms": [
+                "han",
+                "",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "1.4.14",
+              "terms": [
+                "han",
+                "",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.3.24",
+              "terms": [
+                "haM",
+                "",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.58",
+              "terms": [
+                "han",
+                "",
+                "ti"
+              ]
+            },
+            {
+              "source": "azwADyAyI",
+              "rule": "8.4.68",
+              "terms": [
+                "han",
+                "",
+                "ti"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_entry": {
+        "code": "02.0002",
+        "aupadeshika": "ha\\na~",
+        "gana": "adAdi",
+        "artha_slp1": "hiMsAgatyoH"
+      },
+      "rule_references": [
+        "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.4.72.htm"
+      ],
+      "evidence_status": "pilot_expectation_check_not_full_semantic_validation",
+      "principal_rules_slp1": {
+        "2.4.72": "adipraBftiByaH SapaH"
+      }
+    }
+  ],
+  "inflection_samples": [
+    {
+      "id": "bhu_present_parasmai",
+      "cells": [
+        {
+          "feature": "praTama",
+          "number": "eka",
+          "forms": [
+            "Bavati"
+          ]
+        },
+        {
+          "feature": "praTama",
+          "number": "dvi",
+          "forms": [
+            "BavataH"
+          ]
+        },
+        {
+          "feature": "praTama",
+          "number": "bahu",
+          "forms": [
+            "Bavanti"
+          ]
+        },
+        {
+          "feature": "maDyama",
+          "number": "eka",
+          "forms": [
+            "Bavasi"
+          ]
+        },
+        {
+          "feature": "maDyama",
+          "number": "dvi",
+          "forms": [
+            "BavaTaH"
+          ]
+        },
+        {
+          "feature": "maDyama",
+          "number": "bahu",
+          "forms": [
+            "BavaTa"
+          ]
+        },
+        {
+          "feature": "uttama",
+          "number": "eka",
+          "forms": [
+            "BavAmi"
+          ]
+        },
+        {
+          "feature": "uttama",
+          "number": "dvi",
+          "forms": [
+            "BavAvaH"
+          ]
+        },
+        {
+          "feature": "uttama",
+          "number": "bahu",
+          "forms": [
+            "BavAmaH"
+          ]
+        }
+      ],
+      "requested_cells": 9,
+      "filled_cells": 9,
+      "distinct_spellings": 9
+    },
+    {
+      "id": "pacaka_masculine",
+      "cells": [
+        {
+          "feature": "praTamA",
+          "number": "eka",
+          "forms": [
+            "pAcakaH"
+          ]
+        },
+        {
+          "feature": "praTamA",
+          "number": "dvi",
+          "forms": [
+            "pAcakO"
+          ]
+        },
+        {
+          "feature": "praTamA",
+          "number": "bahu",
+          "forms": [
+            "pAcakAH"
+          ]
+        },
+        {
+          "feature": "dvitIyA",
+          "number": "eka",
+          "forms": [
+            "pAcakam"
+          ]
+        },
+        {
+          "feature": "dvitIyA",
+          "number": "dvi",
+          "forms": [
+            "pAcakO"
+          ]
+        },
+        {
+          "feature": "dvitIyA",
+          "number": "bahu",
+          "forms": [
+            "pAcakAn"
+          ]
+        },
+        {
+          "feature": "tftIyA",
+          "number": "eka",
+          "forms": [
+            "pAcakena"
+          ]
+        },
+        {
+          "feature": "tftIyA",
+          "number": "dvi",
+          "forms": [
+            "pAcakAByAm"
+          ]
+        },
+        {
+          "feature": "tftIyA",
+          "number": "bahu",
+          "forms": [
+            "pAcakEH"
+          ]
+        },
+        {
+          "feature": "caturTI",
+          "number": "eka",
+          "forms": [
+            "pAcakAya"
+          ]
+        },
+        {
+          "feature": "caturTI",
+          "number": "dvi",
+          "forms": [
+            "pAcakAByAm"
+          ]
+        },
+        {
+          "feature": "caturTI",
+          "number": "bahu",
+          "forms": [
+            "pAcakeByaH"
+          ]
+        },
+        {
+          "feature": "paYcamI",
+          "number": "eka",
+          "forms": [
+            "pAcakAd",
+            "pAcakAt"
+          ]
+        },
+        {
+          "feature": "paYcamI",
+          "number": "dvi",
+          "forms": [
+            "pAcakAByAm"
+          ]
+        },
+        {
+          "feature": "paYcamI",
+          "number": "bahu",
+          "forms": [
+            "pAcakeByaH"
+          ]
+        },
+        {
+          "feature": "zazWI",
+          "number": "eka",
+          "forms": [
+            "pAcakasya"
+          ]
+        },
+        {
+          "feature": "zazWI",
+          "number": "dvi",
+          "forms": [
+            "pAcakayoH"
+          ]
+        },
+        {
+          "feature": "zazWI",
+          "number": "bahu",
+          "forms": [
+            "pAcakAnAm"
+          ]
+        },
+        {
+          "feature": "saptamI",
+          "number": "eka",
+          "forms": [
+            "pAcake"
+          ]
+        },
+        {
+          "feature": "saptamI",
+          "number": "dvi",
+          "forms": [
+            "pAcakayoH"
+          ]
+        },
+        {
+          "feature": "saptamI",
+          "number": "bahu",
+          "forms": [
+            "pAcakezu"
+          ]
+        },
+        {
+          "feature": "samboDanam",
+          "number": "eka",
+          "forms": [
+            "pAcaka"
+          ]
+        },
+        {
+          "feature": "samboDanam",
+          "number": "dvi",
+          "forms": [
+            "pAcakO"
+          ]
+        },
+        {
+          "feature": "samboDanam",
+          "number": "bahu",
+          "forms": [
+            "pAcakAH"
+          ]
+        }
+      ],
+      "requested_cells": 24,
+      "filled_cells": 24,
+      "distinct_spellings": 18
+    }
+  ],
+  "counting_unit": "Meaning-bearing lexical entries first; grammatical cells separately.",
+  "semantic_word_count": null,
+  "spelling_counts_are_diagnostics_only": true,
+  "limits": [
+    "Coincident spellings do not collapse distinct lexical meanings or grammatical cells.",
+    "Expected outputs check selected examples; no universal word count follows.",
+    "Python 0.4.0 krt/taddhita entry points do not expose an artha argument.",
+    "Zero output is not a proof of grammatical prohibition.",
+    "Crosswalk candidates require identity review before meaning enrichment."
+  ]
+}

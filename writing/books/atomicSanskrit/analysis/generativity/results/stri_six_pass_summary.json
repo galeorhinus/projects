@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-13",
+  "passes_completed": 6,
+  "pinned_suffix_identifiers": 7,
+  "active_source_assertions": 66,
+  "unique_source_demonstrated_inputs": 65,
+  "verified_stri_derivations": 50,
+  "inflection_only_relations_not_admitted": 5,
+  "engine_mismatches_not_admitted": 10,
+  "additional_stri_word_meanings": 50,
+  "combined_bounded_word_meaning_subtotal": 4762714,
+  "inputs": {
+    "analysis/generativity/results/stri_suffix_inventory.json": "dc16a9b9232cf06af611b64fee551a1df4d155de22250f5c194d627f2b71de57",
+    "analysis/generativity/results/stri_source_examples.json": "fbf426aaf989dc47fd50f4431abde576ea000fe66ade0d191645a04a0a0d52ba",
+    "analysis/generativity/results/stri_eligibility.json": "72b706d034c4d52f3bc4889ed13dac73f28a61c75405048c18fc5a01f061c218",
+    "analysis/generativity/results/stri_verification.json": "7d7d46230675d7cfce86e3360e5e83d78d52fd6003879c48742c977b35edd22f",
+    "analysis/generativity/results/stri_reconciliation.json": "dc15f2fb3f920b4b4b84e48ea778342eb9c6c71a605c64ab9cd9a2f61641358c",
+    "analysis/generativity/results/stri_ledger.csv": "456596e17c3dbba58c9bb3dd834c5734d5f9370838f68742ad9cab5e9234b4df"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

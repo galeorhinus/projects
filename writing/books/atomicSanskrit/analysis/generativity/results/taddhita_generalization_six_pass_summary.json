@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 6,
+  "semantic_families_reviewed": 57,
+  "selected_semantic_families": [
+    "comparative",
+    "superlative"
+  ],
+  "nominal_word_meanings": 794078,
+  "deferred_gunavacana_operations": [
+    {
+      "source_variant": "izWan",
+      "semantic_context": "AtishayanaSuperlative",
+      "rule_refs": [
+        "5.3.55",
+        "5.3.58"
+      ],
+      "reason": "Rule 5.3.58 requires a guṇavacana input. The present inventory does not independently classify that traditional category."
+    },
+    {
+      "source_variant": "Iyasun",
+      "semantic_context": "AtishayanaComparative",
+      "rule_refs": [
+        "5.3.57",
+        "5.3.58"
+      ],
+      "reason": "Rule 5.3.58 requires a guṇavacana input. The present inventory does not independently classify that traditional category."
+    }
+  ],
+  "eligible_operation_relations": 1588156,
+  "engine_verified_candidate_relations": 1588156,
+  "engine_zero_or_error_relations": 0,
+  "existing_word_meaning_overlaps_not_added": 1,
+  "additional_generalized_word_meanings": 1588155,
+  "combined_bounded_word_meaning_subtotal": 12704821,
+  "remaining_passes": 30,
+  "inputs": {
+    "analysis/generativity/results/taddhita_generalization_classification.json": "aa9f17829bd4072c34ca3b80b80424d2bf4ad5d318b7289b6246761bd78e7587",
+    "analysis/generativity/results/taddhita_generalization_eligibility.json": "eb294f8cf493a77a89f78096583bbd3aed60ba535a2e92ec0489501b01983602",
+    "analysis/generativity/results/taddhita_generalization_generation.json": "9cc2cd858bb65fdc05877f2efa5288c20f411c74e5563fc40e3317bd923458ef",
+    "analysis/generativity/results/taddhita_generalization_verification.json": "3a5e056ff6e7183c67137b1aeab926ddb946c4539c400b76b86f9db7dcbb75b7",
+    "analysis/generativity/results/taddhita_generalization_reconciliation.json": "bcbb9fd8bc427710e83b2fc30e48b3075ed12152a6ef368d8e7111ccf2ec4510",
+    "analysis/generativity/results/taddhita_generalization_ledger.csv.gz": "73d2ef25d037b9fbf6b1c59d822feef50559cb2d9d42ab0cfc242f3505fca598",
+    "analysis/generativity/results/generation_stage_graph.json": "9d65cbcd73aafd65151cd07194a839dab657246c893a230ea060e07632150eff",
+    "analysis/generativity/build_taddhita_generalization_six_pass_summary.py": "8ea4553e182a047c74125908c1575a4a89d8acc5ec6b608eab6ee8502fcc14e7"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

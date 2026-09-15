@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-14",
+  "materialized_lexical_word_meaning_subtotal": 12846458,
+  "compoundable_laukika_nominal_meanings": 8083621,
+  "symbolic_depth_one_compound_slots": 196034769247681,
+  "symbolic_post_compound_derivational_slots": 1960347692476810,
+  "symbolic_depth_two_compound_slots": 9508024664524249997406,
+  "symbolic_counts_added_to_lexical_subtotal": false,
+  "vaidika_inputs_admitted": false,
+  "same_spelling_depth_one_sample_groups": {
+    "kuntIvatsa": [
+      "bahuvrihi",
+      "dvandva",
+      "samahara_dvandva",
+      "sasthi_tatpurusha"
+    ],
+    "madrasuparRA": [
+      "bahuvrihi",
+      "dvandva",
+      "samahara_dvandva",
+      "sasthi_tatpurusha"
+    ],
+    "vinatAkuntI": [
+      "bahuvrihi",
+      "dvandva",
+      "samahara_dvandva",
+      "sasthi_tatpurusha"
+    ],
+    "vatsamadra": [
+      "bahuvrihi",
+      "dvandva",
+      "samahara_dvandva",
+      "sasthi_tatpurusha"
+    ]
+  },
+  "same_spelling_depth_two_sample_groups": {
+    "kuntIvatsamadra": [
+      "bahuvrihi",
+      "dvandva",
+      "samahara_dvandva",
+      "sasthi_tatpurusha"
+    ],
+    "madrakuntIvatsa": [
+      "bahuvrihi",
+      "sasthi_tatpurusha"
+    ]
+  },
+  "same_spelling_meanings_collapsed": false,
+  "storage_policy": {
+    "store": [
+      "canonical nominal word-meaning records in their existing ledgers",
+      "relation definitions and exact capacity formulas",
+      "verification fixtures and sampled derivation paths"
+    ],
+    "generate_on_demand": [
+      "arbitrary depth-one compound forms",
+      "post-compound descendants",
+      "depth-two compound forms"
+    ]
+  },
+  "inputs": {
+    "analysis/generativity/results/samasa_capacity_member_inventory.json": "bf9c188bb800ff2bd526be4bd29a710998edd70bc88995e1d6f793201ddaf5fc",
+    "analysis/generativity/results/samasa_capacity_eligibility.json": "3dd3c4a9c1787e96e5517e1d0f35ad55c1639b61aad7779de5d9aa5544377b7b",
+    "analysis/generativity/results/samasa_capacity_sample.csv": "c036a7b773307cbbe3b37b6caedf088723ab2ea166d15e09c8de411f8b13dcdf",
+    "analysis/generativity/results/samasa_reuse_eligibility.json": "57743c29b5b17dbe5912ea77d3f5df675c5c3302e902a0052d3bda9b24188a7e",
+    "analysis/generativity/results/recursive_samasa_capacity.json": "ee476a200f60a2d3097774dc36dc2d1d62f1e076083e682867c5c1f295acaa54",
+    "analysis/generativity/results/recursive_samasa_sample.csv": "e0569a18dbe18dd25937f75694f0f1096eb974519b70adfa4b9ab883246d09f9"
+  }
+}

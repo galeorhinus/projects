@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-13",
+  "base_word_meanings_audited": 2634,
+  "status_counts": {
+    "documented_vedic_only": 11,
+    "no_domain_restriction_found_in_cited_evidence": 2623
+  },
+  "source_codes_requiring_domain_review": [],
+  "method": "Each admitted base meaning was checked against its currently cited archived commentaries for explicit Vedic-domain language. Absence of such language was not converted into proof of unrestricted laukika use.",
+  "inputs": {
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "analysis/generativity/vaidika_base_restrictions.json": "2d0a78e802dd173b2e90e657a4800a781e189e1fe2d1e264f2e54efc5c1c32c5",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/classify_base_domains.py": "4bdae8d474f9b985a4d7ac60961e3f4bc550dc5f3727d25af9820ea42b63f7ec"
+  }
+}

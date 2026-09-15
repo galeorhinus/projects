@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-14",
+  "prior_combined_bounded_word_meaning_subtotal": 12845387,
+  "additional_samasa_word_meanings": 113,
+  "existing_word_meaning_overlaps_not_added": 0,
+  "combined_bounded_word_meaning_subtotal": 12845500,
+  "recursive_compounding_admitted": false,
+  "inputs": {
+    "analysis/generativity/results/samasa_verification.csv": "636b38e8a26e9c45386775602ea5e8d66726032c3b47ef559111987b81b860a6"
+  }
+}

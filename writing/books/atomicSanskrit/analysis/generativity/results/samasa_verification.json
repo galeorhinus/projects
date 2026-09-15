@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-14",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "candidate_relations": 113,
+  "relations_asserted_by_pinned_active_tests": 113,
+  "locally_regenerated_relations": 113,
+  "local_execution_status": "completed",
+  "verifier_source": "analysis/generativity/rust/samasa_verifier",
+  "admission_basis": "Each relation is a literal active assertion in the pinned engine's K\u0101\u015bik\u0101 integration suite. When the local verifier exists, the expected forms are also regenerated at the pinned commit and their rule histories are retained.",
+  "inputs": {
+    "analysis/generativity/results/samasa_eligible_relations.csv": "4240e730474ac6331a9651a4c90dde9a82fe9cf30da6a89a4f7b93b9bb495c58",
+    "working/40_reference/sources/archive/documents/generativity-pilot/samasa_manifest.json": "f7db740232de8d600ee8d61b87c9733d301c643e45f7a2cc80b1069d9781aa51",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_2_1.rs": "44e0b58ee7270f40705f16c4524f4c46d1303756fdefaee5bf32691e57c24036",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_2_2.rs": "24240fb89e0d9fb5158246a6362c38cb03879d7751dada181adbec36cbe5172b"
+  }
+}

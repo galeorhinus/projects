@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-13",
+  "scope": "One normalized upasarga attached to the original gam dhatu; no sanadi operation, stacking, inflection, or lexical admission.",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "governing_rules": [
+    {
+      "code": "1.4.58",
+      "text_slp1": "prAdayaH"
+    },
+    {
+      "code": "1.4.59",
+      "text_slp1": "upasargAH kriyAyoge"
+    },
+    {
+      "code": "1.4.60",
+      "text_slp1": "gatiSca"
+    },
+    {
+      "code": "1.4.80",
+      "text_slp1": "te prAgDAtoH"
+    }
+  ],
+  "inventory": {
+    "listed_pradi_forms": 22,
+    "normalized_upasarga_identities": 20,
+    "normalizations": {
+      "nis_nir": "One inventory identity; conditioned forms do not create two meanings by themselves.",
+      "dus_dur": "One inventory identity; conditioned forms do not create two meanings by themselves.",
+      "ang": "The source-listed AN carries an indicatory consonant; the operational prefix appears as A.",
+      "ut": "The source-listed ut appears as ud before the voiced initial of gam."
+    }
+  },
+  "pilot": {
+    "base_source_code": "01.1137",
+    "base_word_meaning": "gam, movement or going",
+    "operations_tested": 20,
+    "operations_with_output": 20,
+    "expectation_matches": 20,
+    "distinct_output_spellings_diagnostic": 21,
+    "generated_capacity_relations": 20,
+    "separately_added_to_subtotal": 0
+  },
+  "planned_full_matrix": {
+    "original_base_word_meanings": 2634,
+    "normalized_upasargas": 20,
+    "structural_operation_base_pairs": 52680,
+    "pre_restriction_candidates": 52680
+  },
+  "semantic_boundary": [
+    "The rules identify the pradi forms and classify them as upasargas when they connect with an action.",
+    "The rules do not assign one uniform conventional gloss to every upasarga-dhatu pair.",
+    "A generated pair enters the generativity count when the operation is licensed and no source condition prevents that pair from inheriting the selected base meaning.",
+    "Attestation enriches the meaning record; it is not an admission gate."
+  ],
+  "vocabulary_total": null,
+  "publication_status": "inventory_and_generation_pilot_only_not_deployed",
+  "sources": [
+    {
+      "filename": "dhatupatha.tsv",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "resolved_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "accessed_utc": "2026-09-12T12:29:52.999531+00:00",
+      "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+      "bytes": 55022
+    },
+    {
+      "filename": "rule-1.4.58.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.58.htm",
+      "accessed_utc": "2026-09-12T16:03:36.811505+00:00",
+      "sha256": "48d90df31af7dc6dad1e4270e4d14fa78554310125142e68a0a49a7cbf876348",
+      "bytes": 12586
+    },
+    {
+      "filename": "rule-1.4.59.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.59.htm",
+      "accessed_utc": "2026-09-12T16:03:37.911527+00:00",
+      "sha256": "77d6ed0305efb66a3bccc702778b76ed73c84190205564295ad83d86a231de42",
+      "bytes": 15507
+    },
+    {
+      "filename": "rule-1.4.60.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.60.htm",
+      "accessed_utc": "2026-09-12T16:03:39.062999+00:00",
+      "sha256": "9c1014b8492b5b24edac5703d65ff0a33a1b63bfd3ba298af889cd6bfce816eb",
+      "bytes": 14712
+    },
+    {
+      "filename": "sutrapatha.tsv",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/sutrapatha.tsv",
+      "accessed_utc": "2026-09-12T12:40:36.592077+00:00",
+      "sha256": "f2ff798707e8b8ea20dd5cf20a7bbcc4b849f0ab4d726a0a4af890ef87b7e87c",
+      "bytes": 112838
+    },
+    {
+      "filename": "vidyut-args-dhatu.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/dhatu.rs",
+      "accessed_utc": "2026-09-13T05:27:01.055292+00:00",
+      "sha256": "f63ee74be4e5eef8581def3f9b029fe2b1e01f7e92ca7a322c506d3e33764c63",
+      "bytes": 22640
+    }
+  ],
+  "manifest_source_count": 949,
+  "inputs": {
+    "analysis/generativity/upasarga_inventory.csv": "cf3e86d1d8e7ebc6613130b99a11c1d0da4a943093cbbbc72667e08004a82c04",
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/run_upasarga_pilot.py": "a381658b298b08724554fed386f362256c69bb52f80ba18a28a1047dc336031e"
+  }
+}

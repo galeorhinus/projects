@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-13",
+  "scope": "One true causative meaning from each eligible curadigana base meaning, using the class-forming nic followed by causative nic; no upasarga, further sanadi stacking, krdanta, or inflection.",
+  "candidate_curadigana_base_meanings": 522,
+  "source_entries_tested": 454,
+  "source_entries_with_output": 454,
+  "source_entry_zero_outputs": 0,
+  "admitted_true_causative_word_meanings": 522,
+  "unresolved_word_meanings": 0,
+  "prior_bounded_verbal_capacity_subtotal": 317763,
+  "bounded_verbal_capacity_subtotal": 318285,
+  "vocabulary_total": null,
+  "publication_status": "research_subtotal_only_not_deployed",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "sources": [
+    {
+      "filename": "rule-3.1.25.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.25.htm",
+      "accessed_utc": "2026-09-13T06:36:31.470294+00:00",
+      "sha256": "42b8f559ab087cd96425df4ced1c92aa0627f1d42576875d29b19971e61d3040",
+      "bytes": 11269
+    },
+    {
+      "filename": "rule-3.1.26.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.26.htm",
+      "accessed_utc": "2026-09-12T16:03:50.141844+00:00",
+      "sha256": "8944ff6d15ad0a8f69392cc2833a0320bd5a0b3f8af543d6e1c0ec404970fbd7",
+      "bytes": 43778
+    },
+    {
+      "filename": "vidyut-args-dhatu.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/dhatu.rs",
+      "accessed_utc": "2026-09-13T05:27:01.055292+00:00",
+      "sha256": "f63ee74be4e5eef8581def3f9b029fe2b1e01f7e92ca7a322c506d3e33764c63",
+      "bytes": 22640
+    },
+    {
+      "filename": "vidyut-sanadi.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/sanadi.rs",
+      "accessed_utc": "2026-09-13T06:06:36.858207+00:00",
+      "sha256": "228edd5e973b429657ee872f29d983ff78ae74b4b579b900fff171503cd1fc34",
+      "bytes": 13862
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/results/verbal_derivation_exclusions.csv": "b15b4d3622b878295de0ea88bdc4bed102eaa35fad3ce879024cc7c48488dc81",
+    "analysis/generativity/results/upasarga_sanadi_summary.json": "6615d370302ba3dd879d72bb65f8d84c0a0a5a4abc23787743eb21519ff0559d",
+    "analysis/generativity/admission_standard.md": "f1aee832f493cbffedcbcd0138d9ef5bfa379ba2da25a65f3e231d9b336e96ff",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_curadi_causative_ledger.py": "228c5442fbd671e840479eeeafd5d624e1b473d3a05589d8e57bb167b690538a"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-14",
+  "passes_completed": 8,
+  "engine_gender_values": [
+    "Pum",
+    "Stri",
+    "Napumsaka"
+  ],
+  "sample_gender_profile": {
+    "Pum": 3,
+    "Stri": 1,
+    "Napumsaka": 4
+  },
+  "automatic_gender_multiplier": 1,
+  "gender_is_generation_attribute": true,
+  "full_inventory_gender_assignments_materialized": false,
+  "agreement_gender_expansion_included": false,
+  "policy": "Gender is an attribute used to generate the cell's output. It does not create an automatic three-series lexical or grammatical multiplier in this model.",
+  "interpretation": "Each counted name meaning receives one relation-number matrix under its lexical or contextually selected gender. Agreement across additional genders remains a separate grammatical expansion and does not create new lexical meanings.",
+  "inputs": {
+    "analysis/generativity/subanta_operations.json": "8754ba3442462deb4689c992604901f927b6237c115a71aa7344504b2e57d33e",
+    "analysis/generativity/results/subanta_nominal_member_sample.csv": "683c0005abfd87815e639379e5225018787d97bd90fdee7dd52f97bea26cf534"
+  }
+}

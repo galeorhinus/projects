@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-13",
+  "suffix_identifiers": 175,
+  "semantic_family_assignments": {
+    "action_occupation_instrument": 20,
+    "descent_identity_community": 32,
+    "evaluation_comparison_degree": 17,
+    "knowledge_devotion_relation": 15,
+    "material_transformation_preparation": 17,
+    "other_conditioned_relation": 14,
+    "place_origin_association": 23,
+    "possession_state_measure": 30,
+    "purpose_suitability_value": 11,
+    "same_meaning_or_structural": 42,
+    "time_quantity_repetition": 10,
+    "unreached_in_pinned_implementation": 34
+  },
+  "most_common_visible_endings": {
+    "ya": 13,
+    "a": 10,
+    "ika": 9,
+    "aka": 5,
+    "ka": 5,
+    "iya": 4,
+    "Ayana": 3,
+    "Iya": 3,
+    "eya": 3,
+    "zero_or_replacement": 2,
+    "in": 2,
+    "ila": 2,
+    "Ika": 2,
+    "eRya": 2,
+    "Ina": 2,
+    "ana": 2,
+    "la": 2,
+    "mat": 2,
+    "vala": 2,
+    "tara": 2
+  },
+  "principle": "A visible ending is not an operation. Different grammatical suffixes can converge on the same visible form, and one suffix can serve several semantic relations.",
+  "inputs": {
+    "analysis/generativity/results/taddhita_identifier_classification.csv": "40ab8b448f02c5dc6146e4fec371c9b934659c923f46837a5dd4859fe264de30",
+    "analysis/generativity/classify_suffix_semantic_families.py": "f0449ca46dd29950eee2c9897c6d6e3a7263b3d280e7464b87d01767187cf59e"
+  },
+  "publication_status": "research_classification_only_not_deployed"
+}

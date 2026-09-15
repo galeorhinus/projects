@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-14",
+  "verified_candidate_relations": 1588156,
+  "existing_word_meaning_overlaps_not_added": 1,
+  "overlaps_by_operation": {
+    "superlative_tamap": 1
+  },
+  "additional_generalized_word_meanings": 1588155,
+  "additional_by_operation": {
+    "superlative_tamap": 794077,
+    "comparative_tarap": 794078
+  },
+  "prior_combined_bounded_word_meaning_subtotal": 11116666,
+  "combined_bounded_word_meaning_subtotal": 12704821,
+  "counting_unit": "one nominal input meaning under one comparative or superlative operation; alternative outputs remain variants of that relation",
+  "inputs": {
+    "analysis/generativity/results/taddhita_generalization_candidates.csv.gz": "587fed14ed130ae710a3d8642e6fa038c210e4fabc79882e9a0f0eaeed8ae0a6",
+    "analysis/generativity/results/taddhita_generalization_verification.json": "3a5e056ff6e7183c67137b1aeab926ddb946c4539c400b76b86f9db7dcbb75b7",
+    "analysis/generativity/results/plain_taddhita_ledger.csv": "c76435c1c559f4beb13e51c649c7067e7e6a260143ca5d2e38bcae98574c0a88",
+    "analysis/generativity/results/plain_taddhita_reconciliation.json": "4e981cee32f109b59d2a14072190cca0bdfbda875daace9a684b79ab2dbe05b0",
+    "analysis/generativity/reconcile_taddhita_generalization.py": "ec6b12c36ced050c7d0ab4fd1ac89b9717ffd7ad349a4fbc1c9dc62a95401c66"
+  },
+  "publication_status": "bounded_research_subtotal_not_deployed"
+}

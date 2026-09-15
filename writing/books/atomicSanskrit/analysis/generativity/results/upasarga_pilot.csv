@@ -1,0 +1,21 @@
+order,upasarga_id,source_forms_slp1,source_forms_devanagari,source_forms_iast,engine_input_slp1,base_source_code,base_citation_slp1,base_meaning,output_forms_slp1,output_forms_devanagari,output_forms_iast,output_variant_count,matches_expected,semantic_status,count_status
+1,pra,pra,प्र,pra,pra,01.1137,gam,"गति (*gati*), movement or going",pragam,प्रगम्,pragam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+2,para,parA,परा,parā,parA,01.1137,gam,"गति (*gati*), movement or going",parAgam,परागम्,parāgam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+3,apa,apa,अप,apa,apa,01.1137,gam,"गति (*gati*), movement or going",apagam,अपगम्,apagam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+4,sam,sam,सम्,sam,sam,01.1137,gam,"गति (*gati*), movement or going",saMgam;saNgam,संगम्;सङ्गम्,saṃgam;saṅgam,2,true,generated_meaning_open,pilot_subset_not_added_separately
+5,anu,anu,अनु,anu,anu,01.1137,gam,"गति (*gati*), movement or going",anugam,अनुगम्,anugam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+6,ava,ava,अव,ava,ava,01.1137,gam,"गति (*gati*), movement or going",avagam,अवगम्,avagam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+7,nis,nis;nir,निस्;निर्,nis;nir,nis,01.1137,gam,"गति (*gati*), movement or going",nirgam,निर्गम्,nirgam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+8,dus,dus;dur,दुस्;दुर्,dus;dur,dus,01.1137,gam,"गति (*gati*), movement or going",durgam,दुर्गम्,durgam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+9,vi,vi,वि,vi,vi,01.1137,gam,"गति (*gati*), movement or going",vigam,विगम्,vigam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+10,ang,AN,आङ्,āṅ,AN,01.1137,gam,"गति (*gati*), movement or going",Agam,आगम्,āgam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+11,ni,ni,नि,ni,ni,01.1137,gam,"गति (*gati*), movement or going",nigam,निगम्,nigam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+12,adhi,aDi,अधि,adhi,aDi,01.1137,gam,"गति (*gati*), movement or going",aDigam,अधिगम्,adhigam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+13,api,api,अपि,api,api,01.1137,gam,"गति (*gati*), movement or going",apigam,अपिगम्,apigam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+14,ati,ati,अति,ati,ati,01.1137,gam,"गति (*gati*), movement or going",atigam,अतिगम्,atigam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+15,su,su,सु,su,su,01.1137,gam,"गति (*gati*), movement or going",sugam,सुगम्,sugam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+16,ut,ut,उत्,ut,ut,01.1137,gam,"गति (*gati*), movement or going",udgam,उद्गम्,udgam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+17,abhi,aBi,अभि,abhi,aBi,01.1137,gam,"गति (*gati*), movement or going",aBigam,अभिगम्,abhigam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+18,prati,prati,प्रति,prati,prati,01.1137,gam,"गति (*gati*), movement or going",pratigam,प्रतिगम्,pratigam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+19,pari,pari,परि,pari,pari,01.1137,gam,"गति (*gati*), movement or going",parigam,परिगम्,parigam,1,true,generated_meaning_open,pilot_subset_not_added_separately
+20,upa,upa,उप,upa,upa,01.1137,gam,"गति (*gati*), movement or going",upagam,उपगम्,upagam,1,true,generated_meaning_open,pilot_subset_not_added_separately

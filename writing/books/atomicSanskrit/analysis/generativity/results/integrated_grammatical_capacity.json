@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-15",
+  "pass": 1,
+  "count_unit": "semantic_grammatical_cell",
+  "laukika_lexical_word_meanings": 12633060,
+  "action_word_meanings": 4540848,
+  "action_cells_per_meaning": 90,
+  "action_grammatical_cells": 408676320,
+  "name_word_meanings": 8084287,
+  "name_cells_per_meaning": 24,
+  "name_grammatical_cells": 194022888,
+  "complete_unchanging_word_meanings": 7925,
+  "unchanging_cells_per_meaning": 1,
+  "integrated_laukika_grammatical_cells": 602707133,
+  "lexical_subtotal_added_to_capacity": false,
+  "inputs": {
+    "analysis/generativity/results/wordspace_category_graph.json": "8961c978a4b77a9b8727b975500f870ba03aa1c40e5109aafdded2b425e22280",
+    "analysis/generativity/results/tinanta_twelve_pass_summary.json": "2ff1b27a5ae3b173ccd0d5e04ad58a5d196f92dda0a43cc16d7ec0a6df806887",
+    "analysis/generativity/results/subanta_twelve_pass_summary.json": "dedf0def93841c2e5e20bead82029566b93f0d555cf80106577ffe1425dfe03e"
+  }
+}

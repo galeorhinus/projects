@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-14",
+  "sample_semantic_cells": 270,
+  "generated_form_coordinate_links": 394,
+  "distinct_sample_spellings": 378,
+  "spellings_shared_across_semantic_cells": 13,
+  "shared_spelling_coordinate_links": 29,
+  "counting_policy": "Repeated spelling never merges distinct lakara-person-number semantic cells.",
+  "scope": "sample diagnostic, not an extrapolated collision rate"
+}

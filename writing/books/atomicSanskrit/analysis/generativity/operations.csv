@@ -1,0 +1,36 @@
+id,stage,affix_slp1,label,meaning_or_condition,rule_refs,pilot_scope
+identity,verbal_base,,unmodified base,Retain source identity without deriving another lexical base,1.3.1,gam and kr
+prefix,verbal_base,,upasarga,Record each ordered prefix and contextual meaning; use underlying identities,1.4.58;1.4.59,one prefix only
+causative,verbal_base,Ric,nic,Causing an action; lexical and construction restrictions still apply,3.1.26,tested examples only
+desiderative,verbal_base,san,san,Desire to perform an action by the same agent,3.1.7,tested examples only
+intensive,verbal_base,yaN,yang,Repeated or intense action; base-shape and lexical restrictions,3.1.22,tested examples only
+intensive_luk,verbal_base,yaNluk,yang-luk,Related intensive operation with suffix deletion; not a universal extra multiplier,2.4.74;3.1.22,deferred
+denominative_kyac,verbal_base,kyac,kyac,Desire for the nominal referent for oneself,3.1.8,putra only
+denominative_kamyac,verbal_base,kAmyac,kamyac,Desire for the nominal referent,3.1.9,putra only
+denominative_kyang,verbal_base,kyaN,kyang,Acting like the nominal referent under specified conditions,3.1.11,deferred
+agent_nvul,nominal_base,Rvul,nvul,Agent of the action,3.1.133,pac only
+agent_trc,nominal_base,tfc,trc,Agent of the action,3.1.133,kr only
+action_lyut,nominal_base,lyuw,lyut,Action nominal; other uses require their own semantic context,3.3.115,gam only
+instrument_lyut,nominal_base,lyuw,lyut instrument,Instrument by which an action is done; distinct meaning even when a bhava form coincides,3.3.117,kr semantic sample
+location_lyut,nominal_base,lyuw,lyut location,Location of an action; distinct meaning even when a bhava form coincides,3.3.117,as semantic sample
+action_ghanj,nominal_base,GaY,ghanj,Action or state nominal with lexical restrictions,3.3.18,pac only
+past_kta,nominal_base,kta,kta,Completed-action participial base; role depends on construction,3.2.102;3.4.70,deferred
+past_ktavatu,nominal_base,ktavatu,ktavatu,Agent associated with completed action,3.2.102,deferred
+present_satr,nominal_base,Satf,satr,Present participial formation requiring tense and construction specification,3.2.124,deferred
+present_sanac,nominal_base,SAnac,sanac,Middle or passive participial formation requiring construction specification,3.2.124,deferred
+obligation_tavya,nominal_base,tavya,tavya,Action to be performed; construction must be specified,3.1.96,deferred
+obligation_aniyar,nominal_base,anIyar,aniyar,Action to be performed; construction must be specified,3.1.96,deferred
+obligation_yat,nominal_base,yat,yat,Potential or obligation; base restrictions,3.1.97,deferred
+offspring_dhak,nominal_base,Qak,dhak,Offspring relation from an eligible nominal base,4.1.92;4.1.120,Kunti only
+abstract_tva,nominal_base,tva,tva,State or quality of being the nominal referent,5.1.119,mitra only
+abstract_tal,nominal_base,tal,tal,State or quality of being; feminine formation remains separate,5.1.119,deferred
+relation_an,nominal_base,aR,an,Multiple semantic relations; do not merge into one unrestricted operation,4.1.83;4.3.120,deferred
+possessive_matup,nominal_base,matup,matup,Possessing the nominal referent,5.2.94,deferred
+feminine,nominal_base,,stri,Gender formation governed by base and affix; no automatic threefold count,4.1.3;4.1.15,deferred
+prior_ktva,indeclinable,ktvA,ktva,Prior action sharing an agent with the following action,3.4.21,kr only
+prior_lyap,indeclinable,ktvA,lyap replacement,Prefixed environment replacing ktva; engine request still uses ktva,7.1.37,pra plus kr only
+purpose_tumun,indeclinable,tumun,tumun,Purpose or another licensed infinitival construction,3.3.10,kr only
+conjugation,inflection,,tin,Person number tense or mood pada and construction tracked as features,3.4.78,present active pilot
+declension,inflection,,sup,Gender number case and vocative tracked independently of the base,4.1.2,masculine pacaka pilot
+compound,compound,,samasa,Specified compound relation and bounded input inventory,2.1.22,113 source-demonstrated word-meanings; broader compounding deferred
+compound_stack,derived_base,,one operation after samasa,Apply one previously established nominal operation after a source-demonstrated compound,2.2.6;3.1.8;3.1.9;3.1.10;3.1.11;5.1.119;5.2.94;5.3.55;5.3.57,958 depth-two word-meanings; further recursion deferred

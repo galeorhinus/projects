@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-14",
+  "original_nominal_meanings": 8083621,
+  "depth_one_compound_meaning_slots": 196034769247681,
+  "depth_two_compound_relation_slots": 9508024664524249997406,
+  "rows": [
+    {
+      "relation_id": "sasthi_tatpurusha",
+      "display": "षष्ठी-तत्पुरुषः (ṣaṣṭhī-tatpuruṣaḥ)",
+      "formula": "2 x C1 x N",
+      "placement_multiplier": 2,
+      "eligible_depth_two_relations": 3169341554841416665802,
+      "rule_refs": "2.2.8"
+    },
+    {
+      "relation_id": "bahuvrihi",
+      "display": "बहुव्रीहिः (bahuvrīhiḥ)",
+      "formula": "2 x C1 x N",
+      "placement_multiplier": 2,
+      "eligible_depth_two_relations": 3169341554841416665802,
+      "rule_refs": "2.2.24"
+    },
+    {
+      "relation_id": "dvandva",
+      "display": "द्वन्द्वः (dvandvaḥ)",
+      "formula": "C1 x N",
+      "placement_multiplier": 1,
+      "eligible_depth_two_relations": 1584670777420708332901,
+      "rule_refs": "2.2.29"
+    },
+    {
+      "relation_id": "samahara_dvandva",
+      "display": "समाहार-द्वन्द्वः (samāhāra-dvandvaḥ)",
+      "formula": "C1 x N",
+      "placement_multiplier": 1,
+      "eligible_depth_two_relations": 1584670777420708332901,
+      "rule_refs": "2.2.29"
+    }
+  ],
+  "maximum_compound_depth": 2,
+  "one_compound_plus_one_original_member_only": true,
+  "two_depth_one_compounds_as_members": false,
+  "materialized_all_relations": false,
+  "inputs": {
+    "analysis/generativity/samasa_capacity_operations.json": "ed1b79285d0a0637653404ec99c4ec4537454ca2869d5dcf1e545fd599af3979",
+    "analysis/generativity/results/samasa_capacity_eligibility.json": "3dd3c4a9c1787e96e5517e1d0f35ad55c1639b61aad7779de5d9aa5544377b7b"
+  }
+}

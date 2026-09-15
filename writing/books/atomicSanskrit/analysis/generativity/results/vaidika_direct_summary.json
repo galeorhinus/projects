@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-13",
+  "base_word_meanings": 2634,
+  "selected_direct_operations": 2,
+  "admitted_vaidika_direct_word_meanings": 5268,
+  "not_admitted_total": 0,
+  "vaidika_specific_subtotal": 5268,
+  "spelling_diagnostics": {
+    "distinct_output_spellings": 5934,
+    "spellings_shared_by_multiple_word_meanings": 1706
+  },
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32",
+    "is_chandasi": true,
+    "use_svaras": true
+  },
+  "sources": [
+    {
+      "filename": "dhatupatha.tsv",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "resolved_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "accessed_utc": "2026-09-12T12:29:52.999531+00:00",
+      "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+      "bytes": 55022
+    },
+    {
+      "filename": "vidyut-args-krt.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/krt.rs",
+      "accessed_utc": "2026-09-13T05:27:01.241686+00:00",
+      "sha256": "07e2a29545918b1528fa13eaf66b3fe5c9585184f945df5c479a25525de33f6f",
+      "bytes": 20834
+    },
+    {
+      "filename": "vidyut-krt-basic.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/krt/basic.rs",
+      "accessed_utc": "2026-09-13T09:07:15.500086+00:00",
+      "sha256": "d4316e3cedba64a1b6a9bcbff762b8a6d56a576572769fc166bd76f5188bd5f6",
+      "bytes": 66932
+    },
+    {
+      "filename": "rule-3.2.105.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.2.105.htm",
+      "accessed_utc": "2026-09-13T10:20:26.300430+00:00",
+      "sha256": "d2536729cd77e9955aef560cb94de57374d49133770fd80e32b5555d31d99e6a",
+      "bytes": 6051
+    },
+    {
+      "filename": "rule-3.2.106.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.2.106.htm",
+      "accessed_utc": "2026-09-13T10:20:27.631071+00:00",
+      "sha256": "31a0905fc3f6632a608a0a192a36043942e13ffa436311c80c4fa454e17c722a",
+      "bytes": 8314
+    },
+    {
+      "filename": "rule-3.2.107.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.2.107.htm",
+      "accessed_utc": "2026-09-13T09:38:18.732653+00:00",
+      "sha256": "1c5aec7355addc948773837758f5cb629449984d3e39f103fbe50a955aff484a",
+      "bytes": 7834
+    },
+    {
+      "filename": "rule-3.2.108.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.2.108.htm",
+      "accessed_utc": "2026-09-13T10:46:33.751142+00:00",
+      "sha256": "d1ddaaeec8e8cf922e3bdcd2e859c0055ce9c96a2a09ce2f34c38b3945032608",
+      "bytes": 16093
+    },
+    {
+      "filename": "rule-3.2.109.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.2.109.htm",
+      "accessed_utc": "2026-09-13T10:46:35.187469+00:00",
+      "sha256": "af6b70b2ddf14609a97643e5d5750f81d5603ed2d87acb3c001ca9ba8e41d227",
+      "bytes": 19805
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/results/current_base_assignments.csv": "2be8e3b12fcd62c85dfc091f5f5b4dd1f1f04c026e29aca071be499b5311469c",
+    "analysis/generativity/vaidika_krt_operations.json": "e29b7226471a7381d5b59ea189e0341c463e3a00e535739b9f0ff11e8d59e31c",
+    "analysis/generativity/results/vaidika_krt_classification.json": "a60fa67e3181c29c1440bd95e16ba75b9761f6aa63ecd4660f2e2b9557437aaa",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_vaidika_direct_ledger.py": "314ede19e85188687b23f82078de3ba9834677577c02b95d55c8d526adf2056d"
+  },
+  "publication_status": "research_subtotal_only_not_deployed"
+}

@@ -1,0 +1,9 @@
+sample_id,display,stem_slp1,constructor,linga,source_file,source_id_field,source_word_meaning_id,source_form_field,expected_citation_slp1
+gamana,"गमनम् (gamanam), going",gamana,basic,Napumsaka,krdanta_ledger.csv,derived_word_meaning_id,7a90db603ab51397148f,output_forms_slp1,gamanam
+kartr,"कर्ता (kartā), doer",kartf,basic,Pum,krdanta_ledger.csv,derived_word_meaning_id,ebf3acad8cac4eb32dea,output_forms_slp1,kartA
+mitratva,"मित्रत्वम् (mitratvam), friendship",mitratva,basic,Napumsaka,taddhita_ledger.csv.gz,derived_word_meaning_id,c4dfd65d6035bf5fd9af,output_forms_slp1,mitratvam
+kaunteya,"कौन्तेयः (Kaunteyaḥ), a son or descendant of Kuntī",kOnteya,basic,Pum,taddhita_ledger.csv.gz,derived_word_meaning_id,b829ae0a686f4e53566a,output_forms_slp1,kOnteyaH
+kartri,"कर्त्री (kartrī), female doer",kartrI,nyap,Stri,stri_generalization_ledger.csv.gz,generated_word_meaning_id,14e1dfa2790306ebe3bb,generated_forms_slp1,kartrI
+ajnana,"अज्ञानम् (ajñānam), absence of knowledge",ajYAna,basic,Napumsaka,nan_ledger.csv.gz,derived_word_meaning_id,43acdd0070393388d0f8,output_forms_slp1,ajYAnam
+mahapurusha,"महापुरुषः (mahāpuruṣaḥ), a great person",mahApuruza,basic,Pum,samasa_ledger.csv,generated_word_meaning_id,f2d107d0d66e1f1f,output_forms_slp1,mahApuruzaH
+mahapurushatva,"महापुरुषत्वम् (mahāpuruṣatvam), the state of being a great person",mahApuruzatva,basic,Napumsaka,compound_stack_ledger.csv,derived_word_meaning_id,64a320b049c25388fbd0,output_forms_slp1,mahApuruzatvam

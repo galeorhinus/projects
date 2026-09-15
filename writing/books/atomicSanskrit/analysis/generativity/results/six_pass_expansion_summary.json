@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-13",
+  "scope": "Six completed bounded expansion passes following the reconciled 2,634 original dhatu meanings; inflection remains separate.",
+  "layers": [
+    {
+      "label": "Original धातु meanings and one सनादि operation",
+      "word_meanings": 15156
+    },
+    {
+      "label": "One उपसर्गः from original धातु meanings",
+      "word_meanings": 52567
+    },
+    {
+      "label": "One उपसर्गः plus one सनादि operation",
+      "word_meanings": 250040
+    },
+    {
+      "label": "True चरादिगण causatives",
+      "word_meanings": 522
+    },
+    {
+      "label": "Exactly two ordered उपसर्गाः",
+      "word_meanings": 1051340
+    },
+    {
+      "label": "Bounded कृदन्त formations from original धातु meanings",
+      "word_meanings": 29996
+    }
+  ],
+  "bounded_word_meaning_subtotal": 1399621,
+  "not_a_complete_sanskrit_vocabulary_total": true,
+  "remaining_major_layers": [
+    "three or more upasargas",
+    "additional sanadi orderings and depths",
+    "krdantas from prefixed and sanadi-derived verbal inputs",
+    "laukika avyayas",
+    "Vedic-only krt formations",
+    "root- and construction-conditioned krt formations",
+    "namadhatus from a bounded nominal inventory",
+    "taddhitantas, feminine formations, compounds, and other nominal derivations",
+    "tin and sup inflection, reported separately from word-meanings"
+  ],
+  "publication_status": "research_subtotal_only_not_deployed",
+  "inputs": {
+    "analysis/generativity/results/verbal_derivation_summary.json": "019c347c35ee5a0c31b405f466ec080e28f4e455b68d5f3d7b9a7021b8c18a27",
+    "analysis/generativity/results/upasarga_generation_summary.json": "7f947c2324717c352e70783593045576f165a1f1d12f118a86007d82f3054d06",
+    "analysis/generativity/results/upasarga_sanadi_summary.json": "6615d370302ba3dd879d72bb65f8d84c0a0a5a4abc23787743eb21519ff0559d",
+    "analysis/generativity/results/curadi_causative_summary.json": "57f639fa0ab7a673160316d88dcfa37cb710d0a9e30bc74ed30e3ac147c78e7d",
+    "analysis/generativity/results/two_upasarga_summary.json": "e5973890dd508535787df4cc7ead390a934888f83969044e7877449d7fab0e61",
+    "analysis/generativity/results/krt_classification.json": "c374622022b522c364c9f83de588592743f4501aadca7f1303457655fef1eea3",
+    "analysis/generativity/results/krdanta_summary.json": "0f7724a25f820207d9b0f7049d3444342588dafdb19f01a2e8a78cc08b87b232"
+  }
+}

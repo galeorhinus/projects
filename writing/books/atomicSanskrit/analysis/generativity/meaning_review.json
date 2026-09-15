@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-12",
+  "baseline": {"source_meaning_assignments": 2632, "unresolved_entries": 38},
+  "previous_pass": {"source_meaning_assignments": 2712, "adjusted_assignments": 2710, "resolved_entries": 28, "open_entries": 10},
+  "variant_policy": "Count each distinct word-meaning once across the recorded readings. Keep the attribution of additional meanings. A union of readings is a research inventory, not a claim that every commentator accepted every meaning. Qualified uses and unenumerated remainders remain separate.",
+  "description": "Source-entry-specific interpretation decisions. These settle the listed glosses, not every fine-grained lexical sense or all derivational eligibility. Original source wording remains unchanged.",
+  "decisions": [
+    {"id":"MR01","codes":["01.0006","01.0007"],"units":["yAcYAyAm","upatApe","ESvarye","ASizi"],"sources":["dhatu-mA6.html"],"anchor":"याञ्चा,उपताप,ऐश्वर्या,आशीःषु","decision":"Four meanings: requesting, affliction, lordship, and blessing. The commentary treats both citations together. Do not split the word for blessing further.","eligibility":"The commentary distinguishes pada use according to meaning; preserve that condition for generation."},
+    {"id":"MR02","codes":["01.0050"],"units":["SAsane","mANgalye"],"sources":["dhatu-mA37.html"],"anchor":"शास्त्रं शासनमिति","decision":"Two descriptions: instruction and auspicious action. Shasana explains shastra here; the parenthesis is not a third sense."},
+    {"id":"MR03","codes":["01.0062"],"units":["dandaSUka-kriyAyAm"],"sources":["dhatu-mA48.html"],"anchor":"दन्दशूककर्तृका क्रिया","decision":"One qualified action associated with a habitual biter. Preserve the qualification; the snake-biting parenthesis is not an additional independent meaning."},
+    {"id":"MR04","codes":["01.0212","01.0213"],"units":["gatO","kOwilye","alpIBAve"],"sources":["dhatu-mA105.html"],"anchor":"गतौ कौटिल्ये द्रव्याल्पत्वे चेति क्षीरस्वामी","decision":"Three meanings in the reading attributed to Kshirasvamin: movement, crookedness, and diminution. The commentary separately records the two-member reading. Retain that provenance rather than inferring the count from the dual ending."},
+    {"id":"MR05","codes":["01.0492"],"units":["CAdane"],"sources":["dhatu-mA265.html","dhatu-concordance-gana.html"],"anchor":"कुबि छादने","decision":"Count one covering description. Madhaviya gives chadana; the concordance gives acchadana for the same entry. There is no separate meaning established merely by the added prefix in the gloss."},
+    {"id":"MR06","codes":["01.0553"],"units":["dAne","gatO","rakzaRe","hiMsAyAm","AdAne"],"sources":["dhatu-mA292.html"],"anchor":"दान,गति,रक्षण,हिंसा,आदानेषु","decision":"Five meanings are separately enumerated, including giving and taking. The final adana is not another occurrence of dana."},
+    {"id":"MR07","codes":["01.0684"],"units":["rakzaRe","gatO","kAntO","prItO","tfptO","avagame","praveSe","SravaRe","svAmyarTe","yAcane","kriyAyAm","icCAyAm","dIptO","avAptO","AliNgane","hiMsAyAm","dAne","BAge","vfdDO"],"sources":["dhatu-mA360.html"],"anchor":"रक्षण,गति,कान्ति,प्रीति,तृप्ति","decision":"Nineteen source-listed meanings. Svamyartha is one member, not svamya plus artha. This resolves segmentation; relationships among the broad senses still belong to lexical review."},
+    {"id":"MR08","codes":["01.0690"],"units":["BikzAyAm","alABe","lABe"],"sources":["dhatu-mA365.html"],"anchor":"भिक्षायाम्,अलाभे,लाभे च","decision":"The commentary separates begging, non-attainment, and attainment. The source does not treat the whole phrase as a single qualification of begging."},
+    {"id":"MR09","codes":["01.0693"],"units":["mORqye","ijyAyAm","upanayane","niyame","vratAdeSe"],"sources":["dhatu-mA368.html"],"anchor":"मौण्ड्ये, इज्या, उपनयन,नियम,व्रतादेशेषु","decision":"Five members. Vratadesha remains one member; do not split every noun inside the compound."},
+    {"id":"MR10","codes":["01.1018","01.1019"],"units":["gatO","jYAne","cintAyAm","niSAmane","vAditragrahaRe"],"sources":["dhatu-mA549.html"],"anchor":"वादित्रग्रहणं नाम वादित्रस्य वाद्यभाण्डस्य वादनार्थं ग्रहणमिति","decision":"Five meanings, not six. The commentary explicitly joins vaditra and grahana: taking up a musical instrument to play it. It also records the dental-n citation as a reading; the identity relationship between the two citations remains open."},
+    {"id":"MR11","codes":["01.1075"],"units":["ganDopAdAne"],"sources":["dhatu-mA586.html"],"anchor":"घ्रा गन्धोपादाने","decision":"One smelling description. Ghrana explains the same action rather than establishing an additional sense."},
+    {"id":"MR12","codes":["01.1096","01.1097"],"units":["aBiBave"],"sources":["dhatu-mA603.html"],"anchor":"अभिभवो न्यूनीकरणम्","decision":"Keep the unprefixed abhibhava description as one assignment. The commentary illustrates nyunibhava with para-jayate; do not add that prefixed reading as a second unprefixed-base meaning.","eligibility":"Review para-jayate under prefix-conditioned meanings."},
+    {"id":"MR13","codes":["01.1150"],"units":["tejane"],"sources":["dhatu-mA645.html"],"anchor":"शानेर्निशान","decision":"One sharpening description, with nishana explaining the relevant action rather than adding a second count.","eligibility":"The commentary calls this entry nitya-sananta. Do not automatically treat a san derivation as creating another base from a simple productive input."},
+    {"id":"MR14","codes":["02.0049"],"units":["kutsite gamane"],"sources":["dhatu-mA704.html"],"anchor":"कुत्सितगतिः पलायनं स्वापश्चेति","decision":"The heading is a qualified movement description, not censure plus movement. Retain one broad assignment here; the commentary discusses flight and sleep and says sleep is generally ni-prefixed. Separate those readings in prefix-aware lexical work.","eligibility":"Sleep reading is generally ni-prefixed; no automatic new unprefixed sense."},
+    {"id":"MR15","codes":["04.0023","04.0024"],"units":["tfptO"],"sources":["dhatu-mA773.html"],"anchor":"चक्यर्थस्तृप्तिरिति","decision":"The cross-reference is explicitly explained as satisfaction. The commentary records the two-entry reading, while disputing the inclusion of sah in this class; preserve the entry and its provenance flag.","eligibility":"The sah entry is disputed among the cited grammatical traditions; select scope before full generation."},
+    {"id":"MR16","codes":["04.0035"],"units":["varaRe"],"sources":["dhatu-mA783.html"],"anchor":"व्री वरणे इति क्र्यादौ","decision":"Resolve the reference to vrnoti as varana, choosing. Do not treat the cross-reference phrase as an additional meaning."},
+    {"id":"MR17","codes":["04.0047"],"units":["gatitvaraRe","hiMsane"],"sources":["dhatu-mA795.html"],"anchor":"गतित्वरण,हिंसनयोः","decision":"Two meanings: hastening movement and harming. Gati-tvarana is a single qualified action here, which explains the dual ending."},
+    {"id":"MR18","codes":["10.0273"],"units":["snehane","Cedane","apaharaRe"],"sources":["dhatu-mA1313.html"],"anchor":"स्नेहन,च्छेदा,अपहरणेषु","decision":"Three members in the main reading: affection, cutting, and removal. The commentary also records a shorter alternative reading; do not add that list to this one."},
+    {"id":"MR19","codes":["10.0355"],"units":["sandIpane"],"sources":["dhatu-kRi1355.html"],"anchor":"तृप दृप संदीपने","decision":"One kindling or intensifying description. Dipana and sandipana do not establish two independent meanings for this entry."},
+    {"id":"MR20","codes":["10.0368"],"units":["gatO"],"sources":["dhatu-mA1347.html"],"anchor":"पद्यर्थो गतिः","decision":"Pad's meaning is explicitly glossed as movement. The entry is headed anga-sad, so the meaning belongs to the specified a-prefixed use.","eligibility":"Requires AN prefix in this source entry; not an unrestricted bare-base input."},
+    {"id":"MR21","codes":["10.0475"],"units":["suKakriyAyAm"],"sources":["dhatu-mA1431.html"],"anchor":"तच्छब्देन सुखदुःखे प्रातिपदिकार्थौ निर्द्दिश्येते","decision":"That action points to the nominal meaning sukha: making happy. This is not the same meaning as the adjacent duhkha entry.","eligibility":"Nominal-derived input; avoid recounting the same formation in the noun-to-verb stage."},
+    {"id":"MR22","codes":["10.0476"],"units":["duHKakriyAyAm"],"sources":["dhatu-mA1431.html"],"anchor":"तच्छब्देन सुखदुःखे प्रातिपदिकार्थौ निर्द्दिश्येते","decision":"That action points to the nominal meaning duhkha: causing distress. The shared shorthand does not make sukha and duhkha the same meaning.","eligibility":"Nominal-derived input; avoid recounting the same formation in the noun-to-verb stage."},
+    {"id":"MR23","codes":["10.0484"],"units":["varRakriyAyAm","vistAre","guRavacane"],"sources":["dhatu-mA1438.html"],"anchor":"वर्णक्रिया,विस्तार,गुणवचनेषु","decision":"Three meanings: applying colour, elaborating, and describing qualities or praising. The commentary supplies separate examples for the three uses.","eligibility":"Nominal-derived input; coordinate with the noun-to-verb inventory."},
+    {
+      "id":"MR24", "codes":["01.0365"], "units":["mardane"],
+      "sources":["dhatupatha-sanskritdocuments.html"], "anchor":"१.३६५ प्रुड मर्दने प्रमर्दने",
+      "completeness":"partial",
+      "decision":"Admit one broad crushing/rubbing meaning from the base-patha entry for prud itself. Do not add a second meaning merely for vimardana/pramardana. The previously inspected mut commentary is not evidence for this citation.",
+      "remaining":"Locate commentary on prud to determine whether the second description adds a distinct meaning. The two transcriptions differ (vimardana versus pramardana); the one admitted assignment does not settle that difference.",
+      "unit_evidence":{
+        "mardane":{"source":"dhatupatha-sanskritdocuments.html","anchor":"१.३६५ प्रुड मर्दने प्रमर्दने","reading":"Base patha; one broad meaning admitted, second description unresolved."}
+      }
+    },
+    {
+      "id":"MR25", "codes":["01.1158"], "units":["bIjasantAne","garBADAne","Cedane"],
+      "sources":["dhatu-mA653.html","dhatu-kRi677.html","dhatu-XA691.html"], "anchor":"अयं गर्भाधानेऽपि दृश्यते",
+      "completeness":"partial",
+      "decision":"Admit sowing, impregnation, and cutting. The commentary explains bija-santana as scattering seed in a field and gives separate pregnancy and hair-cutting examples. Shaving is included in the cutting assignment, not added as another word-meaning here.",
+      "remaining":"The pinned inventory also names rubbing and thread-making and combines bija/tantu descriptions. The three inspected commentaries do not locate those additions. Keep them in the original gloss and seek their source; do not claim that this three-meaning subtotal exhausts vap.",
+      "unit_evidence":{
+        "bIjasantAne":{"source":"dhatu-mA653.html","anchor":"बीजसन्तानं क्षेत्रे बीजविकरणम्","reading":"Main meaning, explained as scattering seed in a field."},
+        "garBADAne":{"source":"dhatu-mA653.html","anchor":"अयं गर्भाधानेऽपि दृश्यते","reading":"Additional use explicitly recorded in the commentary."},
+        "Cedane":{"source":"dhatu-mA653.html","anchor":"छेदनेऽपि दृश्यते केशान्वपतीति","reading":"Additional cutting use, illustrated with hair."}
+      }
+    },
+    {
+      "id":"MR26", "codes":["02.0043","02.0072"], "units":["gatO","prajanane","kAntO","asane","KAdane","vyAptO"],
+      "sources":["dhatu-kRi720.html","dhatu-mA698.html","dhatu-XA737.html","dhatu-kRi749.html","dhatu-mA727.html","dhatu-XA766.html"], "anchor":"अशनं व्याप्तिरित्येके",
+      "decision":"Five meanings occur in the main vi heading: movement, conception, desire, throwing, and eating. Kshiratarangini explicitly records an alternative ashana reading as pervasion, supplying the sixth meaning. Vevi explicitly refers to vi's meanings; retain the two lexical inputs separately pending identity review. Their shared list does not make them one word.",
+      "eligibility":"The vevi entry 02.0072 is described as Vedic-only. The shared review does not apply that restriction to vi 02.0043. The pervasion assignment retains its alternative-reading attribution; do not imply agreement across all witnesses.",
+      "unit_evidence":{
+        "gatO":{"source":"dhatu-kRi720.html","anchor":"वी गति,प्रजन,कान्ति,असन,खादनेषु","reading":"Main vi heading; vevi inherits the list through the explicit cross-reference."},
+        "prajanane":{"source":"dhatu-kRi720.html","anchor":"प्रजनः प्रथमगर्भग्रहणम्","reading":"Main reading, explained as initial conception."},
+        "kAntO":{"source":"dhatu-kRi720.html","anchor":"वी गति,प्रजन,कान्ति,असन,खादनेषु","reading":"Main heading's kanti member."},
+        "asane":{"source":"dhatu-kRi720.html","anchor":"असनं क्षेपः","reading":"Main reading: throwing, not eating."},
+        "KAdane":{"source":"dhatu-kRi720.html","anchor":"वी गति,प्रजन,कान्ति,असन,खादनेषु","reading":"Main heading's eating member."},
+        "vyAptO":{"source":"dhatu-kRi720.html","anchor":"अशनं व्याप्तिरित्येके","reading":"Alternative reading attributed to some; not inferred from the separate i entry."}
+      },
+      "cross_reference":{"code":"02.0072","source":"dhatu-kRi749.html","anchor":"वी गत्यादौ (236), तत्तुल्याऽर्थे","decision":"Vevi is assigned the meanings of vi. Source XA766 independently records the Vedic-only restriction."}
+    },
+    {
+      "id":"MR27", "codes":["03.0001"], "units":["dAne","adane","AdAne","prIRane"],
+      "sources":["dhatu-mA732.html","dhatu-kRi754.html","dhatu-XA770.html"], "anchor":"अयं प्रीणनार्थेऽपीति भाष्ये",
+      "decision":"Four recorded meanings: offering/giving, eating, taking, and satisfying. Adana (taking) appears in alternative readings and is counted once. Adana with short initial a is eating, a different meaning. Prinana is explicitly discussed at the end of the commentary; it is not an unsupported addition. Offering and its explanation as depositing an oblation are one assignment here.",
+      "unit_evidence":{
+        "dAne":{"source":"dhatu-kRi754.html","anchor":"दानमत्र हविःप्रक्षेपः","reading":"Main reading, explained as depositing an oblation."},
+        "adane":{"source":"dhatu-kRi754.html","anchor":"अदनं भक्षणम्","reading":"Main reading explicitly explained as eating."},
+        "AdAne":{"source":"dhatu-mA732.html","anchor":"दानादानयोरित्यन्ये","reading":"Alternative reading: taking; repeated mention is not another count."},
+        "prIRane":{"source":"dhatu-mA732.html","anchor":"अयं प्रीणनार्थेऽपीति भाष्ये","reading":"Additional satisfying use, attributed to the Bhashya and illustrated in the commentary."}
+      }
+    },
+    {
+      "id":"MR28", "codes":["04.0077"], "units":["vfdDO","sidDO","dEvaparyAlocane"],
+      "sources":["dhatu-mA821.html","dhatu-kRi840.html"], "anchor":"अत्र हि सिद्ध्यतीत्यर्थः",
+      "completeness":"partial",
+      "decision":"Admit growth, accomplishment, and consideration of someone's fortune. Madhaviya explicitly discusses the latter two beyond the heading's growth meaning. Its droha example uses apa-radh and vi-radh, so that meaning is reserved for the prefix stage rather than counted as another bare-base meaning.",
+      "remaining":"The pinned gloss ends in adi and does not enumerate the rest. Further meanings are not assigned a number. Retain the disagreement with Kshiratarangini about the fourth-class use beyond growth for the eligibility stage.",
+      "eligibility":"Droha is evidenced through apa-/vi-prefixed uses here. Madhaviya and Kshiratarangini differ on class restrictions; a union of documented meanings is not unrestricted permission to generate every class form.",
+      "unit_evidence":{
+        "vfdDO":{"source":"dhatu-mA821.html","anchor":"अकर्मकाद्वृद्धावेव","reading":"Main heading."},
+        "sidDO":{"source":"dhatu-mA821.html","anchor":"अत्र हि सिद्ध्यतीत्यर्थः","reading":"Commentary's unprefixed rice-cooking/completion example."},
+        "dEvaparyAlocane":{"source":"dhatu-mA821.html","anchor":"देवदत्ताय राध्यतीति दैवपर्यालोचने","reading":"Additional unprefixed use discussed in Madhaviya."}
+      }
+    },
+    {
+      "id":"MR29", "codes":["05.0014"], "units":["prItO","pAlane","jIvane"],
+      "sources":["dhatu-mA894.html"], "anchor":"चलनं जीवनमिति स्वामी",
+      "decision":"Three documented candidate meanings, not four: affection, protection, and living. Priti is shared by the two readings and counts once. The alternative calana is explicitly explained as jivana; those two descriptions count once, not as movement plus living. The two readings retain their attribution.",
+      "eligibility":"The commentary records Vedic-only treatment of sprnoti; retain that restriction for the initial laukika run.",
+      "unit_evidence":{
+        "prItO":{"source":"dhatu-mA894.html","anchor":"स्पृ प्रीति,पालनयोः प्रीतिचलनयोरित्यन्ये","reading":"Shared by the main and alternative pairs; counted once."},
+        "pAlane":{"source":"dhatu-mA894.html","anchor":"स्पृ प्रीति,पालनयोः","reading":"Main reading's second member."},
+        "jIvane":{"source":"dhatu-mA894.html","anchor":"चलनं जीवनमिति स्वामी","reading":"Alternative pair's second member, explained as living by Svamin."}
+      }
+    },
+    {
+      "id":"MR30", "codes":["10.0429"], "units":["prItO","darSane","sevane"],
+      "sources":["dhatu-mA1397.html"], "anchor":"सभाज प्रीति,दर्शनयोः प्रीतिसेवनयोरित्यन्ये",
+      "decision":"Three documented candidate meanings: affection, seeing, and attending/serving. The shared priti contributes once; darshana and sevana retain their separate main/alternative-reading provenance. The source presents them as different descriptions and does not equate them. Finer contextual sense review remains separate from this list-level count.",
+      "unit_evidence":{
+        "prItO":{"source":"dhatu-mA1397.html","anchor":"सभाज प्रीति,दर्शनयोः प्रीतिसेवनयोरित्यन्ये","reading":"Shared by both pairs; counted once."},
+        "darSane":{"source":"dhatu-mA1397.html","anchor":"सभाज प्रीति,दर्शनयोः","reading":"Main reading's second member."},
+        "sevane":{"source":"dhatu-mA1397.html","anchor":"प्रीतिसेवनयोरित्यन्ये","reading":"Alternative reading's second member."}
+      }
+    }
+  ],
+  "open_reviews": [
+    {"id":"MR31","codes":["01.0900"],"sources":["dhatu-mA487.html"],"anchor":"अनेकार्थत्वात्","disposition":"unenumerated","decision":"The commentary records general action and many meanings as explanations of the unspecified entry. Neither supplies a list of distinct lexical meanings. Keep the entry outside the numerical subtotal, with a blank count rather than zero."},
+    {"id":"MR32","codes":["01.0951"],"sources":["dhatu-mA493.html"],"anchor":"वनु","disposition":"unenumerated","decision":"The commentary refers back to kage and distinguishes this van entry from other same-looking entries. It supplies no finite list of meanings. Keep this entry outside the numerical subtotal; do not import the meanings of another van merely from shared spelling."}
+  ],
+  "identity_decisions": [
+    {"id":"ID01","codes":["01.0916","01.0965"],"canonical_code":"01.0965","meaning":"dIptO","sources":["dhatu-mA494.html","dhatu-mA511.html"],"anchor":"तस्य मित्वार्थोयनुवादः","decision":"The commentary explicitly calls the first jval entry a repetition for mit status. Count the shared shining meaning once, while retaining both source records and their grammatical information."},
+    {"id":"ID02","codes":["01.0068","01.0419"],"canonical_code":"01.0068","meaning":"vadanEkadeSe","sources":["dhatu-mA52.html","dhatu-mA232.html"],"anchor":"दन्त्यादिष्वमुं पठित्वोक्तम्","decision":"The later gadi entry refers back to the same entry in the earlier dental section. Count this repeated entry-and-meaning once, retaining both locators."}
+  ]
+}

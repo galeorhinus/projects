@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-15",
+  "passes_completed": 6,
+  "starting_dhatu_meanings": 2634,
+  "bounded_lexical_word_meanings": 12846458,
+  "laukika_lexical_word_meanings": 12633060,
+  "vaidika_lexical_word_meanings": 213398,
+  "integrated_laukika_grammatical_cells": 602707133,
+  "publication_endpoint_unit": "semantic_grammatical_cell",
+  "manuscript_targets_audited": 3,
+  "manuscript_proposals_prepared": 3,
+  "manuscript_modified": true,
+  "full_generative_test_suite": {
+    "tests_run": 276,
+    "status": "passed",
+    "environment": "build/generativity-venv"
+  },
+  "remaining_decision": null,
+  "inputs": {
+    "analysis/generativity/results/integrated_grammatical_capacity.json": "b99d5cee146a91c52f2ae0537d5f88503b7ffa331d3ef81da45b309a4a1a989d",
+    "analysis/generativity/results/vaidika_capacity_boundary.json": "65d63060b7450b3f84b3bc3fd6e40a9861faa8de763d78fa99cd0045fe5d9f05",
+    "analysis/generativity/results/publication_capacity_cascade.json": "d7f067ce51ce341526692622d96a8b399305f2d8b881258bea872fc054e4be84",
+    "analysis/generativity/results/manuscript_generativity_claim_audit.json": "e6915d5f7cc50628524aa57f976cf30fc650d1bf4c01cefd76074da109cb90ad",
+    "analysis/generativity/results/generativity_manuscript_proposal.json": "6cc4a6ddb51afa9c9194c4ad0e2fd32a06f58a7ad72b3889789df405498c7b5b"
+  }
+}

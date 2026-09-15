@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-13",
+  "eligible_candidate_relations": 3176352,
+  "admitted_namadhatu_word_meanings": 3176352,
+  "not_admitted_total": 0,
+  "admitted_by_operation": {
+    "self_desire_kyac": 794078,
+    "object_comparison_kyac": 794078,
+    "self_desire_kamyac": 794078,
+    "agent_comparison_kyang": 794078,
+    "conditioned_source_relations": 40
+  },
+  "not_admitted_by_operation": {},
+  "engine_requests_after_form_cache": {
+    "kyac": 420659,
+    "kAmyac": 420659,
+    "kyaN": 420659
+  },
+  "generated_output_variants_by_operation": {
+    "self_desire_kyac": 863640,
+    "object_comparison_kyac": 863640,
+    "self_desire_kamyac": 863706,
+    "agent_comparison_kyang": 863663,
+    "conditioned_source_relations": 43
+  },
+  "source_present_form_verifications": 40,
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "form_status": "Every admitted row is a derived verbal base meaning. No finite tinanta form is counted in this ledger.",
+  "inputs": {
+    "analysis/generativity/results/nominal_input_inventory.csv.gz": "e537b66b74d98626abb5772e7b4ac85340d21df58cfc7a34c727e529e0a1340e",
+    "analysis/generativity/namadhatu_operations.json": "55f819663b905c291a25f9ae4fe4aaf83c669a37de85e0e1eea13ccda1e54657",
+    "analysis/generativity/results/namadhatu_eligibility.json": "6caf9fb7ef423b89a77fab600f298e7fd299097e3d69aa2ab9b5317876702a0a",
+    "analysis/generativity/results/namadhatu_source_examples.csv": "06df0a88b08bc3d689750c9a0f53f5cc8ab50b816d3704022f1dbba60ee27dce",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "working/40_reference/sources/archive/documents/generativity-pilot/namadhatu_manifest.json": "4e68d765e957aea0eaf20b21204912fba00535260561e6cc3d6deaa9711de998",
+    "analysis/generativity/build_namadhatu_ledger.py": "05b27536ca8a761a27433b6e722fe8a687e6b633ecd7c6df65b59558d30ffeaa"
+  },
+  "publication_status": "bounded_research_subtotal_not_deployed"
+}

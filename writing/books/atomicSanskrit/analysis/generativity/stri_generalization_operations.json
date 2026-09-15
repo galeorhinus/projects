@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-14",
+  "scope": "Lexical feminine counterparts of agent-denoting nominals already admitted to the first laukika nominal inventory.",
+  "selected_operations": [
+    {
+      "source_operation_id": "agent_nvul",
+      "source_suffix": "Rvul",
+      "semantic_class": "agent_noun",
+      "feminine_relation": "a female agent who performs the source action",
+      "rule_refs": ["4.1.3", "4.1.4"]
+    },
+    {
+      "source_operation_id": "agent_trc",
+      "source_suffix": "tfc",
+      "semantic_class": "agent_noun",
+      "feminine_relation": "a female agent who performs the source action",
+      "rule_refs": ["4.1.3", "4.1.5"]
+    },
+    {
+      "source_operation_id": "agent_ac",
+      "source_suffix": "ac",
+      "semantic_class": "agent_noun",
+      "feminine_relation": "a female agent characterized by performing the source action",
+      "rule_refs": ["4.1.3", "4.1.4"]
+    },
+    {
+      "source_operation_id": "blessed_agent_vun",
+      "source_suffix": "vun",
+      "semantic_class": "agent_noun_in_blessing",
+      "feminine_relation": "a wished-for female agent who performs the source action",
+      "rule_refs": ["4.1.3", "4.1.4"]
+    }
+  ],
+  "deferred_classes": [
+    {
+      "class": "participles_and_verbal_adjectives",
+      "examples": ["present_satr", "present_sanac", "completed_agent_ktavatu", "completed_kta", "obligation_tavya", "obligation_aniyar", "obligation_yat", "obligation_nyat", "obligation_kyap"],
+      "reason": "Their feminine forms normally mark agreement with a feminine referent rather than a separately counted lexical relation."
+    },
+    {
+      "class": "non_agent_nominals",
+      "examples": ["action", "instrument", "location", "quality", "state", "possession"],
+      "reason": "The present inventory does not establish a productive female-counterpart meaning for these classes."
+    },
+    {
+      "class": "surface_only_nominals",
+      "examples": ["independently inherited nouns", "later taddhita outputs", "namadhatu outputs", "nan compounds", "comparatives", "superlatives"],
+      "reason": "Their source construction does not yet carry a person-denoting semantic classification suitable for this operation."
+    }
+  ]
+}

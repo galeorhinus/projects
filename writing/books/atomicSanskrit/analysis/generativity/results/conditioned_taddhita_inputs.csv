@@ -1,0 +1,1011 @@
+conditioned_candidate_id,input_form_slp1,semantic_context,semantic_description,taddhita_source_variant,expected_output_forms_slp1,expected_output_variant_count,rule_refs,source_locators,collapsed_duplicate_assertions,input_status
+c558dbca0a42cebba1cb,AQaka,SambhavatiAharatiPacati,"What is capable of this, or holds this, or cooks this. (5.152)",Ka,AQakIna,1,5.1.53,kashika_5_1.rs:361,0,source_conditioned_relation_not_independent_nominal_count
+20db120478644e4da625,AQaka,SambhavatiAharatiPacati,"What is capable of this, or holds this, or cooks this. (5.152)",Wak,AQakika,1,5.1.53,kashika_5_1.rs:362,0,source_conditioned_relation_not_independent_nominal_count
+4b5cb080dcc3f07d5d5e,ASitaNgu,Svarthe,,Ka,ASitaNgavIna,1,5.4.7,kashika_5_4.rs:32,0,source_conditioned_relation_not_independent_nominal_count
+92866324368293caf11b,ASvayujI,TatraSambhute,Where this was adapted. (4.3.41),vuY,ASvayujaka,1,4.3.45,kashika_4_3.rs:183,0,source_conditioned_relation_not_independent_nominal_count
+f0eb2d16231822d2fe60,Acita,SambhavatiAharatiPacati,"What is capable of this, or holds this, or cooks this. (5.152)",Ka,AcitIna,1,5.1.53,kashika_5_1.rs:364,0,source_conditioned_relation_not_independent_nominal_count
+b1dd15b46164d2cbbf55,Acita,SambhavatiAharatiPacati,"What is capable of this, or holds this, or cooks this. (5.152)",Wak,Acitika,1,5.1.53,kashika_5_1.rs:365,0,source_conditioned_relation_not_independent_nominal_count
+7408d70ff146093f7cea,Akara,Avakraya,What is taxed. (4.4.50),Wak,Akarika,1,4.4.50,kashika_4_4.rs:358,0,source_conditioned_relation_not_independent_nominal_count
+eeef7d17ea0579b5ac70,Akara,Niyuktam,Where one is appointed. (4.4.69),Wak,Akarika,1,4.4.69,kashika_4_4.rs:473,0,source_conditioned_relation_not_independent_nominal_count
+25b3644c434d547d327f,Akara,TasyaDharmyam,One who has this custom. (4.4.47),Wak,Akarika,1,4.4.47,kashika_4_4.rs:333,0,source_conditioned_relation_not_independent_nominal_count
+b8f0e193417536f4a985,Akarza,TatraKushala,Skilled in this. (5.2.63),kan,Akarzaka,1,5.2.64,kashika_5_2.rs:337,0,source_conditioned_relation_not_independent_nominal_count
+4c32e23c2f5290ea5806,Akarza,TenaCarati,One who walks or eats with this. (4.4.8),zWal,Akarzika,1,4.4.9,kashika_4_4.rs:74,0,source_conditioned_relation_not_independent_nominal_count
+81b5eec38af7ce73e568,Akranda,Hanti,What one kills. (4.4.35),WaY,Akrandika,1,4.4.38,kashika_4_4.rs:272,0,source_conditioned_relation_not_independent_nominal_count
+7f859861138f1ff981be,Akranda,Hanti,What one kills. (4.4.35),Wak,Akrandika,1,4.4.38,kashika_4_4.rs:271,0,source_conditioned_relation_not_independent_nominal_count
+60143b85b2b41fac1c9c,AmbazWa,Janapada,Country. (4.1.168),YyaN,AmbazWya,1,4.1.171,kashika_4_1.rs:872,0,source_conditioned_relation_not_independent_nominal_count
+9b1c59c5e3560bff48f8,AmikzA,TasmaiHitam,One for whom this is good. (5.1.7),Ca,AmikzIya,1,5.1.4,kashika_5_1.rs:40,0,source_conditioned_relation_not_independent_nominal_count
+77700a45dd228023367e,AmikzA,TasmaiHitam,One for whom this is good. (5.1.7),yat,Amikzya,1,5.1.4,kashika_5_1.rs:39,0,source_conditioned_relation_not_independent_nominal_count
+fbe49bc74519b92b0cef,Amra,TasyaVikara,Modification of this. (4.3.134),mayaw,Amramaya,1,4.3.144,kashika_4_3.rs:477,0,source_conditioned_relation_not_independent_nominal_count
+de8028c60df4c7ed876c,Amragupta,TasyaApatyam,Descendant. (4.1.92),PiY,AmraguptAyani,1,4.1.157,kashika_4_1.rs:788,0,source_conditioned_relation_not_independent_nominal_count
+738ed6cdf6f906fe164a,ApaRa,Avakraya,What is taxed. (4.4.50),Wak,ApaRika,1,4.4.50,kashika_4_4.rs:359,0,source_conditioned_relation_not_independent_nominal_count
+28232eaadd50a1537b58,ApaRa,Niyuktam,Where one is appointed. (4.4.69),Wak,ApaRika,1,4.4.69,kashika_4_4.rs:474,0,source_conditioned_relation_not_independent_nominal_count
+75ce017d21a97b9bfbd2,ApaRa,TasyaDharmyam,One who has this custom. (4.4.47),Wak,ApaRika,1,4.4.47,kashika_4_4.rs:334,0,source_conditioned_relation_not_independent_nominal_count
+9cb803cabda2ea178c03,Aprapada,Prapnoti,Obtains. (5.2.8),Ka,AprapadIna,1,5.2.8,kashika_5_2.rs:73,0,source_conditioned_relation_not_independent_nominal_count
+9c22db3eb9f6a3f32c03,ArdrA,TatraJata,Where this was born. (4.3.25),vun,Ardraka,1,4.3.28,kashika_4_3.rs:110,0,source_conditioned_relation_not_independent_nominal_count
+a9d1670dd1a5218141a6,AsutI,TadAsyaAstiAsmin,What one has or is in. (5.2.94),valac,AsutIvala,1,5.2.112,kashika_5_2.rs:432,0,source_conditioned_relation_not_independent_nominal_count
+84be76bc0c9150a3e571,Atman,TasmaiHitam,One for whom this is good. (5.1.7),Ka,AtmanIna,1,5.1.9,kashika_5_1.rs:99,0,source_conditioned_relation_not_independent_nominal_count
+d624d087695355e59a5f,AvasaTa,Vasati,Who dwells here. (4.4.73),zWal,AvasaTika,1,4.4.74,kashika_4_4.rs:509,0,source_conditioned_relation_not_independent_nominal_count
+e61b7c7c6c1317026fb7,AyuDa,TenaJivati,One who lives with this. (4.4.12),Ca,AyuDIya,1,4.4.14,kashika_4_4.rs:110,0,source_conditioned_relation_not_independent_nominal_count
+1d7811b0c56ad35f5ce8,AyuDa,TenaJivati,One who lives with this. (4.4.12),Wan,AyuDika,1,4.4.14,kashika_4_4.rs:109,0,source_conditioned_relation_not_independent_nominal_count
+a6d4ad576f9dfec9c046,BARqAgAra,Niyuktam,Where one is appointed. (4.4.69),Wan,BARqAgArika,1,4.4.70,kashika_4_4.rs:483,0,source_conditioned_relation_not_independent_nominal_count
+d1a637a937d1c1797f79,BAga,TadAsminVrddhiAyaLabhaSulkaUpada,"In which this is an interest, rent, profit, tax, or bribe. (5.1.47)",Wan,BAgika,1,5.1.49,kashika_5_1.rs:322,0,source_conditioned_relation_not_independent_nominal_count
+b868fa2f90e7f2851eef,BAga,TadAsminVrddhiAyaLabhaSulkaUpada,"In which this is an interest, rent, profit, tax, or bribe. (5.1.47)",yat,BAgya,1,5.1.49,kashika_5_1.rs:321,0,source_conditioned_relation_not_independent_nominal_count
+0da1c380eb6dfde69b7c,BAnu,TasyaApatyam,Descendant. (4.1.92),aR,BAnava,1,4.1.92,kashika_4_1.rs:459,0,source_conditioned_relation_not_independent_nominal_count
+1fdcecfdaee293e22035,BOriki,TasyaVishayoDeshe,A domain of this. (4.2.52),viDal,BOrikiviDa,1,4.2.54,kashika_4_2.rs:242,0,source_conditioned_relation_not_independent_nominal_count
+4abe1ff0b539ac3e7457,BadradAru,TasyaVikara,Modification of this. (4.3.134),aY,BAdradArava,1,4.3.139,kashika_4_3.rs:457,0,source_conditioned_relation_not_independent_nominal_count
+f13148196109c1b4246a,Bakta,TadAsmaiDiyateNiyuktam,To whom this is given rightfully. (4.4.66),Wak,BAktika,1,4.4.68,kashika_4_4.rs:467,0,source_conditioned_relation_not_independent_nominal_count
+95de3e2e3c86d856184f,Bakta,TadAsmaiDiyateNiyuktam,To whom this is given rightfully. (4.4.66),aR,BAkta,1,4.4.68,kashika_4_4.rs:466,0,source_conditioned_relation_not_independent_nominal_count
+0c3d30b51873dada5bbc,Bakta,TatraSadhu,Skilled in this. (4.4.98),Ra,BAkta,1,4.4.100,kashika_4_4.rs:646,0,source_conditioned_relation_not_independent_nominal_count
+8d6d52b40727b485f185,Barawa,TenaHarati,One who conveys with this. (4.4.15),zWan,Barawika,1,4.4.16,kashika_4_4.rs:122,0,source_conditioned_relation_not_independent_nominal_count
+8e7ad1c96b4693276230,Barga,Gotra,Patronymic lineage. (4.1.98),PaY,BArgAyaRa,1,4.1.111,kashika_4_1.rs:575,0,source_conditioned_relation_not_independent_nominal_count
+8ba365fa829b49b0ff3c,Barga,Gotra,Patronymic lineage. (4.1.98),iY,BArgi,1,4.1.111,kashika_4_1.rs:576,0,source_conditioned_relation_not_independent_nominal_count
+070e65aaeea262036cdb,Baruja,IvePratikrtau,,Wak,BArujika,1,5.3.108,kashika_5_3.rs:385,0,source_conditioned_relation_not_independent_nominal_count
+4aa25adfb9fba4f9305d,BastrA,TenaHarati,One who conveys with this. (4.4.15),zWan,Bastrika,1,4.4.16,kashika_4_4.rs:121,0,source_conditioned_relation_not_independent_nominal_count
+362475a05cb3b13efa77,Beda,TadArhati,One deserves this. (5.1.63),Wak,BEdika,1,5.1.64,kashika_5_1.rs:396,0,source_conditioned_relation_not_independent_nominal_count
+03eb4957bdc5e17b61b3,BikzA,TasyaSamuha,A collection of this. (4.2.37),aR,BEkza,1,4.2.38,kashika_4_2.rs:147,0,source_conditioned_relation_not_independent_nominal_count
+26492d1dd915223ada8d,BrAtf,TadAsyaAstiAsmin,What one has or is in. (5.2.94),valac,BrAtfvala,1,5.2.112,kashika_5_2.rs:439,0,source_conditioned_relation_not_independent_nominal_count
+1c33632d6cf64f1f7022,BrAtf,TasyaApatyam,Descendant. (4.1.92),Ca,BrAtrIya,1,4.1.144,kashika_4_1.rs:771,0,source_conditioned_relation_not_independent_nominal_count
+b7fee78fc19ef8dcab9d,BrAtf,TasyaApatyam,Descendant. (4.1.92),vyan,BrAtfvya,1,4.1.145,kashika_4_1.rs:777,0,source_conditioned_relation_not_independent_nominal_count
+fd8a409a0aa015831322,BrAtf,TasyaApatyam,Descendant. (4.1.92),vyat,BrAtfvya,1,4.1.144,kashika_4_1.rs:772,0,source_conditioned_relation_not_independent_nominal_count
+ec0c22a47e5d40593767,BrAzwa,SamskrtamBhaksha,Food that is prepared with this vessel or medium. (4.2.16),aR,BrAzwa,1,4.2.16,kashika_4_2.rs:29,0,source_conditioned_relation_not_independent_nominal_count
+c7627c355d3b4f8d1582,BrU,TasyaApatyam,Descendant. (4.1.92),Qak,BrOveya,1,4.1.125,kashika_4_1.rs:666,0,source_conditioned_relation_not_independent_nominal_count
+6aeec6baf7218d2324b5,Bramara,TenaKrte,By whom this is made. (4.3.116),aY,BrAmara,1,4.3.119,kashika_4_3.rs:369,0,source_conditioned_relation_not_independent_nominal_count
+eb4200538eef4517df6c,BuliNgA,Janapada,Country. (4.1.168),iY,BOliNgi,1,4.1.173,kashika_4_1.rs:895,0,source_conditioned_relation_not_independent_nominal_count
+4ed415057b9b88aa550f,Cagala,TasyaApatyam,Descendant. (4.1.92),aR,CAgala,1,4.1.117,kashika_4_1.rs:600,0,source_conditioned_relation_not_independent_nominal_count
+85173ea93ddc24deb940,Cagala,TasyaApatyam,Descendant. (4.1.92),iY,CAgali,1,4.1.117,kashika_4_1.rs:601,0,source_conditioned_relation_not_independent_nominal_count
+5fa25f93c3a1bb83d2fb,Cagalin,TenaProktam,What is proclaimed by this person. (4.3.101),Qinuk,CAgaleyin,1,4.3.109,kashika_4_3.rs:344,0,source_conditioned_relation_not_independent_nominal_count
+ff8f199215313e4b25c7,Candas,Nirmita,Made of this. (4.4.93),yat,Candasya,1,4.4.93,kashika_4_4.rs:608,0,source_conditioned_relation_not_independent_nominal_count
+4d29753c6fa93f2388e0,Candas,TadAdhiteTadVeda,What one studies or knows. (4.2.59),aR,CAndasa,1,4.2.59,kashika_4_2.rs:254,0,source_conditioned_relation_not_independent_nominal_count
+69cf95127000f575dda0,Candoga,TasyaIdam,One who has this. (4.3.120),Yya,CAndogya,1,4.3.129,kashika_4_3.rs:399,0,source_conditioned_relation_not_independent_nominal_count
+ed30b7d3f37c818fb225,Catra,Shilam,One who has this habit. (4.4.61),Ra,CAtra,1,4.4.62,kashika_4_4.rs:439,0,source_conditioned_relation_not_independent_nominal_count
+d504ede2c0304d4c8a23,Ceda,TadArhati,One deserves this. (5.1.63),Wak,CEdika,1,5.1.64,kashika_5_1.rs:395,0,source_conditioned_relation_not_independent_nominal_count
+4e662c9857489d6accaa,DAra,Kutsite,Contempt. (5.3.75),kan,DAraka,1,5.3.75,kashika_5_3.rs:273,0,source_conditioned_relation_not_independent_nominal_count
+95272b21c410b72161d7,Dana,Labdha,What one has obtained. (4.4.85),yat,Danya,1,4.4.84,kashika_4_4.rs:557,0,source_conditioned_relation_not_independent_nominal_count
+5f216a2b82e236c2816b,Dana,TatraKama,A desire for which. (5.2.65),kan,Danaka,1,5.2.65,kashika_5_2.rs:343,0,source_conditioned_relation_not_independent_nominal_count
+a838957b915c8a31fc5e,DanurdaRqa,TenaJivati,One who lives with this. (4.4.12),Wak,DAnurdaRqika,1,4.4.12,kashika_4_4.rs:95,0,source_conditioned_relation_not_independent_nominal_count
+bebcdf4988ca0cc0d7f2,Danus,Praharanam,One who has this weapon. (4.4.57),Wak,DAnuzka,1,4.4.57,kashika_4_4.rs:408,0,source_conditioned_relation_not_independent_nominal_count
+5843b9489eb3c4a0a287,Darma,Anapeta,Not deviating from this. (4.4.92),yat,Darmya,1,4.4.92,kashika_4_4.rs:600,0,source_conditioned_relation_not_independent_nominal_count
+7c8b3e11dfe7dc9b048d,Darma,Carati,What one practices. (4.4.41),Wak,DArmika,1,4.4.41,kashika_4_4.rs:291,0,source_conditioned_relation_not_independent_nominal_count
+6f82f4bc74b6dbe32352,Dur,TadVahati,What one bears. (4.4.78),Qak,DOreya,1,4.4.77,kashika_4_4.rs:522,0,source_conditioned_relation_not_independent_nominal_count
+324f8e759f5875a19a9b,Dur,TadVahati,What one bears. (4.4.78),yat,Durya,1,4.4.77,kashika_4_4.rs:521,0,source_conditioned_relation_not_independent_nominal_count
+fff5cac36e1fc494309c,EzukAri,TasyaVishayoDeshe,A domain of this. (4.2.52),Baktal,EzukAriBakta,1,4.2.54,kashika_4_2.rs:245,0,source_conditioned_relation_not_independent_nominal_count
+8ffaf13c9b0f29dc8ecf,Gawa,AbhutaTadbhava,Becoming what one was not. (5.4.50),cvi,GawI,1,5.4.50,kashika_5_4.rs:156,0,source_conditioned_relation_not_independent_nominal_count
+30c50be11f8860e9a50c,Gawa,TenaTarati,One who crosses with this. (4.4.5),Wan,Gawika,1,4.4.7,kashika_4_4.rs:60,0,source_conditioned_relation_not_independent_nominal_count
+044be3a2d77244a76989,JarJara,Shilpam,One who has this art. (4.4.55),Wak,JArJarika,1,4.4.56,kashika_4_4.rs:400,0,source_conditioned_relation_not_independent_nominal_count
+74dcca1de45e5d615bb4,JarJara,Shilpam,One who has this art. (4.4.55),aR,JArJara,1,4.4.56,kashika_4_4.rs:399,0,source_conditioned_relation_not_independent_nominal_count
+923f92933344c3954c91,KArI,SambhavatiAharatiPacati,"What is capable of this, or holds this, or cooks this. (5.152)",Ikan,KArIka,1,5.1.52,kashika_5_1.rs:355,0,source_conditioned_relation_not_independent_nominal_count
+e9152b23fcbe21cab721,KArI,TasyaVapa,Sown with this. (5.1.45),Ikan,KArIka,1,5.1.45,kashika_5_1.rs:297,0,source_conditioned_relation_not_independent_nominal_count
+674cbf080dcad3782f46,KaRqikA,TasyaSamuha,A collection of this. (4.2.37),aY,KARqika,1,4.2.45,kashika_4_2.rs:196,0,source_conditioned_relation_not_independent_nominal_count
+45bee4525f91a94fbab1,KaRqika,TenaProktam,What is proclaimed by this person. (4.3.101),CaR,KARqikIya,1,4.3.102,kashika_4_3.rs:320,0,source_conditioned_relation_not_independent_nominal_count
+34f29520cf024f9d3dc2,Kadira,TasyaVikara,Modification of this. (4.3.134),aR,KAdira,1,4.3.141,kashika_4_3.rs:465,0,source_conditioned_relation_not_independent_nominal_count
+bb4359196e549fd234fa,Kadira,TasyaVikara,Modification of this. (4.3.134),aY,KAdira,1,4.3.141,kashika_4_3.rs:464,0,source_conditioned_relation_not_independent_nominal_count
+82c597d97efbf94cf210,Kala,TasmaiHitam,One for whom this is good. (5.1.7),yat,Kalya,1,5.1.7,kashika_5_1.rs:81,0,source_conditioned_relation_not_independent_nominal_count
+ade0aeefa3d1605924f7,Kala,TasyaSamuha,A collection of this. (4.2.37),ya,KalyA,1,4.2.50,kashika_4_2.rs:216,0,source_conditioned_relation_not_independent_nominal_count
+dfbfb05632d71c944347,Kara,TenaUpasikte,Sprinkled with. (4.4.26),Wak,KArika,1,4.4.26,kashika_4_4.rs:184,0,source_conditioned_relation_not_independent_nominal_count
+737c635a1d90d60ab706,OkTika,TasyaIdam,One who has this. (4.3.120),Yya,OkTikya,1,4.3.129,kashika_4_3.rs:400,0,source_conditioned_relation_not_independent_nominal_count
+662d26b0313e88e18429,Pena,TadAsyaAstiAsmin,What one has or is in. (5.2.94),ilac,Penila,1,5.2.99,kashika_5_2.rs:410,0,source_conditioned_relation_not_independent_nominal_count
+32357ec712d0d467f912,Pena,TadAsyaAstiAsmin,What one has or is in. (5.2.94),lac,Penala,1,5.2.99,kashika_5_2.rs:411,0,source_conditioned_relation_not_independent_nominal_count
+27136b5bbcb3649c9386,Pena,TadAsyaAstiAsmin,What one has or is in. (5.2.94),matup,Penavat,1,5.2.99,kashika_5_2.rs:412,0,source_conditioned_relation_not_independent_nominal_count
+f1f67f10f096d0ff4dfb,SAKA,IvePratikrtau,,yat,SAKya,1,5.3.103,kashika_5_3.rs:366,0,source_conditioned_relation_not_independent_nominal_count
+791cd1423571184bc1f0,SAka,TasyaVikara,Modification of this. (4.3.134),mayaw,SAkamaya,1,4.3.144,kashika_4_3.rs:479,0,source_conditioned_relation_not_independent_nominal_count
+bd6d7589d0a92a5629fa,SAkala,TatraJata,Where this was born. (4.3.25),WaY,SAkalika,1,4.3.25,kashika_4_3.rs:86,0,source_conditioned_relation_not_independent_nominal_count
+52fb8cf8dd0221a64086,SAlAtura,AsyaNivasa,Dwelling. (4.3.89),CaR,SAlAturIya,1,4.3.94,kashika_4_3.rs:305,0,source_conditioned_relation_not_independent_nominal_count
+169cbd41076589da3b95,SAla,TasyaVikara,Modification of this. (4.3.134),mayaw,SAlamaya,1,4.3.144,kashika_4_3.rs:478,0,source_conditioned_relation_not_independent_nominal_count
+10a9803dd685777c3abd,SAli,DhanyanamBhavaneKshetre,"A place of growing, when that place is a field. (5.2.1)",Qak,SAleya,1,5.2.2,kashika_5_2.rs:25,0,source_conditioned_relation_not_independent_nominal_count
+3d4ad674e7137c62d90e,SIrSacCeda,TadArhati,One deserves this. (5.1.63),Wak,SErSacCedika,1,5.1.65,kashika_5_1.rs:402,0,source_conditioned_relation_not_independent_nominal_count
+effccd2de047ec60f318,SIrSacCeda,TadArhati,One deserves this. (5.1.63),yat,SIrSacCedya,1,5.1.65,kashika_5_1.rs:403,0,source_conditioned_relation_not_independent_nominal_count
+f8736d2ebb14e2cf0be4,SIta,Karin,Going to work in this manner. (5.2.72),kan,SItaka,1,5.2.72,kashika_5_2.rs:372,0,source_conditioned_relation_not_independent_nominal_count
+48d8c1bca7abe88c12b7,SUdra,Kutsite,Contempt. (5.3.75),kan,SUdraka,1,5.3.75,kashika_5_3.rs:272,0,source_conditioned_relation_not_independent_nominal_count
+eeeae5e13c5ccec4afcd,SUla,SamskrtamBhaksha,Food that is prepared with this vessel or medium. (4.2.16),yat,SUlya,1,4.2.17,kashika_4_2.rs:36,0,source_conditioned_relation_not_independent_nominal_count
+569643d90209af5a3ccb,SUrpa,TenaKritam,What is bought with this. (5.1.37),WaY,SOrpika,1,5.1.26,kashika_5_1.rs:233,0,source_conditioned_relation_not_independent_nominal_count
+cf7090de1b3eaefac1f9,SUrpa,TenaKritam,What is bought with this. (5.1.37),aY,SOrpa,1,5.1.26,kashika_5_1.rs:232,0,source_conditioned_relation_not_independent_nominal_count
+07f339a1af0feff9971d,SaNkupaTa,Ahrtam,What is conveyed by that way. (5.1.77),WaY,SANkupaTika,1,5.1.77,kashika_5_1.rs:517,0,source_conditioned_relation_not_independent_nominal_count
+1a91ca709380f772824f,SaNkupaTa,Gacchati,Who goes. (5.1.75),WaY,SANkupaTika,1,5.1.77,kashika_5_1.rs:516,0,source_conditioned_relation_not_independent_nominal_count
+f9d009a503a066f8877b,SaPara,Hanti,What one kills. (4.4.35),Wak,SAParika,1,4.4.35,kashika_4_4.rs:248,0,source_conditioned_relation_not_independent_nominal_count
+ad1e4ab9b13a073037cb,SaRqika,AsyaNivasa,Dwelling. (4.3.89),Yya,SARqikya,1,4.3.92,kashika_4_3.rs:290,0,source_conditioned_relation_not_independent_nominal_count
+a5b9b1241eecdb721a00,Sakala,TenaRaktam,One dyed by this. (4.2.1),Wak,SAkalika,1,4.2.2,kashika_4_2.rs:23,0,source_conditioned_relation_not_independent_nominal_count
+5c3b0a53edbd273aba30,SakawA,TenaCarati,One who walks or eats with this. (4.4.8),Wak,SAkawika,1,4.4.8,kashika_4_4.rs:68,0,source_conditioned_relation_not_independent_nominal_count
+e0ba17b7cd795b600557,Sakawa,TadVahati,What one bears. (4.4.78),aR,SAkawa,1,4.4.80,kashika_4_4.rs:534,0,source_conditioned_relation_not_independent_nominal_count
+e065c066a7ffaa213c16,Sakti,Praharanam,One who has this weapon. (4.4.57),Ikak,SAktIka,1,4.4.59,kashika_4_4.rs:419,0,source_conditioned_relation_not_independent_nominal_count
+0ff61b971246357e1aeb,Sakuli,Hanti,What one kills. (4.4.35),Wak,SAkulika,1,4.4.35,kashika_4_4.rs:249,0,source_conditioned_relation_not_independent_nominal_count
+4d4ede62acae6be31150,Sakuni,Hanti,What one kills. (4.4.35),Wak,SAkunika,1,4.4.35,kashika_4_4.rs:243,0,source_conditioned_relation_not_independent_nominal_count
+f503a330cf05f9c59344,SalAkA,TenaDivyatiJayatiJitam,"One who gambles, conquers, or is conquered with this. (4.4.2)",Wak,SAlAkika,1,4.4.2,kashika_4_4.rs:26,0,source_conditioned_relation_not_independent_nominal_count
+a44b0db4b8c11563e509,SalAlu,TadAsyaPanyam,One who sells this item. (4.4.51),Wak,SAlAluka,1,4.4.54,kashika_4_4.rs:385,0,source_conditioned_relation_not_independent_nominal_count
+52c5944036003930f8df,SalAlu,TadAsyaPanyam,One who sells this item. (4.4.51),zWan,SalAluka,1,4.4.54,kashika_4_4.rs:384,0,source_conditioned_relation_not_independent_nominal_count
+29f299efe8ac6d369c49,SamI,Hrasve,,ra,SamIra,1,5.3.88,kashika_5_3.rs:301,0,source_conditioned_relation_not_independent_nominal_count
+f99e721fb33708128fc2,SamI,TasyaVikara,Modification of this. (4.3.134),wlaY,SAmIla,1,4.3.142,kashika_4_3.rs:472,0,source_conditioned_relation_not_independent_nominal_count
+53d4ad5cdd361f29480c,Sanku,TadarthamVikrtehPrakrtau,What could be created from this raw material. (5.1.12),yat,SaNkavya,1,5.1.12,kashika_5_1.rs:125,0,source_conditioned_relation_not_independent_nominal_count
+74ee294dc3829ef97250,Sara,TasyaVikara,Modification of this. (4.3.134),mayaw,Saramaya,1,4.3.144,kashika_4_3.rs:481,0,source_conditioned_relation_not_independent_nominal_count
+29de1a94f9a1a41401de,SaraRa,TatraSadhu,Skilled in this. (4.4.98),yat,SaraRya,1,4.4.98,kashika_4_4.rs:634,0,source_conditioned_relation_not_independent_nominal_count
+2a8796adf8acad8dab84,Sarad,TatraJata,Where this was born. (4.3.25),aR,SArada,1,4.3.27,kashika_4_3.rs:103,0,source_conditioned_relation_not_independent_nominal_count
+2bacc589b98de7da2c8a,Sarad,TatraJata,Where this was born. (4.3.25),vuY,SAradaka,1,4.3.27,kashika_4_3.rs:101,0,source_conditioned_relation_not_independent_nominal_count
+76d9a765a0e6fc3681f7,SaradaRqA,Janapada,Country. (4.1.168),iY,SAradaRqi,1,4.1.173,kashika_4_1.rs:896,0,source_conditioned_relation_not_independent_nominal_count
+52924437d53d583c5964,Saradvat,Gotra,Patronymic lineage. (4.1.98),Pak,SAradvatAyana,1,4.1.102,kashika_4_1.rs:512,0,source_conditioned_relation_not_independent_nominal_count
+48dbdcc6cc475138cbae,Saradvat,Gotra,Patronymic lineage. (4.1.98),aY,SAradvata,1,4.1.102,kashika_4_1.rs:513,0,source_conditioned_relation_not_independent_nominal_count
+8288a02b570fef3b8e5c,SarkarA,IvePratikrtau,,aR,SArkara,1,5.3.107,kashika_5_3.rs:378,0,source_conditioned_relation_not_independent_nominal_count
+df72a2b5c2991e151010,Sata,TadArhati,One deserves this. (5.1.63),Wan,Satika,1,5.1.63,kashika_5_1.rs:388,0,source_conditioned_relation_not_independent_nominal_count
+e2be054490f03760f65d,Sata,TadArhati,One deserves this. (5.1.63),yat,Satya,1,5.1.63,kashika_5_1.rs:389,0,source_conditioned_relation_not_independent_nominal_count
+875a49f601d7b9020ad6,Sata,TadAsminVrddhiAyaLabhaSulkaUpada,"In which this is an interest, rent, profit, tax, or bribe. (5.1.47)",Wan,Satika,1,5.1.47,kashika_5_1.rs:314,0,source_conditioned_relation_not_independent_nominal_count
+b3f737c2c8c3759ef788,Sata,TadAsminVrddhiAyaLabhaSulkaUpada,"In which this is an interest, rent, profit, tax, or bribe. (5.1.47)",yat,Satya,1,5.1.47,kashika_5_1.rs:313,0,source_conditioned_relation_not_independent_nominal_count
+8f2b17580b273132f3cb,Sata,TadAsyaParimanam,The measure of this. (5.1.57),Wan,Satika,1,5.1.57,kashika_5_1.rs:377,0,source_conditioned_relation_not_independent_nominal_count
+947092d7f44957bbd78e,Sata,TadAsyaParimanam,The measure of this. (5.1.57),yat,Satya,1,5.1.57,kashika_5_1.rs:378,0,source_conditioned_relation_not_independent_nominal_count
+05ff62fc342ec8d9a5a5,Sata,TasyaNimittamSamyogotpattau,"For the sake of this, when the meaning is a relation or appearance. (5.1.38)",Wan,Satika,1,5.1.38,kashika_5_1.rs:267,0,source_conditioned_relation_not_independent_nominal_count
+f7a11eb19f5051ed091d,Sata,TasyaNimittamSamyogotpattau,"For the sake of this, when the meaning is a relation or appearance. (5.1.38)",yat,Satya,1,5.1.38,kashika_5_1.rs:266,0,source_conditioned_relation_not_independent_nominal_count
+f3ded9e9108a64f54248,Sata,TenaKritam,What is bought with this. (5.1.37),Wan,Satika,1,5.1.21;5.1.37,kashika_5_1.rs:200;kashika_5_1.rs:254,1,source_conditioned_relation_not_independent_nominal_count
+1fce51441cd9c39d6eb2,Sata,TenaKritam,What is bought with this. (5.1.37),kan,Sataka,1,5.1.21,kashika_5_1.rs:202,0,source_conditioned_relation_not_independent_nominal_count
+5093a4e0536f36a766b6,Sata,TenaKritam,What is bought with this. (5.1.37),yat,Satya,1,5.1.21;5.1.37,kashika_5_1.rs:201;kashika_5_1.rs:253,1,source_conditioned_relation_not_independent_nominal_count
+ee195565540474ff0289,SatamAna,TenaKritam,What is bought with this. (5.1.37),aR,SAtamAna,1,5.1.27,kashika_5_1.rs:238,0,source_conditioned_relation_not_independent_nominal_count
+c38fb7e330af2a371c10,Satapati,TasyaApatyam,Descendant. (4.1.92),aR,SAtapata,1,4.1.84,kashika_4_1.rs:428,0,source_conditioned_relation_not_independent_nominal_count
+608b5d9783162ee8e401,Satarudra,SaAsyaDevata,Having this as a god. (4.2.24),Ca,SatarudrIya,1,4.2.28,kashika_4_2.rs:89,0,source_conditioned_relation_not_independent_nominal_count
+6888ceb341ffd51832c8,Satarudra,SaAsyaDevata,Having this as a god. (4.2.24),Ga,Satarudriya,1,4.2.28,kashika_4_2.rs:88,0,source_conditioned_relation_not_independent_nominal_count
+e3127a4594f80c7e1a4a,Sazkula,Shilam,One who has this habit. (4.4.61),Wak,SAzkulika,1,4.4.61,kashika_4_4.rs:433,0,source_conditioned_relation_not_independent_nominal_count
+70b3f52b6be8e220624e,Sazkula,TadAsmaiDiyateNiyuktam,To whom this is given rightfully. (4.4.66),Wak,SAzkulika,1,4.4.66,kashika_4_4.rs:453,0,source_conditioned_relation_not_independent_nominal_count
+bd6b7d881f4090982d43,Sazkula,TadAsyaPanyam,One who sells this item. (4.4.51),Wak,SAzkulika,1,4.4.51,kashika_4_4.rs:366,0,source_conditioned_relation_not_independent_nominal_count
+8669127130534b7e0d14,SfNgavera,TenaSamskrtam,Cultured or processed. (4.4.3),Wak,SArNgaverika,1,4.4.3,kashika_4_4.rs:34,0,source_conditioned_relation_not_independent_nominal_count
+ca0c77c7970d6d33cce7,SfNgavera,TenaSamsrshte,Mixed with. (4.4.22),Wak,SArNgaverika,1,4.4.22,kashika_4_4.rs:161,0,source_conditioned_relation_not_independent_nominal_count
+31e16a05e007c635e475,Sibi,TasyaVishayoDeshe,A domain of this. (4.2.52),aR,SEba,1,4.2.52,kashika_4_2.rs:224,0,source_conditioned_relation_not_independent_nominal_count
+3e7a772ce17c3fdc4b64,SilAlin,TenaProktam,What is proclaimed by this person. (4.3.101),Rini,SElAlin,1,4.3.110,kashika_4_3.rs:351,0,source_conditioned_relation_not_independent_nominal_count
+df20f12fce898212833b,SivarUpya,TatraJata,Where this was born. (4.3.25),Ya,SEvarUpya,1,4.2.106,kashika_4_2.rs:461,0,source_conditioned_relation_not_independent_nominal_count
+b78bff7dc9ed33f26f42,SrARA,TadAsmaiDiyateNiyuktam,To whom this is given rightfully. (4.4.66),wiWan,SrARika,1,4.4.67,kashika_4_4.rs:459,0,source_conditioned_relation_not_independent_nominal_count
+c87bc6e8e33607180dbf,SuBra,TasyaApatyam,Descendant. (4.1.92),Qak,SOBreya,1,4.1.123,kashika_4_1.rs:651,0,source_conditioned_relation_not_independent_nominal_count
+351c727d9a1bcdfd3253,SuNga,TasyaApatyam,Descendant. (4.1.92),aR,SONga,1,4.1.117,kashika_4_1.rs:598,0,source_conditioned_relation_not_independent_nominal_count
+052cb67c472527d892bd,SuNga,TasyaApatyam,Descendant. (4.1.92),iY,SONgi,1,4.1.117,kashika_4_1.rs:599,0,source_conditioned_relation_not_independent_nominal_count
+7c849a92f7607f87f429,SuRqA,Hrasve,,ra,SuRqAra,1,5.3.88,kashika_5_3.rs:302,0,source_conditioned_relation_not_independent_nominal_count
+60f758ec9805a8d87c4e,SuRqika,TataAgata,Where one came from. (4.3.74),aR,SORqika,1,4.3.76,kashika_4_3.rs:270,0,source_conditioned_relation_not_independent_nominal_count
+4225f391e38d62111e88,Sukla,AbhutaTadbhava,Becoming what one was not. (5.4.50),cvi,SuklI,1,5.4.50,kashika_5_4.rs:155,0,source_conditioned_relation_not_independent_nominal_count
+46adf0698e923f71e3d9,Sukra,SaAsyaDevata,Having this as a god. (4.2.24),Gan,Sukriya,1,4.2.26,kashika_4_2.rs:71,0,source_conditioned_relation_not_independent_nominal_count
+3067ba21f68ec4cdb8cf,SulkaSAlA,Avakraya,What is taxed. (4.4.50),Wak,SOlkaSAlika,1,4.4.50,kashika_4_4.rs:357,0,source_conditioned_relation_not_independent_nominal_count
+90430ec39f5878ca3773,SulkaSAlA,Niyuktam,Where one is appointed. (4.4.69),Wak,SOlkaSAlika,1,4.4.69,kashika_4_4.rs:472,0,source_conditioned_relation_not_independent_nominal_count
+b21bd4ec0ba8aa7cdb57,SulkaSAlA,TasyaDharmyam,One who has this custom. (4.4.47),Wak,SOlkaSAlika,1,4.4.47,kashika_4_4.rs:332,0,source_conditioned_relation_not_independent_nominal_count
+4416d4423dc19aa090d5,SulkamATa,Hanti,What one kills. (4.4.35),Wak,SOlkamATika,1,4.4.37,kashika_4_4.rs:264,0,source_conditioned_relation_not_independent_nominal_count
+79d4dd473e9fc0e922d9,Sunaka,Gotra,Patronymic lineage. (4.1.98),Pak,SOnakAyana,1,4.1.102,kashika_4_1.rs:514,0,source_conditioned_relation_not_independent_nominal_count
+ea8536b1e5a084d84ee0,Sunaka,Gotra,Patronymic lineage. (4.1.98),aY,SOnaka,1,4.1.102,kashika_4_1.rs:515,0,source_conditioned_relation_not_independent_nominal_count
+abec0754d3bf1bba0cea,SvaSura,TasyaApatyam,Descendant. (4.1.92),yat,SvaSurya,1,4.1.137,kashika_4_1.rs:731,0,source_conditioned_relation_not_independent_nominal_count
+f34488e08b02293c8be6,SvagaRa,TenaCarati,One who walks or eats with this. (4.4.8),WaY,SvAgaRika,1,4.4.11,kashika_4_4.rs:88,0,source_conditioned_relation_not_independent_nominal_count
+bcfee4c107f07ba49b62,SvagaRa,TenaCarati,One who walks or eats with this. (4.4.8),zWan,SvagaRika,1,4.4.11,kashika_4_4.rs:87,0,source_conditioned_relation_not_independent_nominal_count
+0a866adb870c3afbb3b4,Svas,TatraBhava,Where this stays or exists. (4.3.53),WaY,SOvastika,1,4.3.15,kashika_4_3.rs:57,0,source_conditioned_relation_not_independent_nominal_count
+53915ebe6ff885832c31,Svas,TatraBhava,Where this stays or exists. (4.3.53),tyap,Svastya,1,4.3.15,kashika_4_3.rs:58,0,source_conditioned_relation_not_independent_nominal_count
+da8fe97866badd9c21c7,Svas,TatraBhava,Where this stays or exists. (4.3.53),tyu,Svastana,1,4.3.15,kashika_4_3.rs:59,0,source_conditioned_relation_not_independent_nominal_count
+212dadbaf2dd074e1879,Svas,TatraBhava,Where this stays or exists. (4.3.53),tyul,Svastana,1,4.3.15,kashika_4_3.rs:60,0,source_conditioned_relation_not_independent_nominal_count
+a2c587443e7383f261e3,SvetacCatra,TadArhati,One deserves this. (5.1.63),Wak,SvEtacCatrika,1,5.1.63,kashika_5_1.rs:386,0,source_conditioned_relation_not_independent_nominal_count
+a5c0f4ed89ba3fd2d979,SyAmAka,Unchati,What is gleaned. (4.4.32),Wak,SyAmAkika,1,4.4.32,kashika_4_4.rs:224,0,source_conditioned_relation_not_independent_nominal_count
+b44534f89fc517a90abb,SyAmagu,TasyaApatyam,Descendant. (4.1.92),aR,SyAmagava,1,4.1.92,kashika_4_1.rs:460,0,source_conditioned_relation_not_independent_nominal_count
+98c6951a6577323a797a,UrRA,TasyaVikara,Modification of this. (4.3.134),aY,OrRa,1,4.3.158,kashika_4_3.rs:513,0,source_conditioned_relation_not_independent_nominal_count
+f965dbcd15559e74a081,UrRA,TasyaVikara,Modification of this. (4.3.134),vuY,OrRaka,1,4.3.158,kashika_4_3.rs:512,0,source_conditioned_relation_not_independent_nominal_count
+4d1ef8c7419ec084e46d,Uru,TadAsyaPramanam,Measure. (5.2.37),daGnac,UrudaGna,1,5.2.37,kashika_5_2.rs:217,0,source_conditioned_relation_not_independent_nominal_count
+4eefa1c170de3c29e04b,Uru,TadAsyaPramanam,Measure. (5.2.37),dvayasac,Urudvayasa,1,5.2.37,kashika_5_2.rs:216,0,source_conditioned_relation_not_independent_nominal_count
+949c9863317e5e185046,Uru,TadAsyaPramanam,Measure. (5.2.37),mAtrac,UrumAtra,1,5.2.37,kashika_5_2.rs:218,0,source_conditioned_relation_not_independent_nominal_count
+789ab9e9c8283b66e6d2,Uru,TadVidhyati,What one pierces. (4.4.83),yat,Uravya,1,4.4.83,kashika_4_4.rs:551,0,source_conditioned_relation_not_independent_nominal_count
+448c5842ce32bff3913b,aBra,TatraBhava,Where this stays or exists. (4.3.53),Ga,aBriya,1,4.4.118,kashika_4_4.rs:725,0,source_conditioned_relation_not_independent_nominal_count
+95531e2125edb6dc5d9e,aBri,TenaDivyatiJayatiJitam,"One who gambles, conquers, or is conquered with this. (4.4.2)",Wak,ABrika,1,4.4.2,kashika_4_4.rs:27,0,source_conditioned_relation_not_independent_nominal_count
+52cc64b74f240aaea8b5,aDamArDa,TatraJata,Where this was born. (4.3.25),yat,aDamArDya,1,4.3.5,kashika_4_3.rs:36,0,source_conditioned_relation_not_independent_nominal_count
+f6548f047a933da0fea2,aDarma,Carati,What one practices. (4.4.41),Wak,ADarmika,1,4.4.41,kashika_4_4.rs:296,0,source_conditioned_relation_not_independent_nominal_count
+fd2afa74ae4e5e34eab8,aDvan,AlamGami,Fit to go. (5.2.15),Ka,aDvanIna,1,5.2.16,kashika_5_2.rs:106,0,source_conditioned_relation_not_independent_nominal_count
+fdd1f496fe24a9ce4f1c,aDvan,AlamGami,Fit to go. (5.2.15),yat,aDvanya,1,5.2.16,kashika_5_2.rs:105,0,source_conditioned_relation_not_independent_nominal_count
+9791fc59d86285483d0c,aDvaryu,TasyaIdam,One who has this. (4.3.120),aY,ADvaryava,1,4.3.123,kashika_4_3.rs:382,0,source_conditioned_relation_not_independent_nominal_count
+f90e2646c071e947d7f5,aMSa,Hari,Who must take this.. (5.2.69),kan,aMSaka,1,5.2.69,kashika_5_2.rs:362,0,source_conditioned_relation_not_independent_nominal_count
+ad8e77dfb89ec1ad9e2c,aNgAra,TadarthamVikrtehPrakrtau,What could be created from this raw material. (5.1.12),Ca,aNgArIya,1,5.1.12,kashika_5_1.rs:123,0,source_conditioned_relation_not_independent_nominal_count
+5ae1ffa4b4e85bd1ec96,aNga,Janapada,Country. (4.1.168),aR,ANga,1,4.1.170,kashika_4_1.rs:858,0,source_conditioned_relation_not_independent_nominal_count
+d16b97fc91d4691bef98,aNguli,IvePratikrtau,,Wak,ANgulika,1,5.3.108,kashika_5_3.rs:384,0,source_conditioned_relation_not_independent_nominal_count
+471e9bac727d6a7b75db,aNguli,TatraBhava,Where this stays or exists. (4.3.53),Ca,aNgulIya,1,4.3.62,kashika_4_3.rs:240,0,source_conditioned_relation_not_independent_nominal_count
+1359afb2a6ada7228a31,aSIti,TenaKritam,What is bought with this. (5.1.37),WaY,ASItika,1,5.1.37,kashika_5_1.rs:248,0,source_conditioned_relation_not_independent_nominal_count
+72c158375027ade47844,aSmaka,Janapada,Country. (4.1.168),iY,ASmaki,1,4.1.173,kashika_4_1.rs:900,0,source_conditioned_relation_not_independent_nominal_count
+5e3d4edf586d403f54db,aSman,Gotra,Patronymic lineage. (4.1.98),PaY,ASmAyana,1,4.1.110,kashika_4_1.rs:570,0,source_conditioned_relation_not_independent_nominal_count
+e4aeed801b8c00d63c5b,aSva,Ajnate,Not known. (5.3.73),ka,aSvaka,1,5.3.70,kashika_5_3.rs:266,0,source_conditioned_relation_not_independent_nominal_count
+e001906a105dbe3c0e81,aSva,EkahaGama,What can be traveled in one day. (5.2.19),KaY,ASvIna,1,5.2.19,kashika_5_2.rs:121,0,source_conditioned_relation_not_independent_nominal_count
+ab3b3b3e99d3cd278eb8,aSva,Gotra,Patronymic lineage. (4.1.98),PaY,ASvAyana,1,4.1.110,kashika_4_1.rs:569,0,source_conditioned_relation_not_independent_nominal_count
+103a56e8b6b9649e3e44,aSva,IvePratikrtau,,kan,aSvaka,1,5.3.96,kashika_5_3.rs:352,0,source_conditioned_relation_not_independent_nominal_count
+a6db089ec3848bee9ada,aSva,Tanutve,Slenderness. (5.3.91),zwarac,aSvatara,1,5.3.91,kashika_5_3.rs:325,0,source_conditioned_relation_not_independent_nominal_count
+f56a67f2a82dd29245d2,aSva,TasyaSamuha,A collection of this. (4.2.37),Ca,aSvIya,1,4.2.48,kashika_4_2.rs:204,0,source_conditioned_relation_not_independent_nominal_count
+210e1fba1fea1701e348,aSva,TasyaSamuha,A collection of this. (4.2.37),aR,ASva,1,4.2.48,kashika_4_2.rs:205,0,source_conditioned_relation_not_independent_nominal_count
+3a3993e2ba9550e8dc1d,aSva,TenaCarati,One who walks or eats with this. (4.4.8),zWan,aSvika,1,4.4.10,kashika_4_4.rs:81,0,source_conditioned_relation_not_independent_nominal_count
+bb64ea3c003a2af51af4,aSvapAlI,TasyaApatyam,Descendant. (4.1.92),Wak,ASvapAlika,1,4.1.146,kashika_4_1.rs:783,0,source_conditioned_relation_not_independent_nominal_count
+d8e348e0cd6d29dbc26b,aSvapati,TasyaApatyam,Descendant. (4.1.92),aR,ASvapata,1,4.1.84;4.1.92,kashika_4_1.rs:427;kashika_4_1.rs:453,1,source_conditioned_relation_not_independent_nominal_count
+2cd2de7bc2fd1d7b852b,aditi,SaAsyaDevata,Having this as a god. (4.2.24),Rya,Aditya,1,4.2.24,kashika_4_2.rs:59,0,source_conditioned_relation_not_independent_nominal_count
+6e9c750d60634f3653e4,aditi,TasyaApatyam,Descendant. (4.1.92),Rya,Aditya,1,4.1.85,kashika_4_1.rs:434,0,source_conditioned_relation_not_independent_nominal_count
+5decb5a6d9d1803dd066,agni,AbhutaTadbhava,Becoming what one was not. (5.4.50),sAti,agnisAt,1,5.4.52,kashika_5_4.rs:171,0,source_conditioned_relation_not_independent_nominal_count
+9fa8d325fc9dadf1f337,agni,SaAsyaDevata,Having this as a god. (4.2.24),Qak,Agneya,1,4.2.33,kashika_4_2.rs:130,0,source_conditioned_relation_not_independent_nominal_count
+b56c396f5eccafb45c4a,agra,TatraBhava,Where this stays or exists. (4.3.53),Ca,agrIya,1,4.4.117,kashika_4_4.rs:718,0,source_conditioned_relation_not_independent_nominal_count
+607df30db3779803eeac,agra,TatraBhava,Where this stays or exists. (4.3.53),Ga,agriya,1,4.4.117,kashika_4_4.rs:717,0,source_conditioned_relation_not_independent_nominal_count
+c64dfa4daee5e4dc1353,agra,TatraBhava,Where this stays or exists. (4.3.53),yat,agrya,1,4.4.116,kashika_4_4.rs:711,0,source_conditioned_relation_not_independent_nominal_count
+606d675d797958e2c0e9,ahan,TenaNirvrttam,Completed by this time. (5.1.79),WaY,Ahnika,1,5.1.79,kashika_5_1.rs:530,0,source_conditioned_relation_not_independent_nominal_count
+2e7b5d5d48148347dfef,ahi,TatraBhava,Where this stays or exists. (4.3.53),QaY,Aheya,1,4.3.56,kashika_4_3.rs:215,0,source_conditioned_relation_not_independent_nominal_count
+03442707b9d297618f78,ajAda,Janapada,Country. (4.1.168),YyaN,AjAdya,1,4.1.171,kashika_4_1.rs:877,0,source_conditioned_relation_not_independent_nominal_count
+9338e197dcfac600ee79,aja,TasmaiHitam,One for whom this is good. (5.1.7),Tyan,ajaTya,1,5.1.8,kashika_5_1.rs:92,0,source_conditioned_relation_not_independent_nominal_count
+55b0b39da941ce42a566,ajapaTa,Ahrtam,What is conveyed by that way. (5.1.77),WaY,AjapaTika,1,5.1.77,kashika_5_1.rs:514,0,source_conditioned_relation_not_independent_nominal_count
+857bbe33c10904bb7200,ajapaTa,Gacchati,Who goes. (5.1.75),WaY,AjapaTika,1,5.1.77,kashika_5_1.rs:513,0,source_conditioned_relation_not_independent_nominal_count
+c0bd437a2032e6fdd92a,akaraBa,TasmaiHitam,One for whom this is good. (5.1.7),Ca,akaraBIya,1,5.1.1,kashika_5_1.rs:18,0,source_conditioned_relation_not_independent_nominal_count
+4f885ee31f26d0a8b997,akza,TenaDivyatiJayatiJitam,"One who gambles, conquers, or is conquered with this. (4.4.2)",Wak,Akzika,1,4.4.1;4.4.2,kashika_4_4.rs:20;kashika_4_4.rs:25,1,source_conditioned_relation_not_independent_nominal_count
+5fb64de4562729ec06d9,akzadyUta,TenaNirvrtte,Completed with. (4.4.19),Wak,AkzadyUtika,1,4.4.19,kashika_4_4.rs:140,0,source_conditioned_relation_not_independent_nominal_count
+8ff5b7a08cfe5feb6731,alaNkarman,Svarthe,,Ka,alaNkarmIRa,1,5.4.7,kashika_5_4.rs:33,0,source_conditioned_relation_not_independent_nominal_count
+d3b3352f167ef92183cd,alampuruza,Svarthe,,Ka,alampuruzIRa,1,5.4.7,kashika_5_4.rs:34,0,source_conditioned_relation_not_independent_nominal_count
+e1612766e61d93109fea,amAvAsyA,TatraJata,Where this was born. (4.3.25),a,amAvAsya,1,4.3.31,kashika_4_3.rs:130,0,source_conditioned_relation_not_independent_nominal_count
+cd744b248a0a81c70968,amAvAsyA,TatraJata,Where this was born. (4.3.25),aR,AmAvAsya,1,4.3.30,kashika_4_3.rs:125,0,source_conditioned_relation_not_independent_nominal_count
+99ac7c235891f8f57600,amAvAsyA,TatraJata,Where this was born. (4.3.25),vun,amAvAsyaka,1,4.3.30,kashika_4_3.rs:124,0,source_conditioned_relation_not_independent_nominal_count
+877c4f6050af9a14f65e,amBas,Vartate,Existence. (4.4.27),Wak,AmBasika,1,4.4.27,kashika_4_4.rs:191,0,source_conditioned_relation_not_independent_nominal_count
+4e0e80d54ec76f2a8d2d,anna,Labdha,What one has obtained. (4.4.85),Ra,Anna,1,4.4.85,kashika_4_4.rs:563,0,source_conditioned_relation_not_independent_nominal_count
+9da441729bdf9e4ae384,antaHsTa,TatraJata,Where this was born. (4.3.25),Ca,antaHsTIya,1,4.2.138,kashika_4_2.rs:521,0,source_conditioned_relation_not_independent_nominal_count
+f12e6d5fb72c0002a2c5,anugrAma,TatraBhava,Where this stays or exists. (4.3.53),WaY,AnugrAmika,1,4.3.61,kashika_4_3.rs:232,0,source_conditioned_relation_not_independent_nominal_count
+0191101a38ea470c6270,anugu,AlamGami,Fit to go. (5.2.15),Ka,anugavIna,1,5.2.15;5.2.17,kashika_5_2.rs:100;kashika_5_2.rs:111,1,source_conditioned_relation_not_independent_nominal_count
+e2e753a071cba4b30a40,anukAma,Gami,Who intends to go. (5.2.11),Ka,anukAmIna,1,5.2.11,kashika_5_2.rs:95,0,source_conditioned_relation_not_independent_nominal_count
+0a1ec3daba56e8df9ce4,anukUla,Vartate,Existence. (4.4.27),Wak,AnukUlika,1,4.4.28,kashika_4_4.rs:201,0,source_conditioned_relation_not_independent_nominal_count
+86a439a6c9b1aef9bc17,anuloma,Vartate,Existence. (4.4.27),Wak,Anulomika,1,4.4.28,kashika_4_4.rs:199,0,source_conditioned_relation_not_independent_nominal_count
+f96946154b1a10b2eb26,anupada,Hanti,What one kills. (4.4.35),Wak,Anupadika,1,4.4.37,kashika_4_4.rs:266,0,source_conditioned_relation_not_independent_nominal_count
+cb461022af7fc4a08b7e,anvIpa,Vartate,Existence. (4.4.27),Wak,AnvIpika,1,4.4.28,kashika_4_4.rs:197,0,source_conditioned_relation_not_independent_nominal_count
+3af96651524ba9e9a06d,apAnnaptAt,SaAsyaDevata,Having this as a god. (4.2.24),Ca,apAnnaptrIya,1,4.2.28,kashika_4_2.rs:83,0,source_conditioned_relation_not_independent_nominal_count
+da934033f7c444b3647c,apAnnaptAt,SaAsyaDevata,Having this as a god. (4.2.24),Ga,apAnnaptriya,1,4.2.27,kashika_4_2.rs:77,0,source_conditioned_relation_not_independent_nominal_count
+725a8659c09a9d6acafc,apUpa,Shilam,One who has this habit. (4.4.61),Wak,ApUpika,1,4.4.61,kashika_4_4.rs:432,0,source_conditioned_relation_not_independent_nominal_count
+d54f12f8c1ceb4996315,apUpa,TadAsmaiDiyateNiyuktam,To whom this is given rightfully. (4.4.66),Wak,ApUpika,1,4.4.66,kashika_4_4.rs:452,0,source_conditioned_relation_not_independent_nominal_count
+b9700af1802762ac5569,apUpa,TadAsyaPanyam,One who sells this item. (4.4.51),Wak,ApUpika,1,4.4.51,kashika_4_4.rs:365,0,source_conditioned_relation_not_independent_nominal_count
+f8b16ccba897ff8d7013,apUpa,TasmaiHitam,One for whom this is good. (5.1.7),Ca,apUpIya,1,5.1.4;5.1.5,kashika_5_1.rs:46;kashika_5_1.rs:62,1,source_conditioned_relation_not_independent_nominal_count
+f46ce6bde82231030088,apUpa,TasmaiHitam,One for whom this is good. (5.1.7),yat,apUpya,1,5.1.4;5.1.5,kashika_5_1.rs:45;kashika_5_1.rs:61,1,source_conditioned_relation_not_independent_nominal_count
+891a41acb8c95e269273,apakara,TatraJata,Where this was born. (4.3.25),aR,Apakara,1,4.3.33,kashika_4_3.rs:143,0,source_conditioned_relation_not_independent_nominal_count
+d82e55dccff99a8fac55,apakara,TatraJata,Where this was born. (4.3.25),aY,Apakara,1,4.3.33,kashika_4_3.rs:144,0,source_conditioned_relation_not_independent_nominal_count
+3676bfe83e1cd47cdfe2,apakara,TatraJata,Where this was born. (4.3.25),kan,apakaraka,1,4.3.32,kashika_4_3.rs:136,0,source_conditioned_relation_not_independent_nominal_count
+f89302141a1954f25b9f,apamitya,TenaNirvrtte,Completed with. (4.4.19),kak,Apamityaka,1,4.4.21,kashika_4_4.rs:153,0,source_conditioned_relation_not_independent_nominal_count
+6b8b81656306d87906fc,aparAhRa,TatraJata,Where this was born. (4.3.25),vun,aparAhRaka,1,4.3.28,kashika_4_3.rs:109,0,source_conditioned_relation_not_independent_nominal_count
+b325df617fa3f061631d,aponaptAt,SaAsyaDevata,Having this as a god. (4.2.24),Ca,aponaptrIya,1,4.2.28,kashika_4_2.rs:82,0,source_conditioned_relation_not_independent_nominal_count
+d6d577b5a1af56db8533,aponaptAt,SaAsyaDevata,Having this as a god. (4.2.24),Ga,aponaptriya,1,4.2.27,kashika_4_2.rs:76,0,source_conditioned_relation_not_independent_nominal_count
+f8cc144de2b299444293,arDa,TatraJata,Where this was born. (4.3.25),yat,arDya,1,4.3.4,kashika_4_3.rs:28,0,source_conditioned_relation_not_independent_nominal_count
+2e2f95e86acfacc2b653,arDamAsa,TenaNirvrttam,Completed by this time. (5.1.79),WaY,ArDamAsika,1,5.1.79,kashika_5_1.rs:528,0,source_conditioned_relation_not_independent_nominal_count
+b24629a4f5ad8a239b36,arTa,Anapeta,Not deviating from this. (4.4.92),yat,arTya,1,4.4.92,kashika_4_4.rs:602,0,source_conditioned_relation_not_independent_nominal_count
+b6c03340ac6d5fcf1c05,arTa,Grhnati,What one takes. (4.4.39),Wak,ArTika,1,4.4.40,kashika_4_4.rs:285,0,source_conditioned_relation_not_independent_nominal_count
+c9c3cffc1fdd8b1bf6e8,arjuna,Bhakti,Devotion. (4.3.95),vun,arjunaka,1,4.3.98,kashika_4_3.rs:313,0,source_conditioned_relation_not_independent_nominal_count
+18742dad13a092869493,arus,AbhutaTadbhava,Becoming what one was not. (5.4.50),cvi,arU,1,5.4.51,kashika_5_4.rs:161,0,source_conditioned_relation_not_independent_nominal_count
+c823b9c75a1331085fc5,asi,Praharanam,One who has this weapon. (4.4.57),Wak,Asika,1,4.4.57,kashika_4_4.rs:405,0,source_conditioned_relation_not_independent_nominal_count
+961ce0777aa33624c32d,asmad,TatraJata,Where this was born. (4.3.25),Ca,asmadIya,1,4.3.1,kashika_4_3.rs:21,0,source_conditioned_relation_not_independent_nominal_count
+6b04230bd74c605238f5,asmad,TatraJata,Where this was born. (4.3.25),KaY,AsmAkIna,1,4.3.1,kashika_4_3.rs:19,0,source_conditioned_relation_not_independent_nominal_count
+23454b1bf41ac8678b19,asmad,TatraJata,Where this was born. (4.3.25),aR,AsmAka,1,4.3.1,kashika_4_3.rs:23,0,source_conditioned_relation_not_independent_nominal_count
+a8829c2037bdb9701ed4,asti,Mati,One who has this belief. (4.4.60),Wak,Astika,1,4.4.60,kashika_4_4.rs:425,0,source_conditioned_relation_not_independent_nominal_count
+fc6783f3d86ff5e49444,asti,TatraBhava,Where this stays or exists. (4.3.53),QaY,Asteya,1,4.3.56,kashika_4_3.rs:214,0,source_conditioned_relation_not_independent_nominal_count
+6f00ad0746c5aca7d692,atiTi,TatraSadhu,Skilled in this. (4.4.98),QaY,AtiTeya,1,4.4.104,kashika_4_4.rs:671,0,source_conditioned_relation_not_independent_nominal_count
+09d1a3864d650f8c88b9,atri,TasyaApatyam,Descendant. (4.1.92),Qak,Atreya,1,4.1.122,kashika_4_1.rs:636,0,source_conditioned_relation_not_independent_nominal_count
+fb9b7262820176779a34,atyanta,Gami,Who intends to go. (5.2.11),Ka,atyantIna,1,5.2.11,kashika_5_2.rs:94,0,source_conditioned_relation_not_independent_nominal_count
+9fe2187af0d018be956a,avArapAra,Gami,Who intends to go. (5.2.11),Ka,avArapArIRa,1,5.2.11,kashika_5_2.rs:93,0,source_conditioned_relation_not_independent_nominal_count
+668d6081b8ff253bf463,avArapAra,TatraJata,Where this was born. (4.3.25),Ka,avArapArIRa,1,4.3.25,kashika_4_3.rs:85,0,source_conditioned_relation_not_independent_nominal_count
+c82db92f60927059695b,avanti,Janapada,Country. (4.1.168),YyaN,Avantya,1,4.1.171,kashika_4_1.rs:874,0,source_conditioned_relation_not_independent_nominal_count
+75f33b94d5fea2aaf9ee,avarArDa,TatraJata,Where this was born. (4.3.25),yat,avarArDya,1,4.3.5,kashika_4_3.rs:35,0,source_conditioned_relation_not_independent_nominal_count
+939ac79ce0b62cacc370,avara,DigDeshaKala,"Words meaning direction, location, or time. (5.3.27)",astAti,avarastAt,1,5.3.29,kashika_5_3.rs:130,0,source_conditioned_relation_not_independent_nominal_count
+bb4116b7f169c7e34505,avara,DigDeshaKala,"Words meaning direction, location, or time. (5.3.27)",atasuc,avaratas,1,5.3.29,kashika_5_3.rs:129,0,source_conditioned_relation_not_independent_nominal_count
+e320657201601ff1eda5,avaskara,TatraJata,Where this was born. (4.3.25),vun,avaskaraka,1,4.3.28,kashika_4_3.rs:113,0,source_conditioned_relation_not_independent_nominal_count
+f7975a0f838f0efa1a00,avatsa,TasmaiHitam,One for whom this is good. (5.1.7),Ca,avatsIya,1,5.1.1;5.1.5,kashika_5_1.rs:19;kashika_5_1.rs:57,1,source_conditioned_relation_not_independent_nominal_count
+8772da22a0e26f5ed957,avi,TasmaiHitam,One for whom this is good. (5.1.7),Tyan,aviTya,1,5.1.8,kashika_5_1.rs:93,0,source_conditioned_relation_not_independent_nominal_count
+f55468ff8161bce09e54,azaqakza,Svarthe,,Ka,azaqakzIRa,1,5.4.7,kashika_5_4.rs:31,0,source_conditioned_relation_not_independent_nominal_count
+e2d3b82f5bfb89ceb84e,bAhu,TasyaApatyam,Descendant. (4.1.92),iY,bAhavi,1,4.1.96,kashika_4_1.rs:474,0,source_conditioned_relation_not_independent_nominal_count
+76abae6245eb148ac5ae,baBru,Gotra,Patronymic lineage. (4.1.98),aR,bABrava,1,4.1.106,kashika_4_1.rs:547,0,source_conditioned_relation_not_independent_nominal_count
+78928c94bb7ffe31c22d,baBru,Gotra,Patronymic lineage. (4.1.98),yaY,bABravya,1,4.1.106,kashika_4_1.rs:546,0,source_conditioned_relation_not_independent_nominal_count
+a31d5b432367cb3e69c7,badara,Unchati,What is gleaned. (4.4.32),Wak,bAdarika,1,4.4.32,kashika_4_4.rs:223,0,source_conditioned_relation_not_independent_nominal_count
+5f4c72d4fd6e957602aa,bahvfca,TasyaIdam,One who has this. (4.3.120),Yya,bAhvfcya,1,4.3.129,kashika_4_3.rs:402,0,source_conditioned_relation_not_independent_nominal_count
+d524354571fe8205100a,baka,TasyaSamuha,A collection of this. (4.2.37),aR,bAka,1,4.2.37,kashika_4_2.rs:142,0,source_conditioned_relation_not_independent_nominal_count
+3564d1652c5c70e20813,bali,TadarthamVikrtehPrakrtau,What could be created from this raw material. (5.1.12),QaY,bAleya,1,5.1.13,kashika_5_1.rs:136,0,source_conditioned_relation_not_independent_nominal_count
+7cb63ea706dda4b24926,balvaja,TadDharatiVahatiAvahati,"What one carries away, or conveys, or brings. (5.1.50)",Wak,bAlvajika,1,5.1.50,kashika_5_1.rs:340,0,source_conditioned_relation_not_independent_nominal_count
+977fd9d843eba2f7a08e,banDu,TasyaSamuha,A collection of this. (4.2.37),tal,banDutA,1,4.2.43,kashika_4_2.rs:185,0,source_conditioned_relation_not_independent_nominal_count
+27899f3edb7ce7e2a4ad,bfhaspati,SaAsyaDevata,Having this as a god. (4.2.24),Rya,bArhaspatya,1,4.2.24,kashika_4_2.rs:60,0,source_conditioned_relation_not_independent_nominal_count
+d3d209601c95489ccbef,bfhatI,Acchadana,,kan,bfhatika,1,5.4.6,kashika_5_4.rs:26,0,source_conditioned_relation_not_independent_nominal_count
+cbe2b20b8c153dc66db3,bida,Gotra,Patronymic lineage. (4.1.98),aY,bEda,1,4.1.104,kashika_4_1.rs:532,0,source_conditioned_relation_not_independent_nominal_count
+616bf6c85c76d12f50a6,bilva,TasyaVikara,Modification of this. (4.3.134),aR,bElva,1,4.3.136,kashika_4_3.rs:434,0,source_conditioned_relation_not_independent_nominal_count
+f2c73b7a3b1cc0a3be69,bimba,TasyaApatyam,Descendant. (4.1.92),iY,bEmbaki,1,4.1.97,kashika_4_1.rs:490,0,source_conditioned_relation_not_independent_nominal_count
+824ae08757e5f3f34469,boDa,Gotra,Patronymic lineage. (4.1.98),iY,bODi,1,4.1.107,kashika_4_1.rs:557,0,source_conditioned_relation_not_independent_nominal_count
+5da3ba81e879dfd8f0e7,boDa,Gotra,Patronymic lineage. (4.1.98),yaY,bODya,1,4.1.107,kashika_4_1.rs:554,0,source_conditioned_relation_not_independent_nominal_count
+1e19558dae07461efb8b,brAhmaRa,AbhutaTadbhava,Becoming what one was not. (5.4.50),trA,brAhmaRatrA,1,5.4.55,kashika_5_4.rs:183,0,source_conditioned_relation_not_independent_nominal_count
+5c121eedcd94fd89bff5,brAhmaRa,TasyaSamuha,A collection of this. (4.2.37),yan,brAhmaRya,1,4.2.42,kashika_4_2.rs:171,0,source_conditioned_relation_not_independent_nominal_count
+fdbb0507804ed192ada0,braDna,Gotra,Patronymic lineage. (4.1.98),cPaY,brADnAyana,1,4.1.98,kashika_4_1.rs:496,0,source_conditioned_relation_not_independent_nominal_count
+e2b68eac0b93212ce2a8,brahman,TasmaiHitam,One for whom this is good. (5.1.7),yat,brahmaRya,1,5.1.7,kashika_5_1.rs:86,0,source_conditioned_relation_not_independent_nominal_count
+d67dc44f390c8ee414d4,cAndrAyaRa,TadVartayati,One performs this. (5.1.72),WaY,cAndrAyaRika,1,5.1.18;5.1.72,kashika_5_1.rs:173;kashika_5_1.rs:456,1,source_conditioned_relation_not_independent_nominal_count
+70700185872242251e1e,cUrRa,TenaSamsrshte,Mixed with. (4.4.22),ini,cUrRin,1,4.4.23,kashika_4_4.rs:167,0,source_conditioned_relation_not_independent_nominal_count
+1c6de103d4fb0ea38042,caRqAla,TasyaApatyam,Descendant. (4.1.92),iY,cARqAlaki,1,4.1.97,kashika_4_1.rs:489,0,source_conditioned_relation_not_independent_nominal_count
+447c4533cf28f9ca4afd,cakra,Praharanam,One who has this weapon. (4.4.57),Wak,cAkrika,1,4.4.57,kashika_4_4.rs:407,0,source_conditioned_relation_not_independent_nominal_count
+c09b7b3ba70b48d35d82,cara,Gotra,Patronymic lineage. (4.1.98),Pak,cArAyaRa,1,4.1.99,kashika_4_1.rs:504,0,source_conditioned_relation_not_independent_nominal_count
+f0a8d6cbfec9f8b76c9a,caraka,TasmaiHitam,One for whom this is good. (5.1.7),KaY,cArakIRa,1,5.1.11,kashika_5_1.rs:116,0,source_conditioned_relation_not_independent_nominal_count
+5ec5d37807350b485e20,caraka,TenaProktam,What is proclaimed by this person. (4.3.101),aR,caraka,1,4.3.107,kashika_4_3.rs:333,0,source_conditioned_relation_not_independent_nominal_count
+00ae0d819f5ca0cf57ba,catur,Avasana,Parts of which. (5.2.42),tayap,catuzwaya,1,5.2.42,kashika_5_2.rs:263,0,source_conditioned_relation_not_independent_nominal_count
+d411b090e3a4bd591927,catur,Nimana,Given in exchange. (5.2.47),mayaw,caturmaya,1,5.2.47,kashika_5_2.rs:289,0,source_conditioned_relation_not_independent_nominal_count
+475ab5314053cc806f6f,cavarga,TatraBhava,Where this stays or exists. (4.3.53),Ca,cavargIya,1,4.3.63,kashika_4_3.rs:248,0,source_conditioned_relation_not_independent_nominal_count
+e67e5fb7660dd7bf375a,cawakA,TasyaApatyam,Descendant. (4.1.92),Erak,cAwakEra,1,4.1.128,kashika_4_1.rs:686,0,source_conditioned_relation_not_independent_nominal_count
+0e82a82b629c98d15146,cawaka,TasyaApatyam,Descendant. (4.1.92),Erak,cAwakEra,1,4.1.128,kashika_4_1.rs:691,0,source_conditioned_relation_not_independent_nominal_count
+625a66b0ddce67fc3bbb,daDi,SamskrtamBhaksha,Food that is prepared with this vessel or medium. (4.2.16),Wak,dADika,1,4.2.18,kashika_4_2.rs:42,0,source_conditioned_relation_not_independent_nominal_count
+f0e5cb5a71bf6acfa542,daDi,TenaCarati,One who walks or eats with this. (4.4.8),Wak,dADika,1,4.4.8,kashika_4_4.rs:69,0,source_conditioned_relation_not_independent_nominal_count
+cd59c5a59449897a43e1,daDi,TenaSamskrtam,Cultured or processed. (4.4.3),Wak,dADika,1,4.4.3,kashika_4_4.rs:33,0,source_conditioned_relation_not_independent_nominal_count
+2fd2da6a99bf69feb0a7,daDi,TenaSamsrshte,Mixed with. (4.4.22),Wak,dADika,1,4.4.22,kashika_4_4.rs:159,0,source_conditioned_relation_not_independent_nominal_count
+56b34371ffef6cccfcbc,daDi,TenaUpasikte,Sprinkled with. (4.4.26),Wak,dADika,1,4.4.26,kashika_4_4.rs:182,0,source_conditioned_relation_not_independent_nominal_count
+c7d35432e77e7503c3ff,daRqa,Hrasve,,ka,daRqaka,1,5.3.87,kashika_5_3.rs:295,0,source_conditioned_relation_not_independent_nominal_count
+d89b1f22269dcbe9144d,daRqa,TadArhati,One deserves this. (5.1.63),yat,daRqya,1,5.1.66,kashika_5_1.rs:408,0,source_conditioned_relation_not_independent_nominal_count
+8ef6f0e00688cb7895fe,daRqamATa,Hanti,What one kills. (4.4.35),Wak,dARqamATika,1,4.4.37,kashika_4_4.rs:263,0,source_conditioned_relation_not_independent_nominal_count
+43498139862be14482b9,daSEkAdaSa,PrayacchatiGarhyam,One who gives in a contemptible way. (4.4.30),zWac,daSEkAdaSika,1,4.4.31,kashika_4_4.rs:218,0,source_conditioned_relation_not_independent_nominal_count
+d0da30c071762ecbf2db,daSan,Avasana,Parts of which. (5.2.42),tayap,daSataya,1,5.2.42,kashika_5_2.rs:262,0,source_conditioned_relation_not_independent_nominal_count
+5849db19cd017ccb0e6a,dakza,TasyaApatyam,Descendant. (4.1.92),iY,dAkzi,1,4.1.122;4.1.95,kashika_4_1.rs:465;kashika_4_1.rs:640,1,source_conditioned_relation_not_independent_nominal_count
+d79ff465bf9ed60310a4,dakziRA,TadArhati,One deserves this. (5.1.63),Ca,dakziRIya,1,5.1.69,kashika_5_1.rs:432,0,source_conditioned_relation_not_independent_nominal_count
+7d24095224972624d79b,dakziRA,TadArhati,One deserves this. (5.1.63),yat,dakziRya,1,5.1.69,kashika_5_1.rs:433,0,source_conditioned_relation_not_independent_nominal_count
+0b3e93086230f226c32d,dakziRa,DigDeshaKala,"Words meaning direction, location, or time. (5.3.27)",atasuc,dakziRatas,1,5.3.28,kashika_5_3.rs:121,0,source_conditioned_relation_not_independent_nominal_count
+660da683ffa360b4d1c1,dakziRaDurA,TadVahati,What one bears. (4.4.78),Ka,dakziRaDurIRa,1,4.4.78,kashika_4_4.rs:529,0,source_conditioned_relation_not_independent_nominal_count
+de7721071a068a2f9a7a,danta,TasmaiHitam,One for whom this is good. (5.1.7),yat,dantya,1,5.1.6,kashika_5_1.rs:67,0,source_conditioned_relation_not_independent_nominal_count
+d64847787ea8dc94e3a5,darBa,Gotra,Patronymic lineage. (4.1.98),Pak,dArBAyaRa,1,4.1.102,kashika_4_1.rs:516,0,source_conditioned_relation_not_independent_nominal_count
+f87d92ecc18a378588ef,darBa,TasyaApatyam,Descendant. (4.1.92),iY,dArBi,1,4.1.102,kashika_4_1.rs:517,0,source_conditioned_relation_not_independent_nominal_count
+e445dc5992b8b1e5d93c,darBa,TasyaVikara,Modification of this. (4.3.134),mayaw,darBamaya,1,4.3.144,kashika_4_3.rs:482,0,source_conditioned_relation_not_independent_nominal_count
+4d3b6be7d74448303149,dardaBaka,TenaSamskrtam,Cultured or processed. (4.4.3),aR,dArdaBaka,1,4.4.4,kashika_4_4.rs:42,0,source_conditioned_relation_not_independent_nominal_count
+2a9fb298faf065b16d55,dardurUka,TasyaVikara,Modification of this. (4.3.134),aR,dArdurUka,1,4.3.137,kashika_4_3.rs:444,0,source_conditioned_relation_not_independent_nominal_count
+386bef65a965b104a62f,devAgAra,Niyuktam,Where one is appointed. (4.4.69),Wan,devAgArika,1,4.4.70,kashika_4_4.rs:481,0,source_conditioned_relation_not_independent_nominal_count
+407275dc79459faba005,devAsura,TadAsyaAstiAsmin,What one has or is in. (5.2.94),aR,dEvAsura,1,5.2.61,kashika_5_2.rs:319,0,source_conditioned_relation_not_independent_nominal_count
+e6078d549ce750950bb6,devadAru,TasyaVikara,Modification of this. (4.3.134),aY,dEvadArava,1,4.3.139,kashika_4_3.rs:456,0,source_conditioned_relation_not_independent_nominal_count
+2eb083797f254c3e521f,devayAna,TasyaVishayoDeshe,A domain of this. (4.2.52),vuY,dEvayAnaka,1,4.2.53,kashika_4_2.rs:232,0,source_conditioned_relation_not_independent_nominal_count
+50e25bf837f7860c7df9,dfti,TatraBhava,Where this stays or exists. (4.3.53),QaY,dArteya,1,4.3.56,kashika_4_3.rs:210,0,source_conditioned_relation_not_independent_nominal_count
+506fa5f52df9fea2a5ba,diS,TatraBhava,Where this stays or exists. (4.3.53),yat,diSya,1,4.3.54,kashika_4_3.rs:204,0,source_conditioned_relation_not_independent_nominal_count
+c10cbfb840ce09bac8f8,diti,TasyaApatyam,Descendant. (4.1.92),Rya,dEtya,1,4.1.85;4.1.92,kashika_4_1.rs:433;kashika_4_1.rs:454,1,source_conditioned_relation_not_independent_nominal_count
+a85e27072cb5fbced08a,dizwa,Mati,One who has this belief. (4.4.60),Wak,dEzwika,1,4.4.60,kashika_4_4.rs:427,0,source_conditioned_relation_not_independent_nominal_count
+10546c1476c71afd3447,dravya,TadDharatiVahatiAvahati,"What one carries away, or conveys, or brings. (5.1.50)",kan,dravyaka,1,5.1.51,kashika_5_1.rs:347,0,source_conditioned_relation_not_independent_nominal_count
+ec8514aedc798d0bea78,droRa,Gotra,Patronymic lineage. (4.1.98),Pak,drORAyana,1,4.1.103,kashika_4_1.rs:522,0,source_conditioned_relation_not_independent_nominal_count
+bcaf678b3fdf8f793284,droRa,Gotra,Patronymic lineage. (4.1.98),iY,drORi,1,4.1.103,kashika_4_1.rs:523,0,source_conditioned_relation_not_independent_nominal_count
+bdcf501d1a50dd7cf122,droRa,TadAsyaParimanam,The measure of this. (5.1.57),Wak,drORika,1,5.1.57,kashika_5_1.rs:380,0,source_conditioned_relation_not_independent_nominal_count
+6fabc5e9534cccea930d,droRa,TasyaVapa,Sown with this. (5.1.45),Wak,drORika,1,5.1.45,kashika_5_1.rs:296,0,source_conditioned_relation_not_independent_nominal_count
+8239e20b5a869a5379e6,dru,TasyaVikara,Modification of this. (4.3.134),vaya,druvaya,1,4.3.162,kashika_4_3.rs:535,0,source_conditioned_relation_not_independent_nominal_count
+61b2e4bec3f40eb737d9,dru,TasyaVikara,Modification of this. (4.3.134),yat,dravya,1,4.3.161,kashika_4_3.rs:530,0,source_conditioned_relation_not_independent_nominal_count
+731820101967b782599b,druhyu,TasyaApatyam,Descendant. (4.1.92),aR,drOhyava,1,4.1.168,kashika_4_1.rs:842,0,source_conditioned_relation_not_independent_nominal_count
+de3ab133e780818c59fc,durBagA,TasyaApatyam,Descendant. (4.1.92),Qak,dOrBAgineya,1,4.1.126,kashika_4_1.rs:674,0,source_conditioned_relation_not_independent_nominal_count
+630c75af1d0f5c5460ab,durbala,Anukampayam,,ka,durbalaka,1,5.3.76,kashika_5_3.rs:281,0,source_conditioned_relation_not_independent_nominal_count
+2661ed478533c27d1b2d,duzkula,TasyaApatyam,Descendant. (4.1.92),Ka,duzkulIna,1,4.1.142,kashika_4_1.rs:761,0,source_conditioned_relation_not_independent_nominal_count
+7d7e80feee8ab4cb800d,duzkula,TasyaApatyam,Descendant. (4.1.92),Qak,dOzkuleya,1,4.1.142,kashika_4_1.rs:760,0,source_conditioned_relation_not_independent_nominal_count
+b3a86dbdb46ec9b52c48,dvAra,Niyuktam,Where one is appointed. (4.4.69),Wak,dOvArika,1,4.4.69,kashika_4_4.rs:476,0,source_conditioned_relation_not_independent_nominal_count
+d2379bc304fdd602dbc8,dvi,Avasana,Parts of which. (5.2.42),tayap,dvaya;dvitaya,2,5.2.43,kashika_5_2.rs:270,0,source_conditioned_relation_not_independent_nominal_count
+ae9b8f4f4c1ca5f176b8,dvi,Nimana,Given in exchange. (5.2.47),mayaw,dvimaya,1,5.2.47,kashika_5_2.rs:287,0,source_conditioned_relation_not_independent_nominal_count
+6258e55773827619d689,dvi,Purana,Making full. (5.2.48),tIya,dvitIya,1,5.2.54,kashika_5_2.rs:307,0,source_conditioned_relation_not_independent_nominal_count
+11ab73458ac33daa56d1,dvi,TenaKritam,What is bought with this. (5.1.37),kan,dvika,1,5.1.37,kashika_5_1.rs:256,0,source_conditioned_relation_not_independent_nominal_count
+7e808dac3dbfded99be2,dviguRa,PrayacchatiGarhyam,One who gives in a contemptible way. (4.4.30),Wak,dvEguRika,1,4.4.30,kashika_4_4.rs:211,0,source_conditioned_relation_not_independent_nominal_count
+4aebefc314000a622e4f,eRI,TasyaVikara,Modification of this. (4.3.134),QaY,EReya,1,4.3.159,kashika_4_3.rs:518,0,source_conditioned_relation_not_independent_nominal_count
+fd03cb29b47d37d5726d,eRI,TasyaVikara,Modification of this. (4.3.134),aY,ERa,1,4.3.159,kashika_4_3.rs:519,0,source_conditioned_relation_not_independent_nominal_count
+d54e14cfd54686f9a4c9,eka,BahunamEka,One of many. (5.3.93),qatamac,ekatama,1,5.3.94,kashika_5_3.rs:347,0,source_conditioned_relation_not_independent_nominal_count
+21a121a51bad5634e01d,eka,DvayorEka,One of two. (5.3.92),qatarac,ekatara,1,5.3.94,kashika_5_3.rs:346,0,source_conditioned_relation_not_independent_nominal_count
+9d8af1b65b5cc2cdd7cb,ekaSAlA,IvePratikrtau,,Wac,ekaSAlika,1,5.3.109,kashika_5_3.rs:390,0,source_conditioned_relation_not_independent_nominal_count
+25c2010faa6772bb65f9,ekaSAlA,IvePratikrtau,,Wak,EkaSAlika,1,5.3.109,kashika_5_3.rs:391,0,source_conditioned_relation_not_independent_nominal_count
+7216c3ce4203e6c298af,ekadaSan,Purana,Making full. (5.2.48),qaw,ekadaSa,1,5.2.48,kashika_5_2.rs:295;kashika_5_2.rs:296,1,source_conditioned_relation_not_independent_nominal_count
+82baaa9795127337aa72,etad,Parimana,Volume. (5.2.39),vatup,etAvat,1,5.2.39,kashika_5_2.rs:245,0,source_conditioned_relation_not_independent_nominal_count
+8c79c3456812d77a92ff,ftu,SaAsyaDevata,Having this as a god. (4.2.24),yat,ftavya,1,4.2.31,kashika_4_2.rs:107,0,source_conditioned_relation_not_independent_nominal_count
+3ac55e8f6a98ec054a80,ftvij,TadArhati,One deserves this. (5.1.63),KaY,ArtvijIna,1,5.1.71,kashika_5_1.rs:447,0,source_conditioned_relation_not_independent_nominal_count
+20e57977f0c7d5b75221,fzaBa,TadarthamVikrtehPrakrtau,What could be created from this raw material. (5.1.12),Yya,ArzaBya,1,5.1.14,kashika_5_1.rs:143,0,source_conditioned_relation_not_independent_nominal_count
+d6698c9416b063553253,fzaBa,Tanutve,Slenderness. (5.3.91),zwarac,fzaBatara,1,5.3.91,kashika_5_3.rs:326,0,source_conditioned_relation_not_independent_nominal_count
+bfb080c3c31d4d1f25fe,fzika,TatraJata,Where this was born. (4.3.25),aR,Arzika,1,4.2.132,kashika_4_2.rs:507,0,source_conditioned_relation_not_independent_nominal_count
+a0c4f9635ce5ae249e26,gAnDAri,Janapada,Country. (4.1.168),aY,gAnDAra,1,4.1.169,kashika_4_1.rs:853,0,source_conditioned_relation_not_independent_nominal_count
+16190f2ac52be1ce1e85,gAreDa,TasyaApatyam,Descendant. (4.1.92),PiY,gAreDakAyani,1,4.1.158,kashika_4_1.rs:796,0,source_conditioned_relation_not_independent_nominal_count
+3e4a14d2189755b36282,gAreDa,TasyaApatyam,Descendant. (4.1.92),iY,gAreDi,1,4.1.158,kashika_4_1.rs:797,0,source_conditioned_relation_not_independent_nominal_count
+75f0a1bb86c2b266e38b,gArgIputra,TasyaApatyam,Descendant. (4.1.92),iY,gArgIputri,1,4.1.159,kashika_4_1.rs:808,0,source_conditioned_relation_not_independent_nominal_count
+c254c31c87ab9f784c9a,gaRa,Labdha,What one has obtained. (4.4.85),yat,gaRya,1,4.4.84,kashika_4_4.rs:558,0,source_conditioned_relation_not_independent_nominal_count
+7c15510daca1ccc6d519,gaRikA,TasyaSamuha,A collection of this. (4.2.37),yaY,gARikya,1,4.2.40,kashika_4_2.rs:160,0,source_conditioned_relation_not_independent_nominal_count
+2bdb2765b459803e926b,gaha,TatraJata,Where this was born. (4.3.25),Ca,gahIya,1,4.2.138,kashika_4_2.rs:520,0,source_conditioned_relation_not_independent_nominal_count
+a929d5bfb4e5e27f0d9e,gaja,TasyaSamuha,A collection of this. (4.2.37),tal,gajatA,1,4.2.43,kashika_4_2.rs:191,0,source_conditioned_relation_not_independent_nominal_count
+c26704cc5182a44ee266,gamBIra,TatraBhava,Where this stays or exists. (4.3.53),Yya,gAmBIrya,1,4.3.58,kashika_4_3.rs:226,0,source_conditioned_relation_not_independent_nominal_count
+196d3a554ef83e063b18,gaqu,TadAsyaAstiAsmin,What one has or is in. (5.2.94),lac,gaqula,1,5.2.97,kashika_5_2.rs:403,0,source_conditioned_relation_not_independent_nominal_count
+6b76ee86f187ed3335bd,gaqu,TadAsyaAstiAsmin,What one has or is in. (5.2.94),matup,gaqumat,1,5.2.97,kashika_5_2.rs:404,0,source_conditioned_relation_not_independent_nominal_count
+806310bdd423c1120574,garBiRI,TasyaSamuha,A collection of this. (4.2.37),aR,gArBiRa,1,4.2.38,kashika_4_2.rs:148,0,source_conditioned_relation_not_independent_nominal_count
+f2c249163a8409f4dbe3,gardaBa,Ajnate,Not known. (5.3.73),ka,gardaBaka,1,5.3.70,kashika_5_3.rs:267,0,source_conditioned_relation_not_independent_nominal_count
+5e3bf6e73598ca4d9fa1,gardaBa,IvePratikrtau,,kan,gardaBaka,1,5.3.96,kashika_5_3.rs:354,0,source_conditioned_relation_not_independent_nominal_count
+7ba5cad14522b8cb76ae,garga,Gotra,Patronymic lineage. (4.1.98),yaY,gArgya,1,4.1.105;4.1.162,kashika_4_1.rs:538;kashika_4_1.rs:829,1,source_conditioned_relation_not_independent_nominal_count
+aa20282e465355e6071d,garga,TasyaApatyam,Descendant. (4.1.92),iY,gArgi,1,4.1.162,kashika_4_1.rs:833,0,source_conditioned_relation_not_independent_nominal_count
+19bd15526e3e6417f95c,gfhapati,Samyukta,Joined with this. (4.4.90),Yya,gArhapatya,1,4.4.90,kashika_4_4.rs:583,0,source_conditioned_relation_not_independent_nominal_count
+231e256d7042f9c4c6f5,gfzwi,TasyaApatyam,Descendant. (4.1.92),QaY,gArzweya,1,4.1.136,kashika_4_1.rs:723,0,source_conditioned_relation_not_independent_nominal_count
+5cbeaf37f90089a9e3a7,go,TasmaiHitam,One for whom this is good. (5.1.7),yat,gavya,1,5.1.5,kashika_5_1.rs:59,0,source_conditioned_relation_not_independent_nominal_count
+d9298699687d1103c3d8,go,TasyaSamuha,A collection of this. (4.2.37),ya,gavyA,1,4.2.50,kashika_4_2.rs:217,0,source_conditioned_relation_not_independent_nominal_count
+ddcd93981c189b3cbd62,go,TasyaVikara,Modification of this. (4.3.134),mayaw,gomaya,1,4.3.145,kashika_4_3.rs:488,0,source_conditioned_relation_not_independent_nominal_count
+5696db9a64fb27c3743b,go,TasyaVikara,Modification of this. (4.3.134),yat,gavya,1,4.3.145;4.3.160,kashika_4_3.rs:490;kashika_4_3.rs:524,1,source_conditioned_relation_not_independent_nominal_count
+9cc48a37bc5a15b5c650,goDA,TasyaApatyam,Descendant. (4.1.92),Arak,gODAra,1,4.1.130,kashika_4_1.rs:702,0,source_conditioned_relation_not_independent_nominal_count
+2b8435c1b67ecae5a2a7,goDA,TasyaApatyam,Descendant. (4.1.92),Qak,gODeya,1,4.1.129,kashika_4_1.rs:697,0,source_conditioned_relation_not_independent_nominal_count
+c288d082bf118b9021ec,goDA,TasyaApatyam,Descendant. (4.1.92),Qrak,gODera,1,4.1.129,kashika_4_1.rs:696,0,source_conditioned_relation_not_independent_nominal_count
+ac02182ca758149642b7,gopucCa,TenaKritam,What is bought with this. (5.1.37),WaY,gOpucCika,1,5.1.19,kashika_5_1.rs:183,0,source_conditioned_relation_not_independent_nominal_count
+06a0eaacd8c27c0eaeab,gopucCa,TenaTarati,One who crosses with this. (4.4.5),WaY,gOpucCika,1,4.4.6,kashika_4_4.rs:53,0,source_conditioned_relation_not_independent_nominal_count
+6d506bd7d9b97f42b4d6,gozWa,BhutaPurva,Formerly this. (5.2.18),KaY,gOzWIna,1,5.2.18,kashika_5_2.rs:116,0,source_conditioned_relation_not_independent_nominal_count
+6497809d45735c15f60e,gozada,TadAsyaAstiAsmin,What one has or is in. (5.2.94),vun,gozadaka,1,5.2.62,kashika_5_2.rs:325,0,source_conditioned_relation_not_independent_nominal_count
+873472da604231931c27,grAma,TasyaSamuha,A collection of this. (4.2.37),tal,grAmatA,1,4.2.43,kashika_4_2.rs:183,0,source_conditioned_relation_not_independent_nominal_count
+5a342ef82c505c12314e,grAma,TatraJata,Where this was born. (4.3.25),KaY,grAmIRa,1,4.3.25,kashika_4_3.rs:89,0,source_conditioned_relation_not_independent_nominal_count
+b39037f5b4eac563a4e8,grAma,TatraJata,Where this was born. (4.3.25),ya,grAmya,1,4.3.25,kashika_4_3.rs:88,0,source_conditioned_relation_not_independent_nominal_count
+e71ae9cb45ff7dd40bb7,grAmarakza,TasyaApatyam,Descendant. (4.1.92),PiY,grAmarakzAyaRi,1,4.1.157,kashika_4_1.rs:789,0,source_conditioned_relation_not_independent_nominal_count
+c449884330c5d4b6ff50,grIvA,TatraBhava,Where this stays or exists. (4.3.53),QaY,grEveya,1,4.3.57,kashika_4_3.rs:221,0,source_conditioned_relation_not_independent_nominal_count
+41730dd61e4f7e6f40ad,grIvA,TatraBhava,Where this stays or exists. (4.3.53),aR,grEva,1,4.3.57,kashika_4_3.rs:220,0,source_conditioned_relation_not_independent_nominal_count
+f2baf7651a5fe7cbd4a0,grIzma,TatraSambhute,Where this was adapted. (4.3.41),aR,grEzma,1,4.3.46,kashika_4_3.rs:190,0,source_conditioned_relation_not_independent_nominal_count
+5346739e51195656e015,grIzma,TatraSambhute,Where this was adapted. (4.3.41),vuY,grEzmaka,1,4.3.46,kashika_4_3.rs:189,0,source_conditioned_relation_not_independent_nominal_count
+c927208ccab602ba064c,gulma,Avakraya,What is taxed. (4.4.50),Wak,gOlmika,1,4.4.50,kashika_4_4.rs:360,0,source_conditioned_relation_not_independent_nominal_count
+5625d418d6cfad239faa,gulma,Niyuktam,Where one is appointed. (4.4.69),Wak,gOlmika,1,4.4.69,kashika_4_4.rs:475,0,source_conditioned_relation_not_independent_nominal_count
+3602bdd2a6c4f97782f7,gulma,TasyaDharmyam,One who has this custom. (4.4.47),Wak,gOlmika,1,4.4.47,kashika_4_4.rs:335,0,source_conditioned_relation_not_independent_nominal_count
+f21624cbb2b5147d5bd4,guqa,TatraSadhu,Skilled in this. (4.4.98),WaY,gOqika,1,4.4.103,kashika_4_4.rs:663,0,source_conditioned_relation_not_independent_nominal_count
+4b9b6ee12786d60b6dd9,hAstipada,TasyaIdam,One who has this. (4.3.120),aR,hAstipada,1,4.3.132,kashika_4_3.rs:420,0,source_conditioned_relation_not_independent_nominal_count
+619f2889f9a343cbb95b,hala,TadVahati,What one bears. (4.4.78),Wak,hAlika,1,4.4.81,kashika_4_4.rs:539,0,source_conditioned_relation_not_independent_nominal_count
+8f82858b0ee7368dff89,hala,TasyaIdam,One who has this. (4.3.120),Wak,hAlika,1,4.3.124,kashika_4_3.rs:391,0,source_conditioned_relation_not_independent_nominal_count
+3bde011d05c0f192442e,hariRa,Hanti,What one kills. (4.4.35),Wak,hAriRika,1,4.4.35,kashika_4_4.rs:251,0,source_conditioned_relation_not_independent_nominal_count
+69b34ea55e3222b2d865,hastin,TadAsyaPramanam,Measure. (5.2.37),aR,hAstina,1,5.2.38,kashika_5_2.rs:235,0,source_conditioned_relation_not_independent_nominal_count
+d4eccf32cf80d5742fc7,hastin,TadAsyaPramanam,Measure. (5.2.37),daGnac,hastidaGna,1,5.2.38,kashika_5_2.rs:237,0,source_conditioned_relation_not_independent_nominal_count
+d0a1e493af0e1204f447,hastin,TadAsyaPramanam,Measure. (5.2.37),dvayasac,hastidvayasa,1,5.2.38,kashika_5_2.rs:236,0,source_conditioned_relation_not_independent_nominal_count
+0be87e0a4598e156792b,hastin,TadAsyaPramanam,Measure. (5.2.37),mAtrac,hastimAtra,1,5.2.38,kashika_5_2.rs:238,0,source_conditioned_relation_not_independent_nominal_count
+fcd68d32291f6ce008cf,hastin,TenaCarati,One who walks or eats with this. (4.4.8),Wak,hAstika,1,4.4.8,kashika_4_4.rs:67,0,source_conditioned_relation_not_independent_nominal_count
+45dc36405670ead3b4cc,hemanta,TatraJata,Where this was born. (4.3.25),aR,hEmana,1,4.3.22,kashika_4_3.rs:75,0,source_conditioned_relation_not_independent_nominal_count
+ce7a19e540e106bad994,hfdaya,Priya,Dear to this. (4.4.95),yat,hfdya,1,4.4.95,kashika_4_4.rs:619,0,source_conditioned_relation_not_independent_nominal_count
+54c5c988e59b42c0e668,hfzwi,TasyaApatyam,Descendant. (4.1.92),QaY,hArzweya,1,4.1.136,kashika_4_1.rs:724,0,source_conditioned_relation_not_independent_nominal_count
+3da48b1003f55a16d0c7,himavat,TatraBhava,Where this stays or exists. (4.3.53),aR,hEmavata,1,4.4.112,kashika_4_4.rs:699,0,source_conditioned_relation_not_independent_nominal_count
+e1a1732552222aa8a10e,hiraRya,TatraKama,A desire for which. (5.2.65),kan,hiraRyaka,1,5.2.65,kashika_5_2.rs:344,0,source_conditioned_relation_not_independent_nominal_count
+b20aefcaab152fa61666,idaMyuga,TatraSadhu,Skilled in this. (4.4.98),KaY,EdaMyugIna,1,4.4.99,kashika_4_4.rs:640,0,source_conditioned_relation_not_independent_nominal_count
+ae6fb307b88df72c3f2f,idam,Parimana,Volume. (5.2.39),vatup,iyat,1,5.2.40,kashika_5_2.rs:251,0,source_conditioned_relation_not_independent_nominal_count
+5184ad473f98e0de751d,ikzvAku,Janapada,Country. (4.1.168),aY,EkzvAka,1,4.1.168,kashika_4_1.rs:839,0,source_conditioned_relation_not_independent_nominal_count
+0d256c9e4a9a4563d223,indra,SaAsyaDevata,Having this as a god. (4.2.24),aR,Endra,1,4.2.24,kashika_4_2.rs:58,0,source_conditioned_relation_not_independent_nominal_count
+bd6fc59385eb3ef82c7c,izetvA,TadAsyaAstiAsmin,What one has or is in. (5.2.94),vun,izetvaka,1,5.2.62,kashika_5_2.rs:326,0,source_conditioned_relation_not_independent_nominal_count
+dc915a3ad23dbf43907c,jAnu,TadAsyaPramanam,Measure. (5.2.37),daGnac,jAnudaGna,1,5.2.37,kashika_5_2.rs:221,0,source_conditioned_relation_not_independent_nominal_count
+dff4ef2fed11bd6df11f,jAnu,TadAsyaPramanam,Measure. (5.2.37),dvayasac,jAnudvayasa,1,5.2.37,kashika_5_2.rs:220,0,source_conditioned_relation_not_independent_nominal_count
+da3d3c1898c2adf65523,jAnu,TadAsyaPramanam,Measure. (5.2.37),mAtrac,jAnumAtra,1,5.2.37,kashika_5_2.rs:222,0,source_conditioned_relation_not_independent_nominal_count
+52f46f63185315188ce4,jAnuprahfta,TenaNirvrtte,Completed with. (4.4.19),Wak,jAnuprahftika,1,4.4.19,kashika_4_4.rs:141,0,source_conditioned_relation_not_independent_nominal_count
+799b1ee879e1416831db,jIvanta,Gotra,Patronymic lineage. (4.1.98),Pak,jEvantAyana,1,4.1.103,kashika_4_1.rs:526,0,source_conditioned_relation_not_independent_nominal_count
+bc9e16dd104e079b4a05,jIvanta,Gotra,Patronymic lineage. (4.1.98),iY,jEvanti,1,4.1.103,kashika_4_1.rs:527,0,source_conditioned_relation_not_independent_nominal_count
+e2e76ee02c61306ea287,jaGana,IvePratikrtau,,yat,jaGanya,1,5.3.103,kashika_5_3.rs:368,0,source_conditioned_relation_not_independent_nominal_count
+561db1cd5bb24c49d2e3,jaNgalapaTa,Ahrtam,What is conveyed by that way. (5.1.77),WaY,jANgalapaTika,1,5.1.77,kashika_5_1.rs:502,0,source_conditioned_relation_not_independent_nominal_count
+6202a8b73298359a1060,jaNgalapaTa,Gacchati,Who goes. (5.1.75),WaY,jANgalapaTika,1,5.1.77,kashika_5_1.rs:501,0,source_conditioned_relation_not_independent_nominal_count
+8ebbf3f6c52d3343650c,janI,TadVahati,What one bears. (4.4.78),yat,janya,1,4.4.82,kashika_4_4.rs:545,0,source_conditioned_relation_not_independent_nominal_count
+2b970ff639bc772980ec,jana,TasyaSamuha,A collection of this. (4.2.37),tal,janatA,1,4.2.43,kashika_4_2.rs:184,0,source_conditioned_relation_not_independent_nominal_count
+c972c6eb9730a5ee1d39,jatu,TasyaVikara,Modification of this. (4.3.134),aR,jAtuza,1,4.3.138,kashika_4_3.rs:451,0,source_conditioned_relation_not_independent_nominal_count
+08cbd432381ebf7ebe17,jihvAmUla,TatraBhava,Where this stays or exists. (4.3.53),Ca,jihvAmUlIya,1,4.3.62,kashika_4_3.rs:239,0,source_conditioned_relation_not_independent_nominal_count
+164ec410675bc3f32ba7,kARqaplava,TenaTarati,One who crosses with this. (4.4.5),Wak,kARqaplavika,1,4.4.5,kashika_4_4.rs:48,0,source_conditioned_relation_not_independent_nominal_count
+a89be15b07ebe4c4ed1d,kASyapa,TenaProktam,What is proclaimed by this person. (4.3.101),Rini,kASyapin,1,4.3.103,kashika_4_3.rs:326,0,source_conditioned_relation_not_independent_nominal_count
+48a935038b06b13e10b6,kAka,TasyaSamuha,A collection of this. (4.2.37),aR,kAka,1,4.2.37,kashika_4_2.rs:141,0,source_conditioned_relation_not_independent_nominal_count
+93c7be27bb5d4b929eeb,kAkatIra,TatraJata,Where this was born. (4.3.25),aY,kAkatIra,1,4.2.106,kashika_4_2.rs:458,0,source_conditioned_relation_not_independent_nominal_count
+64d2b5358f5085ebb759,kAntArapaTa,Ahrtam,What is conveyed by that way. (5.1.77),WaY,kAntArapaTika,1,5.1.77,kashika_5_1.rs:508,0,source_conditioned_relation_not_independent_nominal_count
+cf94ee7e64b53a3ab661,kAntArapaTa,Gacchati,Who goes. (5.1.75),WaY,kAntArapaTika,1,5.1.77,kashika_5_1.rs:507,0,source_conditioned_relation_not_independent_nominal_count
+a0fb4df937666d13458e,kOSika,TenaProktam,What is proclaimed by this person. (4.3.101),Rini,kOSikin,1,4.3.103,kashika_4_3.rs:327,0,source_conditioned_relation_not_independent_nominal_count
+24bd12a38142856df8ae,kOpiYjala,TasyaIdam,One who has this. (4.3.120),aR,kOpiYjala,1,4.3.132,kashika_4_3.rs:419,0,source_conditioned_relation_not_independent_nominal_count
+33eff3ac9eeac831827c,kUcavAra,AsyaNivasa,Dwelling. (4.3.89),yak,kOcavArya,1,4.3.94,kashika_4_3.rs:307,0,source_conditioned_relation_not_independent_nominal_count
+cb21cb404d599b5d6565,ka,SaAsyaDevata,Having this as a god. (4.2.24),aR,kAya,1,4.2.25,kashika_4_2.rs:66,0,source_conditioned_relation_not_independent_nominal_count
+de3fa66579362630ad48,kaMsa,TenaKritam,What is bought with this. (5.1.37),wiWan,kaMsika,1,5.1.25,kashika_5_1.rs:226,0,source_conditioned_relation_not_independent_nominal_count
+60f93ca6a3f144f454e0,kaRWa,TasmaiHitam,One for whom this is good. (5.1.7),yat,kaRWya,1,5.1.6,kashika_5_1.rs:68,0,source_conditioned_relation_not_independent_nominal_count
+ce22a59c4240d125ab2b,kaRa,Unchati,What is gleaned. (4.4.32),Wak,kARika,1,4.4.32,kashika_4_4.rs:225,0,source_conditioned_relation_not_independent_nominal_count
+cf7dbe771f754de3640a,kaTA,TatraSadhu,Skilled in this. (4.4.98),Wak,kATika,1,4.4.102,kashika_4_4.rs:657,0,source_conditioned_relation_not_independent_nominal_count
+f06b538049161ad6dfda,kaWa,TenaProktam,What is proclaimed by this person. (4.3.101),Rini,kaWa,1,4.3.107,kashika_4_3.rs:332,0,source_conditioned_relation_not_independent_nominal_count
+fd836830b916d02988e1,kacCa,TatraJata,Where this was born. (4.3.25),aR,kAcCa,1,4.2.133,kashika_4_2.rs:513,0,source_conditioned_relation_not_independent_nominal_count
+95d75ffd208d4317a0fb,kalApin,TenaProktam,What is proclaimed by this person. (4.3.101),aR,kAlApina,1,4.3.108,kashika_4_3.rs:339,0,source_conditioned_relation_not_independent_nominal_count
+07846b5377a27fa7c4c7,kalaSa,SamskrtamBhaksha,Food that is prepared with this vessel or medium. (4.2.16),aR,kAlaSa,1,4.2.16,kashika_4_2.rs:30,0,source_conditioned_relation_not_independent_nominal_count
+11c2c196926a24c1e3dd,kalaSi,TatraBhava,Where this stays or exists. (4.3.53),QaY,kAlaSeya,1,4.3.56,kashika_4_3.rs:212,0,source_conditioned_relation_not_independent_nominal_count
+4a718728f9b9a5b440c6,kalakUwa,Janapada,Country. (4.1.168),iY,kAlakUwi,1,4.1.173,kashika_4_1.rs:899,0,source_conditioned_relation_not_independent_nominal_count
+fe1ac6b3cc0d99c6be06,kaliNga,Janapada,Country. (4.1.168),aR,kAliNga,1,4.1.170,kashika_4_1.rs:861,0,source_conditioned_relation_not_independent_nominal_count
+e30c92090ef4dfb206b1,kalyARI,TasyaApatyam,Descendant. (4.1.92),Qak,kalyARineya,1,4.1.126,kashika_4_1.rs:672,0,source_conditioned_relation_not_independent_nominal_count
+bab51f43b57624ec3e40,kambala,TasmaiHitam,One for whom this is good. (5.1.7),Ca,kambalIya,1,5.1.3,kashika_5_1.rs:34,0,source_conditioned_relation_not_independent_nominal_count
+16c6de4ce60deb7120e5,kamboja,Janapada,Country. (4.1.168),aY,kamboja,1,4.1.175,kashika_4_1.rs:905,0,source_conditioned_relation_not_independent_nominal_count
+2758aacb73380606fb68,kapAlikA,IvePratikrtau,,aR,kApAlika,1,5.3.107,kashika_5_3.rs:379,0,source_conditioned_relation_not_independent_nominal_count
+cd09e48e2ba0f92adb2d,kapawu,TasyaApatyam,Descendant. (4.1.92),aR,kApawava,1,4.1.83,kashika_4_1.rs:422,0,source_conditioned_relation_not_independent_nominal_count
+5bba27951749bb1376c1,kapi,Gotra,Patronymic lineage. (4.1.98),Qak,kApeya,1,4.1.107,kashika_4_1.rs:556,0,source_conditioned_relation_not_independent_nominal_count
+1cab50acd2790bf8ff3a,kapi,Gotra,Patronymic lineage. (4.1.98),yaY,kApya,1,4.1.107,kashika_4_1.rs:553,0,source_conditioned_relation_not_independent_nominal_count
+d5bad921f441015d875f,kapota,TasyaVikara,Modification of this. (4.3.134),aR,kApota,1,4.3.135,kashika_4_3.rs:425,0,source_conditioned_relation_not_independent_nominal_count
+a32f4fbc4fd4f941afe3,kaqaNkara,TadArhati,One deserves this. (5.1.63),Ca,kaqaNkarIya,1,5.1.69,kashika_5_1.rs:430,0,source_conditioned_relation_not_independent_nominal_count
+811026cf8a7aa48a3198,kaqaNkara,TadArhati,One deserves this. (5.1.63),yat,kaqaNkarya,1,5.1.69,kashika_5_1.rs:431,0,source_conditioned_relation_not_independent_nominal_count
+e0b77a60d9af6ffb879b,karIra,TasyaVikara,Modification of this. (4.3.134),aR,kArIra,1,4.3.135,kashika_4_3.rs:429,0,source_conditioned_relation_not_independent_nominal_count
+2963eae9d90fcac0475c,karRa,TasyaPakamula,The ripening season of this. (5.2.24),jAhac,karRajAha,1,5.2.24,kashika_5_2.rs:134,0,source_conditioned_relation_not_independent_nominal_count
+37c25172bc8a9419c3ad,karRa,TatraBhava,Where this stays or exists. (4.3.53),kan,karRaka,1,4.3.65,kashika_4_3.rs:256,0,source_conditioned_relation_not_independent_nominal_count
+42deb217dd0f7cf42d61,karaBa,TasmaiHitam,One for whom this is good. (5.1.7),Ca,karaBIya,1,5.1.1,kashika_5_1.rs:17,0,source_conditioned_relation_not_independent_nominal_count
+91ed3b655c76e4ac6437,kardamA,TenaRaktam,One dyed by this. (4.2.1),Wak,kArdamika,1,4.2.2,kashika_4_2.rs:24,0,source_conditioned_relation_not_independent_nominal_count
+2383249278ffd45a51ce,karka,IvePratikrtau,,Ikak,kArkIka,1,5.3.110,kashika_5_3.rs:396,0,source_conditioned_relation_not_independent_nominal_count
+ebb23f1705d557bb402e,karkanDu,TasyaPakamula,The ripening season of this. (5.2.24),kuRap,karkanDukuRa,1,5.2.24,kashika_5_2.rs:133,0,source_conditioned_relation_not_independent_nominal_count
+e33b185f13c66b4e5e59,karman,TatraSadhu,Skilled in this. (4.4.98),yat,karmaRya,1,4.4.98,kashika_4_4.rs:633,0,source_conditioned_relation_not_independent_nominal_count
+5ab373d21ca6e25e3d62,karmanda,TenaProktam,What is proclaimed by this person. (4.3.101),ini,karmandin,1,4.3.111,kashika_4_3.rs:356,0,source_conditioned_relation_not_independent_nominal_count
+48fcb0095f51a75ff134,katri,TatraJata,Where this was born. (4.3.25),QakaY,kAtreyaka,1,4.3.25,kashika_4_3.rs:90,0,source_conditioned_relation_not_independent_nominal_count
+522abf61acd96ad4ffa1,kavacin,TasyaSamuha,A collection of this. (4.2.37),WaY,kAvacika,1,4.2.41,kashika_4_2.rs:165,0,source_conditioned_relation_not_independent_nominal_count
+e6f3317c1f5b43b54363,kavarga,TatraBhava,Where this stays or exists. (4.3.53),Ca,kavargIya,1,4.3.63,kashika_4_3.rs:247,0,source_conditioned_relation_not_independent_nominal_count
+f5d160145525c031140b,kazAya,TenaRaktam,One dyed by this. (4.2.1),aR,kAzAya,1,4.2.1,kashika_4_2.rs:14,0,source_conditioned_relation_not_independent_nominal_count
+129491f2ead55282f8b1,keSa,TasyaSamuha,A collection of this. (4.2.37),Wak,kESika,1,4.2.48,kashika_4_2.rs:203,0,source_conditioned_relation_not_independent_nominal_count
+e55c86d563e3d235a41f,keSa,TasyaSamuha,A collection of this. (4.2.37),yaY,kESya,1,4.2.48,kashika_4_2.rs:202,0,source_conditioned_relation_not_independent_nominal_count
+882f53bd90586ee2a171,kedAra,TasyaSamuha,A collection of this. (4.2.37),WaY,kEdArika,1,4.2.41,kashika_4_2.rs:166,0,source_conditioned_relation_not_independent_nominal_count
+a83ebffe672c12c24a14,kedAra,TasyaSamuha,A collection of this. (4.2.37),vuY,kEdAraka,1,4.2.40,kashika_4_2.rs:154,0,source_conditioned_relation_not_independent_nominal_count
+c2b77cff4c5b763e0aef,kedAra,TasyaSamuha,A collection of this. (4.2.37),yaY,kEdArya,1,4.2.40,kashika_4_2.rs:155,0,source_conditioned_relation_not_independent_nominal_count
+ddf20458c9315946fd90,kfSASva,TenaProktam,What is proclaimed by this person. (4.3.101),ini,kfSASvin,1,4.3.111,kashika_4_3.rs:357,0,source_conditioned_relation_not_independent_nominal_count
+6a0bbcaec0f474eac81d,kfkaRa,TataAgata,Where one came from. (4.3.74),aR,kArkaRa,1,4.3.76,kashika_4_3.rs:271,0,source_conditioned_relation_not_independent_nominal_count
+c84b7dd40f1fa6ecf075,kfzI,TadAsyaAstiAsmin,What one has or is in. (5.2.94),valac,kfzIvala,1,5.2.112,kashika_5_2.rs:431,0,source_conditioned_relation_not_independent_nominal_count
+5c80a522af1caeb385c3,kiSara,TadAsyaPanyam,One who sells this item. (4.4.51),zWan,kiSarika,1,4.4.53,kashika_4_4.rs:378,0,source_conditioned_relation_not_independent_nominal_count
+75e77bbbd291f7554df7,kim,BahunamEka,One of many. (5.3.93),qatamac,katama,1,5.3.93,kashika_5_3.rs:338,0,source_conditioned_relation_not_independent_nominal_count
+3f1d9c70e9863de62a41,kim,DvayorEka,One of two. (5.3.92),qatarac,katara,1,5.3.92,kashika_5_3.rs:331,0,source_conditioned_relation_not_independent_nominal_count
+7e28cd8c16802b855832,kim,Parimana,Volume. (5.2.39),qati,kati,1,5.2.41,kashika_5_2.rs:256,0,source_conditioned_relation_not_independent_nominal_count
+f5c30b6442f572a8f4e7,kim,Parimana,Volume. (5.2.39),vatup,kiyat,1,5.2.40,kashika_5_2.rs:250,0,source_conditioned_relation_not_independent_nominal_count
+26e9bec8f715f6fc1c71,koSa,TatraSambhute,Where this was adapted. (4.3.41),QaY,kOSeya,1,4.3.42,kashika_4_3.rs:177,0,source_conditioned_relation_not_independent_nominal_count
+15811e9a314f5c0d8ee0,kosala,Janapada,Country. (4.1.168),YyaN,kOsalya,1,4.1.171,kashika_4_1.rs:876,0,source_conditioned_relation_not_independent_nominal_count
+5104ec626915ccb55c8a,kozWAgAra,Niyuktam,Where one is appointed. (4.4.69),Wan,kozWAgArika,1,4.4.70,kashika_4_4.rs:482,0,source_conditioned_relation_not_independent_nominal_count
+144f79ced966027a85b1,krama,TadAdhiteTadVeda,What one studies or knows. (4.2.59),vun,kramaka,1,4.2.61,kashika_4_2.rs:265,0,source_conditioned_relation_not_independent_nominal_count
+adcdaeec9587e8c0dc54,kraya,TenaJivati,One who lives with this. (4.4.12),Wan,krayika,1,4.4.13,kashika_4_4.rs:102,0,source_conditioned_relation_not_independent_nominal_count
+122934a98fa7032e34bd,krayavikraya,TenaJivati,One who lives with this. (4.4.12),Wan,krayavikrayika,1,4.4.13,kashika_4_4.rs:104,0,source_conditioned_relation_not_independent_nominal_count
+2a93d53677a12e2b6eb9,kroSaSata,AbhigamanamArhati,Who deserves approach (5.1.74 vArttika),WaY,krOSaSatika,1,5.1.74,kashika_5_1.rs:472,0,source_conditioned_relation_not_independent_nominal_count
+6f99dd993f55b44375f3,kuSAgra,IvePratikrtau,,Ca,kuSAgrIya,1,5.3.105,kashika_5_3.rs:373,0,source_conditioned_relation_not_independent_nominal_count
+53512f497c50a27e26be,kuYja,Gotra,Patronymic lineage. (4.1.98),cPaY,kOYjAyana,1,4.1.98,kashika_4_1.rs:495,0,source_conditioned_relation_not_independent_nominal_count
+a17fd26cce8a3796fb1f,kuYja,TasyaApatyam,Descendant. (4.1.92),iY,kOYji,1,4.1.162;4.1.98,kashika_4_1.rs:498;kashika_4_1.rs:832,1,source_conditioned_relation_not_independent_nominal_count
+f3acbbfe440b70d14715,kuddAla,TenaDivyatiJayatiJitam,"One who gambles, conquers, or is conquered with this. (4.4.2)",Wak,kOddAlika,1,4.4.2,kashika_4_4.rs:28,0,source_conditioned_relation_not_independent_nominal_count
+ccdf8cb893c154fcbd45,kudrava,DhanyanamBhavaneKshetre,"A place of growing, when that place is a field. (5.2.1)",KaY,kOdravIna,1,5.2.1,kashika_5_2.rs:17,0,source_conditioned_relation_not_independent_nominal_count
+0896e24b8c4b71de25c4,kukkuwI,Pashyati,What one sees. (4.4.46),Wak,kOkkuwika,1,4.4.46,kashika_4_4.rs:327,0,source_conditioned_relation_not_independent_nominal_count
+fb35a7336d787bf2b00f,kukzi,TatraBhava,Where this stays or exists. (4.3.53),QaY,kOkzeya,1,4.3.56,kashika_4_3.rs:211,0,source_conditioned_relation_not_independent_nominal_count
+eb6959db8002fa15d6e5,kulAla,TenaKrte,By whom this is made. (4.3.116),vuY,kOlAlaka,1,4.3.118,kashika_4_3.rs:362,0,source_conditioned_relation_not_independent_nominal_count
+78bca7c3f84b7ef6c27c,kula,TasyaApatyam,Descendant. (4.1.92),Ka,kulIna,1,4.1.139;4.1.140,kashika_4_1.rs:741;kashika_4_1.rs:748,1,source_conditioned_relation_not_independent_nominal_count
+dc413eae90516c87c234,kula,TasyaApatyam,Descendant. (4.1.92),QakaY,kOleyaka,1,4.1.140,kashika_4_1.rs:747,0,source_conditioned_relation_not_independent_nominal_count
+583c0584fab273cd14e7,kula,TasyaApatyam,Descendant. (4.1.92),yat,kulya,1,4.1.140,kashika_4_1.rs:746,0,source_conditioned_relation_not_independent_nominal_count
+7af839ad8f94f6d53e53,kulatTa,DhanyanamBhavaneKshetre,"A place of growing, when that place is a field. (5.2.1)",KaY,kOlatTIna,1,5.2.1,kashika_5_2.rs:18,0,source_conditioned_relation_not_independent_nominal_count
+8141699b0d1243166576,kulatTa,TenaSamskrtam,Cultured or processed. (4.4.3),aR,kOlatTa,1,4.4.4,kashika_4_4.rs:40,0,source_conditioned_relation_not_independent_nominal_count
+f76c68f593c38832e02d,kulmAza,TatraSadhu,Skilled in this. (4.4.98),WaY,kOlmAzika,1,4.4.103,kashika_4_4.rs:664,0,source_conditioned_relation_not_independent_nominal_count
+8669c2accb39e97f6a51,kumBa,SamskrtamBhaksha,Food that is prepared with this vessel or medium. (4.2.16),aR,kOmBa,1,4.2.16,kashika_4_2.rs:31,0,source_conditioned_relation_not_independent_nominal_count
+cf5083f2f0e9d54a82a8,kunti,Janapada,Country. (4.1.168),YyaN,kOntya,1,4.1.171,kashika_4_1.rs:875,0,source_conditioned_relation_not_independent_nominal_count
+7ea7fa6fc059624d784a,kuqava,SambhavatiAharatiPacati,"What is capable of this, or holds this, or cooks this. (5.152)",WaY,kOqavika,1,5.1.52,kashika_5_1.rs:354,0,source_conditioned_relation_not_independent_nominal_count
+0db0bffc4216012ea2d0,kuqava,TadAsyaParimanam,The measure of this. (5.1.57),WaY,kOqavika,1,5.1.57,kashika_5_1.rs:381,0,source_conditioned_relation_not_independent_nominal_count
+016170b9dd604084e129,kuru,Janapada,Country. (4.1.168),Rya,kOravya,1,4.1.172,kashika_4_1.rs:883,0,source_conditioned_relation_not_independent_nominal_count
+1f06cc45bcfa229d8d58,kusIda,PrayacchatiGarhyam,One who gives in a contemptible way. (4.4.30),zWan,kusIdika,1,4.4.31,kashika_4_4.rs:217,0,source_conditioned_relation_not_independent_nominal_count
+2f8f64f062ffa5ccd76d,kusumBa,TenaRaktam,One dyed by this. (4.2.1),aR,kOsumBa,1,4.2.1,kashika_4_2.rs:16,0,source_conditioned_relation_not_independent_nominal_count
+0355c975568a1fd107d4,kutU,Hrasve,,qupac,kutupa,1,5.3.89,kashika_5_3.rs:308,0,source_conditioned_relation_not_independent_nominal_count
+58d233644a23c3b557c3,kuwI,Hrasve,,ra,kuwIra,1,5.3.88,kashika_5_3.rs:300,0,source_conditioned_relation_not_independent_nominal_count
+a39574f8fc77a8cecc65,kuwaja,TadDharatiVahatiAvahati,"What one carries away, or conveys, or brings. (5.1.50)",Wak,kOwajika,1,5.1.50,kashika_5_1.rs:339,0,source_conditioned_relation_not_independent_nominal_count
+ff49afb8965a9d529c3f,kuwilikA,TenaHarati,One who conveys with this. (4.4.15),aR,kOwilika,1,4.4.18,kashika_4_4.rs:135,0,source_conditioned_relation_not_independent_nominal_count
+982a32095e661d6c075b,kuzItaka,TasyaApatyam,Descendant. (4.1.92),Qak,kOzItakeya,1,4.1.124,kashika_4_1.rs:658,0,source_conditioned_relation_not_independent_nominal_count
+2e24896d87db12f0e4ed,kuzItaka,TasyaApatyam,Descendant. (4.1.92),iY,kOzItaki,1,4.1.124,kashika_4_1.rs:660,0,source_conditioned_relation_not_independent_nominal_count
+2db370d4acf9b750f3dd,kzIra,SamskrtamBhaksha,Food that is prepared with this vessel or medium. (4.2.16),QaY,kzEreya,1,4.2.20,kashika_4_2.rs:53,0,source_conditioned_relation_not_independent_nominal_count
+ad3bef6cb224fa1aa851,kzatra,TasyaApatyam,Descendant. (4.1.92),Ga,kzatriya,1,4.1.138,kashika_4_1.rs:736,0,source_conditioned_relation_not_independent_nominal_count
+7226a53f9cec4c58c00e,kzudrA,TenaKrte,By whom this is made. (4.3.116),aY,kzOdra,1,4.3.119,kashika_4_3.rs:368,0,source_conditioned_relation_not_independent_nominal_count
+fb8690898e3edb8471d7,lAkzA,TenaRaktam,One dyed by this. (4.2.1),Wak,lAkzika,1,4.2.2,kashika_4_2.rs:21,0,source_conditioned_relation_not_independent_nominal_count
+c918cdf293c279c2a808,lalAma,Grhnati,What one takes. (4.4.39),Wak,lAlAmika,1,4.4.40,kashika_4_4.rs:286,0,source_conditioned_relation_not_independent_nominal_count
+ae06ff48a35c1c9d13c6,lalAwa,Pashyati,What one sees. (4.4.46),Wak,lAlAwika,1,4.4.46,kashika_4_4.rs:326,0,source_conditioned_relation_not_independent_nominal_count
+ad83da9890eb0db0ba4a,lalAwa,TatraBhava,Where this stays or exists. (4.3.53),kan,lalAwaka,1,4.3.65,kashika_4_3.rs:257,0,source_conditioned_relation_not_independent_nominal_count
+2d6c37567ae3373f585c,lavaRa,TadAsyaPanyam,One who sells this item. (4.4.51),WaY,lAvaRika,1,4.4.52,kashika_4_4.rs:372,0,source_conditioned_relation_not_independent_nominal_count
+7b40e4c24b26568925ec,lavaRa,TenaSamsrshte,Mixed with. (4.4.22),Wak,lavaRa,1,4.4.24,kashika_4_4.rs:172,0,source_conditioned_relation_not_independent_nominal_count
+4609226c39e643bce6b4,lohita,IvePratikrtau,,Ikak,lOhitIka,1,5.3.110,kashika_5_3.rs:397,0,source_conditioned_relation_not_independent_nominal_count
+3c296fb2c397be6742eb,mAMsOdana,TadAsmaiDiyateNiyuktam,To whom this is given rightfully. (4.4.66),wiWan,mAMsOdanika,1,4.4.67,kashika_4_4.rs:460,0,source_conditioned_relation_not_independent_nominal_count
+771b018f14b8cb0644e2,mARava,TasmaiHitam,One for whom this is good. (5.1.7),KaY,mARavIna,1,5.1.11,kashika_5_1.rs:115,0,source_conditioned_relation_not_independent_nominal_count
+1694dbcc2b46d952b17c,mARava,TasyaSamuha,A collection of this. (4.2.37),yan,mARavya,1,4.2.42,kashika_4_2.rs:172,0,source_conditioned_relation_not_independent_nominal_count
+a08b51245c9d1702e028,mAkala,TatraJata,Where this was born. (4.3.25),WaY,mAkalika,1,4.3.25,kashika_4_3.rs:87,0,source_conditioned_relation_not_independent_nominal_count
+c0c5a5019a60610dcd40,mAlava,TasyaVishayoDeshe,A domain of this. (4.2.52),vuY,mAlavaka,1,4.2.53,kashika_4_2.rs:233,0,source_conditioned_relation_not_independent_nominal_count
+b7a5fd737c6fe8a5637f,mAsa,TamAdhisteBhrtoBhutoBhavi,"For which time one instructs, is paid, existed, or will exist. (5.1.80)",WaY,mAsika,1,5.1.80,kashika_5_1.rs:536,0,source_conditioned_relation_not_independent_nominal_count
+8f45bd3fcb6b1f467a89,mAsa,TenaNirvrttam,Completed by this time. (5.1.79),WaY,mAsika,1,5.1.79;5.1.81,kashika_5_1.rs:527;kashika_5_1.rs:545,1,source_conditioned_relation_not_independent_nominal_count
+18ca1b337fbed65f9a6e,mAsa,Vayasi,Age. (5.1.81),KaY,mAsIna,1,5.1.81,kashika_5_1.rs:542,0,source_conditioned_relation_not_independent_nominal_count
+370231bc1cd2b1fb095b,mAsa,Vayasi,Age. (5.1.81),yat,mAsya,1,5.1.81,kashika_5_1.rs:541,0,source_conditioned_relation_not_independent_nominal_count
+92af2ce01d931651796a,mAtariSvan,TadAsyaAstiAsmin,What one has or is in. (5.2.94),vun,mAtariSvaka,1,5.2.62,kashika_5_2.rs:327,0,source_conditioned_relation_not_independent_nominal_count
+ae3178991a0d4b16dafc,mAtfBoga,TasmaiHitam,One for whom this is good. (5.1.7),Ka,mAtfBogIRa,1,5.1.9,kashika_5_1.rs:101,0,source_conditioned_relation_not_independent_nominal_count
+e8a00472f2c0f4ac35f5,mAtfzvasf,TasyaApatyam,Descendant. (4.1.92),CaR,mAtfzvasrIya,1,4.1.134,kashika_4_1.rs:717,0,source_conditioned_relation_not_independent_nominal_count
+5378781efd0a5f5c4257,mAtfzvasf,TasyaApatyam,Descendant. (4.1.92),Qak,mAtfzvaseya,1,4.1.134,kashika_4_1.rs:718,0,source_conditioned_relation_not_independent_nominal_count
+ac29f4b2d0b536738cb3,mAza,TasmaiHitam,One for whom this is good. (5.1.7),yat,mAzya,1,5.1.7,kashika_5_1.rs:83,0,source_conditioned_relation_not_independent_nominal_count
+92505d69441cba147d56,mAza,TenaKritam,What is bought with this. (5.1.37),Wak,mAzika,1,5.1.20;5.1.37,kashika_5_1.rs:194;kashika_5_1.rs:252,1,source_conditioned_relation_not_independent_nominal_count
+7d1dedb37ed0d3d3a76c,mIna,Hanti,What one kills. (4.4.35),Wak,mEnika,1,4.4.35,kashika_4_4.rs:247,0,source_conditioned_relation_not_independent_nominal_count
+62998b34f06befc3a818,mUlA,TatraJata,Where this was born. (4.3.25),vun,mUlaka,1,4.3.28,kashika_4_3.rs:111,0,source_conditioned_relation_not_independent_nominal_count
+90051a79f53cc7b82a1f,mUla,AsyaAbarhi,Whose root is removed. (4.4.88),yat,mUlya,1,4.4.88,kashika_4_4.rs:578,0,source_conditioned_relation_not_independent_nominal_count
+368e69c60516857eb2f0,maDu,Gotra,Patronymic lineage. (4.1.98),aR,mADava,1,4.1.106,kashika_4_1.rs:545,0,source_conditioned_relation_not_independent_nominal_count
+95ca20fe2b9e806728eb,maDu,Gotra,Patronymic lineage. (4.1.98),yaY,mADavya,1,4.1.106,kashika_4_1.rs:544,0,source_conditioned_relation_not_independent_nominal_count
+c95dd2aad1251ddf6f9f,maDuka,TasyaVikara,Modification of this. (4.3.134),aR,mADuka,1,4.3.137,kashika_4_3.rs:445,0,source_conditioned_relation_not_independent_nominal_count
+95ad46fa82ccc6506fe2,maDya,TatraJata,Where this was born. (4.3.25),aR,maDyama,1,4.3.8,kashika_4_3.rs:43,0,source_conditioned_relation_not_independent_nominal_count
+01b4956bcb03047043f8,maRqUka,TasyaApatyam,Descendant. (4.1.92),Qak,mARqUkeya,1,4.1.119,kashika_4_1.rs:614,0,source_conditioned_relation_not_independent_nominal_count
+1c2c32fa52066fd6ed1f,maRqUka,TasyaApatyam,Descendant. (4.1.92),aR,mARqUka,1,4.1.119,kashika_4_1.rs:612,0,source_conditioned_relation_not_independent_nominal_count
+4b2315f0b684e21edaf8,maRqUka,TasyaApatyam,Descendant. (4.1.92),iY,mARqUki,1,4.1.119,kashika_4_1.rs:613,0,source_conditioned_relation_not_independent_nominal_count
+d0c7106ff170c1913e08,maRqUka,TasyaVikara,Modification of this. (4.3.134),aR,mARqUka,1,4.3.137,kashika_4_3.rs:443,0,source_conditioned_relation_not_independent_nominal_count
+c1f8b000d479a451b92f,maTura,AsyaNivasa,Dwelling. (4.3.89),aR,mATura,1,4.3.89,kashika_4_3.rs:284,0,source_conditioned_relation_not_independent_nominal_count
+d4920224691e24f75435,maTura,TataAgata,Where one came from. (4.3.74),aR,mATura,1,4.3.74,kashika_4_3.rs:264,0,source_conditioned_relation_not_independent_nominal_count
+88ab9553168176b0a066,maTura,TatraBhava,Where this stays or exists. (4.3.53),aR,mATura,1,4.3.53,kashika_4_3.rs:198,0,source_conditioned_relation_not_independent_nominal_count
+a2936bfb61ef9028fb05,maTura,TatraJata,Where this was born. (4.3.25),aR,mATura,1,4.3.25;4.3.38,kashika_4_3.rs:150;kashika_4_3.rs:81,1,source_conditioned_relation_not_independent_nominal_count
+3f40451c54af97d5c3fd,maTura,TatraPrayabhava,Where this generally occurs. (4.3.39),aR,mATura,1,4.3.39,kashika_4_3.rs:157,0,source_conditioned_relation_not_independent_nominal_count
+78e39bfa1dd86e025e94,maTura,TatraSambhute,Where this was adapted. (4.3.41),aR,mATura,1,4.3.41,kashika_4_3.rs:171,0,source_conditioned_relation_not_independent_nominal_count
+553636d50342fa2997f5,maYjizWa,TenaRaktam,One dyed by this. (4.2.1),aR,mAYjizWa,1,4.2.1,kashika_4_2.rs:15,0,source_conditioned_relation_not_independent_nominal_count
+546df5c13223524ea326,madra,TatraJata,Where this was born. (4.3.25),kan,madraka,1,4.2.131,kashika_4_2.rs:501,0,source_conditioned_relation_not_independent_nominal_count
+c6f206d71600f8c2dfa0,madrakArA,Janapada,Country. (4.1.168),iY,mAdrakAri,1,4.1.173,kashika_4_1.rs:893,0,source_conditioned_relation_not_independent_nominal_count
+c92ec3d7d5a06f888fe3,magaDa,Janapada,Country. (4.1.168),aR,mAgaDa,1,4.1.170,kashika_4_1.rs:860,0,source_conditioned_relation_not_independent_nominal_count
+bdc55ea01e0332ae7020,mahAkula,TasyaApatyam,Descendant. (4.1.92),Ka,mahAkulIna,1,4.1.141,kashika_4_1.rs:755,0,source_conditioned_relation_not_independent_nominal_count
+12e4944ffa7da6997bcf,mahAkula,TasyaApatyam,Descendant. (4.1.92),KaY,mAhAkulIna,1,4.1.141,kashika_4_1.rs:754,0,source_conditioned_relation_not_independent_nominal_count
+fefb1e52580dbb30859f,mahAkula,TasyaApatyam,Descendant. (4.1.92),aY,mAhAkula,1,4.1.141,kashika_4_1.rs:753,0,source_conditioned_relation_not_independent_nominal_count
+9f1cb17325fd449d00bb,mahArAja,SaAsyaDevata,Having this as a god. (4.2.24),WaY,mAhArAjika,1,4.2.35,kashika_4_2.rs:135,0,source_conditioned_relation_not_independent_nominal_count
+f894f745f659797d1a00,mahendra,SaAsyaDevata,Having this as a god. (4.2.24),Ca,mahendrIya,1,4.2.29,kashika_4_2.rs:96,0,source_conditioned_relation_not_independent_nominal_count
+67ee364a2d574af9fea5,mahendra,SaAsyaDevata,Having this as a god. (4.2.24),Ga,mahendriya,1,4.2.29,kashika_4_2.rs:94,0,source_conditioned_relation_not_independent_nominal_count
+5f8c853efee750be0d56,mahendra,SaAsyaDevata,Having this as a god. (4.2.24),aR,mAhendra,1,4.2.29,kashika_4_2.rs:95,0,source_conditioned_relation_not_independent_nominal_count
+d21f5e737c60c32e1885,mahizI,TasyaDharmyam,One who has this custom. (4.4.47),aR,mAhiza,1,4.4.48,kashika_4_4.rs:340,0,source_conditioned_relation_not_independent_nominal_count
+c2ca7528550705a3c14f,mahizika,TatraJata,Where this was born. (4.3.25),aR,mAhizika,1,4.2.132,kashika_4_2.rs:508,0,source_conditioned_relation_not_independent_nominal_count
+71f28fa833a4dc9a6e42,manu,Jatau,A class. (4.1.161),aY,mAnuza,1,4.1.161,kashika_4_1.rs:820,0,source_conditioned_relation_not_independent_nominal_count
+46b27ae8fdb1bdd4a48b,manu,Jatau,A class. (4.1.161),yat,manuzya,1,4.1.161,kashika_4_1.rs:821,0,source_conditioned_relation_not_independent_nominal_count
+0ca0a8c699ec83190896,manu,TasyaApatyam,Descendant. (4.1.92),aR,mAnava,1,4.1.161,kashika_4_1.rs:823,0,source_conditioned_relation_not_independent_nominal_count
+2fe42a231cb9a713b5a2,maqquka,Shilpam,One who has this art. (4.4.55),Wak,mAqqukika,1,4.4.56,kashika_4_4.rs:398,0,source_conditioned_relation_not_independent_nominal_count
+a933a35c597e1088e25e,maqquka,Shilpam,One who has this art. (4.4.55),aR,mAqquka,1,4.4.56,kashika_4_4.rs:397,0,source_conditioned_relation_not_independent_nominal_count
+aa20b57e5e9443f1e25d,marIci,TasyaApatyam,Descendant. (4.1.92),aR,mArIca,1,4.1.122,kashika_4_1.rs:646,0,source_conditioned_relation_not_independent_nominal_count
+5ad161f558ecaf388468,marici,TenaSamskrtam,Cultured or processed. (4.4.3),Wak,mAricika,1,4.4.3,kashika_4_4.rs:35,0,source_conditioned_relation_not_independent_nominal_count
+9b546392a3a1a58dc27d,marici,TenaSamsrshte,Mixed with. (4.4.22),Wak,mAricika,1,4.4.22,kashika_4_4.rs:160,0,source_conditioned_relation_not_independent_nominal_count
+b5b17a8337995b10b0cc,matsya,Hanti,What one kills. (4.4.35),Wak,mAtsyika,1,4.4.35,kashika_4_4.rs:246,0,source_conditioned_relation_not_independent_nominal_count
+1f634ec9a8200c92fed1,mayUra,Hanti,What one kills. (4.4.35),Wak,mAyUrika,1,4.4.35,kashika_4_4.rs:244,0,source_conditioned_relation_not_independent_nominal_count
+d06cca78ae1f2adaf203,mayUra,TasyaVikara,Modification of this. (4.3.134),aR,mAyUra,1,4.3.135,kashika_4_3.rs:426,0,source_conditioned_relation_not_independent_nominal_count
+f5705035838337eb9aa5,mfd,TasyaVikara,Modification of this. (4.3.134),mayaw,mfnmaya,1,4.3.144,kashika_4_3.rs:483,0,source_conditioned_relation_not_independent_nominal_count
+fdfb6fd0efea50d892c5,mfdaNga,Shilpam,One who has this art. (4.4.55),Wak,mArdaNgika,1,4.4.55,kashika_4_4.rs:390,0,source_conditioned_relation_not_independent_nominal_count
+d05e85c8304306b465f2,mfga,Hanti,What one kills. (4.4.35),Wak,mArgika,1,4.4.35,kashika_4_4.rs:250,0,source_conditioned_relation_not_independent_nominal_count
+d1830a5be63eaf8ea259,modaka,Shilam,One who has this habit. (4.4.61),Wak,mOdakika,1,4.4.61,kashika_4_4.rs:434,0,source_conditioned_relation_not_independent_nominal_count
+7b66cdd1f12948290272,modaka,TadAsyaPanyam,One who sells this item. (4.4.51),Wak,mOdakika,1,4.4.51,kashika_4_4.rs:367,0,source_conditioned_relation_not_independent_nominal_count
+94a8db597a1aafde2146,muKa,IvePratikrtau,,yat,muKya,1,5.3.103,kashika_5_3.rs:367,0,source_conditioned_relation_not_independent_nominal_count
+b90fff303fd2d7a5949c,mudra,DhanyanamBhavaneKshetre,"A place of growing, when that place is a field. (5.2.1)",KaY,mOdrIna,1,5.2.1,kashika_5_2.rs:16,0,source_conditioned_relation_not_independent_nominal_count
+17514ea85f4b276c783f,mudra,TenaKritam,What is bought with this. (5.1.37),Wak,mOdrika,1,5.1.37,kashika_5_1.rs:260,0,source_conditioned_relation_not_independent_nominal_count
+bfbc196558c5f2499198,mudra,TenaSamsrshte,Mixed with. (4.4.22),aR,mOdra,1,4.4.25,kashika_4_4.rs:177,0,source_conditioned_relation_not_independent_nominal_count
+833df920384f8bbaaf1f,muhUrta,TadAdhiteTadVeda,What one studies or knows. (4.2.59),aR,mOhUrta,1,4.2.59,kashika_4_2.rs:258,0,source_conditioned_relation_not_independent_nominal_count
+9201453272609e01d92c,murva,TasyaVikara,Modification of this. (4.3.134),aR,mOrva,1,4.3.135,kashika_4_3.rs:428,0,source_conditioned_relation_not_independent_nominal_count
+19db2c0b5ff54be8b2bd,musala,TadArhati,One deserves this. (5.1.63),yat,musalya,1,5.1.66,kashika_5_1.rs:409,0,source_conditioned_relation_not_independent_nominal_count
+d181bee2af5ab9984076,nABi,TasmaiHitam,One for whom this is good. (5.1.7),yat,nABya,1,5.1.6,kashika_5_1.rs:70,0,source_conditioned_relation_not_independent_nominal_count
+ba6c8e2b968e0efc4c6b,nAsikA,TasmaiHitam,One for whom this is good. (5.1.7),yat,nasya,1,5.1.6,kashika_5_1.rs:71;kashika_5_1.rs:76,1,source_conditioned_relation_not_independent_nominal_count
+260532675d5d1fe15afb,nAsti,Mati,One who has this belief. (4.4.60),Wak,nAstika,1,4.4.60,kashika_4_4.rs:426,0,source_conditioned_relation_not_independent_nominal_count
+2b1cc3ddd314e9e76534,nO,TenaTarati,One who crosses with this. (4.4.5),Wan,nAvika,1,4.4.7,kashika_4_4.rs:59,0,source_conditioned_relation_not_independent_nominal_count
+f2613051ab2b64de8df1,nadI,TatraBhava,Where this stays or exists. (4.3.53),qyaR,nAdya,1,4.4.111,kashika_4_4.rs:692,0,source_conditioned_relation_not_independent_nominal_count
+445ce90b707fd444e841,naqa,Gotra,Patronymic lineage. (4.1.98),Pak,nAqAyana,1,4.1.99,kashika_4_1.rs:503,0,source_conditioned_relation_not_independent_nominal_count
+01ba5f46b3d2286c79a7,naqa,TasyaApatyam,Descendant. (4.1.92),iY,nAqi,1,4.1.99,kashika_4_1.rs:506,0,source_conditioned_relation_not_independent_nominal_count
+42346c25c646756fb221,nara,TasyaDharmyam,One who has this custom. (4.4.47),aY,nAra,1,4.4.49,kashika_4_4.rs:352,0,source_conditioned_relation_not_independent_nominal_count
+15c824aa223b8d901c4a,narada,TadAsyaPanyam,One who sells this item. (4.4.51),zWan,naradika,1,4.4.53,kashika_4_4.rs:379,0,source_conditioned_relation_not_independent_nominal_count
+e4105c31510b2ef754b8,nawa,TasyaIdam,One who has this. (4.3.120),Yya,nAwya,1,4.3.129,kashika_4_3.rs:403,0,source_conditioned_relation_not_independent_nominal_count
+037ae9e86a3a5e79fbeb,niDi,TasyaApatyam,Descendant. (4.1.92),Qak,nEDeya,1,4.1.122,kashika_4_1.rs:637,0,source_conditioned_relation_not_independent_nominal_count
+ef0371cab89fc56f569b,niSA,TatraBhava,Where this stays or exists. (4.3.53),WaY,nESika,1,4.3.14,kashika_4_3.rs:49,0,source_conditioned_relation_not_independent_nominal_count
+018c189c8ac4f34b77f5,niSA,TatraBhava,Where this stays or exists. (4.3.53),aR,nESa,1,4.3.14,kashika_4_3.rs:48,0,source_conditioned_relation_not_independent_nominal_count
+a02b564560c3704bebbf,nikawa,Vasati,Who dwells here. (4.4.73),Wak,nEkawika,1,4.4.73,kashika_4_4.rs:504,0,source_conditioned_relation_not_independent_nominal_count
+8e5253a23e89e1b9d476,nimitta,TadAdhiteTadVeda,What one studies or knows. (4.2.59),aR,nEmitta,1,4.2.59,kashika_4_2.rs:257,0,source_conditioned_relation_not_independent_nominal_count
+e2e7c04a7b763a829323,nirukta,TadAdhiteTadVeda,What one studies or knows. (4.2.59),aR,nErukta,1,4.2.59,kashika_4_2.rs:256,0,source_conditioned_relation_not_independent_nominal_count
+1193945fb0dd990466d0,nizAda,TasyaApatyam,Descendant. (4.1.92),iY,nEzAdaki,1,4.1.97,kashika_4_1.rs:488,0,source_conditioned_relation_not_independent_nominal_count
+982aebd4cae55c0841ab,nizaDa,Janapada,Country. (4.1.168),Rya,nEzaDya,1,4.1.172,kashika_4_1.rs:884,0,source_conditioned_relation_not_independent_nominal_count
+ed63b27ac9b82b174f4e,nizka,TenaKritam,What is bought with this. (5.1.37),Wak,nEzkika,1,5.1.19;5.1.20;5.1.37,kashika_5_1.rs:179;kashika_5_1.rs:191;kashika_5_1.rs:249,2,source_conditioned_relation_not_independent_nominal_count
+a2ca4150a83391ee3f72,nyAya,Anapeta,Not deviating from this. (4.4.92),yat,nyAyya,1,4.4.92,kashika_4_4.rs:603,0,source_conditioned_relation_not_independent_nominal_count
+4abb28dcd996f836eaa6,nyagroDa,TasyaVikara,Modification of this. (4.3.134),aR,nEyagroDa,1,4.3.164,kashika_4_3.rs:541,0,source_conditioned_relation_not_independent_nominal_count
+533a469f98c06864f722,ojas,Vartate,Existence. (4.4.27),Wak,Ojasika,1,4.4.27,kashika_4_4.rs:189,0,source_conditioned_relation_not_independent_nominal_count
+39a41f34f4ec09c16fbb,ozWa,TasmaiHitam,One for whom this is good. (5.1.7),yat,ozWya,1,5.1.6,kashika_5_1.rs:69,0,source_conditioned_relation_not_independent_nominal_count
+c4d453c3d01cd4ae1b3b,pASa,TasyaSamuha,A collection of this. (4.2.37),ya,pASyA,1,4.2.49,kashika_4_2.rs:210,0,source_conditioned_relation_not_independent_nominal_count
+1c1297cc0ce2cdd83140,pATas,TatraBhava,Where this stays or exists. (4.3.53),qyaR,pATya,1,4.4.111,kashika_4_4.rs:691,0,source_conditioned_relation_not_independent_nominal_count
+576ea4bd69421480d7ab,pAda,TadVidhyati,What one pierces. (4.4.83),yat,padya,1,4.4.83,kashika_4_4.rs:550,0,source_conditioned_relation_not_independent_nominal_count
+d2228cf0b5f1a14a152c,pAda,TenaKritam,What is bought with this. (5.1.37),Wak,pAdika,1,5.1.20;5.1.37,kashika_5_1.rs:193;kashika_5_1.rs:251,1,source_conditioned_relation_not_independent_nominal_count
+7345f2291bcc04314fad,pAdapa,TenaKrte,By whom this is made. (4.3.116),aY,pAdapa,1,4.3.119,kashika_4_3.rs:371,0,source_conditioned_relation_not_independent_nominal_count
+3b844dac16934912b062,pArASarya,TenaProktam,What is proclaimed by this person. (4.3.101),Rini,pArASarin,1,4.3.110,kashika_4_3.rs:350,0,source_conditioned_relation_not_independent_nominal_count
+6bb2f4c7709bd8b0277a,pArAyaRa,TadVartayati,One performs this. (5.1.72),WaY,pArAyaRika,1,5.1.18;5.1.72,kashika_5_1.rs:171;kashika_5_1.rs:454,1,source_conditioned_relation_not_independent_nominal_count
+ef0ec725b2d929139e89,pArSva,Anvicchati,Who strives to gain by this. (5.2.75),kan,pArSvaka,1,5.2.75,kashika_5_2.rs:378,0,source_conditioned_relation_not_independent_nominal_count
+e6fae4a52339f43541a9,pAtra,SambhavatiAharatiPacati,"What is capable of this, or holds this, or cooks this. (5.152)",Ka,pAtrIRa,1,5.1.53,kashika_5_1.rs:367,0,source_conditioned_relation_not_independent_nominal_count
+f73a6e9deba29eb07e23,pAtra,SambhavatiAharatiPacati,"What is capable of this, or holds this, or cooks this. (5.152)",Wak,pAtrika,1,5.1.53,kashika_5_1.rs:368,0,source_conditioned_relation_not_independent_nominal_count
+f0a0523af0145007f719,pAtra,TadArhati,One deserves this. (5.1.63),Gan,pAtriya,1,5.1.68,kashika_5_1.rs:422,0,source_conditioned_relation_not_independent_nominal_count
+72c8dbe74bceb9d759db,pAtra,TadArhati,One deserves this. (5.1.63),yat,pAtrya,1,5.1.68,kashika_5_1.rs:423,0,source_conditioned_relation_not_independent_nominal_count
+a3738236d31798a38353,pIlu,TasyaPakamula,The ripening season of this. (5.2.24),kuRap,pIlukuRa,1,5.2.24,kashika_5_2.rs:132,0,source_conditioned_relation_not_independent_nominal_count
+259f6d43b604528d452b,pUrRa,Kutsite,Contempt. (5.3.75),kan,pUrRaka,1,5.3.75,kashika_5_3.rs:274,0,source_conditioned_relation_not_independent_nominal_count
+d787d186f99db3c8177a,pUrvAhRa,TatraJata,Where this was born. (4.3.25),vun,pUrvAhRaka,1,4.3.28,kashika_4_3.rs:108,0,source_conditioned_relation_not_independent_nominal_count
+3eece08bf2c540549536,pUrvapada,Grhnati,What one takes. (4.4.39),Wak,pOrvapadika,1,4.4.39,kashika_4_4.rs:277,0,source_conditioned_relation_not_independent_nominal_count
+d18d20c1e36a09cc9aa2,paRa,TenaKritam,What is bought with this. (5.1.37),Wak,pARika,1,5.1.19;5.1.20;5.1.37,kashika_5_1.rs:180;kashika_5_1.rs:192;kashika_5_1.rs:250,2,source_conditioned_relation_not_independent_nominal_count
+fd48cf2a6974dd511d9b,paRavA,Shilpam,One who has this art. (4.4.55),Wak,pARavika,1,4.4.55,kashika_4_4.rs:391,0,source_conditioned_relation_not_independent_nominal_count
+f50e0495ed4a579cf68b,paTi,TatraJata,Where this was born. (4.3.25),vun,panTaka,1,4.3.29,kashika_4_3.rs:118,0,source_conditioned_relation_not_independent_nominal_count
+2f36e23107b0925132e3,paTi,TatraSadhu,Skilled in this. (4.4.98),QaY,pATeya,1,4.4.104,kashika_4_4.rs:670,0,source_conditioned_relation_not_independent_nominal_count
+e736685b4356b7767322,paTin,Anapeta,Not deviating from this. (4.4.92),yat,paTya,1,4.4.92,kashika_4_4.rs:601,0,source_conditioned_relation_not_independent_nominal_count
+81eb8f42759dcd8a8e21,paTin,Gacchati,Who goes. (5.1.75),Ra,pAnTa,1,5.1.76,kashika_5_1.rs:485,0,source_conditioned_relation_not_independent_nominal_count
+f6a20bf7964cb6be50b8,paTin,Gacchati,Who goes. (5.1.75),zkan,paTika,1,5.1.76,kashika_5_1.rs:487,0,source_conditioned_relation_not_independent_nominal_count
+ca692f9cec95010562b3,paTin,TatraKushala,Skilled in this. (5.2.63),vun,paTaka,1,5.2.63,kashika_5_2.rs:332,0,source_conditioned_relation_not_independent_nominal_count
+9b3b03f343e788ec7365,paYcAla,Janapada,Country. (4.1.168),aY,pAYcAla,1,4.1.168,kashika_4_1.rs:838,0,source_conditioned_relation_not_independent_nominal_count
+2673e2b124a2aca86ce4,paYcan,Avasana,Parts of which. (5.2.42),tayap,paYcataya,1,5.2.42,kashika_5_2.rs:261,0,source_conditioned_relation_not_independent_nominal_count
+ab57b76e2d3e88422947,paYcan,Purana,Making full. (5.2.48),qaw,paYcama,1,5.2.49,kashika_5_2.rs:302,0,source_conditioned_relation_not_independent_nominal_count
+8bc047e06cdf6d7e31eb,paYcan,TadAsminVrddhiAyaLabhaSulkaUpada,"In which this is an interest, rent, profit, tax, or bribe. (5.1.47)",kan,paYcaka,1,5.1.47,kashika_5_1.rs:311,0,source_conditioned_relation_not_independent_nominal_count
+74315a66503ed52a5971,paYcan,TenaKritam,What is bought with this. (5.1.37),kan,paYcaka,1,5.1.37,kashika_5_1.rs:258,0,source_conditioned_relation_not_independent_nominal_count
+c11ffba88f12b6ec91a7,pada,AsminDrshyam,In which this is seen. (4.4.87),yat,padya,1,4.4.87,kashika_4_4.rs:573,0,source_conditioned_relation_not_independent_nominal_count
+3b2d5bd82c8b3c56df0d,pada,TadAdhiteTadVeda,What one studies or knows. (4.2.59),vun,padaka,1,4.2.61,kashika_4_2.rs:266,0,source_conditioned_relation_not_independent_nominal_count
+017abd85738c039672cd,padavI,Hanti,What one kills. (4.4.35),Wak,pAdavika,1,4.4.37,kashika_4_4.rs:265,0,source_conditioned_relation_not_independent_nominal_count
+2d40706cd07e507ce0f0,pakza,TasyaMula,The root of this. (5.2.25),ti,pakzati,1,5.2.25,kashika_5_2.rs:139,0,source_conditioned_relation_not_independent_nominal_count
+52a79139b8adb7a9cfb4,pakzin,Hanti,What one kills. (4.4.35),Wak,pAkzika,1,4.4.35,kashika_4_4.rs:242,0,source_conditioned_relation_not_independent_nominal_count
+811b7b74cdd202a758af,palASa,TasyaVikara,Modification of this. (4.3.134),aR,pAlASa,1,4.3.141,kashika_4_3.rs:463,0,source_conditioned_relation_not_independent_nominal_count
+0d936213e983ddf6edca,palASa,TasyaVikara,Modification of this. (4.3.134),aY,pAlASa,1,4.3.141,kashika_4_3.rs:462,0,source_conditioned_relation_not_independent_nominal_count
+8dbdaff74e53a03859f9,palvalatIra,TatraJata,Where this was born. (4.3.25),aY,pAlvalatIra,1,4.2.106,kashika_4_2.rs:459,0,source_conditioned_relation_not_independent_nominal_count
+1cb4b34eb550ebc01d04,parArDa,TatraJata,Where this was born. (4.3.25),yat,parArDya,1,4.3.5,kashika_4_3.rs:34,0,source_conditioned_relation_not_independent_nominal_count
+f5e6d98db51f1a41f09d,para,DigDeshaKala,"Words meaning direction, location, or time. (5.3.27)",astAti,parastAt,1,5.3.29,kashika_5_3.rs:128,0,source_conditioned_relation_not_independent_nominal_count
+3620271d42013aef6213,para,DigDeshaKala,"Words meaning direction, location, or time. (5.3.27)",atasuc,paratas,1,5.3.29,kashika_5_3.rs:127,0,source_conditioned_relation_not_independent_nominal_count
+b50df0be91574b890396,paraSvaDa,Praharanam,One who has this weapon. (4.4.57),WaY,pAraSvaDika,1,4.4.58,kashika_4_4.rs:413,0,source_conditioned_relation_not_independent_nominal_count
+0af9227e280bddbedbc2,paraSvaDa,Praharanam,One who has this weapon. (4.4.57),Wak,pAraSvaDika,1,4.4.58,kashika_4_4.rs:414,0,source_conditioned_relation_not_independent_nominal_count
+40e64777edb0c7243f01,parampara,TadAnubhavati,Who witnesses this. (5.2.10),Ka,paramparIRa,1,5.2.10,kashika_5_2.rs:87,0,source_conditioned_relation_not_independent_nominal_count
+4bd3511c6baa78147b6e,pariKA,TadAsyaTadAsminSyat,What one could be connected to or be in. (5.1.16),QaY,pAriKeya,1,5.1.17,kashika_5_1.rs:165,0,source_conditioned_relation_not_independent_nominal_count
+5621414ab1bbd805f565,parigrAma,TatraBhava,Where this stays or exists. (4.3.53),WaY,pArigrAmika,1,4.3.61,kashika_4_3.rs:231,0,source_conditioned_relation_not_independent_nominal_count
+a5843dd0a19450c80409,parimuKa,Vartate,Existence. (4.4.27),Wak,pArimuKika,1,4.4.29,kashika_4_4.rs:206,0,source_conditioned_relation_not_independent_nominal_count
+c597ebcb234d0f3859f4,paripanTa,Hanti,What one kills. (4.4.35),Wak,pAripanTika,1,4.4.36,kashika_4_4.rs:258,0,source_conditioned_relation_not_independent_nominal_count
+154b8afde7c98f96e1d3,parizad,Samavaiti,Assembly. (4.4.43),Rya,pArizadya,1,4.4.44,kashika_4_4.rs:315,0,source_conditioned_relation_not_independent_nominal_count
+0adbad5ffa4b953f4957,parizad,TadAsyaAstiAsmin,What one has or is in. (5.2.94),valac,parizadvala,1,5.2.112,kashika_5_2.rs:433,0,source_conditioned_relation_not_independent_nominal_count
+2cdae80e5dfe8ba70191,parizad,TasyaIdam,One who has this. (4.3.120),aY,pArizada,1,4.3.123,kashika_4_3.rs:383,0,source_conditioned_relation_not_independent_nominal_count
+81ab32417245bd36a702,parizad,TatraSadhu,Skilled in this. (4.4.98),Ra,pArizada,1,4.4.101,kashika_4_4.rs:652,0,source_conditioned_relation_not_independent_nominal_count
+03b1e852dc89050b5c66,parizad,TatraSadhu,Skilled in this. (4.4.98),Rya,pArizadya,1,4.4.101,kashika_4_4.rs:651,0,source_conditioned_relation_not_independent_nominal_count
+2c956a14881d99e25d0b,parovara,TadAnubhavati,Who witnesses this. (5.2.10),Ka,parovarIRa,1,5.2.10,kashika_5_2.rs:86,0,source_conditioned_relation_not_independent_nominal_count
+f6a90b9afd7c3a472285,parpa,TenaCarati,One who walks or eats with this. (4.4.8),zWan,parpika,1,4.4.10,kashika_4_4.rs:80,0,source_conditioned_relation_not_independent_nominal_count
+f47dbce67550025e77c8,parvata,Gotra,Patronymic lineage. (4.1.98),Pak,pArvatAyana,1,4.1.103,kashika_4_1.rs:524,0,source_conditioned_relation_not_independent_nominal_count
+23274b96b455e5d2eee1,parvata,Gotra,Patronymic lineage. (4.1.98),iY,pArvati,1,4.1.103,kashika_4_1.rs:525,0,source_conditioned_relation_not_independent_nominal_count
+5ec66f9aac68f4dfcc76,parvata,TatraJata,Where this was born. (4.3.25),Ca,parvatIya,1,4.2.143,kashika_4_2.rs:526,0,source_conditioned_relation_not_independent_nominal_count
+3fe84ea9a5b0d7d20c03,pawu,TasmaiHitam,One for whom this is good. (5.1.7),yat,pawavya,1,5.1.5,kashika_5_1.rs:58,0,source_conditioned_relation_not_independent_nominal_count
+21660d3c9be8718eefca,payas,TasyaVikara,Modification of this. (4.3.134),yat,payasya,1,4.3.160,kashika_4_3.rs:525,0,source_conditioned_relation_not_independent_nominal_count
+8f3448712cdadc522d34,pfTivI,TasyaNimittamSamyogotpattau,"For the sake of this, when the meaning is a relation or appearance. (5.1.38)",aY,pArTiva,1,5.1.41,kashika_5_1.rs:289,0,source_conditioned_relation_not_independent_nominal_count
+b30101d59ed0d6c42c07,pfzWa,TasyaSamuha,A collection of this. (4.2.37),yan,pfzWya,1,4.2.42,kashika_4_2.rs:178,0,source_conditioned_relation_not_independent_nominal_count
+4e24304ebc03d143efb0,picU,TadarthamVikrtehPrakrtau,What could be created from this raw material. (5.1.12),yat,picavya,1,5.1.12,kashika_5_1.rs:126,0,source_conditioned_relation_not_independent_nominal_count
+4880aef598b2857e8f7b,pippala,TenaSamsrshte,Mixed with. (4.4.22),Wak,pEppalika,1,4.4.22,kashika_4_4.rs:162,0,source_conditioned_relation_not_independent_nominal_count
+f3572b48d74b0efa3b77,pitf,SaAsyaDevata,Having this as a god. (4.2.24),yat,pitrya,1,4.2.31,kashika_4_2.rs:108,0,source_conditioned_relation_not_independent_nominal_count
+c1b2c93da04a0f99bea6,pitf,TataAgata,Where one came from. (4.3.74),WaY,pEtfka,1,4.3.79,kashika_4_3.rs:278,0,source_conditioned_relation_not_independent_nominal_count
+17da587e5fc822a9c66e,pitf,TataAgata,Where one came from. (4.3.74),yat,pitrya,1,4.3.79,kashika_4_3.rs:277,0,source_conditioned_relation_not_independent_nominal_count
+016f7d515823aca1422f,pitfBoga,TasmaiHitam,One for whom this is good. (5.1.7),Ka,pitfBogIRa,1,5.1.9,kashika_5_1.rs:102,0,source_conditioned_relation_not_independent_nominal_count
+8d1a099f281d8fe2ae4c,pitfzvasf,TasyaApatyam,Descendant. (4.1.92),CaR,pEtfzvasrIya,1,4.1.132,kashika_4_1.rs:707,0,source_conditioned_relation_not_independent_nominal_count
+e64a3e64efefd440f195,pitfzvasf,TasyaApatyam,Descendant. (4.1.92),Qak,pEtfzvaseya,1,4.1.133,kashika_4_1.rs:712,0,source_conditioned_relation_not_independent_nominal_count
+7e666df02753a9d9b1f4,pizwa,TasyaVikara,Modification of this. (4.3.134),kan,pizwaka,1,4.3.147,kashika_4_3.rs:500,0,source_conditioned_relation_not_independent_nominal_count
+acb2c05ac11e34c667fd,pizwa,TasyaVikara,Modification of this. (4.3.134),mayaw,pizwamaya,1,4.3.146,kashika_4_3.rs:495,0,source_conditioned_relation_not_independent_nominal_count
+efd24c8f0d2e949f37ab,plakza,Hrasve,,ka,plakzaka,1,5.3.86,kashika_5_3.rs:287,0,source_conditioned_relation_not_independent_nominal_count
+b77768fb6ea9b5ae0f3a,plakza,TasyaApatyam,Descendant. (4.1.92),iY,plAkzi,1,4.1.122,kashika_4_1.rs:642,0,source_conditioned_relation_not_independent_nominal_count
+88596d486a9b8e9b11e7,plakza,TasyaVikara,Modification of this. (4.3.134),aR,plAkza,1,4.3.164,kashika_4_3.rs:540,0,source_conditioned_relation_not_independent_nominal_count
+a254ed0ac1210d262cc1,potf,TasyaDharmyam,One who has this custom. (4.4.47),aY,pOtra,1,4.4.49,kashika_4_4.rs:346,0,source_conditioned_relation_not_independent_nominal_count
+fba5a0e35245729520c5,prAkAra,TadAsyaTadAsminSyat,What one could be connected to or be in. (5.1.16),Ca,prAkArIya,1,5.1.16,kashika_5_1.rs:158,0,source_conditioned_relation_not_independent_nominal_count
+9b019251ff0b022aa6c2,prAkAra,TadarthamVikrtehPrakrtau,What could be created from this raw material. (5.1.12),Ca,prAkArIya,1,5.1.12,kashika_5_1.rs:124,0,source_conditioned_relation_not_independent_nominal_count
+724f026c254b7e9cbcfc,prAsAda,TadAsyaTadAsminSyat,What one could be connected to or be in. (5.1.16),Ca,prAsAdIya,1,5.1.16,kashika_5_1.rs:159,0,source_conditioned_relation_not_independent_nominal_count
+f42d9202b306c0b6d135,prAsaNga,TadVahati,What one bears. (4.4.78),yat,prAsaNgya,1,4.4.76,kashika_4_4.rs:516,0,source_conditioned_relation_not_independent_nominal_count
+29766645b9edc8cb4d4c,prAsi,Praharanam,One who has this weapon. (4.4.57),Wak,prAsika,1,4.4.57,kashika_4_4.rs:406,0,source_conditioned_relation_not_independent_nominal_count
+b93c21387fc244c33138,prAvfz,TatraJata,Where this was born. (4.3.25),Wap,prAvfzika,1,4.3.26,kashika_4_3.rs:96,0,source_conditioned_relation_not_independent_nominal_count
+2636e9dc42dd7b6987ff,prAvfz,TatraSambhute,Where this was adapted. (4.3.41),eRya,prAvfzeRya,1,4.3.17,kashika_4_3.rs:65,0,source_conditioned_relation_not_independent_nominal_count
+a38b50a4cade126e9f23,pradoza,TatraBhava,Where this stays or exists. (4.3.53),WaY,prAdozika,1,4.3.14,kashika_4_3.rs:51,0,source_conditioned_relation_not_independent_nominal_count
+1e64fd7f94fbd81b9a5e,pradoza,TatraBhava,Where this stays or exists. (4.3.53),aR,prAdoza,1,4.3.14,kashika_4_3.rs:50,0,source_conditioned_relation_not_independent_nominal_count
+89bcd1c4a4b8e1113f41,pradoza,TatraJata,Where this was born. (4.3.25),vun,pradozaka,1,4.3.28,kashika_4_3.rs:112,0,source_conditioned_relation_not_independent_nominal_count
+3cb92fe8ed8bfe94ef5f,prajApati,SaAsyaDevata,Having this as a god. (4.2.24),Rya,prAjApatya,1,4.2.24,kashika_4_2.rs:61,0,source_conditioned_relation_not_independent_nominal_count
+8f3fc0ccce63c120dd0f,prajAvatI,TasyaDharmyam,One who has this custom. (4.4.47),aR,prAjAvata,1,4.4.48,kashika_4_4.rs:341,0,source_conditioned_relation_not_independent_nominal_count
+bf6c2dea6035e4016b91,prasTa,SambhavatiAharatiPacati,"What is capable of this, or holds this, or cooks this. (5.152)",WaY,prAsTika,1,5.1.52,kashika_5_1.rs:353,0,source_conditioned_relation_not_independent_nominal_count
+87e1ab9c5690f2a5b27f,prasTa,TadAsyaParimanam,The measure of this. (5.1.57),WaY,prAsTika,1,5.1.57,kashika_5_1.rs:375,0,source_conditioned_relation_not_independent_nominal_count
+1382cdb48916821db37c,prasTa,TadAsyaPramanam,Measure. (5.2.37),mAtrac,prasTamAtra,1,5.2.37,kashika_5_2.rs:224,0,source_conditioned_relation_not_independent_nominal_count
+1e57d90c1665d25c10df,prasTa,TasyaVapa,Sown with this. (5.1.45),WaY,prAsTika,1,5.1.45,kashika_5_1.rs:295,0,source_conditioned_relation_not_independent_nominal_count
+6f7240f38a0f3e23273b,prastAra,Vyavaharati,Where one does work. (4.4.72),Wak,prAstArika,1,4.4.72,kashika_4_4.rs:498,0,source_conditioned_relation_not_independent_nominal_count
+6513a1a2dfe34e7a76aa,pratIpa,Vartate,Existence. (4.4.27),Wak,prAtIpika,1,4.4.28,kashika_4_4.rs:196,0,source_conditioned_relation_not_independent_nominal_count
+95a18dc0c105200a6a7c,pratijana,TatraSadhu,Skilled in this. (4.4.98),KaY,prAtijanIna,1,4.4.99,kashika_4_4.rs:639,0,source_conditioned_relation_not_independent_nominal_count
+8eba535ca5a5bcb5e263,pratikUla,Vartate,Existence. (4.4.27),Wak,prAtikUlika,1,4.4.28,kashika_4_4.rs:200,0,source_conditioned_relation_not_independent_nominal_count
+a86513272c42c201c3e9,pratikaRWA,Grhnati,What one takes. (4.4.39),Wak,prAtikaRWika,1,4.4.40,kashika_4_4.rs:284,0,source_conditioned_relation_not_independent_nominal_count
+96a8624759843fae530b,pratiloma,Vartate,Existence. (4.4.27),Wak,prAtilomika,1,4.4.28,kashika_4_4.rs:198,0,source_conditioned_relation_not_independent_nominal_count
+d51746364649cb3a2c8c,pratipaTa,Eti,Who goes. (4.4.42),Wak,prAtipaTika,1,4.4.42,kashika_4_4.rs:301,0,source_conditioned_relation_not_independent_nominal_count
+c21e9b315aba56fbcd31,pratipaTa,Eti,Who goes. (4.4.42),Wan,pratipaTika,1,4.4.42,kashika_4_4.rs:302,0,source_conditioned_relation_not_independent_nominal_count
+eae67bd1a18548391b29,pratyagraTa,Janapada,Country. (4.1.168),iY,prAtyagraTi,1,4.1.173,kashika_4_1.rs:898,0,source_conditioned_relation_not_independent_nominal_count
+80ec17b0cd87d8324c98,prozWapada,SaAsyaDevata,Having this as a god. (4.2.24),WaY,prOzWapadika,1,4.2.35,kashika_4_2.rs:136,0,source_conditioned_relation_not_independent_nominal_count
+194dc7d856e18559cd97,pums,TasyaApatyam,Descendant. (4.1.92),snaY,pOMsna,1,4.1.87;4.1.92,kashika_4_1.rs:447;kashika_4_1.rs:457,1,source_conditioned_relation_not_independent_nominal_count
+b33c97bf5c682ccaa3e9,puroqASa,TasmaiHitam,One for whom this is good. (5.1.7),Ca,puroqASIya,1,5.1.4,kashika_5_1.rs:43,0,source_conditioned_relation_not_independent_nominal_count
+c1b073904708397a9916,puroqASa,TasmaiHitam,One for whom this is good. (5.1.7),yat,puroqASya,1,5.1.4,kashika_5_1.rs:42,0,source_conditioned_relation_not_independent_nominal_count
+0bfc47d2eb22eb11dda8,puru,TasyaApatyam,Descendant. (4.1.92),aR,pOrava,1,4.1.168,kashika_4_1.rs:843,0,source_conditioned_relation_not_independent_nominal_count
+7a4ec691eeeb3a1ce37a,puruza,TadAsyaPramanam,Measure. (5.2.37),aR,pOruza,1,5.2.38,kashika_5_2.rs:230,0,source_conditioned_relation_not_independent_nominal_count
+b1c6f2d1beaeef2504d3,puruza,TadAsyaPramanam,Measure. (5.2.37),daGnac,puruzadaGna,1,5.2.38,kashika_5_2.rs:232,0,source_conditioned_relation_not_independent_nominal_count
+3fca32e9ce01dab0957f,puruza,TadAsyaPramanam,Measure. (5.2.37),dvayasac,puruzadvayasa,1,5.2.38,kashika_5_2.rs:231,0,source_conditioned_relation_not_independent_nominal_count
+4a8ca0bd64b17b34f7f0,puruza,TadAsyaPramanam,Measure. (5.2.37),mAtrac,puruzamAtra,1,5.2.38,kashika_5_2.rs:233,0,source_conditioned_relation_not_independent_nominal_count
+312aa182744a92237c30,puruza,TasmaiHitam,One for whom this is good. (5.1.7),QaY,pOruzeya,1,5.1.10,kashika_5_1.rs:109,0,source_conditioned_relation_not_independent_nominal_count
+b004da42d2dcb52f64d3,putra,Anukampayam,,ka,putraka,1,5.3.76,kashika_5_3.rs:279,0,source_conditioned_relation_not_independent_nominal_count
+78d899924bb62707482c,putra,TadAsyaAstiAsmin,What one has or is in. (5.2.94),valac,putravala,1,5.2.112,kashika_5_2.rs:440,0,source_conditioned_relation_not_independent_nominal_count
+63a5322fe7e5a4984dbb,putra,TasyaNimittamSamyogotpattau,"For the sake of this, when the meaning is a relation or appearance. (5.1.38)",Ca,putrIya,1,5.1.40,kashika_5_1.rs:280,0,source_conditioned_relation_not_independent_nominal_count
+1adfca52e0d2258fe009,putra,TasyaNimittamSamyogotpattau,"For the sake of this, when the meaning is a relation or appearance. (5.1.38)",yat,putrya,1,5.1.40,kashika_5_1.rs:281,0,source_conditioned_relation_not_independent_nominal_count
+39285885d941bff4b309,putrapOtra,TadAnubhavati,Who witnesses this. (5.2.10),Ka,putrapOtrIRa,1,5.2.10,kashika_5_2.rs:88,0,source_conditioned_relation_not_independent_nominal_count
+eaac797c4b6cd4193681,puzpa,TadAsyaSamjatam,Of which this is observed. (5.2.36),itac,puzpita,1,5.2.36,kashika_5_2.rs:210,0,source_conditioned_relation_not_independent_nominal_count
+c2d57cda9dad2a6278b0,rAjan,TasyaApatyam,Descendant. (4.1.92),yat,rAjanya,1,4.1.137,kashika_4_1.rs:730,0,source_conditioned_relation_not_independent_nominal_count
+af8f2e7ce5665c901d1f,rAjanya,TasyaVishayoDeshe,A domain of this. (4.2.52),vuY,rAjanyaka,1,4.2.53,kashika_4_2.rs:231,0,source_conditioned_relation_not_independent_nominal_count
+fa070c015bdbe16b5ba7,rAzwra,AsyaNivasa,Dwelling. (4.3.89),Ga,rAzwriya,1,4.3.89,kashika_4_3.rs:285,0,source_conditioned_relation_not_independent_nominal_count
+2c33652b8e77a38d4451,rAzwra,TataAgata,Where one came from. (4.3.74),Ga,rAzwriya,1,4.3.74,kashika_4_3.rs:265,0,source_conditioned_relation_not_independent_nominal_count
+e6024a4110a3fa0c7cee,rAzwra,TatraBhava,Where this stays or exists. (4.3.53),Ga,rAzwriya,1,4.3.53,kashika_4_3.rs:199,0,source_conditioned_relation_not_independent_nominal_count
+42cf9df0c74761e13f32,rAzwra,TatraJata,Where this was born. (4.3.25),Ga,rAzwriya,1,4.3.25;4.3.38,kashika_4_3.rs:151;kashika_4_3.rs:84,1,source_conditioned_relation_not_independent_nominal_count
+2bb81008786b29661617,rAzwra,TatraPrayabhava,Where this generally occurs. (4.3.39),Ga,rAzwriya,1,4.3.39,kashika_4_3.rs:158,0,source_conditioned_relation_not_independent_nominal_count
+92241c06dfbebd7d492e,rAzwra,TatraSambhute,Where this was adapted. (4.3.41),Ga,rAzwriya,1,4.3.41,kashika_4_3.rs:172,0,source_conditioned_relation_not_independent_nominal_count
+e57e805f8bedd0430e35,rEvatika,TasyaIdam,One who has this. (4.3.120),Ca,rEvatikIya,1,4.3.131,kashika_4_3.rs:413,0,source_conditioned_relation_not_independent_nominal_count
+a94832cc63a2af2c7d92,raTa,TadVahati,What one bears. (4.4.78),yat,raTya,1,4.4.76,kashika_4_4.rs:514,0,source_conditioned_relation_not_independent_nominal_count
+a313b6fbe474c883b4f2,raTa,TasyaIdam,One who has this. (4.3.120),yat,raTya,1,4.3.121,kashika_4_3.rs:376,0,source_conditioned_relation_not_independent_nominal_count
+c2e179ada2c8002b3bf0,raTa,TasyaSamuha,A collection of this. (4.2.37),ya,raTyA,1,4.2.50,kashika_4_2.rs:218,0,source_conditioned_relation_not_independent_nominal_count
+bcdd730a576524b6a0e9,rajas,TadAsyaAstiAsmin,What one has or is in. (5.2.94),valac,rajasvala,1,5.2.112,kashika_5_2.rs:430,0,source_conditioned_relation_not_independent_nominal_count
+c79eca2a113a9463d750,revatI,TasyaApatyam,Descendant. (4.1.92),Wak,rEvatika,1,4.1.146,kashika_4_1.rs:782,0,source_conditioned_relation_not_independent_nominal_count
+e545cb8e85c42897d0da,rocanA,TenaRaktam,One dyed by this. (4.2.1),Wak,rOcanika,1,4.2.2,kashika_4_2.rs:22,0,source_conditioned_relation_not_independent_nominal_count
+7a26a6b62e097a4608a5,sAlveya,Janapada,Country. (4.1.168),aY,sAlveya,1,4.1.169,kashika_4_1.rs:852,0,source_conditioned_relation_not_independent_nominal_count
+b4cba3a0acdd7037bbca,sAman,TatraSadhu,Skilled in this. (4.4.98),yat,sAmanya,1,4.4.98,kashika_4_4.rs:631,0,source_conditioned_relation_not_independent_nominal_count
+8f94cff3e938cac5cdb8,sAraNga,Hanti,What one kills. (4.4.35),Wak,sAraNgika,1,4.4.35,kashika_4_4.rs:253,0,source_conditioned_relation_not_independent_nominal_count
+bed778b118be1e33f657,sArasyAyana,TasyaVishayoDeshe,A domain of this. (4.2.52),Baktal,sArasyAyanaBakta,1,4.2.54,kashika_4_2.rs:246,0,source_conditioned_relation_not_independent_nominal_count
+68ade3df49569799d82f,sIra,TadVahati,What one bears. (4.4.78),Wak,sErika,1,4.4.81,kashika_4_4.rs:540,0,source_conditioned_relation_not_independent_nominal_count
+22176e4110a4222787ba,sIra,TasyaIdam,One who has this. (4.3.120),Wak,sErika,1,4.3.124,kashika_4_3.rs:392,0,source_conditioned_relation_not_independent_nominal_count
+04304a10f3f1b0007675,sOvIra,Janapada,Country. (4.1.168),YyaN,sOvIrya,1,4.1.171,kashika_4_1.rs:873,0,source_conditioned_relation_not_independent_nominal_count
+f33d4b87348b9e021c57,sTAlIbila,TadArhati,One deserves this. (5.1.63),Ca,sTAlIbilIya,1,5.1.70,kashika_5_1.rs:439,0,source_conditioned_relation_not_independent_nominal_count
+f24954d1921109c958bc,sTAlIbila,TadArhati,One deserves this. (5.1.63),yat,sTAlIbilya,1,5.1.70,kashika_5_1.rs:440,0,source_conditioned_relation_not_independent_nominal_count
+f9a0ee13ceff6d562a88,sTalapaTa,Ahrtam,What is conveyed by that way. (5.1.77),WaY,sTAlapaTika,1,5.1.77,kashika_5_1.rs:505,0,source_conditioned_relation_not_independent_nominal_count
+77f49e52c6890f56d60e,sTalapaTa,Gacchati,Who goes. (5.1.75),WaY,sTAlapaTika,1,5.1.77,kashika_5_1.rs:504,0,source_conditioned_relation_not_independent_nominal_count
+57d590a8d2cd1522fc6f,sUkara,Hanti,What one kills. (4.4.35),Wak,sOkarika,1,4.4.35,kashika_4_4.rs:252,0,source_conditioned_relation_not_independent_nominal_count
+8ec21cb236eaceecf6c9,sUpa,TenaUpasikte,Sprinkled with. (4.4.26),Wak,sOpika,1,4.4.26,kashika_4_4.rs:183,0,source_conditioned_relation_not_independent_nominal_count
+d7c3cb8857de1f24a36f,sUramasa,Janapada,Country. (4.1.168),aR,sOramasa,1,4.1.170,kashika_4_1.rs:862,0,source_conditioned_relation_not_independent_nominal_count
+bde194efe1aedf10a7db,saBA,TatraSadhu,Skilled in this. (4.4.98),Qa,saBeya,1,4.4.106,kashika_4_4.rs:684,0,source_conditioned_relation_not_independent_nominal_count
+bf9b7938d34bd73a366e,saBA,TatraSadhu,Skilled in this. (4.4.98),ya,saBya,1,4.4.105,kashika_4_4.rs:678,0,source_conditioned_relation_not_independent_nominal_count
+ac8f6c4f1156b64d3cf6,saMSaya,Apanna,Fallen into this. (5.1.73),WaY,sAMSayika,1,5.1.73,kashika_5_1.rs:461,0,source_conditioned_relation_not_independent_nominal_count
+476576c08ccfd4f4b0a3,saMsTAna,Vyavaharati,Where one does work. (4.4.72),Wak,sAMsTAnika,1,4.4.72,kashika_4_4.rs:499,0,source_conditioned_relation_not_independent_nominal_count
+0145fea29546c8a7a6fa,saMvatsara,TenaNirvrttam,Completed by this time. (5.1.79),WaY,sAMvatsarika,1,5.1.79,kashika_5_1.rs:529,0,source_conditioned_relation_not_independent_nominal_count
+5cb7dae784e08815834c,saMyuga,TatraSadhu,Skilled in this. (4.4.98),KaY,sAMyugIna,1,4.4.99,kashika_4_4.rs:641,0,source_conditioned_relation_not_independent_nominal_count
+0864b181973793c24f9f,sahAya,TasyaSamuha,A collection of this. (4.2.37),tal,sahAyatA,1,4.2.43,kashika_4_2.rs:186,0,source_conditioned_relation_not_independent_nominal_count
+e424125b8dd9f8886b7f,sahas,Vartate,Existence. (4.4.27),Wak,sAhasika,1,4.4.27,kashika_4_4.rs:190,0,source_conditioned_relation_not_independent_nominal_count
+9abe26e049bd6513b32a,sahasra,TadArhati,One deserves this. (5.1.63),aR,sAhasra,1,5.1.63,kashika_5_1.rs:390,0,source_conditioned_relation_not_independent_nominal_count
+d0b377d3deddbeead4fa,sahasra,TadAsminVrddhiAyaLabhaSulkaUpada,"In which this is an interest, rent, profit, tax, or bribe. (5.1.47)",aR,sAhasra,1,5.1.47,kashika_5_1.rs:315,0,source_conditioned_relation_not_independent_nominal_count
+8f13220e10586dcbb0f0,sahasra,TadAsyaParimanam,The measure of this. (5.1.57),aR,sAhasra,1,5.1.57,kashika_5_1.rs:379,0,source_conditioned_relation_not_independent_nominal_count
+cb8f9b2f2f9b884662ce,sahasra,TasyaNimittamSamyogotpattau,"For the sake of this, when the meaning is a relation or appearance. (5.1.38)",aR,sAhasra,1,5.1.38,kashika_5_1.rs:268,0,source_conditioned_relation_not_independent_nominal_count
+45637b993af7e1f20d60,sahasra,TenaKritam,What is bought with this. (5.1.37),aR,sAhasra,1,5.1.27,kashika_5_1.rs:240,0,source_conditioned_relation_not_independent_nominal_count
+9ff0fcf08cb786132e90,saktu,TatraSadhu,Skilled in this. (4.4.98),WaY,sAktuka,1,4.4.103,kashika_4_4.rs:665,0,source_conditioned_relation_not_independent_nominal_count
+0a2c8447327a811672c7,samA,TamAdhisteBhrtoBhutoBhavi,"For which time one instructs, is paid, existed, or will exist. (5.1.80)",Ka,samIna,1,5.1.85,kashika_5_1.rs:551,0,source_conditioned_relation_not_independent_nominal_count
+3add11deb982c124ce89,samAja,Samavaiti,Assembly. (4.4.43),Wak,sAmAjika,1,4.4.43,kashika_4_4.rs:308,0,source_conditioned_relation_not_independent_nominal_count
+f94801f1e8b8a5b54d34,samAja,TadRakshati,What is protected. (4.4.33),Wak,sAmAjika,1,4.4.33,kashika_4_4.rs:230,0,source_conditioned_relation_not_independent_nominal_count
+3dcdeedc563999862d28,samUha,Samavaiti,Assembly. (4.4.43),Wak,sAmUhika,1,4.4.43,kashika_4_4.rs:309,0,source_conditioned_relation_not_independent_nominal_count
+3d64adca39334bb3b018,samavAya,Samavaiti,Assembly. (4.4.43),Wak,sAmavAyika,1,4.4.43,kashika_4_4.rs:307,0,source_conditioned_relation_not_independent_nominal_count
+bb565a9a21ee86169000,sammuKa,Darshana,Mirror. (5.2.6),Ka,sammuKIna,1,5.2.6,kashika_5_2.rs:59,0,source_conditioned_relation_not_independent_nominal_count
+00858ca9d4cf3850fcda,samudra,TatraBhava,Where this stays or exists. (4.3.53),Ga,samudriya,1,4.4.118,kashika_4_4.rs:724,0,source_conditioned_relation_not_independent_nominal_count
+8ec86070b9b5147fa068,sannipAta,TasyaNimittamSamyogotpattau,"For the sake of this, when the meaning is a relation or appearance. (5.1.38)",Wak,sAnnipAtika,1,5.1.38,kashika_5_1.rs:274,0,source_conditioned_relation_not_independent_nominal_count
+e7128c3e14f51066c73e,sanniveSa,Samavaiti,Assembly. (4.4.43),Wak,sAnniveSika,1,4.4.43,kashika_4_4.rs:310,0,source_conditioned_relation_not_independent_nominal_count
+73e377c93d524caa7851,sanniveSa,TadRakshati,What is protected. (4.4.33),Wak,sAnniveSika,1,4.4.33,kashika_4_4.rs:231,0,source_conditioned_relation_not_independent_nominal_count
+f737d206f2175a0c1189,saptan,TadAsminVrddhiAyaLabhaSulkaUpada,"In which this is an interest, rent, profit, tax, or bribe. (5.1.47)",kan,saptaka,1,5.1.47,kashika_5_1.rs:312,0,source_conditioned_relation_not_independent_nominal_count
+13a46a87a78124fe9914,saptati,TenaKritam,What is bought with this. (5.1.37),WaY,sAptatika,1,5.1.37,kashika_5_1.rs:247,0,source_conditioned_relation_not_independent_nominal_count
+7046b7e46c053fb1af51,sarvANga,Vyapnoti,Pervades. (5.2.7),Ka,sarvANgIRa,1,5.2.7,kashika_5_2.rs:65,0,source_conditioned_relation_not_independent_nominal_count
+f7f0983e52e566639666,sarva,TasmaiHitam,One for whom this is good. (5.1.7),Ra,sArva,1,5.1.10,kashika_5_1.rs:108,0,source_conditioned_relation_not_independent_nominal_count
+c45ce9a1eb836daa6678,sarvaBUmi,TasyaNimittamSamyogotpattau,"For the sake of this, when the meaning is a relation or appearance. (5.1.38)",aR,sArvaBOma,1,5.1.41,kashika_5_1.rs:288,0,source_conditioned_relation_not_independent_nominal_count
+aaa0b5b061adaa6215ef,sarvaDurA,TadVahati,What one bears. (4.4.78),Ka,sarvaDurIRa,1,4.4.78,kashika_4_4.rs:527,0,source_conditioned_relation_not_independent_nominal_count
+07982d145c538aa5bef0,sarvacarman,Krta,Wholly made of this. (5.2.5),Ka,sarvacarmIRa,1,5.2.5,kashika_5_2.rs:52,0,source_conditioned_relation_not_independent_nominal_count
+387193282a63626153ba,sarvacarman,Krta,Wholly made of this. (5.2.5),KaY,sArvacarmIRa,1,5.2.5,kashika_5_2.rs:53,0,source_conditioned_relation_not_independent_nominal_count
+d90ad4f64bb7ed327952,sarvakarman,Vyapnoti,Pervades. (5.2.7),Ka,sarvakarmIRa,1,5.2.7,kashika_5_2.rs:66,0,source_conditioned_relation_not_independent_nominal_count
+6df46c53b563375dad0b,sarvapAtra,Vyapnoti,Pervades. (5.2.7),Ka,sarvapAtrIRa,1,5.2.7,kashika_5_2.rs:68,0,source_conditioned_relation_not_independent_nominal_count
+6c4f049180e40dad0ffe,sarvapaTi,Vyapnoti,Pervades. (5.2.7),Ka,sarvapaTIna,1,5.2.7,kashika_5_2.rs:64,0,source_conditioned_relation_not_independent_nominal_count
+c886f08469d5a9d0f207,sarvapatra,Vyapnoti,Pervades. (5.2.7),Ka,sarvapatrIRa,1,5.2.7,kashika_5_2.rs:67,0,source_conditioned_relation_not_independent_nominal_count
+cf46bf87f2580760b2ac,sarvasena,AsyaNivasa,Dwelling. (4.3.89),Yya,sArvasenya,1,4.3.92,kashika_4_3.rs:291,0,source_conditioned_relation_not_independent_nominal_count
+accb091d7af7b9ed0777,sasya,TatraParijata,Supplied richly with. (5.2.68),kan,sasyaka,1,5.2.68,kashika_5_2.rs:357,0,source_conditioned_relation_not_independent_nominal_count
+e838b5495637eab2edb9,senA,Samavaiti,Assembly. (4.4.43),Rya,sEnya,1,4.4.45,kashika_4_4.rs:320,0,source_conditioned_relation_not_independent_nominal_count
+11d4164cf2d9ded53c38,senA,Samavaiti,Assembly. (4.4.43),Wak,sEnika,1,4.4.45,kashika_4_4.rs:321,0,source_conditioned_relation_not_independent_nominal_count
+badef5006d632d967f30,senApati,TasyaApatyam,Descendant. (4.1.92),Rya,sEnApatya,1,4.1.85,kashika_4_1.rs:435,0,source_conditioned_relation_not_independent_nominal_count
+6565063e9c193b531a8d,siDma,TadAsyaAstiAsmin,What one has or is in. (5.2.94),lac,siDmala,1,5.2.97,kashika_5_2.rs:401,0,source_conditioned_relation_not_independent_nominal_count
+6f4c6fcd4de0e377d583,siDma,TadAsyaAstiAsmin,What one has or is in. (5.2.94),matup,siDmavat,1,5.2.97,kashika_5_2.rs:402,0,source_conditioned_relation_not_independent_nominal_count
+af2fcca6fab60c2ed868,sinDu,AsyaNivasa,Dwelling. (4.3.89),aR,sEnDava,1,4.3.93,kashika_4_3.rs:296,0,source_conditioned_relation_not_independent_nominal_count
+37150d9176fc2d3a3756,sinDu,AsyaNivasa,Dwelling. (4.3.89),aY,sEnDava,1,4.3.93,kashika_4_3.rs:297,0,source_conditioned_relation_not_independent_nominal_count
+3e8bf93d278231bbf807,sinDu,TatraJata,Where this was born. (4.3.25),aR,sEnDava,1,4.2.133;4.3.33,kashika_4_2.rs:514;kashika_4_3.rs:141,1,source_conditioned_relation_not_independent_nominal_count
+a3fbf7b838a4dad96a56,sinDu,TatraJata,Where this was born. (4.3.25),aY,sEnDava,1,4.3.33,kashika_4_3.rs:142,0,source_conditioned_relation_not_independent_nominal_count
+cbf3c86d98b0dca6fc83,sinDu,TatraJata,Where this was born. (4.3.25),kan,sinDuka,1,4.3.32,kashika_4_3.rs:135,0,source_conditioned_relation_not_independent_nominal_count
+4c32d6050a4edf5b4a2a,soma,SaAsyaDevata,Having this as a god. (4.2.24),wyaR,sOmya,1,4.2.30,kashika_4_2.rs:101,0,source_conditioned_relation_not_independent_nominal_count
+4a7a394cafa2bf4b8c26,sruGna,AsyaNivasa,Dwelling. (4.3.89),aR,srOGna,1,4.3.89,kashika_4_3.rs:283,0,source_conditioned_relation_not_independent_nominal_count
+ad71e03cef805403fba8,sruGna,TataAgata,Where one came from. (4.3.74),aR,srOGna,1,4.3.74,kashika_4_3.rs:263,0,source_conditioned_relation_not_independent_nominal_count
+5d115ba21ff4281264cc,sruGna,TatraBhava,Where this stays or exists. (4.3.53),aR,srOGna,1,4.3.53,kashika_4_3.rs:197,0,source_conditioned_relation_not_independent_nominal_count
+6085eb74a4553839b6f8,sruGna,TatraJata,Where this was born. (4.3.25),aR,srOGna,1,4.3.25;4.3.38,kashika_4_3.rs:149;kashika_4_3.rs:80,1,source_conditioned_relation_not_independent_nominal_count
+f7d34365a83d91b78ea0,sruGna,TatraPrayabhava,Where this generally occurs. (4.3.39),aR,srOGna,1,4.3.39,kashika_4_3.rs:156,0,source_conditioned_relation_not_independent_nominal_count
+591e8d98b1c16de772bf,sruGna,TatraSambhute,Where this was adapted. (4.3.41),aR,srOGna,1,4.3.41,kashika_4_3.rs:170,0,source_conditioned_relation_not_independent_nominal_count
+8df0dd7d7f1c499469af,stamBa,Hrasve,,ka,stamBaka,1,5.3.86,kashika_5_3.rs:288,0,source_conditioned_relation_not_independent_nominal_count
+c0ccf4a6ed494b1f00db,strI,TasyaApatyam,Descendant. (4.1.92),naY,strERa,1,4.1.87;4.1.92,kashika_4_1.rs:446;kashika_4_1.rs:456,1,source_conditioned_relation_not_independent_nominal_count
+aa573e2baa885f57d73e,suBagA,TasyaApatyam,Descendant. (4.1.92),Qak,sOBAgineya,1,4.1.126,kashika_4_1.rs:673,0,source_conditioned_relation_not_independent_nominal_count
+fda88e2f83d194b079f1,suDAtf,TasyaApatyam,Descendant. (4.1.92),iY,sODAtaki,1,4.1.97,kashika_4_1.rs:481,0,source_conditioned_relation_not_independent_nominal_count
+428130b7a03a7ba8a367,svApiSi,TasyaIdam,One who has this. (4.3.120),Ca,svApiSIya,1,4.3.131,kashika_4_3.rs:414,0,source_conditioned_relation_not_independent_nominal_count
+29f0a7eab2f716901afd,svapati,TatraSadhu,Skilled in this. (4.4.98),QaY,svApateya,1,4.4.104,kashika_4_4.rs:673,0,source_conditioned_relation_not_independent_nominal_count
+897e6c5d33b2aba58019,svasf,TasyaApatyam,Descendant. (4.1.92),Ca,svasrIya,1,4.1.143,kashika_4_1.rs:766,0,source_conditioned_relation_not_independent_nominal_count
+68e263605bd5a9ba0919,tArakA,TadAsyaSamjatam,Of which this is observed. (5.2.36),itac,tArakita,1,5.2.36,kashika_5_2.rs:209,0,source_conditioned_relation_not_independent_nominal_count
+8ce26f301dd137b814d3,tUdI,AsyaNivasa,Dwelling. (4.3.89),Qak,tOdeya,1,4.3.94,kashika_4_3.rs:304,0,source_conditioned_relation_not_independent_nominal_count
+1fa56bb77e39653adbbe,taRqula,TasmaiHitam,One for whom this is good. (5.1.7),Ca,taRqulIya,1,5.1.4,kashika_5_1.rs:49,0,source_conditioned_relation_not_independent_nominal_count
+b5c888cda3b1b9050988,taRqula,TasmaiHitam,One for whom this is good. (5.1.7),yat,taRqulya,1,5.1.4,kashika_5_1.rs:48,0,source_conditioned_relation_not_independent_nominal_count
+760de2ff289c44953ee3,tad,BahunamEka,One of many. (5.3.93),qatamac,tatama,1,5.3.93,kashika_5_3.rs:340,0,source_conditioned_relation_not_independent_nominal_count
+5b207a2050c3c25132a9,tad,DvayorEka,One of two. (5.3.92),qatarac,tatara,1,5.3.92,kashika_5_3.rs:333,0,source_conditioned_relation_not_independent_nominal_count
+4b808e52f49fec5541d9,tad,Parimana,Volume. (5.2.39),vatup,tAvat,1,5.2.39,kashika_5_2.rs:244,0,source_conditioned_relation_not_independent_nominal_count
+1c74b71480c77240cc52,tantra,AciraApahrta,Taken recently. (5.2.70),kan,tantraka,1,5.2.70,kashika_5_2.rs:367,0,source_conditioned_relation_not_independent_nominal_count
+5051e55e8cbe0b5b72e5,tarku,TasyaVikara,Modification of this. (4.3.134),aR,tArkava,1,4.3.137,kashika_4_3.rs:441,0,source_conditioned_relation_not_independent_nominal_count
+6a247f10a7c57fb6e8be,tfRa,TasyaSamuha,A collection of this. (4.2.37),ya,tfRyA,1,4.2.49,kashika_4_2.rs:211,0,source_conditioned_relation_not_independent_nominal_count
+fcdcd563ae54f453e94f,tila,TasmaiHitam,One for whom this is good. (5.1.7),yat,tilya,1,5.1.7,kashika_5_1.rs:84,0,source_conditioned_relation_not_independent_nominal_count
+b7ac6a0f97c3e3019667,tilaKalA,Janapada,Country. (4.1.168),iY,tElaKali,1,4.1.173,kashika_4_1.rs:892,0,source_conditioned_relation_not_independent_nominal_count
+933a94ac5ff794cd2557,tittiqIka,TasyaVikara,Modification of this. (4.3.134),aR,tEttiqIka,1,4.3.137,kashika_4_3.rs:442,0,source_conditioned_relation_not_independent_nominal_count
+305cc9a68974234dff2c,tittiqIka,TenaSamskrtam,Cultured or processed. (4.4.3),aR,tEttiqIka,1,4.4.4,kashika_4_4.rs:41,0,source_conditioned_relation_not_independent_nominal_count
+b1c7c975e237098e18b7,tittiri,Hanti,What one kills. (4.4.35),Wak,tEttirika,1,4.4.35,kashika_4_4.rs:245,0,source_conditioned_relation_not_independent_nominal_count
+6aab243e874af970b4f4,tittiri,TasyaVikara,Modification of this. (4.3.134),aR,tEttira,1,4.3.135,kashika_4_3.rs:427,0,source_conditioned_relation_not_independent_nominal_count
+a92cad3aaef2436feeac,tittiri,TenaProktam,What is proclaimed by this person. (4.3.101),CaR,tEttirIya,1,4.3.102,kashika_4_3.rs:318,0,source_conditioned_relation_not_independent_nominal_count
+f1a1728ae77b55e9e9b0,trapu,TasyaVikara,Modification of this. (4.3.134),aR,trApuza,1,4.3.138,kashika_4_3.rs:450,0,source_conditioned_relation_not_independent_nominal_count
+500594504f830062b34c,tri,Avasana,Parts of which. (5.2.42),tayap,traya;tritaya,2,5.2.43,kashika_5_2.rs:271,0,source_conditioned_relation_not_independent_nominal_count
+3d5ab61e508b0440501c,tri,Nimana,Given in exchange. (5.2.47),mayaw,trimaya,1,5.2.47,kashika_5_2.rs:288,0,source_conditioned_relation_not_independent_nominal_count
+301ecd7411925a1ae13b,tri,Purana,Making full. (5.2.48),tIya,tftIya,1,5.2.55,kashika_5_2.rs:312,0,source_conditioned_relation_not_independent_nominal_count
+294c72d6210df52612d3,tri,TenaKritam,What is bought with this. (5.1.37),kan,trika,1,5.1.37,kashika_5_1.rs:257,0,source_conditioned_relation_not_independent_nominal_count
+6a73ad6be383e7f54c70,trigarta,TasyaVishayoDeshe,A domain of this. (4.2.52),vuY,trEgartaka,1,4.2.53,kashika_4_2.rs:235,0,source_conditioned_relation_not_independent_nominal_count
+97995178088c118cb1f8,triguRa,PrayacchatiGarhyam,One who gives in a contemptible way. (4.4.30),Wak,trEguRika,1,4.4.30,kashika_4_4.rs:212,0,source_conditioned_relation_not_independent_nominal_count
+966989a25da3aa047588,tsaru,TatraKushala,Skilled in this. (5.2.63),kan,tsaruka,1,5.2.64,kashika_5_2.rs:338,0,source_conditioned_relation_not_independent_nominal_count
+58032587deca2b5ad32e,tugra,TatraBhava,Where this stays or exists. (4.3.53),Gan,tugriya,1,4.4.115,kashika_4_4.rs:705,0,source_conditioned_relation_not_independent_nominal_count
+413ebcc48c1b70cf4cde,turAyaRa,TadVartayati,One performs this. (5.1.72),WaY,tOrAyaRika,1,5.1.18;5.1.72,kashika_5_1.rs:172;kashika_5_1.rs:455,1,source_conditioned_relation_not_independent_nominal_count
+08614a771b183b21a41b,uKA,SamskrtamBhaksha,Food that is prepared with this vessel or medium. (4.2.16),yat,uKya,1,4.2.17,kashika_4_2.rs:37,0,source_conditioned_relation_not_independent_nominal_count
+cf9447c9b2cca2000649,uKa,TenaProktam,What is proclaimed by this person. (4.3.101),CaR,OKIya,1,4.3.102,kashika_4_3.rs:321,0,source_conditioned_relation_not_independent_nominal_count
+95abe9951851836c4235,uccakzus,AbhutaTadbhava,Becoming what one was not. (5.4.50),cvi,uccakzU,1,5.4.51,kashika_5_4.rs:163,0,source_conditioned_relation_not_independent_nominal_count
+3b0a248b82fd319948bf,udaSvit,SamskrtamBhaksha,Food that is prepared with this vessel or medium. (4.2.16),Wak,OdaSvitka,1,4.2.19,kashika_4_2.rs:47,0,source_conditioned_relation_not_independent_nominal_count
+a5ced0e3c4c2479f4f6a,udaSvit,SamskrtamBhaksha,Food that is prepared with this vessel or medium. (4.2.16),aR,OdaSvita,1,4.2.19,kashika_4_2.rs:48,0,source_conditioned_relation_not_independent_nominal_count
+3422e537df2afb66eecb,udaka,AbhutaTadbhava,Becoming what one was not. (5.4.50),sAti,udakasAt,1,5.4.52,kashika_5_4.rs:172,0,source_conditioned_relation_not_independent_nominal_count
+431b7d510e4379eacf58,udaka,TadArhati,One deserves this. (5.1.63),yat,udakya,1,5.1.67,kashika_5_1.rs:416,0,source_conditioned_relation_not_independent_nominal_count
+a9c4dfe592985c257ea5,udapAna,TasyaApatyam,Descendant. (4.1.92),aY,OdapAna,1,4.1.86,kashika_4_1.rs:441,0,source_conditioned_relation_not_independent_nominal_count
+0e4a51109a219e4d1a5b,udapAna,TataAgata,Where one came from. (4.3.74),aR,OdapAna,1,4.3.76,kashika_4_3.rs:272,0,source_conditioned_relation_not_independent_nominal_count
+538116c34654f46f4d25,udapAna,TatraJata,Where this was born. (4.3.25),aR,OdapAna,1,4.3.25,kashika_4_3.rs:83,0,source_conditioned_relation_not_independent_nominal_count
+184424e716f528241b05,udara,Alpe,,ka,udaraka,1,5.2.67,kashika_5_2.rs:352,0,source_conditioned_relation_not_independent_nominal_count
+5ed644d111cbfd4f61fa,udara,TatraAdyuna,Voracious. (5.2.67),Wak,Odarika,1,5.2.67,kashika_5_2.rs:349,0,source_conditioned_relation_not_independent_nominal_count
+614ec5197bff95b491f5,udgAtf,TasyaDharmyam,One who has this custom. (4.4.47),aY,OdgAtra,1,4.4.49,kashika_4_4.rs:347,0,source_conditioned_relation_not_independent_nominal_count
+868b93b081b97970f886,udumbarA,Janapada,Country. (4.1.168),iY,Odumbari,1,4.1.173,kashika_4_1.rs:891,0,source_conditioned_relation_not_independent_nominal_count
+a0e73d04e63ffbeb4d9d,ukzan,Tanutve,Slenderness. (5.3.91),zwarac,ukzatara,1,5.3.91,kashika_5_3.rs:324,0,source_conditioned_relation_not_independent_nominal_count
+c1a6ba8cf0494da57b37,umA,TasyaVikara,Modification of this. (4.3.134),aR,Oma,1,4.3.158,kashika_4_3.rs:511,0,source_conditioned_relation_not_independent_nominal_count
+df363043b75d5a8dac7a,umA,TasyaVikara,Modification of this. (4.3.134),vuY,Omaka,1,4.3.158,kashika_4_3.rs:510,0,source_conditioned_relation_not_independent_nominal_count
+7fba9298c4abc8a9297a,umBi,TatraJata,Where this was born. (4.3.25),QakaY,OmBeyaka,1,4.3.25,kashika_4_3.rs:91,0,source_conditioned_relation_not_independent_nominal_count
+9cae63f34c16c3423143,unmanas,AbhutaTadbhava,Becoming what one was not. (5.4.50),cvi,unmanI,1,5.4.51,kashika_5_4.rs:162,0,source_conditioned_relation_not_independent_nominal_count
+b309f8d505380173f785,upAnah,TadarthamVikrtehPrakrtau,What could be created from this raw material. (5.1.12),Yya,OpAnahya,1,5.1.14,kashika_5_1.rs:144,0,source_conditioned_relation_not_independent_nominal_count
+00b31f32d18af7d1c8f0,upaDi,TadarthamVikrtehPrakrtau,What could be created from this raw material. (5.1.12),QaY,OpaDeya,1,5.1.13,kashika_5_1.rs:135,0,source_conditioned_relation_not_independent_nominal_count
+538d2efccf02af21bdfa,upabAhu,TasyaApatyam,Descendant. (4.1.92),iY,OpabAhavi,1,4.1.96,kashika_4_1.rs:475,0,source_conditioned_relation_not_independent_nominal_count
+4cfc4b5d04774f60acd9,upagu,TasyaApatyam,Descendant. (4.1.92),aR,Opagava,1,4.1.83;4.1.92,kashika_4_1.rs:421;kashika_4_1.rs:452,1,source_conditioned_relation_not_independent_nominal_count
+8c71578724f219e006d1,upajAnu,TatraPrayabhava,Where this generally occurs. (4.3.39),Wak,OpajAnuka,1,4.3.40,kashika_4_3.rs:163,0,source_conditioned_relation_not_independent_nominal_count
+14d52385fc8ef9f6efbb,upakarRa,TatraPrayabhava,Where this generally occurs. (4.3.39),Wak,OpakarRika,1,4.3.40,kashika_4_3.rs:164,0,source_conditioned_relation_not_independent_nominal_count
+357e89f2cd084c7ed1ca,upanIvi,TatraPrayabhava,Where this generally occurs. (4.3.39),Wak,OpanIvika,1,4.3.40,kashika_4_3.rs:165,0,source_conditioned_relation_not_independent_nominal_count
+d249b04f83675468956b,uqupa,TenaHarati,One who conveys with this. (4.4.15),Wak,Oqupika,1,4.4.15,kashika_4_4.rs:116,0,source_conditioned_relation_not_independent_nominal_count
+b574a1af39d824907f15,uras,Nirmita,Made of this. (4.4.93),aR,Orasa,1,4.4.94,kashika_4_4.rs:613,0,source_conditioned_relation_not_independent_nominal_count
+2adb347a2f379cbbae1c,uras,Nirmita,Made of this. (4.4.93),yat,urasya,1,4.4.94,kashika_4_4.rs:614,0,source_conditioned_relation_not_independent_nominal_count
+8d44dbb12fccec7fd56b,urva,Gotra,Patronymic lineage. (4.1.98),aY,Orva,1,4.1.104,kashika_4_1.rs:533,0,source_conditioned_relation_not_independent_nominal_count
+b225076ae049096a2f65,utpAta,TadAdhiteTadVeda,What one studies or knows. (4.2.59),aR,OtpAta,1,4.2.59,kashika_4_2.rs:259,0,source_conditioned_relation_not_independent_nominal_count
+ee097274c4dbcc28a803,utsAha,TadAsyaAstiAsmin,What one has or is in. (5.2.94),valac,utsAhavala,1,5.2.112,kashika_5_2.rs:441,0,source_conditioned_relation_not_independent_nominal_count
+dfa59ad6353171a2d7c6,utsa,TasyaApatyam,Descendant. (4.1.92),aY,Otsa,1,4.1.86;4.1.92,kashika_4_1.rs:440;kashika_4_1.rs:455,1,source_conditioned_relation_not_independent_nominal_count
+e0381774159843a561eb,utsa,TatraJata,Where this was born. (4.3.25),aR,Otsa,1,4.3.25,kashika_4_3.rs:82,0,source_conditioned_relation_not_independent_nominal_count
+de1a1231b7886402d2f0,utsaNga,TenaHarati,One who conveys with this. (4.4.15),Wak,OtsaNgika,1,4.4.15,kashika_4_4.rs:115,0,source_conditioned_relation_not_independent_nominal_count
+59db0359b1251767040a,uttamArDa,TatraJata,Where this was born. (4.3.25),yat,uttamArDya,1,4.3.5,kashika_4_3.rs:37,0,source_conditioned_relation_not_independent_nominal_count
+5cb89ed74608398940c8,uttara,DigDeshaKala,"Words meaning direction, location, or time. (5.3.27)",atasuc,uttaratas,1,5.3.28,kashika_5_3.rs:122,0,source_conditioned_relation_not_independent_nominal_count
+cc6b0f6c964d209f3a29,uttaraDurA,TadVahati,What one bears. (4.4.78),Ka,uttaraDurIRa,1,4.4.78,kashika_4_4.rs:528,0,source_conditioned_relation_not_independent_nominal_count
+b6fc89efba75972b2938,uttarapaTa,Ahrtam,What is conveyed by that way. (5.1.77),WaY,OttarapaTika,1,5.1.77,kashika_5_1.rs:493,0,source_conditioned_relation_not_independent_nominal_count
+c204a694d1c34af2040f,uttarapaTa,Gacchati,Who goes. (5.1.75),WaY,OttarapaTika,1,5.1.77,kashika_5_1.rs:492,0,source_conditioned_relation_not_independent_nominal_count
+cec185117b51c07c24c3,uttarapada,Grhnati,What one takes. (4.4.39),Wak,Ottarapadika,1,4.4.39,kashika_4_4.rs:278,0,source_conditioned_relation_not_independent_nominal_count
+bcbd71ce71bcd7586ccd,uzRa,Karin,Going to work in this manner. (5.2.72),kan,uzRaka,1,5.2.72,kashika_5_2.rs:373,0,source_conditioned_relation_not_independent_nominal_count
+6f61e90c7cf5e0f0694b,uzas,SaAsyaDevata,Having this as a god. (4.2.24),yat,uzasya,1,4.2.31,kashika_4_2.rs:109,0,source_conditioned_relation_not_independent_nominal_count
+f96cef97d317b3d69815,uzwra,IvePratikrtau,,kan,uzwraka,1,5.3.96,kashika_5_3.rs:353,0,source_conditioned_relation_not_independent_nominal_count
+53d99f13107132ddb683,uzwra,TasyaVikara,Modification of this. (4.3.134),vuY,Ozwraka,1,4.3.157,kashika_4_3.rs:505,0,source_conditioned_relation_not_independent_nominal_count
+42c8fe8ac161bdc51b47,uzwra,TasyaVishayoDeshe,A domain of this. (4.2.52),aR,Ozwra,1,4.2.52,kashika_4_2.rs:225,0,source_conditioned_relation_not_independent_nominal_count
+0b8368c115194d6ffccd,vAkina,TasyaApatyam,Descendant. (4.1.92),PiY,vAkinakAyani,1,4.1.158,kashika_4_1.rs:794,0,source_conditioned_relation_not_independent_nominal_count
+8af79e092727572567b7,vAkina,TasyaApatyam,Descendant. (4.1.92),iY,vAkini,1,4.1.158,kashika_4_1.rs:795,0,source_conditioned_relation_not_independent_nominal_count
+4ac55e4b9ce4227089cd,vAqava,TasyaSamuha,A collection of this. (4.2.37),yan,vAqavya,1,4.2.42,kashika_4_2.rs:173,0,source_conditioned_relation_not_independent_nominal_count
+bcba1324259d1dc3f488,vAripaTa,Ahrtam,What is conveyed by that way. (5.1.77),WaY,vAripaTika,1,5.1.77,kashika_5_1.rs:499,0,source_conditioned_relation_not_independent_nominal_count
+fa28f90a1c6df2d12fba,vAripaTa,Gacchati,Who goes. (5.1.75),WaY,vAripaTika,1,5.1.77,kashika_5_1.rs:498,0,source_conditioned_relation_not_independent_nominal_count
+fa1f228235387d20b81a,vAsudeva,Bhakti,Devotion. (4.3.95),vun,vAsudevaka,1,4.3.98,kashika_4_3.rs:312,0,source_conditioned_relation_not_independent_nominal_count
+96605bea1aade081d20a,vAtsIputra,TasyaApatyam,Descendant. (4.1.92),iY,vAtsIputri,1,4.1.159,kashika_4_1.rs:815,0,source_conditioned_relation_not_independent_nominal_count
+af77042e24b1fd6ecbbc,vAyu,SaAsyaDevata,Having this as a god. (4.2.24),yat,vAyavya,1,4.2.31,kashika_4_2.rs:106,0,source_conditioned_relation_not_independent_nominal_count
+18cdc12f5fdce73b39e2,vEpeya,TasyaVishayoDeshe,A domain of this. (4.2.52),viDal,vEpeyaviDa,1,4.2.54,kashika_4_2.rs:243,0,source_conditioned_relation_not_independent_nominal_count
+5254f523ce169af6fc0e,vIRA,Shilpam,One who has this art. (4.4.55),Wak,vERika,1,4.4.55,kashika_4_4.rs:392,0,source_conditioned_relation_not_independent_nominal_count
+c88dee5c7d4cd0141095,vIvaDa,TenaHarati,One who conveys with this. (4.4.15),Wak,vEvaDika,1,4.4.17,kashika_4_4.rs:130,0,source_conditioned_relation_not_independent_nominal_count
+6bb55cae45e4bcea01b3,vIvaDa,TenaHarati,One who conveys with this. (4.4.15),zWan,vIvaDika,1,4.4.17,kashika_4_4.rs:129,0,source_conditioned_relation_not_independent_nominal_count
+6e2c3e18f95274c2540c,vaMSa,Hrasve,,ka,vaMSaka,1,5.3.87,kashika_5_3.rs:293,0,source_conditioned_relation_not_independent_nominal_count
+e63fb2a671d1fafb2c7d,vaMSa,TadDharatiVahatiAvahati,"What one carries away, or conveys, or brings. (5.1.50)",Wak,vAMSika,1,5.1.50,kashika_5_1.rs:338,0,source_conditioned_relation_not_independent_nominal_count
+e32d5e2d72e17d58e1f1,vaMSakaWina,Vyavaharati,Where one does work. (4.4.72),Wak,vAMSakaWinika,1,4.4.72,kashika_4_4.rs:496,0,source_conditioned_relation_not_independent_nominal_count
+48889fce348d23b42d90,vaNga,Janapada,Country. (4.1.168),aR,vANga,1,4.1.170,kashika_4_1.rs:859,0,source_conditioned_relation_not_independent_nominal_count
+af10685fc8adbd5d3725,vaSa,Gata,Where one has gone. (4.4.86),yat,vaSya,1,4.4.86,kashika_4_4.rs:568,0,source_conditioned_relation_not_independent_nominal_count
+540ba0911ed5450a220e,vaqavA,TasyaSamuha,A collection of this. (4.2.37),aY,vAqava,1,4.2.45,kashika_4_2.rs:197,0,source_conditioned_relation_not_independent_nominal_count
+33f2b99ad6fac2ebec27,varDrI,TadarthamVikrtehPrakrtau,What could be created from this raw material. (5.1.12),aY,vArDra,1,5.1.15,kashika_5_1.rs:150,0,source_conditioned_relation_not_independent_nominal_count
+cd539b1449708fd9bbfb,varRu,AsyaNivasa,Dwelling. (4.3.89),aR,vArRava,1,4.3.93,kashika_4_3.rs:298,0,source_conditioned_relation_not_independent_nominal_count
+443a261c3680082454c5,varRu,AsyaNivasa,Dwelling. (4.3.89),aY,vArRava,1,4.3.93,kashika_4_3.rs:299,0,source_conditioned_relation_not_independent_nominal_count
+0edb22c636f6835559cc,varRu,TatraJata,Where this was born. (4.3.25),aR,vArRava,1,4.2.133,kashika_4_2.rs:515,0,source_conditioned_relation_not_independent_nominal_count
+a5d387950c305f779cfc,varatantu,TenaProktam,What is proclaimed by this person. (4.3.101),CaR,vAratantavIya,1,4.3.102,kashika_4_3.rs:319,0,source_conditioned_relation_not_independent_nominal_count
+98a813f931c0c2197c6b,varatrA,TadarthamVikrtehPrakrtau,What could be created from this raw material. (5.1.12),aY,vAratra,1,5.1.15,kashika_5_1.rs:151,0,source_conditioned_relation_not_independent_nominal_count
+af20e14fbe840465b326,varga,TatraBhava,Where this stays or exists. (4.3.53),yat,vargya,1,4.3.54,kashika_4_3.rs:205,0,source_conditioned_relation_not_independent_nominal_count
+aa8fd68569294b6b62f4,varmatI,AsyaNivasa,Dwelling. (4.3.89),QaY,vArmateya,1,4.3.94,kashika_4_3.rs:306,0,source_conditioned_relation_not_independent_nominal_count
+6097d50d6a93a60480af,varuqa,TasyaApatyam,Descendant. (4.1.92),iY,vAruqaki,1,4.1.97,kashika_4_1.rs:487,0,source_conditioned_relation_not_independent_nominal_count
+a5e3039860d32af33b66,varuqa,TenaKrte,By whom this is made. (4.3.116),vuY,vAruqaka,1,4.3.118,kashika_4_3.rs:363,0,source_conditioned_relation_not_independent_nominal_count
+a5a3842473c8d3897df3,varzA,TatraJata,Where this was born. (4.3.25),Wak,vArzika,1,4.3.18,kashika_4_3.rs:70,0,source_conditioned_relation_not_independent_nominal_count
+06c054460ba89f9237e0,vasana,TenaKritam,What is bought with this. (5.1.37),aR,vAsana,1,5.1.27,kashika_5_1.rs:241,0,source_conditioned_relation_not_independent_nominal_count
+b1f0a46e378c52b9d252,vasanta,TatraSambhute,Where this was adapted. (4.3.41),aR,vAsanta,1,4.3.46,kashika_4_3.rs:192,0,source_conditioned_relation_not_independent_nominal_count
+134679c9a7f93698bc4e,vasanta,TatraSambhute,Where this was adapted. (4.3.41),vuY,vAsantaka,1,4.3.46,kashika_4_3.rs:191,0,source_conditioned_relation_not_independent_nominal_count
+1384de6e38e87f04aa61,vasati,TatraSadhu,Skilled in this. (4.4.98),QaY,vAsateya,1,4.4.104,kashika_4_4.rs:672,0,source_conditioned_relation_not_independent_nominal_count
+bffe9dbe4bd5e0e4a78b,vasna,TadDharatiVahatiAvahati,"What one carries away, or conveys, or brings. (5.1.50)",Wan,vasnika,1,5.1.51,kashika_5_1.rs:346,0,source_conditioned_relation_not_independent_nominal_count
+3d096d04c0ae51897db6,vasna,TenaJivati,One who lives with this. (4.4.12),Wan,vasnika,1,4.4.13,kashika_4_4.rs:101,0,source_conditioned_relation_not_independent_nominal_count
+a736c7cf92f7132ab5c6,vasti,TatraBhava,Where this stays or exists. (4.3.53),QaY,vAsteya,1,4.3.56,kashika_4_3.rs:213,0,source_conditioned_relation_not_independent_nominal_count
+10cb4c4162d25185e4aa,vastrayugma,TadArhati,One deserves this. (5.1.63),Wak,vAstrayugmika,1,5.1.63,kashika_5_1.rs:387,0,source_conditioned_relation_not_independent_nominal_count
+017f99696d01384da981,vataRqa,Gotra,Patronymic lineage. (4.1.98),aR,vAtaRqa,1,4.1.108,kashika_4_1.rs:564,0,source_conditioned_relation_not_independent_nominal_count
+e0b96e6b762a9d61054d,vataRqa,Gotra,Patronymic lineage. (4.1.98),yaY,vAtaRqya,1,4.1.108,kashika_4_1.rs:563,0,source_conditioned_relation_not_independent_nominal_count
+da598def8e230651f7a8,vatsa,Anukampayam,,ka,vatsaka,1,5.3.76,kashika_5_3.rs:280,0,source_conditioned_relation_not_independent_nominal_count
+b58814f6c10f83c6c099,vatsa,Gotra,Patronymic lineage. (4.1.98),yaY,vAtsya,1,4.1.105;4.1.162,kashika_4_1.rs:539;kashika_4_1.rs:830,1,source_conditioned_relation_not_independent_nominal_count
+50ece116c034a0726695,vatsa,Tanutve,Slenderness. (5.3.91),zwarac,vatsatara,1,5.3.91,kashika_5_3.rs:323,0,source_conditioned_relation_not_independent_nominal_count
+bfb9d90fef508abe753a,vatsa,TasmaiHitam,One for whom this is good. (5.1.7),Ca,vatsIya,1,5.1.1;5.1.5,kashika_5_1.rs:16;kashika_5_1.rs:56,1,source_conditioned_relation_not_independent_nominal_count
+7a7ec2fdd2e8f3a28778,vawara,TenaKrte,By whom this is made. (4.3.116),aY,vAwara,1,4.3.119,kashika_4_3.rs:370,0,source_conditioned_relation_not_independent_nominal_count
+2fb51409f22795248161,veRu,Hrasve,,ka,veRuka,1,5.3.87,kashika_5_3.rs:294,0,source_conditioned_relation_not_independent_nominal_count
+f3331f6220f79af0472d,veSanta,TatraBhava,Where this stays or exists. (4.3.53),aR,vESanta,1,4.4.112,kashika_4_4.rs:698,0,source_conditioned_relation_not_independent_nominal_count
+10d9e85b47288d787b0e,veman,TatraSadhu,Skilled in this. (4.4.98),yat,vemanya,1,4.4.98,kashika_4_4.rs:632,0,source_conditioned_relation_not_independent_nominal_count
+b0a8c7ed0672645b40a2,vetana,TenaJivati,One who lives with this. (4.4.12),Wak,vEtanika,1,4.4.12,kashika_4_4.rs:94,0,source_conditioned_relation_not_independent_nominal_count
+81a3089381860efde815,vfDrakaWina,Vyavaharati,Where one does work. (4.4.72),Wak,vArDrakaWinika,1,4.4.72,kashika_4_4.rs:497,0,source_conditioned_relation_not_independent_nominal_count
+bc87adfe5efd20f3924e,vfji,TatraJata,Where this was born. (4.3.25),kan,vfjika,1,4.2.131,kashika_4_2.rs:502,0,source_conditioned_relation_not_independent_nominal_count
+cc0320f6ce4a9802700c,vfkarUpya,TatraJata,Where this was born. (4.3.25),Ya,vArkarUpya,1,4.2.106,kashika_4_2.rs:460,0,source_conditioned_relation_not_independent_nominal_count
+04b68816531777321d15,vfkza,Hrasve,,ka,vfkzaka,1,5.3.86,kashika_5_3.rs:286,0,source_conditioned_relation_not_independent_nominal_count
+b1405d17b9d3c67c70bb,vfza,TasmaiHitam,One for whom this is good. (5.1.7),yat,vfzya,1,5.1.7,kashika_5_1.rs:85,0,source_conditioned_relation_not_independent_nominal_count
+d48d0d82f4ddc14bd988,viMSatika,TenaKritam,What is bought with this. (5.1.37),aR,vEMSatika,1,5.1.27,kashika_5_1.rs:239,0,source_conditioned_relation_not_independent_nominal_count
+483e263b53f65f2cde4b,viSvajana,TasmaiHitam,One for whom this is good. (5.1.7),Ka,viSvajanIna,1,5.1.9,kashika_5_1.rs:100,0,source_conditioned_relation_not_independent_nominal_count
+397d6e17f105ad4509fd,vicetas,AbhutaTadbhava,Becoming what one was not. (5.4.50),cvi,vicetI,1,5.4.51,kashika_5_4.rs:164,0,source_conditioned_relation_not_independent_nominal_count
+05c8b7963f0572b61f92,videha,Janapada,Country. (4.1.168),aY,vEdeha,1,4.1.168,kashika_4_1.rs:840,0,source_conditioned_relation_not_independent_nominal_count
+546422a04a9eb61719d7,videha,TasyaApatyam,Descendant. (4.1.92),iY,vEdehi,1,4.1.168,kashika_4_1.rs:847,0,source_conditioned_relation_not_independent_nominal_count
+24246e198b8b904daff7,vidyA,TenaVitta,Celebrated through this. (5.2.26),caRap,vidyAcaRa,1,5.2.26,kashika_5_2.rs:146,0,source_conditioned_relation_not_independent_nominal_count
+b6028cabd530869caf94,vidyA,TenaVitta,Celebrated through this. (5.2.26),cuYcup,vidyAcuYcu,1,5.2.26,kashika_5_2.rs:145,0,source_conditioned_relation_not_independent_nominal_count
+83e8d54ccda34136be24,vikaTA,TatraSadhu,Skilled in this. (4.4.98),Wak,vEkaTika,1,4.4.102,kashika_4_4.rs:658,0,source_conditioned_relation_not_independent_nominal_count
+66f359e129110a0e5fc1,vikarRa,TasyaApatyam,Descendant. (4.1.92),Qak,vEkarReya,1,4.1.124,kashika_4_1.rs:657,0,source_conditioned_relation_not_independent_nominal_count
+b1c2bcf6a53422dbb64f,vikarRa,TasyaApatyam,Descendant. (4.1.92),aR,vEkarRa,1,4.1.117,kashika_4_1.rs:596,0,source_conditioned_relation_not_independent_nominal_count
+c8a95d36cadebbaf8c23,vikarRa,TasyaApatyam,Descendant. (4.1.92),iY,vEkarRi,1,4.1.117;4.1.124,kashika_4_1.rs:597;kashika_4_1.rs:659,1,source_conditioned_relation_not_independent_nominal_count
+2373a5d4c7a37376006b,vikraya,TenaJivati,One who lives with this. (4.4.12),Wan,vikrayika,1,4.4.13,kashika_4_4.rs:103,0,source_conditioned_relation_not_independent_nominal_count
+b1b2e86e5610c82dac8e,vimukta,TadAsyaAstiAsmin,What one has or is in. (5.2.94),aR,vEmukta,1,5.2.61,kashika_5_2.rs:318,0,source_conditioned_relation_not_independent_nominal_count
+4ea0744654206d458001,virAwa,TasyaVishayoDeshe,A domain of this. (4.2.52),vuY,vErAwaka,1,4.2.53,kashika_4_2.rs:234,0,source_conditioned_relation_not_independent_nominal_count
+11b57b97c3e8e78c8617,viraNg,TadArhati,One deserves this. (5.1.63),Wak,vEraNgika,1,5.1.64,kashika_5_1.rs:397,0,source_conditioned_relation_not_independent_nominal_count
+3a0d5ff99dd10e838ae1,virahas,AbhutaTadbhava,Becoming what one was not. (5.4.50),cvi,virahI,1,5.4.51,kashika_5_4.rs:165,0,source_conditioned_relation_not_independent_nominal_count
+6a985eed7ffe5c15c4da,virajas,AbhutaTadbhava,Becoming what one was not. (5.4.50),cvi,virajI,1,5.4.51,kashika_5_4.rs:166,0,source_conditioned_relation_not_independent_nominal_count
+fe131df843dc7587b1bf,vivaDa,TenaHarati,One who conveys with this. (4.4.15),Wak,vEvaDika,1,4.4.17,kashika_4_4.rs:128,0,source_conditioned_relation_not_independent_nominal_count
+c4b3038b59178c10fc17,vivaDa,TenaHarati,One who conveys with this. (4.4.15),zWan,vivaDika,1,4.4.17,kashika_4_4.rs:127,0,source_conditioned_relation_not_independent_nominal_count
+fccde5f40169aabba3bd,vizwapura,TasyaApatyam,Descendant. (4.1.92),Qak,vEzwapureya,1,4.1.123,kashika_4_1.rs:652,0,source_conditioned_relation_not_independent_nominal_count
+91ef0d481f9538d0fde2,vrAta,TenaJivati,One who lives with this. (4.4.12),KaY,vrAtIna,1,5.2.21,kashika_5_2.rs:126,0,source_conditioned_relation_not_independent_nominal_count
+ac1650c7039fc12c4a60,vrIhi,DhanyanamBhavaneKshetre,"A place of growing, when that place is a field. (5.2.1)",Qak,vrEheya,1,5.2.2,kashika_5_2.rs:24,0,source_conditioned_relation_not_independent_nominal_count
+c653af321b03b0c7c7e9,vyAkaraRa,TadAdhiteTadVeda,What one studies or knows. (4.2.59),aR,vEyAkaraRa,1,4.2.59,kashika_4_2.rs:255,0,source_conditioned_relation_not_independent_nominal_count
+9752c87a6516fa11c3b4,vyAsa,TasyaApatyam,Descendant. (4.1.92),iY,vEyAsaki,1,4.1.97,kashika_4_1.rs:486,0,source_conditioned_relation_not_independent_nominal_count
+50d01cad9a2e98a8a92a,yAcita,TenaNirvrtte,Completed with. (4.4.19),kan,yAcitaka,1,4.4.21,kashika_4_4.rs:154,0,source_conditioned_relation_not_independent_nominal_count
+99ff3252720326ea24cc,yAjYika,TasyaIdam,One who has this. (4.3.120),Yya,yAjYikya,1,4.3.129,kashika_4_3.rs:401,0,source_conditioned_relation_not_independent_nominal_count
+3337da35e99263839081,yUpa,TadArhati,One deserves this. (5.1.63),yat,yUpya,1,5.1.67,kashika_5_1.rs:417,0,source_conditioned_relation_not_independent_nominal_count
+40f26b407e099682e876,yaTAmuKa,Darshana,Mirror. (5.2.6),Ka,yaTAmuKIna,1,5.2.6,kashika_5_2.rs:58,0,source_conditioned_relation_not_independent_nominal_count
+93807e283c0f01be6c22,yad,BahunamEka,One of many. (5.3.93),qatamac,yatama,1,5.3.93,kashika_5_3.rs:339,0,source_conditioned_relation_not_independent_nominal_count
+b6c6602fb0464bb23872,yad,DvayorEka,One of two. (5.3.92),qatarac,yatara,1,5.3.92,kashika_5_3.rs:332,0,source_conditioned_relation_not_independent_nominal_count
+91615a84bf7d4e44d801,yad,Parimana,Volume. (5.2.39),vatup,yAvat,1,5.2.39,kashika_5_2.rs:243,0,source_conditioned_relation_not_independent_nominal_count
+974011bba68107a7bc9d,yajYa,TadArhati,One deserves this. (5.1.63),Ga,yajYiya,1,5.1.71,kashika_5_1.rs:446,0,source_conditioned_relation_not_independent_nominal_count
+68d1ee5d67764ebd3626,yavAsa,TasyaVikara,Modification of this. (4.3.134),aR,yAvAsa,1,4.3.141,kashika_4_3.rs:467,0,source_conditioned_relation_not_independent_nominal_count
+0c06879781e4deb2e52a,yavAsa,TasyaVikara,Modification of this. (4.3.134),aY,yAvAsa,1,4.3.141,kashika_4_3.rs:466,0,source_conditioned_relation_not_independent_nominal_count
+f1f0ff9717480fb08b41,yava,DhanyanamBhavaneKshetre,"A place of growing, when that place is a field. (5.2.1)",yat,yavya,1,5.2.3,kashika_5_2.rs:31,0,source_conditioned_relation_not_independent_nominal_count
+a63e83b39c71b1032b3c,yava,TasmaiHitam,One for whom this is good. (5.1.7),yat,yavya,1,5.1.7,kashika_5_1.rs:82,0,source_conditioned_relation_not_independent_nominal_count
+442f7748f20e884e500a,yavaka,DhanyanamBhavaneKshetre,"A place of growing, when that place is a field. (5.2.1)",yat,yavakya,1,5.2.3,kashika_5_2.rs:32,0,source_conditioned_relation_not_independent_nominal_count
+4fabe15040b57d48e3e4,yazwi,Praharanam,One who has this weapon. (4.4.57),Ikak,yAzwIka,1,4.4.59,kashika_4_4.rs:420,0,source_conditioned_relation_not_independent_nominal_count
+993a0ab27050f7b91d3e,yojana,Gacchati,Who goes. (5.1.75),WaY,yOjanika,1,5.1.74,kashika_5_1.rs:466,0,source_conditioned_relation_not_independent_nominal_count
+d609ee78c1f1cbdbed4c,yojanaSata,AbhigamanamArhati,Who deserves approach (5.1.74 vArttika),WaY,yOjanaSatika,1,5.1.74,kashika_5_1.rs:473,0,source_conditioned_relation_not_independent_nominal_count
+f74958eadc2d4f3cb469,yuga,TadVahati,What one bears. (4.4.78),yat,yugya,1,4.4.76,kashika_4_4.rs:515,0,source_conditioned_relation_not_independent_nominal_count
+46cfb69b4e76c166d50a,yuganDarA,Janapada,Country. (4.1.168),iY,yOganDari,1,4.1.173,kashika_4_1.rs:894,0,source_conditioned_relation_not_independent_nominal_count
+cf4176815d1c3c7e8f8a,yuvati,TasyaSamuha,A collection of this. (4.2.37),aR,yOvata,1,4.2.38,kashika_4_2.rs:149,0,source_conditioned_relation_not_independent_nominal_count
+1e1f2fafa22f7e8f19b0,yuzmad,TatraJata,Where this was born. (4.3.25),Ca,yuzmadIya,1,4.3.1,kashika_4_3.rs:20,0,source_conditioned_relation_not_independent_nominal_count
+66e77db471ec7829b22a,yuzmad,TatraJata,Where this was born. (4.3.25),KaY,yOzmAkIRa,1,4.3.1,kashika_4_3.rs:18,0,source_conditioned_relation_not_independent_nominal_count
+ce559a572b4308a32cf9,yuzmad,TatraJata,Where this was born. (4.3.25),aR,yOzmAka,1,4.3.1,kashika_4_3.rs:22,0,source_conditioned_relation_not_independent_nominal_count
+4e91b0fd6ba5acce02e9,zazwi,TenaKritam,What is bought with this. (5.1.37),WaY,zAzwika,1,5.1.19,kashika_5_1.rs:185,0,source_conditioned_relation_not_independent_nominal_count
+b2696128156ea2be9c3a,zazwika,DhanyanamBhavaneKshetre,"A place of growing, when that place is a field. (5.2.1)",yat,zazwikya,1,5.2.3,kashika_5_2.rs:33,0,source_conditioned_relation_not_independent_nominal_count

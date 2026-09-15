@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-14",
+  "scope": "Ordinary-domain name, object, quality, state, and relation meanings. Complete unchanging words are excluded before grammatical expansion.",
+  "relations": [
+    {"id": "prathama", "vidyut": "Prathama", "display": "प्रथमा", "plain_function": "naming or identifying the participant", "principal_rule_refs": ["2.3.46"]},
+    {"id": "dvitiya", "vidyut": "Dvitiya", "display": "द्वितीया", "plain_function": "the object, extent, or destination", "principal_rule_refs": ["2.3.2"]},
+    {"id": "trtiya", "vidyut": "Trtiya", "display": "तृतीया", "plain_function": "the means, instrument, or accompaniment", "principal_rule_refs": ["2.3.18"]},
+    {"id": "caturthi", "vidyut": "Caturthi", "display": "चतुर्थी", "plain_function": "the recipient, beneficiary, or purpose", "principal_rule_refs": ["2.3.13"]},
+    {"id": "panchami", "vidyut": "Panchami", "display": "पञ्चमी", "plain_function": "the source, separation, or comparison point", "principal_rule_refs": ["2.3.28"]},
+    {"id": "sasthi", "vidyut": "Sasthi", "display": "षष्ठी", "plain_function": "a relation, including possession", "principal_rule_refs": ["2.3.50"]},
+    {"id": "saptami", "vidyut": "Saptami", "display": "सप्तमी", "plain_function": "the location, setting, or topic", "principal_rule_refs": ["2.3.36"]},
+    {"id": "sambodhana", "vidyut": "Sambodhana", "display": "सम्बोधनम्", "plain_function": "direct address", "principal_rule_refs": ["2.3.47", "2.3.49"]}
+  ],
+  "numbers": [
+    {"id": "eka", "vidyut": "Eka", "display": "एकम्", "plain_function": "one"},
+    {"id": "dvi", "vidyut": "Dvi", "display": "द्वे", "plain_function": "two"},
+    {"id": "bahu", "vidyut": "Bahu", "display": "बहूनि", "plain_function": "more than two"}
+  ],
+  "citation_coordinate": {"relation": "Prathama", "number": "Eka", "cells_per_meaning": 1},
+  "full_matrix": {"relation_count": 8, "number_count": 3, "cells_per_meaning": 24},
+  "gender_policy": "Gender is an attribute used to generate the cell's output. It does not create an automatic three-series lexical or grammatical multiplier in this model.",
+  "agreement_gender_expansion_included": false,
+  "attestation_required": false,
+  "engine_zero_policy": "An engine zero in a sample records an implementation gap, unavailable constructor, or unresolved path; it does not prove that the grammatical coordinate is prohibited.",
+  "principal_inventory_rule_refs": ["1.4.102", "4.1.2"]
+}

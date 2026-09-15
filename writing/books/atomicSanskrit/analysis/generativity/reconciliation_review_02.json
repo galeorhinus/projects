@@ -1,0 +1,151 @@
+{
+  "date":"2026-09-13",
+  "status":"proposed_not_applied",
+  "baseline":2649,
+  "selection":"Corrected ay first, followed by the earliest nine remaining records in the historical follow-up list: IR01, IR04, IR07, IR08, IR10, IR11, IR12, IR13, IR14. Selection was not based on the expected direction of count changes.",
+  "cases":[
+    {
+      "id":"R02-01", "prior_id":"IR210", "label":"अय् (ay)",
+      "entries":{"01.0546":["gatO"],"01.1031":["gatO"]},
+      "before_count":2, "proposed_count":2, "outcome":"retain_pending_reading_alignment",
+      "before":"The approved correction replaced the spurious yam/cessation assignment at 01.1031 with ay/movement. The inventory already contains ay/movement at 01.0546, with a different marker reading.",
+      "after":"Keep the two provisional assignments for now. The accented patha confirms that the corrected listing has a svarita marker, while the earlier entry has an anudatta marker. The commentary on 8.2.19 debates how to explain udayati: one explanation uses a different i atom, another permits the relevant pada behavior. That discussion cannot by itself establish that the two ay listings are one repeated word.",
+      "remaining":"Locate an explicit explanation of the separate svarita-marked ay listing and its relation to 01.0546. Do not merge the independent i atom merely because its inflected form can resemble ayati. The approved ay correction remains in force.",
+      "evidence":[
+        {"source":"dhatupatha-svara-sanskritdocuments.html","anchor":"१.१०३१ (अयँ॑ गतौ॑ ।)","role":"Confirms the corrected entry and marker; parentheses in this transcription are retained."},
+        {"source":"dhatu-mA291.html","anchor":"इत आरभ्य रेवत्यन्ता उदात्ता अनुदात्तेतः","role":"Earlier ay group carries a different marker condition."},
+        {"source":"dhatu-kRi576.html","anchor":"अय गतौ - अयते उदयति दिननाथः","role":"Later ay entry, with the earlier-page cross-reference preserved in the archive."},
+        {"source":"rule-8.2.19.html","anchor":"प्रश्लिष्टस्येति। \"इधातो\"रिति शेषः","role":"One explanation of the udayati example invokes i, so this form alone is not evidence of identical ay entries."}
+      ]
+    },
+    {
+      "id":"R02-02", "prior_id":"IR01", "label":"भू (bhū)",
+      "entries":{"01.0001":["sattAyAm"],"10.0277":["avakalkane"],"10.0382":["prAptO"]},
+      "before_count":3, "proposed_count":3, "outcome":"headword_question_resolved_readings_retained",
+      "before":"Being, avakalkana, and attainment are counted separately. The earlier follow-up wondered whether the commentary heading bhuvo indicated a different citation from bhu.",
+      "after":"Retain the three assignments. Kshiratarangini explicitly calls the heading's form a panchami, an ablative reference to bhu, and connects it with the other bhu entries. There is no reason to invent a different bhuv atom from that heading. For avakalkana it gives a concrete mixing example: bhavayati dadhnaudanam, mixing rice with curds. Other commentaries explain the same heading through thinking, affliction, or other readings; retain those attributions separately.",
+      "remaining":"The headword concern is closed. Mixing is directly supported under Kshiratarangini's reading. Decide later whether the inventory will count a union of independently admitted meanings across traditions; do not add every alternative explanation of this heading as an extra meaning automatically.",
+      "evidence":[
+        {"source":"dhatu-kRi1329.html","anchor":"भुवो अवकल्कने - अवकल्कनम् मिश्रीकरणम् भावयति दध्नौदनम् अनित्यण्यन्तत्त्वार्थम्पञ्चमी","role":"Concrete mixing example and explicit explanation of the declined heading."},
+        {"source":"dhatu-kRi1329.html","anchor":"भू प्राप्तावात्मनेपदी","role":"Identifies the attainment entry separately."},
+        {"source":"dhatu-mA1316.html","anchor":"अवकल्कनं चिन्तनमिति काश्यपः","role":"Thinking is an attributed alternative interpretation, not a duplicate source for mixing."},
+        {"source":"dhatu-XA1362.html","anchor":"अवकल्कने पीडनम्","role":"A further interpretation remains tied to its witness."}
+      ]
+    },
+    {
+      "id":"R02-03", "prior_id":"IR04", "label":"भ्रम् (bhram)",
+      "entries":{"01.0985":["calane"],"04.0102":["anavasTAne"]},
+      "before_count":2, "proposed_count":1, "outcome":"merge_proposed",
+      "before":"Movement and not remaining settled were counted separately because the earlier passages had not explained whether their meanings overlap.",
+      "after":"Count one shared movement meaning here. Kshiratarangini defines anavasthana as moving from one place to another and identifies the fourth-class listing as serving the shamadi treatment. Its first-class discussion points to that grammatical purpose; its fourth-class discussion points back to the first-class movement entry. The evidence supports a repeated word-meaning with different grammatical treatment.",
+      "remaining":"Retain the different vikaranas, vowel length, accent, and conditions on the generated forms. This merger concerns these two movement assignments, not every figurative meaning of bhram.",
+      "evidence":[
+        {"source":"dhatu-kRi865.html","anchor":"अनवस्थानं देशान्तरगमनम्","role":"Defines the formerly unclear gloss as movement from place to place."},
+        {"source":"dhatu-kRi546.html","anchor":"दिवादौ (498) शमाद्यर्थः पाठः","role":"Explicit grammatical reason for the repeated listing."},
+        {"source":"dhatu-kRi865.html","anchor":"भ्वादौ भ्रमु चलने","role":"Fourth-class commentary identifies the first-class counterpart."},
+        {"source":"dhatu-XA558.html","anchor":"भ्राम्यतीति शमादिपाठात्","role":"Corroborates the effect of the shamadi listing on the form."}
+      ]
+    },
+    {
+      "id":"R02-04", "prior_id":"IR07", "label":"धूप् (dhūp)",
+      "entries":{"01.0462":["santApe"],"10.0303":["BAzAyAm"]},
+      "before_count":2, "proposed_count":2, "outcome":"alternate_reading_recorded",
+      "before":"Heating and speaking are counted. A shining interpretation of the larger curadi group remains a follow-up.",
+      "after":"Keep the two assignments under the pinned speech reading and record shining as an alternative reading of the curadi group. Madhaviya explicitly contrasts bhashartha with bhasartha and attributes the latter explanation to Kshirasvamin; Kshiratarangini's list actually includes dhup. The difference is real, not a third meaning to add silently to a count following another reading.",
+      "remaining":"If a later pass deliberately counts meanings across readings, admit shining with its own provenance and check its relationship to heating. Do not turn an alternative group heading into an automatic multiplier.",
+      "evidence":[
+        {"source":"dhatu-mA1321.html","anchor":"भासार्था इत्येक इति मैत्रेयः","role":"Explicit alternative to the speech-group reading."},
+        {"source":"dhatu-mA1321.html","anchor":"क्षीरस्वामी भासा दिप्तिरर्थो येषान्ते भासार्था","role":"Explains and attributes the shining reading."},
+        {"source":"dhatu-kRi1340.html","anchor":"गुपू धूप विच्छ चीव","role":"Confirms that dhup itself belongs to this witness's alternative list."},
+        {"source":"dhatu-kRi1340.html","anchor":"भासयति दिशः दीपयति, इन्धयति, प्रकाशयति","role":"The commentary gives illuminating examples, rather than merely a similar-looking heading."}
+      ]
+    },
+    {
+      "id":"R02-05", "prior_id":"IR08", "label":"धृङ् (dhṛṅ)",
+      "entries":{"01.1115":["avabanDane","viDvaMsane"],"06.0148":["avasTAne"]},
+      "before_count":3, "proposed_count":2, "outcome":"unsupported_assignment_removal_proposed",
+      "after":"Use destruction for the first-class entry and retain remaining or staying for the sixth-class entry. The first-class binding assignment is not supported by the three inspected traditional commentaries or either patha transcription, all of which give avadhvamsana. Move that pinned binding gloss to the unresolved source-reading record rather than counting it as an established extra meaning. Do not borrow the separate dhri-ny entry's holding meaning to justify it.",
+      "before":"The pinned first-class list contributes both binding and destruction; the sixth class contributes remaining. The earlier review had found destruction but no source for binding.",
+      "remaining":"Preserve the original avabandhana wording and the outstanding task of identifying its textual source. This is a proposed source-supported normalization, not a claim that a binding reading can never be found. Do not merge destruction with remaining.",
+      "evidence":[
+        {"source":"dhatupatha-sanskritdocuments.html","anchor":"१.१११५ धृङ् अवध्वंसने","role":"Numbered first-class entry."},
+        {"source":"dhatupatha-svara-sanskritdocuments.html","anchor":"१.१११५ धृ॒ङ् अव॒ध्वंस॑ने","role":"Accented transcription agrees; not claimed as an independent manuscript witness."},
+        {"source":"dhatu-mA610.html","anchor":"धृङ् अवध्वंसने","role":"Madhaviya's heading."},
+        {"source":"dhatu-kRi636.html","anchor":"धृङ् अवध्वंसने","role":"Kshiratarangini's heading."},
+        {"source":"dhatu-XA649.html","anchor":"धृङ् अवध्वंसने","role":"Dhatupradipa's heading."},
+        {"source":"dhatu-XA1066.html","anchor":"धृङ् अवस्थाने - ध्रियते","role":"The remaining/staying entry is retained separately."}
+      ]
+    },
+    {
+      "id":"R02-06", "prior_id":"IR10", "label":"ध्वन् (dhvan)",
+      "entries":{"01.0928":["Sabde"],"01.0962":["Sabde"]},
+      "before_count":2, "proposed_count":1, "outcome":"merge_proposed",
+      "before":"The two sound assignments remain separate because the earlier retrieved mit explanation concerned svan, not dhvan.",
+      "after":"Count the shared sound assignment once. The extended Bala-manorama discussion on the 7.4.68 page explicitly identifies the later dhvan entry as the one repeated for mit treatment. It illustrates the condition with making a bell sound and distinguishes that use from utterance. This is the missing dhvan-specific link, not an inference borrowed from svan.",
+      "remaining":"Keep the non-utterance/utterance condition for grammatical generation. Also keep dental dhvan distinct from the separate retroflex dhvan reading and from any curadi records outside this comparison.",
+      "evidence":[
+        {"source":"rule-7.4.68.html","anchor":"ज्वलादौ \"ध्वन शब्दे\" इति पठिष्यमाण एवात्र ध्वन्यात्मके अनुच्चारणजन्ये शब्दने मित्त्वार्थमनूद्यते","role":"Explicit identity and purpose in the extended commentary, not the wording of sutra 7.4.68."},
+        {"source":"rule-7.4.68.html","anchor":"ध्वनयति घण्टामिति। शब्दायमानां करोतीत्यर्थः","role":"Concrete non-utterance example for the condition."},
+        {"source":"rule-7.4.68.html","anchor":"अयं तु दन्त्यान्त इति भेदः","role":"Prevents collapsing a different retroflex citation."},
+        {"source":"dhatu-XA538.html","anchor":"ध्वनति । दध्वान, दध्वनतुः, दध्वनुः । ध्वनिः","role":"Later dental dhvan listing."}
+      ]
+    },
+    {
+      "id":"R02-07", "prior_id":"IR11", "label":"घट् (ghaṭ)",
+      "entries":{"10.0248":["saNGAte"],"10.0297":["BAzAyAm"]},
+      "before_count":2, "proposed_count":2, "outcome":"retain_meanings_and_reading_specific_membership",
+      "before":"Combining and speaking are counted separately; the shining reading of the larger group remains a follow-up.",
+      "after":"Keep the two meanings. Madhaviya and Dhatupradipa explicitly explain the repeated listing through a difference in meaning. Record the group's shining alternative, but check its membership before attaching it to a particular atom: Kshiratarangini lists ghati in that group, not the same plain ghata citation. Its earlier ghat discussion also contrasts a hanti/breaking treatment with Durga's combining reading. These are source-specific decisions, not interchangeable copies of one universal list.",
+      "remaining":"Retain the shining and breaking alternatives with their source membership. Do not add them to the present two assignments without a separate decision about the reading being counted.",
+      "evidence":[
+        {"source":"dhatu-mA1321.html","anchor":"अतः पुनः पाठो ऽर्थभेदादिति मैत्रेयः","role":"Explicit explanation of repeated ghat by meaning difference."},
+        {"source":"dhatu-XA1374.html","anchor":"अयं सङ्घातेऽपि अतः पुनर्घटिः पठ्यते अर्थभेदात्","role":"The archived wording is retained even where the transcription is awkward."},
+        {"source":"dhatu-kRi1340.html","anchor":"दसि दशि घटि रघि लघि","role":"This witness lists the marked ghati form; do not silently transfer membership to ghata."},
+        {"source":"dhatu-kRi1313.html","anchor":"घट संघाते इति दुर्गः","role":"Combining is explicitly attributed beside other treatments of this entry."}
+      ]
+    },
+    {
+      "id":"R02-08", "prior_id":"IR12", "label":"घृ (ghṛ)",
+      "entries":{"01.1088":["secane"],"03.0015":["kzaraRe","dIptO"]},
+      "before_count":3, "proposed_count":3, "outcome":"retain_meanings",
+      "before":"Sprinkling, flowing, and shining are counted. The question was whether sprinkling and flowing were merely two labels for the same meaning.",
+      "after":"Keep all three assignments. Kshiratarangini explicitly defines ksharana as flowing and continues to label the first-class entry secana. It links the class forms and uses some of the same derived examples, but this does not establish that sprinkling liquid and liquid flowing are the same meaning. Shining is independently listed and is unaffected by that comparison.",
+      "remaining":"A finer use-based comparison may establish a shared portion, but no merger is supported here. Preserve the commentary's restrictions on first-class use and the Vedic domain treatment of the third-class group.",
+      "evidence":[
+        {"source":"dhatu-kRi767.html","anchor":"क्षरणं स्रवणम्","role":"Direct explanation of flowing."},
+        {"source":"dhatu-kRi621.html","anchor":"गृ घृ सेचने - गरति घरति अमुं नियतविषयमाहुः","role":"First-class sprinkling and its restricted use remain explicit."},
+        {"source":"dhatu-kRi767.html","anchor":"घृ क्षरण,दीप्त्योः","role":"Shining is separately present in the third-class heading."},
+        {"source":"dhatu-mA745.html","anchor":"ते सर्वे छान्दसाः","role":"Retain the stated domain condition rather than applying it to every ghri record."}
+      ]
+    },
+    {
+      "id":"R02-09", "prior_id":"IR13", "label":"घुष् (ghuṣ)",
+      "entries":{"01.0741":["aviSabdane"],"10.0251":["viSabdane"]},
+      "before_count":2, "proposed_count":2, "outcome":"concrete_non_declaring_use_located",
+      "before":"One broad non-declaring assignment and one declaring assignment are counted. The former is a condition, not an enumeration of all meanings within it.",
+      "after":"Keep the two provisional assignments and attach the concrete example now located. In the commentary on 7.2.23, ghushta rajjuh is explained as a rope produced or extended, while the contrasting example concerns an uttered statement. Thus avishabdana must not be translated as silence or counted as merely the logical opposite of speech. The commentators also preserve different readings of the curadi heading.",
+      "remaining":"Before replacing the broad non-declaring assignment with a fuller list, distinguish the alternative explanations of ghushta from independently demonstrated meanings. Preserve the nishtha-it and optional-nic conditions. This is not the same situation as yam's standalone mit instruction, so do not automatically delete this lexical entry as metadata.",
+      "evidence":[
+        {"source":"rule-7.2.23.html","anchor":"घुष्टा रज्जुरिति। उत्पादितेत्यर्थः। आयामितेति वा","role":"Concrete non-declaring use with two attributed explanations, not two automatically countable senses."},
+        {"source":"rule-7.2.23.html","anchor":"विशब्दनं प्रतिज्ञानम्","role":"Defines the declaring sense."},
+        {"source":"dhatu-kRi415.html","anchor":"घुष्टा रज्जुः नेह- संघुषितं वाक्यम्","role":"The atom commentary also contrasts rope and statement examples."},
+        {"source":"dhatu-XA1349.html","anchor":"घुषिर् अविशब्दने","role":"The alternative curadi heading remains attached to its witness."}
+      ]
+    },
+    {
+      "id":"R02-10", "prior_id":"IR14", "label":"झर्झ् (jharjh)",
+      "entries":{"01.0815":["pariBAzaRe","hiMsAyAm","tarjane"],"06.0020":["pariBAzaRe","Bartsane"]},
+      "before_count":4, "proposed_count":3, "outcome":"shared_rebuke_meaning_merge_proposed",
+      "before":"Speaking is already consolidated. Harming, tarjana, and bhartsana remain separately counted, giving four current assignments.",
+      "after":"Count the shared rebuking or threatening meaning once across tarjana and bhartsana in these jharjh listings. Madhaviya explicitly identifies the repeated atom as a matter of accent, and Dhatupradipa corroborates that link. Within the same grammatical tradition, tarj itself is glossed as bhartsana, while tarj and bharts are both listed in santarjana. That is stronger evidence than separating the meanings because one English gloss says threatening and another says rebuking. Retain harming and speaking separately.",
+      "remaining":"Keep class and accent conditions. This proposal consolidates two descriptions of one jharjh meaning; it does not merge the different words tarj and bharts merely because their meanings overlap.",
+      "evidence":[
+        {"source":"dhatu-mA924.html","anchor":"चर्चतिझर्झत्योः शपि पाठः स्वरार्थ इत्युक्तम्","role":"Explicit identity and accent-purpose statement."},
+        {"source":"dhatu-XA459.html","anchor":"चर्च झर्झ इत्येतौ तुदादवपि पठ्येते । इह तु स्वरार्थं पठितौ","role":"Corroborates the repeated atom and gives santarjana in the heading."},
+        {"source":"dhatu-mA127.html","anchor":"तर्ज भर्त्सने","role":"Direct cross-gloss within the atom commentary tradition."},
+        {"source":"dhatu-mA1257.html","anchor":"तर्ज भर्त्स सन्तर्जने","role":"The two descriptive verbs share the santarjana gloss; their different word identities remain separate."},
+        {"source":"dhatu-mA433.html","anchor":"झर्झ परिभाषण,हिंसा,तर्जनेषु","role":"Harming remains an independently listed assignment and is not swallowed by this merger."}
+      ]
+    }
+  ]
+}

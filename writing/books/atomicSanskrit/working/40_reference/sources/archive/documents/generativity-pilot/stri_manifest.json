@@ -1,0 +1,40 @@
+{
+  "generator_commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32",
+  "sources": [
+    {
+      "filename": "vidyut-stritva.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/stritva.rs",
+      "accessed_utc": "2026-09-13T12:48:15.516327+00:00",
+      "sha256": "70e286e0252cd5a728eca90c1a75284b15642b64bb3b0a06bbc07eb308dffcde",
+      "bytes": 8348
+    },
+    {
+      "filename": "vidyut-args-internal.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/internal.rs",
+      "accessed_utc": "2026-09-13T12:48:15.560922+00:00",
+      "sha256": "d330fab1ba47e7c44d75ce07135575ac5779e3b4a1061da292619607e4342c0b",
+      "bytes": 9948
+    },
+    {
+      "filename": "rule-4.1.3.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.3.htm",
+      "accessed_utc": "2026-09-14T04:55:51.433803+00:00",
+      "sha256": "9ce194088d50acc3e8e7dba103402b902b7c227aa0f379d35b7c61f010a065f0",
+      "bytes": 32757
+    },
+    {
+      "filename": "rule-4.1.4.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.4.htm",
+      "accessed_utc": "2026-09-14T04:55:52.769649+00:00",
+      "sha256": "ae0ba9b0b4925113a2da25aebc382a11d7f7c2d18e0a8a91be59ead66319f205",
+      "bytes": 53018
+    },
+    {
+      "filename": "rule-4.1.5.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.1.5.htm",
+      "accessed_utc": "2026-09-14T04:55:53.959392+00:00",
+      "sha256": "41a393343843d7af14654c847543b79cdf45bb91552892edd56fac31938ebf3c",
+      "bytes": 9607
+    }
+  ]
+}

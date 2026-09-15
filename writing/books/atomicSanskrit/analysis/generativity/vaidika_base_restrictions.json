@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-13",
+  "scope": "Source entries explicitly marked Vedic-only in the completed commentary review. This is the currently documented set, not a claim that every source entry has received a complete domain audit.",
+  "source_entries": [
+    {
+      "source_code": "02.0072",
+      "citation_slp1": "vevIN",
+      "meaning_count": 6,
+      "evidence_file": "dhatu-XA766.html",
+      "review_id": "MR26",
+      "restriction": "The vevi entry is described as Vedic-only."
+    },
+    {
+      "source_code": "03.0015",
+      "citation_slp1": "Gf\\",
+      "meaning_count": 2,
+      "evidence_file": "dhatu-mA745.html",
+      "review_id": "IR12",
+      "restriction": "The third-class group containing this entry is described as Vedic."
+    },
+    {
+      "source_code": "05.0014",
+      "citation_slp1": "spf\\",
+      "meaning_count": 3,
+      "evidence_file": "dhatu-mA894.html",
+      "review_id": "MR29",
+      "restriction": "The commentary records Vedic-only treatment of the entry."
+    }
+  ]
+}

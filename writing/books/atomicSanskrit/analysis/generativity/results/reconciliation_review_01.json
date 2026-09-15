@@ -1,0 +1,647 @@
+{
+  "date": "2026-09-13",
+  "status": "proposed_not_applied",
+  "baseline": 2653,
+  "scope": "Ten count-affecting follow-ups from the completed exact-citation review. No manuscript changes and no changes to the historical decision ledger or archived inputs.",
+  "policy": "Count a different word or meaning, not a repeated listing or a grammatical restriction. Apply any approved source corrections in a separate normalization layer; never overwrite the source snapshot. Retain alternate readings with their grammatical conditions.",
+  "cases": [
+    {
+      "id": "IR117",
+      "label": "लल् (lal)",
+      "before_count": 2,
+      "proposed_count": 2,
+      "outcome": "reading_still_open",
+      "before": "The first-class entry contributes playfulness; the tenth-class entry contributes desire. The earlier review flagged their different readings.",
+      "after": "Keep both current assignments pending a reading-specific decision. The Sanskrit Documents patha explicitly gives desire for the alternative lal listing, while the pinned dataset carries playfulness into that listing. The commentary records disagreement about admitting this alternative. Do not manufacture a single reading by combining these sources.",
+      "remaining": "Decide which reading the normalized inventory follows. A desire reading could overlap the tenth-class entry; the lad/lal alternative also requires checking the neighboring lad entry. No reduction is proposed yet.",
+      "evidence": [
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "लड विलासे । १.४१६ लल इत्येके ईप्सायाम्",
+          "role": "The alternative listing explicitly supplies desire; it does not simply inherit the preceding playfulness gloss.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        },
+        {
+          "source": "dhatu-mA230.html",
+          "anchor": "लल ईप्सायामिति क्वचित्पठ्यते",
+          "role": "Records the alternative reading and the ensuing disagreement.",
+          "record": {
+            "filename": "dhatu-mA230.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA230.html",
+            "accessed_utc": "2026-09-12T16:21:33.175217+00:00",
+            "sha256": "6c55024c8bcb3adfe6e4cf0dd6c9ae5463f3e8140e45af34e0254aff0cda572f",
+            "bytes": 863
+          }
+        },
+        {
+          "source": "dhatu-kRi1280.html",
+          "anchor": "लल ईप्सायाम् - लालयते",
+          "role": "Tenth-class desire entry.",
+          "record": {
+            "filename": "dhatu-kRi1280.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1280.html",
+            "accessed_utc": "2026-09-13T03:12:17.784352+00:00",
+            "sha256": "04b7fc55682ae32ef4b094ca7f80c0b4ce83aa3f5079e587642e8ba83904994e",
+            "bytes": 498
+          }
+        }
+      ],
+      "original_entries": {
+        "01.0416": [
+          "vilAse"
+        ],
+        "10.0210": [
+          "IpsAyAm"
+        ]
+      },
+      "original_decision": "Retain playfulness and desire; the source records separate uses and a disagreement about the lal reading.",
+      "delta": 0
+    },
+    {
+      "id": "IR141",
+      "label": "नॄ (nṝ)",
+      "before_count": 2,
+      "proposed_count": 1,
+      "outcome": "merge_proposed",
+      "before": "Two leading assignments, one in the first-class material and one in the ninth class, remain separately counted.",
+      "after": "Count the shared leading meaning once. Kshiratarangini explicitly says the ninth-class atom is listed here for mit treatment. This is a grammatical repetition, not evidence of another word or meaning.",
+      "remaining": "Retain the short/long-vowel reading discussion and mit conditions in the source and generation records. The proposal follows the pinned long-vowel citation; it does not erase other readings.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi522.html",
+          "anchor": "नॄ नये - क्र्य्यादेर् (924) मित्त्वार्थं",
+          "role": "Explicit purpose of the repetition.",
+          "record": {
+            "filename": "dhatu-kRi522.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi522.html",
+            "accessed_utc": "2026-09-13T03:12:18.348185+00:00",
+            "sha256": "19223046254f83d0594a7203478c86491789e7a8de31f7107f6245d36bb02819",
+            "bytes": 539
+          }
+        },
+        {
+          "source": "dhatu-kRi1113.html",
+          "anchor": "नॄ नये - नृणाति",
+          "role": "Ninth-class counterpart.",
+          "record": {
+            "filename": "dhatu-kRi1113.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1113.html",
+            "accessed_utc": "2026-09-13T03:12:18.644589+00:00",
+            "sha256": "89e5c46ea2439a443ca4f238de7ca14fa5fe11a73c2b29f138b68316a9468d56",
+            "bytes": 584
+          }
+        },
+        {
+          "source": "rule-7.4.68.html",
+          "anchor": "नृणातेर्धातत्वन्तरत्वाऽभावान्न मित्त्वतदभावौ",
+          "role": "The extended grammatical commentary explicitly denies a separate atom here. This is commentary on the page, not the wording of sutra 7.4.68 itself.",
+          "record": {
+            "filename": "rule-7.4.68.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.68.htm",
+            "accessed_utc": "2026-09-13T03:12:29.501289+00:00",
+            "sha256": "10ab56986a29d4f0a47bbe04fc7b9ce4514b7819c9d9b47305bf9f0060848251",
+            "bytes": 84346
+          }
+        }
+      ],
+      "original_entries": {
+        "01.0921": [
+          "naye"
+        ],
+        "09.0030": [
+          "naye"
+        ]
+      },
+      "original_decision": "Both listings give leading. The retrieved commentaries do not yet establish whether these are one word-meaning or separate words with that meaning.",
+      "delta": -1
+    },
+    {
+      "id": "IR145",
+      "label": "पक्ष् (pakṣ)",
+      "before_count": 2,
+      "proposed_count": 2,
+      "outcome": "identity_still_open",
+      "before": "The first- and tenth-class listings both contribute parigraha, taking or receiving.",
+      "after": "Keep the two provisional assignments. The first-class source marks its listing as an alternative reading; the inspected entry commentaries still do not explain its identity relation to the tenth-class listing. Their identical gloss is not enough by itself to settle whether they represent the same word.",
+      "remaining": "Find an explicit traditional cross-class identification or explanation of the alternative listing. No count change.",
+      "evidence": [
+        {
+          "source": "dhatu-XA433.html",
+          "anchor": "पक्ष परिग्रह इत्यप्येके",
+          "role": "First-class alternative listing.",
+          "record": {
+            "filename": "dhatu-XA433.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA433.html",
+            "accessed_utc": "2026-09-12T16:20:42.056509+00:00",
+            "sha256": "41e4b3c54b420d5af83ce636746529b5c18a5306e824d89314c5108d468ec891",
+            "bytes": 476
+          }
+        },
+        {
+          "source": "dhatu-mA1148.html",
+          "anchor": "पक्ष परिग्रहे",
+          "role": "Tenth-class listing.",
+          "record": {
+            "filename": "dhatu-mA1148.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1148.html",
+            "accessed_utc": "2026-09-12T16:21:11.485787+00:00",
+            "sha256": "c64417f3b4d52ac8397e4211efb326c3f5b97281d62ac80f5d756836b447007d",
+            "bytes": 422
+          }
+        }
+      ],
+      "original_entries": {
+        "01.0757": [
+          "parigrahe"
+        ],
+        "10.0024": [
+          "parigrahe"
+        ]
+      },
+      "original_decision": "Both listings give taking or receiving. Matching headings alone do not establish shared word identity.",
+      "delta": 0
+    },
+    {
+      "id": "IR156",
+      "label": "पुष् (puṣ)",
+      "before_count": 3,
+      "proposed_count": 3,
+      "outcome": "false_conflict_resolved",
+      "before": "Nourishment is already counted once across the first and ninth classes. Division and holding remain separate. The follow-up questioned whether the fourth-class division gloss should instead be nourishment.",
+      "after": "Keep nourishment, division, and holding. The division entry 04.0121 belongs to a sequence beginning with vyush in division. Its meaning carries forward through the alternative listings. The previously retrieved fourth-class nourishment commentary belongs to another occurrence, so it cannot correct this entry. Close that mistaken source alignment.",
+      "remaining": "No change to the three current assignments. Do not merge 04.0121 with the nourishing occurrence merely because the unmarked spelling looks alike.",
+      "evidence": [
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "४.११४ व्युष विभागे",
+          "role": "Beginning of the division sequence.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        },
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "४.११९ प्युषऽ ४.१२० प्युसऽ ४.१२१ पुष च",
+          "role": "Target occurrence within that sequence, before the next explicit meaning heading.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        },
+        {
+          "source": "dhatu-mA855.html",
+          "anchor": "व्युष विभागे",
+          "role": "Commentary corroborates the division heading.",
+          "record": {
+            "filename": "dhatu-mA855.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA855.html",
+            "accessed_utc": "2026-09-12T16:03:30.643574+00:00",
+            "sha256": "5e6fd0bca1358549f043726d9ceb58e1b140f9a7ba177e56190b7333c01c2976",
+            "bytes": 750
+          }
+        },
+        {
+          "source": "dhatu-mA1319.html",
+          "anchor": "पुष धारणे",
+          "role": "Holding remains independently listed.",
+          "record": {
+            "filename": "dhatu-mA1319.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1319.html",
+            "accessed_utc": "2026-09-12T16:21:24.112031+00:00",
+            "sha256": "6f778484ea92a6a4188a7ba6c67f8de31cb4cf05006be4b8bda985c56bfb8876",
+            "bytes": 536
+          }
+        }
+      ],
+      "original_entries": {
+        "01.0797": [
+          "puzwO"
+        ],
+        "04.0121": [
+          "viBAge"
+        ],
+        "09.0065": [
+          "puzwO"
+        ],
+        "10.0280": [
+          "DAraRe"
+        ]
+      },
+      "original_decision": "Count nourishing once across the first and ninth classes. Keep the pinned fourth-class division meaning and curadi holding meaning separate.",
+      "delta": 0
+    },
+    {
+      "id": "IR164",
+      "label": "रट् (raṭ)",
+      "before_count": 2,
+      "proposed_count": 2,
+      "outcome": "identity_still_open",
+      "before": "Two speaking assignments remain counted because the earlier review had not located the second listing.",
+      "after": "The second listing is now located: 01.0387 is an alternative reading under rath, whereas 01.0334 is the earlier rat listing. Keep the current two assignments until their identity is established. Locating the alternative explains where it came from, but does not itself prove that it duplicates the earlier word.",
+      "remaining": "The missing-locator problem is closed. The relationship between the earlier rat and the rath/rat alternative remains open.",
+      "evidence": [
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.३८६ रठ परिभाषणे । १.३८७ रट इत्येके",
+          "role": "Exact second location and its alternative-reading status.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        },
+        {
+          "source": "dhatu-mA182.html",
+          "anchor": "रट परिभाषणे",
+          "role": "Earlier rat entry.",
+          "record": {
+            "filename": "dhatu-mA182.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA182.html",
+            "accessed_utc": "2026-09-12T16:21:29.907327+00:00",
+            "sha256": "d79c7cf4ad6ef35c552a102a6781420d566fd942801c222103091dd00f4837ba",
+            "bytes": 1053
+          }
+        },
+        {
+          "source": "dhatu-kRi224.html",
+          "anchor": "रठ परिभाषणे - रठति",
+          "role": "Commentary under the aspirated heading.",
+          "record": {
+            "filename": "dhatu-kRi224.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi224.html",
+            "accessed_utc": "2026-09-13T03:12:19.503647+00:00",
+            "sha256": "1fa614888e8b51c27fcd0861c35ad08ce53641d0f56271902a70339ccad7c437",
+            "bytes": 378
+          }
+        }
+      ],
+      "original_entries": {
+        "01.0334": [
+          "pariBAzaRe"
+        ],
+        "01.0387": [
+          "pariBAzaRe"
+        ]
+      },
+      "original_decision": "Both pinned listings give speaking. The retrieved commentary documents one occurrence without explaining the second.",
+      "delta": 0
+    },
+    {
+      "id": "IR170",
+      "label": "रुष् (ruṣ)",
+      "before_count": 3,
+      "proposed_count": 2,
+      "outcome": "source_correction_and_merge_proposed",
+      "before": "The pinned first- and fourth-class entries both say harming; the tenth-class entry says anger. All three are separately counted.",
+      "after": "Normalize 04.0143 to anger, then count that shared meaning once with the tenth-class entry. Retain first-class harming separately. The numbered patha and the inspected fourth-class commentaries give anger, and Madhaviya explicitly links the fourth-class anger form from its tenth-class discussion.",
+      "remaining": "Keep the pinned harming gloss in the immutable source record. An approved normalization must record the correction before the merger; it must not merge the two currently labeled harming rows.",
+      "evidence": [
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "४.१४३ रुष रोषे । ४.१४४ रिष हिंसायाम्",
+          "role": "Exact numbered entry and the following harming entry.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        },
+        {
+          "source": "dhatu-kRi889.html",
+          "anchor": "रुष रोषे - रुष्यति",
+          "role": "Fourth-class anger heading.",
+          "record": {
+            "filename": "dhatu-kRi889.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi889.html",
+            "accessed_utc": "2026-09-13T03:12:20.577136+00:00",
+            "sha256": "14fcbdf1fb6c67c57ad460cfd68bbcede2fcaada1be27c2bb7bf5d872f8d227e",
+            "bytes": 704
+          }
+        },
+        {
+          "source": "dhatu-kRi889.html",
+          "anchor": "भ्वादौ रुष हिंसायाम्",
+          "role": "Explicitly distinguishes first-class harming.",
+          "record": {
+            "filename": "dhatu-kRi889.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi889.html",
+            "accessed_utc": "2026-09-13T03:12:20.577136+00:00",
+            "sha256": "14fcbdf1fb6c67c57ad460cfd68bbcede2fcaada1be27c2bb7bf5d872f8d227e",
+            "bytes": 704
+          }
+        },
+        {
+          "source": "dhatu-mA1247.html",
+          "anchor": "रुष रोषे ( रोषयति ) शपि रोषति हिंसायां श्यनि रुष्यति रोषे",
+          "role": "Tenth-class discussion connects the anger forms and distinguishes harming.",
+          "record": {
+            "filename": "dhatu-mA1247.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1247.html",
+            "accessed_utc": "2026-09-12T16:21:18.408747+00:00",
+            "sha256": "0c12b33033f1903b092d6cfc0a5e6189f84a01a912da99de9bb7645cbc576424",
+            "bytes": 568
+          }
+        }
+      ],
+      "original_entries": {
+        "01.0789": [
+          "hiMsAyAm"
+        ],
+        "04.0143": [
+          "hiMsAyAm"
+        ],
+        "10.0187": [
+          "roze"
+        ]
+      },
+      "original_decision": "Do not merge the first and fourth listings as harming on the present evidence. The retrieved fourth-class commentary gives anger instead.",
+      "delta": -1
+    },
+    {
+      "id": "IR194",
+      "label": "ध्रस् (dhras)",
+      "before_count": 2,
+      "proposed_count": 1,
+      "outcome": "reading_specific_merge_proposed",
+      "before": "Both gleaning assignments remain counted because commentators disagree about whether initial u is a marker or belongs to the word.",
+      "after": "Count gleaning once under the dataset's declared reading, which marks initial u as it in both entries. Kshiratarangini explicitly calls the tenth-class listing a repetition of the ninth-class atom for svartha-nic; Dhatupradipa's archived transcription likewise calls it the same atom. The alternative reading remains in the evidence, but need not block a decision for the reading actually being counted.",
+      "remaining": "Keep alternatives with lexical initial u as separate reading records. Do not silently combine the marker reading in one class with lexical u in the other. Retain the different grammatical formations.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1335.html",
+          "anchor": "क्र्यदिः (956) एवायं स्वार्थणिजर्थः पठित इत्युदित्त्वम्",
+          "role": "Explicit repeated identity and grammatical reason under the u-marker reading.",
+          "record": {
+            "filename": "dhatu-kRi1335.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1335.html",
+            "accessed_utc": "2026-09-13T03:12:21.593660+00:00",
+            "sha256": "0cb1e7649a8127be858bbaaadc8860f5f5ff94402ab69c6c5247a9b1917f2764",
+            "bytes": 705
+          }
+        },
+        {
+          "source": "dhatu-XA1369.html",
+          "anchor": "पूर्व एवायं धातुरिह पठ्यते तेनायमुदिदिति",
+          "role": "Same-atom statement under the marker reading.",
+          "record": {
+            "filename": "dhatu-XA1369.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1369.html",
+            "accessed_utc": "2026-09-13T03:12:21.791376+00:00",
+            "sha256": "48927626e407af6454ed145eef7c0b83edd7bcde98d66420a84a73ecbd773b16",
+            "bytes": 516
+          }
+        },
+        {
+          "source": "dhatu-mA1311.html",
+          "anchor": "क्रैयादिकस्योकार इत् अस्य तु धातोरवयव",
+          "role": "Competing reading keeps the distinction visible instead of being erased.",
+          "record": {
+            "filename": "dhatu-mA1311.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1311.html",
+            "accessed_utc": "2026-09-12T16:21:23.881437+00:00",
+            "sha256": "d5b228bd3cb51f1abe532080a39af725ed0f925bc61a5c5a875f5f6886d29d83",
+            "bytes": 887
+          }
+        }
+      ],
+      "original_entries": {
+        "09.0060": [
+          "uYCe"
+        ],
+        "10.0270": [
+          "uYCe"
+        ]
+      },
+      "original_decision": "Maitreya explicitly treats the entries as the same word, but other commentators disagree about whether initial u belongs to the word. Do not flatten these readings into one identity decision.",
+      "delta": -1
+    },
+    {
+      "id": "IR201",
+      "label": "वृ (vṛ)",
+      "before_count": 2,
+      "proposed_count": 2,
+      "outcome": "meaning_decomposition_needed",
+      "before": "The fifth-class varana and tenth-class avarana assignments remain separate pending a meaning comparison.",
+      "after": "Keep the current subtotal pending finer meaning annotation. The fifth-class commentary includes both choosing and covering examples, so treating its whole entry as choosing and the tenth as covering would be wrong. Equally, merging both headings into one undifferentiated meaning would lose the distinction. First separate the fifth-class meanings, then identify any shared covering meaning.",
+      "remaining": "Annotate the meanings behind patimvara and pravara, distinguish base meanings from senses introduced by derivation or context, and map the shared portion to the tenth-class entry. No automatic reduction.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi910.html",
+          "anchor": "पतिंवरा कन्या",
+          "role": "Choosing example in the fifth-class discussion.",
+          "record": {
+            "filename": "dhatu-kRi910.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi910.html",
+            "accessed_utc": "2026-09-13T03:12:22.058724+00:00",
+            "sha256": "e1165258de7d6326cc055d67cc85270a02dfbd92c80b4b0a458e04538f54853b",
+            "bytes": 2926
+          }
+        },
+        {
+          "source": "dhatu-kRi910.html",
+          "anchor": "वृणोतेराच्छादने (3354)-प्रवारः",
+          "role": "Covering explicitly appears in the same discussion.",
+          "record": {
+            "filename": "dhatu-kRi910.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi910.html",
+            "accessed_utc": "2026-09-13T03:12:22.058724+00:00",
+            "sha256": "e1165258de7d6326cc055d67cc85270a02dfbd92c80b4b0a458e04538f54853b",
+            "bytes": 2926
+          }
+        },
+        {
+          "source": "dhatu-kRi1350.html",
+          "anchor": "वृञ् आवरणे",
+          "role": "Tenth-class covering heading.",
+          "record": {
+            "filename": "dhatu-kRi1350.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1350.html",
+            "accessed_utc": "2026-09-13T03:12:22.556082+00:00",
+            "sha256": "541de5adbe11d7a18350d966462db9850aca6c0efaec219a3c3b0e32afa228c4",
+            "bytes": 577
+          }
+        },
+        {
+          "source": "dhatu-XA1384.html",
+          "anchor": "अन्यत्र वृणोति वृणुते",
+          "role": "Cross-class forms are linked, but this does not enumerate all senses.",
+          "record": {
+            "filename": "dhatu-XA1384.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1384.html",
+            "accessed_utc": "2026-09-13T03:12:22.860546+00:00",
+            "sha256": "8055021c244d84b704045c9a8be84ee4b6b384a39a10a95a3a90f5f5e0950537",
+            "bytes": 471
+          }
+        }
+      ],
+      "original_entries": {
+        "05.0008": [
+          "varaRe"
+        ],
+        "10.0345": [
+          "AvaraRe"
+        ]
+      },
+      "original_decision": "The commentaries connect the forms, but varana and avarana need a meaning-level check before being counted as one.",
+      "delta": 0
+    },
+    {
+      "id": "IR210",
+      "label": "यम् / अय् (yam / ay)",
+      "before_count": 2,
+      "proposed_count": 2,
+      "outcome": "headword_correction_proposed",
+      "before": "The pinned source lists yam in cessation at both 01.1031 and 01.1139, creating an apparent repeated-word group.",
+      "after": "Reassign 01.1031 to ay in movement in the normalization layer; retain 01.1139 as yam in cessation. The comparison patha places ay between the same neighboring entries, and Kshiratarangini supplies ay in movement. This is a proposed headword-and-meaning correction, not a merger of two yam entries.",
+      "remaining": "Check the corrected ay against existing 01.0546, including its different marker/pada reading. The immediate correction replaces one assignment with one assignment; any further identity reduction needs its own decision.",
+      "evidence": [
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.१०२९ अस गतिदीप्त्यादानेषु । १.१०३० अष इत्येके । १.१०३१ अय गतौ । १.१०३२ स्पश बाधनस्पर्शनयोः",
+          "role": "Neighboring entries support the source alignment, not numbering alone.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        },
+        {
+          "source": "dhatu-kRi576.html",
+          "anchor": "अय गतौ - अयते उदयति दिननाथः",
+          "role": "Commentary for the movement entry.",
+          "record": {
+            "filename": "dhatu-kRi576.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi576.html",
+            "accessed_utc": "2026-09-13T03:12:23.119124+00:00",
+            "sha256": "5b37150b23cd028ab32f9c2472a5f84a378c9461c525b73abb269174f166c2de",
+            "bytes": 459
+          }
+        },
+        {
+          "source": "dhatupatha-sanskritdocuments.html",
+          "anchor": "१.११३९ यम उपरमे",
+          "role": "The other yam location remains valid.",
+          "record": {
+            "filename": "dhatupatha-sanskritdocuments.html",
+            "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+            "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+            "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+            "bytes": 147148
+          }
+        }
+      ],
+      "original_entries": {
+        "01.1031": [
+          "uparame"
+        ],
+        "01.1139": [
+          "uparame"
+        ]
+      },
+      "original_decision": "The two pinned entries give cessation, but the retrieved commentaries document one location with competing marker readings.",
+      "delta": 0
+    },
+    {
+      "id": "IR211",
+      "label": "यम् (yam): grammatical restriction",
+      "before_count": 2,
+      "proposed_count": 1,
+      "outcome": "reclassify_as_grammar_proposed",
+      "before": "The extraction counts apariveshana at 01.0930 as one meaning and pariveshana at 10.0119 as another.",
+      "after": "Remove the apariveshana restriction from the lexical subtotal and retain it as grammatical metadata attached to yam. The commentary identifies it as a ghatadi rule governing mit treatment, not a separate word meaning 'not serving'. Keep the tenth-class surrounding assignment and its own grammatical conditions.",
+      "remaining": "Preserve the serving-food versus surrounding distinction discussed by the commentators. Removing a restriction from the count does not prohibit serving forms or discard that usage. Map such senses to the underlying yam entry in the finer-meaning pass rather than assigning a new meaning to a negated condition.",
+      "evidence": [
+        {
+          "source": "rule-1.3.89.html",
+          "anchor": "यमो ऽपरिवेषणे इति मित्संज्ञा प्रतिषिध्यते",
+          "role": "Explicitly identifies the operation as a prohibition of mit designation.",
+          "record": {
+            "filename": "rule-1.3.89.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.3.89.htm",
+            "accessed_utc": "2026-09-13T03:12:31.380513+00:00",
+            "sha256": "e9e8bbe67362cd3dc22e535b1cd1fcc67c0eb88f52a5083abd8f12fde0c2774a",
+            "bytes": 14603
+          }
+        },
+        {
+          "source": "rule-6.4.92.html",
+          "anchor": "घटाद्यन्तर्गणसूत्रेऽपरिवेषणे",
+          "role": "Identifies the phrase as a rule within the ghatadi material; quote is from the extended commentary, not the sutra itself.",
+          "record": {
+            "filename": "rule-6.4.92.html",
+            "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/6/6.4.92.htm",
+            "accessed_utc": "2026-09-13T03:12:25.056637+00:00",
+            "sha256": "e0274c70c0130ed1e3cfa6b5e73cf1dbbc413dda107a3e814f0f05e58f3a8ff9",
+            "bytes": 15925
+          }
+        },
+        {
+          "source": "dhatu-mA1208.html",
+          "anchor": "इह परिवेषणं परिवेष्टनं",
+          "role": "Explains surrounding in the tenth-class entry.",
+          "record": {
+            "filename": "dhatu-mA1208.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1208.html",
+            "accessed_utc": "2026-09-12T16:21:15.034103+00:00",
+            "sha256": "098046a40054999a87214191c3561e295d4c5f3edef99d67f2c32d3b45bd8bfc",
+            "bytes": 2216
+          }
+        },
+        {
+          "source": "dhatu-XA1262.html",
+          "anchor": "चकारेण मिदित्यनुकृष्यते",
+          "role": "Retains the tenth-class grammatical instruction.",
+          "record": {
+            "filename": "dhatu-XA1262.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/XA1262.html",
+            "accessed_utc": "2026-09-13T03:12:23.819190+00:00",
+            "sha256": "38e4e8eda8e806c06e36930223142589ac0a9a99cdcafc514d1ad1ac8e8db9b5",
+            "bytes": 487
+          }
+        }
+      ],
+      "original_entries": {
+        "01.0930": [
+          "aparivezaRe"
+        ],
+        "10.0119": [
+          "parivezaRe"
+        ]
+      },
+      "original_decision": "Do not treat apariveshana as a simple lexical opposite of pariveshana. The commentary discusses a grammatical exclusion and distinguishes serving food from surrounding.",
+      "delta": -1
+    }
+  ],
+  "proposed_delta": -4,
+  "proposed_subtotal": 2649,
+  "vocabulary_total": null,
+  "archive_records": 949,
+  "commentary_records": 859,
+  "inputs": {
+    "analysis/generativity/reconciliation_review_01.json": "5d31c2e90937fe5528d94ab37516ff4c1c6c19242cdaab20bcf6a75a1279378c",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/results/base_meanings.json": "30172ba60026a93745e1cf51e0c49bdb71ef0c2bc0f0955d3e7ad61c612f9fd4",
+    "analysis/generativity/results/base_meaning_assignments.csv": "4ee3401c434004984c9e4469566519c104190cd00a12dcdc924550fd1fb651be",
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24"
+  }
+}

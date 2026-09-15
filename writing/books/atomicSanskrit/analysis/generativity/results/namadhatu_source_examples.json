@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-13",
+  "raw_source_assertions": 69,
+  "unique_source_relations": 67,
+  "active_broad_examples": 17,
+  "active_conditioned_relations": 40,
+  "ignored_relations": 10,
+  "duplicates_or_tense_variants_collapsed": 3,
+  "inputs": {
+    "analysis/generativity/namadhatu_operations.json": "55f819663b905c291a25f9ae4fe4aaf83c669a37de85e0e1eea13ccda1e54657",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "working/40_reference/sources/archive/documents/generativity-pilot/kashika_3_1.rs": "594fa30b21b9f8fc8c2c48964f7d915cb593e071213c59d8524e791b73081f34",
+    "analysis/generativity/extract_namadhatu_source_examples.py": "6c47d7de6c4405119126178ded8ab21ef42d1748bce315083120666a15b08605"
+  },
+  "publication_status": "research_source_inventory_only_not_deployed"
+}

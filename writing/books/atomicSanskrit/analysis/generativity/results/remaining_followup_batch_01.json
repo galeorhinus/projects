@@ -1,0 +1,471 @@
+{
+  "date": "2026-09-13",
+  "baseline": 2645,
+  "status": "proposals_not_applied",
+  "cases": [
+    {
+      "id": "IR16",
+      "status": "defer_formation",
+      "decision": "Keep impaired movement and cutting separate. The commentary uses khundate for the first-class entry and khundayati for the tenth. That supports different meanings but also confirms that the pinned citation needs marker/pada reconciliation before generation.",
+      "remaining": "Carry the idit and atmanepada alignment into the formation audit. No lexical reduction follows from it.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi181.html",
+          "anchor": "खुण्डते",
+          "role": "First-class form.",
+          "record": {
+            "filename": "dhatu-kRi181.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi181.html",
+            "accessed_utc": "2026-09-12T15:42:27.774307+00:00",
+            "sha256": "65ca2f8dbfb624c2a6d64b13316bf30a93ac84476593c2041b206b7c52a27566",
+            "bytes": 553
+          }
+        },
+        {
+          "source": "dhatu-kRi1189.html",
+          "anchor": "खुडि खण्डने",
+          "role": "Cutting entry.",
+          "record": {
+            "filename": "dhatu-kRi1189.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1189.html",
+            "accessed_utc": "2026-09-13T04:03:33.518418+00:00",
+            "sha256": "2de9e809ffc7b49b913e550b740f91f7a4ec56f1df8d396e4931b49dbf40c738",
+            "bytes": 421
+          }
+        }
+      ],
+      "batch": 1,
+      "label": "खुड् (khuḍ)",
+      "entries": {
+        "01.0946": [
+          "gativEkalye"
+        ],
+        "10.0072": [
+          "KaRqane"
+        ]
+      },
+      "before": "Retain impaired movement and breaking/cutting as separate meanings. Kshiratarangini explicitly points from the movement entry to the curadi khandana entry; the latter meaning is independently present in Madhaviya.",
+      "original_followup": "The concordance's first-class record uses an atmanepada citation, whereas the pinned group has no corresponding final accent marker. Preserve that source-alignment question for the form and pada audit; it does not justify deleting either meaning.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR18",
+      "status": "retain_readings",
+      "decision": "Keep indistinct sound and the pinned speaking assignment. The shining alternative is explicitly documented, including nad itself in Kshiratarangini's list. Record it as a reading, not an extra meaning silently added to the speech-reading count.",
+      "remaining": "A future cross-reading union must decide whether and how to admit shining. This is the same shared-list issue already documented for dhup, not a reason to restart that research.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi43.html",
+          "anchor": "भासार्थः - नादयति",
+          "role": "Specific nad cross-reference.",
+          "record": {
+            "filename": "dhatu-kRi43.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi43.html",
+            "accessed_utc": "2026-09-12T15:42:29.028286+00:00",
+            "sha256": "1c986703363e8ed2b341ff3a7b77da64bb3db549e42d6098af7fe7026d364331",
+            "bytes": 799
+          }
+        }
+      ],
+      "batch": 1,
+      "label": "नद् (nad)",
+      "entries": {
+        "01.0056": [
+          "avyakte Sabde"
+        ],
+        "10.0309": [
+          "BAzAyAm"
+        ]
+      },
+      "before": "Retain non-articulate sound and the curadi speech meaning under the pinned reading. Kshiratarangini supplies the qualified avyakte shabde heading, while Madhaviya explicitly distinguishes the later bhashartha entry. A general resemblance between sound and speech is not evidence that these specified meanings are identical.",
+      "original_followup": "Kshiratarangini points instead to the alternate bhasartha/shining reading of the curadi group. Keep the source traditions identifiable when that group's meanings are expanded.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR19",
+      "status": "retain_distinction",
+      "decision": "Keep the three current assignments. Madhaviya distinguishes the earlier acting usage from the later dance/movement usage even when both headings say nrtta. The same written gloss therefore does not justify merging the two entries.",
+      "remaining": "Retain the alternative nata/bending reading with its branch example for the later formation audit; do not replace the selected readings with a mixture.",
+      "evidence": [
+        {
+          "source": "dhatu-mA192.html",
+          "anchor": "तत्र वाक्यार्थाभिनयो नाट्यं",
+          "role": "Explicit acting/dance distinction.",
+          "record": {
+            "filename": "dhatu-mA192.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA192.html",
+            "accessed_utc": "2026-09-12T15:42:29.245607+00:00",
+            "sha256": "9d5ad764afcbbd7f6bcb23ecd790ff27f4ead56b78a2978fd22bd8e643fa770f",
+            "bytes": 3912
+          }
+        },
+        {
+          "source": "dhatu-mA481.html",
+          "anchor": "नटयति शाखा",
+          "role": "The bending example belongs to a stated alternative.",
+          "record": {
+            "filename": "dhatu-mA481.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA481.html",
+            "accessed_utc": "2026-09-12T15:42:29.499201+00:00",
+            "sha256": "a90d53cf442304524ffa668c512534a29fe9d832f194936ee4aa507def2d16fd",
+            "bytes": 1053
+          }
+        }
+      ],
+      "batch": 1,
+      "label": "नट् (naṭ)",
+      "entries": {
+        "01.0347": [
+          "nfttO"
+        ],
+        "01.0890": [
+          "nfttO",
+          "gatO"
+        ]
+      },
+      "before": "Leave the apparent shared nrtta assignment unmerged until the two readings are aligned. Madhaviya connects the base entries but distinguishes theatrical representation from other dance/movement uses in its discussion. Kshiratarangini gives nata/bending in the ghatadi entry, while Dhatupradipa records nrtta together with movement and bending variants. Matching the two pinned gloss strings alone would bypass those differences.",
+      "original_followup": "Establish which sense the pinned nrttau denotes in each row. Then decide whether the shared assignment can be consolidated; retain the separately listed movement meaning in either case.",
+      "before_count": 3,
+      "proposed_count": 3,
+      "delta": 0
+    },
+    {
+      "id": "IR20",
+      "status": "defer_reading",
+      "decision": "Keep the speech-group meaning and the second assignment separate. The retrieved witnesses genuinely disagree between marshana and amarshana; their identical generated shikayati form does not settle the intended meaning.",
+      "remaining": "Defer the English interpretation of the second heading until a source with a contextual example is located. Do not import the separate first-class sprinkling meaning.",
+      "evidence": [
+        {
+          "source": "dhatu-mA1343.html",
+          "anchor": "शीक मर्षणे",
+          "role": "One heading.",
+          "record": {
+            "filename": "dhatu-mA1343.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1343.html",
+            "accessed_utc": "2026-09-12T15:42:29.973767+00:00",
+            "sha256": "28983fa8f0360f73c335dda0ae4dacd85d753dca9ae80486a3e886e43f7b9866",
+            "bytes": 459
+          }
+        },
+        {
+          "source": "dhatu-kRi1361.html",
+          "anchor": "शीक आमर्षणे",
+          "role": "Competing heading.",
+          "record": {
+            "filename": "dhatu-kRi1361.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1361.html",
+            "accessed_utc": "2026-09-12T15:42:30.267037+00:00",
+            "sha256": "cf887d0a622112df14c527e3256d25a48be0415447071308cb636b034a23d6ae",
+            "bytes": 526
+          }
+        }
+      ],
+      "batch": 1,
+      "label": "शीक् (śīk)",
+      "entries": {
+        "10.0320": [
+          "BAzAyAm"
+        ],
+        "10.0363": [
+          "AmarzaRe"
+        ]
+      },
+      "before": "Keep the speech-list entry and the amarshana entry separate. Both are explicitly located in the commentary, and no inspected passage equates their meanings. Do not merge them merely because both are curadi and share the same citation.",
+      "original_followup": "The second heading is marshana in Madhaviya and amarshana in Kshiratarangini. Retain that wording difference for semantic clarification rather than assigning an unsupported English sense. The separate first-class sprinkling entry is outside this group.",
+      "before_count": 2,
+      "proposed_count": 2,
+      "delta": 0
+    },
+    {
+      "id": "IR21",
+      "status": "defer_senses",
+      "decision": "Retain the current assignments for now. Madhaviya explains the conjunction as carrying harming and affliction into the first-class entry, but notes that other commentators omit that conjunction. This does not establish that every gambling/competition annotation in the existing expanded list is an additional independent meaning.",
+      "remaining": "Defer the overlap among deceit, gambling, and competition to the finer-sense audit. Preserve the existing five-unit annotation rather than arbitrarily subtracting one during a cross-entry check.",
+      "evidence": [
+        {
+          "source": "dhatu-mA215.html",
+          "anchor": "स्वाम्यादयः पुनश्चकारं नैव पेठुः",
+          "role": "The meaning-list scope varies by reading.",
+          "record": {
+            "filename": "dhatu-mA215.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA215.html",
+            "accessed_utc": "2026-09-12T16:01:04.225988+00:00",
+            "sha256": "d8aaebac4c07e287cf5f1f5d93fbbf38d9739bd99ece5e3f3bf766bea2731deb",
+            "bytes": 765
+          }
+        }
+      ],
+      "batch": 1,
+      "label": "शठ् (śaṭh)",
+      "entries": {
+        "01.0394": [
+          "kEtave",
+          "hiMsAyAm",
+          "saNkleSane",
+          "dyUte",
+          "sparDAyAM"
+        ],
+        "10.0041": [
+          "asaMskAre",
+          "gatO"
+        ],
+        "10.0214": [
+          "SlAGAyAm"
+        ]
+      },
+      "before": "Retain the separate meanings. Madhaviya explicitly distinguishes the kaitava entry, the gati/asamskara entry, and the praise entry; repeating the citation does not make their meanings identical.",
+      "original_followup": "The five units already recorded for 01.0394 are not all re-established by this identity check. Their finer overlap, including gambling and competition, remains part of the source-meaning review.",
+      "before_count": 8,
+      "proposed_count": 8,
+      "delta": 0
+    },
+    {
+      "id": "IR25",
+      "status": "retain_distinction",
+      "decision": "Keep the two giving assignments separate. Madhaviya explicitly argues that the ghatadi and curadi records are different atoms, not repetitions, on the basis of mit treatment. The shared English word giving cannot override that distinction.",
+      "remaining": "Retain shranu/shrana marker variants and the separately recorded movement assignment for generation. The identity decision itself needs no further search in this pass.",
+      "evidence": [
+        {
+          "source": "dhatu-mA490.html",
+          "anchor": "धात्वन्तरावेतौ",
+          "role": "Explicit different-atom statement.",
+          "record": {
+            "filename": "dhatu-mA490.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA490.html",
+            "accessed_utc": "2026-09-12T16:01:06.303882+00:00",
+            "sha256": "b534a86757cc059e3d6abf56b4c90c0eaed50481c8f218aadde3580c426cd613",
+            "bytes": 1273
+          }
+        }
+      ],
+      "batch": 1,
+      "label": "श्रण् (śraṇ)",
+      "entries": {
+        "01.0907": [
+          "dAne",
+          "gatO"
+        ],
+        "10.0063": [
+          "dAne"
+        ]
+      },
+      "before": "Retain both giving assignments: Madhaviya explicitly treats the ghatadi and curadi entries as different atoms, not repetitions. Different words can share a meaning; the matching dana gloss does not override that evidence.",
+      "original_followup": "Keep the shranu/shrana reading difference attached to its witness. The separately recorded movement meaning is not removed.",
+      "before_count": 3,
+      "proposed_count": 3,
+      "delta": 0
+    },
+    {
+      "id": "IR26",
+      "status": "defer_reading",
+      "decision": "Keep the current four assignments. Kshiratarangini's first curadi entry actually uses pratiharsha and relates it to the later harming entry through forms; Madhaviya gives effort, departure, or great joy, while the later entry has release versus harming readings. Combining selected pieces from these witnesses would invent a unified reading.",
+      "remaining": "Defer a reading-specific relation between the two harming records. Keep the release and effort assignments and all variant provenance; no merger is established across this mixture.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi1160.html",
+          "anchor": "श्रथ प्रतिहर्षे",
+          "role": "The earlier curadi witness is not a simple repetition of the pinned effort gloss.",
+          "record": {
+            "filename": "dhatu-kRi1160.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi1160.html",
+            "accessed_utc": "2026-09-13T04:03:42.328443+00:00",
+            "sha256": "36b1b96ee464a4c9ddef4966afc7ef93702922c4453c1c8a22c307a56fd5b688",
+            "bytes": 762
+          }
+        },
+        {
+          "source": "dhatu-mA1340.html",
+          "anchor": "श्रथ मोक्षणे हिंसायामित्यपर",
+          "role": "Alternative readings of the later location.",
+          "record": {
+            "filename": "dhatu-mA1340.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1340.html",
+            "accessed_utc": "2026-09-12T16:01:07.457801+00:00",
+            "sha256": "011fa4410332583924a4fd7df0f1ddd6153c93187aa0d10b6bf24bfdbf21803b",
+            "bytes": 646
+          }
+        }
+      ],
+      "batch": 1,
+      "label": "श्रथ् (śrath)",
+      "entries": {
+        "01.0908": [
+          "hiMsAyAm"
+        ],
+        "10.0019": [
+          "prayatne"
+        ],
+        "10.0360": [
+          "mokzaRe",
+          "hiMsAyAM"
+        ]
+      },
+      "before": "Keep all four assignments for now. Harming occurs in two entries, but the later entry also has a mokshana reading, and the retrieved discussion does not establish that its harming use is the same word-meaning as the earlier ghatadi use.",
+      "original_followup": "Locate a direct identity statement or a meaning-specific treatment connecting the two harming entries. Do not normalize hiMsAyAm/hiMsAyAM into a merger merely because they differ only in transliteration.",
+      "before_count": 4,
+      "proposed_count": 4,
+      "delta": 0
+    },
+    {
+      "id": "IR28",
+      "status": "defer_identity",
+      "decision": "Do not merge first-class bhasana with tudadi shobha yet. There is a separate first-class shub/dipti entry, and Kshiratarangini's tudadi cross-reference leads to that entry. Transferring its identity link into this speech/harming group would repeat the wrong-occurrence error found earlier for push.",
+      "remaining": "Identify which first-class occurrence each witness links before combining the shining and beauty assignments.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi477.html",
+          "anchor": "शुभ दीप्तौ",
+          "role": "Separate first-class shining entry.",
+          "record": {
+            "filename": "dhatu-kRi477.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi477.html",
+            "accessed_utc": "2026-09-13T04:03:43.365717+00:00",
+            "sha256": "ab1714acc56cc44bc207de9abc407582ab1303f41a4af4536f416e1bd5d065df",
+            "bytes": 705
+          }
+        },
+        {
+          "source": "dhatu-kRi960.html",
+          "anchor": "भ्वादौ (1498) शोभते",
+          "role": "The tudadi reference must be aligned to the correct occurrence.",
+          "record": {
+            "filename": "dhatu-kRi960.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi960.html",
+            "accessed_utc": "2026-09-13T04:03:43.816974+00:00",
+            "sha256": "90074df356bb4b10f97f1aeb999e84235e862a9f026a0cc38af9437f6babb68c",
+            "bytes": 1100
+          }
+        }
+      ],
+      "batch": 1,
+      "label": "शुभ् (śubh)",
+      "entries": {
+        "01.0500": [
+          "BAzaRe",
+          "BAsane",
+          "hiMsAyAM"
+        ],
+        "06.0046": [
+          "SoBAyAm"
+        ]
+      },
+      "before": "Do not yet collapse bhasana and shobha. Madhaviya connects the classes, but it records speaking, shining, and harming readings in the earlier entry. The precise overlap with the later shobha meaning needs to be established.",
+      "original_followup": "Check whether the shining interpretation and shobha identify one word-meaning here, rather than infer identity from related English glosses.",
+      "before_count": 4,
+      "proposed_count": 4,
+      "delta": 0
+    },
+    {
+      "id": "IR29",
+      "status": "defer_senses",
+      "decision": "Keep the two first-class annotations provisionally separate from laziness. Madhaviya explicitly contrasts a movement-obstruction heading with Dhanapala's broader obstruction reading; it does not state that these are two independently enumerated senses, but neither does it establish an exact equivalence.",
+      "remaining": "Treat this as a broader/narrower meaning decision in the finer-sense pass. Do not merge the separate marked drying entry returned by loose retrieval.",
+      "evidence": [
+        {
+          "source": "dhatu-mA216.html",
+          "anchor": "प्रतिघात इत्येव धनपालः",
+          "role": "The broader reading is explicitly attributed.",
+          "record": {
+            "filename": "dhatu-mA216.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA216.html",
+            "accessed_utc": "2026-09-12T16:01:09.170738+00:00",
+            "sha256": "c5e4e0574aa8ccda20f492810edf042b08ade015372c5297c9e58eb47012a192",
+            "bytes": 820
+          }
+        }
+      ],
+      "batch": 1,
+      "label": "शुठ् (śuṭh)",
+      "entries": {
+        "01.0395": [
+          "pratiGAte",
+          "gatipratiGAte"
+        ],
+        "10.0146": [
+          "Alasye"
+        ]
+      },
+      "before": "Retain obstruction and laziness as different meanings. The curadi commentary points to the earlier obstruction entry while keeping the laziness heading separate.",
+      "original_followup": "Whether pratighata and gatipratighata in 01.0395 are one meaning or a broader and narrower use remains a within-entry check; this pass does not collapse them.",
+      "before_count": 3,
+      "proposed_count": 3,
+      "delta": 0
+    },
+    {
+      "id": "IR31",
+      "status": "retain_readings",
+      "decision": "Keep the existing assignments without collapsing all the light-related English glosses. Kshiratarangini explicitly calls the first-class speech/harming listing a repetition because of a difference in meaning, and records different initial-sound readings. That evidence prevents a blanket cross-class merger.",
+      "remaining": "Defer bhasana versus dipti within the first-class annotation to the finer-sense pass; retain the shunbh/shumbh and initial-sound alternatives separately.",
+      "evidence": [
+        {
+          "source": "dhatu-kRi960.html",
+          "anchor": "इत्यर्थभेदात् पाठः",
+          "role": "Explicit meaning-difference explanation.",
+          "record": {
+            "filename": "dhatu-kRi960.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi960.html",
+            "accessed_utc": "2026-09-13T04:03:43.816974+00:00",
+            "sha256": "90074df356bb4b10f97f1aeb999e84235e862a9f026a0cc38af9437f6babb68c",
+            "bytes": 1100
+          }
+        },
+        {
+          "source": "dhatu-kRi282.html",
+          "anchor": "भासन इति दुर्गः",
+          "role": "Bhasana is an attributed alternative, not an automatically interchangeable gloss.",
+          "record": {
+            "filename": "dhatu-kRi282.html",
+            "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/kRi282.html",
+            "accessed_utc": "2026-09-13T04:03:46.144527+00:00",
+            "sha256": "6ba463f7aae05ab1145010f765f5c03b0bb14c8430d8bc75330ef50899f60748",
+            "bytes": 858
+          }
+        }
+      ],
+      "batch": 1,
+      "label": "शुम्भ् (śumbh)",
+      "entries": {
+        "01.0501": [
+          "BAzaRe",
+          "BAsane",
+          "hiMsAyAM",
+          "dIptO"
+        ],
+        "06.0047": [
+          "SoBAyAm"
+        ]
+      },
+      "before": "Keep the five assignments pending a meaning-specific comparison. The same commentary links the bhvadi and tudadi forms, but the speaking, shining, harming, and shobha readings do not justify a blanket merger.",
+      "original_followup": "Compare bhasana, dipti, and shobha at the word-meaning level. Reconcile the pinned SunB citation with the shumbh/shunbh written readings before later generation.",
+      "before_count": 5,
+      "proposed_count": 5,
+      "delta": 0
+    }
+  ],
+  "queued_records": 65,
+  "reviewed_records": 65,
+  "complete": true,
+  "proposed_delta": -11,
+  "archive_records": 949,
+  "vocabulary_total": null,
+  "inputs": {
+    "analysis/generativity/reconciliation_review_01.json": "5d31c2e90937fe5528d94ab37516ff4c1c6c19242cdaab20bcf6a75a1279378c",
+    "analysis/generativity/identity_review.json": "9e18741dc7667a45959066221f6fdbadf2f57cb483a122d3db0e828345e7ac9e",
+    "analysis/generativity/results/base_meanings.json": "30172ba60026a93745e1cf51e0c49bdb71ef0c2bc0f0955d3e7ad61c612f9fd4",
+    "analysis/generativity/results/base_meaning_assignments.csv": "4ee3401c434004984c9e4469566519c104190cd00a12dcdc924550fd1fb651be",
+    "working/40_reference/sources/archive/documents/generativity-pilot/dhatupatha.tsv": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "approved_reconciliation": "7bede88557c33c1d5bf17c76b0a832ccda7a8712ba5b278e1bb72e0deeca709c",
+    "followup_review": "66ca8cc84652986832429261451117774ac140dae5164d9550084948d525b4d5",
+    "approval_02": "0ea974881ec6246a5218137dc6e608abaf78905bda2281932a93f95032f7e765",
+    "remaining_review": "6a579463200fa14b59331845dc8bd262c1ca3b945429edc9c5d690f900a1d55e",
+    "source_manifest": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24"
+  },
+  "scope": "batch",
+  "batch": 1,
+  "batch_reviewed_records": 10
+}

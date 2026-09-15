@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-13",
+  "scope": "Exactly one normalized upasarga and one already admitted sanadi semantic branch applied to an original dhatu meaning; no second upasarga, second sanadi, krdanta, or inflection.",
+  "admission_standard": "The sanadi meaning must already be admitted, the upasarga operation must be productive, the pinned engine must construct a form, and an explicit base-meaning restriction overrides generation. Attestation is not required.",
+  "engine": {
+    "name": "Vidyut",
+    "version": "0.4.0",
+    "commit": "f3ba4167d40eebc4b3023d24e66867aa6a8cdb32"
+  },
+  "normalized_upasarga_identities": 20,
+  "admitted_one_sanadi_meanings": 12522,
+  "source_entry_operations_tested": 178320,
+  "source_entry_operations_with_output": 160160,
+  "source_entry_zero_outputs": 18160,
+  "zero_outputs_by_operation": {
+    "intensive": 9080,
+    "intensive_luk": 9080
+  },
+  "admitted_stacked_word_meanings": 250040,
+  "admitted_by_sanadi_operation": {
+    "causative": 42164,
+    "desiderative": 52546,
+    "intensive": 77665,
+    "intensive_luk": 77665
+  },
+  "not_admitted_by_status": {
+    "not_counted_documented_base_meaning_conflict": 400
+  },
+  "spelling_diagnostics": {
+    "distinct_output_spellings": 135367,
+    "spellings_shared_by_multiple_word_meanings": 78450,
+    "policy": "Shared spelling does not merge different words or meanings."
+  },
+  "prior_bounded_verbal_capacity_subtotal": 67723,
+  "bounded_verbal_capacity_subtotal": 317763,
+  "vocabulary_total": null,
+  "publication_status": "research_subtotal_only_not_deployed",
+  "sources": [
+    {
+      "filename": "dhatupatha.tsv",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "resolved_url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/data/dhatupatha.tsv",
+      "accessed_utc": "2026-09-12T12:29:52.999531+00:00",
+      "sha256": "bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380",
+      "bytes": 55022
+    },
+    {
+      "filename": "dhatupatha-sanskritdocuments.html",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+      "accessed_utc": "2026-09-12T14:03:44.123248+00:00",
+      "sha256": "f61d91eb4355f50677b185fe0e89641bddabb6be5211f5bfc2a8166dc8a8751c",
+      "bytes": 147148
+    },
+    {
+      "filename": "vidyut-args-dhatu.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/args/dhatu.rs",
+      "accessed_utc": "2026-09-13T05:27:01.055292+00:00",
+      "sha256": "f63ee74be4e5eef8581def3f9b029fe2b1e01f7e92ca7a322c506d3e33764c63",
+      "bytes": 22640
+    },
+    {
+      "filename": "vidyut-sanadi.rs",
+      "url": "https://raw.githubusercontent.com/ambuda-org/vidyut/f3ba4167d40eebc4b3023d24e66867aa6a8cdb32/vidyut-prakriya/src/sanadi.rs",
+      "accessed_utc": "2026-09-13T06:06:36.858207+00:00",
+      "sha256": "228edd5e973b429657ee872f29d983ff78ae74b4b579b900fff171503cd1fc34",
+      "bytes": 13862
+    },
+    {
+      "filename": "rule-1.4.58.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.58.htm",
+      "accessed_utc": "2026-09-12T16:03:36.811505+00:00",
+      "sha256": "48d90df31af7dc6dad1e4270e4d14fa78554310125142e68a0a49a7cbf876348",
+      "bytes": 12586
+    },
+    {
+      "filename": "rule-1.4.59.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.59.htm",
+      "accessed_utc": "2026-09-12T16:03:37.911527+00:00",
+      "sha256": "77d6ed0305efb66a3bccc702778b76ed73c84190205564295ad83d86a231de42",
+      "bytes": 15507
+    },
+    {
+      "filename": "rule-2.4.74.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.4.74.htm",
+      "accessed_utc": "2026-09-12T16:03:42.281997+00:00",
+      "sha256": "a33affff8e0b6e8516ee1d575b3ca951a5f70998e706fd317f3998eb3d196c1d",
+      "bytes": 10989
+    },
+    {
+      "filename": "rule-3.1.7.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.7.htm",
+      "accessed_utc": "2026-09-12T16:03:43.491630+00:00",
+      "sha256": "c16d91d965acb06d3374a422abf77725b3d8e824bff7ed46a90716a79827598d",
+      "bytes": 29100
+    },
+    {
+      "filename": "rule-3.1.22.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.22.htm",
+      "accessed_utc": "2026-09-12T16:03:48.559378+00:00",
+      "sha256": "1ce33d5144eb706d3ad1e005847a0667b4f10bb4b8d3314a30d978eb59e7bbad",
+      "bytes": 13894
+    },
+    {
+      "filename": "rule-3.1.23.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.23.htm",
+      "accessed_utc": "2026-09-13T06:06:37.919236+00:00",
+      "sha256": "538696414963f28834c9622c2a57af8020c5f17b363978d1fdd4368bcfc9607f",
+      "bytes": 6620
+    },
+    {
+      "filename": "rule-3.1.24.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.24.htm",
+      "accessed_utc": "2026-09-13T06:06:38.839899+00:00",
+      "sha256": "a51be9d18a848482994064172f6e07c5ba81ff493b6883786c002f622585c61f",
+      "bytes": 5621
+    },
+    {
+      "filename": "rule-3.1.25.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.25.htm",
+      "accessed_utc": "2026-09-13T06:36:31.470294+00:00",
+      "sha256": "42b8f559ab087cd96425df4ced1c92aa0627f1d42576875d29b19971e61d3040",
+      "bytes": 11269
+    },
+    {
+      "filename": "rule-3.1.26.html",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.26.htm",
+      "accessed_utc": "2026-09-12T16:03:50.141844+00:00",
+      "sha256": "8944ff6d15ad0a8f69392cc2833a0320bd5a0b3f8af543d6e1c0ec404970fbd7",
+      "bytes": 43778
+    }
+  ],
+  "inputs": {
+    "analysis/generativity/upasarga_inventory.csv": "cf3e86d1d8e7ebc6613130b99a11c1d0da4a943093cbbbc72667e08004a82c04",
+    "analysis/generativity/upasarga_conflicts.json": "f574b7ba527c99cb3dcb79f9fefc828cce17797e821a053315c43c9546c81a64",
+    "analysis/generativity/results/verbal_derivation_ledger.csv": "d24e885863a5f840637054d2686a75717ce5f7efb7bbb78c901e9ebbac920617",
+    "analysis/generativity/results/upasarga_generation_summary.json": "7f947c2324717c352e70783593045576f165a1f1d12f118a86007d82f3054d06",
+    "analysis/generativity/admission_standard.md": "f1aee832f493cbffedcbcd0138d9ef5bfa379ba2da25a65f3e231d9b336e96ff",
+    "working/40_reference/sources/archive/documents/generativity-pilot/manifest.json": "cc585002f7c7609ac002ba38094f82a146ed694814710d9e78563c7bacb79f24",
+    "analysis/generativity/build_upasarga_sanadi_ledger.py": "446f43b65b76795d4f81c2aa976ca068bb8562a53ebac6d8606ae0a007e5e751"
+  }
+}
