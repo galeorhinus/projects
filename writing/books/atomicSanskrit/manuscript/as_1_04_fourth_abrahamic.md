@@ -148,7 +148,7 @@ The two dogmas therefore reinforce one another. An ancient achievement threatens
 
 Erasing the engineering protects the story. The pyramid presents Sanskrit as a natural language, classifies Brāhmī as an adaptation of Aramaic, and recasts Pāṇini as the codifier who imposed order on drifting speech. Each substitution places the decisive act of engineering inside the pyramid's history.
 
-Chapter 13 returns to writing as one part of Sanskrit's preservation architecture. Appendix Part 3 examines the script-level theft and the claim that Brāhmī received its architecture from Aramaic.
+Chapter 13 returns to writing as one part of Sanskrit's preservation architecture. Appendix Part 3 examines the script-level theft and the claim that Brāhmī borrowed its architecture from Aramaic.
 
 ## 4.3 The Church of Progress
 
@@ -274,7 +274,7 @@ The shape is the swastika: the ancient Indic symbol of rotational, distributed a
 
 Pyramidal machinery seeks a traceable point of authorization. It asks who wrote a text, which office certified it, and who controls its interpretation. अपौरुषेय (*apauruṣeya*), without human authorship, gives the pyramid no author to enthrone and no original office to capture. The Vedas therefore break its expected chain of command.
 
-Their preservation demonstrates a larger point. छन्दस् (*Chandas*), श्रुति (*śruti*), and teacher-student transmission have preserved exact phonetic specifications across thousands of years. Separate transmission lineages preserved the received form and gave reciters independent points of comparison. No central office issued commands to every reciter, and no single priesthood owned the standard. Together, these practices demonstrate that an entire architecture of order can persist without placing a ruler at the apex.
+Their preservation demonstrates a larger point. छन्दस् (*Chandas*), श्रुति (*śruti*), and teacher-student transmission have preserved exact phonetic specifications across thousands of years. Separate transmission lineages preserved the same form and gave reciters independent points of comparison. No central office issued commands to every reciter, and no single priesthood owned the standard. Together, these practices demonstrate that an entire architecture of order can persist without placing a ruler at the apex.
 
 That makes the *Vedas* a weapon against **every pyramid.** Not because they command rebellion, but because their existence disproves the pyramid's central claim. The pyramid insists that order requires an apex. The *Vedas* demonstrate an ancient alternative: one invariant calibrant, distributed across society, beyond the ownership of any ruler or institution.
 

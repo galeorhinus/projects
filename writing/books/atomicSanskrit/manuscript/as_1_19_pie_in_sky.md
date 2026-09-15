@@ -139,7 +139,7 @@ Abandon the obsession with an imaginary language spoken by imaginary people, and
 
 Sanskrit, by contrast, tells us where its *s* comes from. Pāṇini calls it सुट्-आगम (*suṭ-āgama*), the insertion of *s*. His rule-cluster places the sound immediately before *k* and specifies when it appears with **⟪कृ⟫**, *to make*. The specified environments include *sam-*, *pari-*, and *upa-* before the *kṛ* family in particular senses. The resulting forms include **संस्कृतम् (*saṃ-s-kṛ-ta*)**, the assembled or perfected, and **परिष्कृतम् (*pariṣ-kṛta*)**, the polished.[NOTE: sut-agama-visarga-s] The inserted *s* belongs to **⟪कृ⟫**, not to the cutting atom **⟪कृत्⟫**.[NOTE: krt-upasarga-corpus]
 
-Sanskrit's grammar keeps ⟪कृ⟫ (*kṛ*) and ⟪कृत्⟫ (*kṛt*) distinct. A receiving listener did not inherit that grammar. The word संस्कृतम् (*saṃskṛtam*) placed the sound-form *s-k-ṛ-t* in the listener's ear, while the cutting family supplied ⟪कृत्⟫ (*kṛt*), कृन्तति (*kṛntati*), and कर्तन (*kartana*). The PIE reconstruction **\*(s)kr̥t-** combines precisely those materials: the *s* generated beside ⟪कृ⟫, the final *t* and cutting meaning of ⟪कृत्⟫, and the vowel changes made by receiving languages. The pyramid formalized that received blend and projected it backward as the ancestor of the receiving words. Its own leading explanation for *s-mobile* — the misdivision of connected speech — concedes the mechanism while omitting the one language whose grammar contains the rules.
+Sanskrit's grammar keeps ⟪कृ⟫ (*kṛ*) and ⟪कृत्⟫ (*kṛt*) distinct. A receiving listener did not inherit that grammar. The word संस्कृतम् (*saṃskṛtam*) placed the sound-form *s-k-ṛ-t* in the listener's ear, while the cutting family supplied ⟪कृत्⟫ (*kṛt*), कृन्तति (*kṛntati*), and कर्तन (*kartana*). The PIE reconstruction **\*(s)kr̥t-** combines precisely those materials: the *s* generated beside ⟪कृ⟫, the final *t* and cutting meaning of ⟪कृत्⟫, and the vowel changes made by receiving languages. The pyramid formalized that resulting blend and projected it backward as the ancestor of the receiving words. Its own leading explanation for *s-mobile* — the misdivision of connected speech — concedes the mechanism while omitting the one language whose grammar contains the rules.
 
 The *t* is independently available in both Sanskrit families. It closes ⟪कृत्⟫ itself. It also appears through the *kta* participle by stated rule: *kṛt + kta* → **कृत्त (*kṛtta*)**, *cut off, shortened* — which is Latin *curtus*, sound for sound and sense for sense. The \*-tó- suffix the reconstruction deploys is *kta*, harvested from the grammar that states it, like the ablaut before it.
 
@@ -194,7 +194,7 @@ By positing an imaginary people speaking an imaginary language built from imagin
 
 Sanskrit's radiance moves outward through people. A word may travel through trade. A method of grammatical analysis may travel through teaching. Medical and astronomical knowledge can carry Sanskrit words and procedures into another language through study and translation. Chapter 20 follows these carriers and the records left by their movement.[NOTE: buddhist-asia-radiance]
 
-The receiving community continues to speak its own language. Its speakers express what they received through their own sounds, grammar, and habits of speech. Contact between languages can transmit words, pronunciations, sentence patterns, and methods of analysis.[NOTE: thomason-kaufman-1988] In this case, the source is an engineered calibrant whose complete architecture remains available for comparison.
+The receiving community continues to speak its own language. Its speakers reshape the incoming material through their own sounds, grammar, and habits of speech. Contact between languages can transmit words, pronunciations, sentence patterns, and methods of analysis.[NOTE: thomason-kaufman-1988] In this case, the source is an engineered calibrant whose complete architecture remains available for comparison.
 
 This book calls that encounter **calibrant contact**. Radiance brings Sanskrit to the encounter. The listener retains something from it as **बीज (*bīja*)**, a seed. When the listener expresses that seed through another language, the receiving language gives it a new sound-form and grammatical life. This book calls that change **vivimorphosis**. The result is a **प्रतिबिम्ब (*pratibimba*)**, a reflection of Sanskrit reshaped within another language.
 
@@ -249,7 +249,7 @@ The same pattern appears across many more Sanskrit atoms and their word families
 | **⟪भृ⟫ (*bhṛ*)** — bear, carry | **\*bʰer-** | Latin *ferre* → *transfer, refer, confer, fertile*; Greek *pherein* → *metaphor, phosphorus, euphoria* |
 | **⟪मा⟫ (*mā*)** — measure | **\*meh₁-** | Latin *mētīrī* → *measure, dimension, immense*; Greek *metron* → *metre, geometry, symmetry* |
 
-Greek, Latin, and the Germanic languages received these seeds and used them to generate new words and compounds. Each language then drifted through its own use. Because they did not remain in active calibration with Sanskrit, their forms continued to diverge from the Sanskrit words that had reached them. The earlier forms nevertheless preserve recognizable parts of the Sanskrit atom's meanings. Vivimorphosis describes how the receiving language turns Sanskrit's radiance into organic growth of its own.
+Greek, Latin, and the Germanic languages absorbed these seeds and used them to generate new words and compounds. Each language then drifted through its own use. Because they did not remain in active calibration with Sanskrit, their forms continued to diverge from the Sanskrit words that had reached them. The earlier forms nevertheless preserve recognizable parts of the Sanskrit atom's meanings. Vivimorphosis describes how the receiving language turns Sanskrit's radiance into organic growth of its own.
 
 ### The Pyramid Reverses the Movement
 
@@ -319,11 +319,11 @@ The recorded contact can be represented without an imaginary ancestor:
 
 Chapter 3 showed that Sanskrit permits two analyses of the sound-form **असुर (*asura*)**. The evidence does not tell us which analysis an Iranian listener understood. That uncertainty does not alter what traveled. A spoken word carries no hyphen across a mountain. The listener heard **असुर (*asura*)**.
 
-Iranian speech then reshaped the word. Sanskrit ***s*** appears as Iranian ***h***, the same correspondence Chapter 9 §9.10 traces in सिन्धुः (*Sindhuḥ*) and *Hinduš*. Avestan gave the received form its own ending and its own place within Iranian religious thought.
+Iranian speech then reshaped the word. Sanskrit ***s*** appears as Iranian ***h***, the same correspondence Chapter 9 §9.10 traces in सिन्धुः (*Sindhuḥ*) and *Hinduš*. Avestan gave the borrowed form its own ending and its own place within Iranian religious thought.
 
 This is vivimorphosis at a contact boundary. The Sanskrit word enters the listener's mind as बीज (*bīja*). The receiving language develops its own प्रतिबिम्ब (*pratibimba*) through repeated use.
 
-A later volume in the *Second Shanti* series will examine what Iranian religious thought made from that received form.
+A later volume in the *Second Shanti* series will examine what Iranian religious thought made from that borrowed form.
 
 ![Figure 19.9 — Recorded Chains and Projected Ancestors. The solid chains follow Sanskrit forms into the listener's seed and the receiving-language form. The dashed boxes show the imaginary ancestor that the pyramid projects backward above each recorded chain.](figures/pie_in_sky/deva_asura_vivimorphosis_chains.svg){#fig:ch19-deva-asura-vivimorphosis width=100%}
 

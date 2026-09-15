@@ -72,7 +72,7 @@ In education, the same shape becomes one curriculum, one examination ladder, and
 
 The pyramid demands finitism because a finite universe can be narrated from a single first point. Whoever controls the origin story can claim the timeline. Whoever controls the gate can guard the canon. A finite population can be counted, ranked, administered, and corrected. The apex therefore wants a world with edges because edges make possession easier. The boundless frightens him because he can neither enclose nor rule it.
 
-Sanskrit resists this shape because no human apex controls its order. Its architecture distributes correction among several independent checks. The trained ear detects a misplaced sound. Meter reveals an altered syllable or मात्रा (*mātrā*). Grammar exposes a malformed word. The धातुः (*dhātuḥ*) shows whether a derivation remains anchored in its semantic atom. The पाठ (*pāṭha*) reveals a break in recitation. Separate lineages can compare the forms they received. No single authority owns these checks; together they allow caretakers to identify and correct an error against the shared calibrant.
+Sanskrit resists this shape because no human apex controls its order. Its architecture distributes correction among several independent checks. The trained ear detects a misplaced sound. Meter reveals an altered syllable or मात्रा (*mātrā*). Grammar exposes a malformed word. The धातुः (*dhātuḥ*) shows whether a derivation remains anchored in its semantic atom. The पाठ (*pāṭha*) reveals a break in recitation. Separate lineages can compare the forms taught within them. No single authority owns these checks; together they allow caretakers to identify and correct an error against the shared calibrant.
 
 ### Destroy, Disfigure, or Hide
 

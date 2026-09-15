@@ -214,11 +214,11 @@ An orbital language may drift while remaining close enough for renewed calibrati
 
 ### **Radiance Thesis**
 
-**Book-coined analytical framework.** The account of how Sanskrit reached other languages without descending from an imaginary parent. Human carriers took Sanskrit words, atoms, operators, sound arrangements, knowledge, and analytical methods into other speech communities. Each receiving language reshaped what it received. Chapter 19 states the movement; Chapter 20 follows several routes and carriers.
+**Book-coined analytical framework.** The account of how Sanskrit reached other languages without descending from an imaginary parent. Human carriers took Sanskrit words, atoms, operators, sound arrangements, knowledge, and analytical methods into other speech communities. Each receiving language reshaped that Sanskritic material. Chapter 19 states the movement; Chapter 20 follows several routes and carriers.
 
 ### **calibrant contact**
 
-**Book-coined English.** An encounter in which another speech community receives a Sanskrit word, operation, or method while Sanskrit remains the complete calibrant. The receiving language remains itself. It gives the received material another sound-form and grammatical life.
+**Book-coined English.** An encounter in which another speech community adopts a Sanskrit word, operation, or method while Sanskrit remains the complete calibrant. The receiving language remains itself. It gives the borrowed material another sound-form and grammatical life.
 
 ### **बीज (*bīja*)**
 
@@ -230,7 +230,7 @@ An orbital language may drift while remaining close enough for renewed calibrati
 
 ### **vivimorphosis**
 
-**Book-coined English.** The change through which an engineered Sanskrit form acquires organic behavior inside a receiving natural language. From Sanskrit's side, अपभ्रंशः (*apabhraṃśa*) measures the falling-away from the calibrated शब्द (*śabda*). From the receiving language's side, vivimorphosis describes how that received seed takes on another language's sounds and grammar.
+**Book-coined English.** The change through which an engineered Sanskrit form acquires organic behavior inside a receiving natural language. From Sanskrit's side, अपभ्रंशः (*apabhraṃśa*) measures the falling-away from the calibrated शब्द (*śabda*). From the receiving language's side, vivimorphosis describes how that borrowed seed takes on another language's sounds and grammar.
 
 ### **प्रतिबिम्ब (*pratibimba*)** / **प्रतिबिम्बानि (*pratibimbāni*)**
 
@@ -285,7 +285,7 @@ The sequence is:
 
 ### **श्रुति (*śruti*)** / **स्मृति (*smṛti*)**
 
-**Standard.** श्रुति (*Śruti*) means that which is heard and names the Vedas as received sound. स्मृति (*Smṛti*) means that which is remembered and includes civilizational works carried through memory, teaching, recitation, and retelling. Auditure and Mnemoniture name their different preservation burdens in the book's English taxonomy.
+**Standard.** श्रुति (*Śruti*) means that which is heard and names the Vedas as sound transmitted through hearing. स्मृति (*Smṛti*) means that which is remembered and includes civilizational works carried through memory, teaching, recitation, and retelling. Auditure and Mnemoniture name their different preservation burdens in the book's English taxonomy.
 
 ### **छन्दस् (*chandas*)** / **भाषा (*bhāṣā*)**
 
@@ -293,7 +293,7 @@ The sequence is:
 
 ### **वैदिक (*vaidika*)** / **लौकिक (*laukika*)**
 
-**Standard, book-elevated.** The Vedic and worldly domains of one Sanskrit architecture. The वैदिक (*vaidika*) domain keeps received expressions invariant. The लौकिक (*laukika*) domain permits new composition through the same sounds and grammar. They operate concurrently and do not name two chronological stages of Sanskrit.
+**Standard, book-elevated.** The Vedic and worldly domains of one Sanskrit architecture. The वैदिक (*vaidika*) domain keeps Vedic expressions invariant. The लौकिक (*laukika*) domain permits new composition through the same sounds and grammar. They operate concurrently and do not name two chronological stages of Sanskrit.
 
 ### **अपौरुषेय (*apauruṣeya*)**
 

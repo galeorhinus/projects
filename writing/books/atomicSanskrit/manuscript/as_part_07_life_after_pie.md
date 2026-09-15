@@ -14,6 +14,6 @@ Part VII examines whether similarities among Sanskrit and other languages preser
 
 Chapter 20 distinguishes three calibrant waves. Before Pāṇini, trained people carried Sanskritic words and structures into other communities. After Pāṇini, his explicit documentation allowed teachers to carry analytical methods as well. The third wave belongs to the present, when readers can recognize the architecture and explain it consciously. Chapter 20 treats later diasporic movement separately: whole communities carried Indian languages, memories, and practices into new surroundings.
 
-Pāṇini receives praise for what he actually did: decoding rather than codification. Similar words across languages no longer serve as automatic proof of an imaginary parent. They can also preserve evidence of contact with Sanskrit and of the changes other languages made to what they received.
+Pāṇini receives praise for what he actually did: decoding rather than codification. Similar words across languages no longer serve as automatic proof of an imaginary parent. They can also preserve evidence of contact with Sanskrit and of the changes other languages made to the Sanskritic material they encountered.
 
 Chapter 20 traces Sanskritic words and analytical methods outward and follows how other languages reshaped them. The Epilogue then turns from Sanskrit's architecture to its larger civilizational implication: how a distributed calibrant might help society create durable order without concentrating authority at an apex.

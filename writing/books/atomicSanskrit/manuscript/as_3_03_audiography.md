@@ -131,7 +131,7 @@ The numbered vacancies mark the velar अन्तःस्थ (*antaḥstha*) a
 
 Arabic has a powerful sound tradition that includes pharyngeal reach, emphatic consonants, and disciplined recitation of the Qur'anic form. Recitation authorities, grammarians, script traditions, and legal-religious custody keep Formal Arabic stable. Neither the sound tradition nor the script arranges its inventory as a complete sonomeric matrix of place and effort.
 
-![Figure A.3.4 — Korean Audiography: A Local Sonomeric Implementation. Korean engineers surveyed Korean speech and designed Hangul inside an East Asian intellectual world that had already received Sanskrit pronunciation and Siddham sound-analysis through Buddhism.](figures/audiography/korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=100% height=80%}
+![Figure A.3.4 — Korean Audiography: A Local Sonomeric Implementation. Korean engineers surveyed Korean speech and designed Hangul inside an East Asian intellectual world that had already absorbed Sanskrit pronunciation and Siddham sound-analysis through Buddhism.](figures/audiography/korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=100% height=80%}
 
 The four panels compare the same layers in each system. Sanskrit organizes sound through a sonomeric grid. Arabic surrounds an inherited phonology with a codified tradition. Korean fits an engineered script to an existing phonology. Each represents a different achievement, and the comparison keeps those achievements in their proper categories.
 

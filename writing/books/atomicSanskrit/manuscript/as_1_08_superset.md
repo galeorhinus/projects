@@ -30,9 +30,9 @@ Languages across the Indian subcontinent use different scripts, vocabularies, an
 
 No single language uses every sound found across the region. The combined regional inventory is larger than the inventory of any one language.
 
-This book calls that combined regional inventory the **subcontinental superset**. It is not the inventory of any one language. It is the larger set of consonantal sounds preserved across the Indian subcontinent, from which Sanskrit's engineering selected its sonances.
+This book calls that combined regional inventory the **subcontinental superset**. It is not the inventory of any one language. It is the larger set of consonantal sounds found across the Indian subcontinent, from which Sanskrit's engineering selected its sonances.
 
-The epigraph says that human beings speak one quarter of Speech while three remain hidden. This chapter examines that spoken quarter through consonants. The surveys assemble the subcontinental superset from sounds preserved across several Indian languages and compare Sanskrit's selected consonants with it.
+The epigraph says that human beings speak one quarter of Speech while three remain hidden. This chapter examines that spoken quarter through consonants. The surveys assemble the subcontinental superset from sounds documented across several Indian languages and compare Sanskrit's selected consonants with it.
 
 ## 8.2 Sonances and Sonomers
 
@@ -209,7 +209,7 @@ The comparison began with sounds that people actually use. It mapped those sound
 
 The southern set covers 22 of Sanskrit's 23 base cells. The forest-belt set covers 20. The European comparison covers 16, and the Central Asian comparison covers 15. The highest coverage occurs among languages spoken inside India, including languages the pyramid assigns to families separate from Sanskrit.
 
-Tamil, Toda, Kurukh, Korku, Mundari, and Ho remain distinct languages, each with its own consonant inventory. Their combined inventories nevertheless contain much of Sanskrit's consonantal base. Tamil retains an additional alveolar stop distinction that Sanskrit excludes. Forest-belt languages preserve glottal features that Sanskrit excludes. Sindhi preserves implosives that Sanskrit excludes.
+Tamil, Toda, Kurukh, Korku, Mundari, and Ho remain distinct languages, each with its own consonant inventory. Their combined inventories nevertheless contain much of Sanskrit's consonantal base. Tamil retains an additional alveolar stop distinction that Sanskrit excludes. Forest-belt languages contain glottal features that Sanskrit excludes. Sindhi uses implosives that Sanskrit excludes.
 
 Sanskrit did not use every sound available in the Indian subcontinent. It selected sonances that remain distinct when joined to vowels and combined inside words. It assigned those reusable sonances grid addresses and ordered them through the anatomy of speech.
 
@@ -224,4 +224,4 @@ The four results can be compared directly:
 
 The proposed external corridor provides the weakest match. The two Indian comparisons provide the strongest. The consonantal evidence identifies the Indian subcontinent as the source of the sound inventory from which Sanskrit engineered the **वर्णमाला (*varṇamālā*)**.
 
-The surveys establish the subcontinental superset from which Sanskrit selected its sonances. They do not yet explain why some sonances received reusable grid addresses while others remained Restricted or Lineage-Bounded. Chapter 9 turns to that engineering decision. It begins with Ṛgveda 10.71.2, where the wise refine Speech as grain passes through a sieve and then form her with the mind.
+The surveys establish the subcontinental superset from which Sanskrit selected its sonances. They do not yet explain why Sanskrit assigned reusable grid addresses to some sonances while others remained Restricted or Lineage-Bounded. Chapter 9 turns to that engineering decision. It begins with Ṛgveda 10.71.2, where the wise refine Speech as grain passes through a sieve and then form her with the mind.

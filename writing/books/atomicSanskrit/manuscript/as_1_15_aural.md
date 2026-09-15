@@ -2,7 +2,7 @@
 
 What Speech revealed as mantra in the Veda has been ringing out continuously, unchanged in recitational form, for thousands of years.
 
-The Veda is heard in recitation through breath, pitch, duration, accent, and sequence. A distributed transmission architecture allows listeners and teachers to detect and correct departures from that received form. A syllable appears and vanishes, but the trained system catches a deviation before it alters the received form. The mouth produces; the ear verifies; the teacher corrects; the community hears. This is Auditure.
+The Veda is heard in recitation through breath, pitch, duration, accent, and sequence. A distributed transmission architecture allows listeners and teachers to detect and correct departures from the transmitted form. A syllable appears and vanishes, but the trained system catches a deviation before it alters that form. The mouth produces; the ear verifies; the teacher corrects; the community hears. This is Auditure.
 
 This preservation is audible in the पाठाः (*pāṭhas*) — living recitation systems maintained in identifiable lineages, taught in gurukula schools, examined by teachers, performed before communities, and available to the ear.
 
@@ -24,7 +24,7 @@ Chapter 9 maps these relations as one vowel architecture. The vowel family ident
 
 As students repeat a measured phrase, its rhythm divides the passage into forms the mouth can rehearse and the ear can recognize. Teacher and student therefore know the line's expected timing before they compare a recitation with it.
 
-Recitation allows a community to hear and check the received form in public. A शिष्य (*śiṣya*) recites before a *guru*, peers, senior reciters, and a community that together serve as a distributed standard. A departure from the established form can therefore be heard and corrected as it occurs. The *guru* applies the sound pattern learned from his own *guru*, and the student joins the lineage by learning to produce and recognize that same pattern.
+Recitation allows a community to hear and check the transmitted form in public. A शिष्य (*śiṣya*) recites before a *guru*, peers, senior reciters, and a community that together serve as a distributed standard. A departure from the established form can therefore be heard and corrected as it occurs. The *guru* applies the sound pattern learned from his own *guru*, and the student joins the lineage by learning to produce and recognize that same pattern.
 
 The Veda lives first in recitation, while writing provides a visible reflection of the recited form. The usual enumeration places शिक्षा (*Śikṣā*) first among the *Vedāṅgas*. That position is consistent with the practical order of preservation: the body must produce the sound accurately before another discipline can analyze its grammar, explain a difficult word, apply it in yajña, or determine its calendrical setting.[NOTE: shiksha-first-vedanga-priority]
 
@@ -68,7 +68,7 @@ The reciters use all of these checks together (Chapter 14 §14.3). छन्द�
 
 If one word changes, the departure does not remain confined to one place. It disturbs adjacent pairs in क्रम (*krama*), forward and reverse joins in जटा (*jaṭā*), moving three-word windows in घन (*ghana*), and the meter of the verse. Several known relationships now identify the same departure. That is how planned redundancy turns recitation into continuing calibration.
 
-The architecture distributes this correction among trained people. No office needs to issue a new official copy before a teacher can hear a departure and restore the received form.
+The architecture distributes this correction among trained people. No office needs to issue a new official copy before a teacher can hear a departure and restore the transmitted form.
 
 ## 15.4 Empirical Verification
 
@@ -92,7 +92,7 @@ Third, the recitation system is not a reconstruction proposed by this book. Peop
 
 Chapter 14 compared Sanskrit's preservation architecture with Hebrew, Quranic Arabic, and Latin. Each preserves a bounded form through its own methods. Only the Vedic system uses eleven recitation forms to check the same corpus through connected recitation, word separation, overlapping pairs, reversals, and longer prescribed recombinations.[NOTE: masoretic-codification-timing][NOTE: quran-recitation-vs-pathas-comparison] Chapter 14 §14.6 established the architectural comparison; this chapter has shown how the Vedic system performs it in sound.
 
-Together, the reciters demonstrate calibrant order as a living practice. The received form remains invariant, access to it remains distributed, and correction occurs wherever trained reciters and listeners compare a performance with what they received. They do not wait for an apex to announce correctness.
+Together, the reciters demonstrate calibrant order as a living practice. The transmitted form remains invariant, access to it remains distributed, and correction occurs wherever trained reciters and listeners compare a performance with the form they learned. They do not wait for an apex to announce correctness.
 
 This chapter demonstrates the greater engineering feat in operation. The recitation procedures resist entropy by detecting departures before another generation inherits them. Their distribution resists asuric attack by preventing any apex from gaining custody of the complete calibrant. The system has done both across distance, destruction, and thousands of years. It continues to do so.
 

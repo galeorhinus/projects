@@ -26,7 +26,7 @@ Pāṇini then enters the story as the person who stopped that movement. He supp
 
 At first, the claim appears credible. Arabic went through a codification process that successfully held Quranic and Formal Arabic in place. Sībawayh's ***Al-Kitāb*** became the foundational grammar, while the Quranic text and accepted recitations remained stable.[NOTE: sibawayh-al-kitab][NOTE: arabic-religio-political-authority]
 
-Another Indian language also received a comprehensive grammar. The ***Tolkāppiyam*** documents Tamil sounds, writing, word formation, sentence construction, meaning, literary composition, and poetics. If codification stopped Sanskrit and Formal Arabic from drifting, such a comprehensive grammar should have held Tamil in place as well.[NOTE: tolkappiyam-grammar-and-tamil-change]
+Another Indian language also had a comprehensive grammar. The ***Tolkāppiyam*** documents Tamil sounds, writing, word formation, sentence construction, meaning, literary composition, and poetics. If codification stopped Sanskrit and Formal Arabic from drifting, such a comprehensive grammar should have held Tamil in place as well.[NOTE: tolkappiyam-grammar-and-tamil-change]
 
 The word *codification* places the ***Aṣṭādhyāyī*** and the ***Tolkāppiyam*** in the same category as Arabic and Latin grammars. All four document language. That resemblance hides a more important difference: the architecture of order surrounding each document. Who kept the documented form in place? Did an institution stand above the language and enforce it, or did the document enter a wider tradition of teaching, commentary, and distributed custodianship?
 
@@ -140,7 +140,7 @@ Pāṇini inherited this arrangement. His अष्टाध्यायी (*A�
 
 The botanical metaphor describes natural languages well. They grow through communal use, branch across populations, absorb contact, alter sounds, shed endings, acquire exceptions, and pass changed forms to later generations.
 
-Old English **hlāfweard**, the “bread-guardian,” contracted to **hlāford**. Middle English then recorded changing forms such as **laverd**, **loverd**, and **lorde**, before modern **Lord** became standard.[NOTE: hlafweard-etymology] The sounds changed, and the word's original construction became harder to recognize. No single speaker designed the complete sequence. Each generation received a form and passed another one forward.
+Old English **hlāfweard**, the “bread-guardian,” contracted to **hlāford**. Middle English then recorded changing forms such as **laverd**, **loverd**, and **lorde**, before modern **Lord** became standard.[NOTE: hlafweard-etymology] The sounds changed, and the word's original construction became harder to recognize. No single speaker designed the complete sequence. Each generation inherited one form and passed another forward.
 
 In 1853, August Schleicher drew this process as a family tree. He developed the model through the following decade.[NOTE: schleicher-stammbaumtheorie] Languages acquired parents, sisters, daughters, roots, stems, and branches. The metaphor made natural change easy to picture, but it also allowed European philology to treat every language as if it belonged to the same botanical category.
 

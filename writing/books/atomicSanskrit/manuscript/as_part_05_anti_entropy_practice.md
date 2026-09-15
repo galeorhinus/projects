@@ -14,6 +14,6 @@ Chapter 13 treats preservation as an engineering problem. It distinguishes the f
 
 Chapter 14 develops the calibration matrix and shows how people can correct errors without giving an apex custody of the standard. Chapter 15 examines trained hearing and the eleven पाठाः (*pāṭhāḥ*), the recitation procedures that detect and prevent changes to the Vedic corpus.
 
-Chapter 16 brings these protections together. The वैदिक (*vaidika*) domain preserves the received corpus exactly, while the लौकिक (*laukika*) domain keeps the same language available for new expression. Those complementary responsibilities defend Sanskrit against the two enemies introduced in Chapter 6: gradual entropy and deliberate asuric attack.
+Chapter 16 brings these protections together. The वैदिक (*vaidika*) domain preserves the Vedic corpus exactly, while the लौकिक (*laukika*) domain keeps the same language available for new expression. Those complementary responsibilities defend Sanskrit against the two enemies introduced in Chapter 6: gradual entropy and deliberate asuric attack.
 
 The title ***The Sun Does Not Decay*** refers to the result. Sanskrit remains open to new expression without surrendering the invariant Vedic calibrant that allows speakers to recognize and correct change.

@@ -84,7 +84,7 @@ The first evidence of the engineering thesis is the language's own name: **स�
 
 प्राकृत (*Prākṛta*) develops through ordinary use: local idiom, songs, sayings, and everyday forms all change as the conditions of life change. संस्कृत (*Saṃskṛta*) is what conscious formation creates and disciplined preservation keeps exact. The civilization that built Sanskrit uses both and gives each its dignity through purpose. Everyday speech may change, because living speech must meet living circumstance. A *Vedic mantra* must stay exact, because its purpose is exact transmission. The प्राकृत (*prākṛta*) flows; the संस्कृत (*saṃskṛta*) remains invariant.
 
-संस्कृत (*Saṃskṛta*) itself has two domains. The **वैदिक (*vaidika*)** domain preserves the Vedas exactly: both the language and the received content remain invariant. The **लौकिक (*laukika*)** domain uses the same language to create new compositions for a changing world. Its language remains invariant while its literature continues to grow.
+संस्कृत (*Saṃskṛta*) itself has two domains. The **वैदिक (*vaidika*)** domain preserves the Vedas exactly: both the language and the Vedic content remain invariant. The **लौकिक (*laukika*)** domain uses the same language to create new compositions for a changing world. Its language remains invariant while its literature continues to grow.
 
 Beside them flows the **प्राकृतिक (*prākṛtika*)**. This is natural speech, where both language and content change as generations use them.
 
@@ -102,7 +102,7 @@ The mere fact that this book can examine those ideas in their original Sanskrit 
 
 Sanskrit preserves that continuity without restricting new expression. Its highly generative architecture can produce millions of words. Chapter 9 explains the sound architecture that supports this continuity, and Chapter 16 brings the two-domain design together.
 
-![Figure 0.1 — The three streams. संस्कृत (*Saṃskṛta*), the wholly created language, has two domains. The वैदिक (*vaidika*) keeps language and received content invariant. The लौकिक (*laukika*) keeps the language invariant while permitting new composition. Beside them, प्राकृतिक (*prākṛtika*) flows as the changing natural speech of daily life. The figure compares their responsibilities; it does not place them in a chronological sequence.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
+![Figure 0.1 — The three streams. संस्कृत (*Saṃskṛta*), the wholly created language, has two domains. The वैदिक (*vaidika*) keeps the language and the Vedic content invariant. The लौकिक (*laukika*) keeps the language invariant while permitting new composition. Beside them, प्राकृतिक (*prākṛtika*) flows as the changing natural speech of daily life. The figure compares their responsibilities; it does not place them in a chronological sequence.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
 
 ---
 
@@ -122,13 +122,13 @@ The **लौकिक (*laukika*)** domain is also old. Both वैदिक (*v
 
 The two domains treat their contents differently.
 
-The वैदिक (*vaidika*) domain preserves received content exactly. Once a mantra was seen and entered its transmission lineage, its words, sounds, pitch, meter, and arrangement became **read-only**. Chapter 16 examines the read-only and read-write permissions in detail, while Appendix Part 8 documents the grammatical evidence. The architecture protects the mantra from alteration.
+The वैदिक (*vaidika*) domain preserves the Vedic content exactly. Once a mantra was seen and entered its transmission lineage, its words, sounds, pitch, meter, and arrangement became **read-only**. Chapter 16 examines the read-only and read-write permissions in detail, while Appendix Part 8 documents the grammatical evidence. The architecture protects the mantra from alteration.
 
 The लौकिक (*laukika*) domain remains open to composition. People use it to tell stories, write poetry, analyze mathematics, record astronomy, debate philosophy, and describe circumstances that no earlier composition could have anticipated. By definition, its corpus contains material composed across different periods.
 
 Some लौकिक (*laukika*) material is certainly newer. Some may be extremely old. A story could have circulated before a particular mantra was seen, just as an author can write an epilogue before writing a preface. We do not possess the chronology required to place every लौकिक (*laukika*) composition after every Vedic mantra. The naming of the two domains describes purpose and usage, not sequence.
 
-The two domains therefore face entropy differently. Exact transmission protects the Vedas, and each recitation can be checked against the received form. The लौकिक (*laukika*) domain remains open to new composition, so pronunciation, word forms, and meanings have more opportunities to vary. Grammarians examined लौकिक (*laukika*) usage and corrected departures by comparing them with Sanskrit's architecture preserved in the Vedas.
+The two domains therefore face entropy differently. Exact transmission protects the Vedas, and each recitation can be checked against the transmitted form. The लौकिक (*laukika*) domain remains open to new composition, so pronunciation, word forms, and meanings have more opportunities to vary. Grammarians examined लौकिक (*laukika*) usage and corrected departures by comparing them with Sanskrit's architecture preserved in the Vedas.
 
 Pāṇini inherited this accumulated analysis and produced the finest documentation of Sanskrit's architecture. The अष्टाध्यायी (*Aṣṭādhyāyī*) records operations used across both domains and marks the settings in which particular rules apply. Chapter 16 and Appendix Part 8 examine those boundaries in detail.
 
@@ -168,7 +168,7 @@ The continuum understands all of this through its own conception of time — *Sa
 
 The पूर्णम् (*Pūrṇam*) puzzle introduced at the beginning of this chapter has only two valid answers: zero and infinity. The civilization that engineered Sanskrit did not just philosophize about these concepts; it made them the foundation of its architecture. It first made them usable in the realm of counting, and then in the structural mechanics of language.
 
-Ten values — zero through nine — and a positional rule reach numbers at every scale. In the familiar written notation, the digits *0* through *9* carry those values. Position determines the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, and the *2* in *2* is *two*. The enabling idea is **शून्य (*śūnya*)**, the value of an empty position. The circle is one way to write zero; it is not zero itself. With zero and positional rules, a finite inventory can express numbers without a fixed limit. The world still counts this way. Reference works now call these written digits Hindu-Arabic numerals because Arabic mathematicians received the place-value system from India and carried it west during the medieval period.[NOTE: place-value-arabic-transmission]
+Ten values — zero through nine — and a positional rule reach numbers at every scale. In the familiar written notation, the digits *0* through *9* carry those values. Position determines the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, and the *2* in *2* is *two*. The enabling idea is **शून्य (*śūnya*)**, the value of an empty position. The circle is one way to write zero; it is not zero itself. With zero and positional rules, a finite inventory can express numbers without a fixed limit. The world still counts this way. Reference works now call these written digits Hindu-Arabic numerals because Arabic mathematicians learned the place-value system from India and carried it west during the medieval period.[NOTE: place-value-arabic-transmission]
 
 A finite inventory, a rule for combining it, one enabling idea — and the output has no ceiling.
 
@@ -259,7 +259,7 @@ The *Vṛtra*, *Svarbhānu*, and *Paṇi* narratives show what the conflict betw
 
 **असत् (*asat*)** does not need long-term memory to return. Ego can create new methods of control and containment whenever circumstances permit. A pyramid may preserve its own methods, but it benefits when everyone else forgets how those methods were exposed and defeated. **सत् (*sat*)** needs distributed memory in human society. Each generation needs to know that असत् (*asat*) can be defeated and has been defeated repeatedly. The Vedas preserve that civilizational memory in Sanskrit, and Sanskrit's invariance keeps it intelligible across thousands of years.
 
-That need for memory reaches into Sanskrit's engineering. A Vedic mantra cannot now be rearranged: its words remain in their received order. Yet the Vedas make extensive use of Sanskrit's free word order. Because the endings preserve the grammatical relations, the words can occupy positions that support meter, resonance, emphasis, and memory. Pitch, recitation, and exact transmission then keep the entire form intact. Chapters 12 and 16 develop this architecture.
+That need for memory reaches into Sanskrit's engineering. A Vedic mantra cannot now be rearranged: its words remain in the order of the mantra. Yet the Vedas make extensive use of Sanskrit's free word order. Because the endings preserve the grammatical relations, the words can occupy positions that support meter, resonance, emphasis, and memory. Pitch, recitation, and exact transmission then keep the entire form intact. Chapters 12 and 16 develop this architecture.
 
 The protagonists act to restore circulation. The Vedas call the path of continuing well-being **स्वस्ति (*svasti*)**.
 
@@ -289,7 +289,7 @@ The feat goes beyond engineering Sanskrit's sounds and grammar. The greater feat
 
 The **गुरु-शिष्य (*guru-śiṣya*)** chain provides one example. A *guru* transmits to a शिष्य (*śiṣya*); the शिष्य (*śiṣya*) becomes the *guru* of the next student; and the chain extends across thousands of years. The student hears, repeats, receives correction, repeats again, and takes the corrected form forward. The complete architecture extends beyond this relationship, but the teacher-student chain shows how repeated training can keep memory exact across generations.
 
-The Sanskrit continuum has transmitted the Vedas continuously. Nambūdiri Brahmins in Kerala recite the *Ṛgveda* today after learning it from teachers who received it through the same lineage. Recitation lineages in Maharashtra, Tamil Nadu, Banaras, Karnataka, Kashmir, Gujarat, and Rajasthan preserve comparable forms through their own teachers. Because these lineages remained geographically separated, they provide several independent points of comparison. No single lineage owns the standard; reciters can compare the preserved form across lineages and identify both shared features and variation specific to each शाखा (*śākhā*).
+The Sanskrit continuum has transmitted the Vedas continuously. Nambūdiri Brahmins in Kerala recite the *Ṛgveda* today after learning it from teachers trained within the same lineage. Recitation lineages in Maharashtra, Tamil Nadu, Banaras, Karnataka, Kashmir, Gujarat, and Rajasthan preserve comparable forms through their own teachers. Because these lineages remained geographically separated, they provide several independent points of comparison. No single lineage owns the standard; reciters can compare the preserved form across lineages and identify both shared features and variation specific to each शाखा (*śākhā*).
 
 Performance, correction, and continuity preserve Sanskrit beyond the library. The detailed mapping appears in Chapter 15 as the *aural architecture* — the concrete procedures of the calibration matrix that keeps Sanskrit's phonetic constants stable across the depth of time.
 

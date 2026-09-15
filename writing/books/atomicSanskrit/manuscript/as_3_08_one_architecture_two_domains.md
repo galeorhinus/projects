@@ -4,7 +4,7 @@
 
 ## 8.1 How to Read the Evidence
 
-Chapter 16 explains why Sanskrit uses one architecture in two domains. The वैदिक (*vaidika*) domain preserves received passages exactly, while the लौकिक (*laukika*) domain allows speakers to create new expressions through the same architecture. This appendix presents the sounds, endings, placements, pitches, and verbal forms behind that distinction.
+Chapter 16 explains why Sanskrit uses one architecture in two domains. The वैदिक (*vaidika*) domain preserves Vedic passages exactly, while the लौकिक (*laukika*) domain allows speakers to create new expressions through the same architecture. This appendix presents the sounds, endings, placements, pitches, and verbal forms behind that distinction.
 
 Each comparison begins with a form familiar to a student of लौकिक (*laukika*) Sanskrit and then identifies an additional resource preserved in a Vedic passage. The evidence asks what that resource contributes, what additional load it creates, what contains that load, and why the resource belongs within its stated scope.
 
@@ -54,7 +54,7 @@ The Ṛgvedic **ळ [ɭ]** belongs to a narrower scope. Its position is fixed in
 |---|---|---|---|
 | जिह्वामूलीय (*jihvāmūlīya*) | velar realization of विसर्ग (*visarga*) before **क/ख** | the stated junction generates it | **Restricted** |
 | उपध्मानीय (*upadhmānīya*) | labial realization of विसर्ग (*visarga*) before **प/फ** | the stated junction generates it | **Restricted** |
-| Ṛgvedic **ळ [ɭ]** | exact sound of received Ṛgvedic words | fixed passage, position, and recitational specification | **Lineage-Bounded** |
+| Ṛgvedic **ळ [ɭ]** | exact sound of fixed Ṛgvedic words | fixed passage, position, and recitational specification | **Lineage-Bounded** |
 
 ### स्वर (*Svara*), छन्दस् (*Chandas*), and Exact Recitation
 
@@ -128,7 +128,7 @@ Two adjacent verses in Ṛgveda 3.32 demonstrate the selection.[NOTE: vedic-akar
 
 The first पाद (*pāda*) uses two-syllable **रुद्रैः (*rudraiḥ*)**. The next verse uses three-syllable **रुद्रेभिः (*rudrebhiḥ*)**. Both lines have the eleven syllables of Triṣṭubh. Replacing **रुद्रैः** with **रुद्रेभिः** in the first would produce twelve syllables; replacing **रुद्रेभिः** with **रुद्रैः** in the second would leave ten. The Veda preserves both endings and selects the form that completes each line without changing the विभक्ति (*vibhakti*), number, or grammatical relation.
 
-The two endings perform the same grammatical work but supply different syllable counts. The received lines and their meter keep the choice exact. Laukika Sanskrit uses **-aiḥ** as the reusable ending for new composition, where offering two interchangeable endings for every अकारान्त (*akārānta*) word would add duplication without the Vedic passage to govern the choice.
+The two endings perform the same grammatical work but supply different syllable counts. The Vedic lines and their meter keep the choice exact. Laukika Sanskrit uses **-aiḥ** as the reusable ending for new composition, where offering two interchangeable endings for every अकारान्त (*akārānta*) word would add duplication without the Vedic passage to govern the choice.
 
 Vedic ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)*** extend far beyond the **-ebhiḥ / -aiḥ** comparison. The 83 records below include 29 singular, 12 dual, 21 plural, 10 word-class, 7 numeral, and 4 accent-and-recitation records. They retain rare, doubtful, isolated, and unexplained forms alongside the better-understood patterns. Every record gives the Vedic range, the laukika form used for new composition, the contribution established so far, the evidence state, and the available prevalence measure. Its upper-right label provides a stable address into the source record. The codes and evidence grades follow the key in §8.2.
 
@@ -395,7 +395,7 @@ The evidence extends across pitch, duration, off-grid sonances, sound junctions,
 
 ## 8.8 Documented Stewardship Across Both Domains
 
-वैदिक (*Vaidika*) preservation and लौकिक (*laukika*) composition were two responsibilities within one Sanskrit society. The same households, teachers, and regional communities could preserve received passages while also composing and teaching beyond them.
+वैदिक (*Vaidika*) preservation and लौकिक (*laukika*) composition were two responsibilities within one Sanskrit society. The same households, teachers, and regional communities could preserve Vedic passages while also composing and teaching beyond them.
 
 The fourteenth-century Vijayanagara household associated with Sāyaṇa and Mādhava combined both responsibilities. Its scholars explained the Vedas and contributed to व्याकरणम् (*vyākaraṇam*), philosophy, medicine, poetics, music, governance, and other laukika disciplines. Sāyaṇa and Mādhava deserve praise for that range.
 

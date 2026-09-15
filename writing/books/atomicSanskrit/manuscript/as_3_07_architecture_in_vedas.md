@@ -71,7 +71,7 @@ The forms demonstrate four different results from the same atom. They also prese
 | RV 1.164.39c | **यः । तत् । न । वेद । किम् । ऋचा । करिष्यति** | relative and demonstrative pronouns, negation, question, instrumental relation, a verb of knowing, and a future verb |
 | RV 2.23.1ab | **गणानाम्, त्वा, गणपतिम्, हवामहे, कविम्, कवीनाम्, उपमश्रवस्तमम्** | accusative singular descriptions, two genitive plurals, a compound, and a first-person plural verb |
 
-These three examples use operations that a student of लौकिक (*laukika*) Sanskrit can identify directly. Their presence in invariant Vedic passages is what allows the corpus to serve as a grammatical calibrant. The received order of each Vedic line remains unchanged. Chapter 12 rearranges only the three shared पदानि (*padāni*) from RV 5.25.4a as an explicit लौकिक (*laukika*) composition exercise.
+These three examples use operations that a student of लौकिक (*laukika*) Sanskrit can identify directly. Their presence in invariant Vedic passages is what allows the corpus to serve as a grammatical calibrant. The fixed order of each Vedic line remains unchanged. Chapter 12 rearranges only the three shared पदानि (*padāni*) from RV 5.25.4a as an explicit लौकिक (*laukika*) composition exercise.
 
 ## 7.4 Four Complete Passage Analyses
 

@@ -32,7 +32,7 @@ The sentence also retains its smaller constructions. **करिष्यति 
 
 This chapter follows that construction in three steps. First, a धातुः (*dhātuḥ*) becomes several kinds of words. Second, an ending prepares each word for a particular sentence relation. Third, the completed words join as a **वाक्यम् (*vākyam*)**, a sentence.
 
-Yāska preserves this principle as **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)**: nominal words arise from verbs.[NOTE: nirukta-namany-akhyatajani] Here **नामानि (*nāmāni*)** means nominal words, not proper names. The principle describes the first step in this chapter. A semantic atom concerned with action can develop into a word for the action, the actor, the object produced, or something that must be done.
+Yāska states this principle as **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)**: nominal words arise from verbs.[NOTE: nirukta-namany-akhyatajani] Here **नामानि (*nāmāni*)** means nominal words, not proper names. The principle describes the first step in this chapter. A semantic atom concerned with action can develop into a word for the action, the actor, the object produced, or something that must be done.
 
 ![Figure 12.1 — The five scales of assembly: **वर्णाः (*varṇāḥ*)**, the sonomers; **धातुः (*dhātuḥ*)**, the semantic atom; **क्रियापद (*kriyāpada*)**, the verbal molecule; **पदम् (*padam*)**, the word marked for its role; and **वाक्यम् (*vākyam*)**, the assembled sentence.](figures/building_vakya/pipeline_scales.svg){#fig:building-vakya-pipeline-scales width=100%}
 
@@ -42,7 +42,7 @@ Yāska preserves this principle as **नामान्याख्यातज�
 
 Chapter 10 introduced **⟪कृ⟫ (*kṛ*)**, *to do, make,* or *act*, as an atom with exceptional generative reach. The same atom forms words for a deed, a doer, something that must be done, and something prepared or completed.
 
-Four Rigvedic passages preserve these forms.[NOTE: vedic-kr-derived-family]
+Four Rigvedic passages contain these forms.[NOTE: vedic-kr-derived-family]
 
 ![Figure 12.3 — Four completed Vedic forms generated from ⟪कृ⟫ (*kṛ*). The atom contributes to words for what was done, the deed, the doers, and something prepared or brought to completion.](figures/building_vakya/vedic_kr_family.svg){#fig:building-vakya-vedic-kr-family width=100%}
 
@@ -84,7 +84,7 @@ The शब्दः (*śabdaḥ*) expresses meaning. A grammatical ending turns 
 
 ## 12.4 Two Vedic Sentences
 
-The Ṛgveda preserves many kinds of sentences. Two passages can demonstrate the range without turning this chapter into a complete parsing manual.
+The Ṛgveda contains many kinds of sentences. Two passages can demonstrate the range without turning this chapter into a complete parsing manual.
 
 ### A Question About Future Action: RV 1.164.39c
 
@@ -148,7 +148,7 @@ Return to the Rigvedic line introduced in §12.3:
 
 **अग्निः (*agniḥ*)** carries the nominative singular relation and identifies the actor. **देवेषु (*deveṣu*)** carries the locative plural relation and identifies where or among whom the action occurs. **राजति (*rājati*)** is a third-person singular verb and agrees with the single actor.
 
-The received Vedic line remains exactly as transmitted. A लौकिक (*laukika*) speaker composing a new sentence with the same three पदानि (*padāni*) could write:
+The Vedic line remains exactly as transmitted. A लौकिक (*laukika*) speaker composing a new sentence with the same three पदानि (*padāni*) could write:
 
 > देवेषु अग्निः राजति ।
 >
@@ -164,11 +164,11 @@ The emphasis changes with the order. In every arrangement, the endings still tel
 
 The Vedas use free word order as part of their preservation architecture. In English, changing *Rama sees Sita* to *Sita sees Rama* reverses the actor and object because position carries part of the grammar. Sanskrit places those relations inside the completed words. A mantra can therefore place its words where ***छन्दस् (*chandas*)***, emphasis, and resonance require while their endings keep the grammatical relations clear.
 
-The Vedas use this freedom extensively. Once a ऋषि (*ṛṣi*) or ऋषिका (*ṛṣikā*) saw a mantra, its lineage received one specific arrangement and transmitted that order without changing it. The freedom shaped the arrangement preserved in the mantra. Exact transmission then kept that arrangement intact.
+The Vedas use this freedom extensively. Once a ऋषि (*ṛṣi*) or ऋषिका (*ṛṣikā*) saw a mantra, its lineage fixed one specific arrangement and transmitted that order without changing it. The freedom shaped the arrangement preserved in the mantra. Exact transmission then kept that arrangement intact.
 
 This design connects Sanskrit's grammar directly to ***संस्कृति (*saṃskṛti*)***. Chapter 0 explained why सत् (*sat*) requires long-term civilizational memory: every age must learn to recognize असत् (*asat*) when it returns in another form. The Vedas carry that memory through the actions of their protagonists and antagonists. Sanskrit's free word order helps place those lessons into meter and resonant sound without sacrificing grammatical clarity. The resulting mantras can be remembered, recited, heard, and corrected across generations.
 
-The लौकिक (*laukika*) domain keeps the same freedom available for new composition. A poet or speaker can arrange the words of a new composition to serve emphasis, meter, sound, or poetic form. The Vedic mantra retains its received order, while each new लौकिक (*laukika*) composition can select the order that serves its purpose.
+The लौकिक (*laukika*) domain keeps the same freedom available for new composition. A poet or speaker can arrange the words of a new composition to serve emphasis, meter, sound, or poetic form. The Vedic mantra retains its fixed order, while each new लौकिक (*laukika*) composition can select the order that serves its purpose.
 
 ## 12.6 Pāṇini Made the Sentence Analysis Explicit
 

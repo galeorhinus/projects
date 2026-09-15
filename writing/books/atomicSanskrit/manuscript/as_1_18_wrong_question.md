@@ -194,7 +194,7 @@ India's thriving economy and decentralized manufacturing base also gave newcomer
 
 A Greek account preserved by Arrian records the contrast in language that would have startled the slave societies of the Mediterranean: *"all Indians are free, and no Indian at all is a slave."* The contrast was unmistakable to a Greek observer comparing India with the social order he knew.[NOTE: migration-trap-india-absorption]
 
-India could receive a newcomer through ***क्रिया (*kriyā*)***. His actions could give him a place in society. He might learn a craft and join its guild, defend the community through military service, or become a teacher after years of study. Marriage and children could bind his family to the place that had received him. His ancestry remained part of his history without becoming a permanent prison.
+India could receive a newcomer through ***क्रिया (*kriyā*)***. His actions could give him a place in society. He might learn a craft and join its guild, defend the community through military service, or become a teacher after years of study. Marriage and children could bind his family to the community that had welcomed him. His ancestry remained part of his history without becoming a permanent prison.
 
 The Heliodorus pillar records that absorptive capacity in stone. Heliodorus came from Taxila as a Yavana ambassador. The inscription identifies him as a ***भागवत (*bhāgavata*)*** and records his dedication of a Garuḍa pillar to Vāsudeva. His Yavana origin and his chosen commitment to Vāsudeva appear together on the same pillar. Over longer periods, incoming men of military backgrounds could enter Kṣatriya formations.[NOTE: migration-trap-india-absorption]
 
@@ -202,7 +202,7 @@ Escaping a pyramid does not make a man inferior; it may be the first evidence of
 
 #### What Their Descendants Would Preserve
 
-The conditions surrounding India explain why incoming ancestry could appear more strongly through men. War-bands and army detachments consisted largely of men, including deserters and defeated soldiers. Slave markets separated male captives from their families. Imperial campaigns carried them across borders, and political purges gave them reasons to keep moving. When those men entered India and married locally, their sons carried the incoming Y chromosomes while their children grew inside the civilization that had received their fathers.
+The conditions surrounding India explain why incoming ancestry could appear more strongly through men. War-bands and army detachments consisted largely of men, including deserters and defeated soldiers. Slave markets separated male captives from their families. Imperial campaigns carried them across borders, and political purges gave them reasons to keep moving. When those men entered India and married locally, their sons carried the incoming Y chromosomes while their children grew inside the civilization that had welcomed their fathers.
 
 How many Sakas entered India after being displaced rather than as triumphant conquerors? How many Yavana soldiers deserted campaigns, escaped captivity, or remained after their commanders disappeared? How many men from broken steppe confederacies entered Indian armies, trading communities, guilds, and Kṣatriya lineages? How much of the paternal ancestry now called *foreign* records sanctuary and absorption?
 
@@ -286,7 +286,7 @@ In Ṛgveda 10.125, वाक् (*Vāk*) speaks in her own voice. She declares 
 
 In this Atri's speculation, these mantras describe cooperation between वाक् (*Vāk*) and the seers. वाग्देवी (*Vāgdevī*) did not stand before them as inert material waiting to be possessed. She offered herself and revealed her body. The seers participated actively. In deep immersion, they formed what she revealed into mantras that human mouths could reproduce and later generations could preserve.
 
-Their humility and their ability to move beyond ego allowed them to participate without claiming possession. They understood वाक् (*Vāk*) as revealing herself and did not place their own names above what she revealed. The continuum received the Vedas as अपौरुषेय (*apauruṣeya*), without human authorship, and Mīmāṃsā later gave that authorlessness a stricter philosophical account.[NOTE: apauruseya-mimamsa-sutra-1-1-5] In this Atri's speculation, composition does not make the seers the sole authors. It is the human part of a cooperative act whose source they experienced as वाक् (*Vāk*).
+Their humility and their ability to move beyond ego allowed them to participate without claiming possession. They understood वाक् (*Vāk*) as revealing herself and did not place their own names above what she revealed. The continuum understood the Vedas as अपौरुषेय (*apauruṣeya*), without human authorship, and Mīmāṃsā later gave that authorlessness a stricter philosophical account.[NOTE: apauruseya-mimamsa-sutra-1-1-5] In this Atri's speculation, composition does not make the seers the sole authors. It is the human part of a cooperative act whose source they experienced as वाक् (*Vāk*).
 
 ### Three Tasks, One Architecture
 
@@ -310,11 +310,11 @@ Entropy was the first. Speakers could alter a sound, shorten an ending, or chang
 
 Deliberate attack was the second. Forces aligned with असत् (*asat*) had reason to destroy the memory, seize its custody, or hide the architecture that kept it available. A distributed calibrant denies an apex the power to decide what everyone else may know.
 
-The two domains answered both threats. The वैदिक (*vaidika*) domain kept the received mantras invariant. Their sounds, words, pitch, meter, and sequence could not be rewritten to suit a later age. The लौकिक (*laukika*) domain remained open to new composition. Every generation could use the same architecture for poetry, mathematics, astronomy, philosophy, trade, and changing human circumstances.
+The two domains answered both threats. The वैदिक (*vaidika*) domain kept the transmitted mantras invariant. Their sounds, words, pitch, meter, and sequence could not be rewritten to suit a later age. The लौकिक (*laukika*) domain remained open to new composition. Every generation could use the same architecture for poetry, mathematics, astronomy, philosophy, trade, and changing human circumstances.
 
 One domain protected the calibrant. The other kept the language generative.
 
-Later caretakers strengthened the architecture when shorter memory and changing political conditions placed it under new pressure. The Hindu continuum remembers Veda-Vyāsa arranging the one Veda into four functional streams for an age of shorter memory.[NOTE: veda-vyasa-division] The eleven पाठाः (*pāṭhāḥ*) carried the same received words through three primary and eight modified recitations that checked one another.[NOTE: eleven-pathas] Generations of analysts decoded the language's sounds, words, and grammar. Pāṇini inherited that work and gave the लौकिक (*laukika*) domain its finest grammatical articulation.
+Later caretakers strengthened the architecture when shorter memory and changing political conditions placed it under new pressure. The Hindu continuum remembers Veda-Vyāsa arranging the one Veda into four functional streams for an age of shorter memory.[NOTE: veda-vyasa-division] The eleven पाठाः (*pāṭhāḥ*) carried the same words through three primary and eight modified recitations that checked one another.[NOTE: eleven-pathas] Generations of analysts decoded the language's sounds, words, and grammar. Pāṇini inherited that work and gave the लौकिक (*laukika*) domain its finest grammatical articulation.
 
 ### The Architecture Identifies Its Home
 

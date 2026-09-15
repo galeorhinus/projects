@@ -8,7 +8,7 @@ The Deccan College project has assembled an immense and valuable record. Its imp
 
 The Church, Company, and Crown lost their combined political form after independence, but the universities, research institutions, academic chairs, journals, and systems of prestige built under their rule remained. The Indian state inherited those institutions and continued funding projects that used the same philological categories. The *church of progress* preserved the old claim to universal knowledge by replacing theology with certified scholarship.
 
-Academic institutions trained generations of **certified intellectuals** within India and determined which accounts of Sanskrit received prestige and circulation. Their Indian identity gave the colonial categories new public authority. The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* became the leading Indian continuation of that project.
+Academic institutions trained generations of **certified intellectuals** within India and determined which accounts of Sanskrit gained prestige and circulation. Their Indian identity gave the colonial categories new public authority. The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* became the leading Indian continuation of that project.
 
 ## 2.1 The Institutional Network
 

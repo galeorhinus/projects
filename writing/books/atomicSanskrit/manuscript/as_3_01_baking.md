@@ -22,7 +22,7 @@ The Anglo-Indian War of 1857 checked the overt conversion program. British polit
 
 The Sanskrit-knowledge enterprise depended on identifiable institutions. The **Asiatic Society of Bengal**, founded in Calcutta in 1784 under Sir William Jones, gave European Sanskrit study its institutional base. Jones's anniversary address of 1786 announced Sanskrit's structural depth to Europe in print.[NOTE: jones-1786-anniversary-address]
 
-The **Boden Chair of Sanskrit** at the University of Oxford carried an explicit conversion mandate. Lieutenant Colonel Joseph Boden of the Bombay Native Infantry left the funds for the chair and directed that it assist the Christian conversion of Indians through Sanskrit knowledge.[NOTE: boden-chair-1832-evangelical-purpose] Horace Hayman Wilson occupied the chair from 1832 to 1860, followed by Monier Williams from 1860 to 1899. Scholars working under a professorship endowed for conversion produced a substantial part of English-language Sanskrit lexicography. The institution's own records preserve that purpose.
+The **Boden Chair of Sanskrit** at the University of Oxford carried an explicit conversion mandate. Lieutenant Colonel Joseph Boden of the Bombay Native Infantry left the funds for the chair and directed that it assist the Christian conversion of Indians through Sanskrit knowledge.[NOTE: boden-chair-1832-evangelical-purpose] Horace Hayman Wilson occupied the chair from 1832 to 1860, followed by Monier Williams from 1860 to 1899. Scholars working under a professorship endowed for conversion produced a substantial part of English-language Sanskrit lexicography. The institution's own records attest that purpose.
 
 **Deccan College, Pune**, anchors the Indian side of this network. It began in 1821 as a Sanskrit पाठशाला (*pāṭhaśālā*), also called the *Hindoo College*, under Mountstuart Elphinstone, Governor of the Bombay Presidency. Its funding came from the दक्षिणा (*dakṣiṇā*) endowment that Peshwa Bajirao II had used to support Sanskrit पण्डिताः (*paṇḍitāḥ*) in Pune. It became *Poona College* in 1851. The name *Deccan College* accompanied the move that began in 1864, and the new campus opened in 1868. It reopened as the *Deccan College Post-Graduate and Research Institute* in 1939.[NOTE: deccan-college-founding-arc]
 
@@ -38,7 +38,7 @@ Deccan College preserved Pune's Sanskrit learning, but it also fed that knowledg
 
 ## 1.3 The Honors and the Choice They Rewarded
 
-European Indologists learned Sanskrit from Indian पण्डिताः (*paṇḍitāḥ*). Long before Europe created a Sanskrit chair or scholarly society, Indian scholars had preserved the Vedas and developed the disciplines required to understand the language. They taught its grammar, explained its words, transmitted its recitation, and produced its great dictionaries. European philology received that knowledge and used it to construct an imaginary ancestor above Sanskrit.
+European Indologists learned Sanskrit from Indian पण्डिताः (*paṇḍitāḥ*). Long before Europe created a Sanskrit chair or scholarly society, Indian scholars had preserved the Vedas and developed the disciplines required to understand the language. They taught its grammar, explained its words, transmitted its recitation, and produced its great dictionaries. European philology absorbed that knowledge and used it to construct an imaginary ancestor above Sanskrit.
 
 Schleicher gave the imagined parent a family tree, a grammar, and a complete fable. Reconstructed forms and sound laws then gave PIE the appearance of a recorded language. Indian scholars who accepted this account gave it something European philologists could never create for themselves: the approval of Sanskrit scholarship within India.
 
@@ -75,7 +75,7 @@ Schleicher's fable contains 44 distinct written forms. Thirty are recorded Sansk
 | *dadarka* | **ददर्श (*dadarśa*)** | saw | The same reduplicated-perfect architecture; **k** replaces **ś**. |
 | *vāgham* / *vaghantam* | **वाहम् / वहन्तम् (*vāham / vahantam*)** | vehicle / pulling | The noun and its participle remain on ⟪वह्⟫ (*vah*); **g** replaces **h**. |
 | *bhāram* / *bharantam* | **भारम् / भरन्तम् (*bhāram / bharantam*)** | load / carrying | Both Sanskrit forms remain unchanged. |
-| *krudhi* | **श्रुधि (*śrudhi*)** | hear! | The Ṛgveda preserves this imperative of ⟪श्रु⟫ (*śru*); **k** replaces **ś**. |
+| *krudhi* | **श्रुधि (*śrudhi*)** | hear! | The Ṛgveda uses this imperative of ⟪श्रु⟫ (*śru*); **k** replaces **ś**. |
 | *karnauti* | **कृणोति (*kṛṇoti*)** | makes | The Ṛgveda uses **कृणोति** for "does/makes"; Schleicher changes the vowel. |
 | *gharmam* | **घर्मम् (*gharmam*)** | warm; heat | The Sanskrit form remains unchanged. |
 | *vastram* | **वस्त्रम् (*vastram*)** | garment | The Sanskrit form remains unchanged. |
@@ -250,7 +250,7 @@ The three forms are close enough in sound and direction to justify comparison. S
 
 Sanskrit records the complete reusable structure: the operator, the atoms it redirects, the meaning generated by each combination, and the grammar that places the completed molecule inside a sentence. Greek uses **ἀπό** as a mobile preverb and a preposition, while Latin uses ***ab*** independently and inside compounds. Comparative research on ancient languages also records multiple preverbs in Vedic Sanskrit and Homeric Greek, although the inventories, ordering constraints, and degrees of attachment differ.[NOTE: upasarga-radiance-apa]
 
-The pyramid explains the three recorded forms by placing **\*h₂epo** before them. The **Sanskrit Radiance Mapping Project** tests the opposite direction. It begins with Sanskrit **अप** inside the complete operator-and-atom architecture, follows the operator into receiving languages, and records how each language redistributes and changes what it received.
+The pyramid explains the three recorded forms by placing **\*h₂epo** before them. The **Sanskrit Radiance Mapping Project** tests the opposite direction. It begins with Sanskrit **अप** inside the complete operator-and-atom architecture, follows the operator into receiving languages, and records how each language redistributes and changes the incoming form.
 
 ### What the Two Sanskrit Domains Contribute
 
@@ -279,7 +279,7 @@ The complete Sanskrit inventory broadens that test:
 
 For each operator, the comparison begins with its use alongside several Sanskrit atoms across the Vedic and लौकिक (*laukika*) domains. It then follows related forms through Greek, Latin, Iranian, Germanic, and other languages, recording their grammatical roles and their changes in sound or meaning. Combinations of several operators provide another test because their order must remain meaningful, and every proposed route of transmission must fit the historical record.
 
-The धातु (*dhātu*) cases examine whether receiving languages grew word families from Sanskrit atoms. The उपसर्ग (*upasarga*) cases examine whether those languages also received reusable directions that could alter many atoms. Together, the two comparisons must explain what traveled and how each receiving language used it.
+The धातु (*dhātu*) cases examine whether receiving languages grew word families from Sanskrit atoms. The उपसर्ग (*upasarga*) cases examine whether those languages also adopted reusable directions that could alter many atoms. Together, the two comparisons must explain what traveled and how each receiving language used it.
 
 ## 1.7 How the Philological Categories Survived Independence
 

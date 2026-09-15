@@ -18,7 +18,7 @@ Then one day it struck me: I had been *hearing* the answer all my life. Sanskrit
 
 The pyramid had attacked more than the polity. It had tried to break the memory through which later generations could recognize the order our ancestors had defended. Sanskrit showed me that this civilizational memory had not disappeared.
 
-I realized how fortunate I was to have been born to parents who were caretakers of that civilizational inheritance. Through them, I had received ideas that our ancestors had fought to preserve for all humanity.
+I realized how fortunate I was to have been born to parents who were caretakers of that civilizational inheritance. Through them, I inherited ideas that our ancestors had fought to preserve for all humanity.
 
 Sanskrit revealed a civilizational order built through calibration rather than dogma or commands from an apex. Its own invariance came through calibration as well, not through Pāṇini's supposed codification of the language.
 
@@ -63,7 +63,7 @@ My mother's correction was my first lesson in Sanskrit's sound architecture. One
 
 Decades later, I returned to that childhood lesson with a larger question. Had Sanskrit preserved the same calibrant architecture at the scale of language?
 
-The sounds of the Vedas form part of the foundation of Hindu life. Hindu society has transmitted them through many lineages, keeping their sounds audible across society. No ruler, court, or centralized power, domestic or foreign, owns the standard. The received Vedic form remains available to each generation, allowing speakers to hear it and align their Sanskrit with it. This book calls such an architecture a **calibrant order**.
+The sounds of the Vedas form part of the foundation of Hindu life. Hindu society has transmitted them through many lineages, keeping their sounds audible across society. No ruler, court, or centralized power, domestic or foreign, owns the standard. The Vedic form remains available to each generation, allowing speakers to hear it and align their Sanskrit with it. This book calls such an architecture a **calibrant order**.
 
 A calibrant differs from an authority.
 

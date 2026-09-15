@@ -60,7 +60,7 @@ The examples differ by language, but the shared habit is clear. Repetition can i
 
 Sanskrit includes these distinctive regional sounds and gives each one a place within its architecture.
 
-The Ṛgveda preserves word-level repetition directly: दिवे-दिवे (*dive-dive*) — day by day; गृहे-गृहे (*gṛhe-gṛhe*) — house after house, in every house; वने-वने (*vane-vane*) — forest after forest, in every forest. Korku gives the same living habit in forms such as *DoDo-DoDo* — seeing-seeing. Sanskrit uses this word-level repetition for compact distributive force; Pāṇini later documents it as **आम्रेडित (*āmreḍita*)**.
+The Ṛgveda uses word-level repetition directly: दिवे-दिवे (*dive-dive*) — day by day; गृहे-गृहे (*gṛhe-gṛhe*) — house after house, in every house; वने-वने (*vane-vane*) — forest after forest, in every forest. Korku gives the same living habit in forms such as *DoDo-DoDo* — seeing-seeing. Sanskrit uses this word-level repetition for compact distributive force; Pāṇini later documents it as **आम्रेडित (*āmreḍita*)**.
 
 Repetition is efficient because it compresses information. English needs an added descriptor — “in forests everywhere” — to do what वने-वने (*vane-vane*) does by repeating the unit itself. The repeated word conveys plurality, distribution, continuity, and emphasis without importing another explanatory word. That sūtra-like compression makes reduplication a natural candidate for Sanskrit’s architecture.
 
@@ -162,7 +162,7 @@ The pyramid places Maṇḍalas 2–7 in its *earliest* layer of the *Ṛgveda*.
 
 The first route concedes that Sanskrit was engineered in India. The second contradicts the preserved corpus.
 
-The Vedic preservation architecture keeps every mantra's sounds, pitch, words, and arrangement exactly as received. The *Vedas* are **अपौरुषेय (*apauruṣeya*)** — without human authorship.[NOTE: apauruseya-mimamsa-sutra-1-1-5] They are **श्रुति (*śruti*)** — heard. We do not know when the mantras were first seen. From that unknown beginning, the eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, and the **गुरु-शिष्य-परम्परा (*guru-śiṣya-paramparā*)** — the teacher-student lineage-chain — have kept recurrence exact.
+The Vedic preservation architecture keeps every mantra's sounds, pitch, words, and arrangement exactly as transmitted. The *Vedas* are **अपौरुषेय (*apauruṣeya*)** — without human authorship.[NOTE: apauruseya-mimamsa-sutra-1-1-5] They are **श्रुति (*śruti*)** — heard. We do not know when the mantras were first seen. From that unknown beginning, the eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, and the **गुरु-शिष्य-परम्परा (*guru-śiṣya-paramparā*)** — the teacher-student lineage-chain — have kept recurrence exact.
 
 The same principle applies inside the corpus. Different Vedas and different textual forms have different styles because they serve different functions. Hymn, chant, formulae, prose explanation, branch arrangement, and recensional discipline need distinct modes of operation. These differences explain how each form serves its purpose.
 

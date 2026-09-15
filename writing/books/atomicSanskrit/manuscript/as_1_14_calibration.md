@@ -128,7 +128,7 @@ The layers overlap because they check different features of the same language. A
 
 Figure 14.3 shows three ways to fill three मात्राः (*mātrāḥ*), five ways to fill four, and eight ways to fill five. Every pattern begins with either a one-*mātrā* लघु (*laghu*) or a two-*mātrā* गुरु (*guru*). The remaining duration can therefore be filled in the number of ways already counted for one of the two shorter measures. The counts become 1, 2, 3, 5, 8, 13: the sequence the modern world calls Fibonacci.[NOTE: chandas-laghu-guru-virahanka-sequence]
 
-The same constraint assists preservation. The received words must fit their metrical pattern. A change in vowel duration, an omitted syllable, or an added syllable can break that fit and alert the reciter or listener. छन्दस् (*Chandas*) therefore gives the poet a known set of possibilities and gives Auditure another way to detect deviation.
+The same constraint assists preservation. The words of the mantra must fit their metrical pattern. A change in vowel duration, an omitted syllable, or an added syllable can break that fit and alert the reciter or listener. छन्दस् (*Chandas*) therefore gives the poet a known set of possibilities and gives Auditure another way to detect deviation.
 
 ## 14.5 The Whole Language Follows the सूत्र (*Sūtra*) Discipline
 
@@ -147,7 +147,7 @@ The whole language follows the *sūtra*-discipline.
 
 ### One Architecture, Two Domains
 
-The calibration matrix serves two responsibilities. In the वैदिक (*vaidika*) domain, it preserves each received passage exactly. This includes its wording, sequence, meter, meaning-bearing pitch, duration, and contextual sounds. Because every form occupies a known place in an invariant passage, this domain can preserve features restricted to a particular passage or lineage.
+The calibration matrix serves two responsibilities. In the वैदिक (*vaidika*) domain, it preserves each Vedic passage exactly. This includes its wording, sequence, meter, meaning-bearing pitch, duration, and contextual sounds. Because every form occupies a known place in an invariant passage, this domain can preserve features restricted to a particular passage or lineage.
 
 The लौकिक (*laukika*) domain uses the same architecture for new composition. A new word or sentence cannot depend on a known passage to make its structure clear. Its sounds and grammatical relations must remain recoverable in combinations that no earlier speaker composed. This division of responsibility is ***वैचित्र्य (*vaicitrya*)***, engineered range: Sanskrit retains additional range where that range performs a defined purpose.
 

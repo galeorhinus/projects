@@ -92,7 +92,7 @@ Sanskrit sits at the wrong end of the progress story. Its internal architecture 
 
 The pyramid's insecurity was deeper than language; it was civilizational. Nineteenth-century Europe was recasting itself as the heir to the *"Greek miracle,"* and preserving that origin-story required Homer to remain original. By dating Pāṇini to roughly 500 BCE, filing the *Rāmāyaṇa* under *"Classical Sanskrit,"* and placing the Vālmīki *Rāmāyaṇa* around 400 BCE, the machinery placed India's grammar and its epic after Homer.
 
-Elements such as Rāma lifting the great bow, Sītā's abduction, a war across the sea to recover her, and warriors identified from the walls of a besieged city made their way into the Homeric epics. We do not know whether Homer had read the *Rāmāyaṇa* or received Rāma's stories through other tellers, but those stories had already been legendary for thousands of years before him.
+Elements such as Rāma lifting the great bow, Sītā's abduction, a war across the sea to recover her, and warriors identified from the walls of a besieged city made their way into the Homeric epics. We do not know whether Homer had read the *Rāmāyaṇa* or heard Rāma's stories through other tellers, but those stories had already been legendary for thousands of years before him.
 
 The pyramid's chronology reversed that borrowing. It presented these *Rāmāyaṇa* patterns as Homeric originals and recast Vālmīki as the borrower.[NOTE: ramayana-homer-chronology-capture]
 

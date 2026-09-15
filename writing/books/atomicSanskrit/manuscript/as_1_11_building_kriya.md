@@ -10,7 +10,7 @@ For example, **⟪इ⟫ (*i*)** is a धातुः (*dhātuḥ*) meaning *to 
 
 Sanskrit builds this information into the completed verb as part of the engineering that permits free word order. The verb identifies whether the action belongs to the speaker, the person addressed, or someone being described. It also identifies how many perform the action. Other words receive endings that identify their roles in the sentence. The sentence therefore carries its grammatical relations inside the completed words instead of assigning them through a fixed sequence.
 
-The Vedas use this freedom extensively. Because endings identify each word's role, a mantra can place its words where they serve meter, resonance, emphasis, and memory. Once a ऋषि (*ṛṣi*) or ऋषिका (*ṛṣikā*) saw the mantra, later generations transmitted its words in the received order without changing them. Chapter 12 demonstrates this freedom at the scale of a complete sentence.
+The Vedas use this freedom extensively. Because endings identify each word's role, a mantra can place its words where they serve meter, resonance, emphasis, and memory. Once a ऋषि (*ṛṣi*) or ऋषिका (*ṛṣikā*) saw the mantra, later generations transmitted its words in that fixed order. Chapter 12 demonstrates this freedom at the scale of a complete sentence.
 
 Sanskrit forms a completed verb by preparing the atom and adding a verbal ending. That preparation may leave the atom almost unchanged. It may change a vowel, insert another sound, repeat part of the atom, or add material at a restricted position. The ending then tells the listener who performs the action and how many perform it. Other formations add time, command, possibility, desire, and further distinctions.
 
@@ -22,7 +22,7 @@ The Vedas preserve completed verbs built through these procedures. We can theref
 
 The first five examples come from the Ṛgveda. Each one shows a different way in which Sanskrit prepares a धातुः (*dhātuḥ*) and completes it as a **क्रियापदम् (*kriyāpadam*)**, a verb ready for sentence use.[NOTE: rigvedic-kriya-examples]
 
-Each procedure remains available in लौकिक (*laukika*) Sanskrit. A received Vedic passage therefore gives later speakers and students an invariant example against which they can check both formation and pronunciation.
+Each procedure remains available in लौकिक (*laukika*) Sanskrit. A Vedic passage transmitted intact therefore gives later speakers and students an invariant example against which they can check both formation and pronunciation.
 
 This chapter calls that preparation **activation**. The atom already contains meaning. Activation changes or extends the atom in the specific way required before a verbal ending can join it. The completed verb can then express an action inside a sentence.
 
@@ -130,7 +130,7 @@ All six verbs come from the same atom, ⟪इ⟫, *to go*. Each form combines th
 
 Encoding person and number inside the verb reduces the sentence's dependence on a fixed word sequence. The verb already identifies the actor and number, so it does not need a fixed position or a separate pronoun merely to carry those facts. Chapter 12 will add the role-endings carried by the other words and show how the complete system permits free word order.
 
-The six forms above show how Sanskrit engineers person and number into verbs built from one atom. The Ṛgveda preserves the same person-and-number distinctions across many atoms and also preserves separate forms for exactly two actors. Appendix Part 7 §7.2 records all nine combinations and gives a Vedic passage for every form in its concordance.
+The six forms above show how Sanskrit engineers person and number into verbs built from one atom. The Ṛgveda uses the same person-and-number distinctions across many atoms, including separate forms for exactly two actors. Appendix Part 7 §7.2 records all nine combinations and gives a Vedic passage for every form in its concordance.
 
 The verbs also place actions in different times and modes.
 
@@ -138,7 +138,7 @@ The verbs also place actions in different times and modes.
 
 The lower panel establishes that the Vedas preserve the same present, past, future, command, and possibility forms available to the लौकिक (*laukika*) domain. Chapter 16 examines the additional forms restricted to the वैदिक (*vaidika*) domain.
 
-The same corpus also preserves participles, infinitives, and gerundives. It preserves questions, negations, commands, and compounds. Chapter 12 follows these forms and the Vedic nominal relations into complete sentences. Appendix Part 7 §7.2 records the wider grammatical inventory and the exact passages behind Figure 11.4.[NOTE: rigvedic-kriya-breadth]
+The same corpus also contains participles, infinitives, and gerundives, along with questions, negations, commands, and compounds. Chapter 12 follows these forms and the Vedic nominal relations into complete sentences. Appendix Part 7 §7.2 records the wider grammatical inventory and the exact passages behind Figure 11.4.[NOTE: rigvedic-kriya-breadth]
 
 ## 11.4 The Grammar Is Evident in the Vedas
 
