@@ -132,9 +132,25 @@ The recited form **एमसि (*emasi*)** resolves into **आ + इमसि (
 
 The additional syllable therefore performs a clear job in this passage. It completes the meter while preserving the same person and number. It also gives the reciter two ways to detect a change: shortening the ending would alter both the verbal form and the eight-syllable line.
 
-The Veda can also select between two endings that it already preserves. Adjacent verses in Ṛgveda 3.32 use **रुद्रैः (*rudraiḥ*)** in one eleven-syllable line and **रुद्रेभिः (*rudrebhiḥ*)** in another. Both forms express the तृतीया बहुवचनम् (*tṛtīyā bahuvacanam*), the instrumental plural, of **रुद्र (*rudra*)**. The first has two syllables and the second has three. Exchanging them would give one line twelve syllables and the other ten.[NOTE: vedic-akaranta-instrumental-plural-range]
+For words ending in अ (*a*), the वैदिक (*vaidika*) domain can form the instrumental plural in two ways. Two adjacent पादाः (*pādāḥ*) in Ṛgveda 3.32 use one ending each. **रुद्रैः (*rudraiḥ*)** and **रुद्रेभिः (*rudrebhiḥ*)** both mean “with the Rudras” and perform the same grammatical function. The first has two अक्षराणि (*akṣarāṇi*); the second has three.
 
-The Veda preserves both endings in adjacent verses and uses each to complete its metrical line. Within this passage, both remain available at the same time; one is not an old form being replaced by a new one. Each passage selects the ending that completes its line, while the लौकिक (*laukika*) domain uses **-ऐः (*-aiḥ*)** consistently when speakers create new expressions. Allowing both endings in new लौकिक (*laukika*) compositions would give every word ending in अ (*a*) two endings for the same case, number, and grammatical relation without adding meaning. The duplicate path would increase variation across unrestricted composition and give entropy another opening, while **-ऐः (*-aiḥ*)** already performs the complete grammatical function. Appendix Part 8 gives the two complete passages and places this pair inside the full inventory of Vedic declensional forms.
+The additional choices in the वैदिक (*vaidika*) domain provide flexibility in composition without changing the grammatical relation. Triṣṭubh does not merely count eleven अक्षराणि. It also expects particular positions to carry particular weights: the eighth and tenth are normally गुरु (*guru*), the ninth is लघु (*laghu*), and the eleventh may be either लघु or गुरु. A word boundary usually follows the fourth or fifth अक्षर (*akṣara*). Both lines here place that boundary after the fifth. From the sixth position onward, both follow the same pattern: लघु–लघु–गुरु–लघु–गुरु–x. These are metrical weights, not merely ह्रस्व (*hrasva*) and दीर्घ (*dīrgha*) vowel lengths.[NOTE: vedic-akaranta-instrumental-plural-range]
+
+```{=latex}
+\floatplacement{figure}{H}
+```
+
+![Figure 16.4 — What the Laukika Constraint Would Break. The वैदिक (*vaidika*) domain uses two endings to complete two eleven-अक्षर Triṣṭubh lines. Imposing the लौकिक (*laukika*) **-ऐः (*-aiḥ*)** ending on the second line removes one गुरु (*guru*) अक्षर and two मात्राः (*mātrāḥ*), leaving it with ten अक्षराणि.](figures/vaidika_laukika/rudrai_rudrebhih_matra_alignment.svg){#fig:ch16-rudrai-rudrebhih-matra-alignment width=100%}
+
+```{=latex}
+\floatplacement{figure}{tbp}
+```
+
+The lower panel applies the narrower लौकिक rule to the second line. The grammatical relation survives when **रुद्रेभिः** becomes **रुद्रैः**. The meter does not. One गुरु अक्षर disappears, the line falls from eleven अक्षराणि to ten, and its duration loses two मात्राः. Every अक्षर that follows also moves one position earlier in the Triṣṭubh line.
+
+The accented lines in the upper panel retain the transmitted pitch marks. Meter demonstrates why the endings cannot be exchanged here. Removing one timed syllable would also change the placement of everything that follows inside the recited pitch sequence.
+
+The test explains why the two domains need different permissions. Both endings keep these Vedic lines exact. New लौकिक composition can use **-ऐः** consistently because a new line can be composed around that ending. Giving every word ending in अ (*a*) both endings in unrestricted composition would add variation without adding meaning, while **-ऐः** already performs the complete grammatical function. Appendix Part 8 gives the two complete passages and places this pair inside the full inventory of Vedic declensional forms.
 
 ### Sounds Selected for a Vedic Passage
 

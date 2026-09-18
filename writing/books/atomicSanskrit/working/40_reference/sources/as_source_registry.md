@@ -291,6 +291,32 @@ do not silently omit the gap.
 - **Rights/storage:** Research-use HTML pages retained locally; source page states non-commercial research use.
 - **Notes:** Exact book URLs are the base URL followed by the two-digit book number, including the locally retained `RV01`, `RV02`, `RV03`, `RV04`, `RV05`, `RV06`, `RV07`, `RV08`, and `RV10` pages.
 
+### `vedportal-rigveda-3-32`
+
+- **Citation:** *Ṛgveda*, Śākala Saṃhitā and *padapāṭha*, 3.32.2–3, Ved Portal, Sahitya Prakashan Trust.
+- **Source type:** Digital primary-text presentation with Vedic accent marks and audio links.
+- **Canonical locator:** Ṛgveda 3.32.2–3.
+- **Digital URL:** https://xn--j2b3a4c.com/en/rigveda/3/32/2 and https://xn--j2b3a4c.com/en/rigveda/3/32/3
+- **Archived URL:** Same as the digital URLs.
+- **Accessed:** 2026-09-16.
+- **Local record:** `working/40_reference/sources/archive/web/vedportal-rigveda-3-32/`
+- **Integrity:** SHA-256: verse 2 `e8f55fd6b3036d9252add53a326a91213255fd7489dbf908d2d618879bbdb753`; verse 3 `7f17196d839f913aa3b451b170118588eed928d30ce5fd4ea82ba21d813f4d34`.
+- **Rights/storage:** Public primary-text research capture.
+- **Notes:** Used for the accented Devanagari Saṃhitā lines and corresponding *padapāṭha* in Figure 16.4. The University of Texas metrically restored text supplies the independent metrical transcription.
+
+### `jamison-brereton-rigvedic-metrics`
+
+- **Citation:** Stephanie W. Jamison and Joel P. Brereton, “Metrics,” in the introduction to *The Rigveda: The Earliest Religious Poetry of India* (Oxford University Press, 2014), “Language and Poetics,” §E.
+- **Source type:** Scholarly description of Ṛgvedic metrical architecture.
+- **Canonical locator:** Introduction, “Language and Poetics,” §E “Metrics,” especially “Trimeter” and the Triṣṭubh examples.
+- **Digital URL:** https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/meta/articles/jamison_brereton/intro/07_Language_and_Poetics/E_Metrics/
+- **Archived URL:** Same as the digital URL.
+- **Accessed:** 2026-09-18.
+- **Local record:** `working/40_reference/sources/archive/web/jamison-brereton-rigvedic-metrics/index.html`.
+- **Integrity:** SHA-256 `1cd6c961546e4fa611f1ee7bdba758c1c47f47adc3b2fae517b000ef0b630750`.
+- **Rights/storage:** Copyrighted scholarly material retained locally for source verification.
+- **Notes:** Supports the eleven-akṣara Triṣṭubh line, the strong word boundary after the fourth or fifth position, the गुरु-लघु-गुरु-x cadence, and the distinction between Vedic metrical flexibility and the more fixed quantities of classical metres.
+
 ### `jamison-brereton-rigveda-2014-dcs`
 
 - **Citation:** Stephanie W. Jamison and Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India*, 3 vols. (Oxford University Press, 2014).

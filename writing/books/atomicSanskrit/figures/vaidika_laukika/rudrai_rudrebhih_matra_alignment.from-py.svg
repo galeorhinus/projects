@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5in" height="3.9in" viewBox="0 0 1200 1040" preserveAspectRatio="xMidYMid meet">
+<rect width="1200" height="1040" fill="#f7f4ed"/>
+<text x="42.0" y="47.0" font-family="STIX Two Text, Georgia, serif" font-size="40.0" font-weight="650" font-style="normal" fill="#3d2f1f" text-anchor="start" dominant-baseline="middle">What the Laukika Constraint Would Break</text>
+<text x="42.0" y="91.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="italic" fill="#6b563a" text-anchor="start" dominant-baseline="middle">numbered hexagons = akṣaras · width and shade = laghu or guru</text>
+<text x="42.0" y="127.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="650" font-style="normal" fill="#a8842c" text-anchor="start" dominant-baseline="middle">वैदिक selection · both transmitted lines complete Triṣṭubh</text>
+<line x1="546.0" y1="246" x2="546.0" y2="582" stroke="#a8842c" stroke-width="2.5" stroke-dasharray="8 7"/>
+<text x="546.0" y="676.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#a8842c" text-anchor="middle" dominant-baseline="middle">word boundary after position 5</text>
+<text x="42.0" y="170.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#6b563a" text-anchor="start" dominant-baseline="middle">Ṛgveda 3.32.2d</text>
+<text x="1158.0" y="170.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="650" font-style="normal" fill="#6b563a" text-anchor="end" dominant-baseline="middle">11 अक्षराणि · meter complete</text>
+<text x="360.0" y="218.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="35.0" font-weight="500" font-style="normal" fill="#3d2f1f" text-anchor="start" dominant-baseline="middle">स॒जोषा॑ रु॒द्रैस्तृ॒पदा वृ॑षस्व</text>
+<polygon points="84.0,270.5 124.0,270.5 136.0,299.5 124.0,328.5 84.0,328.5 72.0,299.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="104.0" y="300.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">स</text>
+<text x="104.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">1</text>
+<polygon points="136.0,241.5 228.0,241.5 240.0,270.5 228.0,299.5 136.0,299.5 124.0,270.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="182.0" y="271.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">जो</text>
+<text x="182.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">2</text>
+<polygon points="240.0,270.5 332.0,270.5 344.0,299.5 332.0,328.5 240.0,328.5 228.0,299.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="286.0" y="300.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">षा</text>
+<text x="286.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">3</text>
+<polygon points="344.0,241.5 436.0,241.5 448.0,270.5 436.0,299.5 344.0,299.5 332.0,270.5" fill="#4a3a28" stroke="#a8842c" stroke-width="4" stroke-linejoin="round"/>
+<text x="390.0" y="271.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">रु</text>
+<text x="390.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">4</text>
+<polygon points="448.0,270.5 540.0,270.5 552.0,299.5 540.0,328.5 448.0,328.5 436.0,299.5" fill="#4a3a28" stroke="#a8842c" stroke-width="4" stroke-linejoin="round"/>
+<text x="494.0" y="300.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">द्रैस्</text>
+<text x="494.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">5</text>
+<polygon points="552.0,241.5 592.0,241.5 604.0,270.5 592.0,299.5 552.0,299.5 540.0,270.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="572.0" y="271.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">तृ</text>
+<text x="572.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">6</text>
+<polygon points="604.0,270.5 644.0,270.5 656.0,299.5 644.0,328.5 604.0,328.5 592.0,299.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="624.0" y="300.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">प</text>
+<text x="624.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">7</text>
+<polygon points="656.0,241.5 748.0,241.5 760.0,270.5 748.0,299.5 656.0,299.5 644.0,270.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="702.0" y="271.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">दा</text>
+<text x="702.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">8</text>
+<polygon points="760.0,270.5 800.0,270.5 812.0,299.5 800.0,328.5 760.0,328.5 748.0,299.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="780.0" y="300.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">वृ</text>
+<text x="780.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">9</text>
+<polygon points="812.0,241.5 904.0,241.5 916.0,270.5 904.0,299.5 812.0,299.5 800.0,270.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="858.0" y="271.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">ष</text>
+<text x="858.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">10</text>
+<polygon points="916.0,270.5 1008.0,270.5 1020.0,299.5 1008.0,328.5 916.0,328.5 904.0,299.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="962.0" y="300.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">स्व</text>
+<text x="962.0" y="251.5" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="600" font-style="italic" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">x</text>
+<text x="962.0" y="337.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">11</text>
+<path d="M 338.0,358.0 L 338.0,369.0 L 546.0,369.0 L 546.0,358.0" fill="none" stroke="#a8842c" stroke-width="2.5"/>
+<text x="442.0" y="389.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#a8842c" text-anchor="middle" dominant-baseline="middle">रुद्रैः · 2 अक्षराणि</text>
+<text x="42.0" y="425.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#6b563a" text-anchor="start" dominant-baseline="middle">Ṛgveda 3.32.3d</text>
+<text x="1158.0" y="425.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="650" font-style="normal" fill="#6b563a" text-anchor="end" dominant-baseline="middle">11 अक्षराणि · meter complete</text>
+<text x="360.0" y="473.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="35.0" font-weight="500" font-style="normal" fill="#3d2f1f" text-anchor="start" dominant-baseline="middle">पिबा॑ रु॒द्रेभिः॒ सग॑णः सुशिप्र</text>
+<polygon points="84.0,525.5 124.0,525.5 136.0,554.5 124.0,583.5 84.0,583.5 72.0,554.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="104.0" y="555.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">पि</text>
+<text x="104.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">1</text>
+<polygon points="136.0,496.5 228.0,496.5 240.0,525.5 228.0,554.5 136.0,554.5 124.0,525.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="182.0" y="526.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">बा</text>
+<text x="182.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">2</text>
+<polygon points="240.0,525.5 332.0,525.5 344.0,554.5 332.0,583.5 240.0,583.5 228.0,554.5" fill="#4a3a28" stroke="#a8842c" stroke-width="4" stroke-linejoin="round"/>
+<text x="286.0" y="555.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">रु</text>
+<text x="286.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">3</text>
+<polygon points="344.0,496.5 436.0,496.5 448.0,525.5 436.0,554.5 344.0,554.5 332.0,525.5" fill="#4a3a28" stroke="#a8842c" stroke-width="4" stroke-linejoin="round"/>
+<text x="390.0" y="526.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">द्रे</text>
+<text x="390.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">4</text>
+<polygon points="448.0,525.5 540.0,525.5 552.0,554.5 540.0,583.5 448.0,583.5 436.0,554.5" fill="#4a3a28" stroke="#a8842c" stroke-width="4" stroke-linejoin="round"/>
+<text x="494.0" y="555.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">भिः</text>
+<text x="494.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">5</text>
+<polygon points="552.0,496.5 592.0,496.5 604.0,525.5 592.0,554.5 552.0,554.5 540.0,525.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="572.0" y="526.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">स</text>
+<text x="572.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">6</text>
+<polygon points="604.0,525.5 644.0,525.5 656.0,554.5 644.0,583.5 604.0,583.5 592.0,554.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="624.0" y="555.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">ग</text>
+<text x="624.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">7</text>
+<polygon points="656.0,496.5 748.0,496.5 760.0,525.5 748.0,554.5 656.0,554.5 644.0,525.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="702.0" y="526.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">णः</text>
+<text x="702.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">8</text>
+<polygon points="760.0,525.5 800.0,525.5 812.0,554.5 800.0,583.5 760.0,583.5 748.0,554.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="780.0" y="555.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">सु</text>
+<text x="780.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">9</text>
+<polygon points="812.0,496.5 904.0,496.5 916.0,525.5 904.0,554.5 812.0,554.5 800.0,525.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="858.0" y="526.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">शि</text>
+<text x="858.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">10</text>
+<polygon points="916.0,525.5 1008.0,525.5 1020.0,554.5 1008.0,583.5 916.0,583.5 904.0,554.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="962.0" y="555.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">प्र</text>
+<text x="962.0" y="506.5" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="600" font-style="italic" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">x</text>
+<text x="962.0" y="592.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">11</text>
+<path d="M 234.0,613.0 L 234.0,624.0 L 546.0,624.0 L 546.0,613.0" fill="none" stroke="#a8842c" stroke-width="2.5"/>
+<text x="390.0" y="644.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#a8842c" text-anchor="middle" dominant-baseline="middle">रुद्रेभिः · 3 अक्षराणि</text>
+<rect x="24" y="700" width="1152" height="320" rx="8" fill="#f0dfdb"/>
+<text x="42.0" y="742.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#9c493f" text-anchor="start" dominant-baseline="middle">लौकिक -ऐः imposed on 3.32.3d</text>
+<text x="1158.0" y="742.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="650" font-style="normal" fill="#9c493f" text-anchor="end" dominant-baseline="middle">10 अक्षराणि · off meter</text>
+<text x="360.0" y="790.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="35.0" font-weight="500" font-style="normal" fill="#3d2f1f" text-anchor="start" dominant-baseline="middle">पिबा रुद्रैः सगणः सुशिप्र</text>
+<polygon points="84.0,813.5 124.0,813.5 136.0,842.5 124.0,871.5 84.0,871.5 72.0,842.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="104.0" y="843.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">पि</text>
+<text x="104.0" y="909.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">1</text>
+<polygon points="136.0,842.5 228.0,842.5 240.0,871.5 228.0,900.5 136.0,900.5 124.0,871.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="182.0" y="872.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">बा</text>
+<text x="182.0" y="909.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">2</text>
+<polygon points="240.0,813.5 332.0,813.5 344.0,842.5 332.0,871.5 240.0,871.5 228.0,842.5" fill="#4a3a28" stroke="#9c493f" stroke-width="4" stroke-linejoin="round"/>
+<text x="286.0" y="843.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">रु</text>
+<text x="286.0" y="909.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">3</text>
+<polygon points="344.0,842.5 436.0,842.5 448.0,871.5 436.0,900.5 344.0,900.5 332.0,871.5" fill="#4a3a28" stroke="#9c493f" stroke-width="4" stroke-linejoin="round"/>
+<text x="390.0" y="872.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">द्रैः</text>
+<text x="390.0" y="909.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">4</text>
+<polygon points="448.0,813.5 488.0,813.5 500.0,842.5 488.0,871.5 448.0,871.5 436.0,842.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="468.0" y="843.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">स</text>
+<text x="468.0" y="909.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">5</text>
+<polygon points="500.0,842.5 540.0,842.5 552.0,871.5 540.0,900.5 500.0,900.5 488.0,871.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="520.0" y="872.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">ग</text>
+<text x="520.0" y="909.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">6</text>
+<polygon points="552.0,813.5 644.0,813.5 656.0,842.5 644.0,871.5 552.0,871.5 540.0,842.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="598.0" y="843.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">णः</text>
+<text x="598.0" y="909.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">7</text>
+<polygon points="656.0,842.5 696.0,842.5 708.0,871.5 696.0,900.5 656.0,900.5 644.0,871.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="676.0" y="872.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#3d2f1f" text-anchor="middle" dominant-baseline="middle">सु</text>
+<text x="676.0" y="909.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">8</text>
+<polygon points="708.0,813.5 800.0,813.5 812.0,842.5 800.0,871.5 708.0,871.5 696.0,842.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="754.0" y="843.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">शि</text>
+<text x="754.0" y="909.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">9</text>
+<polygon points="812.0,842.5 904.0,842.5 916.0,871.5 904.0,900.5 812.0,900.5 800.0,871.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="858.0" y="872.5" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#f4eedd" text-anchor="middle" dominant-baseline="middle">प्र</text>
+<text x="858.0" y="823.5" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="600" font-style="italic" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">x</text>
+<text x="858.0" y="909.0" font-family="STIX Two Text, Georgia, serif" font-size="32.0" font-weight="400" font-style="normal" fill="#6b563a" text-anchor="middle" dominant-baseline="middle">10</text>
+<path d="M 234.0,930.0 L 234.0,941.0 L 442.0,941.0 L 442.0,930.0" fill="none" stroke="#9c493f" stroke-width="2.5"/>
+<text x="338.0" y="961.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="600" font-style="normal" fill="#9c493f" text-anchor="middle" dominant-baseline="middle">रुद्रैः · 2 अक्षराणि</text>
+<line x1="910.0" y1="818" x2="910.0" y2="911" stroke="#9c493f" stroke-width="3" stroke-dasharray="8 7"/>
+<line x1="1014.0" y1="818" x2="1014.0" y2="911" stroke="#a8842c" stroke-width="3" stroke-dasharray="8 7"/>
+<line x1="918.0" y1="961" x2="1006.0" y2="961" stroke="#9c493f" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="962.0" y="998.0" font-family="Tiro Devanagari Sanskrit, Noto Serif Devanagari, serif" font-size="32.0" font-weight="650" font-style="normal" fill="#9c493f" text-anchor="middle" dominant-baseline="middle">missing 1 गुरु अक्षर · −2 मात्राः</text>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#9c493f"/></marker></defs>
+</svg>

@@ -213,5 +213,15 @@
       }
     ],
     "email": "arvind.kumar@gmail.com"
+  },
+  "bk": {
+    "name": "Bhavesh Kansara",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/gGGRWJBa/as-bk-rs",
+        "name": "as-bk-rs"
+      }
+    ],
+    "email": "gbkansara@gmail.com"
   }
 }
