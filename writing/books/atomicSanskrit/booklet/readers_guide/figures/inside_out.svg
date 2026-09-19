@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 270" width="720" height="270" role="img" aria-label="Inside-out construction: sound to language, memory to shared order">
+  <title>Inside-out construction: sound to language, memory to shared order</title>
+  <rect x="0" y="0" width="720" height="270" fill="white" stroke="none" />
+  <text x="85" y="33" fill="#3d2f1f" font-size="33" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">वर्ण</text>
+  <text x="85" y="64" fill="#24665e" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">Sound</text>
+  <line x1="151" y1="40" x2="198" y2="40" stroke="#a8842c" stroke-width="3" />
+  <polygon points="198,40 188.24305584942786,45.07957093095631 188.24305584942786,34.92042906904369" fill="#a8842c" />
+  <text x="265" y="33" fill="#3d2f1f" font-size="33" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">धातुः</text>
+  <text x="265" y="64" fill="#24665e" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">Atom</text>
+  <line x1="331" y1="40" x2="378" y2="40" stroke="#a8842c" stroke-width="3" />
+  <polygon points="378,40 368.2430558494279,45.07957093095631 368.2430558494279,34.92042906904369" fill="#a8842c" />
+  <text x="445" y="33" fill="#3d2f1f" font-size="33" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">पदम्</text>
+  <text x="445" y="64" fill="#24665e" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">Word</text>
+  <line x1="511" y1="40" x2="558" y2="40" stroke="#a8842c" stroke-width="3" />
+  <polygon points="558,40 548.2430558494278,45.07957093095631 548.2430558494278,34.92042906904369" fill="#a8842c" />
+  <text x="625" y="33" fill="#3d2f1f" font-size="33" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">वाक्यम्</text>
+  <text x="625" y="64" fill="#24665e" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">Sentence</text>
+  <text x="85" y="178" fill="#3d2f1f" font-size="33" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">स्मृति</text>
+  <text x="85" y="209" fill="#24665e" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">Memory</text>
+  <line x1="151" y1="185" x2="198" y2="185" stroke="#a8842c" stroke-width="3" />
+  <polygon points="198,185 188.24305584942786,190.07957093095632 188.24305584942786,179.92042906904368" fill="#a8842c" />
+  <text x="265" y="178" fill="#3d2f1f" font-size="33" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">विवेक</text>
+  <text x="265" y="209" fill="#24665e" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">Judgment</text>
+  <line x1="331" y1="185" x2="378" y2="185" stroke="#a8842c" stroke-width="3" />
+  <polygon points="378,185 368.2430558494279,190.07957093095632 368.2430558494279,179.92042906904368" fill="#a8842c" />
+  <text x="445" y="178" fill="#3d2f1f" font-size="33" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">कर्म</text>
+  <text x="445" y="209" fill="#24665e" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">Action</text>
+  <line x1="511" y1="185" x2="558" y2="185" stroke="#a8842c" stroke-width="3" />
+  <polygon points="558,185 548.2430558494278,190.07957093095632 548.2430558494278,179.92042906904368" fill="#a8842c" />
+  <text x="625" y="178" fill="#3d2f1f" font-size="33" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ऋत</text>
+  <text x="625" y="209" fill="#24665e" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">Shared order</text>
+  <line x1="10" y1="101" x2="710" y2="101" stroke="#cdbf9e" stroke-width="2" />
+  <text x="10" y="128" fill="#24665e" font-size="23" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Language carries remembered examples into life</text>
+  <text x="10" y="260" fill="#24665e" font-size="23" text-anchor="start" font-family="STIX Two Text" font-weight="normal">People understand, compare, and choose how to act</text>
+</svg>

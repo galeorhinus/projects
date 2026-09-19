@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 244" width="720" height="244" role="img" aria-label="G plus a plus m: measured consonants and vowel on the book's two rails">
+  <title>G plus a plus m: measured consonants and vowel on the book's two rails</title>
+  <rect x="0" y="0" width="720" height="244" fill="white" stroke="none" />
+  <polygon points="275.13,9.50 303.41,9.50 331.69,58.50 303.41,107.50 275.13,107.50 246.85,58.50" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-C" />
+  <text x="289.2745920242708" y="64.5" fill="#f4eedd" font-size="44" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ग्</text>
+  <text x="289.2745920242708" y="92.5" fill="#f4eedd" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">g</text>
+  <text x="289.2745920242708" y="185" fill="#3d2f1f" font-size="26" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">½</text>
+  <polygon points="331.72,58.50 388.28,58.50 416.56,107.50 388.28,156.50 331.72,156.50 303.44,107.50" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="360.0" y="113.5" fill="#3d2f1f" font-size="44" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">अ</text>
+  <text x="360.0" y="141.5" fill="#3d2f1f" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">a</text>
+  <text x="360.0" y="185" fill="#3d2f1f" font-size="26" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">1</text>
+  <polygon points="416.59,9.50 444.87,9.50 473.15,58.50 444.87,107.50 416.59,107.50 388.31,58.50" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-C" />
+  <text x="430.7254079757292" y="64.5" fill="#f4eedd" font-size="44" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">म्</text>
+  <text x="430.7254079757292" y="92.5" fill="#f4eedd" font-size="24" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">m</text>
+  <text x="430.7254079757292" y="185" fill="#3d2f1f" font-size="26" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">½</text>
+  <text x="310" y="230" fill="#24665e" font-size="27" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">मात्रा</text>
+  <text x="360" y="230" fill="#24665e" font-size="22" text-anchor="start" font-family="STIX Two Text" font-weight="normal">mātrā / duration</text>
+</svg>

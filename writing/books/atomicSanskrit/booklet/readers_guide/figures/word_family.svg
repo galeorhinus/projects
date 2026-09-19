@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 230" width="720" height="230" role="img" aria-label="Selected words in the family of the atom kṛ, to do or make">
+  <title>Selected words in the family of the atom kṛ, to do or make</title>
+  <rect x="0" y="0" width="720" height="230" fill="white" stroke="none" />
+  <text x="360" y="35" fill="#3d2f1f" font-size="39" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">कृ</text>
+  <text x="360" y="63" fill="#24665e" font-size="23" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">kṛ / to do or make</text>
+  <line x1="360" y1="74" x2="360" y2="88" stroke="#a8842c" stroke-width="2" />
+  <line x1="112" y1="88" x2="608" y2="88" stroke="#a8842c" stroke-width="2" />
+  <line x1="112" y1="88" x2="112" y2="104" stroke="#a8842c" stroke-width="2" />
+  <text x="112" y="140" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">कर्म</text>
+  <text x="112" y="170" fill="#24665e" font-size="22" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">karma</text>
+  <text x="112" y="205" fill="#3d2f1f" font-size="23" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">action / deed</text>
+  <line x1="360" y1="88" x2="360" y2="104" stroke="#a8842c" stroke-width="2" />
+  <text x="360" y="140" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">कर्तृ</text>
+  <text x="360" y="170" fill="#24665e" font-size="22" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">kartṛ</text>
+  <text x="360" y="205" fill="#3d2f1f" font-size="23" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">doer</text>
+  <line x1="608" y1="88" x2="608" y2="104" stroke="#a8842c" stroke-width="2" />
+  <text x="608" y="140" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">कार्य</text>
+  <text x="608" y="170" fill="#24665e" font-size="22" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">kārya</text>
+  <text x="608" y="205" fill="#3d2f1f" font-size="23" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">what is to be done</text>
+</svg>

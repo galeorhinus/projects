@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" role="img" aria-label="Five mouth-places; repeated effort; equal one-mātrā-shaped grid cells">
+  <title>Five mouth-places; repeated effort; equal one-mātrā-shaped grid cells</title>
+  <rect x="0" y="0" width="720" height="440" fill="white" stroke="none" />
+  <text x="6" y="36" fill="#3d2f1f" font-size="28" text-anchor="start" font-family="Tiro Devanagari Sanskrit" font-weight="normal">स्थान</text>
+  <text x="6" y="66" fill="#24665e" font-size="21" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Mouth-place</text>
+  <text x="239" y="24" fill="#3d2f1f" font-size="21" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">अल्पप्राण</text>
+  <text x="239" y="47" fill="#3d2f1f" font-size="21" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">अघोष</text>
+  <text x="239" y="70" fill="#24665e" font-size="20" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">light</text>
+  <text x="239" y="93" fill="#24665e" font-size="20" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">unvoiced</text>
+  <text x="340" y="24" fill="#3d2f1f" font-size="21" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">महाप्राण</text>
+  <text x="340" y="47" fill="#3d2f1f" font-size="21" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">अघोष</text>
+  <text x="340" y="70" fill="#24665e" font-size="20" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">heavy</text>
+  <text x="340" y="93" fill="#24665e" font-size="20" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">unvoiced</text>
+  <text x="441" y="24" fill="#3d2f1f" font-size="21" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">अल्पप्राण</text>
+  <text x="441" y="47" fill="#3d2f1f" font-size="21" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">घोष</text>
+  <text x="441" y="70" fill="#24665e" font-size="20" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">light</text>
+  <text x="441" y="93" fill="#24665e" font-size="20" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">voiced</text>
+  <text x="542" y="24" fill="#3d2f1f" font-size="21" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">महाप्राण</text>
+  <text x="542" y="47" fill="#3d2f1f" font-size="21" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">घोष</text>
+  <text x="542" y="70" fill="#24665e" font-size="20" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">heavy</text>
+  <text x="542" y="93" fill="#24665e" font-size="20" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">voiced</text>
+  <text x="643" y="24" fill="#3d2f1f" font-size="21" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">अनुनासिक</text>
+  <text x="643" y="47" fill="#3d2f1f" font-size="21" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal" />
+  <text x="643" y="70" fill="#24665e" font-size="20" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">through</text>
+  <text x="643" y="93" fill="#24665e" font-size="20" text-anchor="middle" font-family="STIX Two Text" font-weight="normal">the nose</text>
+  <text x="6" y="135" fill="#3d2f1f" font-size="27" text-anchor="start" font-family="Tiro Devanagari Sanskrit" font-weight="normal">कण्ठ्य</text>
+  <text x="6" y="159" fill="#24665e" font-size="21" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Back of mouth</text>
+  <polygon points="223.85,111.75 254.15,111.75 269.30,138.00 254.15,164.25 223.85,164.25 208.70,138.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="239" y="150" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">क</text>
+  <polygon points="324.85,111.75 355.15,111.75 370.30,138.00 355.15,164.25 324.85,164.25 309.70,138.00" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="340" y="150" fill="#f4eedd" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ख</text>
+  <polygon points="425.85,111.75 456.15,111.75 471.30,138.00 456.15,164.25 425.85,164.25 410.70,138.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="441" y="150" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ग</text>
+  <polygon points="526.85,111.75 557.15,111.75 572.30,138.00 557.15,164.25 526.85,164.25 511.70,138.00" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="542" y="150" fill="#f4eedd" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">घ</text>
+  <polygon points="627.85,111.75 658.15,111.75 673.30,138.00 658.15,164.25 627.85,164.25 612.70,138.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="643" y="150" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ङ</text>
+  <text x="6" y="194" fill="#3d2f1f" font-size="27" text-anchor="start" font-family="Tiro Devanagari Sanskrit" font-weight="normal">तालव्य</text>
+  <text x="6" y="218" fill="#24665e" font-size="21" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Palate</text>
+  <polygon points="223.85,170.75 254.15,170.75 269.30,197.00 254.15,223.25 223.85,223.25 208.70,197.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="239" y="209" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">च</text>
+  <polygon points="324.85,170.75 355.15,170.75 370.30,197.00 355.15,223.25 324.85,223.25 309.70,197.00" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="340" y="209" fill="#f4eedd" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">छ</text>
+  <polygon points="425.85,170.75 456.15,170.75 471.30,197.00 456.15,223.25 425.85,223.25 410.70,197.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="441" y="209" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ज</text>
+  <polygon points="526.85,170.75 557.15,170.75 572.30,197.00 557.15,223.25 526.85,223.25 511.70,197.00" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="542" y="209" fill="#f4eedd" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">झ</text>
+  <polygon points="627.85,170.75 658.15,170.75 673.30,197.00 658.15,223.25 627.85,223.25 612.70,197.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="643" y="209" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ञ</text>
+  <text x="6" y="253" fill="#3d2f1f" font-size="27" text-anchor="start" font-family="Tiro Devanagari Sanskrit" font-weight="normal">मूर्धन्य</text>
+  <text x="6" y="277" fill="#24665e" font-size="21" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Curled tongue</text>
+  <polygon points="223.85,229.75 254.15,229.75 269.30,256.00 254.15,282.25 223.85,282.25 208.70,256.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="239" y="268" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ट</text>
+  <polygon points="324.85,229.75 355.15,229.75 370.30,256.00 355.15,282.25 324.85,282.25 309.70,256.00" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="340" y="268" fill="#f4eedd" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ठ</text>
+  <polygon points="425.85,229.75 456.15,229.75 471.30,256.00 456.15,282.25 425.85,282.25 410.70,256.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="441" y="268" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ड</text>
+  <polygon points="526.85,229.75 557.15,229.75 572.30,256.00 557.15,282.25 526.85,282.25 511.70,256.00" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="542" y="268" fill="#f4eedd" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ढ</text>
+  <polygon points="627.85,229.75 658.15,229.75 673.30,256.00 658.15,282.25 627.85,282.25 612.70,256.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="643" y="268" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ण</text>
+  <text x="6" y="312" fill="#3d2f1f" font-size="27" text-anchor="start" font-family="Tiro Devanagari Sanskrit" font-weight="normal">दन्त्य</text>
+  <text x="6" y="336" fill="#24665e" font-size="21" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Teeth</text>
+  <polygon points="223.85,288.75 254.15,288.75 269.30,315.00 254.15,341.25 223.85,341.25 208.70,315.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="239" y="327" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">त</text>
+  <polygon points="324.85,288.75 355.15,288.75 370.30,315.00 355.15,341.25 324.85,341.25 309.70,315.00" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="340" y="327" fill="#f4eedd" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">थ</text>
+  <polygon points="425.85,288.75 456.15,288.75 471.30,315.00 456.15,341.25 425.85,341.25 410.70,315.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="441" y="327" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">द</text>
+  <polygon points="526.85,288.75 557.15,288.75 572.30,315.00 557.15,341.25 526.85,341.25 511.70,315.00" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="542" y="327" fill="#f4eedd" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ध</text>
+  <polygon points="627.85,288.75 658.15,288.75 673.30,315.00 658.15,341.25 627.85,341.25 612.70,315.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="643" y="327" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">न</text>
+  <text x="6" y="371" fill="#3d2f1f" font-size="27" text-anchor="start" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ओष्ठ्य</text>
+  <text x="6" y="395" fill="#24665e" font-size="21" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Lips</text>
+  <polygon points="223.85,347.75 254.15,347.75 269.30,374.00 254.15,400.25 223.85,400.25 208.70,374.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="239" y="386" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">प</text>
+  <polygon points="324.85,347.75 355.15,347.75 370.30,374.00 355.15,400.25 324.85,400.25 309.70,374.00" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="340" y="386" fill="#f4eedd" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">फ</text>
+  <polygon points="425.85,347.75 456.15,347.75 471.30,374.00 456.15,400.25 425.85,400.25 410.70,374.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="441" y="386" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">ब</text>
+  <polygon points="526.85,347.75 557.15,347.75 572.30,374.00 557.15,400.25 526.85,400.25 511.70,374.00" fill="#4a3a28" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="542" y="386" fill="#f4eedd" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">भ</text>
+  <polygon points="627.85,347.75 658.15,347.75 673.30,374.00 658.15,400.25 627.85,400.25 612.70,374.00" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.7" data-geometry="shared-scaffold-V1" />
+  <text x="643" y="386" fill="#3d2f1f" font-size="37" text-anchor="middle" font-family="Tiro Devanagari Sanskrit" font-weight="normal">म</text>
+  <text x="6" y="432" fill="#24665e" font-size="22" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Darker cells: the ten heavy-breath stops</text>
+</svg>

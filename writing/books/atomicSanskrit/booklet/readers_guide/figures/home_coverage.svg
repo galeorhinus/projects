@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 295" width="720" height="295" role="img" aria-label="Coverage of 23 Sanskrit base consonantal positions in Chapter 8">
+  <title>Coverage of 23 Sanskrit base consonantal positions in Chapter 8</title>
+  <rect x="0" y="0" width="720" height="295" fill="white" stroke="none" />
+  <text x="8" y="26" fill="#3d2f1f" font-size="25" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Tamil · Toda · Kurukh</text>
+  <rect x="8" y="36" width="626" height="15" fill="#f3efe6" stroke="none" />
+  <rect x="8" y="36" width="598.7826086956521" height="15" fill="#24665e" stroke="none" />
+  <text x="711" y="50" fill="#24665e" font-size="25" text-anchor="end" font-family="STIX Two Text" font-weight="bold">22/23</text>
+  <text x="8" y="93" fill="#3d2f1f" font-size="25" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Korku · Mundari · Ho</text>
+  <rect x="8" y="103" width="626" height="15" fill="#f3efe6" stroke="none" />
+  <rect x="8" y="103" width="544.3478260869565" height="15" fill="#24665e" stroke="none" />
+  <text x="711" y="117" fill="#24665e" font-size="25" text-anchor="end" font-family="STIX Two Text" font-weight="bold">20/23</text>
+  <text x="8" y="160" fill="#3d2f1f" font-size="25" text-anchor="start" font-family="STIX Two Text" font-weight="normal">English · French · Greek</text>
+  <rect x="8" y="170" width="626" height="15" fill="#f3efe6" stroke="none" />
+  <rect x="8" y="170" width="435.4782608695652" height="15" fill="#94483f" stroke="none" />
+  <text x="711" y="184" fill="#94483f" font-size="25" text-anchor="end" font-family="STIX Two Text" font-weight="bold">16/23</text>
+  <text x="8" y="227" fill="#3d2f1f" font-size="25" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Tajik · Kazakh · Kyrgyz</text>
+  <rect x="8" y="237" width="626" height="15" fill="#f3efe6" stroke="none" />
+  <rect x="8" y="237" width="408.2608695652174" height="15" fill="#94483f" stroke="none" />
+  <text x="711" y="251" fill="#94483f" font-size="25" text-anchor="end" font-family="STIX Two Text" font-weight="bold">15/23</text>
+  <text x="8" y="289" fill="#24665e" font-size="21" text-anchor="start" font-family="STIX Two Text" font-weight="normal">Combined sets; ten heavy-breath stops excluded</text>
+</svg>
