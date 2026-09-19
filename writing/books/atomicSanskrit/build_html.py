@@ -828,6 +828,40 @@ def discover_essays(src_dir: Path) -> list[dict]:
     return essays
 
 
+READERS_GUIDE_SRC = BOOK_DIR / "booklet" / "readers_guide" / "manuscript" / "readers_guide.md"
+# The booklet build paginates with <!-- page: ... --> comments. They mean
+# nothing in HTML, and an annotation anchored near one would attach to content
+# the reader cannot see.
+_BOOKLET_PAGE_MARKER_RE = re.compile(r"^<!--\s*page:[^>]*-->\s*$\n?", re.M)
+
+
+def discover_readers_guide() -> list[dict]:
+    """The Reader's Guide, read from booklet/ rather than copied into web/.
+
+    It is a third publication with its own yaml and its own A5 build, so the
+    markdown stays where that build owns it; duplicating it under web/private/
+    would give two copies to keep in step and one of them would drift. The
+    guide carries no frontmatter and opens on `# Atomic Sanskrit`, which is the
+    booklet's cover, not this page's title -- so both are supplied here.
+    """
+    if not READERS_GUIDE_SRC.exists():
+        return []
+    body = _BOOKLET_PAGE_MARKER_RE.sub("", READERS_GUIDE_SRC.read_text())
+    # The booklet is a standalone document, so its sections are `#`. On a web
+    # page the template already supplies the <h1>, and a body full of further
+    # h1s gives the page no heading hierarchy at all -- it also breaks the
+    # sitebar contents, which reads h2s. Demote every heading one level.
+    body = re.sub(r"^(#{1,5}) ", r"#\1 ", body, flags=re.M)
+    return [{
+        "src": READERS_GUIDE_SRC,
+        "slug": "readers-guide",
+        "title": "A Reader's Guide — Atomic Sanskrit",
+        "description": "An orientation to the book's argument, its structure, "
+                       "and the claims it asks you to test.",
+        "body": body,
+    }]
+
+
 def render_essay(essay: dict, out_dir: Path, shelf_link: str,
                  shelf_link_label: str, build_meta: dict[str, str],
                  gated: bool = False) -> None:
@@ -855,6 +889,15 @@ def render_essay(essay: dict, out_dir: Path, shelf_link: str,
     tmp_md.write_text(body)
 
     metadata = {
+        # Annotation is opt-in per page (html_essay.html gates the client on
+        # $if(hypothesis)$). The template's own comment says private essays
+        # should have it; only render_jacket_copy_variant ever set it, so the
+        # advance-reader essays were gated but unannotatable -- a reader could
+        # open them and had no way to comment. Gated pages sit behind the same
+        # OAuth wall as the book and their readers have reading groups; public
+        # essays stay off, since a stranger there has no group and would post
+        # into Hypothesis's world-readable one.
+        **({"hypothesis": "true"} if gated else {}),
         "pagetitle": essay["title"],
         "title": essay["title"],
         "shelf_link": shelf_link,
@@ -1180,7 +1223,7 @@ def main() -> int:
 
     entries = collect_content_entries()
     public_essays = discover_essays(ESSAYS_PUBLIC_SRC)
-    private_essays = discover_essays(ESSAYS_PRIVATE_SRC)
+    private_essays = discover_essays(ESSAYS_PRIVATE_SRC) + discover_readers_guide()
     build_meta = git_metadata()
     print(f"  build      tag={build_meta['git_tag']} sha={build_meta['git_sha']} "
           f"date={build_meta['build_date']}")
