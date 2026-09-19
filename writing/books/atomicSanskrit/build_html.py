@@ -739,6 +739,20 @@ def copy_static() -> None:
     # copy every image-extension file, preserving relative paths. The
     # extension filter keeps Python sources, CSVs, notes, and the migration
     # markdown out of the deploy.
+    # The Reader's Guide keeps its figures in its own booklet directory, not in
+    # the shared figures/ tree, so they are copied to their own served path.
+    if READERS_GUIDE_FIGURES.exists():
+        guide_dst = HTML_OUT_PRIVATE / "figures"
+        guide_dst.mkdir(parents=True, exist_ok=True)
+        n_guide = 0
+        for f in READERS_GUIDE_FIGURES.rglob("*"):
+            if f.is_file() and f.suffix.lower() in FIGURE_EXTS:
+                target = guide_dst / f.relative_to(READERS_GUIDE_FIGURES)
+                target.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(f, target)
+                n_guide += 1
+                progress("copying", f"/private/figures/{f.name}")
+
     fig_root_dst = HTML_OUT_BOOK / "figures"
     if fig_root_dst.exists():
         shutil.rmtree(fig_root_dst)
@@ -829,6 +843,7 @@ def discover_essays(src_dir: Path) -> list[dict]:
 
 
 READERS_GUIDE_SRC = BOOK_DIR / "booklet" / "readers_guide" / "manuscript" / "readers_guide.md"
+READERS_GUIDE_FIGURES = BOOK_DIR / "booklet" / "readers_guide" / "figures"
 # The booklet build paginates with <!-- page: ... --> comments. They mean
 # nothing in HTML, and an annotation anchored near one would attach to content
 # the reader cannot see.
@@ -852,6 +867,21 @@ def discover_readers_guide() -> list[dict]:
     # h1s gives the page no heading hierarchy at all -- it also breaks the
     # sitebar contents, which reads h2s. Demote every heading one level.
     body = re.sub(r"^(#{1,5}) ", r"#\1 ", body, flags=re.M)
+    # Its figures are its own, under booklet/readers_guide/figures/, and it
+    # refers to them as ../figures/x.svg -- correct relative to the booklet
+    # manuscript, and resolving to /as/private/figures/ from the rendered page
+    # only by accident of URL depth. Rewrite to a root-relative path with the
+    # same content hash the book's figures carry, so a corrected figure is a
+    # new URL rather than something a phone keeps serving from cache.
+    def _guide_figure(match: "re.Match") -> str:
+        rel = match.group("rel")
+        src = READERS_GUIDE_FIGURES / rel
+        try:
+            v = hashlib.sha256(src.read_bytes()).hexdigest()[:8]
+        except OSError:
+            return match.group(0)          # keep a broken ref findable
+        return f'{match.group(1)}/as/private/figures/{rel}?v={v}'
+    body = re.sub(r"(\]\()(?:\.\./)?figures/(?P<rel>[^)\s]+)", _guide_figure, body)
     return [{
         "src": READERS_GUIDE_SRC,
         "slug": "readers-guide",
