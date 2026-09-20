@@ -1,12 +1,12 @@
 book_metadata: ../../as_book.yaml
 publication: "A Reader's Guide"
-edition: "Revised review draft · 19 September 2026"
+edition: "Revised review draft · 20 September 2026"
 manuscript: manuscript/readers_guide.md
 exploration: manuscript/explore_book.md
 invitations: invitations.json
 body_font_size: 11
 line_spacing_pt: 14.4
-expected_pages: 42
+expected_pages: 44
 website: https://secondshanti.org/as/
 email: paragtope@secondshanti.org
 output_dir: ../../output/pdf/readers_guide

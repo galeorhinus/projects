@@ -5,7 +5,7 @@ You do not have to begin with the most technical chapter. A familiar word, a sto
 
 Each invitation names its destination in the full book. A section number such as 9.7 means section 7 of Chapter 9. Appendix references explicitly say “Appendix Part.” These numbers remain useful across different printed editions.
 
-Some invitations have already appeared beside the introductory explanation. The pages that follow give the remaining ones, so each offers somewhere further to go. Read whichever chapter interests you, then return to the earlier explanation when you want to see how its argument connects with the rest.
+The earlier pages pointed to examples related to the explanation you were reading. The following pages offer more starting points, arranged by chapter. Choose whichever interests you, and return to the first part of this guide when you want to see how that chapter connects with the book's larger argument.
 
 ## Before Chapter 0
 
@@ -20,7 +20,7 @@ The Preface recounts the personal inquiry behind the series. The Prologue introd
 
 ## Chapter 0: Familiar Words, Large Ideas
 
-The opening chapter begins with things many readers already know: an invocation, a name, a number, or a word heard at home. It follows the thought carried within them into the book's larger argument.
+The opening chapter begins with things many readers already know: an invocation, a name, a number, or a word heard at home. It explains what these familiar examples reveal about Sanskrit and why they matter to the book's argument.
 
 {{invite:C00-1}}
 
@@ -35,7 +35,7 @@ The opening chapter begins with things many readers already know: an invocation,
 
 ## Chapter 1: Hiding What Is Still There
 
-The Sun in the eclipse story remains present even when nobody can see it. Chapter 1 follows that distinction into institutions, teaching, and the categories through which people learn to regard Sanskrit.
+The Sun in the eclipse story remains present even when nobody can see it. Chapter 1 applies that metaphor to Sanskrit: institutions and teaching can hide a language's achievements by describing them through misleading categories.
 
 {{invite:C01-1}}
 
@@ -45,12 +45,12 @@ The Sun in the eclipse story remains present even when nobody can see it. Chapte
 
 {{invite:C01-4}}
 
-<!-- page: explore-two-three -->
-# Rules, Power, and Purpose
+<!-- page: explore-two -->
+# What Grammar Can Explain
 
 ## Chapter 2: What Grammar Can Explain
 
-Writing down rules does not by itself explain why a language remains stable. Arabic and Tamil allow Chapter 2 to compare different ways of maintaining a language and to ask what Sanskrit requires.
+Writing down rules does not by itself keep a language stable. Chapter 2 compares Arabic and Tamil to examine why some forms remained stable while others changed, then considers how the Vedas kept Sanskrit calibrated.
 
 {{invite:C02-1}}
 
@@ -59,6 +59,9 @@ Writing down rules does not by itself explain why a language remains stable. Ara
 {{invite:C02-3}}
 
 {{invite:C02-4}}
+
+<!-- page: explore-three -->
+# Power and Purpose
 
 ## Chapter 3: Judge the Action
 
@@ -85,7 +88,7 @@ Chapter 4 extends the institutional argument. It examines who may speak, who dec
 
 ## Chapter 5: Grammar Before the Manual
 
-Pāṇini belonged to a continuing discipline of analysis. Chapter 5 introduces the earlier thinkers, the purposes of grammar, and the relationship between a word and its meaning.
+Scholars studied Sanskrit before Pāṇini, and he referred to earlier teachers in his own analysis. Chapter 5 introduces that history and examines why the discipline of grammar mattered: what it helped people understand about words, their meanings, and their use.
 
 {{invite:C05-2}}
 
@@ -98,17 +101,19 @@ Pāṇini belonged to a continuing discipline of analysis. Chapter 5 introduces 
 
 ## Chapter 6: Change and Correction
 
-A mistake, a permitted variation, and a deliberate attack are different things. Chapter 6 examines what each does to a language and why a preservation system must distinguish them.
+A speaker may make a mistake, use an alternative that the grammar permits, or deliberately alter what others are taught. Chapter 6 distinguishes these cases so that correction does not erase a permitted choice or overlook an attempt to damage the language.
 
 {{invite:C06-1}}
 
 {{invite:C06-2}}
 
+{{invite:C06-3}}
+
 {{invite:C06-4}}
 
 ## Chapter 7: The Speaking Instrument
 
-The reader already possesses the instrument examined in Chapter 7. Breath, tongue, lips, voice, and nasal resonance make its examples something to try as well as something to read.
+Chapter 7 examines the instrument you use whenever you speak. Its examples let you hear and feel how breath, tongue, lips, voice, and the nasal cavity contribute to speech.
 
 {{invite:C07-1}}
 
@@ -116,12 +121,12 @@ The reader already possesses the instrument examined in Chapter 7. Breath, tongu
 
 {{invite:C07-4}}
 
-<!-- page: explore-eight-nine -->
-# A Home and a Sound Grid
+<!-- page: explore-eight -->
+# Sanskrit's Subcontinental Home
 
 ## Chapter 8: Sanskrit's Subcontinental Home
 
-Chapter 8 compares selected sound inventories across regions. The comparison asks where Sanskrit's basic sounds occur together, before examining the additional breath distinctions within its architecture.
+Chapter 8 compares the sounds used by selected groups of Indian and external languages. It first examines how much of Sanskrit's basic consonant grid each group covers. It then considers how the stronger breath heard in sounds such as ख (*kha*) adds another distinction to that grid.
 
 {{invite:C08-1}}
 
@@ -129,9 +134,14 @@ Chapter 8 compares selected sound inventories across regions. The comparison ask
 
 {{invite:C08-3}}
 
+{{invite:C08-4}}
+
+<!-- page: explore-nine -->
+# An Ordered Sound Grid
+
 ## Chapter 9: The Sound Grid
 
-The familiar teaching row contains more organization than its written sequence first suggests. Chapter 9 examines how Sanskrit assigns positions to sounds and why some possible positions remain unused.
+The sequence क, ख, ग, घ, ङ groups sounds by how the mouth produces them. Chapter 9 explains the arrangement of the full grid and investigates why it includes some sounds while leaving other possible positions unused.
 
 {{invite:C09-1}}
 
@@ -146,9 +156,11 @@ The familiar teaching row contains more organization than its written sequence f
 
 ## Chapter 10: The Atom and the Fractal
 
-Chapter 10 follows the construction of the धातुः (*dhātuḥ*) from measured sound. It then compares the discipline within that small form with the discipline of a सूत्र (*sūtra*) and the language as a whole.
+Chapter 10 examines the sounds within a धातुः (*dhātuḥ*), their duration, and the recurring shapes in which they combine. It then applies the same tests of clarity, economy, and dependability to the atom and the much larger सूत्र (*sūtra*). That comparison develops the book's argument about fractality.
 
 {{invite:C10-2}}
+
+{{invite:C10-5}}
 
 ## Chapter 11: From an Atom to an Action
 
@@ -165,7 +177,7 @@ A basic meaning becomes a verb through operations that change or extend its form
 
 ## Chapter 12: Words Enter a Sentence
 
-A word needs to express its relationship to the other words around it. Chapter 12 follows those relationships and the procedures through which Sanskrit creates new expression.
+The words in a sentence must make clear who acts, what happens, and how the other people or things are involved. Chapter 12 explains how Sanskrit forms words and uses endings to express these relationships, allowing speakers to create new sentences that others can understand.
 
 {{invite:C12-1}}
 
@@ -192,7 +204,7 @@ Writing records knowledge, but a record still needs someone who can interpret an
 
 ## Chapter 14: Hearing the Difference
 
-Preservation depends on people recognizing a departure from a known form. Chapter 14 brings hearing, meter, grammar, and the Vedic examples together as several ways to make that comparison.
+Someone who knows a recitation may hear that a sound is wrong, a syllable is missing, or the rhythm has changed. Chapter 14 examines how hearing, meter, and grammar give listeners different ways to recognize a departure from the Vedic example they know.
 
 {{invite:C14-1}}
 
@@ -205,7 +217,7 @@ Preservation depends on people recognizing a departure from a known form. Chapte
 
 ## Chapter 15: Memory With Several Checks
 
-The recitation disciplines carry the same passage through different arrangements. Chapter 15 examines how these arrangements check one another and how people across lineages keep the standard available.
+Reciters repeat and reorder the words of a passage in specified patterns. Chapter 15 examines how a mistake missed in one pattern can become apparent in another, and how different teaching lineages can compare their recitations against a shared standard.
 
 {{invite:C15-2}}
 
@@ -215,7 +227,7 @@ The recitation disciplines carry the same passage through different arrangements
 
 ## Chapter 16: Different Permissions, One Language
 
-The Vedic domain retains choices that are restricted in new composition. Chapter 16 shows what those choices contribute and what would break if they were removed from the passages that use them.
+Vedic passages use some forms and arrangements that are restricted when people compose new Sanskrit. Chapter 16 examines what those choices allow within the passages, including how a longer or shorter word ending can keep a line within its meter.
 
 {{invite:C16-1}}
 
@@ -228,7 +240,7 @@ The Vedic domain retains choices that are restricted in new composition. Chapter
 
 ## Chapter 17: The Subcontinental Mind
 
-Shared sounds are only part of the comparison. Chapter 17 also examines repetition, the arrangement of actions, the position of the doer, and the communities through which knowledge circulates.
+Chapter 17 compares more than sounds. It examines what repeating a word adds to its meaning, how a sentence expresses one action before another, and how speakers emphasize an action or its doer. It also considers how communities maintain linguistic knowledge without a central owner.
 
 {{invite:C17-1}}
 
@@ -236,7 +248,7 @@ Shared sounds are only part of the comparison. Chapter 17 also examines repetiti
 
 ## Chapter 18: What an Origin Account Must Explain
 
-Chapter 18 brings the earlier demonstrations together. It separates evidence about a complete language system from claims about migration, then offers the author's explicitly identified speculation about its creation.
+Chapter 18 brings together the evidence about Sanskrit's sounds, word formation, and Vedic transmission. It examines whether an account of people's migration also explains how those elements were created and maintained. The author then offers a separate, explicitly identified speculation about Sanskrit's beginnings.
 
 {{invite:C18-1}}
 
@@ -251,7 +263,7 @@ Chapter 18 brings the earlier demonstrations together. It separates evidence abo
 
 ## Chapter 19: The Reconstructed Ancestor
 
-Chapter 19 examines how PIE was constructed and how reconstructed forms came to occupy the source position in dictionary entries. It develops the book's alternative account of Sanskrit's outward radiance.
+Chapter 19 examines how scholars reconstructed PIE and how dictionaries came to present its hypothetical words as the ancestors of recorded words. It develops the book's alternative account of Sanskrit's outward radiance.
 
 {{invite:C19-1}}
 
@@ -266,7 +278,7 @@ Chapter 19 examines how PIE was constructed and how reconstructed forms came to 
 
 ## Chapter 20: Knowledge Travels
 
-Words can travel with teachers, translators, traders, and other communities. Methods can travel too. Chapter 20 follows examples in which other languages adapted Sanskritic words or ways of analyzing speech.
+Teachers, translators, traders, and other communities can introduce words to a new language. They can also teach a method, such as a way of arranging or analyzing sounds. Chapter 20 follows examples in which other languages adapted Sanskritic words and methods for their own use.
 
 {{invite:C20-1}}
 
@@ -281,9 +293,9 @@ Words can travel with teachers, translators, traders, and other communities. Met
 
 ## Epilogue: Make the World आर्य (*Ārya*)
 
-The Epilogue returns from the language to the civilization that kept it available. It asks what people must do with that inheritance: how they should treat other languages, how knowledge can remain open, and how responsibility differs from ownership.
+The Epilogue considers the responsibilities of people who have inherited Sanskrit. Keeping it available involves teaching it, allowing others to examine its knowledge, and respecting the different purposes of other languages. Caring for that inheritance does not give anyone the right to claim it as private property.
 
-The invitation extends beyond birth or ancestry. Its measure is conduct. The reader is asked to consider what changes when an enduring example guides people who remain responsible for their own choices.
+The invitation to become आर्य (*ārya*) is based on conduct rather than birth or ancestry. The Epilogue considers how an enduring example can guide people while leaving them responsible for their own choices.
 
 {{invite:E-2}}
 
@@ -291,9 +303,9 @@ The invitation extends beyond birth or ancestry. Its measure is conduct. The rea
 
 ## The Three Shantis
 
-The first volume demonstrates the language and its preservation architecture. The *Second Shanti* series carries the inquiry further, from the person toward relationships among living beings and the wider order within which they live.
+All volumes of *Second Shanti* focus on the second domain: relationships among living beings and the order they create together. The first volume examines Sanskrit and the people and practices that keep it calibrated. Later volumes will examine government, economic life, and other aspects of civilizational order within that same domain. The three shantis explain its place between the inner life of a person and the natural and cosmic forces beyond direct human control.
 
-The Preface introduces that purpose. The Epilogue brings it back to action and responsibility. Later volumes will develop the other domains; this book gives the inquiry its first sustained example.
+The Preface explains why this inquiry began with Sanskrit. The Epilogue considers what its readers can do with the knowledge they have inherited. Together they explain why the study of a language belongs within a series about civilizational order.
 
 <!-- page: explore-appendices-first -->
 # Further Investigations

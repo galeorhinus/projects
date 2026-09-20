@@ -38,11 +38,17 @@ Through the मूर्ति (*mūrti*), that inheritance stands before the se
 
 **The temple gives us a familiar example of the principle. Sanskrit allows us to examine how the same principle is engineered into a language.**
 
-I had been searching in the abstract for a form of order that Hindus were already living. That order had survived, not as one policy or institution, but as an architecture repeated through sounds, words, stories, and practices. Reconstructing that architecture became the *Second Shanti* series.
+I had been searching in the abstract for a form of order that Hindus were already living. That order had survived, not as one policy or institution, but as an architecture repeated through sounds, words, stories, and practices. The *Second Shanti* series is my attempt to reconstruct that architecture from first principles. I begin by examining how people learn a shared standard, recognize mistakes, and correct themselves and one another without giving an apex ownership of that standard.
 
 ## Why Sanskrit Comes First
 
-Vedic recitations often conclude with **ॐ शान्तिः शान्तिः शान्तिः (*oṃ śāntiḥ śāntiḥ śāntiḥ*)**. The three recitations direct peace or quietude toward three domains. The second domain encompasses how living beings interact with one another. This series asks what kind of architecture can create balance within that domain.
+Vedic recitations often conclude with **ॐ शान्तिः शान्तिः शान्तिः (*oṃ śāntiḥ śāntiḥ śāntiḥ*)**. The three recitations direct peace or quietude toward three domains.
+
+Hindu society has kept alive the knowledge through which a person can seek शान्ति (*śānti*) within himself. Yoga, meditation, and several other practices continue to thrive, giving people ways to understand their own minds and respond to anger, fear, or desire without being ruled by them. This is the first domain.
+
+The second concerns how people live with one another and other living beings. Over the last millennium, under the rule of Abrahamic pyramids, much of the knowledge through which society maintained order in this domain has been lost. Institutions were destroyed or displaced, and later generations learned to organize public life around commands from above. Yet parts of the earlier architecture remained alive in language, stories, teaching, and everyday practice.
+
+The third concerns natural and cosmic forces beyond direct human control that affect human beings and other life. All volumes of *Second Shanti* focus on the second domain.
 
 The inquiry extends beyond the theory of government. It includes language, memory, responsibility, economic life, and the relationships through which people organize life with one another and with the living world. Later volumes will follow those structures directly. This first volume begins with Sanskrit because Sanskrit and the Vedas preserve a complete architecture that can still be heard, examined, and tested.
 

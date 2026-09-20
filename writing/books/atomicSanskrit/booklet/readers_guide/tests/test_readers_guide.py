@@ -41,8 +41,8 @@ class GuideTests(unittest.TestCase):
         self.assertEqual(len(used), 101)
         self.assertEqual(set(used), set(self.invitations))
         self.assertEqual(set(used.values()), {1})
-        self.assertEqual(len(INVITATION.findall(self.source)), 19)
-        self.assertEqual(len(INVITATION.findall(self.exploration)), 82)
+        self.assertEqual(len(INVITATION.findall(self.source)), 16)
+        self.assertEqual(len(INVITATION.findall(self.exploration)), 85)
         for chapter in range(21):
             keys = [key for key in used if key.startswith(f"C{chapter:02}-")]
             self.assertEqual(len(keys), 5 if chapter == 10 else 4)
@@ -75,6 +75,7 @@ class GuideTests(unittest.TestCase):
         for page in self.pages[1:24]:
             with self.subTest(page=page["slug"]):
                 self.assertTrue(INVITATION.search(page["body"]) or
+                                page["reference"] or
                                 re.search(r"Chapter(?:s)? \d", page["body"]))
 
     def test_ten_figure_sources_exist(self):

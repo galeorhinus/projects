@@ -62,7 +62,7 @@ The guide explains the book's argument in familiar English. It is distinct from 
 - Meter: Chapter 16 and endnote `vedic-akaranta-instrumental-plural-range`, RV 3.32.2d and 3.32.3d. The two endings occupy different places in their respective eleven-syllable lines. Do not imply that merely counting eleven syllables tests all of Triṣṭubh, or claim a pitch change without a demonstrated comparison.
 - Documentation: Chapter 2 §2.2; `tolkappiyam-grammar-and-tamil-change`, `tamil-sanskrit-distributed-grammar`, `arabic-religio-political-authority`. Arabic's formal tradition is institutionally maintained; do not add a claim that its entire language is literally unchanged.
 - Panini: Chapter 5. Keep analyst, decoder, and documenter. Do not redefine the ordinary word codification as necessarily state coercion.
-- Three shantis: the three-domain inside-out arrangement is explicitly the author's series interpretation. `reference/as_second_shanti.md` still leaves the third domain's detailed development open; this booklet does not settle its polity or cosmic model. No new direct traditional quotation is introduced.
+- Three shantis: the three-domain inside-out arrangement is explicitly the author's interpretation. As clarified by the author on 20 September 2026, every volume of *Second Shanti* focuses on the second domain. The first and third domains provide context; they are not subjects assigned to later volumes. No new direct traditional quotation is introduced.
 - Fractal: repeated design discipline at several scales, not a demonstrated mathematical self-similarity or a claim that every sound carries an independently fixed meaning.
 - Sentence illustration: the two रामः / सीतां sentences are newly composed teaching examples applying the case-ending explanation in Chapter 12 §12.5; they are not quotations from a Vedic passage.
 - Indian origin, PIE, and radiance: explain the book's contested thesis as its thesis. Distinguish shared sounds, structural comparison, and proof of historical descent. Migration evidence does not by itself identify a language's designers. Do not imply the guide independently verifies the book's full historical conclusions.
@@ -134,3 +134,129 @@ This revision supersedes the first-draft PDFs at the same output paths.
 - Fourteen tests pass. PDF fonts are embedded; no missing-glyph warnings, overfull boxes, or out-of-page text. All page contact sheets and diagram exports inspected; grayscale sound-grid rendering checked with Poppler.
 - Canonical files are `manuscript/readers_guide.md`, `manuscript/explore_book.md`, and `invitations.json`. The build's `qa_report.json` records every invitation's actual page topic and the current per-page word count.
 - No main-manuscript, main-build, or website changes. No commit or push performed. Author review and a physical print proof are still required before public distribution.
+
+## Language Review: 20 September 2026
+
+The author identified an unclear shift into instructions at line 26 and requested a review of the remaining guide. Both prose files and all 101 invitations were read. The edits address voice, awkward constructions, abstract transitions, and unnecessarily technical vocabulary. They do not remove an argument, example, figure, or invitation, or change the generated totals or evidence boundaries.
+
+The default voice explains directly. Instructions remain where readers can perform an actual demonstration, such as comparing क and ख, or choose a chapter to read. Questions remain invitations into the book rather than exercises that the booklet leaves unexplained.
+
+### Selected Before and After Wording
+
+These excerpts identify the main kinds of correction; the source files contain the complete revised paragraphs.
+
+| Location | Before | After |
+|---|---|---|
+| From Sound to Order | "Begin with a sound ... Combine selected sounds ... Use that unit ..." | "Sanskrit builds larger expressions from smaller parts," followed by गम् (*gam*) and an explanation of how a learner can examine a completed word. |
+| From Sound to Order | "The next step connects language with civilization." | "Words and sentences also allow people to pass on stories about how to live." |
+| From Sound to Order | "larger forms of meaning and responsibility" | "how sounds form words, how words express ideas, and how shared ideas guide people's conduct" |
+| Two Directions of Order | "The difference concerns its place." | A king or government "serves the order and is judged by the same standard as everyone else." |
+| Begin with the Mouth | "The written form क ... also contains an important distinction." | Directly explains that क represents क् joined to अ. |
+| An Ordered Field of Sound | "The final position directs sound through the nose." | "The last sound in each row passes through the nose." |
+| Sanskrit's Subcontinental Home | "join that regional pattern to the grammar and the communities" | "examine how the sound evidence relates to Sanskrit's grammar and to the communities" |
+| A Shared Home for Knowledge | "examine a wider combination"; "Tamil helps explain the third part" | Names language analysis and teaching communities directly; Tamil explains how knowledge circulates without central control. |
+| How Sounds Form an Atom | "The process begins inside sound and continues outward into expression." | "sounds form an atom, and the atom becomes the basis for words with related meanings" |
+| Small Forms, Large Families | "add material before or after the atom" | "adds sounds or endings before or after the atom" |
+| More Than a List of Words | "Combining completed bases opens further possibilities." | "Words already formed can then combine to create further expressions." |
+| Completing an Action Word | "The verb carries information about the action and its participants." | "The verb tells us about the action and those involved in it." |
+| Words Keep Their Roles | "understanding can proceed back through those parts" | "a learner can understand the expression by examining how those parts combine" |
+| One Language, Two Domains | "different permissions for preservation and creation" | Explains that Vedic examples allow people to check their new expressions. |
+| What the Vedas Calibrate | "The reference does not play the musician's next composition." | Explains tuning an instrument against a known note and using the tuned instrument for different compositions. |
+| What the Vedas Calibrate | "complete instances of Sanskrit available in sound" | "complete spoken examples of Sanskrit" |
+| Many People Can Check | "The standard exists in many people's knowledge rather than in one person's permission to approve it." | "Because many people know the standard, they can check the recitation without waiting for one person or institution to approve it." |
+| Two Threats to Memory | "it introduces a material dependency"; "a destroyed copy cannot correct its reader" | Names records that can be damaged or withheld, and readers who can no longer consult a destroyed copy. |
+| What Pāṇini Contributed | "Sanskrit analysis had teachers and debates before him." | "Earlier teachers had also studied Sanskrit and debated its construction." |
+| What a Label Can Conceal | "The metaphor describes the argument's progression, not a substitute for its evidence." | Explains what removing a block represents and identifies the language as the evidence. |
+| The Ancestor Above Sanskrit | "No surviving speaker's recording or written account gives us PIE in use." | "No recording or written passage gives us PIE in use." The next sentence explains the patterns on which the reconstruction argument depends. |
+| Knowledge Traveling Outward | "The external comparisons retain selected resemblances without the complete connection." | "Other languages share particular features of Sanskrit without retaining that complete system," within the paragraph stating the book's argument. |
+| Knowledge Traveling Outward | "routes with records of teaching or translation" | Names teachers and translators passing knowledge from one language to another, distinguished from proposed routes inferred through comparison and contact. |
+| The Order Begins Within | "a familiar way to return from language to life" | "a familiar example of calibration beyond language" |
+| Exploration: opening | "each offers somewhere further to go" | Explains the chapter arrangement and how to return to Part I for the larger argument. |
+| Exploration: Chapter 0 | "follows the thought carried within them into the book's larger argument" | Explains what familiar examples reveal about Sanskrit and why they matter. |
+| Exploration: Chapter 1 | "follows that distinction into institutions" | Explains how institutions and teaching can hide achievements through misleading categories. |
+| Exploration: Chapter 2 | "Arabic and Tamil allow Chapter 2 to compare" | Makes the chapter the subject of the comparison and names the role of the Vedas. |
+| Exploration: Chapter 7 | "The reader already possesses the instrument examined in Chapter 7." | "Chapter 7 examines the instrument you use whenever you speak." |
+| Exploration: Chapter 19 | "occupy the source position in dictionary entries" | "dictionaries came to present its hypothetical words as the ancestors of recorded words" |
+| Exploration: Epilogue | "The invitation extends beyond birth or ancestry. Its measure is conduct." | "The invitation to become आर्य (*ārya*) is based on conduct rather than birth or ancestry." |
+| Invitation C03-2 | "reviewed thirty-five scholars on the word" | "reviewed the arguments of thirty-five scholars about" |
+| Invitation C06-1 | "puts गौः ... beside four departures from it" | "compares गौः ... with four altered forms" |
+| Invitation C08-3 | "Where do the Central Asian comparison languages lack the tongue positions ...?" | "Which sounds familiar in Indian speech are missing from the Central Asian languages in the comparison?" |
+| Invitation C17-3 | "carry an earlier action into the next" | "show that the eating happened first" |
+| Invitation C19-4 | "the language it came from stays in place" | "without the speakers of the source language moving there" |
+| Invitation A06-1 | "which prefer its end" | "which occur most often at its end" |
+
+### Layout and Verification
+
+- The first render revealed five spillovers. To retain comfortable type and complete explanations, invitations C10-5, C08-4, and C06-3 moved to their respective chapter entries. The sound-to-order page retains a short Chapters 10-12 pointer.
+- Chapters 2 and 3 now have separate exploration pages, as do Chapters 8 and 9. The guide has 44 interior pages and a 48-page complete reading copy, including the four cover faces. No figure was shrunk.
+- All 101 invitations remain, each appearing once: 16 in Part I and 85 in Part II. Destinations are unchanged.
+- The new interior count is 8,427 words, compared with 8,367: an increase of 60 words. The count includes headings, invitations, and destinations, but excludes figure labels and cover copy.
+- Edition label updated to 20 September 2026. All four PDF outputs rebuilt at their existing paths.
+- Fourteen tests pass; no missing glyphs, overfull boxes, or out-of-page text. All 44 interior pages and four cover faces inspected on contact sheets, with additional full-size Poppler checks for pages 3 and 31.
+- Main manuscript, figures, website, and shared build script unchanged. No commit or push. Author review and physical proof remain open.
+
+## Further Uncompression: 20 September 2026 (Source Only)
+
+The author flagged "People make the connection between language and order. They must understand what they remember..." as outline-like prose and approved expanding it and similar passages. This pass explains what people learn, check, judge, and correct instead of merely naming a relationship between language and order. Sentence lengths vary with the explanation; the pass does not aim for a fixed word or page budget.
+
+### Selected Before and After
+
+| Location | Before | After |
+|---|---|---|
+| From Sound to Order | "People make the connection between language and order." | "A person who remembers a story must still decide what it means for his own actions." The paragraph explains how the person considers the consequences in the story and applies its lesson to a present choice. |
+| Two Directions of Order | The account of an inside-out order named shared examples and correction without explaining how people use them. | Teachers discuss why choices helped or harmed others. A learner recognizes his own mistakes, and others familiar with the examples can point out what he has missed. |
+| The Three Shantis | The connection relied on an "architectural interpretation" and the "integrity of smaller parts." | The explanation follows a person's thoughts and actions into relationships and then the wider world, before relating that construction to Sanskrit's smaller units and shared standards. |
+| Small Forms, Large Families | "The family connects language to thought..." | Names what कर्म (*karma*), कर्तृ (*kartṛ*), and कार्य (*kārya*) each express, and how all three relate to doing. |
+| More Than a List of Words | The distinction between new meanings and grammatical forms was compressed. | Compares "a doer" with "what ought to be done," then explains why making "doer" plural belongs to the separate grammatical expansion. |
+| Completing an Action Word | "More happens inside this formation than adding an ending." | "The learner needs to understand how भू became भव् before अ and the ending ति joined it." The chapter pointer explains where readers can follow those sound changes. |
+| Words Keep Their Roles | The comparison between the atom and a rule named their shared discipline. | Explains that a rule must retain necessary information, avoid unnecessary words, and remain clear enough to apply again; then identifies what Chapter 10 tests at the smaller scale. |
+| Many People Can Check | The systems-engineering claim distinguished language design from preservation without fully developing the difference. | Separates sounds, word formation, and grammar from the teaching, error detection, and correction needed to maintain them across generations. |
+| What Pāṇini Contributed | "Documentation belongs..." summarized the relationship. | Names the different contributions of grammar, Vedic examples, and teachers, then explains why crediting grammar alone leaves the Tamil comparison unresolved. |
+| The Order Begins Within | Three compact clauses summarized fractal, calibrant, and radiant. | Each now has its own paragraph explaining what readers can examine, compare, or learn from others. |
+
+### Other Changes
+
+- Expanded the links between the subcontinental sound field and its teaching communities, between the two domains, and between language analysis and judgments about conduct.
+- Replaced abstract transitions in the accounts of categories, PIE, radiance, and temple practice with the specific comparisons or decisions involved.
+- Expanded chapter introductions in Part II where they named an argument without explaining what a reader would examine. These remain introductions, not replacements for the chapters.
+- Clarified invitations C05-3, C12-3, C15-2, C15-4, and C19-2. All 101 invitations remain, with the same IDs, placements, and destinations.
+- Retained every figure, the book's arguments and examples, and the generated totals. The verb example follows Chapter 11; the separation of word-meanings from grammatical forms follows Chapter 12 and the generative-wordspace note. No main-manuscript edits.
+
+### Source Verification and Pending Layout
+
+- Current source: 9,282 words, up 855 from the last-rendered 8,427. Counts include headings, invitations, and destinations, excluding figure labels and cover copy.
+- Ten source-only tests pass. They check invitation coverage, destinations, page markers, source paths, numerical totals, figure sources and geometry, and word counting. The four output-dependent tests are deferred until an approved render.
+- No PDF was generated or modified during this pass. The previous 44-page interior and 48-page complete PDF do not contain these changes. Their QA report describes that earlier render.
+- The source still has 44 page markers, but fit has not been checked. At the next approved render, add or rearrange pages as needed without shrinking body type or compressing explanations to preserve the previous count.
+- Main manuscript, figures, website, and build scripts remain unchanged. No commit or push.
+
+### Author Follow-up: Government and the Three Domains
+
+The government paragraph now begins "In an inside-out order, a government..." and states its responsibility directly. The second domain explicitly includes how people treat other living beings. The third names natural and cosmic forces beyond direct human control, with the Sun's light and heat as a familiar example of their effect on life. These three requested changes bring the source count to 9,291 words, 864 above the last render. PDFs remain unchanged.
+
+### Series Scope Correction
+
+The author clarified that all volumes focus on the second domain. Removed the promise to develop the third domain in later volumes and corrected both introductions to the three shantis. The first and third domains establish context; future volumes examine government, economic life, and other aspects of order within the second domain. The source-boundary rule above now records this scope for future edits. Current source count: 9,361 words. No PDF generated.
+
+### Why the Second Domain Needs Reconstruction
+
+Added the approved contrast to "Why I Wrote This Book": Hindu society continues to practise ways of seeking inner shanti, while much of its knowledge of shared order was lost under Abrahamic pyramids. Language, stories, teaching, and practices retain parts from which the architecture can be reconstructed. The author's approved yoga-and-meditation paragraph appears verbatim. The introduction now explains reconstruction from first principles before introducing Sanskrit as a living example. Current guide source count: 9,481 words. Layout remains unverified pending an approved PDF build.
+
+The author separately requested "from first principles" in the main manuscript. The Preface's existing reconstruction paragraph now names that method and explains it through learning a shared standard, recognizing mistakes, and correcting oneself and others without apex ownership. This is the only main-manuscript change in this follow-up.
+
+#### Manuscript Review: Preface Expansion Applied
+
+- **Preface, "Why Sanskrit Comes First":** the author approved the expansion below, excluding the sentence "The first and third explain the wider setting within which living beings must create order together." Applied the approved contrast after the opening explanation of the three recitations. Retained the next paragraph on language, memory, economic life, and why Sanskrit comes first.
+- **Epilogue:** the "Order Through Calibration" conclusion already points future volumes toward economic life, political authority, and society's relationships. The later custodianship paragraph explicitly names the second domain. Neither needs another explanation of the series's scope.
+- **Other forward references:** Chapters 5, 6, 14, 16, and the glossary describe further social and civilizational applications; none promises a volume devoted to the first or third shanti. Chapter 19's Iranian comparison also does not assign a volume to another shanti domain.
+- **Series planning document, `reference/as_second_shanti.md` section 3.3:** this internal document remains stale. It limits the second shanti to the political volume, describes the loss as a lapse in practice, and leaves the third domain undefined. It should adopt the author's current account and the all-volumes scope; not edited in this pass.
+
+Approved Preface insertion, now applied after the opening explanation of the three recitations:
+
+> Hindu society has kept alive the knowledge through which a person can seek शान्ति (*śānti*) within himself. Yoga, meditation, and several other practices continue to thrive, giving people ways to understand their own minds and respond to anger, fear, or desire without being ruled by them. This is the first domain.
+>
+> The second concerns how people live with one another and other living beings. Over the last millennium, under the rule of Abrahamic pyramids, much of the knowledge through which society maintained order in this domain has been lost. Institutions were destroyed or displaced, and later generations learned to organize public life around commands from above. Yet parts of the earlier architecture remained alive in language, stories, teaching, and everyday practice.
+>
+> The third concerns natural and cosmic forces beyond direct human control that affect human beings and other life. All volumes of *Second Shanti* focus on the second domain.
+
+This expansion replaces the existing sentences that briefly name the second domain; it does not repeat them. Reconstruction from first principles remains explicit in the preceding paragraph. No PDF generated and no commit or push. The internal series-planning correction above remains pending.

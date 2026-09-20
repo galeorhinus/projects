@@ -10,9 +10,13 @@ From the order within sound to the order within a civilization
 
 After writing *Tatya Tope's Operation Red Lotus*, I kept returning to what our ancestors had fought to protect. Political freedom mattered, but what kind of life was that freedom meant to make possible? What had survived when the institutions of Hindu polity were destroyed?
 
-I began looking for a form of order that people could maintain through understanding and willing restraint. Most political systems place authorized institutions above society. Those institutions make rules and punish violations. Could a shared example help people recognize and correct error without giving one institution ownership of that example?
+Hindu society has kept alive the knowledge through which a person can seek शान्ति (*śānti*) within himself. Yoga, meditation, and several other practices continue to thrive, giving people ways to understand their own minds and respond to anger, fear, or desire without being ruled by them. This is the first domain.
 
-Sanskrit brought that possibility within reach. Its sounds, words, and methods of exact recitation allowed me to examine an order that people had kept alive through teaching and practice. The Vedas were central to that achievement. They kept the language's patterns available for later generations to hear and learn.
+The second concerns how people live with one another and other living beings. Over the last millennium, under the rule of Abrahamic pyramids, much of the knowledge through which society maintained order in this domain has been lost. Institutions were destroyed or displaced, and later generations learned to organize public life around commands from above. Yet parts of the earlier architecture remained alive in language, stories, teaching, and everyday practice.
+
+*Second Shanti* is my attempt to reconstruct that architecture from first principles. I begin with what we can still examine: how people learn a shared standard, recognize mistakes, exercise restraint, and correct one another without giving an apex ownership of the standard. Sanskrit is a living example through which we can study those principles in detail.
+
+Generations of teachers and students had maintained Sanskrit's sounds and word-forming methods through teaching and practice. They could compare what they said with examples that others also knew, recognize mistakes, and correct them. The Vedas kept those examples available for later generations to hear and learn.
 
 *Atomic Sanskrit* argues that Sanskrit was engineered, that the Vedas keep it calibrated, and that this relationship demonstrates an inside-out architecture of Sanātan. The book then challenges the accounts of Sanskrit's origin that conceal that architecture.
 
@@ -23,47 +27,49 @@ The first part of this guide explains how those claims connect. You can read it 
 <!-- page: route -->
 # From Sound to Order
 
-Begin with a sound you can make deliberately and recognize when someone else makes it. Combine selected sounds into a small unit that carries a basic meaning. Use that unit to build words, and join the words into a sentence. Sanskrit makes these stages open to analysis: a learner can examine a completed expression and follow how its parts were formed.
+Sanskrit builds larger expressions from smaller parts. Sounds combine into small units that carry a basic meaning, such as गम् (*gam*), “to go.” These units form the basis of words, and words combine into sentences. The construction can also be followed backward: a learner can examine a completed word, identify its parts, and understand how they contribute to its meaning.
 
 ![](../figures/inside_out.svg)
 
-The next step connects language with civilization. A sentence can carry a remembered example of conduct: someone makes a choice, harms or helps others, and meets the consequences. Later listeners can consider the same example when deciding how to act.
+Words and sentences also allow people to pass on stories about how to live. Someone makes a choice, helps or harms others, and faces the consequences. Later generations can remember that story and consider it when deciding how to act.
 
-The book follows this movement from small, dependable parts toward larger forms of meaning and responsibility. It calls the recurring design **fractal**. At more than one scale, a compact form retains its identity, combines with other forms, and remains available for examination.
+The book describes this recurring design as **fractal**. A small form carries a dependable meaning and can combine with other forms while remaining identifiable. A learner can then understand a larger expression by examining the smaller parts within it. The book follows these principles through words and sentences, then considers how shared ideas guide the conduct of people within a larger society.
 
-People make the connection between language and order. They must understand what they remember, judge a situation, and decide how to act. An inside-out order depends on that responsibility within its participants, just as a larger Sanskrit expression depends on the integrity of its smaller parts.
+A person who remembers a story must still decide what it means for his own actions. He must understand why a choice helped or harmed others and whether that lesson applies to the situation before him. In an inside-out order, people use shared examples to guide their decisions while remaining responsible for the choices they make.
 
-{{invite:C10-5}}
+Continue in the book: Chapters 10–12
 
 <!-- page: directions -->
 # Two Directions of Order
 
 In a pyramid, decisions begin at the top and instructions travel downward. People may elect those above them or have no choice at all. They may place limits on official power. These differences matter, but the authority to direct and punish still stands above the people subject to it.
 
-Now consider a different arrangement. A shared standard remains available, and people learn to compare their own conduct with it. Teachers help them understand it. Other participants can identify a departure and seek correction. Responsibility spreads through society because many people can recognize the standard.
+In an inside-out order, people learn from shared examples of how to act. Teachers explain the examples and discuss why a particular choice helped or harmed others. A person can use that understanding to recognize his own mistakes, and others who know the same examples can point out what he has missed. People throughout society can therefore take part in judging and correcting conduct.
 
 ![](../figures/two_orders.svg)
 
 The book calls that standard a **calibrant**: an example against which another form or action can be checked. Distributed calibration means that many people can make the comparison; they need not wait for one office to decide what everyone should think.
 
-Government can still protect people and respond to wrongdoing. The difference concerns its place. A king or government serves the order rather than owning the standard by which its own actions are judged. Sanskrit offers a way to investigate this distinction through a language people can still speak and examine.
+In an inside-out order, a government protects people and responds to wrongdoing. It serves the order and is judged by the same standard as everyone else. A king or government cannot claim ownership of that standard. Sanskrit offers a way to examine how people use a shared standard to maintain a language they can still speak and study.
 
 {{invite:C04-3}}
 
 <!-- page: shanti -->
 # The Three Shantis
 
-Many readers know the closing words ॐ शान्तिः शान्तिः शान्तिः (*oṃ śāntiḥ śāntiḥ śāntiḥ*). Why does the appeal to peace sound three times? In the *Second Shanti* series, I use the three repetitions to organize an inquiry that moves from within a person toward the wider world.
+Many readers know the closing words ॐ शान्तिः शान्तिः शान्तिः (*oṃ śāntiḥ śāntiḥ śāntiḥ*). Why does the appeal to peace sound three times? I understand the three repetitions as referring to three domains, from within a person to the wider world.
 
 The first domain concerns the person: attention, understanding, and the ability to restrain oneself. Someone who cannot recognize anger, fear, or desire within himself will struggle to act freely when those forces take hold.
 
-The second concerns relationships among living beings. Families, communities, economic exchange, and government all operate here. Order in this domain depends on how people treat one another and on how they respond when trust is broken.
+The second concerns relationships among living beings: how people live together in families and communities, exchange goods, and govern themselves. Order in this domain depends on how people treat one another and other living beings, and on how they respond when trust is broken.
 
-The third extends to the wider natural and cosmic order within which life takes place. Human choices operate within that larger world; they do not place human beings above it. Later volumes will develop these relationships in detail.
+The third concerns natural and cosmic forces beyond direct human control that affect human beings and other life. People depend on the Sun's light and heat, for example, without being able to command them.
 
-This inside-out arrangement is the series's architectural interpretation of the three shantis. Sanskrit provides the first volume with a concrete subject. Its larger forms depend on the integrity of smaller parts, while a shared calibrant allows correction throughout the system.
+I interpret the three shantis as an order that begins within a person and extends through relationships into the wider world. Every volume of *Second Shanti* focuses on the second domain: how people live with one another and other living beings, and how they create and maintain order together. The first and third domains help explain the wider setting of that inquiry.
 
-The swastika represents this outward extension of well-being in the book. The word स्वस्ति (*svasti*) expresses well-being. The aim is to let well-being extend through our relationships instead of accumulating privilege at an apex. Sound, language, and civilization will meet again at the end of this guide.
+This first volume examines Sanskrit as an example of inside-out construction. Its words depend on smaller units of sound and meaning, and teachers and learners can check those units against a shared standard. Later volumes will examine other aspects of order within the same second domain, including government and economic life.
+
+The word स्वस्ति (*svasti*) expresses well-being, and the swastika represents its outward extension in the book. The care a person takes with his actions should benefit those around him: his family, his neighbours, and the wider community. The purpose of an inside-out order is to let well-being spread through these relationships rather than concentrate privilege among those at the top.
 
 {{invite:C03-3}}
 
@@ -74,7 +80,7 @@ Say क (*ka*) and प (*pa*). The first begins toward the back of the mouth; th
 
 Sanskrit arranges such differences systematically. Its familiar teaching sequence takes the learner through positions in the mouth and through changes in effort, breath, and voice. The order can be tested while speaking; it is more than a sequence of marks to memorize.
 
-The written form क (*ka*) also contains an important distinction. It represents the consonant क् (*k*) joined to the vowel अ (*a*). The small mark beneath क् removes the built-in vowel from the written sign:
+The written form क (*ka*) represents the consonant क् (*k*) joined to the vowel अ (*a*). The small mark beneath क् removes the built-in vowel from the written sign:
 
 > क् + अ = क
 >
@@ -82,7 +88,7 @@ The written form क (*ka*) also contains an important distinction. It represent
 
 The bare consonant can be harder to hear on its own. At the end of वाक् (*vāk*), speech, you can hear क् (*k*) without adding the following अ (*a*).
 
-These examples separate three things that readers often combine: the action of the speaking body, the resulting sound, and the sign used to write it. The body and sound come first in the book's explanation. Writing makes the arrangement visible, but changing the shape of a sign does not change where the speaker places the tongue.
+These examples distinguish the movement of the speaking body, the sound that movement produces, and the sign used to write the sound. When you say क (*ka*), your mouth produces a sound; when you write क, the mark represents that sound. The book begins with how the mouth produces sounds and how Sanskrit organizes them. It then examines how writing represents that arrangement.
 
 {{invite:C07-3}}
 
@@ -97,14 +103,14 @@ Chapter 7 begins with this physical experience. The sound brings the speaking in
 
 The Upaniṣads describe ॐ (*Oṃ*) on a much larger scale. The Māṇḍūkya identifies it with all this: what was, what is, what will be, and what lies beyond the three times. Chapter 10 connects that description with the book's argument about fractality. A compact sound can represent the larger architecture that unfolds through language and civilization.
 
-The two chapters therefore approach the same familiar utterance from different directions. One examines what the body does. The other examines why the civilization gave that sound such an expansive meaning. Together they connect something a reader can pronounce with the larger order the book investigates.
+Chapter 7 follows the breath and the movements of the mouth. Chapter 10 examines how the Upaniṣadic description allows one sound to represent an entire language and the civilizational order associated with it. The reader can begin with the physical experience of pronouncing ॐ (*Oṃ*) and then consider why the civilization understood it as much more than a sound.
 
 {{invite:C10-4}}
 
 <!-- page: grid -->
 # An Ordered Field of Sound
 
-The five rows below move from the back of the mouth toward the lips. Within each row, Sanskrit changes breath and voice in a repeated sequence. The final position directs sound through the nose. A learner therefore meets a physical arrangement rather than twenty-five unrelated sounds.
+The five rows below move from the back of the mouth toward the lips. Within each row, the sounds differ in breath and voice, following the same sequence of changes. The last sound in each row passes through the nose. The arrangement helps a learner understand how the mouth produces all twenty-five sounds.
 
 ![](../figures/sound_grid.svg)
 
@@ -112,7 +118,7 @@ Place a hand near the mouth while comparing क (*ka*) with ख (*kha*), or प 
 
 The book uses **sonomer** for a sound unit specified within this architecture. It introduces new English terms because familiar labels such as “letter” describe the written sign without explaining the controlled sound behind it. The full inventory also includes vowels and other sounds beyond the five rows shown here.
 
-Writing that represents this sound architecture is an **audiograph**. The distinction matters: the arrangement of sounds can remain stable even when people use different written shapes to represent it. Chapters 9 and 13 develop that relation between sound and script.
+Writing that represents this sound architecture is an **audiograph**. The arrangement of sounds can remain stable even when people use different written shapes to represent it. Chapters 9 and 13 explain this relationship between sound and script.
 
 <!-- page: home-sound -->
 # Sanskrit's Subcontinental Home
@@ -127,22 +133,20 @@ Tamil, Toda, and Kurukh form the southern comparison. Korku, Mundari, and Ho for
 
 Yet those two Indian sets cover more of the chosen Sanskrit sound field than either external set. The book argues that Sanskrit's designers organized a subcontinental range of sounds and developed the heavy-breath contrasts into a regular part of the grid.
 
-Chapter 8 identifies the sound inventories and the boundaries of each comparison. Chapters 17 and 18 then join that regional pattern to the grammar and the communities that have kept the language available.
-
-{{invite:C08-4}}
+Chapter 8 specifies which sounds and languages enter each comparison. Chapters 17 and 18 examine how the sound evidence relates to Sanskrit's grammar and to the communities that have kept the language alive.
 
 <!-- page: home-order -->
 # A Shared Home for Knowledge
 
-Sounds provide one part of the Indian-home argument. Chapters 17 and 18 examine a wider combination: the speaking body, the ways people analyze language, and the order through which they keep knowledge available.
+The book's case for Sanskrit's Indian origin goes beyond shared sounds. Chapters 17 and 18 also examine how people analyze language and how teachers and communities keep that knowledge available across generations.
 
-Tamil helps explain the third part. Its great grammar, the *Tolkāppiyam*, describes sounds, words, sentences, meaning, and poetic composition. Sanskrit's अष्टाध्यायी (*Aṣṭādhyāyī*) describes a different language through a different system. Both became subjects of teaching, explanation, debate, and continued study across many places.
+Tamil helps explain how knowledge can circulate without central control. Its great grammar, the *Tolkāppiyam*, describes sounds, words, sentences, meaning, and poetic composition. Sanskrit's अष्टाध्यायी (*Aṣṭādhyāyī*) describes a different language through a different system. Both became subjects of teaching, explanation, debate, and continued study across many places.
 
 No permanent central office owned either language or licensed every sentence. Knowledge circulated through teachers, commentators, families, and places of learning. Sanskrit and Tamil did not need identical grammars or identical histories to share that relationship between knowledge and society.
 
-The book calls this a subcontinental architecture of order. It joins the regional sound evidence to a civilizational setting in which a shared example can guide people without becoming the property of an apex.
+This relationship between knowledge and society is part of what the book means by a subcontinental architecture of order. A teacher's explanation can be examined against knowledge that others also hold. People can learn from the same grammar without placing themselves under one institution that owns it. The book considers this way of maintaining knowledge alongside the evidence of shared sounds.
 
-Sanskrit adds its two-domain preservation system to that setting. One domain keeps the Vedic examples exact, while the other allows new expression. We will examine both shortly.
+In Sanskrit, the shared knowledge includes Vedic passages that teachers and students learn to recite exactly. These provide examples against which people can check the sounds and forms used in new compositions. The book calls these two purposes the two domains: maintaining an exact reference and creating new expressions with the language it demonstrates.
 
 The Indian-origin claim therefore concerns more than a collection of similar sounds. It concerns a connected architecture: the mouth that can produce them, the analysis that explains their use, and the communities that keep the complete system alive. The book argues that Sanskrit was engineered within this subcontinental home, not brought here as an unfinished foreign inheritance.
 
@@ -159,9 +163,9 @@ Sanskrit measures sound through मात्रा (*mātrā*), a unit of durati
 
 The arrangement is also easy to recognize in नम् (*nam*), to bow, पच् (*pac*), to cook, and वद् (*vad*), to speak. The sounds and meanings differ, but each has a consonant, a short vowel, and another consonant. Chapter 10 calls such a recurring arrangement a scaffold.
 
-This gives “atomic” a specific meaning in the book. An atom has an internal construction that can be examined. It also enters larger constructions through known operations, allowing a learner to follow a completed word back toward its basic form and meaning.
+The book calls such a form an **atom** because it has a specified arrangement of sounds and a basic meaning from which words can be made. A learner can examine how the sounds fit together and how grammar turns the atom into a completed word. He can also begin with that word and trace the steps back to its atom.
 
-The next page follows one atom into a family of familiar words. The process begins inside sound and continues outward into expression.
+The next page shows how one atom gives rise to a family of familiar words. It continues the same process: sounds form an atom, and the atom becomes the basis for words with related meanings.
 
 {{invite:C10-1}}
 
@@ -174,9 +178,9 @@ Consider ⟪कृ⟫ (*kṛ*), to do or make. Some members of its wider family 
 
 ![](../figures/word_family.svg)
 
-These words do not result from attaching the same ending to an unchanged piece. Sanskrit may change sounds, add material before or after the atom, and apply further operations. Learners can follow those operations rather than memorize each finished word as an isolated object.
+To form these words, Sanskrit changes sounds, adds sounds or endings before or after the atom, and sometimes combines several such steps. Learners can follow the construction rather than memorize each finished word separately.
 
-The family also connects language to thought. An action, the person who acts, and what ought to be done are related ideas. Sanskrit can express those relations through forms whose construction remains open to examination.
+The words also show how related ideas can be expressed through related constructions. कर्म (*karma*) names an action, कर्तृ (*kartṛ*) identifies the doer, and कार्य (*kārya*) expresses what ought to be done. All three belong to the family built from ⟪कृ⟫ (*kṛ*), but each adds something different to the basic idea of doing.
 
 The learner can move in both directions: from the atom toward a new word, or from a completed word back through its construction. Chapter 10 tests the compactness, clarity, and stability of these forms across the inventory. Chapter 12 follows the operations that let them enter sentences.
 
@@ -191,11 +195,11 @@ The story explains why learning the language cannot depend on finishing a list. 
 
 The analysis conducted for this book begins with **2,168 atoms**. Some carry more than one recorded meaning, so the starting inventory contains **2,634 meanings**. Additions before the atom and changes to verbal formation expand that inventory. Further operations create names for actions, people, instruments, qualities, states, and relationships.
 
-For example, कर्तृ (*kartṛ*) identifies a doer, while कार्य (*kārya*) expresses what is to be done. Other procedures express possession, origin, descent, or absence. Combining completed bases opens further possibilities.
+For example, कर्तृ (*kartṛ*) identifies a doer, while कार्य (*kārya*) expresses what is to be done. Other procedures express possession, origin, descent, or absence. Words already formed can then combine to create further expressions.
 
 Within the limits set for this calculation, the analysis reaches **12,846,458 word-meaning entries** before the separate expansion of grammatical forms. This is a generated inventory, not a claim that every entry already appears in a dictionary or in recorded speech.
 
-The book keeps those stages separate. Creating another meaning differs from making a form plural or placing an action in the past. The larger point is the process: a finite starting inventory supports continuing creation because speakers inherit reusable operations as well as words.
+The calculation counts a new word-meaning separately from grammatical changes to an existing word. “A doer” and “what ought to be done” express different ideas. Making “doer” plural changes how many people are meant; it does not add another kind of meaning to this count. Forms that place an action in the past are also counted separately. Sanskrit can therefore create a large vocabulary from a finite starting set before we count those additional grammatical forms.
 
 {{invite:A05-1}}
 
@@ -212,11 +216,11 @@ In एति (*eti*), he, she, or it goes, the vowel इ (*i*) changes to ए (*
 
 The Ṛgveda uses this completed verb. Chapter 11 begins with it and then examines several other procedures already present in Vedic passages.
 
-For example, ⟪भू⟫ (*bhū*), to be or become, gives भवति (*bhavati*), he, she, or it becomes. More happens inside this formation than adding an ending. The chapter follows each step so the learner can trace the completed word back to its atom.
+For example, ⟪भू⟫ (*bhū*), to be or become, gives भवति (*bhavati*), he, she, or it becomes. The learner needs to understand how भू became भव् before अ and the ending ति joined it. Chapter 11 explains the sound changes in sequence, allowing the learner to account for each part of भवति rather than simply memorize the finished word.
 
 Other forms distinguish the speaker from the person addressed and from someone being described. They also distinguish one, two, and more than two. Sanskrit can express an action in the past or future, as a command, or as a possibility or wish. A learner does not need all the tables to recognize how much information a completed word can carry.
 
-The verb carries information about the action and its participants. Other words can name those participants, identify an instrument, or explain where something happened. The next stage shows how these forms join into a sentence.
+The verb tells us about the action and those involved in it. Other words can name who acted, identify what they used, or explain where something happened. The next page shows how word endings make these relationships clear within a sentence.
 
 {{invite:C11-2}}
 
@@ -229,11 +233,11 @@ The same basic relation remains in सीतां रामः पश्यत�
 
 This freedom helps explain how Sanskrit supports poetry and carefully measured recitation. A composer can arrange words for emphasis and sound while their endings continue to identify their roles. Context still matters, and freedom of arrangement does not make every arrangement equally clear.
 
-We can now return to fractality with a concrete example. The sound is specified; the atom contributes a basic meaning; the completed word identifies its relation to other words; the sentence expresses the larger thought. At each level, a learner can examine the parts and how they combine.
+The sentence also demonstrates what the book means by fractality. Specified sounds form an atom with a basic meaning. The atom becomes part of a word whose ending identifies its role in the sentence. At each level, a learner can examine the smaller parts and understand how they contribute to the whole.
 
-Chapter 10 compares the discipline of the atom with that of a सूत्र (*sūtra*), a compact statement of a rule. Both aim to retain what is needed, avoid waste, and support further application. The comparison concerns repeated design principles, not merely small things sitting inside larger things.
+Chapter 10 compares the construction of the atom with that of a सूत्र (*sūtra*), a compact statement of a rule. A rule must retain the information a learner needs, avoid unnecessary words, and remain clear enough to be applied again. The chapter examines whether similar requirements govern the much smaller atom. The comparison concerns how each form is made dependable and reusable, not its size alone.
 
-That is the inside-out construction the book follows. The larger expression depends on the integrity of its parts, and understanding can proceed back through those parts.
+This is why the book describes Sanskrit's construction as inside out. A larger expression depends on the sounds, atoms, and words within it, and a learner can understand the expression by examining how those parts combine.
 
 {{invite:C17-2}}
 
@@ -246,22 +250,22 @@ The book explains Sanskrit through two domains with different purposes.
 
 ![](../figures/two_domains.svg)
 
-The वैदिक (*vaidika*) domain keeps Vedic recitation exact. The order, sounds, and other features of a particular passage are transmitted rather than rewritten to suit each generation. These passages keep the language's operations available in complete examples.
+In the वैदिक (*vaidika*) domain, teachers pass on Vedic passages for students to recite exactly. Students learn the sounds, sequence of words, pitch, and timing of a passage. They pass these on in turn, rather than rewriting the passage for each generation. Later learners can therefore hear complete words and sentences that demonstrate how the language operates.
 
 The लौकिक (*laukika*) domain allows new expression: explanations, poems, calculations, conversations, and names for things that did not previously exist. Speakers use the shared architecture to make them.
 
-The relation matters more than the labels. One domain maintains a dependable reference while the other allows people to create. The book therefore challenges the account of two successive languages, a changing “Vedic” Sanskrit followed by a fixed “Classical” Sanskrit. Its account is one connected architecture with different permissions for preservation and creation.
+The two domains function together: one maintains a dependable reference while the other allows people to create. The book therefore challenges the account of two successive languages, a changing “Vedic” Sanskrit followed by a fixed “Classical” Sanskrit. It describes one language whose Vedic domain maintains the examples against which people can check their new expressions.
 
 {{invite:C16-3}}
 
 <!-- page: calibrant -->
 # What the Vedas Calibrate
 
-When a musician checks an instrument against a known note, the reference allows a difference to be heard and corrected. The reference does not play the musician's next composition. It helps keep the instrument ready for creation.
+A musician tunes an instrument by comparing its sound with a known note and adjusting it when necessary. Once tuned, the same instrument can play many different compositions. The known note helps the musician maintain the instrument without restricting what can be played on it.
 
 A **calibrant** performs that kind of function. The book uses प्रतिमानकम् (*pratimānakam*) for the shared reference, and प्रतिमापनम् (*pratimāpanam*) for calibration: comparison followed by correction when needed.
 
-The Vedas keep complete instances of Sanskrit available in sound. A student can hear how words are formed, how they join, and how the line's measured pattern relates to its words. The reference is therefore richer than a list of rules or a row of written signs.
+The Vedas provide complete spoken examples of Sanskrit. A student can hear the forms of words, how they join, and how their syllables fit the meter. These examples demonstrate relationships that a list of rules or written signs cannot make audible.
 
 Consider two adjacent lines in Ṛgveda 3.32. One uses रुद्रैः (*rudraiḥ*), with two syllables; the other uses रुद्रेभिः (*rudrebhiḥ*), with three. Both express the same grammatical relation, “with the Rudras,” but they occupy different positions in their respective lines. Each line has the eleven syllables required by its meter.
 
@@ -274,15 +278,15 @@ A grammar can describe those possibilities. An exact recitation demonstrates the
 <!-- page: checks -->
 # Many People Can Check
 
-A student learns a Vedic passage from a teacher. The teacher listens and corrects a departure. Other trained listeners also know the passage, and other teaching lineages carry it. The standard exists in many people's knowledge rather than in one person's permission to approve it.
+A student learns a Vedic passage from a teacher, who listens and corrects mistakes. Other trained listeners know the same passage, and other lineages teach it. Because many people know the standard, they can check the recitation without waiting for one person or institution to approve it.
 
 ![](../figures/distributed_checks.svg)
 
 Recitation methods add further checks. One form gives the connected passage; another separates its words. More elaborate arrangements repeat and reorder portions in prescribed ways. A mistake that escapes attention in one arrangement can become easier to detect in another.
 
-Pitch, timing, the sequence of words, and grammatical relations provide different grounds for comparison. They do not replace careful teachers and students. They give those people more ways to identify an error and return to the form they are transmitting.
+Teachers and students can check pitch, timing, the sequence of words, and grammatical relations. Each gives them another way to identify an error and correct the recitation.
 
-This is the greater engineering claim of *Atomic Sanskrit*. Designing the language is one achievement. Keeping a living system capable of checking that language across generations is another. The Vedas, recitation methods, and distributed caretakers operate together, while no single office owns the reference on which they depend.
+The greater engineering claim of *Atomic Sanskrit* concerns how this checking continues across generations. Designing the language gives people sounds, word-forming methods, and grammar. Maintaining it also requires people who can teach those methods, recognize a mistake, and restore the correct form. Vedic passages and recitation practices give teachers and learners shared examples and several ways to check them. That knowledge remains available across many communities, without one office owning the reference they all use.
 
 {{invite:C15-1}}
 
@@ -293,15 +297,13 @@ An error does not need an enemy. A speaker can forget a distinction, a copyist c
 
 Deliberate attack is different. Someone may destroy a place of learning, restrict who may teach, or replace a community's account of its inheritance. The attack may leave the words available while changing what people believe those words represent. The book calls conduct that conceals, captures, or destroys the shared inheritance **asuric**.
 
-Writing helps people record and study language, but it introduces a material dependency. Manuscripts need care; printed books depend on production and access; digital records need devices and continuing maintenance. An owner can withhold a collection, and a destroyed copy cannot correct its reader.
+Writing helps people record and study language, but the record depends on something that can be damaged or withheld. Manuscripts need care; printed books must be produced and made available; digital records need devices and continuing maintenance. An owner can deny access to a collection. Once a copy is destroyed, readers can no longer consult it to check what they remember.
 
 Written signs can also change pronunciation. English *fault* once lacked the l sound. Scholars inserted l into its spelling to display a Latin connection, and speakers eventually began pronouncing it. The page had changed the tongue. Chapter 13 examines this risk alongside writing's value as a record.
 
 The preservation system therefore needs more than a durable object. It needs people who can recognize the pattern, teach it, and detect error even when an object or institution is lost. Sanskrit's written forms are brilliant ways of representing sound; the living checks protect what the marks represent.
 
 For the book, a long-lived civilization must protect its memory against both accidental change and deliberate capture. Otherwise later generations lose the examples through which they could understand and rebuild its order.
-
-{{invite:C06-3}}
 
 <!-- page: panini -->
 # What Pāṇini Contributed
@@ -312,28 +314,28 @@ Tamil provides a comparison. The *Tolkāppiyam* records extensive grammatical kn
 
 Formal Arabic illustrates another arrangement. Religious and state institutions have maintained accepted recitations and formal usage through teaching, publications, and institutional authority, while spoken Arabics have continued changing. A grammar forms part of that system; it does not perform the entire task by itself.
 
-The book places Sanskrit's stability in a third arrangement: distributed calibration through the Vedas and their caretakers. Pāṇini's अष्टाध्यायी (*Aṣṭādhyāyī*) documents operations already evident in the language. Vedic passages contain completed forms, and Sanskrit analysis had teachers and debates before him.
+The book explains Sanskrit's stability through a third arrangement: distributed calibration through the Vedas and their caretakers. Pāṇini's अष्टाध्यायी (*Aṣṭādhyāyī*) documents operations already evident in Vedic words and sentences. Earlier teachers had also studied Sanskrit and debated its construction.
 
 Pāṇini is therefore an analyst, decoder, and documenter in this account. His achievement is the extraordinary precision with which he states the procedures and their conditions. That precision helps a learner explain a form and create another valid expression.
 
-Documentation belongs within the preservation architecture. The Vedas keep the examples available; teaching passes them on; analysis explains their construction. Giving Pāṇini responsibility for all three conceals the larger system and leaves the comparison with Tamil unexplained.
+Pāṇini's documentation helps learners analyze the language, while the Vedas give them exact examples and teachers pass on the knowledge needed to use both. These are different contributions to Sanskrit's continuity. Crediting Pāṇini's grammar alone leaves out the people and practices that kept the examples available. It also leaves the Tamil comparison unresolved: why did an extensive grammar fail to keep that language unchanged?
 
 {{invite:C05-1}}
 
 <!-- page: categories -->
 # What a Label Can Conceal
 
-If a learner is told that वर्ण (*varṇa*) means a letter, the written mark becomes the starting point. The organized action of the mouth can disappear from the explanation. The sign remains visible while the architecture behind it receives less attention.
+If a learner is told that वर्ण (*varṇa*) means a letter, he may learn how to recognize and write the mark without learning how the sound is formed. Knowing the shape of क does not explain why क and ख share a place in the mouth but differ in breath. The label directs attention to the written sign while leaving the sound arrangement unexplained.
 
-Calling धातुः (*dhātuḥ*) a “root” creates another habit of thought. It suggests something from which words grow. The book instead emphasizes a specified unit that enters controlled combinations and can be recovered through analysis. Its new term, atom, is meant to direct attention to those operations.
+Calling धातुः (*dhātuḥ*) a “root” invites the reader to picture words growing from it. The book's term **atom** directs attention to how words are constructed. A learner can identify the atom's sounds and meaning, follow the permitted changes and additions, and explain how the completed word was made. The term names a part that can be examined and reused through specified operations.
 
-Likewise, “codification” can gather grammar, institutional enforcement, and distributed calibration under one heading. Once those different arrangements have been collapsed, the reader may credit a document with what an entire preservation system achieves.
+“Codification” can conceal a similar difference. Writing down grammatical rules, enforcing accepted forms through an institution, and teaching many people to check speech against shared examples are different activities. If all three are described as codification, a reader may assume that writing the rules accomplished everything. The people and practices needed to maintain the language then disappear from the explanation.
 
 This is why *Atomic Sanskrit* challenges categories before arguing about dates. A date cannot repair a description that has already misidentified the thing being dated.
 
-Keeping a true account available allows later generations to detect a replacement story. The conflict between सत् (*sat*) and असत् (*asat*) therefore concerns actions: whether people keep truth available or conceal it to secure control. Ancestry cannot settle that distinction.
+When people can still examine the language and its transmission, they can compare what they find with what they have been taught about it. The book places that examination within the conflict between सत् (*sat*) and असत् (*asat*): whether people keep truth available or conceal it to secure control. To judge whether someone shares knowledge or withholds it from others, we must examine what he does rather than identify his ancestry.
 
-The book represents this concealment through the story of Svarbhānu's eclipse. Sanskrit is the Sun in the metaphor; the pyramid's categories stand between the reader and its light. Each removed block allows another attribute of the language to be examined. The metaphor describes the argument's progression, not a substitute for its evidence.
+The book represents this concealment through the story of Svarbhānu's eclipse. Sanskrit is the Sun in the metaphor; the pyramid's categories stand between the reader and its light. Removing a block represents examining an attribute of Sanskrit that the category concealed. The language itself provides the evidence for that examination.
 
 Chapters 1–4 also examine how the authority to name, classify, and certify knowledge can become a form of control. The sound and word examples give the reader a basis for testing whether the accepted labels explain Sanskrit adequately.
 
@@ -342,9 +344,9 @@ Chapters 1–4 also examine how the authority to name, classify, and certify kno
 
 European scholars recognized related words and patterns in Sanskrit, Greek, Latin, and other languages. Historical linguistics explains these relationships through descent from an unrecorded common ancestor, now called **Proto-Indo-European**, or **PIE**.
 
-PIE forms are reconstructed by comparing recorded languages. An asterisk before a form identifies it as reconstructed rather than directly recorded. No surviving speaker's recording or written account gives us PIE in use. Its supporters argue from regular correspondences among languages, not from the discovery of such a record.
+PIE forms are reconstructed by comparing recorded languages. An asterisk before a form identifies it as reconstructed rather than directly recorded. No recording or written passage gives us PIE in use. Its supporters argue that recurring patterns of sounds and word forms across languages point to a common source.
 
-*Atomic Sanskrit* challenges the inference that this reconstruction identifies Sanskrit's source. The book argues that comparison has separated selected resemblances from the complete architecture that remains joined to Sanskrit in India.
+*Atomic Sanskrit* challenges the conclusion that this reconstruction identifies Sanskrit's source. The book argues that comparisons of selected words leave out much of what needs explaining: how Sanskrit organizes its sounds, how it forms new words, and how the Vedas maintain examples of the language. Its account of Sanskrit's origin considers that connected system in India as well as the similarities between particular words in different languages.
 
 The dispute extends to the Aryan invasion and migration accounts. Both place an important source of Sanskrit's development outside the subcontinent. The book calls the ancestry-centered version the **racial Arya thesis**, because it assigns the language's authorship through the ancestry of incoming people. Modern arguments also draw on archaeology and genetics; the book examines what those kinds of evidence can establish about a language's construction.
 
@@ -359,26 +361,30 @@ The book's alternative begins with the connected system already examined in this
 
 ![](../figures/radiance.svg)
 
-The book argues that this is how Sanskrit's relationships with other languages should be investigated. Sanskrit retains the connected architecture: sound organization, word formation, grammatical analysis, Vedic examples, and the disciplines of exact transmission. The external comparisons retain selected resemblances without the complete connection.
+The book argues that Sanskrit's sound organization, word formation, grammatical analysis, Vedic examples, and disciplines of exact transmission remain connected. Other languages share particular features of Sanskrit without retaining that complete system.
 
 Chapter 19 examines the construction of PIE and its use in accounts of word ancestry. Chapter 20 develops the alternative: compare the forms and methods, then examine the direction in which they could have traveled.
 
-The historical chapters distinguish routes with records of teaching or translation from routes proposed through contact and comparison. Readers can examine both the examples and the strength of the evidence offered for each journey.
+Some examples in the historical chapters have records of teachers or translators passing knowledge from one language to another. Others depend on comparing words and identifying possible contact between communities. Readers can examine the evidence for each proposed route.
 
-Radiance also returns us to the purpose of a calibrant. A dependable reference can support many new creations without losing its identity. Knowledge can become more widely available through use; sharing it need not make the source disappear or give its recipients ownership over it.
+When another community learns a method from Sanskrit and uses it to create something new, the Sanskrit example can remain available for others to study. Sharing the knowledge does not use it up. Nor does learning from it give one community the right to control everyone else's access. In the book's account, a calibrant supports this outward sharing because people can continue returning to a dependable example while creating expressions of their own.
 
 <!-- page: return -->
 # The Order Begins Within
 
-A Hindu temple offers a familiar way to return from language to life. A person goes for दर्शन (*darśana*), beholding. The मूर्ति (*mūrti*) does not sermonize or demand attendance. Behind the form lies an inheritance of stories about choices, actions, and consequences.
+A Hindu temple offers a familiar example of calibration beyond language. A person goes for दर्शन (*darśana*), beholding. The मूर्ति (*mūrti*) does not sermonize or demand attendance. Behind the form lies an inheritance of stories about choices, actions, and consequences.
 
-The seeker considers those examples and decides how to act. That judgment is विवेक (*viveka*), discernment. The book sees the temple as one familiar expression of calibration: an enduring example remains available, while the person must undertake the comparison and correction.
+The seeker considers those stories alongside his own actions. He must decide what the choices in a story teach him and what he needs to change in his own life. That judgment is विवेक (*viveka*), discernment. The book sees the temple as one familiar expression of calibration because the example remains available while the person must understand it and choose how to act.
 
-Sanskrit allows the same principle to be examined in greater technical detail. A specified sound enters an atom; the atom enters a word; words form an expression. The Vedas maintain complete examples, and people throughout the teaching system can check their own performance against them.
+A Sanskrit student makes a more precise kind of comparison. He can check the sounds he pronounces, examine the atom and additions within a word, and explain how the words in a sentence relate to one another. The Vedas maintain complete examples of the language for teachers and students to study. People in different places can compare their own recitation and understanding with those examples.
 
-That is the connection between the book's three descriptions. Sanskrit is **fractal** because related design disciplines recur at different scales. It is **calibrant** because its stable examples support checking and correction. It is **radiant** because that dependable architecture enables creation and transmission beyond itself.
+The book uses **fractal** for design principles that recur in the construction of an atom, a word, and a larger expression. Each can be examined through its parts, and the relationships among those parts explain how the whole functions.
 
-The three shantis extend the inquiry from personal clarity toward relationships and the wider world. The swastika expresses the outward movement of स्वस्ति (*svasti*), well-being. A person exercises restraint, accepts responsibility in relationships, and helps maintain a shared order.
+It uses **calibrant** for the dependable examples against which people can check what they say and do. In Sanskrit, shared Vedic examples allow teachers and learners to recognize differences and correct mistakes.
+
+It uses **radiant** for knowledge that reaches other people and enables further creation. A community can learn words or methods from Sanskrit and use them for its own purposes while the language and its examples remain available for others.
+
+The three shantis extend this inquiry beyond language. A person begins by examining his own thoughts and actions. The choices he makes then affect his relationships with others, and those relationships exist within the wider world. The swastika represents the outward extension of स्वस्ति (*svasti*), well-being: care taken within a person should benefit those around him and the larger order they share.
 
 *Atomic Sanskrit* establishes the language as the first subject of that inquiry. Later volumes of *Second Shanti* will develop its implications for government, economic life, and other forms of collective order. The task begins with an architecture that remains alive in people's mouths and memories.
 

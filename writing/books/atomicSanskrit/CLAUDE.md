@@ -91,6 +91,10 @@ Reference and working files (TOC, endnotes, sidebars, todo, verification, etc.) 
 
 ---
 
+## PDF Build Approval
+
+Author instruction, 20 September 2026: do not generate or rebuild PDFs automatically after edits. This applies to the main book, companion, reader's guide, and covers. Unless the user explicitly requests a PDF render, finish the source changes and source-level checks, then remind the user that the PDF needs rebuilding or ask whether to render it. Leave PDF layout verification pending until that build is approved.
+
 ## Session bootstrap
 
 When opening a new session:
