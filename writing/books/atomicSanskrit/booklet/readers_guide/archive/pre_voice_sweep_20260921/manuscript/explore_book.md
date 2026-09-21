@@ -35,7 +35,7 @@ The opening chapter begins with things many readers already know: an invocation,
 
 ## Chapter 1: One, the Apex, and the Finite
 
-The Sun in the eclipse story remains present even when nobody can see it. Chapter 1 applies that metaphor to Sanskrit: the pyramid hides the language's achievements behind misleading categories, then teaches those categories as explanations of the language.
+The Sun in the eclipse story remains present even when nobody can see it. Chapter 1 applies that metaphor to Sanskrit: institutions and teaching can hide a language's achievements by describing them through misleading categories.
 
 {{invite:C01-1}}
 
@@ -50,7 +50,7 @@ The Sun in the eclipse story remains present even when nobody can see it. Chapte
 
 ## Chapter 2: Category Theft and आसुरी माया (*Āsurī Māyā*)
 
-The pyramid credits codification with stopping Sanskrit's drift. Chapter 2 tests that claim against Tamil, which changed despite its grammar, and Quranic Arabic, whose authorities approved copies and recitations, destroyed competing written materials, and enforced publication rules. It then explains how the Vedas kept Sanskrit calibrated without an enforcing apex.
+Writing down rules does not by itself keep a language stable. Chapter 2 compares Arabic and Tamil to examine why some forms remained stable while others changed, then considers how the Vedas kept Sanskrit calibrated.
 
 {{invite:C02-1}}
 
@@ -65,7 +65,7 @@ The pyramid credits codification with stopping Sanskrit's drift. Chapter 2 tests
 
 ## Chapter 3: The Pyramid's Motive and Method
 
-Power can protect what people share or keep it from them. Chapter 3 examines why the pyramid needs to conceal Sanskrit's architecture and how it uses theology, racial authorship, and progress to justify that concealment. Its Vedic examples require the reader to judge an actor's purpose and conduct. The pyramid diverts attention from those actions by making the dispute about inherited identities.
+Power can protect what people share or keep it from them. Chapter 3 examines why the pyramid needs to conceal Sanskrit's architecture and how theology, racial authorship, and progress provide reasons to defend the inherited account. Its Vedic examples require the reader to judge an actor's purpose and conduct. Converting that inquiry into a dispute over inherited identities diverts attention from the actions being judged.
 
 {{invite:C03-1}}
 
@@ -88,7 +88,7 @@ Chapter 4 argues that progressivism retains an Abrahamic architecture of authori
 
 ## Chapter 5: सिद्ध (*Siddha*) and कार्य (*Kārya*)
 
-Scholars studied Sanskrit before पाणिनि (*Pāṇini*), and he referred to earlier teachers in his own analysis. Chapter 5 explains why they studied grammar and how an established bond between word and meaning guides that study. It places पाणिनि (*Pāṇini*) within a continuing discipline of analysis and challenges the pyramid's claim that one authority first gave a drifting language its order.
+Scholars studied Sanskrit before पाणिनि (*Pāṇini*), and he referred to earlier teachers in his own analysis. Chapter 5 explains why they studied grammar and how an established bond between word and meaning guides that study. It places पाणिनि (*Pāṇini*) within a continuing discipline of analysis, challenging the account in which one authority first gave a drifting language its order.
 
 {{invite:C05-2}}
 
@@ -126,7 +126,7 @@ Chapter 7 examines the instrument you use whenever you speak. Its examples let y
 
 ## Chapter 8: The Sounds of the Indian Subcontinent
 
-The pyramid assigns Sanskrit a foreign ancestry while classifying many Indian languages outside its family. Chapter 8 tests that division against the sounds themselves. It compares how much of Sanskrit's basic consonant grid selected Indian and external language groups cover, then examines how Sanskrit extends the grid through the stronger breath heard in sounds such as ख (*kha*).
+Chapter 8 compares the sounds used by selected groups of Indian and external languages. It first examines how much of Sanskrit's basic consonant grid each group covers. It then considers how the stronger breath heard in sounds such as ख (*kha*) adds another distinction to that grid.
 
 {{invite:C08-1}}
 
@@ -192,7 +192,7 @@ The words in a sentence must make clear who acts, what happens, and how the othe
 
 ## Chapter 13: Why Preservation Needs Engineering
 
-Writing records knowledge, but a record still needs someone who can interpret and check it. Chapter 13 examines how scripts change, how authorities can seize or destroy written collections, and how spelling can alter pronunciation. Those risks explain why a brilliant system of written signs could not replace the living checks that keep Sanskrit calibrated.
+Writing records knowledge, but a record still needs someone who can interpret and check it. Chapter 13 examines how scripts change, how their material carriers can be controlled or destroyed, and how spelling can alter pronunciation. Those risks explain why a brilliant system of written signs could not replace the living checks that keep Sanskrit calibrated.
 
 {{invite:C13-1}}
 
@@ -227,7 +227,7 @@ Reciters repeat and reorder the words of a passage in specified patterns. Chapte
 
 ## Chapter 16: One Architecture, Two Domains
 
-Western philologists turn differences between Vedic passages and new Sanskrit composition into stages of language change. Chapter 16 examines the purposes those differences serve within one architecture, including how a longer or shorter word ending can keep a Vedic line within its meter.
+Vedic passages use some forms and arrangements that are restricted when people compose new Sanskrit. Chapter 16 examines what those choices allow within the passages, including how a longer or shorter word ending can keep a line within its meter.
 
 {{invite:C16-1}}
 
@@ -248,7 +248,7 @@ Chapter 17 compares more than sounds. It examines what repeating a word adds to 
 
 ## Chapter 18: The Wrong Question
 
-The pyramid uses evidence about migrating people to assign authorship of Sanskrit. Chapter 18 challenges that substitution through the evidence of sounds, word formation, and Vedic transmission. It also shows how the pyramid erases the earlier system by crediting पाणिनि (*Pāṇini*) with codification. My account of Sanskrit's beginnings is explicitly personal speculation, including its possible depth in time. It distinguishes three tasks: engineering the language, protecting it against entropy and deliberate attack, and maintaining the memory needed for civilizational order.
+Chapter 18 argues that a migration account cannot assign authorship of Sanskrit's architecture. It brings together the evidence about sounds, word formation, and Vedic transmission, and shows how crediting पाणिनि (*Pāṇini*) with codification erases that earlier system. My account of Sanskrit's beginnings is explicitly personal speculation, including its possible depth in time. It distinguishes three tasks: engineering the language, protecting it against entropy and deliberate attack, and maintaining the memory needed for civilizational order.
 
 {{invite:C18-1}}
 
@@ -314,19 +314,19 @@ The appendices extend the book's argument through institutional histories, worke
 
 ## Appendix Part 1: Baking the Mother Tongue
 
-Indian teachers and institutions made Sanskrit knowledge available to European philologists. This appendix traces how those philologists used that knowledge to construct PIE and how educational institutions then taught Indians to accept it as Sanskrit's ancestor. It names the conversion mandate, the institutional rewards, and the Indians who resisted.
+Indian teachers and institutions made Sanskrit knowledge available to European philologists. This appendix traces how that knowledge was used to construct PIE, then returned to India as an account of Sanskrit's ancestry. It names the conversion mandate, the institutional rewards, and the Indians who resisted.
 
 {{invite:A01-1}}
 
 ## Appendix Part 2: Independent India, Asuric Scholarship
 
-Independence gave Indian institutions the freedom to reject colonial categories. Deccan College instead chose historical principles for its Sanskrit dictionary. This appendix explains why the book calls that choice a betrayal: an Indian institution continued teaching the imported history through the very evidence it had gathered from Sanskrit. Its collection lets readers examine the language and challenge the history imposed upon it.
+Independence gave Indian institutions the freedom to reconsider the inherited categories. This appendix examines Deccan College's decision to build its Sanskrit dictionary on historical principles and explains why the book calls that choice a betrayal. The evidence collected by the project remains valuable; its interpretation is the object of criticism.
 
 {{invite:A02-1}}
 
 ## Appendix Part 3: The Sonomer and the Audiograph: Sound Engineering, Pun Intended
 
-A written sign represents a sound already identified by the sound architecture. The pyramid uses a proposed derivation of ब्राह्मी (*Brāhmī*) from Aramaic to assign foreign ancestry to the written system. This appendix separates the engineering of Sanskrit's sound architecture from the history of the marks used to write it. Borrowing a shape does not establish who created the system it encodes.
+A written sign represents a sound already identified by the sound architecture. This appendix separates the engineering of that architecture from the history of the marks used to write it, including the proposed relationship between ब्राह्मी (*Brāhmī*) and Aramaic. Borrowing a shape does not establish who created the system it encodes.
 
 {{invite:A03-1}}
 

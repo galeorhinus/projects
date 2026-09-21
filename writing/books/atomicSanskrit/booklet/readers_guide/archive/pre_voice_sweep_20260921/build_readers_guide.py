@@ -262,7 +262,7 @@ def make_cover(book, cfg):
     text.append(r"\pagetitle{An Introduction to the Argument}{inside-front}")
     text.append(latex("""How can a language remain unchanged while people continue creating new expressions? What does its preservation reveal about the order of the civilization that cares for it?
 
-This guide follows the argument of *Atomic Sanskrit* from the speaking body through sounds, words, sentences, and Vedic transmission. It explains the book's case for an engineered language within an inside-out architecture of सनातन (*Sanātan*), then examines how Western philologists and their institutional successors conceal that architecture through the history they teach.
+This guide follows the argument of *Atomic Sanskrit* from the speaking body through sounds, words, sentences, and Vedic transmission. It explains the book's case for an engineered language within an inside-out architecture of सनातन (*Sanātan*), then examines the institutional account that the book accuses of concealing it.
 
 You can follow the examples without knowing Sanskrit. The first part explains the argument in familiar English, supported by Devanagari and diagrams. The second part offers a chapter-by-chapter route into the full book.
 
@@ -285,7 +285,7 @@ Website: [secondshanti.org/as]({cfg['website']})"""))
     text.extend([r"\clearpage", r"\vspace*{12mm}", r"\pagetitle{From Sound to Civilization}{back}"])
     text.append(latex("""Sanskrit's familiar sound sequence maps the speaking body. Small forms carrying basic meanings combine into words, and words form expressions that can carry knowledge across generations. The Vedas keep complete examples available for checking and correction.
 
-*Atomic Sanskrit* argues that this system demonstrates an inside-out order whose standard no apex can own. It challenges Western philologists who place an invented PIE ancestor above Sanskrit and accuses colonial scholarship and its institutional successors of replacing India's memory of that architecture.
+*Atomic Sanskrit* argues that this system demonstrates an inside-out order whose standard no apex can own. It challenges the account of Sanskrit descending from PIE and accuses colonial scholarship and its institutional successors of replacing India's memory of that architecture.
 
 This guide explains the argument in familiar English, with Devanagari, diagrams, and examples readers can examine. It follows the language's construction, its protection against error and deliberate attack, and the book's account of knowledge traveling outward from India. Its 101 invitations lead into the full book's evidence and arguments."""))
     text.extend([r"\vfill", r"\includegraphics[width=29mm]{"+(BUILD / "website_qr.pdf").as_posix()+r"}\par",

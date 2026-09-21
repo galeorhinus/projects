@@ -72,27 +72,43 @@ class Figure:
                  stroke_width=1.7, data_geometry=f"shared-scaffold-{kind}")
 
 
-def make_all():
-    f = Figure(270, "Inside-out construction: sound to language, memory to shared order")
-    rows = (("वर्ण", "Sound"), ("धातुः", "Atom"), ("पदम्", "Word"), ("वाक्यम्", "Sentence"),
-            ("स्मृति", "Memory"), ("विवेक", "Judgment"), ("कर्म", "Action"), ("ऋत", "Shared order"))
-    for i, (dev, eng) in enumerate(rows):
-        row, col = divmod(i, 4)
-        x, y = 85+180*col, 33+145*row
-        f.text(x, y, dev, 33, INK, "middle", dev=True)
-        f.text(x, y+31, eng, 24, TEAL, "middle")
-        if col < 3:
-            f.arrow(x+66, y+7, x+113, y+7, GOLD)
-    f.line(10, 101, 710, 101)
-    f.text(10, 128, "Language carries remembered examples into life", 23, TEAL)
-    f.text(10, 260, "People understand, compare, and choose how to act", 23, TEAL)
-    f.save("inside_out")
+def canonical_figures():
+    return sorted(path for path in DIR.glob("*.svg") if ".from-" not in path.name)
 
-    f = Figure(260, "The book's pyramid and swastika: command and shared calibration")
+
+def promote_inside_out():
+    root = ET.parse(DIR / "two_chains_hex_nodes.from-cd.svg").getroot()
+    title = "Inside-out construction: sonomer to language, memory to shared order"
+    root.set("role", "img")
+    root.set("aria-label", title)
+    for node in list(root):
+        if node.tag in (f"{{{NS}}}style", f"{{{NS}}}title"):
+            root.remove(node)
+    heading = ET.Element(f"{{{NS}}}title")
+    heading.text = title
+    root.insert(0, heading)
+    # Use installed print fonts; the supplied design's web-font import cannot
+    # be relied on by Inkscape. Keep its geometry and original source intact.
+    for node in root.iter(f"{{{NS}}}text"):
+        dev = any("\u0900" <= char <= "\u097f" for char in (node.text or ""))
+        node.set("font-family", "Tiro Devanagari Sanskrit" if dev else "STIX Two Text")
+        if node.get("font-weight") == "600":
+            node.set("font-weight", "700")
+        if node.get("font-style") == "italic":
+            node.set("font-size", "30")
+            node.set("fill", "#756344")
+    ET.indent(root)
+    ET.ElementTree(root).write(DIR / "inside_out.svg", encoding="utf-8", xml_declaration=True)
+
+
+def make_all():
+    promote_inside_out()
+
+    f = Figure(260, "Authority and inside-out architecture: command and shared calibration")
     f.text(174, 28, "Command from above", 26, RED, "middle", bold=True)
     f.text(544, 28, "Order from within", 26, TEAL, "middle", bold=True)
-    f.icon("ic-pyramid", 94, 42, 160, 145, RED)
-    f.icon("ic-swastika", 414, 3, 260, 225, GOLD)
+    f.icon("ic-authority", 94, 42, 160, 145, RED)
+    f.icon("ic-architecture", 464, 42, 160, 145, GOLD)
     f.line(355, 46, 355, 234)
     f.text(174, 208, "An apex directs people", 23, INK, "middle")
     f.text(544, 208, "People use a shared standard", 23, INK, "middle")

@@ -12,7 +12,7 @@ After writing *Tatya Tope's Operation Red Lotus*, I kept returning to what our a
 
 Hindu society has kept alive the knowledge through which one can seek शान्ति (*śānti*) within oneself. Yoga, meditation, and several other practices continue to thrive, giving people ways to understand their own minds and respond to anger, fear, or desire without being ruled by them. This is the first domain.
 
-The second concerns how people live with one another and other living beings. Over the last millennium, Abrahamic rulers destroyed or displaced institutions through which Hindu society maintained order in this domain. They imposed commands from above, disrupting the transmission of knowledge that had guided public life. Much of that knowledge was lost, but parts of the earlier architecture remained alive in language, stories, teaching, and everyday practice.
+The second concerns how people live with one another and other living beings. Over the last millennium, under the rule of Abrahamic pyramids, much of the knowledge through which society maintained order in this domain has been lost. Institutions were destroyed or displaced, and later generations learned to organize public life around commands from above. Yet parts of the earlier architecture remained alive in language, stories, teaching, and everyday practice.
 
 *Second Shanti* is my attempt to reconstruct that architecture from first principles. I begin with what we can still examine: how people learn a shared standard, recognize mistakes, exercise restraint, and correct one another without giving an apex ownership of the standard. Sanskrit is a living example through which we can study those principles in detail.
 
@@ -43,8 +43,6 @@ Continue in the book: Chapters 10–12
 # Two Directions of Order
 
 In a pyramid, decisions begin at the top and instructions travel downward. People may elect those above them or have no choice at all. They may place limits on official power. These differences matter, but the authority to direct and punish still stands above the people subject to it.
-
-The Vedic encounters give these relationships concrete form. वृत्र (*Vṛtra*) blocks the waters, while स्वर्भानु (*Svarbhānu*) hides the Sun. Their opponents remove the obstructions and restore what others need. From these actions, the book identifies three recurring characteristics of असत् (*asat*): **containment, concealment, and control**. The pyramid repeats them when it withholds knowledge, hides alternatives, and makes people depend on its permission.
 
 In an inside-out order, people learn from shared examples of how to act. Teachers explain the examples and discuss why a particular choice helped or harmed others. A person can use that understanding to recognize their own mistakes, and others who know the same examples can point out anything the person has missed. People throughout society can therefore take part in judging and correcting conduct.
 
@@ -80,15 +78,15 @@ The word स्वस्ति (*svasti*) expresses well-being, and the swastika
 <!-- page: challenge -->
 # What This Book Challenges
 
-Western philologists place Sanskrit beside Greek, Latin, and other languages in a family descended from **Proto-Indo-European**, usually shortened to **PIE**. They construct this proposed parent by comparing the recorded languages, then teach it as their ancestor. Through invasion and migration theories, they assign Sanskrit's formative ancestry to people arriving from outside India. The pyramid completes the story by crediting पाणिनि (*Pāṇini*) with stopping the language's drift through “codification.”
+The account taught in historical linguistics places Sanskrit beside Greek, Latin, and other languages in a family descended from **Proto-Indo-European**, usually shortened to **PIE**. Scholars reconstruct this parent language by comparing the recorded languages. Accounts of invasion or migration then place Sanskrit's formative ancestry outside India. In the familiar codification story, Sanskrit continued changing until पाणिनि (*Pāṇini*) set out its grammar and stopped the drift.
 
 *Atomic Sanskrit* challenges that account at its foundation. I argue that Sanskrit was engineered within the Indian subcontinent, that the Vedas kept its architecture calibrated before and after पाणिनि (*Pāṇini*), and that words and methods traveled outward from Sanskrit. पाणिनि (*Pāṇini*) analyzed and documented an existing system. Calling him its codifier assigns him the achievement of the much larger architecture he explained.
 
-The disagreement concerns more than which country deserves credit. The pyramid teaches that Sanskrit needed a commanding authority to become stable. Sanskrit's distributed calibration demonstrates an order that no apex owns. By teaching students to credit a codifier, Western philology directs their attention away from the people, practices, and Vedic examples that kept the language calibrated.
+The disagreement concerns more than which country deserves credit. If Sanskrit depended on a commanding authority to become stable, it would fit the pyramid's account of order. If its stability comes from a shared calibrant that no apex can own, it demonstrates a different possibility. The familiar linguistic account prevents readers from recognizing that possibility by giving them a different explanation before they examine the language.
 
 This book does not pretend neutrality. It accuses the Western philological establishment, and the Indian institutions that continued its methods, of replacing Sanskrit's own account of its architecture with a story of foreign ancestry and natural drift. The later pages explain that accusation through particular classifications, dictionaries, and institutional choices.
 
-First, the reader needs to see what those classifications conceal. We can begin with sounds that anyone can try, then follow the construction from sound to word and sentence. After examining how the Vedas keep that construction available, we can test the ancestry that Western philologists have imposed upon it.
+First, the reader needs to see what those classifications describe so poorly. We can begin with sounds that anyone can try, then follow the construction from sound to word and sentence. After examining how the Vedas keep that construction available, we can return to the account that places an invented ancestor above it.
 
 Continue in the book: Chapters 2, 18, and 19
 
@@ -148,9 +146,9 @@ The comparison first sets aside Sanskrit's ten heavy-breath stops, including ख
 
 ![](../figures/home_coverage.svg)
 
-Tamil, Toda, and Kurukh form the southern comparison. Korku, Mundari, and Ho form the forest-belt comparison. Western linguists classify the first set as “Dravidian” and the second as “Austroasiatic.” They place both outside the “Indo-European” family to which they assign Sanskrit.
+Tamil, Toda, and Kurukh form the southern comparison. Korku, Mundari, and Ho form the forest-belt comparison. The family-tree classification places the first set under “Dravidian” and the second under “Austroasiatic,” outside the “Indo-European” family to which it assigns Sanskrit.
 
-Yet those two Indian sets cover more of the chosen Sanskrit sound field than either external set. The pyramid places Sanskrit's ancestry abroad, but the Indian languages it excludes from Sanskrit's family share more of this sound field than the selected languages along its proposed migration route. The book argues that Sanskrit's designers organized a subcontinental range of sounds and developed the heavy-breath contrasts into a regular part of the grid. Their materials were already present in India's speaking mouths.
+Yet those two Indian sets cover more of the chosen Sanskrit sound field than either external set. Languages classified outside Sanskrit's family share more of this sound field than the selected languages along the supposed route of its foreign ancestry. The book argues that Sanskrit's designers organized a subcontinental range of sounds and developed the heavy-breath contrasts into a regular part of the grid. Their materials were already present in India's speaking mouths.
 
 Chapter 8 specifies which sounds and languages enter each comparison. Chapters 17 and 18 examine how the sound evidence relates to Sanskrit's grammar and to the communities that have kept the language alive.
 
@@ -263,19 +261,15 @@ This is why the book describes Sanskrit's construction as inside out. A larger e
 <!-- page: panini -->
 # What पाणिनि (*Pāṇini*) Contributed
 
-The pyramid credits पाणिनि (*Pāṇini*) with “codifying” Sanskrit and stopping its drift. It presents his grammar as the authority that brought a changing language under control. This shifts attention away from the Vedas and gives पाणिनि (*Pāṇini*) credit for the invariance that Sanskrit's larger architecture maintained.
+The familiar account credits पाणिनि (*Pāṇini*) with “codifying” Sanskrit and thereby stopping its drift. Codification means setting out accepted forms and rules systematically. The further claim, that doing so makes a language remain unchanged, needs its own explanation.
 
 Tamil provides a comparison. The तोल्काप्पियम् (*Tolkāppiyam*) records extensive grammatical knowledge, yet Tamil continued changing across generations. The document allows later readers to study earlier forms. Its existence did not keep everyday speech fixed.
 
-Quranic Arabic shows how a pyramidal system protects an approved form of language. According to *Sahih al-Bukhari*, Caliph Uthman commissioned official Quranic copies, distributed them to the provinces, and ordered competing written materials burned. The authority chose which copies would remain.
-
-That control also takes legal form. Egypt's Quran-publication law requires institutional permission and provides prison sentences and fines for printing or circulating copies without it. Al-Azhar's approval has the force of state punishment behind it.
-
-This is preservation through authority: religious and political institutions decide which copies and recitations to approve and enforce those decisions. Teaching and memorization pass on the approved forms, while the law controls publication. Meanwhile, the Arabic spoken in everyday life continued changing. The pyramid points to codification, but grammar alone did not enforce those boundaries. Chapter 2 names the authorities and examines their powers.
+Formal Arabic illustrates another arrangement. Religious and state institutions have maintained accepted recitations and formal usage through teaching, publications, and institutional authority, while spoken Arabics have continued changing. A grammar forms part of that system; it does not perform the entire task by itself. Chapter 2 examines the powers of those institutions, including control over printed Quranic editions in Egypt.
 
 Sanskrit's Vedic examples already use the operations that पाणिनि (*Pāṇini*) explains. Earlier teachers had also studied the language and debated its construction. His अष्टाध्यायी (*Aṣṭādhyāyī*) gives learners extraordinarily precise procedures and conditions for analyzing a form and creating another valid expression. The book therefore describes him as an analyst, decoder, and documenter.
 
-By crediting पाणिनि (*Pāṇini*) with stopping drift, the pyramid reduces the Vedas to remnants of a changing language and promotes its analyst into the authority who finally brought it under control. The book calls this **heroic erasure**. The pyramid praises one figure while removing the earlier architecture and its caretakers from the explanation.
+Calling that achievement “codification” changes the story when the term makes him responsible for Sanskrit's stability. The Vedas become remnants of a drifting language, and the analyst becomes the authority who finally brought it under control. The book calls this **heroic erasure**: praise for one figure removes the earlier architecture and its caretakers from the explanation.
 
 The Tamil comparison exposes what remains unexplained. If a comprehensive grammar could stop change, Tamil should have remained fixed too. Sanskrit's generative methods also need protection against loss and alteration; their ability to create words does not by itself keep them invariant. The book locates that protection in the relationship between its two domains.
 
@@ -294,7 +288,7 @@ In the वैदिक (*vaidika*) domain, teachers pass on Vedic passages for s
 
 The लौकिक (*laukika*) domain allows new expression: explanations, poems, calculations, conversations, and names for things that did not previously exist. Speakers use the shared architecture to make them.
 
-The two domains function together: one maintains a dependable reference while the other allows people to create. Western philologists recast this relationship as two successive stages: a changing “Vedic” Sanskrit followed by a fixed “Classical” Sanskrit. They turn a difference of purpose into a story of development through time. The book demonstrates one language whose Vedic domain maintains the examples against which people can check their new expressions.
+The two domains function together: one maintains a dependable reference while the other allows people to create. The book therefore challenges the account of two successive languages, a changing “Vedic” Sanskrit followed by a fixed “Classical” Sanskrit. It describes one language whose Vedic domain maintains the examples against which people can check their new expressions.
 
 {{invite:C16-3}}
 
@@ -352,23 +346,21 @@ The civilizational purpose is equally important. Destruction can succeed in a mo
 <!-- page: categories -->
 # What a Label Can Conceal
 
-The pyramid applies the same method to Sanskrit. It contains the language within its classifications, conceals the Vedas' role as calibrant, and controls which explanations students learn.
+If learners are told that वर्ण (*varṇa*) means a letter, they may learn how to recognize and write the mark without learning how the sound is formed. Knowing the shape of क does not explain why क and ख share a place in the mouth but differ in breath. The label directs attention to the written sign while leaving the sound arrangement unexplained.
 
-When translators reduce वर्ण (*varṇa*) to “letter,” they direct learners toward the written mark and away from the sound it represents. Knowing the shape of क does not explain why क and ख share a place in the mouth but differ in breath. The translation conceals the sound architecture even as it appears to explain the term.
+Calling धातुः (*dhātuḥ*) a “root” invites the reader to picture words growing from it. The book's term **atom** directs attention to how words are constructed. A learner can identify the atom's sounds and meaning, follow the permitted changes and additions, and explain how the completed word was made. The term names a part that can be examined and reused through specified operations.
 
-Western philologists call धातुः (*dhātuḥ*) a “root,” inviting the reader to picture words growing from it. The book's term **atom** directs attention to how words are constructed. A learner can identify the atom's sounds and meaning, follow the permitted changes and additions, and explain how the completed word was made. The term names a part that can be examined and reused through specified operations.
-
-The pyramid uses “codification” to conceal a similar difference. Writing down grammatical rules, enforcing accepted forms through an institution, and teaching many people to check speech against shared examples are different activities. By crediting the written rules with Sanskrit's invariance, the pyramid removes the people and practices that maintained the language from its explanation.
+“Codification” can conceal a similar difference. Writing down grammatical rules, enforcing accepted forms through an institution, and teaching many people to check speech against shared examples are different activities. If all three are described as codification, a reader may assume that writing the rules accomplished everything. The people and practices needed to maintain the language then disappear from the explanation.
 
 This is why *Atomic Sanskrit* challenges categories before arguing about dates. A date cannot repair a description that has already misidentified the thing being dated.
 
-Through these classifications, the pyramid conceals an architecture that readers could examine and projects a different account in its place. It hides the Vedas' calibration function by teaching that पाणिनि (*Pāṇini*) imposed order on drifting speech. Readers learn to look for a commanding authority where they could have studied distributed calibration. The book calls this combination आसुरी माया (*āsurī māyā*): concealment and projection.
+Misclassification can perform two connected acts. It conceals an architecture that readers could examine, then projects a different account in its place. For example, the story of पाणिनि (*Pāṇini*) imposing order on drifting speech conceals the Vedas' calibration function and projects a commanding authority as the source of stability. The book calls this combination आसुरी माया (*āsurī māyā*): concealment and projection.
 
 The book represents this concealment through the story of स्वर्भानु (*Svarbhānu*) obscuring the Sun. Sanskrit is the Sun in the metaphor; the pyramid's categories stand between the reader and its light. Removing a block represents examining an attribute of Sanskrit that the category concealed. The language itself provides the evidence for that examination.
 
-The pyramid does the same with writing. It files Devanagari under *abugida*, a category based on the behavior of written signs, and leaves the engineering of Sanskrit's sounds unexplained. Appendix Part 3 distinguishes borrowing a written shape from creating the system it encodes. A history of marks cannot by itself establish who engineered the sounds.
+The same test applies to writing. Calling a script an *abugida* describes certain features of its signs; it does not explain the sound architecture those signs represent. Appendix Part 3 distinguishes borrowing a written shape from creating the system it encodes. A history of marks cannot by itself establish who engineered the sounds.
 
-Dictionary editors, university departments, and publishers keep these classifications in circulation and teach students to accept them. Chapters 3 and 4 examine why those institutions defend the pyramid's account even when Sanskrit's architecture requires a different explanation.
+The classifications persist through dictionaries, courses, and institutions that decide which accounts students learn. Chapters 3 and 4 examine why those institutions defend the inherited account even when the architecture requires a different explanation.
 
 <!-- page: progress -->
 # The Fourth Abrahamic Religion
@@ -377,11 +369,11 @@ Chapter 3 identifies three commitments behind the pyramid's account of Sanskrit:
 
 Chapter 4 calls this doctrine **progressivism**, the fourth Abrahamic religion. The term here names a belief about the direction of history, not a particular political party. People who disagree about elections or economics can still assume that modern institutions stand above the civilizations they study and are entitled to judge them through their own categories.
 
-The comparison with religion concerns the power to define truth and punish departure from it. In Judaism, Christianity, and Islam, religious authorities guard doctrine and draw boundaries between those who belong and those who do not. The book argues that progressivism carries this pyramidal structure into secular institutions. Approved experts interpret the doctrine, institutions decide which accounts deserve recognition, and their defenders dismiss challenges as attachment to a backward past. The promise of a better future gives them a reason to discredit what the past already achieved.
+The comparison with religion concerns the organization of authority. Judaism, Christianity, and Islam each establish teachings and boundaries of belonging. The book argues that progressivism continues a related structure in secular language: approved experts interpret the doctrine, institutions decide which accounts are acceptable, and history moves toward a promised better future. A challenge to the direction of that history can then be dismissed as attachment to a backward past.
 
-Universities grant credentials, journals decide what they publish, and curriculum committees determine what students encounter as established knowledge. When those institutions use their powers to protect the pyramid's account from challenge, they enforce doctrine through the approval or rejection of scholarship. The book calls that institutional formation the **church of progress**.
+Universities grant credentials, journals decide what they publish, and curricula determine what students encounter as established knowledge. These activities become a system of doctrinal control when an inherited account is protected from examination by the very rules used to authorize scholarship. The book calls that institutional formation the **church of progress**.
 
-Sanskrit creates a specific difficulty for this doctrine. Its living, distributed preservation system demonstrates that greater age need not mean inferior design. The pyramid makes Sanskrit fit its preferred history by teaching that the language drifted until a great authority stabilized it. In doing so, it denies the civilization credit for engineering the system that kept the language calibrated.
+Sanskrit creates a specific difficulty for this doctrine. An ancient language with a living, distributed preservation system would show that greater age need not mean inferior design. Calling it a naturally drifting language finally stabilized by a great authority makes it fit the preferred history again. The civilization that maintained the system loses recognition for its engineering.
 
 The criticism concerns this use of institutions and the choices it rewards. Scholars can inherit the categories in good faith, and people inside an institution can challenge them. The guide's next examples show how institutions acquired the power to define Sanskrit and how Indian institutions chose to continue that authority after independence.
 
@@ -396,7 +388,7 @@ Indian teachers and manuscript collections gave European scholars access to Sans
 
 Political independence did not end that institutional relationship. In 1948, Deccan College began its Sanskrit dictionary project on historical principles modeled on the *Oxford English Dictionary*. The method collects uses, assigns dates, and arranges them as evidence of development through time. Appendix Part 2 calls the decision **The Betrayal of 1948**, because an Indian institution free to reconsider the colonial categories chose to continue them.
 
-The dictionary's editors collected an immense body of evidence, then arranged it within an imported history of development. A longer Vedic ending can serve the meter; a scribe can make a copying error; a speaker can form a new word for a new purpose. These differences do not all describe the language drifting. When editors present them as stages in one story of change, they hide the distinct reasons for each form. The collection gives us evidence with which to challenge the explanation imposed on it.
+The book values the dictionary's immense collection and disputes the explanation imposed on it. A longer Vedic ending can serve the meter; a scribe can make a copying error; a speaker can form a new word for a new purpose. These differences do not all describe the language drifting. The historical arrangement can conceal their distinct causes by making them stages in one story of change.
 
 Indian scholars also resisted the colonial program. Appendix Part 1 contrasts imperial rewards with the confiscation of Vedic publications by श्रीपाद दामोदर सातवळेकर (*Śrīpād Dāmodar Sātavaḷekar*) and his efforts to place that knowledge before a wider public. Institutions and scholars made choices; their Indian or European identity alone does not explain what they did.
 
@@ -407,19 +399,19 @@ Continue in the book: Appendix Part 1 §§1.1–1.4; Appendix Part 2 §§2.2–2
 <!-- page: pie -->
 # The Ancestor Above Sanskrit
 
-European philologists compared related words and patterns in Sanskrit, Greek, Latin, and other languages, then constructed PIE from those comparisons. They placed their reconstruction above the recorded languages as their common ancestor. The book challenges that reversal: the analysts made the languages they studied descend from a parent they had constructed from them.
+European scholars recognized related words and patterns in Sanskrit, Greek, Latin, and other languages. Historical linguistics explains these relationships through descent from PIE, the common ancestor introduced earlier in this guide. The book challenges the step that makes a modern reconstruction the source of the recorded languages used to construct it.
 
 PIE forms are reconstructed by comparing recorded languages. An asterisk before a form identifies it as reconstructed rather than directly recorded. No recording or written passage gives us PIE in use. Its supporters argue that recurring patterns of sounds and word forms across languages point to a common source.
 
-Consider the ancestry of English *king*. Chapter 19 compares older dictionary explanations involving Sanskrit जनक (*janaka*), father or begetter, with later entries in which editors place a starred reconstruction above the recorded words. The editors make Sanskrit one related language among several and give their reconstruction the position of a source. They teach ancestry through the words “from PIE,” while the star marks that source as hypothetical.
+Consider the ancestry of English *king*. Chapter 19 compares older dictionary explanations involving Sanskrit जनक (*janaka*), father or begetter, with entries that place a starred reconstruction above the recorded words. Sanskrit becomes one related language among several, while the reconstruction occupies the position that readers understand as the source. The words “from PIE” teach ancestry; the star marks that source as hypothetical.
 
-Chapter 19 calls this reversal a philological fraud. European analysts learned from Sanskrit's words and grammatical architecture, constructed forms from comparisons with other languages, and then placed their construction above Sanskrit as its ancestor. The pyramid conceals how much its reconstruction depends on the language it claims to explain. When readers challenge the ancestry, its defenders point to the star and insist that the form was only a reconstruction. They disclaim the certainty that their own arrangement encouraged readers to accept.
+Chapter 19 calls this reversal a philological fraud. European analysts learned from Sanskrit's words and grammatical architecture, constructed forms from comparisons with other languages, and then placed their construction above Sanskrit as its ancestor. In the book's argument, the reconstruction conceals its dependence on the language it claims to explain. When challenged, the notation permits a retreat from the ancestry that the dictionary's arrangement has already taught the reader.
 
 An earlier form can be proposed even when it has left no direct record. The objection here concerns what establishes it as the ancestor, rather than simply its absence from a manuscript. *Atomic Sanskrit* argues that the family-tree account also fails to explain Sanskrit's connected system of sounds, word formation, and Vedic calibration. Similarities between selected words cannot stand in for an explanation of that architecture.
 
-The pyramid makes a related substitution through Aryan invasion and migration theories: it assigns Sanskrit's authorship through the ancestry of incoming people. The book calls that claim the **racial Arya thesis**. Archaeology and genetics can provide evidence about people and their movements; movement alone cannot identify who organized Sanskrit's sounds, built its word-forming operations, or established its Vedic preservation system.
+The Aryan invasion and migration accounts make a related substitution when they assign Sanskrit's authorship through the ancestry of incoming people. The book calls that claim the **racial Arya thesis**. Archaeology and genetics can provide evidence about people and their movements; movement alone cannot identify who organized Sanskrit's sounds, built its word-forming operations, or established its Vedic preservation system.
 
-Through these substitutions, the pyramid creates a replacement civilizational memory. It teaches Indians to regard Sanskrit as a foreign inheritance, the Vedas as early literature, and पाणिनि (*Pāṇini*) as the authority who imposed order on drifting speech. Indians can continue to revere all three while schools and reference books teach them to remember the relationship incorrectly. The pyramid erases the distributed architecture from that memory without needing to erase every Sanskrit word.
+Together, these substitutions create a replacement civilizational memory. Sanskrit becomes a foreign inheritance, the Vedas become early literature, and पाणिनि (*Pāṇini*) becomes the authority who imposed order on drifting speech. Indians can continue to revere all three while being taught to remember their relationship incorrectly. The distributed architecture disappears from the account without anyone needing to erase every Sanskrit word.
 
 Chapter 18 brings the sound, grammatical, and civilizational evidence together before offering my personal speculation about how the engineers first created the system. That speculation is identified separately. Chapter 19 develops the alternative account of the relationships among Sanskrit and other languages: outward radiance from an engineered source.
 
@@ -432,7 +424,7 @@ Chapter 18 brings the sound, grammatical, and civilizational evidence together b
 
 The book argues that Sanskrit's sound organization, word formation, grammatical analysis, Vedic examples, and disciplines of exact transmission remain connected. Other languages share particular features of Sanskrit without retaining that complete system.
 
-The birth family gives a concrete example of the comparison. Sanskrit has ⟪जन्⟫ (*jan*), to be born or beget, and formations such as जन्म (*janma*), birth, and जनक (*janaka*), begetter. Chapter 19 places this family beside Latin *genus*, Greek *génos*, and English *kin* and *king*. It argues that the Sanskrit atom and its productive family explain the related forms as outward reflections. Western philologists instead place a reconstructed parent above all of them, giving their construction precedence over the Sanskrit architecture that readers can examine.
+The birth family gives a concrete example of the comparison. Sanskrit has ⟪जन्⟫ (*jan*), to be born or beget, and formations such as जन्म (*janma*), birth, and जनक (*janaka*), begetter. Chapter 19 places this family beside Latin *genus*, Greek *génos*, and English *kin* and *king*. It argues that the Sanskrit atom and its productive family explain the related forms as outward reflections. The rival account places a reconstructed parent above all of them.
 
 The proposed research method begins with the Sanskrit construction, follows the related forms, and examines how contact could have carried them into another language. The receiving speakers use their own sounds and habits, so the word begins a changing life among them while the Sanskrit example remains available. The book uses this contrast between a complete generative architecture and partial reflections to argue direction, rather than assuming that resemblance must mean descent from a lost parent.
 
@@ -457,7 +449,7 @@ Government has an active place in such an order. It protects people and responds
 
 The three shantis extend this inquiry beyond language. People begin by examining their own thoughts and actions. The choices they make then affect their relationships with others, and those relationships exist within the wider world. The swastika represents the outward extension of स्वस्ति (*svasti*), well-being: care taken within each person should benefit others and the larger order they share.
 
-*Atomic Sanskrit* presents the language and its preservation system as evidence that this alternative architecture exists. Later volumes of *Second Shanti* will reconstruct its implications for government, economic life, and other forms of collective order within the second domain. The task begins with knowledge that remains alive in people's mouths and memories, including the inheritance that the pyramid has taught them to misunderstand.
+*Atomic Sanskrit* presents the language and its preservation system as evidence that this alternative architecture exists. Later volumes of *Second Shanti* will reconstruct its implications for government, economic life, and other forms of collective order within the second domain. The task begins with knowledge that remains alive in people's mouths and memories, including memories the inherited account has taught them to misunderstand.
 
 {{invite:E-1}}
 

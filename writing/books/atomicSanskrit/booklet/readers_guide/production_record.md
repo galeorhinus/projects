@@ -1,5 +1,44 @@
 # Reader's Guide: Production Record
 
+## Three Characteristics: 21 September 2026
+
+Following the approved addition in manuscript §1.5, the guide now introduces containment, concealment, and control through the Vedic encounters in "Two Directions of Order." "What a Label Can Conceal" applies the three characteristics to Sanskrit's classification and interpretation. Both guide paragraphs are additions; no existing guide prose was removed.
+
+The approved manuscript reminders accompany this update: Chapter 18 replaces "possession, concealment, and control" with "containment, concealment, and control"; the Epilogue expands "The pyramid repeats containment beneath an apex" to name all three and connect them to access to knowledge, Sanskrit's architecture, and its interpretation. These are reminders of the book's abstraction from the encounters, not a claim that a mantra enumerates the English triad.
+
+PDFs remain unchanged. The next authorized render must recheck the paragraph-based breaks and page flow after these additions, along with the preceding voice and accessibility edits.
+
+## Source-Only Voice Sweep: 21 September 2026
+
+The author requested the book's argumentative voice in accessible English, not a neutral survey. Completed the sweep across the narrative, chapter introductions, all invitations, and cover prose. Named the pyramid, Western philologists, editors, and institutions where abstractions had concealed their actions. Expanded the Arabic comparison to identify the burning order, al-Azhar's approval, and Egyptian publication penalties, while retaining teaching and memorization as parts of preservation.
+
+There are 36 replacement groups in the [exact before-and-after record](voice_sweep_20260921.md), with originals in `archive/pre_voice_sweep_20260921/`. Four invitation texts changed; all 101 IDs, placements, and destinations remain intact. The ten figures, technical examples, numerical scope, and personal-speculation markers are unchanged. README and the revision plan now explicitly distinguish simple vocabulary from a softened stance.
+
+Twenty source-level tests pass. PDF-dependent tests were excluded because no render was authorized. The A4 and A5 PDFs still reflect 20 September; the next approved build must recheck pagination after both the accessibility and voice changes. No full-book manuscript edits or commits were made in this sweep.
+
+## Source-Only Accessibility Sweep: 21 September 2026
+
+The author requested Devanagari alongside terms whose specialized IAST letters may be difficult for this guide's readers. The main narrative, chapter introductions, invitation wording, and cover prose now pair those terms. Examples include माण्डूक्य उपनिषद् (*Māṇḍūkya Upaniṣad*), ऋग्वेद (*Ṛgveda*), पाणिनि (*Pāṇini*), पतञ्जलि (*Patañjali*), बृहस्पति (*Bṛhaspati*), स्वर्भानु (*Svarbhānu*), and ब्राह्मी (*Brāhmī*). तोल्काप्पियम् is a Devanagari reading aid for the Tamil title, not a claim that the work is Sanskrit. The existing figure labels already pair scripts.
+
+English possessives were rephrased around the paired names. The adjective "Upaniṣadic" became "that description" after its source had been named; no argument was removed. The guide-only subtitle presentation pairs सनातन (*Sanātan*), leaving root book metadata unchanged. Historical archives and comparison records remain unchanged.
+
+Eleven source-level checks pass, including all 101 invitations appearing once, destination and chapter-title checks, and new tests rejecting specialized IAST outside Devanagari pairs. No PDFs were generated; the 20 September files and their page counts remain the last rendered version. The two earlier wording changes made on 21 September are also pending that build.
+
+## Current Revision: Content and Both Editions
+
+**20 September 2026:** The author approved the content audit and section plan, then authorized all remaining passes and A4/A5 PDF production without further prompts. All four content passes are complete. The earlier revision records below remain historical; the counts in this section describe the current outputs.
+
+- [Content change log](content_revision_change_log.md) and [exact before-and-after record](content_revision_before_after.md).
+- Three new narrative sections: the explicit challenge, the fourth-Abrahamic-religion thesis, and institutional custody. Pāṇini now precedes the two-domain explanation. The institutional, PIE, radiance, and closing arguments are fuller; chapter-numbered headings match the manuscript.
+- Source words: **11,708**, up from **9,488**; **47 sections**, **101 invitations**, and **10 diagrams**. Every invitation remains at its existing source-section placement and appears once.
+- A5: **66 interior / 70 complete pages**, 148 × 210 mm, 11 pt body and 14.4 pt leading. A4: **42 interior / 46 complete pages**, 210 × 297 mm, 12 pt body and 16 pt leading. Four cover faces per edition; neither interior requires blank padding.
+- STIX Two Text and Tiro Devanagari Sanskrit retained. Mirrored inner margins remain 20 mm in A5 and 25 mm in A4. Figure geometry and outlined exports are unchanged; minimum labels remain above 8.5 pt at final width.
+- **25 tests pass.** No missing glyphs, overfull boxes, text outside page bounds, duplicate/missing invitations, or unplanned continuation pages. Trim, fonts, binding clearance, bookmarks, and print/complete copies checked. Both editions' page sheets and covers were inspected; revised multilingual headings were also checked at full-page scale.
+- Final layout repair: explicit continuation breaks replace short accidental overflow pages; chapter headings wrap at word boundaries without smaller type.
+- Main manuscript, thesis summary, unrelated figures, and outreach documents were not edited. Existing source/planning discrepancies are recorded in the audit, not silently reconciled.
+
+The complete originals were archived before editing under `archive/pre_content_revision_20260920/`. These remain review copies; physical proof, author acceptance, website deployment, and printer submission were not performed.
+
 ## Scope and Approval
 
 The author waived the interim review gates on 18 September 2026. Complete the booklet autonomously, retaining internal checks. No changes to the full manuscript are authorized by this task. This is a review draft, not an author-approved publication or an independently verified replacement for the full book.
@@ -260,3 +299,55 @@ Approved Preface insertion, now applied after the opening explanation of the thr
 > The third concerns natural and cosmic forces beyond direct human control that affect human beings and other life. All volumes of *Second Shanti* focus on the second domain.
 
 This expansion replaces the existing sentences that briefly name the second domain; it does not repeat them. Reconstruction from first principles remains explicit in the preceding paragraph. No PDF generated and no commit or push. The internal series-planning correction above remains pending.
+
+## Approved A5 and A4 Editions: 20 September 2026
+
+The author authorized both renders: A5 at 11 pt and A4 at 12 pt. Both use the same 9,481-word source and retain all 101 invitations. No prose was cut or rewritten during this layout pass, and the main manuscript was not changed.
+
+| Setting | A5 | A4 |
+|---|---|---|
+| Page size | 148 x 210 mm | 210 x 297 mm |
+| Body type and leading | 11 / 14.4 pt | 12 / 16 pt |
+| Mirrored inner margin | 20 mm | 25 mm |
+| Interior pages | 50 | 40 |
+| Complete PDF, including four cover faces | 54 | 44 |
+| Smallest figure label at printed width | 9.13 pt | 12.6 pt |
+
+- STIX Two Text and Tiro Devanagari Sanskrit remain the body fonts. Figures remain outlined vectors. Font embedding was checked in both interiors.
+- The 44 source sections are no longer treated as fixed physical pages. Five A5 sections have planned paragraph-boundary continuations; five A4 invitation sections share pages with the preceding section. Body type and leading remain at the approved sizes.
+- Each interior includes one intentional final blank page for duplex printing. Each size has an interior PDF, an identical `.print.pdf`, a four-face `.cover.pdf`, and a `.complete.pdf`. The unsuffixed cover filename remains an A5 compatibility alias.
+- The builder accepts `--layout a5`, `--layout a4`, or `--layout all`. Reports and visual checks now live under `build/a5/` and `build/a4/`; older root-level reports describe earlier editions.
+- All pages and cover faces were inspected in contact sheets. Selected pages were also inspected at larger size with Poppler, including the A5 continuation heading, the sound grid in grayscale, and grouped A4 chapter invitations. No missing glyphs, overfull boxes, or text outside the page were detected. All 19 tests pass, including printed font sizes, binding clearance, destinations, figure outlines, and duplex padding.
+- Print at actual size, double-sided with long-edge flipping. Use the interior and cover files separately when printing covers on different stock. Confirm the printer's punch requirements with a physical proof before ordering copies. These are not imposed or PDF/X files and have no bleed or crop marks.
+- No website deployment, print order, commit, or push was performed.
+
+### Sonomer Label Follow-up (Source Only)
+
+Replaced **Sound** with **Sonomer** beneath वर्ण in `inside_out.svg`, its accessible description, and the figure generator. The same asset appears in the introductory narrative and inside front cover of both editions. Introduced the term before the narrative diagram and paired it with वर्ण (*varṇa*) in the final terms list. General references to sound remain unchanged.
+
+The source now contains 9,497 words, 16 more than the last render. All 13 source-only tests pass, including a new check for the figure labels and nearby explanation. PDF-dependent checks are deferred: neither edition nor its covers has been rebuilt, so the current PDFs and their QA reports still describe the previous source. Rebuild without `--skip-figures` at the next approved render.
+
+### Authority and Architecture Icons (Source Only)
+
+Replaced the two icons in `two_orders.svg` and its generator: `ic-pyramid` becomes `ic-authority`, and `ic-swastika` becomes `ic-architecture`. Both sit in centered 160 x 145 viewports below their headings and above their captions. Updated the accessible description and added a test for the selected shared assets. No prose changes or PDF rebuild.
+
+### Hex-Node Diagram and Approved A4 Rebuild
+
+The author supplied `figures/two_chains_hex_nodes.from-cd.svg` and approved an A4 rebuild. It replaces the plain two-chain `inside_out.svg`, not the separate `two_orders.svg` comparison. The original remains untouched; the figure generator promotes it to the canonical `inside_out.svg` with local STIX/Tiro fonts, an accessible description, and slightly larger, darker IAST labels. The original hex geometry, arrows, wording, and layout remain. Imported design sources are excluded from canonical figure exports and size checks.
+
+The new figure appears on the front cover, interior title page, and "From Sound to Order" page. Earlier follow-up entries incorrectly called the cover placement "inside front cover"; it is on the front cover itself. The A4 rebuild also includes the preceding sonomer prose changes and authority/architecture icons. No further prose changes were made in this pass.
+
+A4 remains 40 interior pages, including the final blank, plus four cover faces (44 pages in the complete copy), at 12 pt body type. All 101 invitations remain. The smallest diagram label prints at 12.15 pt. Figures were outlined, the affected pages and cover faces were inspected, and the main diagram page was checked with Poppler at larger size. All 22 tests pass with `GUIDE_TEST_LAYOUT=a4`; no missing glyphs, overfull boxes, unplanned continuation pages, or out-of-page text were detected.
+
+A5 PDFs remain unchanged, with the previous figure and 9,481-word source. Current source and A4 contain 9,497 words. Recheck A5 page flow for the taller diagram when its next render is approved. No commit, push, website deployment, or print order.
+
+### Both Editions Updated: Cover Hierarchy and Neutral Pronouns
+
+The author approved the A5 rebuild, then requested a larger subtitle above "A Reader's Guide" and easy neutral substitutions for generic masculine pronouns. Both editions now contain those changes and the latest figures.
+
+- On front covers and interior title pages, the order is *Atomic Sanskrit*, its full subtitle, then *A Reader's Guide*. Subtitle type is 17/21 pt in A5 and 18/22 pt in A4, with the guide label at 14/18 pt. Subtitle words do not hyphenate. A5 title-page blank space was reduced without shrinking its typography or figure.
+- A5's "From Sound to Order" now breaks after the diagram and resumes under a repeated heading marked "Continued." This adds a content page and removes the need for the former final blank. A5 remains 50 interior pages and 54 with covers. A4 remains 40 interior pages, including its final blank, and 44 with covers. Body type and leading are unchanged.
+- Eleven guide paragraphs were adjusted for neutral references to generic people, learners, and seekers. The opening now says "one can seek ... within oneself." Other passages use plural subjects or straightforward singular *they*. References to named people and grammatical examples remain unchanged. The main book manuscript was not edited.
+- Shared source count is now 9,488 words, nine fewer than the preceding 9,497-word version. All 101 invitations remain. Both interiors, print copies, cover files, complete copies, and the A5 legacy cover alias were refreshed.
+- Inspected the cover hierarchy, A5 diagram page and continuation, and affected page flow. All 23 tests pass across both sizes, including subtitle order and font sizes, page counts, bookmarks, source consistency, figure outlines, and binding clearance. No missing glyphs, overfull boxes, or out-of-page text were reported.
+- Physical proofs remain pending. No commit, push, deployment, or print order.

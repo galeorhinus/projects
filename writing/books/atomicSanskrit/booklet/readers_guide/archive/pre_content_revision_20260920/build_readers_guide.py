@@ -166,7 +166,7 @@ def preamble(book, cfg):
 \renewenvironment{quote}{\list{}{\leftmargin=10pt\rightmargin=10pt}\item\relax\color{teal}}{\endlist}
 \newcommand{\pagetitle}[3][]{\Needspace{6\baselineskip}\pdfbookmark[0]{#2#1}{#3}{\fontsize{TITLEFONT}{TITLELEADING}\selectfont\color{teal}\bfseries\hyphenpenalty=10000\exhyphenpenalty=10000 #2\par}\vspace{4pt}}
 \newcommand{\continuedtitle}[2]{\pagetitle[ (continued)]{#1}{#2}{\fontsize{9.5}{12}\selectfont\color{teal}Continued\par}\vspace{4pt}}
-\renewcommand{\subsection}[1]{\par\Needspace{6\baselineskip}\vspace{7pt}{\fontsize{SUBFONT}{SUBLEADING}\selectfont\bfseries\color{teal}\raggedright\hyphenpenalty=10000\exhyphenpenalty=10000 #1\par}\vspace{2pt}}
+\renewcommand{\subsection}[1]{\par\Needspace{6\baselineskip}\vspace{7pt}{\fontsize{SUBFONT}{SUBLEADING}\selectfont\bfseries\color{teal}#1\par}\vspace{2pt}}
 \newcommand{\partlabel}[1]{{\fontsize{9}{12}\selectfont\color{teal}#1\par}\vspace{5pt}}
 \newcommand{\invitation}[2]{\par\vfill\vspace{3pt}\begin{minipage}{\linewidth}\setlength{\parskip}{0pt}\fontsize{INVFONT}{INVLEADING}\selectfont
 {\color{gold}\hrule height .4pt}\vspace{4pt}\textbf{Explore:} #1\par
@@ -188,10 +188,7 @@ def preamble(book, cfg):
 
 
 def title_page(book, cfg, cover=False):
-    # Keep canonical metadata; add Devanagari for the guide's readers.
-    subtitle = book["subtitle"]
-    if "सनातन" not in subtitle:
-        subtitle = subtitle.replace("Sanātan", "सनातन (*Sanātan*)")
+    # Metadata stays in as_book.yaml; the guide adds only its publication label.
     return "\n".join([
         r"\thispagestyle{empty}",
         r"\vspace*{" + str(cfg["title_page_top_mm"]) + "mm}",
@@ -200,7 +197,7 @@ def title_page(book, cfg, cover=False):
         r"{\fontsize{35}{38}\selectfont\bfseries " + latex(book["title"]).replace(" ", "\\par ", 1) + r"\par}",
         r"\vspace{4mm}",
         r"{\fontsize{" + str(cfg["subtitle_font_size"]) + "}{" + str(cfg["subtitle_leading_pt"]) +
-        r"}\selectfont\raggedright\hyphenpenalty=10000\exhyphenpenalty=10000 " + latex(subtitle) + r"\par}",
+        r"}\selectfont\raggedright\hyphenpenalty=10000\exhyphenpenalty=10000 " + latex(book["subtitle"]) + r"\par}",
         r"\vspace{4mm}",
         r"{\color{teal}\fontsize{14}{18}\selectfont " + latex(cfg["publication"]) + r"\par}",
         r"\vspace{6mm}",
@@ -260,9 +257,9 @@ def make_interior(book, cfg, pages, invitations):
 def make_cover(book, cfg):
     text = [preamble(book, cfg), r"\pagestyle{empty}", title_page(book, cfg, cover=True), r"\clearpage"]
     text.append(r"\pagetitle{An Introduction to the Argument}{inside-front}")
-    text.append(latex("""How can a language remain unchanged while people continue creating new expressions? What does its preservation reveal about the order of the civilization that cares for it?
+    text.append(latex("""How can a language remain dependable while people continue creating new expressions? What does its preservation reveal about the order of the civilization that cares for it?
 
-This guide follows the argument of *Atomic Sanskrit* from the speaking body through sounds, words, sentences, and Vedic transmission. It explains the book's case for an engineered language within an inside-out architecture of सनातन (*Sanātan*), then examines how Western philologists and their institutional successors conceal that architecture through the history they teach.
+This guide follows the argument of *Atomic Sanskrit* from the speaking body through sounds, words, sentences, and Vedic transmission. It explains why the book places Sanskrit within an inside-out architecture of Sanātan and why it challenges the inherited account of Sanskrit's origin.
 
 You can follow the examples without knowing Sanskrit. The first part explains the argument in familiar English, supported by Devanagari and diagrams. The second part offers a chapter-by-chapter route into the full book.
 
@@ -285,9 +282,7 @@ Website: [secondshanti.org/as]({cfg['website']})"""))
     text.extend([r"\clearpage", r"\vspace*{12mm}", r"\pagetitle{From Sound to Civilization}{back}"])
     text.append(latex("""Sanskrit's familiar sound sequence maps the speaking body. Small forms carrying basic meanings combine into words, and words form expressions that can carry knowledge across generations. The Vedas keep complete examples available for checking and correction.
 
-*Atomic Sanskrit* argues that this system demonstrates an inside-out order whose standard no apex can own. It challenges Western philologists who place an invented PIE ancestor above Sanskrit and accuses colonial scholarship and its institutional successors of replacing India's memory of that architecture.
-
-This guide explains the argument in familiar English, with Devanagari, diagrams, and examples readers can examine. It follows the language's construction, its protection against error and deliberate attack, and the book's account of knowledge traveling outward from India. Its 101 invitations lead into the full book's evidence and arguments."""))
+*Atomic Sanskrit* connects this linguistic architecture to a larger idea: order can grow through shared standards and distributed responsibility rather than commands from an apex. This reader's guide introduces that argument in familiar English, with examples, diagrams, and pointers to the book's chapters. It also explains the book's challenge to the accepted account of Sanskrit's origin and its alternative account of knowledge traveling outward from India."""))
     text.extend([r"\vfill", r"\includegraphics[width=29mm]{"+(BUILD / "website_qr.pdf").as_posix()+r"}\par",
                  latex(f"[secondshanti.org/as]({cfg['website']})")+r"\par",
                  r"\vspace{3mm}{\fontsize{14}{17}\selectfont "+latex(book["author"])+r"\par}", r"\end{document}"])
