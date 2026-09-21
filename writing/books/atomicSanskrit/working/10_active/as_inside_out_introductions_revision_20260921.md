@@ -1,7 +1,11 @@
 # Architecture-First Introductions: Revision Record
 
 Date: 21 September 2026
-Status: source edits complete; rendered copies unchanged.
+Status: source edits committed and deployed; both Reader's Guide PDF editions rebuilt after author approval. Other rendered copies remain unchanged.
+
+## Publication Follow-up
+
+Committed and pushed as `54a2109f`, then deployed with `as-deploy`. Rebuilt the A5 and A4 Reader's Guide PDFs: 70 and 44 interior pages respectively, plus four cover faces each. All 28 guide tests pass, and the revised opening pages were visually inspected. The source-only verification record below describes the earlier editorial pass; the current production details are in `booklet/readers_guide/production_record.md`.
 
 ## Approved Sequence
 
@@ -378,4 +382,3 @@ index 5daebf01..fe29e17d 100644
  
  The full book is forthcoming.
 ```
-

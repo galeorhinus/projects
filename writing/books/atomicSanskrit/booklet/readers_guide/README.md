@@ -2,7 +2,7 @@
 
 A separate orientation booklet in A5 and A4. This is a review draft. Part I explains the author's argument in accessible English; Part II introduces the chapters and invites further reading. All 101 invitations appear once across the two parts. It is not the planned 20,000-word concise book and does not replace the Source and Reference Companion.
 
-**Source update after the 21 September render:** the introduction now asks about language and Sanātan's architecture first, followed by Sanskrit's invariance without central enforcement. The opening narrative makes the same connection explicit. These changes are not yet in either PDF edition. Twenty source-only tests pass; the next authorized render must recheck the inside front cover and the opening section's continuation breaks.
+**Architecture-first PDFs rebuilt, 21 September 2026:** both editions now ask about language and Sanātan's architecture first, followed by Sanskrit's invariance without central enforcement. The inside front cover and opening narrative include the revised connection. All 28 tests pass, and the affected pages were visually inspected in both sizes. Existing page breaks and font sizes remain unchanged.
 
 **Last PDFs rebuilt, 21 September 2026:** both editions include the wording updates, Devanagari accessibility sweep, named actors and mechanisms of control, and the containment/concealment/control introduction. The subtitle pairs सनातन (*Sanātan*) without changing the book's canonical metadata. See the [voice-sweep comparison](voice_sweep_20260921.md). All 28 tests passed for that render, and its page sheets and covers were visually inspected.
 
@@ -66,7 +66,7 @@ The `.print.pdf` suffix does not indicate PDF/X certification or an imposed sign
 
 Mirrored inner margins reserve 20 mm for A5 binding and 25 mm for A4 binding; outer margins are 12 mm and 25 mm respectively. Have the printer confirm its spiral-punch clearance, paper, cover stock, and color handling before ordering. These files are prepared for a physical proof, not a guarantee of compatibility with an unspecified punch or binding machine.
 
-The shared source and both editions contain 12,095 words. Counts include headings, invitations, and destinations and exclude figure labels and cover copy. Body type is STIX Two Text: 11 pt / 14.4 pt leading in A5, 12 pt / 16 pt in A4. Sanskrit uses Tiro Devanagari Sanskrit. Current source figures have minimum labels of 8.81 pt at the A5 figure width of 116 mm and 12.15 pt at the A4 width of 160 mm. Reflow pages rather than shrinking type or compressing explanations to retain a page count.
+The shared source and both editions contain 12,143 words. Counts include headings, invitations, and destinations and exclude figure labels and cover copy. Body type is STIX Two Text: 11 pt / 14.4 pt leading in A5, 12 pt / 16 pt in A4. Sanskrit uses Tiro Devanagari Sanskrit. Current source figures have minimum labels of 8.81 pt at the A5 figure width of 116 mm and 12.15 pt at the A4 width of 160 mm. Reflow pages rather than shrinking type or compressing explanations to retain a page count.
 
 ## Checks
 

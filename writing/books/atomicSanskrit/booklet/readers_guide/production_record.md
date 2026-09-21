@@ -1,5 +1,16 @@
 # Reader's Guide: Production Record
 
+## Architecture-First Rebuild and Deployment: 21 September 2026
+
+The author approved commit, push, `as-deploy`, and both Reader's Guide PDF editions. Committed the introduction and related outreach revisions as `54a2109f`, pushed to `origin/main`, and ran `as-deploy` successfully. The server refreshed the book, essays, guide, and jacket copy; the public landing returned HTTP 200 and the 14-group access roster matched.
+
+- Rebuilt both interiors, print copies, four-face covers, complete reading copies, and the legacy A5 cover alias.
+- A5 remains 70 interior / 74 complete pages at 11 pt; A4 remains 44 interior / 48 complete pages at 12 pt. Each interior retains one final blank page for duplex printing.
+- The shared source count is 12,143 words, 48 more than the preceding render. All 101 invitations, 47 sections, and ten figures remain.
+- All 28 tests pass, including current source/output agreement, page flow, font routing, figure outlines, bookmarks, and print-copy identity. No missing glyphs, overfull boxes, or out-of-page text were detected.
+- Visually inspected both revised inside front covers, the A5 opening page sheet and full-size continuation, and the A4 opening narrative. No changes to prose, page breaks, or typography were needed during this rebuild.
+- Main-book, Reference Companion, essay, overview, and book-cover PDFs were not rebuilt. Generated guide PDFs remain local ignored build artifacts, not Git-tracked files or downloads deployed by `as-deploy`.
+
 ## Architecture-First Introduction: 21 September 2026 (Source Only)
 
 After the approved render below, the author requested a different opening sequence: what language has to do with Sanātan's architecture, followed by how Sanskrit remained unchanged without central enforcement. Updated the inside front cover in `build_readers_guide.py` and the "Why I Wrote This Book" narrative. The explanation connects shared linguistic examples and self-correction to the book's account of inside-out order. All 101 invitations, section IDs, and figures remain unchanged.
