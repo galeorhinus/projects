@@ -236,7 +236,7 @@ Chapter 0 brought two Vedic statements together. The Ṛgveda says that सत�
 
 The distinction therefore existed before human beings. Humans inherited the capacity to align their actions with either condition and to build orders that serve either one.
 
-असत् (*Asat*) does not need long-term memory to return. Ego can rediscover possession, concealment, and control in every age. A pyramid may preserve its own methods, but it becomes stronger when everyone else forgets how those methods were exposed and defeated.
+असत् (*Asat*) does not need long-term memory to return. Ego can rediscover containment, concealment, and control in every age. A pyramid may preserve its own methods, but it becomes stronger when everyone else forgets how those methods were exposed and defeated.
 
 सत् (*Sat*) therefore faces two problems. Human memory is short: individuals die, institutions weaken, and kingdoms fall. Forces aligned with असत् (*asat*) do not merely wait for that memory to fade. They attack it because a society that remembers how containment was defeated can recognize and resist its return. Later generations need a memory that can outlive its custodians and survive deliberate attempts to erase it.
 

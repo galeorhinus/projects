@@ -92,7 +92,7 @@ The standard is **यत् भूतहितम् अत्यन्तं �
 
 The book has followed this battle across four scales. At the cosmic scale, *sat* and the ऋत (*ṛta*) order confront orders built from *asat*. At the scale of action, दैवी माया (*daivī māyā*) turns power toward radiance, protection, and release. आसुरी माया (*āsurī māyā*) turns power toward concealment, projection, and containment. Human beings reproduce the choice through संस्कृति (*saṃskṛti*) and the pyramid. At the linguistic scale, the pyramid conceals Sanskrit's created architecture, projects botanical drift and PIE in its place, and uses the Racial Arya Thesis to separate that architecture from India.
 
-These are two fractals meeting at different scales. The swastika repeats created order without an apex. The pyramid repeats containment beneath an apex.
+These are two fractals meeting at different scales. The swastika repeats created order without an apex. The pyramid repeats containment, concealment, and control beneath an apex: it restricts access to knowledge, hides Sanskrit's architecture, and claims authority over its interpretation.
 
 The deepest contest is over civilizational memory. The pyramid needs later generations to forget that an order without an apex existed and that their ancestors defended it. *Sanātan* carries that memory throughout society, allowing no single institution or attack to erase it. The calibrant does more than keep the past available. It allows people in the present to compare their own conduct with an inherited standard.
 
