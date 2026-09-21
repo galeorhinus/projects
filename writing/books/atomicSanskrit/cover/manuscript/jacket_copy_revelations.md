@@ -1,8 +1,10 @@
 # *Atomic Sanskrit* Jacket Copy — Questions and Revelations
 
-How can a language remain unchanged for thousands of years and yet possess an unmatched capacity for new expression?
+What does a language have to do with the architecture of सनातन (*Sanātan*)?
 
-Sanskrit did exactly that. Its architecture has remained invariant across thousands of years. Throughout that time, speakers have used it, and continue to use it today, to compose epics and romantic poetry, preserve mathematical formulae, calculate planetary movements, conduct trade, and create words for circumstances that earlier generations had never encountered.
+How has Sanskrit remained unchanged for thousands of years without a central authority enforcing it?
+
+Sanskrit's architecture has remained invariant across thousands of years while speakers continue to compose epics and romantic poetry, record mathematical formulae, calculate planetary movements, conduct trade, and create words for circumstances that earlier generations had never encountered. Its caretakers keep the same standard available without giving any one institution ownership of it.
 
 *Atomic Sanskrit* reveals how. Sanskrit's internal architecture begins in the human mouth. Its sounds occupy anatomical coordinates. Those sounds form stable units of meaning that behave like *atoms*, not roots of a language family tree. The atoms combine and recombine, demonstrating that the language was engineered for new expression without rebuilding its foundation.
 
@@ -18,4 +20,4 @@ The book exposes how Western philologists constructed an imaginary language call
 
 *Atomic Sanskrit* demonstrates that Greek, Latin, and other Eurasian languages preserve partial reflections of Sanskrit’s radiance as it traveled outward. Their similarities record contact with a complete architecture, not descent from an imaginary parent.
 
-The final revelation extends beyond language. Sanskrit and *Saṃskṛti* share the same architecture. It is radiant because it gives without diminishing its source, calibrant because it preserves alignment without an apex, and fractal because the same pattern repeats at every scale. The first *Second Shanti* volume begins with language and uncovers an ancient alternative to order imposed from above.
+Sanskrit and *Saṃskṛti* share the same inside-out architecture. People learn a shared standard and develop the ability to judge and correct their own actions. The design is radiant because it gives without diminishing its source, calibrant because it maintains alignment without an apex, and fractal because the same pattern repeats at different scales. The first *Second Shanti* volume begins with language to demonstrate an ancient alternative to order imposed from above.

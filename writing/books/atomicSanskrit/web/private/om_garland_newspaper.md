@@ -72,7 +72,9 @@ The relation between Oṃ and the *varṇamālā* introduces a pattern that cont
 
 The same discipline repeats at different scales: precise constituent, compact form, stable identity, and wide expressive range. A fractal repeats a recognizable architecture as its scale changes. Sanskrit begins displaying that fractal in the body, before anyone writes a grammatical rule on a page.
 
-Oṃ carries the signature of a civilizational order because the same fractal extends from Sanskrit into Sanskriti. *Atomic Sanskrit* compares this order with its opposite. One creates order through a shared and distributed standard that no ruler can own; Sanskrit demonstrates this architecture at the scale of language. The other imposes order from an apex. The Vedas preserve the first architecture and carry it through exact sound. Across generations, the Hindu continuum has protected Sanskrit; Sanskrit, in turn, has preserved the architecture that protects the continuum.
+Oṃ carries the signature of a civilizational order because the same fractal extends from Sanskrit into Sanskriti. A learner can hear a shared example, recognize a departure in their own pronunciation, and correct it. In civilizational life, people can remember shared stories, examine their own choices, and change how they act. Both begin with understanding developed within the participant and a standard available beyond any one person's judgment. This is the inside-out architecture of सनातन (*Sanātan*) that *Atomic Sanskrit* examines.
+
+Sanskrit's invariance across thousands of years demonstrates how such a standard can endure without an apex owning it. The Vedas keep the language's calibrant available through exact sound and distributed transmission. The pyramid imposes the opposite relationship: an apex determines what others must accept. Across generations, the Hindu continuum has protected Sanskrit; Sanskrit, in turn, has preserved the architecture that protects the continuum.
 
 **Oṃ is the *akṣara* in which Sanskrit and Sanskriti are compressed into a radiant fractal that can be heard. The sign ॐ is the visible symbol of Sanātan's fractal architecture.**
 

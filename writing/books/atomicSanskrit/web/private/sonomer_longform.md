@@ -83,7 +83,7 @@ That recurrence is the beginning of Sanskrit's fractal architecture. The speakin
 
 The Vedas stand at the center of that architecture. Their exact transmission keeps Sanskrit's sounds present in the ear and mouth across generations, while the worldly domain uses the same reusable sound-particles to create new expression. The received mantras remain invariant, and the language remains capable of describing circumstances no earlier speaker encountered.
 
-*Atomic Sanskrit* follows this architecture from mouth to language and then asks what kind of civilizational order could preserve it without surrendering control to an apex. The inquiry begins with something millions of children already carry in memory.
+This is why *Atomic Sanskrit* begins its examination of सनातन (*Sanātan*) with language. Learners develop the ability to recognize and correct a sound against a standard that others also know. They need no central office to approve each correction. The book follows this inside-out design into civilizational life, where shared stories and examples help people judge their own conduct. Sanskrit's invariance allows us to study how a shared standard can remain available across thousands of years without an apex owning it.
 
 **क ख ग घ ङ** is not merely the beginning of an alphabet. It is the opening sequence of an engineered map of human speech.
 

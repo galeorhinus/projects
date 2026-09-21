@@ -2,7 +2,9 @@
 
 A separate orientation booklet in A5 and A4. This is a review draft. Part I explains the author's argument in accessible English; Part II introduces the chapters and invites further reading. All 101 invitations appear once across the two parts. It is not the planned 20,000-word concise book and does not replace the Source and Reference Companion.
 
-**PDFs rebuilt, 21 September 2026:** both editions include the wording updates, Devanagari accessibility sweep, named actors and mechanisms of control, and the containment/concealment/control introduction. The subtitle pairs सनातन (*Sanātan*) without changing the book's canonical metadata. See the [voice-sweep comparison](voice_sweep_20260921.md). All 28 tests pass, and the page sheets and covers have been visually inspected.
+**Source update after the 21 September render:** the introduction now asks about language and Sanātan's architecture first, followed by Sanskrit's invariance without central enforcement. The opening narrative makes the same connection explicit. These changes are not yet in either PDF edition. Twenty source-only tests pass; the next authorized render must recheck the inside front cover and the opening section's continuation breaks.
+
+**Last PDFs rebuilt, 21 September 2026:** both editions include the wording updates, Devanagari accessibility sweep, named actors and mechanisms of control, and the containment/concealment/control introduction. The subtitle pairs सनातन (*Sanātan*) without changing the book's canonical metadata. See the [voice-sweep comparison](voice_sweep_20260921.md). All 28 tests passed for that render, and its page sheets and covers were visually inspected.
 
 Both editions include the content revision authorized on 20 September and the subsequent source updates. A5 has 70 interior pages at 11 pt; A4 has 44 at 12 pt. Each interior includes one final blank page for duplex printing and has a separate four-face cover. The 47 source markers identify shared sections; each layout controls its own page breaks without changing the prose or invitation placements.
 

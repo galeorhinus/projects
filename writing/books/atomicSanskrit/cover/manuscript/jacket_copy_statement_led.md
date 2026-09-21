@@ -1,8 +1,8 @@
 # *Atomic Sanskrit* Jacket Copy
 
-All natural languages change over time. Sanskrit, and Sanskrit alone, has thrived for thousands of years without changing. Yet it has allowed speakers to create new words, compose poetry, record mathematics, explain astronomy, conduct trade, and describe a changing world.
+*Atomic Sanskrit* examines the inside-out architecture of सनातन (*Sanātan*) through language. Sanskrit demonstrates how people can learn a shared standard, recognize mistakes, and correct one another without an apex owning that standard. It has thrived for thousands of years without changing, while speakers continue to create new words, compose poetry, record mathematics, explain astronomy, conduct trade, and describe a changing world.
 
-How has Sanskrit remained invariant for thousands of years while continuing to generate new expression? Why did that invariance matter? What role did the Vedas play? What did Pāṇini actually document? Why do languages across Eurasia reflect Sanskrit? And what can Sanskrit teach us about creating durable order without an apex?
+How has Sanskrit remained unchanged for thousands of years without a central authority enforcing it? Why did that invariance matter? What role did the Vedas play? What did Pāṇini actually document? Why do languages across Eurasia reflect Sanskrit?
 
 *Atomic Sanskrit* examines Sanskrit as an engineered system. Its internal architecture begins in the human mouth, where sounds occupy anatomical coordinates. Those sounds combine into compact units of meaning that generate words and sentences.
 

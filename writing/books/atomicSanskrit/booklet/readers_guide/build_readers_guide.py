@@ -260,9 +260,11 @@ def make_interior(book, cfg, pages, invitations):
 def make_cover(book, cfg):
     text = [preamble(book, cfg), r"\pagestyle{empty}", title_page(book, cfg, cover=True), r"\clearpage"]
     text.append(r"\pagetitle{An Introduction to the Argument}{inside-front}")
-    text.append(latex("""How can a language remain unchanged while people continue creating new expressions? What does its preservation reveal about the order of the civilization that cares for it?
+    text.append(latex("""What does a language have to do with the architecture of सनातन (*Sanātan*)?
 
-This guide follows the argument of *Atomic Sanskrit* from the speaking body through sounds, words, sentences, and Vedic transmission. It explains the book's case for an engineered language within an inside-out architecture of सनातन (*Sanātan*), then examines how Western philologists and their institutional successors conceal that architecture through the history they teach.
+How has Sanskrit remained unchanged for thousands of years without a central authority enforcing it?
+
+*Atomic Sanskrit* begins with language because Sanskrit demonstrates how people can maintain order through a shared standard that no ruler owns. This guide follows that argument from the speaking body through sounds, words, sentences, and Vedic transmission. It explains how the same inside-out design extends into the way people learn, judge their actions, and correct one another. It then examines how Western philologists and their institutional successors conceal that architecture through the history they teach.
 
 You can follow the examples without knowing Sanskrit. The first part explains the argument in familiar English, supported by Devanagari and diagrams. The second part offers a chapter-by-chapter route into the full book.
 

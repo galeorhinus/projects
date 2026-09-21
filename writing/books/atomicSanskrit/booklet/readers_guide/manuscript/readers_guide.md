@@ -14,7 +14,11 @@ Hindu society has kept alive the knowledge through which one can seek शान�
 
 The second concerns how people live with one another and other living beings. Over the last millennium, Abrahamic rulers destroyed or displaced institutions through which Hindu society maintained order in this domain. They imposed commands from above, disrupting the transmission of knowledge that had guided public life. Much of that knowledge was lost, but parts of the earlier architecture remained alive in language, stories, teaching, and everyday practice.
 
-*Second Shanti* is my attempt to reconstruct that architecture from first principles. I begin with what we can still examine: how people learn a shared standard, recognize mistakes, exercise restraint, and correct one another without giving an apex ownership of the standard. Sanskrit is a living example through which we can study those principles in detail.
+*Second Shanti* is my attempt to reconstruct that architecture from first principles. I begin with what we can still examine: how people learn a shared standard, recognize mistakes, exercise restraint, and correct one another without giving an apex ownership of the standard.
+
+What does a language have to do with the architecture of सनातन (*Sanātan*)? Sanskrit demonstrates these principles in daily teaching and practice. Learners develop the ability to check their pronunciation and word formation against examples that many others also know. A ruler need not authorize each correction.
+
+How has Sanskrit remained unchanged for thousands of years without a central authority enforcing it?
 
 Generations of teachers and students had maintained Sanskrit's sounds and word-forming methods through teaching and practice. They could compare what they said with examples that others also knew, recognize mistakes, and correct them. The Vedas kept those examples available for later generations to hear and learn.
 

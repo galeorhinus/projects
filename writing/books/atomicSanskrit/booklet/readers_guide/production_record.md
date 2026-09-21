@@ -1,5 +1,13 @@
 # Reader's Guide: Production Record
 
+## Architecture-First Introduction: 21 September 2026 (Source Only)
+
+After the approved render below, the author requested a different opening sequence: what language has to do with Sanātan's architecture, followed by how Sanskrit remained unchanged without central enforcement. Updated the inside front cover in `build_readers_guide.py` and the "Why I Wrote This Book" narrative. The explanation connects shared linguistic examples and self-correction to the book's account of inside-out order. All 101 invitations, section IDs, and figures remain unchanged.
+
+The same editorial pass updated related essays, overviews, spoken descriptions, and active jacket/website copy. The exact changes are recorded in `working/10_active/as_inside_out_introductions_revision_20260921.md`. No main-book manuscript, sent correspondence, or print-cover SVG was changed.
+
+Twenty source-only tests pass. No PDFs were rebuilt or deployed. The current PDF counts and QA reports below describe the earlier render; the next approved build must recheck the inside front cover and the `why` section in both sizes, including paragraph-based continuation breaks. Related essay and overview PDFs also retain their earlier wording.
+
 ## Approved PDF Rebuild: 21 September 2026
 
 The author requested commit, push, `as-deploy`, and PDF generation. The pending manuscript/thesis, guide, and Deccan College research changes were committed separately and pushed through `6a3e5e37`. `as-deploy` successfully refreshed the site on amrut; the public landing page returned HTTP 200. The source-only entries below describe the stages before this rebuild.

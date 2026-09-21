@@ -1,6 +1,8 @@
 # *Atomic Sanskrit* Jacket Copy — Challenge-Led
 
-Did Sanskrit "evolve" over time until Pāṇini "codified" it? Or was Sanskrit engineered?
+What does a language have to do with the architecture of सनातन (*Sanātan*)?
+
+How has Sanskrit remained unchanged for thousands of years without a central authority enforcing it?
 
 Are the Vedas merely "religious chants," or do they preserve the architecture of a language and the civilization bonded to it?
 
@@ -16,4 +18,4 @@ If Sanskrit's engineered architecture was already operating within the Vedas lon
 
 For starters, he did *not* codify Sanskrit. Pāṇini's contribution is extraordinary, but the codification myth obscures the nature of his achievement. *Atomic Sanskrit* uncovers his actual role and explains why his documentation remains unmatched.
 
-In a world dominated by top-down pyramidal polities, Sanskrit provides living evidence that durable order does not require an apex. Its calibrant is distributed, and alignment remains voluntary. *Atomic Sanskrit*, the first volume of the *Second Shanti* series, begins reconstructing this alternative architecture at the scale of language.
+In a world dominated by top-down pyramidal polities, Sanskrit demonstrates an inside-out order. People learn a shared standard, recognize mistakes, and correct themselves and one another without an apex owning the standard. The same design extends into civilizational life through stories and examples that help people judge their conduct. *Atomic Sanskrit*, the first volume of the *Second Shanti* series, begins reconstructing this alternative architecture at the scale of language.

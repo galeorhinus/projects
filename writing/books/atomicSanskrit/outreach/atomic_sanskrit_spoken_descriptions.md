@@ -2,20 +2,18 @@
 
 ## 25 Words
 
-*Atomic Sanskrit* reconstructs Sanskrit as an engineered language. The Vedas preserve its architecture as an invariant calibrant while the worldly domain meets a changing world.
+*Atomic Sanskrit* examines Sanātan's inside-out order through language: how people keep Sanskrit unchanged across thousands of years through a shared standard that no apex owns.
 
 ## 75 Words
 
-*Atomic Sanskrit* reconstructs Sanskrit as a living example of calibrant order and indicts the asuric pyramid that concealed its architecture through false categorization. Sanskrit’s sonomers occupy anatomical coordinates, its *dhātavaḥ* function as semantic atoms, and its two domains unite exact preservation with new composition. The Vedas serve as its invariant calibrant. Pāṇini inherited and documented the architecture. The book follows Sanskrit’s radiance beyond India and shows how PIE turned partial reflections into an imaginary ancestor.
+What does a language have to do with Sanātan's architecture? *Atomic Sanskrit* examines how Sanskrit has remained unchanged for thousands of years without central enforcement. The Vedas keep a shared standard available, and people learn to recognize mistakes and correct themselves. This inside-out design extends into civilizational life through stories and examples that guide conduct. The book challenges Western philologists who concealed that architecture by placing an imaginary ancestor, Proto-Indo-European, above the language they studied.
 
 ## 200 Words
 
-*Atomic Sanskrit* reconstructs Sanskrit as an engineered language whose architecture extends from sound into systems of exact transmission. Its sonomers occupy anatomical coordinates. Its *dhātavaḥ* function as semantic atoms. Its grammar remains stable while people create new expression.
+What does a language have to do with the architecture of Sanātan? *Atomic Sanskrit* examines an inside-out order in which people learn a shared standard and develop the ability to judge and correct their own actions. Sanskrit makes that design available for examination, from sound to word to sentence and through generations of teaching.
 
-The conflict in this book is between two architectures of order. Calibrant order keeps an invariant standard available to everyone, and no apex can own it. The asuric pyramid encloses knowledge and controls access. It concealed Sanskrit's architecture through false categorization: sonomers became letters, *dhātavaḥ* became roots, the two domains became historical periods, Pāṇini became a codifier, and Sanskrit became a daughter of Proto-Indo-European.
+How has Sanskrit remained unchanged for thousands of years without a central authority enforcing it? The Vedas keep its sounds and grammar available in examples. Distributed recitation lineages protect those examples while speakers use the same language to create new expressions. The greater engineering achievement is this system of protection against unintended change and deliberate attack.
 
-The *vaidika* domain preserves received content exactly. The *laukika* domain applies the same language to a changing world. The Vedas encode several architectures of *Sanātan*, including Sanskrit. They preserve its full range as an invariant calibrant through recitation and distributed lineages.
+Western philologists concealed the architecture through false categories. They made Sanskrit's two domains into historical stages, Pāṇini into the codifier who stopped drift, and Sanskrit into a daughter of an imaginary Proto-Indo-European. The book challenges that ancestry and follows Sanskrit's radiance beyond India.
 
-Pāṇini inherited and documented this architecture. The book follows Sanskrit's radiance beyond India. Influential carriers took Sanskritic words and methods into other civilizations. Those languages preserve partial reflections; Sanskrit retains the complete architecture. European philology turned the fragments into Proto-Indo-European and placed that imaginary construction above Sanskrit.
-
-As the first *Second Shanti* volume, the book follows this conflict from language into the order through which living beings share a world.
+The same inside-out design extends into civilizational life through shared stories that help people judge conduct without surrendering judgment to an apex. As the first *Second Shanti* volume, *Atomic Sanskrit* begins the reconstruction of order from first principles. Later volumes examine institutions and relationships among living beings.

@@ -16,7 +16,9 @@ I eventually realized that the answer was already present in the civilization I 
 
 The *Second Shanti* series examines an architecture of order that works through calibration rather than command. A calibrant is an invariant reference that remains available for comparison. It does not issue orders. People approach it, recognize a deviation, and correct themselves.
 
-*Atomic Sanskrit* begins with language because Sanskrit and the Vedas preserve a complete example of that architecture which can still be heard and examined.
+What does a language have to do with the architecture of सनातन (*Sanātan*)? In Sanskrit, a learner checks a sound or a newly formed word against examples that other learners and teachers can also examine. The standard remains shared, while the ability to recognize and correct mistakes develops within each participant. This is inside-out order at the scale of language.
+
+How has Sanskrit remained unchanged for thousands of years without a central authority enforcing it? *Atomic Sanskrit* follows that achievement through the language's construction and the Vedic disciplines that keep it calibrated. The answer explains why this inquiry into civilizational order begins with Sanskrit.
 
 Sanskrit starts from the human body. Its sound architecture places consonants according to where the mouth makes contact and how the breath, voice, and nasal passage behave. It gives vowels precise durations. These sounds combine into stable units, then into more than two thousand semantic atoms called **धातवः (*dhātavaḥ*)**. Sanskrit extends those atoms through consistent procedures to form words, verbs, and sentences.
 

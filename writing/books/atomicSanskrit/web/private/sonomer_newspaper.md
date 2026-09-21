@@ -69,7 +69,7 @@ Sanskrit carries this architecture beyond pronunciation. Sonomers combine into *
 
 This is the fractal architecture that *Atomic Sanskrit* follows from mouth to language. The Vedas preserve its sounds through exact recitation, while Sanskrit's worldly domain uses the same architecture to create new expression. One domain protects what must remain invariant. The other allows every generation to speak about its own world.
 
-The inquiry begins before Pāṇini and before writing, in a sequence millions of Indians already know by heart.
+What does this have to do with the architecture of सनातन (*Sanātan*)? A learner develops the ability to recognize a mistake and correct it against a standard that others also know. Order continues through the understanding of those who participate, without an apex owning the standard. *Atomic Sanskrit* follows this inside-out design from language into the way people judge and correct conduct. It begins before Pāṇini and before writing, in a sequence millions of Indians already know by heart.
 
 **The letter came later. The sonomer came first.**
 

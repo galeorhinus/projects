@@ -1,6 +1,12 @@
 # *Atomic Sanskrit* Website Copy — What the Book Reveals
 
-## A Language That Should Not Exist
+## What Does Language Have to Do with सनातन (*Sanātan*)?
+
+What does a language have to do with the architecture of सनातन (*Sanātan*)? *Atomic Sanskrit* begins with language because Sanskrit demonstrates how people can maintain order through a shared standard that no ruler owns. Learners develop the ability to recognize mistakes and correct themselves and one another. The book follows this inside-out design into civilizational life, where shared stories and examples help people judge how to act.
+
+## How Has Sanskrit Remained Unchanged?
+
+How has Sanskrit remained unchanged for thousands of years without a central authority enforcing it?
 
 All natural languages change over time. Sounds shift, words acquire new meanings, grammar changes, and later generations struggle to understand older compositions. Esperanto shows that an explicitly designed grammar does not solve this problem. Once people adopt a language, ordinary use begins to reshape it.
 
@@ -34,7 +40,7 @@ But Proto-Indo-European has no surviving text, inscription, recitation lineage, 
 
 ## Two Architectures of Order
 
-The inquiry eventually reaches beyond language. What can Sanskrit reveal about two ways of creating order: shared alignment or control from above?
+The language makes the contrast between two architectures of order available for examination. A learner can hear a shared example and correct a mistake without waiting for a central authority to rule on it. People throughout society can acquire that ability.
 
 Sanskrit preserves order through a distributed calibrant. Every participant can align with the same invariant architecture, but no ruler, academy, or central institution can own it. The opposing architecture places authority at an apex, controls access, and turns correction into obedience.
 

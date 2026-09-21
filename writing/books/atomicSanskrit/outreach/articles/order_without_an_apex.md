@@ -56,7 +56,7 @@ Calibrant order therefore accommodates disagreement. Discussion is one of the wa
 
 The distinction would collapse if one ruler, priesthood, or institution could alter the calibrant. Whoever owns the standard can eventually command everyone who depends upon it. Calibrant order therefore requires more than wise teaching. The standard must remain stable, widely available, and beyond capture.
 
-The Vedas demonstrate that such an architecture can exist.
+This is where language enters the inquiry into order. If people can keep Sanskrit unchanged for thousands of years without giving one institution ownership of its standard, they have already demonstrated a durable alternative to command from above. The Vedas allow us to examine how they did it.
 
 Hindu society preserved the Vedas as exact sound through many recitation lineages spread across the Indian subcontinent. Teachers trained students to reproduce the received pronunciation, vowel duration, pitch, sequence, and meter. Several recitation patterns passed the same words through different arrangements, allowing a departure hidden in one form to be exposed in another.
 
@@ -68,7 +68,7 @@ Sanskrit divides this work between two domains. The **वैदिक (*vaidika*
 
 One domain protected continuity. The other protected freedom to create.
 
-This is why the Vedas and Sanskrit belong inside an inquiry about political order. Together they demonstrate that exact and durable order can continue without placing the standard beneath one owner. *Atomic Sanskrit* follows that demonstration from the anatomy of sound through grammar and sentence to the systems of Vedic preservation.
+*Atomic Sanskrit* follows this inside-out architecture of सनातन (*Sanātan*) from sound through words and sentences to the people who learn and transmit them. Learners develop the ability to hear mistakes and make corrections against examples others also know. The same principle extends into civilizational life when people use shared stories to judge conduct and remain responsible for their own decisions. Later volumes examine how institutions can protect that responsibility without claiming ownership of the standard.
 
 **The pyramid protects a standard by owning it. The Vedic architecture protects the calibrant by making ownership impossible.**
 

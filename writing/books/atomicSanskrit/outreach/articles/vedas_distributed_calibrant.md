@@ -7,6 +7,8 @@ Calling this “religious chanting” describes the occasion while missing the a
 
 The Vedas preserve words, but they also preserve the physical form of their utterance. Pronunciation belongs to the received content. So do vowel duration, pitch, sequence, pause, and meter. Hindu society therefore had to transmit more than a text. It had to transmit a trained mouth and a trained ear, and the system it built still functions.
 
+What does this achievement tell us about the architecture of सनातन (*Sanātan*)? Every trained reciter can recognize and correct a departure from a shared standard. No central office owns that standard. The ability to maintain order develops within the people who participate in it. Sanskrit's invariance across thousands of years lets us examine how such an inside-out order endures.
+
 ## One Passage, Several Recitations
 
 Suppose a passage contains three words: A, B, and C.

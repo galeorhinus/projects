@@ -1,6 +1,8 @@
 # *Atomic Sanskrit* Proposal Overview
 
-*Atomic Sanskrit: The Radiant, Calibrant, and Fractal Architecture of Sanātan* is the first volume of the *Second Shanti* series. It argues that Sanskrit is not a naturally evolving language later stabilized by Pāṇini. Sanskrit is an engineered, internally generative, and anti-entropic architecture whose design begins in the human mouth and extends into the civilization that preserved it.
+*Atomic Sanskrit: The Radiant, Calibrant, and Fractal Architecture of Sanātan* is the first volume of the *Second Shanti* series. What does a language have to do with the architecture of सनातन (*Sanātan*)? The book argues that Sanskrit demonstrates an inside-out order: people learn a shared standard, develop the ability to recognize mistakes, and correct themselves and one another without making an apex the owner of that standard.
+
+How has Sanskrit remained unchanged for thousands of years without a central authority enforcing it? The book examines the language's engineering together with the Vedic system that keeps it calibrated. Its design begins in the human mouth, extends through words and sentences, and remains available across generations through distributed teaching and transmission. This is the first demonstration in the series' reconstruction of civilizational order from first principles.
 
 The book combines architectural reconstruction with a sustained indictment. It contrasts calibrant order, which distributes an invariant standard without giving an apex ownership, with pyramidal order, which encloses knowledge and controls access. Sanskrit and the Vedas provide a living demonstration of calibrant order. The book argues that the institutions of the asuric pyramid deliberately concealed that demonstration through false categorization.
 
