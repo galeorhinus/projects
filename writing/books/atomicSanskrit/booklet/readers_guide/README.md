@@ -2,9 +2,9 @@
 
 A separate orientation booklet in A5 and A4. This is a review draft. Part I explains the author's argument in accessible English; Part II introduces the chapters and invites further reading. All 101 invitations appear once across the two parts. It is not the planned 20,000-word concise book and does not replace the Source and Reference Companion.
 
-**Source updates pending PDF rebuild, 21 September 2026:** the opening question now says "remain unchanged"; the three-shanti question now asks why we say शान्तिः (*śāntiḥ*) three times; specialized IAST terms now have Devanagari alongside them throughout the prose, invitations, and cover copy. The guide's subtitle also adds सनातन (*Sanātan*) without changing the book's canonical metadata. The subsequent voice sweep restores named actors and mechanisms of control, including the Arabic burning order and Egyptian publication penalties. See the [voice-sweep comparison](voice_sweep_20260921.md). The PDF counts and checks below describe the 20 September render. Recheck pagination after the next authorized build.
+**PDFs rebuilt, 21 September 2026:** both editions include the wording updates, Devanagari accessibility sweep, named actors and mechanisms of control, and the containment/concealment/control introduction. The subtitle pairs सनातन (*Sanātan*) without changing the book's canonical metadata. See the [voice-sweep comparison](voice_sweep_20260921.md). All 28 tests pass, and the page sheets and covers have been visually inspected.
 
-Both editions include the content revision authorized on 20 September 2026. A5 has 66 interior pages at 11 pt; A4 has 42 at 12 pt. Neither edition needs a final blank padding page. Each has a separate four-face cover. The 47 source markers identify shared sections; each layout controls its own page breaks without changing the prose or invitation placements.
+Both editions include the content revision authorized on 20 September and the subsequent source updates. A5 has 70 interior pages at 11 pt; A4 has 44 at 12 pt. Each interior includes one final blank page for duplex printing and has a separate four-face cover. The 47 source markers identify shared sections; each layout controls its own page breaks without changing the prose or invitation placements.
 
 The revision adds explicit explanations of the book's challenge, the fourth-Abrahamic-religion thesis, and institutional custody. It strengthens the PIE and radiance arguments while keeping the inside-out architecture and worked language examples central. See the [change log](content_revision_change_log.md), [exact before-and-after record](content_revision_before_after.md), and [audit and plan](content_revision_plan.md).
 
@@ -49,14 +49,14 @@ Artifacts are in `output/pdf/readers_guide/` at the project root:
 
 | File | Use |
 |---|---|
-| `atomic_sanskrit_readers_guide.a5.pdf` | 66-page A5 interior, with no blank padding page. |
+| `atomic_sanskrit_readers_guide.a5.pdf` | 70-page A5 interior, including one final blank page. |
 | `atomic_sanskrit_readers_guide.a5.print.pdf` | Identical A5 interior for printing. |
 | `atomic_sanskrit_readers_guide.a5.cover.pdf` | Four A5 cover faces: front, inside front, inside back, back. |
-| `atomic_sanskrit_readers_guide.a5.complete.pdf` | 70-page A5 reading copy, with covers and bookmarks. |
-| `atomic_sanskrit_readers_guide.a4.pdf` | 42-page A4 interior, with no blank padding page. |
+| `atomic_sanskrit_readers_guide.a5.complete.pdf` | 74-page A5 reading copy, with covers and bookmarks. |
+| `atomic_sanskrit_readers_guide.a4.pdf` | 44-page A4 interior, including one final blank page. |
 | `atomic_sanskrit_readers_guide.a4.print.pdf` | Identical A4 interior for printing. |
 | `atomic_sanskrit_readers_guide.a4.cover.pdf` | Four A4 cover faces in the same order. |
-| `atomic_sanskrit_readers_guide.a4.complete.pdf` | 46-page A4 reading copy, with covers and bookmarks. |
+| `atomic_sanskrit_readers_guide.a4.complete.pdf` | 48-page A4 reading copy, with covers and bookmarks. |
 
 `atomic_sanskrit_readers_guide.cover.pdf` remains an alias of the A5 cover for existing links. New handoffs should use the size-qualified cover filenames.
 
@@ -64,7 +64,7 @@ The `.print.pdf` suffix does not indicate PDF/X certification or an imposed sign
 
 Mirrored inner margins reserve 20 mm for A5 binding and 25 mm for A4 binding; outer margins are 12 mm and 25 mm respectively. Have the printer confirm its spiral-punch clearance, paper, cover stock, and color handling before ordering. These files are prepared for a physical proof, not a guarantee of compatibility with an unspecified punch or binding machine.
 
-The shared source and both editions contain 11,708 words. Counts include headings, invitations, and destinations and exclude figure labels and cover copy. Body type is STIX Two Text: 11 pt / 14.4 pt leading in A5, 12 pt / 16 pt in A4. Sanskrit uses Tiro Devanagari Sanskrit. Current source figures have minimum labels of 8.81 pt at the A5 figure width of 116 mm and 12.15 pt at the A4 width of 160 mm. Reflow pages rather than shrinking type or compressing explanations to retain a page count.
+The shared source and both editions contain 12,095 words. Counts include headings, invitations, and destinations and exclude figure labels and cover copy. Body type is STIX Two Text: 11 pt / 14.4 pt leading in A5, 12 pt / 16 pt in A4. Sanskrit uses Tiro Devanagari Sanskrit. Current source figures have minimum labels of 8.81 pt at the A5 figure width of 116 mm and 12.15 pt at the A4 width of 160 mm. Reflow pages rather than shrinking type or compressing explanations to retain a page count.
 
 ## Checks
 

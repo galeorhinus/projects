@@ -1,5 +1,17 @@
 # Reader's Guide: Production Record
 
+## Approved PDF Rebuild: 21 September 2026
+
+The author requested commit, push, `as-deploy`, and PDF generation. The pending manuscript/thesis, guide, and Deccan College research changes were committed separately and pushed through `6a3e5e37`. `as-deploy` successfully refreshed the site on amrut; the public landing page returned HTTP 200. The source-only entries below describe the stages before this rebuild.
+
+- Both guide editions now include the Devanagari, voice, and three-characteristic updates. Edition date: 21 September 2026.
+- A5: 70 interior / 74 complete pages; A4: 44 interior / 48 complete pages. Each interior has one final blank duplex-padding page. Each separate cover has four faces.
+- All eight size-qualified files regenerated: interior, print, cover, and complete for each size. The legacy cover alias also refreshed.
+- 12,095 source words; 47 sections; all 101 invitations and ten figures retained. Fonts and margins unchanged.
+- Three A5 sections received explicit continuation breaks: the challenge, the two domains, and the Chapter 15/16 exploration. A4 splits the PIE discussion. These replace accidental overflow pages without editing prose or shrinking type.
+- All 28 tests pass. No missing glyphs, overfull boxes, off-page text, or unplanned continuation pages. All page sheets and both covers inspected, with a full-size check of the dense multilingual Arabic/Panini continuation.
+- Physical print proof remains pending. These counts concern the Reader's Guide, not the full book or Reference Companion.
+
 ## Three Characteristics: 21 September 2026
 
 Following the approved addition in manuscript §1.5, the guide now introduces containment, concealment, and control through the Vedic encounters in "Two Directions of Order." "What a Label Can Conceal" applies the three characteristics to Sanskrit's classification and interpretation. Both guide paragraphs are additions; no existing guide prose was removed.

@@ -1,6 +1,6 @@
 book_metadata: ../../as_book.yaml
 publication: "A Reader's Guide"
-edition: "Revised review draft · 20 September 2026"
+edition: "Revised review draft · 21 September 2026"
 manuscript: manuscript/readers_guide.md
 exploration: manuscript/explore_book.md
 invitations: invitations.json
@@ -18,15 +18,17 @@ layouts:
     subtitle_font_size: 17
     subtitle_leading_pt: 21
     margins_mm: {top: 14, bottom: 17, inner: 20, outer: 12}
-    expected_pages: 66
+    expected_pages: 70
     splits:
       why: [3]
       route: [2]
       directions: [3]
       shanti: [4]
+      challenge: [3]
       home-sound: [3]
       home-order: [3]
       panini: [3]
+      domains: [3]
       checks: [4]
       memory: [3]
       categories: [4]
@@ -37,6 +39,7 @@ layouts:
       return: [4]
       explore-four-five: [5]
       explore-thirteen-fourteen: [6]
+      explore-fifteen-sixteen: [5]
       explore-seventeen-eighteen: [4]
       explore-appendices-first: [7]
     join_before: []
@@ -51,8 +54,9 @@ layouts:
     subtitle_font_size: 18
     subtitle_leading_pt: 22
     margins_mm: {top: 20, bottom: 22, inner: 25, outer: 25}
-    expected_pages: 42
-    splits: {}
+    expected_pages: 44
+    splits:
+      pie: [4]
     join_before: [explore-one, explore-three, explore-nine, explore-twelve, explore-twenty]
 website: https://secondshanti.org/as/
 email: paragtope@secondshanti.org
