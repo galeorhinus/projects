@@ -70,6 +70,8 @@ Explain the eclipse metaphor at the opening and use it at the part transitions. 
 
 Keep the inside-out civilizational purpose visible, not merely a concluding analogy. Explain language engineering and the larger system that the book argues resists both entropy and deliberate asuric interference. Preserve the relationship to the three shantis while making clear that the *Second Shanti* volumes focus on the second domain.
 
+**27 September alignment:** Sanskrit is the existing demonstration; the larger series develops a polity from first principles, not from fragments of a past government. Explain recursion through compounding or metrical counting before connecting it with the broader claim of recurring design principles. Retain the childhood correction as an independently checkable example and make an ancient architecture serving a changing world the purpose of the numerical demonstration. The final volume alone develops the three-shanti fractal interpretation in full. Follow the [implemented manuscript review](as_proposal_nuances_manuscript_review_20260927.md) when refreshing opening treatments; do not restore its approved cuts.
+
 Use questions and comments where they arise naturally from the discussion. Do not impose a question quota or a separate invitation list on every chapter. A pointer offers further examination; it cannot stand in for an essential explanation.
 
 Use full-book chapter and section numbers with a brief subject label, rather than page numbers tied to one layout. Identify appendix destinations explicitly. Distinguish the full edition of *Atomic Sanskrit* from its *Source and Reference Companion* whenever the latter is the actual destination.
@@ -123,7 +125,7 @@ Markdown planning and drafting come first. **Do not generate PDFs by default.** 
 - [Explore the Book](../../booklet/readers_guide/manuscript/explore_book.md) and [invitation inventory](../../booklet/readers_guide/invitations.json): candidate examples and destinations to recheck.
 - [Existing reader's-guide plan](as_atomic_sanskrit_readers_guide_plan_codex.md): history of a separate product. Its previous overnight approvals and production settings do not transfer here.
 
-**Known reconciliation task:** The chapter argument map's displayed core-thesis key predates the current thesis summary. For example, current C2 is fractality, while the map labels C2 as Vedic calibration. Record thesis wording as well as its current number in the new map. Do not copy old IDs blindly or silently rewrite the old map through this task.
+**Thesis reconciliation, 27 September:** The chapter argument map's core IDs now match the current summary. Its former S43 (Atri recovery) is labeled F-Eclipse, distinct from current S43 (the three shantis). Record thesis wording as well as its current number and check each match against the chapter rather than relying on historical reduction entries alone.
 
 ## Four Planning Passes
 
@@ -148,7 +150,7 @@ Create separate concise-edition manuscript files when drafting begins. Do not ov
 
 The opening, Chapters 0-4, and Part I now have proposed treatments, current thesis matches, epigraph decisions, canonical figure selections, and provisional allocations in the [treatment map](as_concise_edition_treatment_map.md#first-batch-treatment-decisions). Their chapter allocation totals about 6,600 words; opening and part-opener prose are tracked separately. No concise prose has been drafted.
 
-Continue Pass 2 with Chapters 5-9 and the Part II-III openers. Reconcile the full map before preparing the Chapter 2 sample outline. The map also flags the older S43 wording about later volumes' scope; it follows the current instruction that all volumes focus on the second domain.
+Continue Pass 2 with Chapters 5-9 and the Part II-III openers. Reconcile the full map before preparing the Chapter 2 sample outline. Supporting thesis S43 was aligned on 27 September: all volumes focus on the second domain; the final volume develops the three-shanti interpretation in full.
 
 ## Shared Subtitle Rollout
 

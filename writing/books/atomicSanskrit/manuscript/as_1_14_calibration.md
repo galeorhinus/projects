@@ -22,7 +22,7 @@
 
 ---
 
-The Vedas do not merely serve as Sanskrit's calibrant. Ṛgveda 1.164.24 describes calibration within Vedic Speech itself and contains the book's three attributes in one mantra. Speech radiates through chant, melody, and voice. Each form provides a calibrant for another. The same operation repeats from the अक्षर (*akṣara*) through the metrical quarter to the complete recitation, giving the mantra a fractal structure.
+The Vedas do not merely serve as Sanskrit's calibrant. Ṛgveda 1.164.24 describes calibration within Vedic Speech itself and brings together three properties examined in this book: radiance, calibration, and fractality. Speech radiates through chant, melody, and voice. Each form provides a calibrant for another. The same operation repeats from the अक्षर (*akṣara*) through the metrical quarter to the complete recitation, giving the mantra a fractal structure.
 
 The Vedas are Sanskrit's primary **प्रतिमानकम् (*pratimānakam*)**. Their **ध्रौव्यता (*dhrauvyatā*)** keeps the reference invariant, while the calibration matrix keeps it available for comparison and correction. Sanskrit has therefore remained calibrated across thousands of years and can also serve as a linguistic and civilizational calibrant. This chapter describes the greater engineering feat: the matrix that has kept Sanskrit aligned against unintended entropy and deliberate attack.
 
@@ -41,6 +41,8 @@ Under the pyramid's clock, the *Vedas* shrink to early literature: old texts, "s
 The calibration matrix rests on three principles.
 
 First, the next generation is the archive. Content survives only when one generation receives it and transmits it to the next. Second, preservation must use the capacities of the human body. People remember, recite, gesture, hear, distinguish, and correct. Third, the practitioner and the audience perform complementary roles. The practitioner performs while the audience listens for deviation. The audience is not passive; it participates in correction.
+
+This is how the language system creates order from the inside out. A learner develops the ability to recognize a departure, correct it, and explain the correction. Other trained participants can examine the same form. Teaching extends that ability to another person and another generation. Responsibility grows through those relationships without making any participant the owner of the standard.
 
 The design shows what its makers intended to preserve. Ordinary life can keep moving: stories can be retold, customs can localize, crafts can adapt, speech can flow into regional forms. The matrix preserves the calibrant. It preserves what must remain recoverable when memory weakens, darkness spreads, or authority tries to seize the gate.
 
@@ -64,8 +66,6 @@ The four lanes separate the preservation modes. The first lane shows why writing
 
 An audiograph may change shape without changing the sound it renders. Auditure keeps that sounded form available, allowing later readers and reciters to recognize what the changing written interface represents.
 
-The four modes expose the civilizational contrast. In the Sanskritic ecology, writing remains one support among several: useful for records, teaching, commentary, administration, correspondence, and ordinary communication, but not sovereign over the calibrant.
-
 Writing becomes ***Scripture*** when an institution makes the written text the sovereign source of preservation and doctrine. A visible glyph records the content, and the institution that controls the copy controls the transmission. The medium can be stone, palm leaf, paper, print, or digital storage; the custody logic is the same. The edition can be authorized, restricted, and seized.
 
 The Abrahamic tradition elevates Scripture because the pyramid needs a controlled text. Whoever controls the written corpus controls the doctrine; whoever controls the doctrine controls the people. The same custody logic also explains progressive chronology capture, including the refusal to permit the more logical explanation that Aramaic evolved from Brāhmī (Appendix Part 3 §3.8).
@@ -86,7 +86,7 @@ The ear is the right instrument for that task because it can detect extremely sh
 
 Vedic recitation gives that capacity several patterns to follow at once. The listener hears the words together with vowel duration, pitch movement, articulation, breath, pause, and meter. A deviation can therefore disturb more than one expected pattern.
 
-The second principle allows many more people to participate. Perfect recitation requires years of training, but listeners can learn to recognize a broken pattern without reproducing the complete recitation themselves. A reciter needs years of discipline to reproduce the full sequence, while repeated exposure allows a listening community to detect a broken pattern much earlier. The practitioner therefore develops the skill while the audience provides the check.
+The second principle allows many more people to participate. Perfect recitation requires years of training, but listeners can learn to recognize a broken pattern without reproducing the complete recitation themselves. The practitioner therefore develops the skill while the audience provides the check.
 
 Auditure distributes the first layer of guarding among the audience and thereby resolves the old institutional problem: who guards the guards? In a pyramid, the guards sit above the audience, which has no standing. In Auditure, the audience guards by listening. A listener does not need an institutional credential to notice the first break in a familiar pattern. Recognition can spread across society even though mastery still requires sustained training.
 
@@ -127,6 +127,8 @@ The layers overlap because they check different features of the same language. A
 ![Figure 14.3 — Chandas as mātrā tiling. The fillings of three, four, and five मात्राः (*mātrāḥ*); each measure is built from the two shorter ones, so the counts add.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=96%}
 
 Figure 14.3 shows three ways to fill three मात्राः (*mātrāḥ*), five ways to fill four, and eight ways to fill five. Every pattern begins with either a one-*mātrā* लघु (*laghu*) or a two-*mātrā* गुरु (*guru*). The remaining duration can therefore be filled in the number of ways already counted for one of the two shorter measures. The counts become 1, 2, 3, 5, 8, 13: the sequence the modern world calls Fibonacci.[NOTE: chandas-laghu-guru-virahanka-sequence]
+
+The counting procedure is recursive. To count a longer measure, we count the two shorter measures left after its first syllable. Each shorter measure can be treated in the same way until we reach the simplest cases. The same procedure therefore solves the larger problem by applying again to smaller instances of it.
 
 The same constraint assists preservation. The words of the mantra must fit their metrical pattern. A change in vowel duration, an omitted syllable, or an added syllable can break that fit and alert the reciter or listener. छन्दस् (*Chandas*) therefore gives the poet a known set of possibilities and gives Auditure another way to detect deviation.
 

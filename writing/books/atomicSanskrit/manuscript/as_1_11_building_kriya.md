@@ -180,7 +180,7 @@ Chapter 10 showed how Sanskrit assembles sonomers into a semantic atom. This cha
 
 The completed verb also carries grammatical information. Its ending identifies who acts and how many act. Other forms place the action in the present, past, or future, or express a command, possibility, or desire. The Vedas preserve this range together with the pronunciation of each form. Later speakers can therefore check both grammar and sound against an invariant calibrant.
 
-The completed verb repeats Sanskrit's fractal construction. It contains a prepared atom and an ending, while the atom contains its sonomers. The smaller units remain identifiable inside the larger form.
+The completed verb extends the design discipline examined in Chapter 10. A small form carries several kinds of information, while its atom, preparation, and ending remain available for analysis. The learner can explain how the verb was assembled and compare its sounds and formation with completed Vedic examples. The recurring discipline is compact construction joined to a means of checking it.
 
 The लौकिक (*laukika*) domain gives this calibrated architecture radiant reach. Its speakers can tell stories, compose poetry, explain mathematical proofs, calculate planetary movements, conduct trade, and name circumstances that earlier generations never encountered. They can create new expressions because the generative procedures remain available while the Vedic calibrant remains unchanged.
 

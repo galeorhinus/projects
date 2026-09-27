@@ -18,7 +18,7 @@
 
 The Prologue opened with Ṛgveda 5.40.5, where Svarbhānu covers the Sun and the worlds lose their bearings. Four mantras later, the verse above describes what follows: the Atris find the Sun that remained behind the darkness.
 
-This book has removed the seven claims at the core of Sanskrit's eclipse: ***Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language,*** and ***Early Literature***. With those claims removed, readers can examine Sanskrit as an engineered, radiant, calibrant, and fractal architecture.
+This book has removed the seven claims at the core of Sanskrit's eclipse: ***Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language,*** and ***Early Literature***. With those claims removed, readers can examine Sanskrit as an engineered language system with a distributed, radiant, calibrant, and fractal architecture.
 
 Four obstacles remain: institutions still control the field, public understanding trails the evidence, civilizational self-doubt persists, and the Racial Arya Thesis remains embedded in the account of Sanskrit. Presenting the evidence weakens them, but removing them requires continued teaching, inquiry, and public argument.
 
@@ -164,7 +164,9 @@ One false sādhu can deceive some people. He cannot command every household, eve
 
 This book has demonstrated the same principle in Vedic transmission. Independent ***शाखाः (*śākhāḥ*)*** preserve their lineage forms without placing one lineage in command of all the others. No lineage owns the Veda. The failure of one cannot rewrite what the others preserve. Comparison among them exposes error while their differences remain identified and bounded. The independence of the शाखाः (*śākhāḥ*) provides the proof. It does not depend upon every participant being incapable of failure.
 
-The difference between the two fractals is now concrete. The pyramid places rule, certification, exception, and punishment in one ascending chain. The swastika distributes responsibilities around a calibrant that no participant owns. At the linguistic scale, the Vedas and Sanskrit demonstrate that this architecture can preserve precision across millennia. The later volumes of the *Second Shanti* series will follow the same principle into economic life, political authority, and the other relationships through which society creates order.
+The difference between the two fractals is now concrete. The pyramid places rule, certification, exception, and punishment in one ascending chain. The swastika distributes responsibilities around a calibrant that no participant owns. At the linguistic scale, the Vedas and Sanskrit demonstrate that this architecture can preserve precision across millennia.
+
+The next task is to develop a polity from first principles. What must government protect? How can society deal with harmful conduct while allowing ordinary relationships to grow through trust and responsibility? How can those entrusted with protection remain answerable to an order they do not own? The later volumes of *Second Shanti* will develop these questions through economic life, political authority, and other relationships among living beings. The aim is to establish how an inside-out order can serve a changing world. Sanskrit gives that inquiry a living demonstration to begin from.
 
 The Sanskrit family names this recurring relationship. The Vedas provide the **प्रतिमानकम् (*pratimānakam*)** for Sanskrit's sounds and grammar. The मूर्ति (*mūrti*) brings an embodied civilizational example before the seeker, while the stories behind it preserve choices, actions, and consequences. Across these domains, the pattern repeats: the reference remains available and alignment remains voluntary. This is the calibrant architecture of Sanātan.
 

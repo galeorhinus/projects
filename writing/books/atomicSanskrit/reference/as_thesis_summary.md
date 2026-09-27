@@ -135,7 +135,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 42. **The Racial Arya Thesis must be renamed and kept visible as RAT.** AIT and AMT soften the structure. RAT states what the theory was built to do: make Sanskrit external to the civilization that created, preserved, and transmitted it. **Chapter 18; Chapter 19.**
 
-43. **The three शान्तयः (*śāntayaḥ*) provide the series-wide frame for inside-out order across widening domains.** The first concerns order within the person, the second relations among embodied beings and organized life, and the third the wider natural and cosmic field. *Atomic Sanskrit* demonstrates the same construction at linguistic scale. Later *Second Shanti* volumes follow it through the wider domains. This three-domain architectural reading must remain distinct from claims made directly by any one traditional source. **Preface; Epilogue; *Second Shanti* series plan.**
+43. **The three शान्तयः (*śāntayaḥ*) provide the series-wide frame for inside-out order across widening domains.** The first concerns order within the person, the second relations among embodied beings and organized life, and the third the wider natural and cosmic field. *Atomic Sanskrit* demonstrates the same construction at linguistic scale. Every *Second Shanti* volume examines relationships among living beings in the second domain. Later volumes develop the polity from first principles; the final volume explains the author's interpretation of the three invocations as a fractal map of the universe. This three-domain architectural reading must remain distinct from claims made directly by any one traditional source. **Preface; Epilogue; *Second Shanti* series plan.**
 
 ### Cross-Cutting Engineering and Recovery
 

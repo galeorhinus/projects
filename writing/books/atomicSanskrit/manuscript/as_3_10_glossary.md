@@ -303,9 +303,13 @@ The sequence is:
 
 **Standard.** The male and female seers of the mantras. द्रष्टृ (*Draṣṭṛ*) means one who sees. The masculine plural is द्रष्टारः (*draṣṭāraḥ*); the feminine plural is द्रष्ट्र्यः (*draṣṭryaḥ*). The terms place the ऋषयः (*ṛṣayaḥ*) and ऋषिकाः (*ṛṣikāḥ*) as receivers of the mantras rather than their authors.
 
+### **recursion**
+
+**Standard English.** A procedure applies again to a constituent or smaller instance of the structure being constructed or analyzed. Recursive compounding allows a compound to become part of a larger compound (§12.7). The metrical counting procedure in §14.4 counts a longer measure through shorter measures treated by the same procedure. The book uses these examples to explain how a process can recur within its own constructions. Its broader **fractal** claim concerns organizing principles that recur across scales.
+
 ### **fractal**
 
-**Standard English, book-repurposed.** A pattern whose organizing principle recurs across scale. The book does not claim strict mathematical self-similarity. It identifies a repeating architecture in which smaller constituents retain their identity while combining into larger forms: sonomer, अक्षर (*akṣara*), धातुः (*dhātuḥ*), word, sentence, सूत्र (*sūtra*), recitation, and calibration matrix.
+**Standard English, book-repurposed.** A pattern whose organizing principles recur across scale. The book does not claim strict mathematical self-similarity. It examines recurring disciplines of compact construction, identifiable constituents, defined relationships, and correction through sound, atom, word, sentence, and preservation. Chapter 10's six characteristics of a सूत्र (*sūtra*) give the comparison its explicit tests. See also **recursion** and **Fractal Signature**.
 
 ### **Atomic Corollary**
 

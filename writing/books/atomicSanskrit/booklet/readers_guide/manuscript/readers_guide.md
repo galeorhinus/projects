@@ -14,7 +14,7 @@ Hindu society has kept alive the knowledge through which one can seek शान�
 
 The second concerns how people live with one another and other living beings. Over the last millennium, Abrahamic rulers destroyed or displaced institutions through which Hindu society maintained order in this domain. They imposed commands from above, disrupting the transmission of knowledge that had guided public life. Much of that knowledge was lost, but parts of the earlier architecture remained alive in language, stories, teaching, and everyday practice.
 
-*Second Shanti* is my attempt to reconstruct that architecture from first principles. I begin with what we can still examine: how people learn a shared standard, recognize mistakes, exercise restraint, and correct one another without giving an apex ownership of the standard.
+*Second Shanti* will develop a polity from first principles, beginning with living beings and their responsibilities toward one another. Sanskrit gives us an existing system to examine: people learn a shared standard, recognize mistakes, exercise restraint, and correct one another without giving an apex ownership of the standard.
 
 What does a language have to do with the architecture of सनातन (*Sanātan*)? Sanskrit demonstrates these principles in daily teaching and practice. Learners develop the ability to check their pronunciation and word formation against examples that many others also know. A ruler need not authorize each correction.
 
@@ -73,7 +73,7 @@ The second concerns relationships among living beings: how people live together 
 
 The third concerns natural and cosmic forces beyond direct human control that affect human beings and other life. People depend on the Sun's light and heat, for example, without being able to command them.
 
-I interpret the three shantis as an order that begins within a person and extends through relationships into the wider world. Every volume of *Second Shanti* focuses on the second domain: how people live with one another and other living beings, and how they create and maintain order together. The first and third domains help explain the wider setting of that inquiry.
+I interpret the three shantis as a fractal map of the universe, extending from the person through relationships among living beings to the wider natural and cosmic order. The final volume will develop that interpretation in full. Every volume of *Second Shanti* focuses on the second domain: how people live with one another and other living beings, and how they create and maintain order together.
 
 This first volume examines Sanskrit as an example of inside-out construction. Its words depend on smaller units of sound and meaning, and teachers and learners can check those units against a shared standard. Later volumes will examine other aspects of order within the same second domain, including government and economic life.
 
@@ -453,7 +453,7 @@ Seekers consider those stories alongside their own actions. They must decide wha
 
 Sanskrit students make a more precise kind of comparison. They can check the sounds they pronounce, examine the atom and additions within a word, and explain how the words in a sentence relate to one another. The Vedas maintain complete examples of the language for teachers and students to study. People in different places can compare their own recitation and understanding with those examples.
 
-The subtitle's three words now describe connected achievements. **Fractal** names the recurrence of dependable construction at different scales. **Calibrant** names the examples through which people can check and correct what they create. **Radiant** names knowledge reaching others and enabling further creation without being used up. The same people who learn from the inheritance can help keep it available to others.
+The book's four defining words now describe connected achievements. **Distributed** names the knowledge and responsibility shared among communities across the subcontinent, north and south, east and west. **Radiant** names knowledge reaching others and enabling further creation without being used up. **Calibrant** names the reference through which people can check and correct what they create. **Fractal** names the recurrence of the same design principles at different scales. The same people who learn from the inheritance can help keep it available to others.
 
 That responsibility requires a choice about containment. The Epilogue invites anyone to become आर्य (*ārya*) through conduct that keeps knowledge and well-being circulating. Someone inside a pyramid can accept that invitation, but must oppose the practices that let an apex hoard what others need. An institution cannot keep its power to withhold the shared standard and claim to serve distributed calibration at the same time.
 
@@ -461,7 +461,7 @@ Government has an active place in such an order. It protects people and responds
 
 The three shantis extend this inquiry beyond language. People begin by examining their own thoughts and actions. The choices they make then affect their relationships with others, and those relationships exist within the wider world. The swastika represents the outward extension of स्वस्ति (*svasti*), well-being: care taken within each person should benefit others and the larger order they share.
 
-*Atomic Sanskrit* presents the language and its preservation system as evidence that this alternative architecture exists. Later volumes of *Second Shanti* will reconstruct its implications for government, economic life, and other forms of collective order within the second domain. The task begins with knowledge that remains alive in people's mouths and memories, including the inheritance that the pyramid has taught them to misunderstand.
+*Atomic Sanskrit* presents the language and its preservation system as evidence that this alternative architecture exists. Later volumes of *Second Shanti* will develop a polity from first principles, examining government, economic life, and other relationships within the second domain. The task begins with knowledge that remains alive in people's mouths and memories, including the inheritance that the pyramid has taught them to misunderstand.
 
 {{invite:E-1}}
 

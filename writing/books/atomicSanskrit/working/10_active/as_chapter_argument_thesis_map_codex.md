@@ -1,12 +1,13 @@
 # *Atomic Sanskrit* — Chapter Argument and Thesis Map
 
-**Status:** Complete and reconciled with the official thesis summary  
+**Status:** Core-thesis references reconciled on 27 September 2026; chapter summaries retain the earlier reduction history, with this pass updating the Preface and affected construction summaries
+
 **Purpose:** Identify the arguments made by each chapter, connect each argument to the current core and supporting theses, and preserve the disposition of arguments that required a new or revised thesis.
 
 ## How to Read This Map
 
-- **C1–C8** refer to the eight core theses in `reference/as_thesis_summary.md`.
-- **S1–S50** refer to the fifty supporting theses in the same document.
+- **C1–C8** refer to the eight current core theses in `reference/as_thesis_summary.md`. The old core IDs were remapped on 27 September 2026; old C6 and C7 now both belong to current C7.
+- **S1–S50** refer to the fifty supporting theses in the same document. **F-Eclipse** marks the Atri/eclipse narrative frame formerly called S43; current S43 instead concerns the three shantis and the series scope.
 - **NEW-A, NEW-B, ...** preserve the audit markers used before the thesis summary was reconciled. Their final dispositions appear at the end of this document.
 - A chapter argument may support several theses. The first thesis listed is the closest match.
 - The map records what the chapter actually argues. It does not force every subsection or example into a separate thesis.
@@ -15,14 +16,14 @@
 
 ### Core Theses
 
-- **C1:** Sanskrit's internal architecture was engineered.
-- **C2:** The Vedas encode that architecture and remain Sanskrit's distributed calibrant.
-- **C3:** The greater engineering feat is the living system that has kept Sanskrit calibrated against entropy and asuric attack for thousands of years.
-- **C4:** Pāṇini did not codify Sanskrit; he decoded and documented its engineering.
-- **C5:** Western academia operates as a pyramid when it misnames this engineering and turns scholarship into custody.
-- **C6:** PIE, RAT, and Indo-Aryan nomenclature concealed the architecture.
-- **C7:** Sanskrit's complete architecture and the recorded data establish the direction of transmission and expose its concealment.
-- **C8:** Sanskrit demonstrates an architecture of distributed calibrant order. The *Second Shanti* series follows that architecture beyond language.
+- **C1:** Sanskrit is an engineered, atomic language. Measured sonomers assemble into semantic atoms, words, and meaning-bearing utterances.
+- **C2:** Sanskrit's architecture is fractal. The same disciplines of distinction, economy, stability, generativity, and correction recur from sound through sentence and preservation.
+- **C3:** The Vedas encode Sanskrit's architecture and remain its distributed calibrant. The standard is central without being owned by a centralized authority.
+- **C4:** The greater feat is systems engineering. The **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** domains keep Sanskrit invariant and generative, while its distributed transmission system resists entropy and asuric capture.
+- **C5:** Pāṇini did not codify Sanskrit. He decoded and documented an architecture that already existed and was already operating.
+- **C6:** The pyramid is the opposing, top-down fractal. Western academia serves that architecture when it misnames Sanskrit's engineering, converts scholarship into custody, and places authorized categories above observable evidence.
+- **C7:** PIE, RAT, and Indo-Aryan nomenclature reverse the direction of Sanskrit's radiance. Sanskrit's complete recorded architecture and the partial reflections found elsewhere establish the direction of transmission.
+- **C8:** Sanskrit makes Sanātan's inside-out architecture audible. The swastika gives that order its distributed geometry, **स्वस्ति (*svasti*)** and **लोकक्षेम (*lokakṣema*)** give it purpose, and the three **शान्तयः (*śāntayaḥ*)** extend it through widening domains. The *Second Shanti* series follows that architecture beyond language.
 
 ### Supporting Theses
 
@@ -36,49 +37,57 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 1. The freedom preserved after 1857 allowed Hindu families and communities to continue carrying a civilizational memory that political and economic conquest had failed to erase.
 
-   **Thesis match:** **C3**, **S36**. **Candidate:** **NEW-C**.
+   **Thesis match:** **C4**, **S36**. **Candidate:** **NEW-C**.
 
 2. Sanskrit gave the author a working example of order created through calibration rather than dogma, command, or punishment from an apex.
 
-   **Thesis match:** **C2**, **C3**, **S15**, **S36**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C3**, **C4**, **S15**, **S36**. **Candidate:** **NEW-A**.
 
 3. Sanskrit demonstrates two connected feats of engineering. Its sounds, atoms, grammar, and generative reach demonstrate the engineering of the language. The Vedic calibration system demonstrates the greater feat by resisting entropy and asuric attack for thousands of years while Sanskrit remains open to new expression.
 
-   **Thesis match:** **C1**, **C2**, **C3**; **S2**, **S4**, **S9**, **S10**, **S33**, **S34**.
+   **Thesis match:** **C1**, **C3**, **C4**, **C2**; **S2**, **S4**, **S9**, **S10**, **S33**, **S34**.
 
 4. The temple and the practice of दर्शन (*darśana*) provide a familiar example of calibrant order: the calibrant remains invariant, alignment remains voluntary, and no human apex controls the act of comparison.
 
    **Thesis match:** **S36**. **Candidate:** **NEW-A**, **NEW-D**.
 
-5. The author’s childhood correction during recitation shows the same architecture at household scale. A listener hears a deviation, corrects it against a known form, and passes the calibrated sound onward.
+5. The childhood correction can be explained through the sound junction and metrical pattern, independently of the parent’s pronunciation preference. The learner can understand the check and teach it to someone else.
 
-   **Thesis match:** **C2**, **C3**; **S10**, **S33**, **S34**.
+   **Thesis match:** **C3**, **C4**, **C2**; **S10**, **S33**, **S34**.
 
-6. Sanskrit is radiant, calibrant, and fractal. Its knowledge travels outward; its invariant form supports comparison and correction; and the same architectural principles recur from sound and sentence to transmission and civilizational order.
+6. Sanskrit is distributed, radiant, calibrant, and fractal. Knowledge and correction extend across the subcontinent; knowledge travels outward; the invariant standard allows checking; and design principles recur across scales. Recursive compounding explains how a procedure can apply within its own constructions.
 
-   **Thesis match:** **C1**, **C2**, **C3**; **S10**, **S27**, **S31**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C1**, **C3**, **C4**, **C2**; **S10**, **S27**, **S31**. **Candidate:** **NEW-A**.
 
-7. Architectural asymmetry identifies direction. India retains Sanskrit together with the Vedas, recitation, analytical disciplines, and calibrant order. Other regions retain partial reflections, so migration alone cannot explain authorship.
+7. Migration does not establish linguistic authorship. The Preface states the outward-radiance thesis; Chapters 17–19 develop the architectural comparison that establishes direction.
 
-   **Thesis match:** **C6**, **C7**; **S19**, **S27**, **S30**, **S31**, **S42**.
+   **Thesis match:** **C7**; **S19**, **S27**, **S30**, **S31**, **S42**.
 
 8. The book openly takes the side of distributed calibration against the pyramid. Its protagonists preserve knowledge and well-being in circulation; its antagonists enclose knowledge and place an apex above others.
 
-   **Thesis match:** **C5**, **C8**; **S35**, **S36**, **S37**. **Candidate:** **NEW-B**.
+   **Thesis match:** **C6**, **C8**; **S35**, **S36**, **S37**. **Candidate:** **NEW-B**.
+
+9. The larger series develops a polity from first principles. The language system exists; present-day India does not embody the wider order in full.
+
+   **Thesis match:** **C8**; **S36**, **S43**.
+
+10. The three invocations concern three distinct domains. Every volume focuses on the second, and the final volume develops the author's fractal interpretation in full.
+
+   **Thesis match:** **C8**; **S43**.
 
 ### Prologue — Eclipse
 
 1. The eclipse is the book’s controlling metaphor. Sanskrit is the Sun, the asuric pyramid is Svarbhānu, and PIE acts as the Rāhu-like instrument placed between Sanskrit’s radiance and the observer.
 
-   **Thesis match:** **C6**; **S5**, **S6**, **S43**.
+   **Thesis match:** **C7**; **S5**, **S6**, **F-Eclipse**.
 
 2. The eleven blocks name the false categories through which the pyramid conceals Sanskrit. The chapters remove those blocks one by one until the reader can examine the language in its own categories.
 
-   **Thesis match:** **C5**, **C6**, **C7**; **S3**, **S5**, **S6**, **S7**, **S13**, **S18**, **S24**, **S27**, **S38**, **S42**.
+   **Thesis match:** **C6**, **C7**; **S3**, **S5**, **S6**, **S7**, **S13**, **S18**, **S24**, **S27**, **S38**, **S42**.
 
 3. Sanskrit’s architecture and the living system that keeps it calibrated remain available for examination. The eclipse changed what observers were taught to see; it did not eliminate the evidence.
 
-   **Thesis match:** **C1**, **C2**, **C3**, **C7**; **S2**, **S34**.
+   **Thesis match:** **C1**, **C3**, **C4**, **C7**; **S2**, **S34**.
 
 4. The pyramid needs linear chronology because a beginning gives an apex a first point to own. Sanskrit and the Vedas instead carry memories of recurrence, continuity, and calibrant order.
 
@@ -86,7 +95,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 5. The Śaṅkha summons the reader into the Atri role. Reading is presented as participation in the recovery rather than passive observation of an academic dispute.
 
-   **Thesis match:** **S43**.
+   **Thesis match:** **F-Eclipse**.
 
 ---
 
@@ -98,7 +107,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 2. ऋषि (*ṛṣi*), आर्य (*ārya*), and संस्कृत (*saṃskṛta*) name attained attributes or disciplined conditions, not racial identities fixed by birth.
 
-   **Thesis match:** **C6**; **S1**, **S6**, **S39**, **S42**. **Candidate:** **NEW-B**.
+   **Thesis match:** **C7**; **S1**, **S6**, **S39**, **S42**. **Candidate:** **NEW-B**.
 
 3. Sanskrit stands in plain sight through its words, sounds, texts, and continuing use. Its own name places it among things deliberately made rather than naturally grown.
 
@@ -106,15 +115,15 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 4. The civilizational memory carried by Sanskrit could not depend upon लिपि (*lipi*) as its primary medium. A written object can decay, burn, be altered, or fall under central control. Its visible forms also change as writing tools and technologies change. The Vedic architecture instead placed its calibrant in exact sound and memory distributed across society.
 
-   **Thesis match:** **C2**, **C3**; **S26**, **S33**, **S44**, **S47**.
+   **Thesis match:** **C3**, **C4**; **S26**, **S33**, **S44**, **S47**.
 
 5. The pyramid turns functional Vedic categories into a chronology. It calls the Vedas archaic, treats *Vedānta* as a date, and turns different textual functions into stages of development.
 
-   **Thesis match:** **C5**, **C6**; **S2**, **S13**, **S37**, **S38**.
+   **Thesis match:** **C6**, **C7**; **S2**, **S13**, **S37**, **S38**.
 
 6. Sanskrit’s capacity for unbounded expression belongs to a civilization that treated infinity as intellectually available rather than threatening.
 
-   **Thesis match:** **C1**; **S4**, **S10**. **Candidate:** **NEW-E**.
+   **Thesis match:** **C1**, **C2**; **S4**, **S10**. **Candidate:** **NEW-E**.
 
 7. The Vedas place *sat*, *asat*, and created *ṛta* at the center of an order that requires discernment. Conduct and purpose determine alignment; identity labels do not.
 
@@ -122,15 +131,15 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 8. The pyramid and the calibrant describe two created architectures of order. One concentrates control at an apex; the other keeps an invariant reference available across society.
 
-   **Thesis match:** **C3**, **C5**; **S35**, **S36**, **S37**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C4**, **C6**; **S35**, **S36**, **S37**. **Candidate:** **NEW-A**.
 
 9. The people who recite, teach, hear, compare, and correct the Vedas form a living preservation system. Their distributed work keeps Sanskrit calibrated without one ruler or institution owning the standard.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S33**, **S34**, **S36**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S33**, **S34**, **S36**.
 
 10. The same architectural pattern recurs across sound, language, transmission, and society. That recurrence establishes the book’s fractal test.
 
-   **Thesis match:** **C1**, **C3**; **S10**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C1**, **C4**, **C2**; **S10**. **Candidate:** **NEW-A**.
 
 ## Chapter 1 — One, the Apex, and the Finite
 
@@ -144,15 +153,15 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 3. A distributed calibrant threatens the apex because people can identify and correct error without waiting for its permission. The apex therefore tries to destroy, disfigure, or hide the calibrant.
 
-   **Thesis match:** **C3**, **C5**; **S36**, **S38**. **Candidate:** **NEW-C**.
+   **Thesis match:** **C4**, **C6**; **S36**, **S38**. **Candidate:** **NEW-C**.
 
 4. Svarbhānu’s action provides the recurring method: block the source of radiance, disorient the observer, and retaliate against those who expose the obstruction.
 
-   **Thesis match:** **C5**, **C6**; **S38**, **S43**.
+   **Thesis match:** **C6**, **C7**; **S38**, **F-Eclipse**.
 
 5. The pyramid attacks memory because a society that remembers another architecture of order can recognize containment and resist it. When destruction fails, false categories teach later generations to misremember what remains.
 
-   **Thesis match:** **C3**, **C5**, **C6**; **S36**, **S38**. **Candidate:** **NEW-C**.
+   **Thesis match:** **C4**, **C6**, **C7**; **S36**, **S38**. **Candidate:** **NEW-C**.
 
 6. Chronology becomes a method of capture when the apex uses dates to turn function into sequence, plurality into stages, and ancient accomplishment into primitive preparation for the present.
 
@@ -160,7 +169,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 7. The chapter identifies eight recurring methods through which the pyramid attacks knowledge: it conceals, misclassifies, isolates, encloses, multiplies copies of its verdict, authorizes interpreters, punishes departure, and presents control as protection.
 
-   **Thesis match:** **C5**; **S35**, **S38**. **Candidate:** **NEW-F**.
+   **Thesis match:** **C6**; **S35**, **S38**. **Candidate:** **NEW-F**.
 
 8. *Asat* becomes architecturally recognizable through what it does: it encloses what should circulate, removes the observer’s capacity to discern, and places control above well-being.
 
@@ -170,7 +179,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 1. The codification story claims that Sanskrit drifted naturally until Pāṇini fixed it. Comparisons with Formal Arabic and Tamil show that documentation alone cannot explain Sanskrit’s invariance.
 
-   **Thesis match:** **C4**; **S12**, **S15**, **S16**.
+   **Thesis match:** **C5**; **S12**, **S15**, **S16**.
 
 2. Arabic, Latin, Sanskrit, and Tamil cannot be placed in one category merely because each has a major grammatical or textual document. Arabic and Latin rely on identifiable authority structures; Sanskrit and Tamil preserved grammatical knowledge within subcontinental society.
 
@@ -182,45 +191,45 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 4. Esperanto proves that rules and generativity are insufficient. Once ordinary communal use begins, an engineered language can still drift unless an invariant calibrant remains available.
 
-   **Thesis match:** **C3**; **S4**, **S9**.
+   **Thesis match:** **C4**; **S4**, **S9**.
 
 5. The Vedas provide what grammar alone cannot: an invariant body of Sanskrit kept in use through exact sound, meter, recitation, correction, and distributed transmission.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S9**, **S33**, **S34**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S9**, **S33**, **S34**.
 
 6. The botanical metaphor converts संस्कृति (*saṃskṛti*) into प्रकृति (*prakṛti*). It recasts the *dhātuḥ* as a root, two domains as two periods, and Pāṇini’s decoding as codification.
 
-   **Thesis match:** **C4**, **C5**, **C6**; **S1**, **S3**, **S7**, **S12**, **S13**.
+   **Thesis match:** **C5**, **C6**, **C7**; **S1**, **S3**, **S7**, **S12**, **S13**.
 
 7. The Vedic and *laukika* domains belong to one architecture with complementary purposes. Difference of permission or use does not establish chronological descent.
 
-   **Thesis match:** **C2**, **C4**; **S9**, **S13**.
+   **Thesis match:** **C3**, **C5**; **S9**, **S13**.
 
 8. After the Anglo-Indian War of 1857 forced the British Empire to retreat from overt transformation of Hindu personal life, the attack increasingly shifted from destruction to concealment through education and false categories.
 
-   **Thesis match:** **C5**, **C6**; **S35**, **S38**. **Candidate:** **NEW-C**.
+   **Thesis match:** **C6**, **C7**; **S35**, **S38**. **Candidate:** **NEW-C**.
 
 9. Āsurī māyā works through concealment and projection. It hides Sanskrit’s actual architecture and projects botanical growth, codification, and foreign ancestry in its place.
 
-   **Thesis match:** **C5**, **C6**; **S38**, **S39**. **Candidate:** **NEW-G**.
+   **Thesis match:** **C6**, **C7**; **S38**, **S39**. **Candidate:** **NEW-G**.
 
 ## Chapter 3 — The Pyramid's Motive and Method
 
 1. The family tree is necessary to the pyramid because it supports three connected pillars: racial displacement, theological enclosure, and inevitable progress toward the present apex.
 
-   **Thesis match:** **C5**, **C6**; **S3**, **S6**, **S35**, **S37**, **S38**, **S42**.
+   **Thesis match:** **C6**, **C7**; **S3**, **S6**, **S35**, **S37**, **S38**, **S42**.
 
 2. The Racial Arya Thesis turns a discipline and attainable condition into foreign racial ancestry. The change from invasion to migration softens the mechanism without removing the racial displacement.
 
-   **Thesis match:** **C6**; **S6**, **S42**.
+   **Thesis match:** **C7**; **S6**, **S42**.
 
 3. Linear chronology contains the beginningless Hindu continuum by assigning it a late start and treating prior memory as mythology. The progress story then places the present Western order above the civilization it has dated.
 
-   **Thesis match:** **C5**, **C6**; **S37**, **S38**. **Candidate:** **NEW-C**.
+   **Thesis match:** **C6**, **C7**; **S37**, **S38**. **Candidate:** **NEW-C**.
 
 4. Containment uses four coordinated methods: concealment hides the architecture, blockade controls entry into debate, quarantine separates Sanskrit from living use, and enclosure confines it within a foreign chronology or geography.
 
-   **Thesis match:** **C5**; **S35**, **S38**.
+   **Thesis match:** **C6**; **S35**, **S38**.
 
 5. Neither *māyā* nor *asura* determines moral alignment by itself. Power becomes *daivī* or *āsurī* through the purpose it serves, and the listener must exercise *viveka* by examining conduct.
 
@@ -228,7 +237,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 6. The pyramid’s obsession with words such as *asura*, *ārya*, *dāsa*, and *dasyu* converts action into faction. That diversion prevents readers from asking whether an actor advances *sat* or *asat* in the passage before them.
 
-   **Thesis match:** **C5**, **C6**; **S39**, **S42**. **Candidate:** **NEW-B**.
+   **Thesis match:** **C6**, **C7**; **S39**, **S42**. **Candidate:** **NEW-B**.
 
 7. Vedic passages repeatedly distinguish containment from release. The side that restores circulation, radiance, well-being, or *svasti* aligns with *sat*; the side that obstructs those purposes aligns with *asat*.
 
@@ -236,13 +245,13 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 8. The pyramid and swastika are competing fractals. The pyramid reproduces order through hierarchy and containment; the swastika reproduces order through circulation, distributed calibration, and correction without an owning apex.
 
-   **Thesis match:** **C3**, **C5**; **S10**, **S36**, **S37**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C4**, **C6**, **C2**; **S10**, **S36**, **S37**. **Candidate:** **NEW-A**.
 
 ## Chapter 4 — The Fourth Abrahamic Religion
 
 1. Progressivism secularizes an Abrahamic architecture rather than escaping it. It retains privileged doctrine, authorized interpreters, an insider–outsider boundary, a linear history, and an approaching judgment that justifies control.
 
-   **Thesis match:** **C5**; **S35**, **S40**.
+   **Thesis match:** **C6**; **S35**, **S40**.
 
 2. Genesis, utopia, and apocalypse survive under new names. Scientific and political vocabulary changes, but the pyramid retains one origin, one direction of history, one prescribed solution, and one class empowered to administer it.
 
@@ -250,19 +259,19 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 3. The progressive and foundational dogmas work together. One requires the present to stand above the past; the other requires foundational knowledge to originate within the Western civilizational corridor.
 
-   **Thesis match:** **C5**, **C6**; **S35**, **S37**, **S40**.
+   **Thesis match:** **C6**, **C7**; **S35**, **S37**, **S40**.
 
 4. Government curricula, universities, publishers, and credentialed interpreters reproduce these dogmas until institutional repetition is mistaken for demonstrated truth.
 
-   **Thesis match:** **C5**; **S35**, **S38**, **S40**.
+   **Thesis match:** **C6**; **S35**, **S38**, **S40**.
 
 5. The church of progress divides its work among missionaries who spread the account, jihadis who stigmatize challengers, and priests who certify what may count as knowledge.
 
-   **Thesis match:** **C5**; **S35**, **S40**.
+   **Thesis match:** **C6**; **S35**, **S40**.
 
 6. Bandin’s gate and Aṣṭāvakra’s victory expose the difference between authorization and knowledge. Public *śāstrārtha* permits a challenger to demonstrate an error before listeners; peer review restricts the verdict to people whom the academic pyramid has already certified.
 
-   **Thesis match:** **C5**; **S35**, **S41**.
+   **Thesis match:** **C6**; **S35**, **S41**.
 
 7. Asuric alignment follows conduct, not identity or power. Rāma and Rāvaṇa, and Durgā and Mahiṣāsura, are distinguished by what their power serves.
 
@@ -270,25 +279,25 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 8. The Vedas disprove the pyramid’s claim that lasting order requires an apex. Exact recitation, distributed custody, and mutual correction have kept the calibrant active without one ruler, office, or priesthood owning it.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S33**, **S34**, **S36**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S33**, **S34**, **S36**.
 
 9. The fourth Abrahamic religion continues the earlier effort to absorb, contain, or overwrite Sanātan, now through academic, cultural, legal, and developmental institutions.
 
-   **Thesis match:** **C5**, **C6**; **S35**, **S38**, **S40**. **Candidate:** **NEW-C**.
+   **Thesis match:** **C6**, **C7**; **S35**, **S38**, **S40**. **Candidate:** **NEW-C**.
 
 ## Chapter 5 — सिद्ध (*Siddha*) and कार्य (*Kārya*)
 
 1. **व्याकरणम् (*vyākaraṇam*)** takes an existing architecture apart so that it can be understood. The **वैयाकरणाः (*vaiyākaraṇāḥ*)** were analysts, decoders, teachers, and documenters, not authorities who invented Sanskrit’s standards.
 
-   **Thesis match:** **C4**; **S12**, **S14**, **S15**.
+   **Thesis match:** **C5**; **S12**, **S14**, **S15**.
 
 2. Pāṇini belonged to an analytical lineage that preceded him. The Vedas, Śākalya’s *padapāṭha*, Yāska’s predecessors, and the earlier grammarians whom Pāṇini cites all establish that Sanskrit was already being analyzed before the *Aṣṭādhyāyī*.
 
-   **Thesis match:** **C4**; **S12**, **S14**.
+   **Thesis match:** **C5**; **S12**, **S14**.
 
 3. Patañjali’s five purposes for grammatical instruction place preservation, correct adaptation, efficient learning, and the removal of doubt before institutional rule-making. Every purpose assumes an architecture that already exists.
 
-   **Thesis match:** **C2**, **C4**; **S12**, **S14**, **S15**. **Candidate:** **NEW-H**.
+   **Thesis match:** **C3**, **C5**; **S12**, **S14**, **S15**. **Candidate:** **NEW-H**.
 
 4. **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)** begins with the bond among word, meaning, and relation already established. Grammar regulates a speaker’s use of that bond; it does not manufacture the bond.
 
@@ -300,21 +309,21 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 6. Evidence before Pāṇini shows that Sanskrit already possessed grammar; Patañjali’s later explanation shows that the continuum understood grammar as regulation of an inherited system. Together they leave no historical role for Pāṇini as codifier.
 
-   **Thesis match:** **C4**; **S12**, **S14**, **S15**, **S17**.
+   **Thesis match:** **C5**; **S12**, **S14**, **S15**, **S17**.
 
 7. Sanskrit gives the *Second Shanti* series its first working example of self-correction through calibration. Correctness can come from internal fit among sound, meaning, meter, derivation, recitation, and use rather than from an institution’s decree.
 
-   **Thesis match:** **C2**, **C3**; **S15**, **S36**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C3**, **C4**; **S15**, **S36**. **Candidate:** **NEW-A**.
 
 ## Chapter 6 — *Apabhraṃśa* and Entropy
 
 1. Sanskrit had to resist two different enemies while remaining available for new expression. Entropy introduces unintended change; asuric attack deliberately destroys, captures, or conceals the calibrant.
 
-   **Thesis match:** **C3**; **S2**, **S8**, **S9**, **S36**.
+   **Thesis match:** **C4**; **S2**, **S8**, **S9**, **S36**.
 
 2. Patañjali’s contrast between one calibrated **गौः (*gauḥ*)** and several fallings-away shows why corruptions multiply more readily than correct forms. **अपभ्रंशः (*apabhraṃśa*)** names a departure from an established form, not Sanskrit’s natural condition.
 
-   **Thesis match:** **C3**; **S8**.
+   **Thesis match:** **C4**; **S8**.
 
 3. Drift, deviation, and divergence describe three different relationships. A natural language drifts internally; Sanskrit can detect a deviation against its calibrant; an orbital language can drift on its own and thereby diverge from Sanskrit.
 
@@ -326,19 +335,19 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 5. Esperanto demonstrates that generativity alone cannot preserve an engineered language. Sanskrit succeeds because its *vaidika* domain retains an invariant calibrant while its *laukika* domain remains available for new composition.
 
-   **Thesis match:** **C2**, **C3**; **S4**, **S9**, **S13**. **Candidate:** **NEW-T**.
+   **Thesis match:** **C3**, **C4**; **S4**, **S9**, **S13**. **Candidate:** **NEW-T**.
 
 6. Sanskrit’s grammatical, metrical, recitational, and analytical checks resist entropy by detecting different kinds of departure before later speakers inherit them.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S8**, **S33**, **S34**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S8**, **S33**, **S34**.
 
 7. Distribution resists asuric attack. No attacker can erase or replace the complete standard by destroying one manuscript, capturing one office, or scattering one community.
 
-   **Thesis match:** **C3**; **S2**, **S33**, **S34**, **S36**. **Candidate:** **NEW-C**.
+   **Thesis match:** **C4**; **S2**, **S33**, **S34**, **S36**. **Candidate:** **NEW-C**.
 
 8. Differences among Vedic forms, accents, lineages, and textual functions do not establish drift. Sanskrit records where each variation belongs, and the two domains assign different permissions for different purposes.
 
-   **Thesis match:** **C2**, **C4**; **S13**.
+   **Thesis match:** **C3**, **C5**; **S13**.
 
 9. The distinction among drift, deviation, and divergence explains Sanskrit’s relation to nearby Indian languages and to languages touched by its farther radiance.
 
@@ -346,7 +355,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 10. Entropy and asuric action threaten more than language. The same distinction applies to temples, institutions, and civilizational orders, preparing the extension from *Atomic Sanskrit* into later *Second Shanti* volumes.
 
-   **Thesis match:** **C3**, **S36**. **Candidate:** **NEW-A**, **NEW-C**.
+   **Thesis match:** **C4**, **S36**. **Candidate:** **NEW-A**, **NEW-C**.
 
 ## Chapter 7 — ॐ (*Oṃ*): The Anatomy of Sound
 
@@ -378,7 +387,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 1. The Indian subcontinent contains a broad consonantal sound inventory from which Sanskrit’s selected sound architecture can be understood. The sounds did not need to arrive with a foreign population.
 
-   **Thesis match:** **C6**, **C7**; **S19**. **Candidate:** **NEW-K**.
+   **Thesis match:** **C7**; **S19**. **Candidate:** **NEW-K**.
 
 2. A **sonance** is a consonantal sound Sanskrit deliberately recognizes. A **sonomer** is a sonance promoted to an independent, reusable grid address. The distinction allows the Vedic domain to retain bounded or condition-generated sounds without adding every pronounceable sound to unrestricted composition.
 
@@ -390,7 +399,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 4. The comparisons assembled from languages the pyramid classifies as Indo-European cover substantially fewer Sanskrit base cells than the Indian comparisons. Family labels therefore do not predict the distribution of Sanskrit’s sounds as well as subcontinental geography does.
 
-   **Thesis match:** **C6**, **C7**; **S19**, **S42**. **Candidate:** **NEW-K**.
+   **Thesis match:** **C7**; **S19**, **S42**. **Candidate:** **NEW-K**.
 
 5. The remaining gaps in the Indian comparisons occur beside sound regions those languages already use. They do not require a separate foreign sound field to explain Sanskrit’s selection.
 
@@ -398,7 +407,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 6. Retroflexion is not an isolated borrowed feature. It belongs to a wider subcontinental band of sounds and becomes one part of the mouth, mind, and order cluster developed in Chapter 17.
 
-   **Thesis match:** **C6**, **C7**; **S19**.
+   **Thesis match:** **C7**; **S19**.
 
 7. The survey identifies the regional superset but does not yet explain why Sanskrit selected particular sounds from it. Chapter 9 supplies that engineering test through grid addresses, distinguishability, scope, and exclusion.
 
@@ -420,15 +429,15 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 4. The **अक्षर (*akṣara*)** is a vowel-centered sound assembly rather than a written character. **मात्रा (*mātrā*)** gives each component a measured duration before any script represents it.
 
-   **Thesis match:** **C1**; **S10**, **S18**, **S23**.
+   **Thesis match:** **C1**, **C2**; **S10**, **S18**, **S23**.
 
 5. Vowel family, duration, pitch, and nasality form separate axes. Sanskrit can therefore preserve many analytically distinct sound realizations without turning every realization into an independent written vowel.
 
-   **Thesis match:** **C1**, **C2**; **S18**, **S22**, **S33**.
+   **Thesis match:** **C1**, **C3**; **S18**, **S22**, **S33**.
 
 6. Sandhi performs a snap-to-grid operation. At a junction such as **तत् + अपि → तदपि**, the completed form returns a contextual sound to a recognized grid address; stated Vedic exceptions preserve separation where the received passage requires it.
 
-   **Thesis match:** **C1**, **C2**; **S18**, **S22**.
+   **Thesis match:** **C1**, **C3**; **S18**, **S22**.
 
 7. The Principle of Architectural Selection and Scope explains why some sounds become reusable sonomers, some remain restricted or lineage-bounded sonances, and others receive no address. Sanskrit engineers through exclusion as well as inclusion.
 
@@ -436,37 +445,37 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 8. The *vaidika* domain can preserve off-grid sonances inside fixed passages, while the *laukika* domain restricts new composition to independently addressable sonomers. The difference reflects two purposes within one architecture, not an old and a new language.
 
-   **Thesis match:** **C2**, **C4**; **S13**, **S22**.
+   **Thesis match:** **C3**, **C5**; **S13**, **S22**.
 
 9. **वर्ण (*varṇa*)** is a measured sound-particle, not a letter. The sound-grid precedes writing, and a script later gives its pronounced units a visible interface.
 
-   **Thesis match:** **C1**, **C6**; **S18**, **S23**, **S24**. **Candidate:** **NEW-T**.
+   **Thesis match:** **C1**, **C7**; **S18**, **S23**, **S24**. **Candidate:** **NEW-T**.
 
 10. The *varṇamālā* precedes Pāṇini’s index of it. The *Māheśvara-sūtrāṇi* rearrange an inventory already in use; they do not create the sound architecture.
 
-   **Thesis match:** **C4**; **S12**, **S14**, **S18**.
+   **Thesis match:** **C5**; **S12**, **S14**, **S18**.
 
 11. The sonomeric grid is Sanskrit’s first complete specification. Its compactness, precision, lack of waste, and internal order recur at the level of the *dhātuḥ*, establishing the next step in the fractal architecture.
 
-   **Thesis match:** **C1**; **S10**, **S18**, **S20**.
+   **Thesis match:** **C1**, **C2**; **S10**, **S18**, **S20**.
 
 ## Chapter 10 — Building *Dhātuḥ*: Sanskrit's Atom
 
 1. The **धातुः (*dhātuḥ*)** is a stable semantic constituent, not a botanical root. Sanskrit builds larger linguistic forms around it while leaving enough of the constituent recoverable inside the completed form.
 
-   **Thesis match:** **C1**, **C6**; **S7**, **S20**.
+   **Thesis match:** **C1**, **C7**; **S7**, **S20**.
 
 2. Selected and timed sonomers enter reusable **धातुरचना (*dhāturacanā*)** scaffolds. The filled scaffold becomes a semantic atom, giving the book a concrete construction from sound-particle to meaning-bearing unit.
 
-   **Thesis match:** **C1**; **S10**, **S18**, **S20**. **Candidate:** **NEW-L**.
+   **Thesis match:** **C1**, **C2**; **S10**, **S18**, **S20**. **Candidate:** **NEW-L**.
 
 3. The atom contains an internal division of work. The vowel supplies the sustained center, consonants shape its boundaries and bonding possibilities, the **अक्षर (*akṣara*)** forms the stable sound-unit, and the **मात्रा (*mātrā*)** envelope fixes its duration.
 
-   **Thesis match:** **C1**; **S10**, **S18**, **S20**.
+   **Thesis match:** **C1**, **C2**; **S10**, **S18**, **S20**.
 
 4. The six **सूत्रलक्षणानि (*sūtra-lakṣaṇāni*)** provide an internal design test. Sanskrit’s atoms are compact, economical, distinguishable, meaning-bearing, generative, and stable.
 
-   **Thesis match:** **C1**; **S10**, **S11**, **S20**. **Candidate:** **NEW-L**.
+   **Thesis match:** **C1**, **C2**; **S10**, **S11**, **S20**. **Candidate:** **NEW-L**.
 
 5. The numerical distributions of the 2,168 atoms show deliberate concentration in a small number of compact sonomeric and temporal scaffolds rather than uncontrolled accumulation of forms.
 
@@ -474,7 +483,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 6. A small atom can retain a stable core meaning while entering many bonds and producing a wide family of expressions. Sanskrit’s generativity comes from reusable structure rather than an endlessly memorized lexicon.
 
-   **Thesis match:** **C1**; **S4**, **S10**, **S11**, **S20**.
+   **Thesis match:** **C1**, **C2**; **S4**, **S10**, **S11**, **S20**.
 
 7. The older debate over **वर्णशक्ति (*varṇa-śakti*)** asks whether individual sonomers within an atom contribute to its meaning. The question becomes possible because the sound-particles and atoms remain stable enough to compare.
 
@@ -482,239 +491,239 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 8. Sanskrit’s analytical disciplines presuppose the atom’s stability and generative behavior before Pāṇini. His documentation classifies and activates an inventory whose engineering was already known.
 
-   **Thesis match:** **C4**; **S11**, **S12**, **S14**, **S20**.
+   **Thesis match:** **C5**; **S11**, **S12**, **S14**, **S20**.
 
 9. The six qualities of a *sūtra* recur inside the *dhātuḥ*. The semantic atom is therefore a *sūtra* in miniature, and the same design discipline repeats from sonomer to atom and then into larger forms.
 
-   **Thesis match:** **C1**; **S10**, **S21**. **Candidate:** **NEW-L**.
+   **Thesis match:** **C1**, **C2**; **S10**, **S21**. **Candidate:** **NEW-L**.
 
 10. **Oṃ** carries the same architecture at its smallest symbolic scale: compact sound, layered meaning, generative reach, invariance, and radiance recur in one form.
 
-   **Thesis match:** **C1**, **C2**; **S10**. **Candidate:** **NEW-E**.
+   **Thesis match:** **C1**, **C3**, **C2**; **S10**. **Candidate:** **NEW-E**.
 
 ## Chapter 11 — Building *Kriyāpadam*: Sanskrit's Verbal Molecule
 
 1. A *dhātuḥ* contains semantic potential but does not yet tell the listener who acts, how many act, when the action occurs, or how the speaker presents it. Sanskrit activates the atom by building those relations into a completed **क्रियापदम् (*kriyāpadam*)**.
 
-   **Thesis match:** **C1**; **S10**, **S20**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C1**, **C2**; **S10**, **S20**. **Candidate:** **NEW-M**.
 
 2. Five Rigvedic verbs demonstrate five repeatable activation procedures: vowel change, vowel change with insertion, repetition, nasal insertion, and nasal extension. Different atoms follow different procedures while retaining recoverable identity.
 
-   **Thesis match:** **C1**, **C2**; **S2**, **S10**, **S11**, **S20**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C1**, **C3**, **C2**; **S2**, **S10**, **S11**, **S20**. **Candidate:** **NEW-M**.
 
 3. Person and number become compact sonomeric endings attached to the activated atom. The completed verb can therefore distinguish such meanings as I go, you go, he or she goes, we go, and they go without relying on a fixed position in the sentence.
 
-   **Thesis match:** **C1**; **S10**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C1**, **C2**; **S10**. **Candidate:** **NEW-M**.
 
 4. The Rigveda preserves a broad verbal range across atoms, persons, numbers, times, commands, possibilities, and desires. The forms themselves demonstrate that the grammatical architecture existed in Vedic Sanskrit.
 
-   **Thesis match:** **C2**, **C4**, **C7**; **S2**, **S12**, **S14**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C3**, **C5**, **C7**; **S2**, **S12**, **S14**. **Candidate:** **NEW-M**.
 
 5. Pāṇini did not create the procedures or the classes of atoms that follow them. He identified recurring behavior, classified it, and made the implicit analysis explicit through rules.
 
-   **Thesis match:** **C4**; **S12**, **S14**, **S20**.
+   **Thesis match:** **C5**; **S12**, **S14**, **S20**.
 
 6. The movement from atom to completed action demonstrates engineering directed toward a linguistic purpose. The atom can change enough to carry grammatical information while remaining recoverable inside the verbal molecule.
 
-   **Thesis match:** **C1**; **S10**, **S11**, **S20**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C1**, **C2**; **S10**, **S11**, **S20**. **Candidate:** **NEW-M**.
 
 ## Chapter 12 — Building the *Vākyam*: Sanskrit's Molecular Assembly
 
 1. A completed verb must join role-bearing nominal forms before Sanskrit has a sentence. Inflection turns a lexical **शब्दः (*śabdaḥ*)** into a sentence-ready **पदम् (*padam*)** by encoding its relation to the action.
 
-   **Thesis match:** **C1**; **S10**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C1**, **C2**; **S10**. **Candidate:** **NEW-M**.
 
 2. The Vedic family built from **⟪कृ⟫ (*kṛ*)** demonstrates one stable atom generating nouns, participles, completed verbs, and compounds across several kinds of expression.
 
-   **Thesis match:** **C1**, **C2**; **S2**, **S10**, **S11**, **S20**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C1**, **C3**, **C2**; **S2**, **S10**, **S11**, **S20**. **Candidate:** **NEW-M**.
 
 3. Rigvedic sentences preserve questions, future action, address, possession, agency, objects, recipients, and other grammatical relations inside completed words. The Vedas therefore preserve sentence architecture in use rather than merely a list of old vocabulary.
 
-   **Thesis match:** **C2**, **C7**; **S2**, **S14**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C3**, **C7**; **S2**, **S14**. **Candidate:** **NEW-M**.
 
 4. Because Sanskrit encodes grammatical relations in its completed words, poets can place those words where meter, emphasis, resonance, and meaning require. Vedic passages use that freedom while their transmitted order remains invariant.
 
-   **Thesis match:** **C1**, **C2**; **S2**, **S10**, **S33**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C1**, **C3**, **C2**; **S2**, **S10**, **S33**. **Candidate:** **NEW-M**.
 
 5. Free word order serves the preservation architecture. It allows a mantra to satisfy meter and sound-pattern while its endings retain grammatical relations, binding meaning and memorable form together.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S10**, **S33**, **S34**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C3**, **C4**, **C2**; **S2**, **S10**, **S33**, **S34**. **Candidate:** **NEW-M**.
 
 6. Pāṇini made sentence relations and their generative procedures explicit, but the Vedas already display those relations across complete sentences.
 
-   **Thesis match:** **C4**; **S12**, **S14**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C5**; **S12**, **S14**. **Candidate:** **NEW-M**.
 
 7. The Vedas remain the grammatical calibrant, while the *laukika* domain applies the same architecture to new words and sentences. Invariance and new expression therefore reinforce rather than oppose one another.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S4**, **S9**, **S13**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S4**, **S9**, **S13**.
 
-8. The same architecture now recurs across four linguistic scales: sonomer, semantic atom, completed word, and sentence. The sentence completes the book’s atomic and fractal construction.
+8. The sentence extends the recurring design discipline through identifiable constituents, defined relationships, and a form the learner can analyze and check. Recursive compounding allows a completed compound to participate in a further compound.
 
-   **Thesis match:** **C1**; **S10**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C1**, **C2**; **S10**. **Candidate:** **NEW-M**.
 
 ## Chapter 13 — Why Preservation Needs Engineering
 
 1. Building Sanskrit was one engineering achievement. Keeping it calibrated for thousands of years required a larger system capable of correcting unintended change and surviving deliberate attack.
 
-   **Thesis match:** **C1**, **C2**, **C3**; **S2**, **S8**, **S9**, **S33**, **S34**.
+   **Thesis match:** **C1**, **C3**, **C4**; **S2**, **S8**, **S9**, **S33**, **S34**.
 
 2. **प्राकृत (*prākṛta*)**, **संस्कृत (*saṃskṛta*)**, and **सनातन (*sanātan*)** distinguish what may change, what must be protected from deviation, and the enduring ground on which that distinction rests.
 
-   **Thesis match:** **C1**, **C3**; **S1**, **S8**, **S15**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C1**, **C4**; **S1**, **S8**, **S15**. **Candidate:** **NEW-A**.
 
 3. Writing is useful, but लिपि (*lipi*) cannot serve as a reliable primary calibrant. Every physical medium decays, can be destroyed, can be seized, and can place custody in the hands of whoever controls the archive. The script itself also changes under the pressure of new writing tools and technologies. Nalanda, Alexandria, and the destruction of other Qur'anic copies demonstrate the medium's vulnerability through fire, war, and command.
 
-   **Thesis match:** **C3**; **S26**, **S36**.
+   **Thesis match:** **C4**; **S26**, **S36**.
 
 4. Sanskrit selected sonances, promoted reusable sonances to sonomers, and arranged them before any script rendered that architecture. Indic Audiography gave the prior sonomeric grid a precise visual interface. Its audiographs could change while the sound architecture remained available through Auditure.
 
-   **Thesis match:** **C1**, **C3**, **C6**; **S18**, **S23**, **S24**, **S25**. **Candidate:** **NEW-T**.
+   **Thesis match:** **C1**, **C4**, **C7**; **S18**, **S23**, **S24**, **S25**. **Candidate:** **NEW-T**.
 
    The full prosecution of *abugida*, Brāhmī-from-Aramaic, and heroic erasure remains in Appendix Part 3. Chapter 13 retains only the distinction between the prior sound architecture and its written interface.
 
 5. Sanskrit required an aural system, not merely an oral tradition. Exact production, trained hearing, public performance, and correction preserve phonetic form beyond what ordinary storytelling can carry.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S33**, **S34**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S33**, **S34**.
 
 6. Calibration and codification create stability through opposite architectures. Codification gives an institution authority over a bounded form; calibration leaves the invariant reference inside a distributed living system.
 
-   **Thesis match:** **C3**, **C4**, **C5**; **S12**, **S15**, **S16**, **S36**.
+   **Thesis match:** **C4**, **C5**, **C6**; **S12**, **S15**, **S16**, **S36**.
 
 7. The pyramid praises authority-bound preservation while denying the larger category to Sanskrit. That asymmetry allows it to praise Pāṇini as codifier, call Vedic transmission oral tradition, and hide the calibration system that predates him.
 
-   **Thesis match:** **C4**, **C5**, **C6**; **S12**, **S15**, **S16**, **S24**, **S35**, **S36**.
+   **Thesis match:** **C5**, **C6**, **C7**; **S12**, **S15**, **S16**, **S24**, **S35**, **S36**.
 
 ## Chapter 14 — The Calibration Matrix
 
 1. The calibration matrix is the greater engineering feat at the center of the book. It has kept Sanskrit aligned against entropy and deliberate attack while allowing its radiance to remain available.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S33**, **S34**, **S36**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S33**, **S34**, **S36**.
 
 2. The next generation becomes the archive. Preservation uses human capacities for memory, speech, hearing, gesture, comparison, and correction rather than entrusting the calibrant to one destructible medium or office.
 
-   **Thesis match:** **C3**; **S26**, **S33**, **S34**, **S36**. **Candidate:** **NEW-N**.
+   **Thesis match:** **C4**; **S26**, **S33**, **S34**, **S36**. **Candidate:** **NEW-N**.
 
 3. Writing, Mnemoniture, Flexture, and Auditure preserve different kinds of material. The architecture assigns exact sound to heard transmission, stories and principles to retellable memory, embodied knowledge to trained movement, and documents to writing. Audiography renders the sound calibrant in a visible interface; Auditure keeps the sounded form calibrated.
 
-   **Thesis match:** **C3**; **S26**, **S33**. **Candidate:** **NEW-N**, **NEW-T**.
+   **Thesis match:** **C4**; **S26**, **S33**. **Candidate:** **NEW-N**, **NEW-T**.
 
 4. Auditure joins a trained speaker with trained listeners. The audience participates in preservation by hearing departures, so the people who guard the form are themselves checked in public.
 
-   **Thesis match:** **C2**, **C3**; **S33**, **S34**, **S36**.
+   **Thesis match:** **C3**, **C4**; **S33**, **S34**, **S36**.
 
 5. Six overlapping layers keep Sanskrit calibrated: the Vedas, *Prātiśākhya*, *Vyākaraṇam*, the *Dhātupāṭha*, the *varṇamālā*, and *chandas*. A departure that escapes one layer can disturb another.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S20**, **S33**, **S34**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S20**, **S33**, **S34**.
 
 6. *Chandas* acts as an error-detecting constraint. Syllable number and duration bind a passage to a known metrical form, allowing a listener to hear when transmission has changed it.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S33**, **S34**. **Candidate:** **NEW-O**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S33**, **S34**. **Candidate:** **NEW-O**.
 
 7. Vedic meter also records a combinatorial understanding of possible arrangements. The sequence later called Fibonacci appears within an Indian analysis of poetic possibilities rather than as an isolated numerical discovery.
 
-   **Thesis match:** **C1**, **C7**; **S10**. **Candidate:** **NEW-O**.
+   **Thesis match:** **C1**, **C7**, **C2**; **S10**. **Candidate:** **NEW-O**.
 
 8. The six qualities of a well-made *sūtra* recur at the scale of the complete language and its preservation system. Compactness, economy, clarity, stable meaning, generative reach, and fault-resistance form another fractal repetition.
 
-   **Thesis match:** **C1**, **C3**; **S10**. **Candidate:** **NEW-L**.
+   **Thesis match:** **C1**, **C4**, **C2**; **S10**. **Candidate:** **NEW-L**.
 
 9. Hebrew, Quranic Arabic, and ecclesiastical Latin preserve bounded forms through identifiable authorities. Their success clarifies Sanskrit’s different achievement: the Vedas calibrate a living generative language without one apex owning the standard.
 
-   **Thesis match:** **C3**, **C5**; **S15**, **S16**, **S36**.
+   **Thesis match:** **C4**, **C6**; **S15**, **S16**, **S36**.
 
 10. The matrix precedes Pāṇini. His rules document relations among layers that the Vedas and earlier disciplines already preserve and analyze.
 
-   **Thesis match:** **C4**; **S12**, **S14**.
+   **Thesis match:** **C5**; **S12**, **S14**.
 
 ## Chapter 15 — Aural Architecture
 
 1. Vedic recitation makes the preservation claim audible in the present. The system remains active in temples, homes, schools, and lineages rather than existing only as a historical reconstruction.
 
-   **Thesis match:** **C2**, **C3**, **C7**; **S33**, **S34**.
+   **Thesis match:** **C3**, **C4**, **C7**; **S33**, **S34**.
 
 2. **शिक्षा (*Śikṣā*)** trains the reciter’s body as a precision instrument. It specifies articulation, breath, pitch, duration, sequence, and the departures a teacher must detect.
 
-   **Thesis match:** **C1**, **C2**; **S18**, **S33**, **S34**.
+   **Thesis match:** **C1**, **C3**; **S18**, **S33**, **S34**.
 
 3. The eleven **पाठाः (*pāṭhāḥ*)** preserve the same passage through continuous recitation, separated words, overlapping pairs, reversals, and longer recombinations.
 
-   **Thesis match:** **C2**, **C3**; **S33**, **S34**.
+   **Thesis match:** **C3**, **C4**; **S33**, **S34**.
 
 4. The modified recitations act like an error-detecting code. A changed word or sound must survive several independently constrained arrangements, meter, accent, grammar, and the trained ear of the listener.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S33**, **S34**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S33**, **S34**.
 
 5. Geographically separated lineages provide an empirical cross-check. Their continuing recitations allow present-day listeners to compare transmission without assuming that one central office issued the standard to all of them.
 
-   **Thesis match:** **C3**, **C7**; **S33**, **S34**, **S36**.
+   **Thesis match:** **C4**, **C7**; **S33**, **S34**, **S36**.
 
 6. The recitation procedures resist entropy by detecting departures. Their distribution resists asuric attack by preventing an apex from capturing the complete calibrant.
 
-   **Thesis match:** **C3**; **S2**, **S33**, **S34**, **S36**.
+   **Thesis match:** **C4**; **S2**, **S33**, **S34**, **S36**.
 
 7. The system’s continuing operation is evidence of its engineering. It has carried recoverable form across distance, destruction, and thousands of years and continues performing that work today.
 
-   **Thesis match:** **C3**, **C7**; **S2**, **S34**.
+   **Thesis match:** **C4**, **C7**; **S2**, **S34**.
 
 ## Chapter 16 — One Architecture, Two Domains
 
 1. *Vaidika* and *laukika* Sanskrit share most of their sounds, atoms, affixes, grammatical relations, compounds, and sentence operations. They are two domains of one language, not two chronological languages.
 
-   **Thesis match:** **C2**, **C4**; **S13**.
+   **Thesis match:** **C3**, **C5**; **S13**.
 
 2. The Vedic domain preserves a wider range of sounds and forms inside passages that never change. The *laukika* domain uses a tighter reusable selection because future speakers must be able to create unlimited new expressions without avoidable collisions.
 
-   **Thesis match:** **C1**, **C2**; **S4**, **S9**, **S13**, **S22**.
+   **Thesis match:** **C1**, **C3**; **S4**, **S9**, **S13**, **S22**.
 
 3. The wider Vedic range demonstrates more engineering, not primitive language. Pitch, meter, additional endings, movable prefixes, off-grid sonances, and specialized verbal forms serve identifiable purposes within fixed passages.
 
-   **Thesis match:** **C1**, **C2**, **C6**; **S2**, **S13**, **S22**.
+   **Thesis match:** **C1**, **C3**, **C7**; **S2**, **S13**, **S22**.
 
 4. Ten Vedic contributions fall into four larger functions: audible architecture, grammatical and compositional range, specialized Vedic use, and preservation through overlapping checks.
 
-   **Thesis match:** **C1**, **C2**, **C3**; **S2**, **S10**, **S13**, **S34**.
+   **Thesis match:** **C1**, **C3**, **C4**, **C2**; **S2**, **S10**, **S13**, **S34**.
 
 5. Differences among mantras, melodies, formulas, explanations, dialogues, and other Vedic styles follow function. Style and domain do not establish an evolutionary chronology.
 
-   **Thesis match:** **C2**, **C4**; **S13**.
+   **Thesis match:** **C3**, **C5**; **S13**.
 
 6. The protections overlap. Sound, duration, pitch, meter, grammar, sequence, and inherited memory each detect a different kind of departure, creating fault-tolerance without one controlling office.
 
-   **Thesis match:** **C3**; **S2**, **S33**, **S34**, **S36**.
+   **Thesis match:** **C4**; **S2**, **S33**, **S34**, **S36**.
 
 7. The *laukika* domain keeps Sanskrit useful. Speakers can create new expressions for poetry, science, medicine, manufacturing, trade, and changing circumstances without changing the language’s architecture.
 
-   **Thesis match:** **C1**, **C3**; **S4**, **S9**, **S10**.
+   **Thesis match:** **C1**, **C4**, **C2**; **S4**, **S9**, **S10**.
 
 8. The Vedas preserve an implicit language manual in use. Their breadth carries Sanskrit’s sounds, atoms, endings, grammatical relations, compounds, and sentence forms, while the analytical disciplines make those operations teachable.
 
-   **Thesis match:** **C2**, **C4**; **S2**, **S12**, **S14**.
+   **Thesis match:** **C3**, **C5**; **S2**, **S12**, **S14**.
 
 9. Pāṇini documented where operations apply across the two domains. He neither stabilized the Vedas nor transformed one drifting language into another.
 
-   **Thesis match:** **C4**; **S12**, **S13**, **S14**.
+   **Thesis match:** **C5**; **S12**, **S13**, **S14**.
 
 10. Society distributes the two responsibilities. Some people preserve assigned Vedic material exactly, while the same society teaches, analyzes, and composes in *laukika* Sanskrit. No household or institution needs to own the whole.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S34**, **S36**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S34**, **S36**. **Candidate:** **NEW-A**.
 
 11. The two-domain system defeats both enemies. Exact transmission resists entropy; distributed custody resists capture; open composition keeps Sanskrit useful. Its continued operation is the book’s greater engineering feat.
 
-   **Thesis match:** **C3**; **S2**, **S4**, **S9**, **S33**, **S34**, **S36**.
+   **Thesis match:** **C4**; **S2**, **S4**, **S9**, **S33**, **S34**, **S36**.
 
 ## Chapter 17 — The Subcontinental Mouth, Mind, and Order
 
 1. Languages across the Indian subcontinent share a cluster of mouth, mind, and order that crosses the families assigned by modern classification.
 
-   **Thesis match:** **C6**, **C7**; **S19**.
+   **Thesis match:** **C7**; **S19**.
 
 2. The retroflex tongue position belongs to the subcontinental sound field. Sanskrit selects and systematically addresses sounds that remain widespread across southern, central, western, and northern Indian languages.
 
-   **Thesis match:** **C6**, **C7**; **S19**. **Candidate:** **NEW-K**.
+   **Thesis match:** **C7**; **S19**. **Candidate:** **NEW-K**.
 
 3. Reduplication is a regional meaning-bearing habit that Sanskrit integrates at several scales: complete words, syllables, and verbal procedures.
 
-   **Thesis match:** **C1**, **C7**; **S10**, **S19**.
+   **Thesis match:** **C1**, **C7**, **C2**; **S10**, **S19**.
 
 4. **सम्प्रदान (*sampradāna*)** places the person in the role of receiver rather than sovereign possessor of an experience. Related constructions recur across Sanskrit and other subcontinental languages.
 
@@ -726,103 +735,103 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 6. Folded-action forms compress a chain of acts performed by one agent into a continuous sentence. Sanskrit’s *ktvā* and *lyap* forms give a precise rule to a construction found across other subcontinental languages.
 
-   **Thesis match:** **C1**, **C7**; **S10**, **S19**. **Candidate:** **NEW-M**.
+   **Thesis match:** **C1**, **C7**, **C2**; **S10**, **S19**. **Candidate:** **NEW-M**.
 
 7. The five features form a connected cluster rather than isolated borrowings. A migration or substrate account must explain why Sanskrit encodes the whole subcontinental cluster within its sound and grammar.
 
-   **Thesis match:** **C6**, **C7**; **S19**, **S28**.
+   **Thesis match:** **C7**; **S19**, **S28**.
 
 8. The Vedic corpus already contains the cluster. Calling each feature a later borrowing would require rewriting the very corpus whose fixed transmission makes the comparison possible.
 
-   **Thesis match:** **C2**, **C6**, **C7**; **S2**, **S19**, **S28**, **S34**.
+   **Thesis match:** **C3**, **C7**; **S2**, **S19**, **S28**, **S34**.
 
 9. Sanskrit does more than possess regional features. It selects, classifies, and extends them through a coherent architecture of sound, semantic atoms, verbal operations, and sentence relations.
 
-   **Thesis match:** **C1**, **C7**; **S10**, **S18**, **S19**, **S20**.
+   **Thesis match:** **C1**, **C7**, **C2**; **S10**, **S18**, **S19**, **S20**.
 
 10. Sanskrit and Tamil share a subcontinental architecture of order in which grammatical knowledge remains distributed through teachers, commentators, manuscripts, and society rather than enforced by one linguistic apex.
 
-   **Thesis match:** **C3**, **C7**; **S15**, **S19**, **S36**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C4**, **C7**; **S15**, **S19**, **S36**. **Candidate:** **NEW-A**.
 
 11. The combined mouth, mind, and order cluster identifies Sanskrit’s civilizational home more fully than sound resemblance or population movement alone can do.
 
-   **Thesis match:** **C6**, **C7**; **S19**, **S28**, **S42**.
+   **Thesis match:** **C7**; **S19**, **S28**, **S42**.
 
 ## Chapter 18 — The Wrong Question
 
 1. Asking what natural language came before Sanskrit assumes the conclusion before examining the object. The prior question is what kind of object Sanskrit is and what an origin account must explain.
 
-   **Thesis match:** **C1**, **C6**; **S3**, **S28**.
+   **Thesis match:** **C1**, **C7**; **S3**, **S28**.
 
 2. Any account of Sanskrit must explain at least six connected features: the sonomeric grid, semantic atoms, generative grammar, two domains, distributed calibration, and the subcontinental mouth, mind, and order.
 
-   **Thesis match:** **C1**, **C2**, **C3**, **C7**; **S10**, **S19**, **S28**.
+   **Thesis match:** **C1**, **C3**, **C4**, **C7**, **C2**; **S10**, **S19**, **S28**.
 
 3. Genealogy can model inheritance and drift. It cannot generate a deliberately selected sound-grid, stable atoms, a two-domain design, or a living system engineered against entropy and attack.
 
-   **Thesis match:** **C1**, **C3**, **C6**; **S3**, **S28**.
+   **Thesis match:** **C1**, **C4**, **C7**; **S3**, **S28**.
 
 4. The pyramid uses footnotes, hypothetical notation, and disciplinary vocabulary to make speculative ancestry shape the reader’s belief while retreating to reconstruction whenever that ancestry is challenged.
 
-   **Thesis match:** **C5**, **C6**; **S5**, **S35**, **S38**.
+   **Thesis match:** **C6**, **C7**; **S5**, **S35**, **S38**.
 
 5. PIE, external homeland, racial Aryans, substrate borrowing, evolving Vedic Sanskrit, and Pāṇinian codification form one interdependent speculative chain. Each step protects the first requirement: Sanskrit must not remain the engineered calibrant at India’s center.
 
-   **Thesis match:** **C5**, **C6**; **S3**, **S5**, **S6**, **S12**, **S13**, **S19**, **S28**, **S42**.
+   **Thesis match:** **C6**, **C7**; **S3**, **S5**, **S6**, **S12**, **S13**, **S19**, **S28**, **S42**.
 
 6. Population movement does not establish linguistic authorship. Even if incoming paternal ancestry reflects migration into India, those migrants could have entered, learned from, and been absorbed by a civilization in which Sanskrit already thrived.
 
-   **Thesis match:** **C6**, **C7**; **S6**, **S19**, **S28**, **S42**. **Candidate:** **NEW-P**.
+   **Thesis match:** **C7**; **S6**, **S19**, **S28**, **S42**. **Candidate:** **NEW-P**.
 
 7. The pyramid’s preferred phrase *elite dominance* hides other plausible histories of migration: escaped slaves, deserters, exiles, refugees, traders, and seekers could have moved away from pyramidal orders and built new lives in India.
 
-   **Thesis match:** **C6**; **S42**. **Candidate:** **NEW-P**.
+   **Thesis match:** **C7**; **S42**. **Candidate:** **NEW-P**.
 
 8. The author’s alternative speculation begins from a civilizational need for long memory. *Asat* can reappear without instruction, while preserving *sat* and *ṛta* requires a memory that can resist both gradual loss and deliberate erasure.
 
-   **Thesis match:** **C2**, **C3**; **S2**, **S36**. **Candidate:** **NEW-B**, **NEW-C**.
+   **Thesis match:** **C3**, **C4**; **S2**, **S36**. **Candidate:** **NEW-B**, **NEW-C**.
 
 9. In that speculation, Vāgdevī revealed herself, the ṛṣis and ṛṣikās saw the mantras, and the wise formed Speech into a reproducible human architecture without claiming authorship or ownership over what they received.
 
-   **Thesis match:** **C1**, **C2**; **S1**, **S2**, **S14**. **Candidate:** **NEW-E**.
+   **Thesis match:** **C1**, **C3**; **S1**, **S2**, **S14**. **Candidate:** **NEW-E**.
 
 10. Sanskrit and the Vedas formed one architecture. Sanskrit carried the mantras; the mantras encoded the language in use; the two domains kept one part invariant and another open; later analytical disciplines made the architecture explicit.
 
-   **Thesis match:** **C1**, **C2**, **C3**, **C4**; **S2**, **S4**, **S9**, **S12**, **S13**, **S14**.
+   **Thesis match:** **C1**, **C3**, **C4**, **C5**; **S2**, **S4**, **S9**, **S12**, **S13**, **S14**.
 
 11. The complete architecture identifies its home. Sanskrit joins the subcontinental sound field, grammatical mind, and distributed philosophy of order in a combination the Racial Arya Thesis cannot explain.
 
-   **Thesis match:** **C6**, **C7**; **S19**, **S28**, **S42**.
+   **Thesis match:** **C7**; **S19**, **S28**, **S42**.
 
 12. Pāṇini’s praise becomes heroic erasure when the pyramid calls him Sanskrit’s codifier. The title preserves admiration for Pāṇini while directing attention away from the Vedic calibrant and the earlier analytical lineage.
 
-   **Thesis match:** **C4**, **C5**, **C6**; **S12**, **S14**, **S35**, **S38**.
+   **Thesis match:** **C5**, **C6**, **C7**; **S12**, **S14**, **S35**, **S38**.
 
 ## Chapter 19 — PIE in the Sky
 
 1. Schleicher composed a complete fable in a language that he claimed to recover but had to construct. His starred forms demonstrate that PIE began as an explicit act of fabrication rather than recovered speech.
 
-   **Thesis match:** **C6**, **C7**; **S5**, **S6**.
+   **Thesis match:** **C7**; **S5**, **S6**.
 
 2. The asterisk cannot turn a reconstruction into an ancestor. Reference works place a starred form in the source position, teach the reader to absorb ancestry, and then use the notation as a disclaimer when that ancestry is challenged.
 
-   **Thesis match:** **C5**, **C6**; **S5**, **S35**, **S38**.
+   **Thesis match:** **C6**, **C7**; **S5**, **S35**, **S38**.
 
 3. PIE cannot explain Sanskrit’s engineered sound-grid, semantic atoms, grammar, two domains, Vedic calibrant, or living defense against entropy and attack. The reconstruction begins inside the wrong category.
 
-   **Thesis match:** **C1**, **C2**, **C3**, **C6**; **S3**, **S5**, **S28**.
+   **Thesis match:** **C1**, **C3**, **C4**, **C7**; **S3**, **S5**, **S28**.
 
 4. Repetition across dictionaries and digital references cemented the hypothesis into ordinary ancestry. The source slot now routinely gives an imaginary form priority over recorded Sanskrit.
 
-   **Thesis match:** **C5**, **C6**; **S5**, **S35**, **S38**.
+   **Thesis match:** **C6**, **C7**; **S5**, **S35**, **S38**.
 
 5. The **⟪कृत्⟫ (*kṛt*)** family exposes how the recipe works. Philologists begin with Sanskritic material, divide or extend it through devices such as mobile *s* and zero grade, and present the resulting pseudo-atom as an earlier source.
 
-   **Thesis match:** **C6**, **C7**; **S5**, **S7**, **S20**, **S28**. **Candidate:** **NEW-Q**.
+   **Thesis match:** **C7**; **S5**, **S7**, **S20**, **S28**. **Candidate:** **NEW-Q**.
 
 6. The *jan / gen / kin / king* family shows the dictionary reversal over time. Recorded Sanskrit moved from an explanatory position into a cognate list beneath a starred construction assembled from its reflections.
 
-   **Thesis match:** **C5**, **C6**, **C7**; **S5**, **S27**, **S30**. **Candidate:** **NEW-Q**.
+   **Thesis match:** **C6**, **C7**; **S5**, **S27**, **S30**. **Candidate:** **NEW-Q**.
 
 7. The Radiance Thesis offers a forward mechanism. Sanskrit atoms and operators travel as seeds, enter receiving languages, undergo local sound and meaning changes, and survive as **प्रतिबिम्बानि (*pratibimbāni*)**, partial reflections of the calibrant.
 
@@ -838,7 +847,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 10. The *asura / ahura* comparison does not require PIE. The Sanskrit word and its action-centered contexts precede the reconstructed parent, while the pyramid’s lexical obsession again diverts attention from *viveka* and conduct.
 
-   **Thesis match:** **C6**, **C7**; **S5**, **S27**, **S39**.
+   **Thesis match:** **C7**; **S5**, **S27**, **S39**.
 
 ## Chapter 20 — Life After PIE
 
@@ -852,7 +861,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 3. Wave 2 carried explicit analytical method after Pāṇini. Other civilizations used Sanskritic approaches to sound, grammar, translation, and formal description when analyzing their own languages.
 
-   **Thesis match:** **C4**, **C7**; **S12**, **S23**, **S31**. **Candidate:** **NEW-R**.
+   **Thesis match:** **C5**, **C7**; **S12**, **S23**, **S31**. **Candidate:** **NEW-R**.
 
 4. Borrowed words become native inside the receiving language and then drift with it. Their later form records contact with Sanskrit without requiring continued calibration or common descent.
 
@@ -860,7 +869,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 5. Sanskrit’s sound matrix traveled east through scripts and phonetic analysis and west into modern phonetics. The receiving disciplines retained the architecture while often dropping or minimizing its provenance.
 
-   **Thesis match:** **C5**, **C7**; **S23**, **S24**, **S25**, **S31**, **S35**. **Candidate:** **NEW-R**.
+   **Thesis match:** **C6**, **C7**; **S23**, **S24**, **S25**, **S31**, **S35**. **Candidate:** **NEW-R**.
 
 6. The book distinguishes radiance from diaspora. A small number of trained carriers can transmit language or method; whole migrating communities can carry living speech, customs, and memory, as Romani and modern Indian diasporas demonstrate.
 
@@ -868,53 +877,53 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 7. Wave 3 consciously restates Sanskrit as engineered, calibrant, radiant, and fractal. It distinguishes internal language engineering from the greater system that has resisted entropy and asuric attack.
 
-   **Thesis match:** **C1**, **C2**, **C3**, **C7**, **C8**; **S2**, **S10**, **S27**, **S31**, **S34**, **S43**. **Candidate:** **NEW-R**.
+   **Thesis match:** **C1**, **C3**, **C4**, **C7**, **C8**, **C2**; **S2**, **S10**, **S27**, **S31**, **S34**, **F-Eclipse**. **Candidate:** **NEW-R**.
 
 8. The reader becomes a possible carrier of Wave 3. Relearning Sanskrit and *āryatva* allows present-day communities to carry the recovered architecture outward without converting discipline into race or ownership.
 
-   **Thesis match:** **C8**; **S42**, **S43**.
+   **Thesis match:** **C8**; **S42**, **F-Eclipse**.
 
 ## Epilogue — The Atris Find the Sun
 
 1. The Atris recover the Sun after Svarbhānu’s eclipse. The book has removed seven central false categories, but institutional custody, public misunderstanding, civilizational self-doubt, and the Racial Arya Thesis remain.
 
-   **Thesis match:** **C5**, **C6**, **C7**; **S35**, **S38**, **S42**, **S43**.
+   **Thesis match:** **C6**, **C7**; **S35**, **S38**, **S42**, **F-Eclipse**.
 
 2. The *samudra-manthana* provides a second controlling image. Colonial and European scholarship churned Sanskritic knowledge, produced the poison of racial Aryanism, and also accumulated the dictionaries and comparisons that can now be turned toward Sanskrit’s radiance.
 
-   **Thesis match:** **C5**, **C6**, **C7**; **S5**, **S6**, **S27**, **S35**. **Candidate:** **NEW-Q**.
+   **Thesis match:** **C6**, **C7**; **S5**, **S6**, **S27**, **S35**. **Candidate:** **NEW-Q**.
 
 3. *Amṛta* takes the character of the architecture that receives it. Endurance joined to circulation sustains renewal; endurance joined to containment makes obstruction permanent. The same contrast separates calibration from codification.
 
-   **Thesis match:** **C3**, **C5**; **S15**, **S16**, **S36**, **S39**. **Candidate:** **NEW-A**, **NEW-B**.
+   **Thesis match:** **C4**, **C6**; **S15**, **S16**, **S36**, **S39**. **Candidate:** **NEW-A**, **NEW-B**.
 
 4. Existing etymological dictionaries, Sanskrit atoms, recorded words, and computational tools make a Sanskrit Radiance Mapping Project possible. The pyramid’s accumulated comparison data can be retested family by family with Sanskrit restored to the explanatory center.
 
-   **Thesis match:** **C7**; **S20**, **S27**, **S30**, **S31**, **S32**, **S43**. **Candidate:** **NEW-Q**.
+   **Thesis match:** **C7**; **S20**, **S27**, **S30**, **S31**, **S32**, **F-Eclipse**. **Candidate:** **NEW-Q**.
 
 5. The contest is between two fractal architectures of order. The pyramid concentrates authority, controls doctrine, and contains knowledge; the dharmic architecture distributes knowledge and correction around a calibrant directed toward *lokakṣema*.
 
-   **Thesis match:** **C3**, **C5**; **S10**, **S35**, **S36**, **S37**. **Candidate:** **NEW-A**, **NEW-B**.
+   **Thesis match:** **C4**, **C6**, **C2**; **S10**, **S35**, **S36**, **S37**. **Candidate:** **NEW-A**, **NEW-B**.
 
 6. The deepest contest concerns civilizational memory. The pyramid needs later generations to forget that order without an apex existed; Sanātan distributes that memory so that people can compare present conduct with an inherited standard.
 
-   **Thesis match:** **C3**, **C5**, **C6**; **S2**, **S34**, **S36**, **S38**. **Candidate:** **NEW-C**.
+   **Thesis match:** **C4**, **C6**, **C7**; **S2**, **S34**, **S36**, **S38**. **Candidate:** **NEW-C**.
 
 7. The book’s completed demonstration has four connected results: Sanskrit’s internal engineering, the two-domain design, the living Vedic system that resisted both enemies, and outward radiance into other languages.
 
-   **Thesis match:** **C1**, **C2**, **C3**, **C4**, **C6**, **C7**; **S2**, **S9**, **S10**, **S12**, **S13**, **S27**, **S34**.
+   **Thesis match:** **C1**, **C3**, **C4**, **C5**, **C7**, **C2**; **S2**, **S9**, **S10**, **S12**, **S13**, **S27**, **S34**.
 
 8. **आर्यत्व (*āryatva*)** is an invitation to learned discipline, restraint, generosity, skill, and conduct aligned with *sat*. It can be earned by anyone and cannot be inherited as race or seized as prestige.
 
-   **Thesis match:** **C6**, **C8**; **S39**, **S42**, **S43**. **Candidate:** **NEW-B**.
+   **Thesis match:** **C7**, **C8**; **S39**, **S42**, **F-Eclipse**. **Candidate:** **NEW-B**.
 
 9. Calibrant order offers an alternative to order through command and punishment. It begins from the premise that most people can respond to trusted examples and voluntary restraint while society deals with harmful exceptions when they occur.
 
-   **Thesis match:** **C3**; **S36**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C4**; **S36**. **Candidate:** **NEW-A**.
 
 10. *Bhikṣā*, renunciant–householder reciprocity, Nāga sādhus, and independent Vedic lineages demonstrate distributed relationships that survive the failure or deception of any one participant.
 
-   **Thesis match:** **C3**; **S34**, **S36**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C4**; **S34**, **S36**. **Candidate:** **NEW-A**.
 
 11. A calibrant order does not abolish government. It places the king or government within an order it did not create and cannot own, while distributing correction and responsibility across society.
 
@@ -926,7 +935,7 @@ The full wording of **S1–S50** remains in [`reference/as_thesis_summary.md`](.
 
 13. Recovery requires distributed relearning rather than a counter-pyramid. Teachers, families, communities, publishers, and readers must carry the calibrant until inherited false categories stop reproducing themselves.
 
-   **Thesis match:** **C8**; **S35**, **S43**. **Candidate:** **NEW-A**.
+   **Thesis match:** **C8**; **S35**, **F-Eclipse**. **Candidate:** **NEW-A**.
 
 ---
 

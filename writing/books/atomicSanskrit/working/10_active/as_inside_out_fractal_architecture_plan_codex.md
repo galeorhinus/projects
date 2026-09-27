@@ -5,6 +5,8 @@
 **Scope:** *Atomic Sanskrit*, the three **शान्तयः (*śāntayaḥ*)**, the **स्वस्तिक (*svastika*)**, and the architectural bridge into the *Second Shanti* series  
 **Constraint:** This document records the proposed synthesis and deployment plan. It does not authorize manuscript changes by itself.
 
+**27 September deployment:** The [proposal-nuances review](as_proposal_nuances_manuscript_review_20260927.md) records the approved manuscript revisions and removals. Its implementation supersedes overlapping deployment suggestions below. Every series volume concerns the second domain; the polity is developed from first principles, and the final volume alone explains the three-shanti fractal interpretation in full. Recursion is introduced through explicit procedures, not as a synonym for any repeated pattern.
+
 ---
 
 ## 1. The Insight
@@ -88,7 +90,7 @@ This gives the *Second Shanti* series a clearer foundation:
 
 - *Atomic Sanskrit* demonstrates the architecture in language, where it can still be heard, analyzed, and tested.
 - Later volumes can examine how the same architecture applies within the second domain: polity, economy, responsibility, exchange, and relations among living beings.
-- Later work may extend the inquiry into the third domain once that scope has been fully defined.
+- Every volume remains focused on the second domain. The final volume explains the author's interpretation of the three invocations as a fractal map; it does not change the series' subject to the third domain.
 
 ### Interpretive Guardrail
 
@@ -100,13 +102,13 @@ The manuscript should distinguish:
 - what the three-domain structure permits the book to infer;
 - what later *Second Shanti* volumes will develop.
 
-Before final deployment, the precise naming, order, and source support for the three domains require a dedicated verification pass. The third domain is especially underdeveloped in the current series plan.
+Distinguish traditional descriptions of the three domains from the author's architectural interpretation. The manuscript states the latter briefly; its detailed explanation is reserved for the final volume.
 
 ---
 
 ## 5. Sanskrit as the First Demonstration
 
-Sanskrit does not prove every later political or economic reconstruction in advance. It demonstrates that the underlying architectural possibility is real:
+Sanskrit does not settle every later political or economic design in advance. It demonstrates that the underlying architectural possibility is real:
 
 - exact order can persist without ownership by an apex;
 - stable constituents can support generative freedom;
@@ -276,11 +278,11 @@ The Epilogue should gather the complete sequence:
 2. The Vedas keep that architecture calibrated through distributed custody.
 3. The swastika gives the distributed order a civilizational geometry directed toward **स्वस्ति (*svasti*)** and **लोकक्षेम (*lokakṣema*)**.
 4. The three **शान्तयः (*śāntayaḥ*)** carry the same architecture through widening domains.
-5. Later volumes follow the second and third domains without pretending that *Atomic Sanskrit* has already completed those reconstructions.
+5. Later volumes develop a polity from first principles within the second domain. Sanskrit is the existing demonstration from which the inquiry begins, not a completed design for every political or economic institution.
 
 The final synthesis can be compact:
 
-> The three शान्तयः describe three widening domains of order. Sanskrit demonstrates the architecture at the scale of language. The later volumes of *Second Shanti* will follow it through the relations among living beings and into the larger order they inhabit.
+> The three शान्तयः describe three distinct domains. The author interprets them as a fractal map of the universe. Sanskrit demonstrates the architecture at the scale of language, and the later volumes of *Second Shanti* develop a polity from first principles within the second domain. The final volume explains the three-shanti interpretation in full.
 
 ---
 
@@ -355,7 +357,7 @@ Before manuscript deployment:
 1. verify primary and traditional sources for the threefold **शान्तिः (*śāntiḥ*)** and the three domains;
 2. identify whether the order **आध्यात्मिक → आधिभौतिक → आधिदैविक** is consistently attested or varies by source;
 3. decide whether the book should call them three domains, three disturbances, three fields, or explain both descriptions;
-4. define the third domain for the *Second Shanti* series more precisely;
+4. keep the detailed three-domain interpretation reserved for the final volume while maintaining the second-domain scope throughout the series;
 5. verify the etymological treatment of **स्वस्ति (*svasti*)** and **स्वस्तिक (*svastika*)** while keeping the inside-out reading explicitly architectural;
 6. inventory every substantive swastika discussion and choose only the structural locations that need the new explanation;
 7. check that “inside out” never implies private truth, abolition of government, or the absence of correction;
@@ -367,7 +369,7 @@ Before manuscript deployment:
 
 ### Pass 1 — Source and terminology verification
 
-Resolve the three-domain names, order, and evidence. Clarify the third domain in the series plan.
+Check the three-domain names, order, and evidence. Keep traditional source claims distinct from the author's interpretation; do not publish the final-volume explanation during an introductory terminology pass.
 
 ### Pass 2 — Thesis and planning documents
 

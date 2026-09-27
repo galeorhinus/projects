@@ -10,9 +10,9 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 ## Front Matter
 
-**Preface — Beyond the Red Lotus** *(drafted)* — *Begins with the three freedoms examined in* Tatya Tope's Operation Red Lotus *and asks what those freedoms protected. The author's childhood encounter with* sandhi *then connects the political inquiry to Sanskrit's exact architecture. The Preface introduces the* Second Shanti *series, explains the inherited PIE and Aryan accounts without assuming prior knowledge, identifies the two architectures of order, and prepares a non-specialist for the book's route.*
+**Preface — Beyond the Red Lotus** *(drafted)* — *Connects the freedoms examined in* Tatya Tope's Operation Red Lotus *with* स्वराज्य (*svarājya*): *a change of rulers or a different relationship between government and society. The childhood correction demonstrates a shared standard the learner can understand and check. Sanskrit is the existing system through which readers examine Sanātan's inside-out order; later* Second Shanti *volumes develop the polity from first principles within the second domain.*
 
-- Why Sanskrit Comes First — *The second* śāntiḥ, *the childhood correction, the Vedas as calibrant, and the radiant/calibrant/fractal sequence.*
+- Why Sanskrit Comes First — *Three invocations directed toward three distinct domains; the second-domain scope of every volume; an independently checkable childhood correction; and the distributed, radiant, calibrant, and fractal architecture, with recursion explained through compounding.*
 - The Story This Book Challenges — *PIE, invasion, migration, the continuing racial claim, and the book's outward-radiance alternative.*
 - Two Architectures of Order — *The seekers and caretakers who protect a distributed calibrant, and the pyramid that encloses knowledge beneath certified authority.*
 - How to Read This Book — *Audience, notation, chapter movement, evidence, and appendices.*
@@ -191,7 +191,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 14.1 The Four Preservation Modes — *Three axioms + the four-coinage taxonomy with etymology, medium, sense-and-skill, content category, and Indic counterpart.*
 - 14.2 Auditure and Speech-Hearing Engineering — *Why the speech-hearing pair is the deepest mode; the audience-as-redundancy-check; the Indic mechanism for guarding the guards.*
 - 14.3 The Six Preservation Layers — *The calibration matrix proper: six layers at six timescales; the* Śikṣā *pedagogy across all six;* Chandas *as cryptographic hash.*
-- 14.4 Chandas Counts the Possibilities of Poetry — *Metrical combinatorics:* laghu/guru mātrā *budgets force the poet to count arrangements, producing the sequence later called Fibonacci.*
+- 14.4 Chandas Counts the Possibilities of Poetry — *Metrical combinatorics:* laghu/guru mātrā *budgets produce the sequence later called Fibonacci. The recursive procedure counts a longer measure by applying the same procedure to shorter measures.*
 - 14.5 The Whole Language Carries the Sūtra-Discipline — *The same six* sūtra-lakṣaṇam *characteristics operating at language scale; the Vedic/Classical mode defense.*
 - 14.6 Control Cases: Codification by Authority — *Masoretic, Quranic, ecclesiastical-Latin, and modern-standard control cases; codification guards bounded objects by authority, calibration places the standard inside a living architecture.*
 - 14.7 The Engineering Precedes Pāṇini — *Loop-close to heroic erasure at the matrix level: the matrix predates Pāṇini; he operates it; the founder-celebration erases it.*
@@ -283,7 +283,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - Where the Nectar Rises — *The recovered evidence is turned away from the poison of PIE and toward a new investigation of Sanskrit's outward radiance.*
 - The Contest of Architectures — *Sanātan *vs. the fourth Abrahamic religion; the standard that explains why* āryatva *is desirable.*
 - The Invitation — *The outward turn: inviting the world once the carriers have relearned.*
-- Order Through Calibration — *The linguistic calibrant becomes the working example for a distributed social order in which correction does not require an apex.*
+- Order Through Calibration — *The existing language system demonstrates distributed correction; later volumes develop the polity from first principles, asking how government can protect an order without owning its standards.*
 - The Inward Correction — *India must not build smaller pyramids inside itself; preserve Sanskrit as calibrant and let the* bhāṣās *flourish.*
 - The Mantra — *Wave 3 and the reader-as-Atri; the Vāc blessing;* the Sun has been found; the reader now receives the cry.
 

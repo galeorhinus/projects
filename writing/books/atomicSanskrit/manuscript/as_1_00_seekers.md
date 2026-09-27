@@ -100,7 +100,7 @@ For that reason, the Hindu continuum did not trust लिपि (*lipi*) with th
 
 The mere fact that this book can examine those ideas in their original Sanskrit thousands of years later is evidence that the architecture succeeded.
 
-Sanskrit preserves that continuity without restricting new expression. Its highly generative architecture can produce millions of words. Chapter 9 explains the sound architecture that supports this continuity, and Chapter 16 brings the two-domain design together.
+Sanskrit can remain unchanged without confining its speakers to the world of an earlier age. Its existing sounds and word-forming procedures allow people to name new discoveries, technologies, and experiences. **चन्द्रयान (*Candrayāna*)**, introduced above, is one familiar example. Chapter 12 follows those procedures into millions of word-meanings. Chapter 16 explains how the two domains keep the architecture unchanged while every generation continues to create new expressions.
 
 ![Figure 0.1 — The three streams. संस्कृत (*Saṃskṛta*), the wholly created language, has two domains. The वैदिक (*vaidika*) keeps the language and the Vedic content invariant. The लौकिक (*laukika*) keeps the language invariant while permitting new composition. Beside them, प्राकृतिक (*prākṛtika*) flows as the changing natural speech of daily life. The figure compares their responsibilities; it does not place them in a chronological sequence.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
 
@@ -267,7 +267,7 @@ The protagonists act to restore circulation. The Vedas call the path of continui
 > *svasti panthām anu carema sūryācandramasāv iva*\
 > “May we follow the path of स्वस्ति (*svasti*), as the Sun and Moon do.” (RV 5.51.15)[NOTE: rv-5-51-15-svasti-panthanam]
 
-The **स्वस्तिक (*svastika*)** gives physical form to this path of well-being.
+This book uses the **स्वस्तिक (*svastika*)** to represent an inside-out order directed toward well-being. Responsibility begins with participants and extends through their relationships. They exercise विवेक (*viveka*), restrain conduct that harms others, and keep what sustains life in circulation. The shared calibrant guides those actions without becoming the possession of a commanding apex.
 
 The two orders pursue different ends. An order aligned with **असत् (*asat*)** seeks possession of power. It asks who will command, who will control access, and who will claim sovereignty. An order aligned with **सत् (*sat*)** keeps what sustains life in circulation and distributes authority.
 
@@ -305,7 +305,7 @@ Caretaking begins with listening and learning. It continues through speaking, te
 
 The fractal claim depends on relationships among features usually taught separately. Sounds, grammatical operations, and preservation methods are commonly presented as products of natural linguistic development. This book examines them as parts of one engineered system. The test is whether the same organizing principle recurs at each scale.
 
-A fractal repeats the same organizing principle at different scales. Sanskrit does this from the movements of the mouth to the preservation of the complete language. The mouth produces sounds, and Sanskrit selects and arranges them. Those sounds combine into semantic atoms. The atoms extend into words, and the words receive forms that establish their relationships inside sentences. Compact **सूत्राणि (*sūtrāṇi*)** help teachers and students remember and apply these operations. The Vedas and their supporting disciplines preserve the complete architecture as a calibrant. Each scale carries forward the organization established at the scale below it.
+The book's fractal test asks what recurs as Sanskrit builds larger forms. Its sounds occupy distinguishable positions. Its atoms combine those sounds in compact forms that carry meaning. Words extend the atoms through defined operations, and endings make their relationships within sentences explicit. At each scale, the analysis asks whether the constituents remain identifiable, whether their combination follows a known procedure, and whether a learner can recognize a departure. Chapter 10 makes the comparison explicit through the six characteristics of a **सूत्र (*sūtra*)**. The preservation chapters then examine how people keep the complete language available for the same kind of checking across generations.
 
 The seekers and caretakers confront another fractal with the opposite organization: the asuric pyramid. At every scale, the pyramid concentrates authority at an apex. The apex commands the people below, encloses knowledge and resources, and requires everyone else to approach through its gate.
 

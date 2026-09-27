@@ -178,8 +178,6 @@ The completed nominal ending belongs to **विभक्तिः (*vibhaktiḥ
 
 Vedic caretakers transmitted these completed sentences without separating them into the grammatical parts used in this chapter's analysis. Earlier वैयाकरणाः (*vaiyākaraṇāḥ*) examined Sanskrit, and Pāṇini documented the recurring relations with unmatched precision. His documentation allows later learners to derive a form step by step and check their analysis against preserved usage.
 
-The Vedic sentences already contain the completed forms. The locative ending in **देवेषु (*deveṣu*)**, the instrumental ending in **ऋचा (*ṛcā*)**, and the verbal ending in **हवामहे (*havāmahe*)** already perform their grammatical functions within them. The अष्टाध्यायी (*Aṣṭādhyāyī*) explains how Sanskrit forms these endings and how each one functions.
-
 ## 12.7 The Calibrant Enables लौकिक (*Laukika*) Generativity
 
 The Vedas preserve several completed forms from ⟪कृ⟫ (*kṛ*). The लौकिक (*laukika*) domain applies the same atom and the same two directions of bonding to further words.
@@ -214,7 +212,7 @@ The लौकिक (*laukika*) portion divides into three familiar Sanskrit cat
 
 The क्रियार्थाः (*kriyārthāḥ*) can appear across ten settings of time and mood, three grammatical persons, and three numbers. The नामार्थाः (*nāmārthāḥ*) can appear across eight grammatical relations and three numbers. Under these declared matrices, the ordinary-language inventory occupies 602,707,133 grammatical cells.[NOTE: sanskrit-generative-wordspace]
 
-This gives Bṛhaspati's thousand divine years a numerical scale. Even a deliberately bounded reconstruction passes six hundred million cells before unrestricted recursive compounding begins. A dictionary can record words that speakers have already used. It cannot reach the end of Sanskrit's generative capacity.
+This gives Bṛhaspati's thousand divine years a numerical scale. Even a deliberately bounded reconstruction passes six hundred million cells before unrestricted recursive compounding begins. A compound can itself become a constituent in a larger compound, which can then participate in a further compound. The process applies again within the construction it has already made. This is **recursion**. A dictionary can record words that speakers have already used. It cannot reach the end of Sanskrit's generative capacity.
 
 The division of responsibilities between the two domains allows Sanskrit to remain invariant while its range of expression continues to grow. The Vedas preserve the sounds, formations, endings, and sentence relations. The लौकिक (*laukika*) domain applies them when people compose poetry or examine philosophy. Mathematicians, astronomers, and physicians can use the same architecture for their disciplines. Manufacturers and traders can create expressions for their own materials, objects, and transactions. Every generation can describe circumstances that no earlier composition anticipated.
 
@@ -224,7 +222,7 @@ When a Sanskrit form crosses into a natural language, that receiving language ma
 
 Chapters 11 and 12 have followed one continuous construction from sonomer to sentence. Sonomers form a semantic atom. Sanskrit prepares that atom and adds an ending to create a verb. Head-bonds and tail-bonds extend atoms into other kinds of words, while role-endings identify how each completed word relates to the others. Sanskrit then assembles those पदानि (*padāni*) into a वाक्यम् (*vākyam*).
 
-The architecture is fractal because every larger construction retains the smaller constructions within it. A sentence contains words with identifiable roles. Those words contain their affixes and atoms, while the atoms contain their sonomers.
+The fractal claim now reaches the sentence. Its words carry identifiable roles, just as their atoms and affixes carry identifiable contributions within the words. A learner can examine how the parts combine and check the result against the grammatical relations already demonstrated in Vedic sentences. The same discipline recurs through the construction: distinguish the parts, explain their relationships, and keep the completed form available for analysis and correction.
 
 The Vedas serve as the calibrant because they preserve completed examples across this entire range. They preserve the sound of the sonomers, the transformation of the atoms, the endings of the words, and the relations inside the sentences. The लौकिक (*laukika*) domain gives this architecture radiant reach. Speakers can create new words, compounds, and sentences while the Vedic calibrant remains unchanged. Sanskrit can meet a changing world without surrendering the architecture that holds the language together.
 

@@ -162,7 +162,7 @@ Wave 1 carries the architecture embedded in the Vedas and learned through Vedic 
 
 Wave 2 carries the explicit analytical method that Pāṇini compressed into the अष्टाध्यायी (*Aṣṭādhyāyī*). Another community can study that method and use it to analyze a different language.
 
-Wave 3 carries a contemporary explanation of Sanskrit as an engineered, calibrant, radiant, and fractal architecture. It distinguishes the internal engineering of the language from the greater engineering feat that has kept Sanskrit calibrated against two enemies for thousands of years. It also gives readers a complete argument against the inherited categories that concealed that architecture.
+Wave 3 carries a contemporary explanation of Sanskrit as an engineered language system whose architecture is distributed, radiant, calibrant, and fractal. It distinguishes the internal engineering of the language from the greater engineering feat that has kept Sanskrit calibrated against two enemies for thousands of years. It also gives readers a complete argument against the inherited categories that concealed that architecture. People can now examine how shared knowledge, trained judgment, and correction sustain order from the inside out, and ask how those principles can guide relationships beyond language.
 
 Wave 3 carries five recognitions into the world:
 

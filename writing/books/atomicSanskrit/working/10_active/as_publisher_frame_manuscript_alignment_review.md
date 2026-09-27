@@ -1,5 +1,7 @@
 # Spoken Frame, Publisher Proposal, and Manuscript Alignment
 
+**27 September implementation:** The [proposal-nuances review](as_proposal_nuances_manuscript_review_20260927.md) supersedes overlapping suggestions here and records the approved manuscript revisions, coordinated removals, and verification. Do not apply this older proposal as a second set of additions.
+
 **Date:** 26 September 2026  
 **Status:** Review and proposed wording only. No manuscript changes applied.  
 **Companion deliverable:** [Expanded Penguin proposal](../../outreach/atomic_sanskrit_penguin_proposal_expanded.md)

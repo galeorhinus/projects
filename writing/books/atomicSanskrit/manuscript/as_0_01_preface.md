@@ -6,27 +6,27 @@ That thread was enough for Hindu civilization to preserve its questions and its 
 
 What had our ancestors fought to protect? Was it only freedom? Was it the nation or the civilization? Or did all three protect something deeper?
 
-Freedom was necessary, but freedom could not be the final answer. Freedom gives people room to choose. It does not tell them what kind of order allows living beings to flourish together. Nor does it explain how such an order can endure without placing a ruler, institution, or doctrine above everyone else.
+Freedom was necessary, but what would Indians do with it? Freedom would allow us to establish **स्वराज्य (*svarājya*)**, self-rule. Would that mean a less oppressive version of British or Islamic rule, with Indians occupying the same positions of authority? Or would it mean a fundamentally different relationship between government and society? I wanted to understand what kind of order allows living beings to flourish together, and how people could sustain it without placing a ruler, institution, or doctrine above everyone else.
 
-That thought led me from freedom to order. Every political system in use today has the same basic architecture. Authorized institutions make rules, identify violations, and punish those who refuse to comply. Systems differ greatly. People may choose who occupies the apex, limit that person's power, and challenge official decisions. Those protections can limit what the apex may do, but they do not remove it.
+That thought led me from freedom to order. Every political system in use today has the same basic architecture. Authorized institutions make rules, identify violations, and punish those who refuse to comply. Systems differ greatly. People may choose who occupies the apex, limit that person's power, and challenge official decisions. Those protections can limit what the apex may do, but they do not remove it. This book calls that arrangement the pyramid. Fear and punishment are its currency of order: it imposes constraints and penalizes disobedience.
 
-This architecture subjects everyone to rules and punishments designed around the conduct of those who deceive, exploit, or attack. **The pyramid treats everyone as an exception waiting to happen.** A system built on suspicion teaches people to suspect one another and produces the distrust it expects.
+I had always believed that most people are capable of cooperation and restraint. They want to care for those around them and pursue their lives without harming others. Some people will deceive, exploit, or attack. Must their conduct determine the architecture under which everyone else lives? The pyramid subjects everyone to rules and punishments designed around those exceptions. **The pyramid treats everyone as an exception waiting to happen.** A system built on suspicion teaches people to suspect one another and produces the distrust it expects.
 
-I had always believed that another possibility existed. Most people are capable of cooperation and restraint, and many respond better to a trusted example than to fear. Could an order cultivate that capacity and address exceptions when they actually occurred?
+Could another order cultivate the capacity for restraint and address harmful conduct when it actually occurred? Many people respond better to a trusted example than to fear. I wanted to understand how society could strengthen that capacity without handing an apex control over everyone's life.
 
 Then one day it struck me: I had been *hearing* the answer all my life. Sanskrit itself preserved the invariant architecture I was seeking. The same pattern recurred in the stories and practices I had inherited. Hindu polity had been destroyed and its policies erased, but the architecture beneath them remained alive in our heads, our hearts, and our mouths.
 
-The pyramid had attacked more than the polity. It had tried to break the memory through which later generations could recognize the order our ancestors had defended. Sanskrit showed me that this civilizational memory had not disappeared.
-
 I realized how fortunate I was to have been born to parents who were caretakers of that civilizational inheritance. Through them, I inherited ideas that our ancestors had fought to preserve for all humanity.
 
-Sanskrit revealed a civilizational order built through calibration rather than dogma or commands from an apex. Its own invariance came through calibration as well, not through Pāṇini's supposed codification of the language.
+Sanskrit revealed a civilizational order in which people could recognize and correct departures from a shared standard without waiting for commands from an apex. I call that shared reference a **calibrant**, and the process of checking and correcting against it **calibration**. Sanskrit's own invariance came through this relationship, not through Pāṇini's supposed codification of the language.
 
 The language's sounds, atoms, grammar, and generative reach demonstrate one feat of engineering. The greater feat is the system that has kept Sanskrit calibrated against two enemies for thousands of years. Entropy introduces unintended change. Asuric attack tries deliberately to destroy the memory, capture the calibrant, or conceal the architecture. The Vedas and their distributed caretakers have resisted both while Sanskrit has remained open to new expression. As this book demonstrates, no other language has remained invariant for thousands of years while continuing to support new expression without a central authority controlling its form. The system remains alive, audible, and available for examination.
 
-*Atomic Sanskrit* examines this achievement as **the distributed, radiant, calibrant, and fractal architecture of Sanātan**.
+*Atomic Sanskrit* is about the architecture of Sanātan. Sanskrit is the language system through which we can examine it directly. The pyramid places order above people and commands them to obey. Sanātan builds order from the inside out: people learn to exercise discernment and restraint, accept correction, and help others do the same. Sanskrit demonstrates how those responsibilities can sustain a precise system across places and generations. The book examines its **distributed, radiant, calibrant, and fractal architecture**.
 
-That principle may still sound abstract. The Hindu temple offers a familiar way to understand it.
+You do not need prior knowledge of Sanskrit to follow this argument. Familiar words, translations, and diagrams will explain the language as we examine it.
+
+The Hindu temple offers a familiar example of this voluntary alignment.
 
 Consider दर्शन (*darśana*): beholding, or sight. A Hindu goes to a temple for दर्शन (*darśana*). The seeing itself is the purpose. The मूर्ति (*mūrti*) does not sermonize. It does not demand your presence. It does not announce what is right and what is wrong. It is simply present: unyielding, unflinching, and silent.
 
@@ -38,19 +38,21 @@ Through the मूर्ति (*mūrti*), that inheritance stands before the se
 
 **The temple gives us a familiar example of the principle. Sanskrit allows us to examine how the same principle is engineered into a language.**
 
-I had been searching in the abstract for a form of order that Hindus were already living. That order had survived, not as one policy or institution, but as an architecture repeated through sounds, words, stories, and practices. The *Second Shanti* series is my attempt to reconstruct that architecture from first principles. I begin by examining how people learn a shared standard, recognize mistakes, and correct themselves and one another without giving an apex ownership of that standard.
+Present-day India does not embody that order in full, but the knowledge has not vanished. Sanskrit's construction and transmission remain available for examination as a connected system.
+
+The *Second Shanti* series will develop a polity from first principles. It begins with living beings and their responsibilities toward one another, then asks what government must protect and how society can respond when someone causes harm. Sanskrit gives this inquiry an existing system to examine: people learn a shared standard, recognize mistakes, and correct themselves and one another without giving an apex ownership of that standard.
 
 ## Why Sanskrit Comes First
 
-Vedic recitations often conclude with **ॐ शान्तिः शान्तिः शान्तिः (*oṃ śāntiḥ śāntiḥ śāntiḥ*)**. The three recitations direct peace or quietude toward three domains.
+Vedic recitations often conclude with **ॐ शान्तिः शान्तिः शान्तिः (*oṃ śāntiḥ śāntiḥ śāntiḥ*)**. The three invocations of quietude are directed toward three distinct domains.
 
-Hindu society has kept alive the knowledge through which a person can seek शान्ति (*śānti*) within himself. Yoga, meditation, and several other practices continue to thrive, giving people ways to understand their own minds and respond to anger, fear, or desire without being ruled by them. This is the first domain.
+Hindu society has kept alive the knowledge through which one can seek शान्ति (*śānti*) within oneself. Yoga, meditation, and several other practices continue to thrive, giving people ways to understand their own minds and respond to anger, fear, or desire without being ruled by them. This is the first domain.
 
 The second concerns how people live with one another and other living beings. Over the last millennium, under the rule of Abrahamic pyramids, much of the knowledge through which society maintained order in this domain has been lost. Institutions were destroyed or displaced, and later generations learned to organize public life around commands from above. Yet parts of the earlier architecture remained alive in language, stories, teaching, and everyday practice.
 
-The third concerns natural and cosmic forces beyond direct human control that affect human beings and other life. All volumes of *Second Shanti* focus on the second domain.
+The third concerns natural and cosmic forces beyond direct human control that affect human beings and other life. I interpret these three invocations as a fractal map of the universe, extending from the person through relationships among living beings to the wider natural and cosmic order. The final volume will develop that interpretation in full. All volumes of *Second Shanti* focus on the second domain: how living beings create order together.
 
-The inquiry extends beyond the theory of government. It includes language, memory, responsibility, economic life, and the relationships through which people organize life with one another and with the living world. Later volumes will follow those structures directly. This first volume begins with Sanskrit because Sanskrit and the Vedas preserve a complete architecture that can still be heard, examined, and tested.
+This first volume begins with Sanskrit because Sanskrit and the Vedas preserve a complete architecture that can still be heard, examined, and tested.
 
 I first encountered that architecture when I was eight or nine, while reciting the second verse of the first chapter of the *Bhagavad Gītā*:[NOTE: bhagavad-gita-1-2-citation]
 
@@ -65,19 +67,17 @@ I loved numbers, and the *sandhi* rules looked like arithmetic. *a plus a makes 
 
 My father always insisted on correct diction and clarity of speech. These are valuable disciplines in any language. In Sanskrit, I would later understand, they serve an exact architecture. What my mother demonstrated through one correction, my father reinforced as a general habit: form every sound clearly enough to be heard, checked, and passed on.
 
-My mother's correction was my first lesson in Sanskrit's sound architecture. One misplaced sound changed the meter. One small correction returned the line to order. A mother listening to a child recite had done what Sanskrit's caretakers do across generations: hear the deviation, correct it, and preserve the sound.
-
-Decades later, I returned to that childhood lesson with a larger question. Had Sanskrit preserved the same calibrant architecture at the scale of language?
+My mother's correction was my first lesson in Sanskrit's sound architecture. She could explain why the vowel had to be heard: it belonged to the next word and joined the preceding consonant. Restoring it also restored the line's eight syllables. The correction could therefore be checked against both the joining of the sounds and the verse's metrical pattern. It did not depend on her personal preference, our regional accent, or a pronunciation peculiar to our family. Another trained listener could examine the same relationships and explain the same correction. I could learn to check the line myself and teach someone else how to do it. That is how a correction within one household can carry knowledge beyond it.
 
 The sounds of the Vedas form part of the foundation of Hindu life. Hindu society has transmitted them through many lineages, keeping their sounds audible across society. No ruler, court, or centralized power, domestic or foreign, owns the standard. The Vedic form remains available to each generation, allowing speakers to hear it and align their Sanskrit with it. This book calls such an architecture a **calibrant order**.
 
-A calibrant differs from an authority.
-
 **Authority imposes constraint. A calibrant enables restraint.**
 
-The calibrant remains unchanged. People can compare their speech with it, recognize a deviation, and correct themselves without waiting for an authority to command them. Sanskrit demonstrates this relationship at the scale of language. The Vedas preserve the calibrant, while speakers use Sanskrit to compose poetry, develop arguments, express mathematics, and describe new circumstances without altering that invariant foundation.
+The Vedas preserve the calibrant, while speakers use Sanskrit to compose poetry, develop arguments, express mathematics, and describe new circumstances without altering that invariant foundation.
 
-The Vedas encode several foundational architectures of **सनातन (*Sanātan*)**. Sanskrit is one of them. Their exact transmission bonds the language to the civilization that has cared for it. This is why the inquiry into the second *śāntiḥ* begins in the mouth rather than in political philosophy. Before the same architecture can be extended into polity or economy, it can be examined in sound, grammar, composition, and preservation.
+The Vedas encode several foundational architectures of **सनातन (*Sanātan*)**. Sanskrit is one of them. Keeping it exact requires relationships among people: someone learns, someone teaches, and both can examine a correction against a reference neither owns. A learner acquires the ability to judge a form and the responsibility to pass that ability on. Order begins with what participants understand and do, then extends through their relationships.
+
+Could those principles recur in economic life and government? This is why the inquiry into the second *śāntiḥ* begins with Sanskrit. The language system allows us to examine shared knowledge, discernment, correction, and responsibility in practice.
 
 The subtitle describes Sanskrit's architecture as distributed, radiant, calibrant, and fractal. Each word identifies a different property of that architecture.
 
@@ -87,7 +87,7 @@ It is **radiant** because it carries knowledge outward. Its sounds, words, struc
 
 It is **calibrant** because its invariant architecture remains available for comparison and correction. No centralized power needs to own it before people can use it.
 
-It is **fractal** because the same principles recur at different scales. The precision required to form one sound also shapes words, sentences, recitation, and preservation. At a wider scale, the same calibrant relationship offers an architecture of order. Sanskrit therefore gives this series its first complete example of how **संस्कृति (*saṃskṛti*)** can embody an architecture aligned with *Sanātan*.
+It is **fractal** because the same organizing principles recur at different scales. **Recursion** helps us understand how a pattern can extend: a process applies again within a construction made through that process. Sanskrit gives a practical example when a compound word becomes a constituent of a larger compound. The book follows a broader recurring discipline through sound, word, sentence, and preservation: constituents remain distinguishable, combinations follow known procedures, and departures can be checked.
 
 The Vedas do not merely serve as Sanskrit's calibrant. The Ṛgveda describes the operation from within Vedic Speech: meter, chant, syllable, and voice calibrate one another. Chapter 14 returns to that mantra and shows why it is radiant, calibrant, and fractal.
 
@@ -103,21 +103,13 @@ This book challenges that claim.
 
 People have always moved into and out of India, and some newcomers made India their home. Evidence of migration does not establish linguistic authorship. This book asks who engineered Sanskrit, who established the Vedic disciplines of exact recitation, and why this connected architecture remains rooted in the Indian subcontinent.[NOTE: migration-trap-movement-not-authorship]
 
-The difference between India and the other regions is architectural. In India, Sanskrit remains bonded to the Vedas, exact recitation, the analytical disciplines, and the civilizational memory of calibrant order. These survive together as one system. Elsewhere, languages preserve selected Sanskritic words, sound-patterns, or analytical methods without preserving the complete architecture that joins them. **That architectural asymmetry establishes direction.**
-
-Sanskrit's subcontinental mouth and mind also remain joined to a subcontinental architecture of order. Chapter 18 examines what that complete combination reveals about Sanskrit's civilizational home.
-
 *Atomic Sanskrit* argues that these similarities record Sanskrit’s outward radiance. Across the centuries, small but influential groups carried parts of the architecture beyond India. Greek, Latin, and other Eurasian languages preserve partial reflections created through those contacts. European philology gathered the reflections, constructed an imaginary ancestor from them, and placed that construction above Sanskrit.
 
 I do not pretend to be neutral between these accounts. This book takes a clear position and supports it with evidence and reason. The body develops the argument through concrete examples. The appendices and endnotes provide the denser documentation so that readers can examine the evidence directly.
 
 ## Two Architectures of Order
 
-The conflict is larger than one theory of language. It is a conflict between two architectures of order.
-
-One architecture places an invariant standard where everyone can reach it and no apex can own it. This is the architecture of calibration. In the book, its protagonists are the seekers who examined and articulated Sanskrit, the caretakers who transmitted it, and the Hindu continuum that kept the Vedas audible across society.
-
-The other architecture encloses knowledge, controls access, and places certified authority above the people expected to obey it. This book calls that architecture the **pyramid**. European philology constructed the foreign-parent account, Western academia certified and expanded it, and Indian academia continues to reproduce many of its categories.
+The **pyramid** encloses knowledge, controls access, and places certified authority above the people expected to obey it. European philology constructed the foreign-parent account, Western academia certified and expanded it, and Indian academia continues to reproduce many of its categories.
 
 The Vedas frame this conflict as **सत् (*sat*)** and **असत् (*asat*)**. Power does not determine the side. Its purpose and actions do.
 
@@ -125,11 +117,9 @@ The distinction is architectural, not racial or national. A person born anywhere
 
 Calibrant order does not abolish government. It places the king or government within the order. Those who govern protect a calibrant that they did not create, cannot alter, and do not own.
 
-This is why the book’s tone is direct. I do not present the dispute as a polite choice between two equally adequate descriptions. I argue that the pyramid created false categories to hide a living architecture.
-
 ## How to Read This Book
 
-You do not need prior knowledge of Sanskrit or historical linguistics. Sanskrit appears in Devanagari and transliteration, and every technical idea begins with a concrete example. Readers may approach the argument through language, history, or political philosophy. The same inquiry connects Sanskrit’s engineering, the inherited account of its origin, and what the language demonstrates about distributed order.
+Sanskrit appears in Devanagari and transliteration, and every technical idea begins with a concrete example. Readers may approach the argument through language, history, or political philosophy. The same inquiry connects Sanskrit’s engineering, the inherited account of its origin, and what the language demonstrates about distributed order.
 
 The opening chapters introduce the two architectures of order and show how false categories conceal the way Sanskrit was built. The chapters that follow set those categories aside and begin again from the Sanskrit continuum’s own account of the language.
 

@@ -122,7 +122,7 @@ The bond does not evolve or mutate. It is a structural constant. This does not m
 
 Patañjali reaches this conclusion through the Indian method of stating and examining the opposing position before establishing the settled conclusion. The reader may be familiar with पूर्वपक्ष–सिद्धान्त (*pūrvapakṣa–siddhānta*). The *Paspaśāhnika* contains the technical details. The point needed here is simpler: the *Mahābhāṣya* begins with the सिद्ध (*siddha*) commitment and develops the rest of its grammatical analysis from that premise.
 
-**Second Shanti.** This structure gives the reader the first working view of Sanskrit as a self-correcting calibrant. Later volumes in the Second Shanti series will explore how संस्कृति (*saṃskṛti*) extends this calibrant architecture to higher fractal scales.
+**Second Shanti.** A teacher and a learner can examine the same form and explain a correction against a reference that neither can alter at will. Their responsibilities differ, but the standard does not become the teacher's property. Later volumes of *Second Shanti* will examine how shared knowledge and accountable judgment can shape economic life, government, and other relationships among living beings.
 
 The वैयाकरणाः (*vaiyākaraṇāḥ*) do not merely record whatever speakers produce. They defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not new standards. They are slips from the standard.
 

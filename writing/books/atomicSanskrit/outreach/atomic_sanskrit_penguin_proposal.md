@@ -102,7 +102,7 @@ The book rejects the codification story because it assigns him a different role:
 
 **Distributed.** A teacher in one region can recognize a mistake that another teacher elsewhere would also recognize. The knowledge needed to make those judgments belongs to households, teachers, and recitation lineages across the Indian subcontinent, north and south, east and west. Different communities maintain different responsibilities without giving any one region or institution ownership of the shared standard. The book also argues for Sanskrit's subcontinental home by comparing its sounds with those of Indian languages that Western academics assign to separate families.
 
-**Radiant.** Teachers, travelers, and communities carried Sanskritic words and methods beyond India, where other speakers adopted and reshaped what they learned. The book calls this outward spread radiance. Its Radiance Thesis argues that similarities between Sanskrit, Greek, Latin, and other languages record that influence, which Western accounts conceal by assigning those languages to an unrecorded common ancestor.
+**Radiant.** Teachers, travelers, and communities carried Sanskritic words and methods beyond India, where other speakers adopted and reshaped what they learned. The book calls this outward spread radiance. Its Radiance Thesis argues that similarities between Sanskrit, Greek, Latin, and other languages record that influence, which Western accounts conceal by assigning those languages to an unrecorded imaginary ancestor called Proto-Indo-European (PIE).
 
 **Calibrant.** The Vedic reference remains available to those who learn it. A listener can compare a recitation with that reference and explain a correction, as my mother did. No teacher or institution needs to own the reference before someone else can use it. Its constancy allows people in different places and generations to check their speech against the same standard.
 
@@ -110,7 +110,7 @@ The book rejects the codification story because it assigns him a different role:
 
 ## Why Is the Series Called Second Shanti?
 
-Hindus often say शान्तिः (*śāntiḥ*, quietude) three times. The three invocations concern three domains. The first concerns disturbances within the person. The second concerns relationships with other people and living beings. The third concerns natural and cosmic forces beyond direct human control that nevertheless affect life.
+Hindus often say शान्तिः (*śāntiḥ*, quietude) three times. The three invocations are directed towards three distinct domains. The first concerns disturbances within the person. The second concerns relationships with other people and living beings. The third concerns natural and cosmic forces beyond direct human control that nevertheless affect life.
 
 Hindu society has kept alive practices through which a person can seek quietude in the **first domain**. Yoga and meditation remain familiar examples. Much of the knowledge through which it organized the second was damaged under centuries of Abrahamic pyramidal rule. Institutions were destroyed, memory was interrupted, and public life was reorganized around commands from above. *Second Shanti* will reason from first principles about how living beings can create order in this second domain.
 
@@ -122,7 +122,7 @@ Philology studies language and its history through written records. The book arg
 
 I call the order in which these institutions claim the right to define and certify knowledge the **asuric pyramid**. Authorized interpreters decide what Sanskrit and the Vedas represent, while the people who have taught and transmitted them are expected to accept that verdict. The book examines the methods and institutions that sustain this hierarchy, including what it calls the fourth Abrahamic religion: progressivism, with its assumption that the present must stand above the past.
 
-Proto-Indo-European, or PIE, is the reconstructed language proposed as the common ancestor of Sanskrit, Greek, Latin, and other languages. It is central to this dispute. The pyramid places that reconstructed ancestor above Sanskrit and explains the recorded language through it. *Atomic Sanskrit* begins by analyzing Sanskrit's recorded sounds, words, and grammar. It then examines how other languages adopted Sanskritic words and methods and changed them through their own usage.
+Scholars reconstruct Proto-Indo-European, or PIE, by comparing languages and proposing an earlier common ancestor. *Atomic Sanskrit* challenges the elevation of that hypothetical reconstruction into an authority above recorded Sanskrit. The pyramid places that imaginary ancestor above Sanskrit and explains the recorded language through it. *Atomic Sanskrit* begins by analyzing Sanskrit's recorded sounds, words, and grammar. It then examines how other languages adopted Sanskritic words and methods and changed them through their own usage.
 
 The book calls the foreign-origin account the **Racial Arya Thesis**, or RAT. It challenges the attribution of Sanskrit's authorship to incoming populations: evidence that people moved does not establish that they brought a language rather than learned it. Its argument for Sanskrit's subcontinental home examines the language's sounds, its grammatical procedures, and the communities that have maintained its connection with the Vedas.
 
@@ -130,7 +130,7 @@ The dispute reaches beyond linguistic ancestry. Concealing Sanskrit's architectu
 
 ## How Does the Book Take the Reader Through the Argument?
 
-The book follows the Vedic account of an eclipse: Svarbhānu covers the Sun, and the Atris, a lineage of seekers, find the radiance behind the darkness. Sanskrit is the Sun in the book's visual narrative. The pyramid's classifications form the blocks that conceal it. As the chapters examine and challenge those claims, successive illustrations show the eclipse clearing.
+The book follows the Vedic account of an eclipse: Svarbhānu covers the Sun, and the *Atris*, a lineage of seekers, find the radiance behind the darkness. Sanskrit is the Sun in the book's visual narrative. The pyramid's classifications form the blocks that conceal it. As the chapters examine and challenge those claims, successive illustrations show the eclipse clearing.
 
 Two opening chapters introduce the seekers and the opposing apex. Parts I and II examine the classifications imposed on Sanskrit and explain how its own analysts understood formation and change. Parts III and IV show how the mouth produces sounds and how Sanskrit assembles them into atoms, words, and sentences. Part V examines the greater system that keeps the language calibrated. Parts VI and VII challenge the foreign-origin account and examine how people carried Sanskritic knowledge beyond India. The epilogue connects the language's distributed correction to responsibility, discernment, and order among living beings.
 
