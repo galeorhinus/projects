@@ -4,7 +4,8 @@
 
 ## Working Title
 
-**Atomic Sanskrit: The Distributed, Radiant, Calibrant, and Fractal Architecture of Sanātan**
+**Atomic Sanskrit: The Architecture of Sanātan**  
+**Distributed. Radiant. Calibrant. Fractal**
 
 *Sound, Grammar, and the Engineering of Memory*
 

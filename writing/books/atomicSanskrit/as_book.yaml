@@ -8,7 +8,11 @@
 
 # --- Book identity ---
 title: Atomic Sanskrit
-subtitle: "The Distributed, Radiant, Calibrant, and Fractal Architecture of Sanātan"
+subtitle: "The Architecture of Sanātan"
+# Four-property strapline, set below the subtitle on the title page and the
+# HTML contents page. Like `series` above, the LaTeX title page repeats this
+# string inside header-includes; keep the two in step when editing.
+tagline: "Distributed. Radiant. Calibrant. Fractal"
 series: "Volume 1 of *Second Shanti*"   # Rendered onto the title page via header-includes below.
 author: Parag Tope
 date: "PRE-PUBLICATION REVIEW COPY — September 2026"
@@ -53,6 +57,9 @@ header-includes:
     \AtBeginDocument{%
       \pretocmd{\@title}%
         {{\normalsize\scshape Second Shanti $\cdot$ Volume 1\par}\vspace{1.5em}}%
+        {}{}%
+      \apptocmd{\@title}%
+        {\vspace{0.9em}{\normalsize\scshape Distributed $\cdot$ Radiant $\cdot$ Calibrant $\cdot$ Fractal\par}}%
         {}{}%
     }
     \makeatother

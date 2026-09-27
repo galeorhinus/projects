@@ -243,8 +243,10 @@ label.lbl{display:block;font-size:12px;letter-spacing:.14em;text-transform:upper
 .lockup .tt{min-width:0}
 .lockup .tt .bt{font-size:30px;font-weight:700;letter-spacing:-.012em;line-height:1.1;margin:0}
 .lockup .tt .st{font-size:14.5px;color:var(--brown);line-height:1.45;margin:6px 0 0}
+.lockup .tt .tg{font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--brown);margin:5px 0 0}
 .lockup.sm .tt .bt{font-size:24px}
 .lockup.sm .tt .st{font-size:13.5px;margin-top:4px}
+.lockup.sm .tt .tg{font-size:10.5px;margin-top:3px}
 
 /* ============ responsive: split wide, pass narrow ============ */
 .R{min-height:100%;display:grid;grid-template-columns:44% 56%;background:var(--field)}
@@ -296,7 +298,7 @@ label.lbl{display:block;font-size:12px;letter-spacing:.14em;text-transform:upper
   <aside class="left">
     <div>
       <div class="series">A Second Shanti book</div>
-      <div class="lockup big"><svg class="mk" width="66" height="63" aria-hidden="true"><use href="#mk-eng"/></svg><div class="tt"><p class="bt">Atomic Sanskrit</p><p class="st">The Distributed, Radiant, Calibrant, and Fractal Architecture of Sanātan</p></div></div>
+      <div class="lockup big"><svg class="mk" width="66" height="63" aria-hidden="true"><use href="#mk-eng"/></svg><div class="tt"><p class="bt">Atomic Sanskrit</p><p class="st">The Architecture of Sanātan</p><p class="tg">Distributed. Radiant. Calibrant. Fractal</p></div></div>
       <div class="who"><div class="k">Reader</div><div class="v">$name</div></div>
       <div class="who"><div class="k">Reading group</div><div class="v grp">$group_code</div></div>
     </div>

@@ -1,4 +1,6 @@
-# Atomic Sanskrit: The Distributed, Radiant, Calibrant, and Fractal Architecture of Sanātan
+# Atomic Sanskrit: The Architecture of Sanātan
+
+*Distributed. Radiant. Calibrant. Fractal*
 ### *Volume 1 of Second Shanti*
 
 ---

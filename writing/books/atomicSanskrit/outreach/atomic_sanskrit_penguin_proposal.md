@@ -72,7 +72,7 @@ Readers will examine practices they may have inherited without knowing what thos
 
 The book also explains how an unchanged language can name something new, why writing down a grammar cannot by itself stop a language from changing, and why an exact written record remains vulnerable to decay, destruction, and control. Familiar words and recitations become examples readers can examine for themselves.
 
-Readers do not need to know Sanskrit. The language is the *system* being examined; knowledege is not a condition for understanding the explanation. Sanskrit appears in Devanagari and in Roman letters using IAST, the International Alphabet of Sanskrit Transliteration, with English explanations. Diagrams locate sounds in the mouth, show how words are assembled, and make the checks used in recitation visible. Readers can follow the examples before learning the technical names for what they have seen.
+Readers do not need to know Sanskrit. The language is the *system* being examined; knowledge is not a condition for understanding the explanation. Sanskrit appears in Devanagari and in Roman letters using IAST, the International Alphabet of Sanskrit Transliteration, with English explanations. Diagrams locate sounds in the mouth, show how words are assembled, and make the checks used in recitation visible. Readers can follow the examples before learning the technical names for what they have seen.
 
 ## What Does It Mean to Call Sanskrit Engineered?
 

@@ -79,7 +79,7 @@ The Vedas encode several foundational architectures of **सनातन (*Sanā
 
 Could those principles recur in economic life and government? This is why the inquiry into the second *śāntiḥ* begins with Sanskrit. The language system allows us to examine shared knowledge, discernment, correction, and responsibility in practice.
 
-The subtitle describes Sanskrit's architecture as distributed, radiant, calibrant, and fractal. Each word identifies a different property of that architecture.
+Four words name that architecture: **distributed, radiant, calibrant, and fractal**. Each identifies a different property of it.
 
 It is **distributed** across the Indian subcontinent, north and south, east and west. Teachers, learners, and recitation lineages in different regions share the knowledge and the ability to recognize and correct errors. The architecture connects communities across geography without giving any one region or institution ownership of the standard.
 
@@ -104,6 +104,8 @@ This book challenges that claim.
 People have always moved into and out of India, and some newcomers made India their home. Evidence of migration does not establish linguistic authorship. This book asks who engineered Sanskrit, who established the Vedic disciplines of exact recitation, and why this connected architecture remains rooted in the Indian subcontinent.[NOTE: migration-trap-movement-not-authorship]
 
 *Atomic Sanskrit* argues that these similarities record Sanskrit’s outward radiance. Across the centuries, small but influential groups carried parts of the architecture beyond India. Greek, Latin, and other Eurasian languages preserve partial reflections created through those contacts. European philology gathered the reflections, constructed an imaginary ancestor from them, and placed that construction above Sanskrit.
+
+The difference between India and the other regions is architectural. In India, Sanskrit remains bonded to the Vedas, exact recitation, and the analytical disciplines that join them; these survive together as one system. Elsewhere only the reflections survive, without the architecture that generated them. **That architectural asymmetry establishes direction.**
 
 I do not pretend to be neutral between these accounts. This book takes a clear position and supports it with evidence and reason. The body develops the argument through concrete examples. The appendices and endnotes provide the denser documentation so that readers can examine the evidence directly.
 

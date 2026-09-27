@@ -523,7 +523,7 @@ def _strip_md_emphasis(s: str) -> str:
 
 
 def render_index(entries: list[dict], book_title: str, subtitle: str,
-                 series: str, author: str, build_meta: dict[str, str],
+                 tagline: str, series: str, author: str, build_meta: dict[str, str],
                  chapter_headings: dict[str, list[tuple[str, str]]]) -> None:
     """Generate build/html/index.html — the contents page, grouped by
     the assembly's `part` entries.
@@ -615,6 +615,8 @@ def render_index(entries: list[dict], book_title: str, subtitle: str,
     lines.append(f'  <h1 class="book-title">{book_title}</h1>')
     if subtitle:
         lines.append(f'  <p class="book-subtitle">{_md_inline_to_html(subtitle)}</p>')
+    if tagline:
+        lines.append(f'  <p class="book-tagline">{_md_inline_to_html(tagline)}</p>')
     if series:
         lines.append(f'  <p class="book-series">{_md_inline_to_html(series)}</p>')
     if author:
@@ -1248,6 +1250,7 @@ def main() -> int:
 
     book_title = read_yaml_value(METADATA_FILE, "title")
     subtitle = read_yaml_value(METADATA_FILE, "subtitle")
+    tagline = read_yaml_value(METADATA_FILE, "tagline")
     series = read_yaml_value(METADATA_FILE, "series")
     author = read_yaml_value(METADATA_FILE, "author")
 
@@ -1268,7 +1271,7 @@ def main() -> int:
         prev = entries[i - 1] if i > 0 else None
         next_ = entries[i + 1] if i + 1 < len(entries) else None
         chapter_headings[entry["file"]] = render_chapter(entry, prev, next_, book_title, build_meta)
-    render_index(entries, book_title, subtitle, series, author, build_meta, chapter_headings)
+    render_index(entries, book_title, subtitle, tagline, series, author, build_meta, chapter_headings)
     progress_done(f"  book       {len(entries)} pages + contents")
 
     # ----- Public essays + shelf -------------------------------------

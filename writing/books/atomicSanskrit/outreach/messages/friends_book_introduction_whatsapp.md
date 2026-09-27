@@ -8,7 +8,8 @@ Copy only the text below the divider.
 I've been working on a book that I haven't told you about yet. It is called:
 
 _Atomic Sanskrit_
-_The Distributed, Radiant, Calibrant, and Fractal Architecture of Sanātan_
+_The Architecture of Sanātan_
+_Distributed. Radiant. Calibrant. Fractal_
 
 The book begins with a simple but far-reaching argument: Panini did not codify Sanskrit. Sanskrit was already a fully engineered language, and Panini brilliantly analyzed and documented its grammar. Its engineering is visible in a precisely arranged sound system, a large inventory of semantic atoms, and a generative architecture capable of creating millions of words.
 

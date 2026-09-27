@@ -3,7 +3,9 @@
 **Created:** 2026-09-24  
 **Status:** Governing plan recorded; first treatment-map batch complete, mapping continues  
 **Product:** A separate, independently readable concise edition  
-**Shared subtitle:** The Distributed, Radiant, Calibrant, and Fractal Architecture of Sanātan
+**Shared subtitle:** The Architecture of Sanātan
+
+**Shared tagline:** Distributed. Radiant. Calibrant. Fractal
 
 **Constraint:** Do not change the full manuscript or reader's guide through this project.
 
