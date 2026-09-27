@@ -39,6 +39,7 @@ def main():
 \setlength{\emergencystretch}{2em}
 \widowpenalty=10000
 \clubpenalty=10000
+\brokenpenalty=10000
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\headrulewidth}{0pt}
@@ -60,6 +61,7 @@ def main():
 \renewcommand{\subsubsection}{\@startsection{subsubsection}{3}{0pt}{-12pt}{6pt}{\fontsize{15}{18}\selectfont\bfseries\raggedright}}
 \makeatother
 \setlength{\footskip}{8mm}
+\setlength{\parskip}{6pt plus 1pt}
 \fancyfoot[L]{\fontsize{8}{10}\selectfont Atomic Sanskrit | Proposal}
 \fancyfoot[R]{\fontsize{9}{11}\selectfont\thepage}
 \AtBeginDocument{\fontsize{13}{16}\selectfont\RaggedRight}
