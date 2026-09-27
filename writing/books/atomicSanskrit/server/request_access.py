@@ -296,7 +296,7 @@ label.lbl{display:block;font-size:12px;letter-spacing:.14em;text-transform:upper
   <aside class="left">
     <div>
       <div class="series">A Second Shanti book</div>
-      <div class="lockup big"><svg class="mk" width="66" height="63" aria-hidden="true"><use href="#mk-eng"/></svg><div class="tt"><p class="bt">Atomic Sanskrit</p><p class="st">The Radiant, Calibrant, and Fractal Architecture of Sanātan</p></div></div>
+      <div class="lockup big"><svg class="mk" width="66" height="63" aria-hidden="true"><use href="#mk-eng"/></svg><div class="tt"><p class="bt">Atomic Sanskrit</p><p class="st">The Distributed, Radiant, Calibrant, and Fractal Architecture of Sanātan</p></div></div>
       <div class="who"><div class="k">Reader</div><div class="v">$name</div></div>
       <div class="who"><div class="k">Reading group</div><div class="v grp">$group_code</div></div>
     </div>

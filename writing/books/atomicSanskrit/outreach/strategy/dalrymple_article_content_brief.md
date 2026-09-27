@@ -2,7 +2,7 @@
 
 Article content brief | Updated 23 September 2026
 
-Status: [first article draft completed](../articles/muller_macdonell_dalrymple_heroic_erasure.md), awaiting author review. The draft uses verified statements and omits the unverified attribution of “syncretic heritage” to Dalrymple. Some proposals retained below remain research leads, not established claims. This brief distinguishes the author's argument from verified statements by the writers being criticized.
+Status, 26 September 2026: [article draft completed](../articles/muller_macdonell_dalrymple_heroic_erasure.md); public publication on hold. The author is willing to offer it for internal Gateway House discussion, but does not want it to be the first article introducing *Atomic Sanskrit*. This is a publication-sequence decision, not a retreat from the argument. See the [publication decision and research direction](dalrymple_publication_decision_2026_09_26.md) before further editing. The draft omits the unverified attribution of “syncretic heritage” to Dalrymple. Some proposals retained below remain research leads, not established claims. This brief distinguishes the author's argument from verified statements by the writers being criticized.
 
 ## Purpose and Audience
 

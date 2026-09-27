@@ -8,6 +8,8 @@
 
 ## 1. Series structure and central thesis
 
+**Final-volume reservation, 26 September 2026:** The author's [fractal-universe thought experiment](as_second_shanti_final_volume_fractal_universe.md), relating independently acting microscopic constituents, a person, and an extrapolated larger being, is reserved for the final volume only. Do not disclose that detailed model in *Atomic Sanskrit*, the concise edition, reader's guide, publisher proposal, articles, or earlier volumes without new authorization. The note records assumptions and unresolved domain mappings, not an established physical theory. **State the high-level claim now:** the three shantis form a fractal map of the universe and express its inside-out architecture. Reserve the detailed explanation, not the claim, for the final volume. Present it as the series' thesis rather than a quotation from a traditional source.
+
 ### 1.1 Volumes and the article-asymmetry
 
 *Atomic Sanskrit* is Volume 1 of ***Second Shanti*** — *the* linguistic architecture of *Sanātan*, read off the language as it stands on the ground today.

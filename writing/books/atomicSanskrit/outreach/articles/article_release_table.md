@@ -34,6 +34,16 @@ The newest public frame is now central: Sanskrit is not merely a natural languag
 | 24 | **Can Order Exist Without an Apex?** | Political entry into the *Second Shanti* project through *bhikṣā*, the Kumbh, Vedic transmission, and distributed calibration | Gateway House or a policy magazine | Swarajya longform, Ideas for India, Indian Express Opinion | Pre-publication outreach and series positioning | Full draft — `order_without_an_apex.md` |
 | 25 | **How the Vedas Preserve Exact Sound Without Central Authority** | Concrete demonstration beneath the calibrant-polity thesis; explains recitation, distributed custody, and correction without ownership | Gateway House or a serious general-interest magazine | Swarajya, Pragyata, Standpoint Bharat | Paired with #24 or used as a standalone Vedic-preservation essay | Full draft — `vedas_distributed_calibrant.md` |
 
+## Future Articles: Methods and Institutional Authority
+
+Added 26 September 2026. This category records articles the author wants to develop, separately from the proposed release sequence above. An entry authorizes planning, not publication, submission, or automatic drafting. Research should challenge methods as well as conclusions; preserve the distinction between the author's position and demonstrated findings.
+
+| ID | Working article | Central challenge | Status |
+|---|---|---|---|
+| F01 | [Pyramidal Science: When a Fragment Becomes the Whole](ancestry_race_science_skeleton.md) | Begin with Chapter 1's critique of limited knowledge becoming authority: Big Bang framing contrasted with anādi, ananta, and the Nāsadīya Sūkta. Develop ancestry studies, circular confirmation, cremation/burial bias, and race "science" as the second case. | Reframed skeleton and proposed opening; initial cosmology/Vedic source checks saved; ancestry audit and final title pending; no outlet or publication date selected |
+
+Related but separate: the [Müller-Macdonell-Dalrymple article](muller_macdonell_dalrymple_heroic_erasure.md) is drafted but held from public publication. The author is willing to offer it for internal Gateway House discussion; see the [publication decision](../strategy/dalrymple_publication_decision_2026_09_26.md). F01 develops the broader methodological challenge rather than repeating those three portraits.
+
 ## Title Variants
 
 These should be treated as alternate headlines, not separate articles.

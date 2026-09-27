@@ -24,7 +24,7 @@ Sanskrit revealed a civilizational order built through calibration rather than d
 
 The language's sounds, atoms, grammar, and generative reach demonstrate one feat of engineering. The greater feat is the system that has kept Sanskrit calibrated against two enemies for thousands of years. Entropy introduces unintended change. Asuric attack tries deliberately to destroy the memory, capture the calibrant, or conceal the architecture. The Vedas and their distributed caretakers have resisted both while Sanskrit has remained open to new expression. As this book demonstrates, no other language has remained invariant for thousands of years while continuing to support new expression without a central authority controlling its form. The system remains alive, audible, and available for examination.
 
-*Atomic Sanskrit* examines this achievement as **the radiant, calibrant, and fractal architecture of Sanātan**.
+*Atomic Sanskrit* examines this achievement as **the distributed, radiant, calibrant, and fractal architecture of Sanātan**.
 
 That principle may still sound abstract. The Hindu temple offers a familiar way to understand it.
 
@@ -79,9 +79,11 @@ The calibrant remains unchanged. People can compare their speech with it, recogn
 
 The Vedas encode several foundational architectures of **सनातन (*Sanātan*)**. Sanskrit is one of them. Their exact transmission bonds the language to the civilization that has cared for it. This is why the inquiry into the second *śāntiḥ* begins in the mouth rather than in political philosophy. Before the same architecture can be extended into polity or economy, it can be examined in sound, grammar, composition, and preservation.
 
-The subtitle describes Sanskrit as radiant, calibrant, and fractal. Each word identifies a different property of its architecture.
+The subtitle describes Sanskrit's architecture as distributed, radiant, calibrant, and fractal. Each word identifies a different property of that architecture.
 
-Sanskrit is **radiant** because it carries knowledge outward. Its sounds, words, structures, and analytical methods have reached other languages and civilizations, where they have supported further creation.
+It is **distributed** across the Indian subcontinent, north and south, east and west. Teachers, learners, and recitation lineages in different regions share the knowledge and the ability to recognize and correct errors. The architecture connects communities across geography without giving any one region or institution ownership of the standard.
+
+It is **radiant** because it carries knowledge outward. Its sounds, words, structures, and analytical methods have reached other languages and civilizations, where they have supported further creation.
 
 It is **calibrant** because its invariant architecture remains available for comparison and correction. No centralized power needs to own it before people can use it.
 

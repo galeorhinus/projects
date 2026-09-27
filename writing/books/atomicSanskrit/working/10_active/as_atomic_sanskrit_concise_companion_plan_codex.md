@@ -1,10 +1,12 @@
 # Atomic Sanskrit Concise Companion: Codex Plan
 
-**Status:** Planning  
+**Status:** Superseded on 2026-09-24; retained as planning history
 **Working title:** *Atomic Sanskrit: The Essential Architecture*  
 **Working subtitle:** *A concise story of Sanskrit's radiant, calibrant, and fractal architecture*  
 **Target length:** Under 20,000 words, including captions and notes  
 **Relationship to the full book:** Standalone concise companion, not a replacement or chapter summary
+
+**Superseding decision:** Use the [Concise Edition plan](as_concise_edition_plan.md) and [chapter treatment map](as_concise_edition_treatment_map.md). The approved approach retains Chapters 0-20 and the seven parts, uses simpler vocabulary without diluting the narrative, and selects arguments for full explanation, summary, or a reference. Four to five pages is a text-only guide; figures and captions are additional. The ten-chapter structure, 20,000-word ceiling, figure cap, and production instructions below are historical proposals, not current constraints. The reader's guide and full book remain unchanged.
 
 ---
 

@@ -17,6 +17,8 @@ The public sequence should move from the cleanest doorway into the thesis toward
 
 The remaining essays can follow as companion pieces.
 
+**Future articles, added 26 September 2026:** The [Methods and Institutional Authority category](article_release_table.md#future-articles-methods-and-institutional-authority) tracks new author-requested projects outside this earlier release sequence. Its first entry is [Pyramidal Science: When a Fragment Becomes the Whole](ancestry_race_science_skeleton.md). The reframed outline starts with the Big Bang, anādi, ananta, and the Nāsadīya Sūkta, then develops ancestry studies and race "science" as a second case of limited evidence becoming institutional authority.
+
 ---
 
 ## 1. Pāṇini Is a Hero — But Not Because He Codified Sanskrit
