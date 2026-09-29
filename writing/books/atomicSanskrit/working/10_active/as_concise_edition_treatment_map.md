@@ -1,14 +1,21 @@
 # Atomic Sanskrit: A Concise Edition - Chapter Treatment Map
 
 **Created:** 2026-09-24  
-**Status:** Opening, Chapters 0-4, and Part I mapped; later units pending  
+**Status:** Treatments complete; opening, Chapters 0–4, and Part I drafted; approved Chapters 0–4 restorations implemented on 29 September
+
+**Restoration override:** The [29 September report](as_concise_ch00_ch04_restoration_review.md) supersedes the original reference-only or reduced treatments below for the passages selected by the author. Figure 0.2, the full Big Bang argument, personal identification, the asura debate's scale, the two theological cards, and Figures 4.1a and 4.2 now have local explanations. Use the [updated comparison](as_concise_ch00_ch04_section_comparison.md) for current inclusion status, rather than treating the older planning choices as instructions to remove them again.
+
 **Governing plan:** [Concise-edition plan](as_concise_edition_plan.md)
 
 This map selects arguments, not sentences to compress. The first batch below records proposed treatments after reading the current sources. "Mapped" means a treatment proposal is recorded, not that concise prose has been drafted or approved. Reference-only material remains in the full edition. No manuscript cuts are made through this document.
 
+**Completed continuation:** [Chapters 5-20, part openers, conclusion, and appendix decisions](as_concise_edition_remaining_treatments.md). [Whole-edition checks and reconciled word allocations](as_concise_edition_continuity_review.md). [Chapter 2 draft](../../concise/manuscript/as_1_02_botanical.md) and [omission record](as_concise_ch02_review.md) are ready to review together.
+
+**Drafting update, 27 September:** [Read all current drafts](../../concise/README.md) with the [opening/Chapters 0–4 omission record](as_concise_opening_ch00_ch04_review.md). This record distinguishes proposed treatments below from their actual implementation, including omitted hammers and word-count overruns.
+
 ## Source Controls
 
-Read current chapters using [as_book.yaml](../../as_book.yaml). Use the [existing argument map](as_chapter_argument_thesis_map_codex.md) as a starting inventory and the [current thesis summary](../../reference/as_thesis_summary.md) for thesis wording and numbers. Their core-thesis keys currently differ. Reconcile each match explicitly.
+Read current chapters using [as_book.yaml](../../as_book.yaml). Use the [existing argument map](as_chapter_argument_thesis_map_codex.md) as a starting inventory and the [current thesis summary](../../reference/as_thesis_summary.md) for thesis wording and numbers. Their core-thesis keys were reconciled on 27 September; continue checking the wording against the current chapters.
 
 ## Per-Chapter Record
 
@@ -32,37 +39,37 @@ For each figure, record its original number and canonical path, the portion expl
 
 | Unit | Source coverage | Status |
 |---|---|---|
-| Opening | Preface and Prologue; introduce purpose and eclipse | Mapped: proposed |
-| Chapter 0 | Zero, Seekers, and the Infinite | Mapped: proposed |
-| Chapter 1 | One, the Apex, and the Finite | Mapped: proposed |
-| Part I | How the Shadow Is Cast; Chapters 2-4 | Mapped: proposed |
-| Chapter 2 | Category Theft and Asuri Maya | Mapped: proposed |
-| Chapter 3 | The Pyramid's Motive and Method | Mapped: proposed |
-| Chapter 4 | The Fourth Abrahamic Religion | Mapped: proposed |
-| Part II | What the First Shadow Hid; Chapters 5-6 | Pending |
-| Chapter 5 | Siddha and Karya | Pending |
-| Chapter 6 | Apabhramsha and Entropy | Pending |
-| Part III | The Sun's Sound-Body; Chapters 7-9 | Pending |
-| Chapter 7 | Om: The Anatomy of Sound | Pending |
-| Chapter 8 | The Sounds of the Indian Subcontinent | Pending |
-| Chapter 9 | The Varnamala: The Sonomeric Grid | Pending |
-| Part IV | The Sun's Atoms; Chapters 10-12 | Pending |
-| Chapter 10 | Building Dhatuh: Sanskrit's Atom | Pending |
-| Chapter 11 | Building Kriyapadam: Sanskrit's Verbal Molecule | Pending |
-| Chapter 12 | Building the Vakyam: Sanskrit's Molecular Assembly | Pending |
-| Part V | The Sun Does Not Decay; Chapters 13-16 | Pending |
-| Chapter 13 | Why Preservation Needs Engineering | Pending |
-| Chapter 14 | Pratimapanam: The Calibration Matrix | Pending |
-| Chapter 15 | Aural Architecture | Pending |
-| Chapter 16 | One Architecture, Two Domains | Pending |
-| Part VI | Dispelling Rahu; Chapters 17-19 | Pending |
-| Chapter 17 | The Subcontinental Mouth, Mind, and Order | Pending |
-| Chapter 18 | The Wrong Question | Pending |
-| Chapter 19 | PIE in the Sky | Pending |
-| Part VII | Life After PIE; Chapter 20 | Pending |
-| Chapter 20 | Life After PIE | Pending |
-| Conclusion | Epilogue: The Atris Find the Sun | Pending |
-| Appendix contributions | Select material for relevant chapters and fuller pointers; Parts 1-10 | Pending |
+| Opening | Preface and Prologue; introduce purpose and eclipse | Drafted; review record complete |
+| Chapter 0 | Zero, Seekers, and the Infinite | Drafted; review record complete |
+| Chapter 1 | One, the Apex, and the Finite | Drafted; review record complete |
+| Part I | How the Shadow Is Cast; Chapters 2-4 | Drafted; review record complete |
+| Chapter 2 | Category Theft and Asuri Maya | Plain-language rewrite complete; review record updated |
+| Chapter 3 | The Pyramid's Motive and Method | Drafted; review record complete |
+| Chapter 4 | The Fourth Abrahamic Religion | Drafted; review record complete |
+| Part II | What the First Shadow Hid; Chapters 5-6 | Mapped in continuation |
+| Chapter 5 | Siddha and Karya | Mapped in continuation |
+| Chapter 6 | Apabhramsha and Entropy | Mapped in continuation |
+| Part III | The Sun's Sound-Body; Chapters 7-9 | Mapped in continuation |
+| Chapter 7 | Om: The Anatomy of Sound | Mapped in continuation |
+| Chapter 8 | The Sounds of the Indian Subcontinent | Mapped in continuation |
+| Chapter 9 | The Varnamala: The Sonomeric Grid | Mapped in continuation |
+| Part IV | The Sun's Atoms; Chapters 10-12 | Mapped in continuation |
+| Chapter 10 | Building Dhatuh: Sanskrit's Atom | Mapped in continuation |
+| Chapter 11 | Building Kriyapadam: Sanskrit's Verbal Molecule | Mapped in continuation |
+| Chapter 12 | Building the Vakyam: Sanskrit's Molecular Assembly | Mapped in continuation |
+| Part V | The Sun Does Not Decay; Chapters 13-16 | Mapped in continuation |
+| Chapter 13 | Why Preservation Needs Engineering | Mapped in continuation |
+| Chapter 14 | Pratimapanam: The Calibration Matrix | Mapped in continuation |
+| Chapter 15 | Aural Architecture | Mapped in continuation |
+| Chapter 16 | One Architecture, Two Domains | Mapped in continuation |
+| Part VI | Dispelling Rahu; Chapters 17-19 | Mapped in continuation |
+| Chapter 17 | The Subcontinental Mouth, Mind, and Order | Mapped in continuation |
+| Chapter 18 | The Wrong Question | Mapped in continuation |
+| Chapter 19 | PIE in the Sky | Mapped in continuation |
+| Part VII | Life After PIE; Chapter 20 | Mapped in continuation |
+| Chapter 20 | Life After PIE | Mapped in continuation |
+| Conclusion | Epilogue: The Atris Find the Sun | Mapped in continuation |
+| Appendix contributions | Select material for relevant chapters and fuller pointers; Parts 1-10 | Contribution/pointer map complete |
 
 The ASCII labels above are internal lookup shorthand, not approved publication headings. Retain the full edition's Devanagari and IAST conventions when drafting.
 
@@ -105,13 +112,29 @@ The ASCII labels above are internal lookup shorthand, not approved publication h
 | Sanskrit is the Sun; Svarbhānu's obstruction hides its radiance; Prologue opening | Develop | Identify the Sun, obstruction, observer, and eleven named blocks literally. State that Chapter 2 begins explaining the misclassifications. | C6, C7; eclipse framing |
 | The pyramid imposes its clock; Prologue The Pyramid's Clock | Summarize | Retain the chronological disagreement, with fuller examination in Chapter 3 §3.3 and Chapter 18. Do not repeat the entire chronology argument in the opening. | C6; S44 memory |
 
-**Sequence:** Personal inquiry -> concrete family/temple examples -> why Sanskrit comes first -> four subtitle properties and three domains -> the challenge -> separate Prologue with the eclipse and conch. The final drafting sequence may place the family example before the temple if that makes the language-to-order connection clearer; no source paragraph is being moved now.
+**Revised sequence, 27 September:** Operation Red Lotus -> what freedom and स्वराज्य (svarājya) protect -> constraint imposed by an apex versus restraint people learn -> destruction of the wider polity and knowledge that remains -> Sanskrit as an existing language system -> the independently checkable childhood correction -> a short temple comparison -> two engineering tasks and two enemies -> the four properties -> three domains and the series' first-principles purpose -> separate Prologue explaining the eclipse literally. This replaces the earlier example-first sequence; the current full Preface governs the substance.
+
+### Opening Refresh: What Changes and Where It Belongs
+
+| Revised emphasis | Concise treatment | Later development; repetition to avoid |
+|---|---|---|
+| स्वराज्य means examining the government-society relationship, not only changing rulers | Keep the author's actual inquiry and explain self-rule in ordinary language | Chapter 4 examines institutions; the conclusion returns to responsibility. Do not repeat the complete freedom narrative in Chapter 2. |
+| Most people can cooperate; harmful conduct does not have to determine everyone's treatment | Explain before retaining "The pyramid treats everyone as an exception waiting to happen" | Chapter 1 develops the apex; keep the fuller account of distrust there rather than a second opening argument. |
+| The wider polity was destroyed; Sanskrit still demonstrates order | State the distinction explicitly before claiming that an alternative exists | Chapters 5-16 demonstrate the language system. Later volumes develop polity from first principles, not from historical fragments. |
+| The childhood correction is more than copying a parent's accent | Retain the missing vowel, seven versus eight syllables, and the independent checks from joining and meter | Chapters 9 and 14 explain those checks; do not retell the family scene. |
+| The temple is a familiar comparison, not the primary demonstration | One short passage on voluntary alignment and विवेक (viveka) | The detailed darśana/mūrti description remains in the full Preface. |
+| Creating a language differs from keeping it unchanged | Name both tasks; explain entropy as unintended change and asuric attack as deliberate destruction/capture/concealment | Chapters 2 and 6 show why a grammar alone fails; Chapters 13-16 demonstrate preservation. |
+| Recursion and fractality need concrete explanations | Give one brief compound-inside-compound example, then explain recurring principles at different scales | Chapter 12 owns the compound demonstration; Chapter 14 adds metrical counting. Do not imply recursion alone proves fractality. |
+| All volumes concern the second domain | Explain each invocation, then state the series scope and reserve the fuller three-shanti interpretation for the final volume | Conclusion recalls purpose without introducing the speculative body/cells model. |
+| No Sanskrit prerequisite | Say this before the first demanding example; use Devanagari, IAST, translation and figures | Explain later terms locally instead of repeating reassurance. |
+
+**Effect on Chapters 0-4:** Chapter 0 develops stable construction and the need for memory, rather than restating the personal inquiry. Chapter 1 develops control and its methods. Chapter 2 tests language classification and preservation, not the entire theory of government. Chapter 3 develops conduct and विवेक; Chapter 4 develops institutions and the king's place within the order. The proposed chapter treatments below retain those responsibilities.
 
 **Epigraphs:** Retain the Prologue's Ṛgveda 5.40.5 and Atharvaveda 4.10.2, with Devanagari, IAST, immediate translations, and source locators. Explain the eclipse before the first figure; explain why the conch announces the undertaking before the second. The Preface has no separate opening epigraph to add.
 
 **Figures:** Retain E.1 [The Eclipse](../../figures/eclipse_spine/eclipse_00_preface_full.svg) and E.2 [The Conch Sounds](../../figures/eclipse_spine/eclipse_00_overture_shankha_full.svg) in their original sequence. Explain what changes between them. Detailed block-by-block analysis belongs later; the reader must nevertheless understand what a block represents here.
 
-**Allocation:** About 1,000 words, additional to the 20,000-25,000 chapter target. Captions and notes separate. Refer the longer family recollections and detailed political history to the full Preface rather than compressing all of them into fragments.
+**Allocation:** About 1,400 words for Preface and Prologue together, additional to the 20,000-25,000 chapter target. Captions and notes separate. Allow room for the revised purpose and childhood explanation; refer the longer family recollections, detailed political history, and expanded PIE case to the full edition rather than compressing them into fragments. The whole-edition budget will replace the earlier 1,000-word opening allowance.
 
 ### Chapter 0: Zero, Seekers, and the Infinite
 
@@ -141,7 +164,7 @@ The ASCII labels above are internal lookup shorthand, not approved publication h
 
 **Voice and emphasis:** Preserve the book's positive account of seeker civilization and the charge of deliberate memory destruction. Do not turn "distributed" into a claim that every region has identical practices. Keep geography here as lived transmission; reserve the comparative sound inventory for Chapter 8.
 
-**Allocation:** About 1,300 words, including invocation and translation. The saving comes from fewer catalogues, postponing the numerical derivation, and referring the chronology excursion, not shortening every explanation.
+**Allocation:** About 1,000 words, including invocation and translation. The saving comes from fewer catalogues, postponing the numerical derivation, and referring the chronology excursion, not shortening every explanation.
 
 ### Chapter 1: One, the Apex, and the Finite
 
@@ -167,7 +190,7 @@ The ASCII labels above are internal lookup shorthand, not approved publication h
 
 **Voice and emphasis:** Keep the pyramid as an actor, the train example as an accusation, and the three characteristics explicit. Do not shorten the chapter into a sequence of unexplained hostile labels. Later chapters must demonstrate the charge.
 
-**Allocation:** About 950 words. One historical example receives room; the wider catalogue receives a precise pointer.
+**Allocation:** About 800 words. One historical example receives room; the wider catalogue receives a precise pointer.
 
 ### Part I Opener: How the Shadow Is Cast
 
@@ -206,7 +229,7 @@ Name Descended, Botanical, and Codified as labels on the blocks and explain each
 
 **Voice and emphasis:** Retain the charge of category theft, the concrete enforcement behind formal Arabic, Tamil's importance to the argument, and Pāṇini as decoder. Do not soften Arabic into an unexplained statement that institutions "maintained usage." Keep the distinction between language engineering and the larger preservation system explicit.
 
-**Allocation:** About 1,600 words. This is deliberately larger than the chapter average because later chapters depend on the comparisons, domains, and calibration mechanism. Fewer peripheral examples, not smaller explanations, make the reduction possible.
+**Original allocation:** About 1,900 words. After the 29 September restoration, Chapter 2 is 2,020 reader-text words, plus 56 caption words. This is deliberately larger than the chapter average because later chapters depend on the comparisons, domains, and calibration mechanism. Fewer peripheral examples, not smaller explanations, make the reduction possible.
 
 ### Chapter 3: The Pyramid's Motive and Method
 
@@ -233,7 +256,7 @@ Name Descended, Botanical, and Codified as labels on the blocks and explain each
 
 **Voice and emphasis:** Preserve the accusations of racialization and diversion. Equally preserve the revised asura thesis: the concise edition must not resurrect the discarded certainty that hostile Vedic actors can always be assigned one derivation. "Action, not faction" is an explained conclusion, not a substitute for the example.
 
-**Allocation:** About 1,300 words. The full lexical dossier, long comparative catalogues, and repeated mythic examples become references; the governing distinction and its demonstration remain local.
+**Allocation:** About 1,000 words. The full lexical dossier, long comparative catalogues, and repeated mythic examples become references; the governing distinction and its demonstration remain local.
 
 ### Chapter 4: The Fourth Abrahamic Religion
 
@@ -272,7 +295,7 @@ Name Descended, Botanical, and Codified as labels on the blocks and explain each
 
 **Voice and emphasis:** Keep "fourth Abrahamic religion," the named institutional example, Bandin's procedural obstruction, and Aṣṭāvakra's celebrated victory. Do not turn the chapter into a neutral account of different institutions. Do not imply that a distributed order abolishes government or standards.
 
-**Allocation:** About 1,450 words. Four cards and one developed story replace repeated lists, not the explanations of why the comparisons matter. Captions and figure area are additional.
+**Allocation:** About 950 words. Four cards and one developed story replace repeated lists, not the explanations of why the comparisons matter. Captions and figure area are additional. The Bandin story has priority if the later draft needs more room.
 
 ## First-Batch Continuity Check
 
@@ -285,28 +308,28 @@ Name Descended, Botanical, and Codified as labels on the blocks and explain each
 7. The geographical thread is distributed custody across north, south, east, and west, not a claim that every region preserves the same śākhā. Keep local diversity visible while explaining the shared standard.
 8. These decisions preserve the full book's argumentative positions. Factual/source issues discovered during drafting require a separate flag, not an unannounced rewrite of either edition.
 
-### Source Reconciliation Still Needed
+### Source Reconciliation and Production Boundaries
 
 - **Thesis S43:** Resolved on 27 September. The thesis summary and Preface now specify that all volumes focus on the second domain and develop the polity from first principles. The final volume explains the author's three-shanti fractal interpretation in full.
 - **Argument-map IDs:** Reconciled on 27 September. Current C2 means fractality and C3 means Vedic calibration; the older Atri-recovery S43 is now F-Eclipse. All matches above use the current summary; later batches should continue checking thesis wording against the actual chapter.
 - **Numbered sections and notes:** These are current full-edition destinations, not promises that concise section numbers will match. Preserve source note IDs when drafting; verify final emitted links during build integration.
 - **Figure QA:** Canonical assets are identified here; selection does not certify readability in an as-yet-unbuilt concise layout. No new variants or PDF renders are authorized through the map.
 
-### Provisional Word Budget
+### Reconciled First-Batch Budget
 
 | Unit | Words | Why |
 |---|---:|---|
-| Chapter 0 | 1,300 | Positive architecture, memory, geography, and the fractal test |
-| Chapter 1 | 950 | One historical example and a clear account of the apex |
-| Chapter 2 | 1,600 | Comparisons and mechanism needed by later chapters |
-| Chapter 3 | 1,300 | Pillars, conduct, lexical scope, and opposing fractals |
-| Chapter 4 | 1,450 | Institutional mechanism and a developed Bandin narrative |
-| **Chapters 0-4 subtotal** | **6,600** | Includes headings, epigraphs, and translations; excludes captions/notes |
-| Preface and Prologue | 1,000 | Additional to chapter target |
+| Chapter 0 | 1,000 | Positive architecture, memory, geography, and the fractal test |
+| Chapter 1 | 800 | One historical example and a clear account of the apex |
+| Chapter 2 | 1,900 | Comparisons and mechanism needed by later chapters |
+| Chapter 3 | 1,000 | Pillars, conduct, lexical scope, and opposing fractals |
+| Chapter 4 | 950 | Institutional mechanism and a developed Bandin narrative |
+| **Chapters 0-4 subtotal** | **5,650** | Includes headings, epigraphs, and translations; excludes captions/notes |
+| Preface and Prologue | 1,400 | Additional to chapter target |
 | Part I opener | 180 | Additional to chapter target |
 
-This leaves approximately 13,400-18,400 chapter words for Chapters 5-20 within the 20,000-25,000 range. The allocations are provisional: later mapping may reveal that more space belongs to a technical demonstration and less to the early framing. Rebalance by selecting arguments, not by compressing the prose. No concise word count has yet been measured because no concise prose has been drafted.
+The remaining chapters receive 19,150 words, bringing the original chapter allocation to 24,800. The table above predates the approved restorations. Chapters 0–4 now contain 8,183 reader-text words; the current projection is therefore 27,333 main-chapter words if the remaining allowances hold. The opening is 1,624 and Part I is 163, separately counted. The [restoration report](as_concise_ch00_ch04_restoration_review.md) records the increase, captions, and figure placements. Do not compress the restored explanations to conceal the larger projection.
 
-## Next Batch
+## Next Decision
 
-Part II and Part III: Chapters 5-9 and their openers. Map the earlier grammatical analysis, entropy, sound production, Sanskrit's subcontinental home, and the sound-grid demonstrations. Reconcile their figure needs and vocabulary with this first batch before preparing the Chapter 2 sample outline. No concise prose or PDF is authorized merely by filling this map.
+Review the [restored Chapters 0–4](../../concise/README.md) with the [current comparison](as_concise_ch00_ch04_section_comparison.md). Part II and Chapters 5–6 are the next drafting batch. State claims directly rather than announcing comparisons, preserve complete explanations and personal passages, and do not generate PDFs by default.

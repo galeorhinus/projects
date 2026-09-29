@@ -90,6 +90,8 @@ The two frameworks are incompatible accounts of civilizational time, not minor v
 
 Sanskrit sits at the wrong end of the progress story. Its internal architecture demonstrates precision engineering, while the Vedic calibration system has resisted both entropy and deliberate attack for thousands of years. Together they imply that a peak epoch of clarity already occurred, in an age whose architectural sophistication the present has not surpassed. The linear framework cannot admit that counterexample without endangering its own structure.
 
+The pyramid can praise India while keeping Greece at the beginning of intellectual history. It celebrates India's influence after the period it calls the “Greek miracle,” leaving India's earlier radiance outside the account. The praise grows, but Europe's claim to priority remains protected.
+
 The pyramid's insecurity was deeper than language; it was civilizational. Nineteenth-century Europe was recasting itself as the heir to the *"Greek miracle,"* and preserving that origin-story required Homer to remain original. By dating Pāṇini to roughly 500 BCE, filing the *Rāmāyaṇa* under *"Classical Sanskrit,"* and placing the Vālmīki *Rāmāyaṇa* around 400 BCE, the machinery placed India's grammar and its epic after Homer.
 
 Elements such as Rāma lifting the great bow, Sītā's abduction, a war across the sea to recover her, and warriors identified from the walls of a besieged city made their way into the Homeric epics. We do not know whether Homer had read the *Rāmāyaṇa* or heard Rāma's stories through other tellers, but those stories had already been legendary for thousands of years before him.

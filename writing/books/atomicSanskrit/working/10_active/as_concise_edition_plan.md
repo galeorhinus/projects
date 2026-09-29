@@ -1,7 +1,8 @@
 # Atomic Sanskrit: A Concise Edition
 
 **Created:** 2026-09-24  
-**Status:** Governing plan recorded; first treatment-map batch complete, mapping continues  
+**Status:** Planning complete; opening, Chapters 0–4, and Part I drafted for review; Chapter 2 plain-language rewrite complete, 27 September 2026
+
 **Product:** A separate, independently readable concise edition  
 **Shared subtitle:** The Architecture of Sanātan
 
@@ -32,6 +33,7 @@ This plan supersedes the [older concise-companion proposal](as_atomic_sanskrit_c
 - Follow the [Devanagari and IAST policy](../40_reference/workflows/sanskrit_devanagari_iast_typography_policy.md). Explain unfamiliar Sanskrit terms without treating IAST as a substitute for Devanagari.
 - Follow [STYLE.md](../../STYLE.md), including its preference for concrete actors, actions, and complete causal explanations.
 - Draft for this edition from the selected arguments. Do not shorten the manuscript sentence by sentence.
+- **Sample-review correction, 27 September:** avoid academic signposting such as “Tamil makes that explanation difficult to sustain,” “Arabic adds another comparison,” and “Latin offers a similar contrast.” State what happened in the language or institution directly, then explain the consequence. Simple vocabulary must accompany direct sentence construction, not just replace difficult words inside an academic outline.
 
 ## Voice Is Not Negotiable Through Simplification
 
@@ -134,9 +136,11 @@ Markdown planning and drafting come first. **Do not generate PDFs by default.** 
 | Pass | Output | Status |
 |---|---|---|
 | 1. Governing decisions | This plan, linked sources, and treatment-map structure | Complete |
-| 2. Chapter treatment mapping | Read Chapters 0-20 and classify their arguments; map opening, parts, conclusion, and appendix contributions | In progress: opening, Chapters 0-4, and Part I mapped |
-| 3. Continuity and coverage | Check dependencies, current theses, metaphor, terminology, repetition, figure explanations, and exact destinations | Pending |
-| 4. Sample preparation | Detailed Chapter 2 outline with selected arguments, examples, figures, and pointers | Pending |
+| 2. Chapter treatment mapping | Read Chapters 0-20 and classify their arguments; map opening, parts, conclusion, and appendix contributions | Complete; opening refreshed against revised Preface |
+| 3. Continuity and coverage | Check dependencies, current theses, metaphor, terminology, repetition, figure explanations, and exact destinations | Complete as planning review; final-size figure and emitted-link QA awaits production |
+| 4. Sample preparation | Detailed Chapter 2 outline with selected arguments, examples, figures, and pointers | Complete; additionally drafted under 27 September authorization |
+| Authorized sample | Separate Chapter 2 manuscript and omission record | Plain-language rewrite complete after author feedback |
+| Opening and Part I drafting | Preface, Prologue, Chapters 0–1 and 3–4, Part I opener; omissions and continuity | Complete for author review; full edition unchanged |
 
 Publish the planning links immediately and update the map chapter by chapter rather than waiting for the entire pass to finish. Completion means actual source review, not merely populating a template.
 
@@ -150,9 +154,15 @@ Create separate concise-edition manuscript files when drafting begins. Do not ov
 
 ## Immediate Next Step
 
-The opening, Chapters 0-4, and Part I now have proposed treatments, current thesis matches, epigraph decisions, canonical figure selections, and provisional allocations in the [treatment map](as_concise_edition_treatment_map.md#first-batch-treatment-decisions). Their chapter allocation totals about 6,600 words; opening and part-opener prose are tracked separately. No concise prose has been drafted.
+**29 September restoration completed:** The author's selected passages and five figure/card placements are restored in concise Chapters 0–4. The approved Greek-priority paragraph also appears in full §3.4. The [restoration report](as_concise_ch00_ch04_restoration_review.md) and [updated comparison](as_concise_ch00_ch04_section_comparison.md) govern the present review. Earlier reference-only treatments for these selected passages are superseded. No PDFs or later chapters were created.
 
-Continue Pass 2 with Chapters 5-9 and the Part II-III openers. Reconcile the full map before preparing the Chapter 2 sample outline. Supporting thesis S43 was aligned on 27 September: all volumes focus on the second domain; the final volume develops the three-shanti interpretation in full.
+**27 September continuation:** After reviewing Chapter 2's voice, the author requested a plain-language rewrite and continuation with the next passes. The opening and Chapters 0–4 are now drafted in separate concise-edition files. The full manuscript and reader's guide remain unchanged; no PDFs were generated.
+
+**Completed:** [opening and Chapters 0-4](as_concise_edition_treatment_map.md), [Chapters 5-20 and remaining units](as_concise_edition_remaining_treatments.md), and [whole-edition continuity, thesis coverage, and budget](as_concise_edition_continuity_review.md). The reconciled main-chapter allocation is 24,800 words; opening, part openers, conclusion, captions, and notes are separate.
+
+**Review now:** [draft index](../../concise/README.md) and [restoration report](as_concise_ch00_ch04_restoration_review.md). The [Chapter 2 voice review](as_concise_ch02_review.md) and [first-draft omission record](as_concise_opening_ch00_ch04_review.md) remain historical records. Chapter 2 now contains 2,020 reader-text words plus 56 caption words, compared with 4,037 plus 54 in the full chapter under the same counting convention. Both original figures and the epigraph remain.
+
+Chapters 0–4 now total 8,183 reader-text words, an increase of 2,126 from the earlier draft. Keeping all remaining allocations unchanged would project 27,333 main-chapter words. This exceeds the rough 20–25k range and needs to remain visible during later drafting; it is not a reason to compress the approved restorations or silently remove their character. The next drafting batch is Part II and Chapters 5–6. All volumes focus on the second domain; the final volume alone develops the detailed three-shanti interpretation.
 
 ## Shared Subtitle Rollout
 
