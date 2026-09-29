@@ -20,7 +20,7 @@ Most explanations of public order begin with government and the *constraints* it
 
 Most people want to live peacefully, care for those around them, and pursue their lives without harming others. Some will deceive, exploit, or use violence. Must the conduct of that minority determine the order under which everyone else lives? *Pyramidal order treats everyone as an exception waiting to happen.*
 
-This book argues that Sanātan offers a fundamentally different way of creating order. Its starting point is the restraint people learn to exercise themselves, rather than the constraints imposed upon them from above. Much of the knowledge behind that approach is no longer explained as a connected whole. Yet people continue to teach it through stories, recitations, and practices, often without connecting what they do with a larger conception of order.
+This book argues that Sanātan offers a fundamentally different way of creating order. Its starting point is the restraint people learn to exercise themselves, rather than the constraints imposed upon them from above. The book traces how centuries of Abrahamic pyramidal rule largely destroyed the institutions through which Hindu society sustained that order. Yet its principles remain alive in stories, recitations, teaching, and everyday practice. Sanskrit demonstrates how people sustain that order without commands from an apex.
 
 Could these familiar practices help us understand how society can create order without depending on commands from an apex? Sanskrit became my starting point because its construction and the disciplines that keep it exact can still be examined directly. Sanskrit remains alive because of the partial victory we gained in the Anglo-Indian War of 1857. 
 
@@ -32,9 +32,9 @@ Parag Tope is an entrepreneur, mechanical engineer, University of Michigan Ross 
 
 *Atomic Sanskrit* grew from a question he pursued for fifteen years after *Operation Red Lotus*: what kind of civilizational order had his ancestors fought to protect? His engineering background led him to examine how Sanskrit was built and how people have kept it unchanged across generations.
 
-## Has This Alternative Actually Existed?
+## Does This Order Still Exist?
 
-Yes. The language system that *Atomic Sanskrit* examines already exists in full. Teachers, learners, and recitation lineages share the knowledge needed to recognize and correct errors. This book demonstrates how that system has kept Sanskrit unchanged for thousands of years without a central authority controlling its form.
+Yes. It exists in Sanskrit, both as a language and as a language system. Its architecture allows speakers to create new words for a changing world, while the Vedas provide the shared reference that keeps that architecture unchanged. The disciplines of teaching, recitation, and correction sustain the system without a central authority owning or controlling it. *Atomic Sanskrit* demonstrates how this order continues to function, even after so much of its expression in society and government was destroyed.
 
 As a child reciting the *Bhagavad Gītā*, I misplaced a sound. My mother caught the mistake because it changed the number of syllables in the line. The verse followed a prescribed pattern, and my recitation no longer fitted it. Restoring the sound also restored the pattern. She could therefore show me why the correction was necessary, rather than simply ask me to copy her pronunciation.
 
