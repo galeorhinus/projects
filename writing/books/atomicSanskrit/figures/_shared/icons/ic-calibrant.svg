@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" id="ic-calibrant" role="img" aria-labelledby="calibrant-title">
+  <title id="calibrant-title">Calibrant</title>
+  <g id="artwork" transform="translate(48 48) scale(1.1049723757) translate(-48.0000000000 -48.0000000000)">
+    <g color="#CF8A2E" transform="scale(2)">
+      <path d="M33.00,24.00 L28.50,16.21 L19.50,16.21 L15.00,24.00 L19.50,31.79 L28.50,31.79 Z" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round" data-om-id="006e6165:184" />
+      <path d="M24,8 L24,12 M24,36 L24,40 M7,24 L11,24 M37,24 L41,24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" data-om-id="006e6165:185" />
+      <circle cx="24" cy="24" r="2.8" fill="currentColor" data-om-id="006e6165:186" />
+    </g>
+  </g>
+</svg>
