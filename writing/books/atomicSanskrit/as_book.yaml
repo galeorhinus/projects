@@ -10,12 +10,13 @@
 title: Atomic Sanskrit
 subtitle: "The Architecture of Sanātan"
 # Four-property strapline, set below the subtitle on the title page and the
-# HTML contents page. Like `series` above, the LaTeX title page repeats this
-# string inside header-includes; keep the two in step when editing.
+# HTML contents page. Read by build_html.py and by build_book.py's
+# render_title_page_preamble(); see the title-page note below.
 tagline: "Distributed. Radiant. Calibrant. Fractal"
-series: "Volume 1 of *Second Shanti*"   # Rendered onto the title page via header-includes below.
+series: "Volume 1 of *Second Shanti*"   # Prose form. The title page sets its own
+                                        # display form; see the note below.
 author: Parag Tope
-date: "PRE-PUBLICATION REVIEW COPY — September 2026"
+date: "PRE-PUBLICATION REVIEW COPY — October 2026"
 lang: en-US
 
 # --- Typography ---
@@ -44,26 +45,16 @@ linkcolor: NavyBlue
 urlcolor: NavyBlue
 
 # --- Title-page customization ---
-# Inject a series line ABOVE the title block on the title page. We redefine
-# the book class's \maketitle directly (no extra packages needed — titling
-# would be cleaner but isn't in the basictex/macOS-default distribution).
-# The series text is hardcoded here for now — if the series scheme grows
-# (Vol 2, Vol 3, ...), revise both the `series:` field above and the
-# \maketitle definition below in lockstep.
-header-includes:
-  - |
-    ```{=latex}
-    \makeatletter
-    \AtBeginDocument{%
-      \pretocmd{\@title}%
-        {{\normalsize\scshape Second Shanti $\cdot$ Volume 1\par}\vspace{1.5em}}%
-        {}{}%
-      \apptocmd{\@title}%
-        {\vspace{0.9em}{\normalsize\scshape Distributed $\cdot$ Radiant $\cdot$ Calibrant $\cdot$ Fractal\par}}%
-        {}{}%
-    }
-    \makeatother
-    ```
+# The series line and the four-property tagline are set on the title page by
+# build_book.py's render_title_page_preamble(), which writes build/title-page.tex
+# and passes it with --include-in-header.
+#
+# They CANNOT live in a `header-includes` key here. pandoc's -H flag populates
+# the same `header-includes` template variable, and a command-line variable
+# overrides the metadata field outright, so a block written here is silently
+# dropped by every build that passes -H -- which is all of them. A
+# `header-includes` block did sit here and never once reached a title page.
+# The tagline wording below is read from the `tagline` key by that function.
 
 # --- Document assembly ---
 # The book's reading order. Used by build_book.py to assemble the manuscript.

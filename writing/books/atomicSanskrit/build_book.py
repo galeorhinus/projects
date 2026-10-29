@@ -1635,6 +1635,49 @@ def _backmatter_size_tex(appendix_fontsize: str | None,
     return "\n".join(lines)
 
 
+# Title-page series line and four-property tagline.
+#
+# These MUST be delivered through --include-in-header, never through
+# as_book.yaml's `header-includes`. pandoc's -H flag populates the same
+# `header-includes` template variable, and a command-line variable overrides
+# the metadata field outright, so anything written in the yaml is silently
+# discarded by every build that passes -H -- which is all of them. The series
+# line sat in as_book.yaml from the start and therefore never once reached a
+# title page; the tagline added on 2026-09-27 inherited the same fate. Found
+# 2026-10-29 by rendering the title page and reading it.
+_TITLE_PAGE_TEX = r"""
+\makeatletter
+\AtBeginDocument{%
+  \pretocmd{\@title}%
+    {{\normalsize\scshape __SERIES_LINE__\par}\vspace{1.5em}}%
+    {}{}%
+  \apptocmd{\@title}%
+    {\vspace{0.9em}{\normalsize\scshape __TAGLINE__\par}}%
+    {}{}%
+}
+\makeatother
+"""
+
+# Display form of the series line. as_book.yaml's `series` field reads
+# "Volume 1 of *Second Shanti*", the prose form used elsewhere; the title page
+# sets the same fact the other way round.
+_TITLE_PAGE_SERIES_LINE = r"Second Shanti $\cdot$ Volume 1"
+
+
+def render_title_page_preamble(metadata_file: Path) -> Path:
+    """Write the title-page series line and tagline as an -H include.
+
+    The tagline wording comes from as_book.yaml's `tagline` key, so the
+    metadata file stays the single source of truth even though the LaTeX
+    cannot live there. See _TITLE_PAGE_TEX for why."""
+    tagline = read_yaml_value_opt(metadata_file, "tagline")
+    text = _TITLE_PAGE_TEX.replace("__SERIES_LINE__", _TITLE_PAGE_SERIES_LINE)
+    text = text.replace("__TAGLINE__", tagline)
+    out = BUILD_DIR / "title-page.tex"
+    out.write_text(text)
+    return out
+
+
 def render_devanagari_preamble(
     metadata_file: Path,
     chapter_folio: bool = True,
@@ -2437,6 +2480,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         "-V", f"geometry:{geometry}",
         "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),
+        "-H", str(render_title_page_preamble(METADATA_FILE)),
     ]
     if layout == "review-a4":
         cmd += ["-H", str(BOOK_DIR / "templates" / "review-packet-preamble.tex")]
