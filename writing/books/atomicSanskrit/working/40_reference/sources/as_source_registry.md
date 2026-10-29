@@ -31,6 +31,19 @@ do not silently omit the gap.
 
 ## Registered Sources
 
+### `dalrymple-golden-road-authorized-preview`
+
+- **Citation:** William Dalrymple, *The Golden Road: How Ancient India Transformed the World* (Bloomsbury, first published 2024; authorized preview of the 2025 edition), ePDF ISBN 9781526686619.
+- **Source type:** Publisher-distributed book preview; primary evidence for the author's statements.
+- **Canonical locator:** Printed pp. 3–4 (period, Sanskrit's earlier sacred use, Greece/India comparison); pp. 26–29 (Vedic practice and Buddhism); pp. 33–34 (Pyrrho). Add 15 to printed page numbers for one-based PDF navigation.
+- **Digital URL:** https://api.pageplace.de/preview/DT0400.9781526686619_A49738530/preview-9781526686619_A49738530.pdf
+- **Archived URL:** No separate web archive recorded; local publisher preview retained below.
+- **Accessed:** Initial research 2026-09-21; publisher URL checked 2026-09-29; cited passages rechecked against the stored preview 2026-09-29.
+- **Local record:** `outreach/strategy/dalrymple_sources/golden_road_authorized_preview.pdf`; research trail in `outreach/strategy/dalrymple_source_audit_codex.md` and `outreach/articles/muller_macdonell_dalrymple_heroic_erasure.md`.
+- **Integrity:** SHA-256 `33903b1a7148d145e51e0f7fe6c65724e6683c4a7777d24098aab4b3eb0e4b70`.
+- **Rights/storage:** Copyrighted publisher-authorized preview retained for research; not a complete book or an independently acquired unauthorized copy.
+- **Notes:** Supports the statements attributed in `dalrymple-praise-chronology-progress`. The critique of the selected chronology and progress narrative is Tope's interpretation. “Greek miracle” is not attributed as Dalrymple's wording. The preview acknowledges Indian influence on Pyrrho and earlier Vedic history. Its limited coverage does not establish an exhaustive absence claim about the full book. The 2017 post and ancestry-related arguments are outside this note's scope.
+
 ### `vedabase-bhagavata-10-16`
 
 - **Citation:** *Śrīmad Bhāgavata Purāṇa*, Skandha 10, chapters 16-17 and 26.12, Sanskrit text with English translation, Vedabase.

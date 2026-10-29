@@ -942,6 +942,28 @@ Sources: Government of India, Vedic Heritage Portal, [“Aitareya Āraṇyaka”
 
 ---
 
+### `dalrymple-praise-chronology-progress`
+
+<!-- SOURCE-RECORDS
+- dalrymple-golden-road-authorized-preview | printed pp. 3–4, 26–29, and 33–34
+-->
+
+**Short:** William Dalrymple, *The Golden Road: How Ancient India Transformed the World*, pp. 3–4, 26–29, and 33–34. His main diffusion narrative covers 250 BCE–1200 CE. The full note examines how praise of that period leaves earlier Indian radiance outside the comparison and how his Vedic-to-Buddhist account repeats the progress narrative.
+
+**Deployments:** Chapter 3 §3.4, the paragraph beginning “The pyramid can praise India.”
+
+William Dalrymple's *The Golden Road* provides a contemporary example. On printed p. 3, he identifies approximately 250 BCE–1200 CE as the period of India's great outward cultural diffusion. On p. 4, he begins a comparison with “What Greece was first to Rome” and presents India's influence across Asia as its counterpart. He also describes Indian knowledge reaching Europe through the Arab world. These are the author's stated period and comparisons, not an admission of the motive this book criticizes.
+
+The criticism concerns what that framing leaves undisturbed. The title promises ancient India, while the main diffusion narrative begins after Buddha and after the formative Greek achievements conventionally celebrated as the “Greek miracle.” That phrase is this book's critical category, not a quotation attributed to Dalrymple. India can receive lavish praise within this arrangement without the reader having to reconsider the earlier Indian influence argued in Chapters 19–20. The pyramid's chronology can survive its praise.
+
+Dalrymple's Vedic-to-Buddhist account repeats another part of the progress narrative. On p. 26, he connects Vedic fire sacrifice with a “nomadic and tribal society,” then describes costly ceremonies and dissatisfaction with blood sacrifice. On pp. 28–29, Buddhism offers an alternative without ritual sacrifice or priestly mediation. My objection is that this makes Vedic inheritance the order from which ethical seekers move away, rather than examining the seeker culture within which questioning and disagreement could flourish.
+
+Dalrymple does acknowledge Indian influence on Pyrrho, whom he places in India with Alexander in the 330s BCE (pp. 33–34). He also recognizes Sanskrit's earlier sacred use (p. 3). His main narrative's starting date is therefore not the earliest Indian history he mentions. The Pyrrho encounter concerns Alexander's period; it does not answer this book's argument about Indian radiance before the fifth century BCE. That positive argument belongs to the Radiance Thesis in Chapter 19 §19.7 and Chapter 20.
+
+Source: William Dalrymple, [*The Golden Road: How Ancient India Transformed the World*](https://api.pageplace.de/preview/DT0400.9781526686619_A49738530/preview-9781526686619_A49738530.pdf) (Bloomsbury, first published 2024; authorized preview of the 2025 edition, ePDF ISBN 9781526686619), printed pages cited above.
+
+---
+
 ### `ramayana-homer-chronology-capture`
 
 <!-- SOURCE-RECORDS
