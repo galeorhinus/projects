@@ -1,0 +1,193 @@
+COMPLETE FRIENDS' TALK: REVISED 20 OCTOBER 2026
+
+DELIVERABLE
+output/presentations/atomic_sanskrit_friends_talk.pptx
+48 slides: 37 main slides, followed by 11 backup slides for questions.
+Main presentation ends at slide 37. The backup is not part of the 44:00
+speaking estimate. No PDF, upload, commit, push, or publication performed.
+Earlier pilots and the separate first-ten-slide PPTX remain unchanged.
+
+MAIN SLIDE INDEX AND ESTIMATED TIMING
+01-02  Title; Operation Red Lotus; three freedoms; Swarajya     1:30
+03     Three Shantis and the second domain                     1:45
+04     Pyramidal constraint                                   1:30
+05     Inside-out restraint                                   1:45
+06     Loss, first principles, surviving Sanskrit              1:00
+07     Mother's correction                                    1:15
+08     Sanskrit, institutions, PIE, and Esperanto               1:30
+09-10  Mouth, hotzones, sound map, comparison method            1:45
+11     Tamil/Toda/Kurukh and Korku/Mundari/Ho                    3:15
+12-13  External surveys, then summary                          2:00
+14     Full Tamil, Kannada, Sanskrit hunger expressions         1:30
+15-16  Repetition; who and who / who all                        1:30
+17     Repetition built into six grammatical families           1:00
+18-20  Script question; abugida; sonomer/audiograph              1:30
+21     Varnamala garland, consonant grid, and two vacancies      1:45
+22     Atoms, word families, and scale                          1:45
+23     Sutra qualities at two scales                           1:30
+24     Om                                                      1:00
+25     Generative capacity                                     1:45
+26     Return to the two enemies                               0:30
+27     Two complementary domains                               1:30
+28     Distributed preservation and active listeners            1:45
+29     Complementary checks                                    1:45
+30     Writing and custody                                     1:30
+31     PIE and the original birth-family tree                   1:00
+32     Sanskrit radiance: birth and standing trees              0:45
+33     Two atoms; 211 linked English headwords                  1:00
+34     Radiance through teaching: Tibet                        1:15
+35-36  Recursion; recurring principles in civilizational order   1:30
+37     Four conclusions; Swarajya; closing question              1:00
+TOTAL                                                         44:00
+
+These are speaking allocations, not measured rehearsal results. Zooming into
+the original figures takes time. Do not read the full source/qualification
+notes aloud. Keep audience discussion separate; do not compensate for a long
+rehearsal by accelerating speech. The opening and detailed survey explanation
+are particularly important to rehearse.
+
+BACKUP SLIDE INDEX
+38     B1: Sound-matching and union-of-three counting rules.
+39-42  B2: Four original surveys individually enlarged.
+43     B3: Whole-word repetition versus repetition within a verb.
+44     B3: Action-centered constructions and earlier actions.
+45     B4: The generation ledger, with inflection kept separate.
+46     B5: रुद्रैः / रुद्रेभिः and the original metrical comparison.
+47     B6: Panini within the analytical tradition.
+48     B7: Chapter/section reading index and research sources in notes.
+
+20 OCTOBER REVISION
+- Combined slide 21 replaces the earlier separate sound-grid and vacancy
+  slides. It shows the book's original वर्णमाला garland (Figure 9.2) on the
+  left and Figure 9.6 in the center, both intact. Figures 9.4 and 9.5 are removed
+  from the presentation, not the manuscript. No new alphabet chart is created.
+- Demonstrate क ख ग घ ङ, the repeating mouth settings, then the two gaps.
+- The two figures are now closer together without reducing their displayed
+  size (475px high). A right-hand column restores the explanatory text,
+  and the closing line about independent reuse appears below the figures.
+- The slide connects gap 1 with the four vowel-consonant pairs and gap 2 with
+  उपध्मानीय at a सन्धि junction before प / फ.
+- Notes distinguish the book's grid model from an inventory of every possible
+  sound, and a restricted articulation from an independently reusable sonomer.
+  The explanation follows Chapter 9.10; the vacancies alone are not presented
+  as independent proof of deliberate engineering.
+- The garland includes vowels and Om, while the grid isolates consonants;
+  the notes explicitly distinguish their scope. The garland is the author's
+  modern visual rendering, not an ancient illustration or literal school row.
+- Current indices appear above; subsequent slides return to their 19 October
+  numbering after this consolidation.
+
+19 OCTOBER REVISION
+- Personal freedom now includes seeking and practice, not worship.
+- Slide 7 displays the complete Gita 1.2 verse above the seven/eight-syllable
+  comparison. Counts still apply to the complete final quarter including राजा.
+- Slide 14 supplies full hunger expressions and literal translations. Tamil
+  and Kannada use "to me"; Sanskrit मम बुभुक्षा अस्ति uses "my desire to eat
+  exists." The notes explicitly distinguish genitive from dative and identify
+  this Sanskrit sentence as an illustrative expansion, not a Vedic quotation.
+- Slide 15 displays பளபள alongside पळ-पळ; डोडो-डोडो remains visible.
+- New slide 17 shows आम्रेडित, जुहोत्यादि, लिट्, सन्, यङ् / यङ्लुक्,
+  and चङ् लुङ्, with a Vedic example for every family. Derived nouns appear
+  below. This is the major-family summary, not an exhaustive list of lexical
+  repetitions, exceptional stems, or every later grammatical rule.
+- Sonomer is explicitly a reusable timed sound-particle.
+- Slide 22 contrasts a few illustrated words with thousands already existing
+  across Sanskrit word families and millions possible through the full system.
+  No unsupported hundreds-of-thousands count is assigned to कृ alone.
+- Book conclusions now appear explicitly after the sound survey, on the
+  two-domain slide, on the inside-out-order slide, and under all four closing
+  icons. They no longer depend entirely on the speaker's notes.
+- Original book figures remain intact and available for zooming.
+- Slides 15, 17 and 43 show the base beside the repeated form. दिवे is a formed
+  word; the remaining table bases are roots. Teaching hyphens expose the
+  repeated portions without claiming complete grammatical derivations.
+- Slides 31-33 explain PIE, contrast the original birth-family tree with the
+  book's Sanskrit-radiance figures, and make the English-family scale visible.
+  These trees are now in Chapter 19, not Chapter 18. All three are original
+  artwork, unmodified. Familiar examples include gene, generation, nation,
+  nature, kin, king, stand, station, constant, resist, and system.
+- American Heritage's corresponding root entries link 85 and 126 distinct
+  lower-case English headwords, 211 combined. That is a family-size count,
+  not a count of independently verified direct Sanskrit loans. The dictionary
+  interprets the connections through PIE; the Sanskrit-source interpretation
+  is explicitly presented as the book's argument.
+
+CONTENT AND VISUAL CHOICES
+- Slides 2 and 7 now differ from the earlier standalone first-ten delivery.
+  That older file is retained unchanged; use the complete deck for this revision.
+- No IAST in native text or notes. Devanagari and familiar Roman spellings;
+  Tamil and Kannada examples retain their scripts, using Tiro Tamil/Kannada.
+- Existing IAST inside unmodified book/guide artwork remains, as approved.
+- Evidence before totals: complete Indian and external grids precede slide 13.
+- All book and guide figures are intact. No source data, labels, orientations,
+  SVG files, or hex proportions changed. Twenty-eight high-resolution figure
+  placements are embedded at 4,800px width, including backup reuse.
+- The original six-route radiance figure is shown in full, but the main notes
+  direct the presenter to explain only the Tibetan panel. The other routes
+  remain available for questions rather than receiving equal evidential status.
+- Small original figure labels require manual zoom. No automatic zoom or
+  reveal animations added. Native text and simple diagrams remain editable.
+- The private final-volume cells/greater-being model is not disclosed.
+- The script-category discussion follows the approved plan: it critiques what
+  the classification fails to explain without asserting that Ethiopic and Indic
+  scripts share no features or that no alternative category name exists.
+
+SOURCES
+Speaker notes contain all 48 slide explanations and sources. Later slides also
+carry the relevant approved outline passage for context. The manuscript,
+reference notes, current figure assets, language survey, and research count
+records were used. Generation totals checked against
+analysis/generativity/results/generativity_manuscript_proposal.md.
+New source checks for this revision:
+- American Heritage Dictionary, Indo-European Roots overview, birth and
+  standing entries, accessed 19 October 2026:
+  https://www.ahdictionary.com/word/indoeurop.html
+  Reproduction: python3 outreach/presentations/check_english_family_counts.py
+  PATH_TO_SAVED_HTML. Count excludes combining forms and capitalized labels,
+  deduplicates repeated links and punctuation, and adds no inflections.
+  Some etymologies are qualified; the count does not validate source direction.
+- University of Texas Vedic Online, lessons 3, 7, 8, for the intensive,
+  desiderative, and reduplicated aorist examples:
+  https://lrc.la.utexas.edu/eieol/vedol/30
+  https://lrc.la.utexas.edu/eieol/vedol/70
+  https://lrc.la.utexas.edu/eieol/vedol/80
+- Whitney, Sanskrit Grammar, chapter XIV, sections 1037-1038, on derivatives:
+  https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)/Chapter_XIV
+- A Manual of Modern Kannada, grammatical reference for dative/existential
+  constructions, not an exact quotation of the slide's sentence:
+  https://d-nb.info/1223487857/34
+- Sanskrit Vyavahara Sahasri, p. 30, बुभुक्षा भवति:
+  https://sanskritdocuments.org/doc_z_misc_major_works/daily.pdf
+- Kashika/Nyasa at 7.4.34, बुभुक्षा = भोक्तुमिच्छा:
+  https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.4.34.htm
+Other source URLs carried forward. No manuscript content changed in this pass.
+Opening source check is recorded in atomic_sanskrit_friends_talk_first_10_record.txt.
+
+VERIFICATION
+- Rendered all 48 slides; visually inspected combined slide 21 at full size.
+  The remaining slides match the previously reviewed 48-slide deck, apart
+  from the negligible raster variation on slide 11 recorded below.
+  Both original figures and the grid's numbered gaps are intact.
+- Corrected overlapping Tamil/Kannada phrase and reading-aid frames.
+- Used Tiro Kannada after the first Kannada font rendered too thinly.
+- No native text-frame overlaps or out-of-bounds native frames.
+- All native titles and footers remain on one line.
+- Minimum native font: 22px / 16.5pt; slide headings: 48px / 36pt.
+- Verified 48 slide XMLs, 48 speaker-note XMLs, valid ZIP CRC, and no IAST
+  characters in native slide text or speaker-note text.
+- Reimported and rendered the final exported PPTX: 47 of 48 slides are
+  pixel-identical to the authoring previews. Slide 11 has negligible raster
+  variation (mean channel difference 0.00297 / 255); its reimported image was
+  inspected and retains the full grids, markers, labels, and layout.
+- PowerPoint and Google Slides application rendering, font substitutions,
+  and manual zoom have not been tested. Artifact-tool round-trip is the
+  completed export check, not a claim of application-level compatibility QA.
+
+BUILD REFERENCE
+External scratch folder:
+/var/folders/t4/4c1q4j_56b322n_9pm088txh0000gn/T/codex-presentations/atomic-sanskrit-friends-pilot/tmp
+Entry: build_opening.mjs --full
+Remaining-slides module: full_talk_slides.mjs
+Use the modern Codex Node runtime, not system Node.
+Scratch outputs: full-talk/preview, layout, roundtrip-three-columns, slide-manifest.json.
+The same entry without --full still builds only the separate first ten slides.

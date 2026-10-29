@@ -1,0 +1,88 @@
+FRIENDS' TALK: REVISED TWELVE-SLIDE PILOT
+15 October 2026
+
+DELIVERABLE
+output/presentations/atomic_sanskrit_friends_talk_pilot.pptx
+Widescreen 16:9; twelve slides; twelve speaker-note sections including sources.
+This is a visual/content pilot, not the full talk or a native Google Slides deck.
+
+PASS 1
+The initial outline allocated 40:00 to 26 main slides, including 05A for history.
+Slide 01 is 1:00 rather than 1:15; Slide 25 is 1:00 rather than 1:15.
+No arguments were removed to make this timing change. Audience questions remain
+outside the 40-minute target. Existing outline identifiers remain stable.
+The expanded evidence and script sequences require more physical slides.
+The full deck's timing must be rehearsed again; 40 minutes remains the target.
+
+PILOT / FULL TALK
+1 / 02: Three shantis and their three domains.
+2 / 05A: Sanskrit study, educational institutions, and language construction.
+3 / 06: Comparison method and Figure 8.1's 23-cell base, with faded exclusions.
+4 / 07: Figure 8.2 upper three rows; marker key and place abbreviations explained.
+5 / 07: Figure 8.2 lower four rows; the unfilled position and 22/23 result.
+6 / 09: Figure 8.5 stop/nasal excerpt; retroflex gaps and the full-survey score.
+7 / 09: Four-set sound-survey summary, now after the worked analysis.
+8 / 12: What do the named Indian, Tibetan and Thai scripts have in common?
+9 / 12: The vowel demonstration, abugida naming, and the architectural question.
+10 / 12: "So I created a name: audiograph"; sonomer and audiograph demonstrated.
+11 / 19: One architecture, two complementary domains.
+12 / 17: 2,168 atoms, 2,634 meanings, 12,846,458 modeled word-meanings.
+Pilot order is for reviewing treatments. In the full talk generativity precedes
+the two-domain explanation.
+
+ASSET USE
+Reused the guide's home_coverage.svg and the final ic-calibrant.svg as embedded
+high-resolution images. Added crops from the editable SVG sources for Figures
+8.1, 8.2 and 8.5. Viewport changes only: no cells, markers or scores were changed.
+All seven rows of Figure 8.2 are shown across two slides. Figure 8.5 is explicitly
+labelled an excerpt; its 15/23 score comes from the full survey.
+The other slide text and diagrams are editable objects.
+The two-domain diagram is a simplified adaptation of book Figure 16.1.
+No canonical book or guide SVG was changed. No manuscript edits were made.
+No PDF, full deck, commit, push, or publication was produced.
+
+CHECKS
+Rendered all twelve slides and inspected their layout and Devanagari.
+Added the method and worked evidence before the summary. No IAST remains in
+displayed native text or speaker notes; figure crops exclude IAST-bearing titles.
+All native text frames are in bounds and do not overlap one another.
+All titles remain on one line. Native text is at least 22px / 16.5pt.
+Slide titles are 48px / 36pt. Survey image labels were checked visually.
+Verified twelve slide parts and twelve note parts in the exported package.
+Scanned all slide and note text: no IAST characters found.
+Reimported and rendered the revised PPTX: all twelve slides are pixel-identical
+to the authoring previews in the artifact-tool renderer (roundtrip-v2/).
+PowerPoint itself and Google Slides import have not been tested.
+
+WORDING DECISIONS
+Preserve the question-led challenge and the author's coined terminology.
+Do not claim Ethiopic and Indic scripts share nothing: consonant-plus-vowel
+structure explains the existing classification. Do not claim that no other name
+exists; alphasyllabary is established. Omit the unsupported two-billion-writers
+estimate. The critique concerns what classification fails to explain about the
+sound architecture, not whether the classification has a technical meaning.
+Verified primary source: Peter T. Daniels, Writing in the World and Linguistics,
+BLS 36, printed p. 79. Downloaded proceedings and extracted text retained in
+scratch assets/. The source URL is included in the script slides' notes.
+
+FONTS
+STIX Two Text; Tiro Devanagari Hindi; Arial for dates/numbers where specified.
+Check font substitutions when importing into Google Slides or opening on another
+machine. The survey image and calibrant icon do not depend on recipient fonts.
+
+REPRODUCTION
+Authoring used @oai/artifact-tool and canonical SVG assets.
+The retained scratch workspace is:
+/var/folders/t4/4c1q4j_56b322n_9pm088txh0000gn/T/codex-presentations/atomic-sanskrit-friends-pilot/tmp
+Builder: build_pilot.mjs
+Presentation model: presentation.json
+QA: native-text-frames.json, qa.txt, layout/, preview/, roundtrip/
+Runtime:
+/Users/paragtope/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node
+
+NEXT
+Review the expanded evidence sequence and question-led script explanation.
+The full deck must also demonstrate Figure 8.3 and the European comparison;
+their scores alone must not stand in for those analyses.
+Apply the selected treatment to the full deck, then add reveal sequences,
+backup figures, and a full rendering/timing pass.

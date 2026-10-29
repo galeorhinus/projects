@@ -1,0 +1,887 @@
+ATOMIC SANSKRIT: THE ARCHITECTURE OF SANĀTAN
+Distributed · Radiant · Calibrant · Fractal
+
+Friends' presentation: slide-by-slide outline
+Prepared 4 October 2026; updated 20 October 2026.
+Status: complete deck revised on 20 October: 37 main slides
+and 11 backup slides in output/presentations/atomic_sanskrit_friends_talk.pptx.
+See atomic_sanskrit_friends_talk_full_record.txt for the physical-slide index,
+timing allocations, source checks, and export verification. The revised opening
+follows AS-friends-presentation-intro.md. Its separate first-ten-slide delivery
+and the two earlier pilots remain unchanged.
+The original 40-minute schedule below is historical. The grammar summary and
+PIE/English-family sequence, plus the complete grid, bring the speaking allocation
+to 44:00 after combining the garland and grid. Rehearse
+before trimming; the allocation is not a measured running time.
+Sections 06-09 and 12 now need successive views; their physical slide count
+will increase without adding new argument topics. Rehearse before locking times.
+
+PURPOSE AND AUDIENCE
+
+A 40-minute introduction for interested friends, with no Sanskrit or engineering
+knowledge assumed. Allow a separate 10-15 minutes for discussion if the host can.
+The presentation begins and ends with civilizational order. Sanskrit provides
+the system through which the book examines that order; this is not primarily
+a lesson in grammar or a chronological summary of all twenty-one chapters.
+
+Opening promise: "You do not need to know Sanskrit. I want to show you why its
+construction and preservation changed how I understood Sanatan."
+
+OPENING ARGUMENT: FROM FREEDOM TO THE ARCHITECTURE OF SANATAN
+
+Follow the author's introduction in AS-friends-presentation-intro.md:
+Operation Red Lotus and three freedoms -> what is Swarajya for? -> Second
+Shanti and the three domains -> constraint versus restraint -> what was lost,
+what survived, and why first principles -> Sanskrit as the surviving system.
+
+The audience should understand why this is a book about civilizational order
+before encountering the sound surveys. The surveys then explain the Indian
+resources from which the book argues Sanskrit was engineered. They are not
+a separate introductory talk about pronunciation.
+
+Keep three distinctions clear in the spoken explanation:
+- The three freedoms of Operation Red Lotus are political, economic, and
+  personal. They are not the three domains addressed by the Shantis.
+- Much of the social and political order was destroyed; not every practice
+  disappeared. Stories, recitations, and other traditions still carry knowledge.
+- "Preserved exactly" refers to the language architecture and its protected
+  reference, not a claim that every manuscript, lineage, or Sanskrit utterance
+  escaped loss or error. Explain what survived and later show how it is checked.
+
+The Maratha-Mughal alliance, Azamgarh proclamation, and partial-victory reading
+belong to the author's account in Operation Red Lotus. Before slide production,
+attach its exact passages and proclamation locator to the speaking notes.
+The present manuscript preface supports the three-freedoms and personal-freedom
+connection; this planning pass does not independently verify the other details.
+Explain "India remained a Hindu nation" as civilizational continuity despite
+British political rule, not as a claim that 1857 established a Hindu state.
+
+Use simple vocabulary without softening the book's challenge to the pyramid.
+Keep the personal story as well as the confrontation. Explain specialist words
+through an example before introducing the name. Devanagari comes first for
+Sanskrit examples; use ordinary Roman spellings such as Shanti when helpful,
+and add English meanings. No IAST on slides or in speaker notes. Apply this
+rule to figure extracts too. Canonical book figures must remain untouched.
+
+18 OCTOBER: ORIGINAL-FIGURE TRIAL
+Use the complete book illustrations and let the presenter zoom to details.
+Begin the sound section with Figure 7.1, The Speaking Apparatus; Figure 7.2,
+Language Hotzones Along the Vocal Tract; and Figure 7.3, The Sanskrit Sound Map.
+Then show Figure 8.1 and the complete four survey figures before the totals.
+Group Figures 7.1-7.3 on one widescreen slide. Pair the two Indian surveys on
+the next comparison slide and the two external surveys on another. Keep
+Figure 8.1 beside a short explanation of the matching rule. All images remain
+complete and separately selectable for zooming.
+The original-figure version retains any IAST already inside the book artwork;
+new presentation text and notes still use Devanagari or ordinary Roman spelling.
+Keep the previous cropped pilot available for comparison. All original artwork
+must remain unchanged. High-resolution images support manual zoom; do not claim
+automatic zoom/reveal animations or tested Google Slides behaviour.
+
+FEEDBACK RULE: Show evidence before totals. Section 09's four-bar summary must
+follow the actual book grids, an explanation of the matching rule, a worked
+cell, and the language-marker key. Do not replace the analysis with a score.
+Use successive enlarged crops where a book figure is too tall for a slide.
+
+All paths below are relative to the Atomic Sanskrit repository. Sources identify
+the manuscript basis, not an independent verification of every historical claim.
+Presenter notes should distinguish an observed pattern from the book's inference
+about engineering, origins, or civilization. Those distinctions belong in clear
+explanations, not defensive paragraphs filling the slides.
+
+RUN OF SHOW
+
+01-02  From three freedoms to Second Shanti   3:15
+03-05  Two orders, loss, and a surviving system 5:30
+05A    Sanskrit, institutions, and philology  1:30
+06-09  Sanskrit's subcontinental home         7:00
+10-11  The subcontinental mind                3:00
+12-19  An engineered language system         11:00
+20-22  How the system endures                 5:00
+23-25  From language to civilization          3:45
+TOTAL                                       40:00
+
+The times include short audience demonstrations and transitions, but not an
+extended question period. There are 27 narrative sections including 04A and
+05A, not 27 fixed physical slides. Grouped figures and successive views determine
+the final slide count. Existing identifiers remain stable for the figure map.
+The opening gains one minute; Section 18 becomes a 30-second return to the two
+enemies already explained in 04A. Rehearse the complete figure sequence before
+claiming that the full talk fits 40 minutes. Do not fit it by speaking faster.
+
+SLIDE 01 | What Had Our Ancestors Fought to Protect?
+Time: 1:30 | Elapsed: 0:00-1:30
+
+On screen: book title, subtitle, four icons, author name. Then reveal:
+Political freedom. Economic freedom. Personal freedom.
+End this view with: "What is freedom for? What would स्वराज्य mean?"
+Say: "Operation Red Lotus examined the struggle for three kinds of freedom:
+political, economic, and personal. I described a Maratha-Mughal alliance and
+read the Azamgarh proclamation as a demand for these freedoms. In my account,
+1857 achieved a partial victory. British political and economic rule continued,
+but Hindu society retained enough personal freedom to worship, teach, and pass
+on its inheritance. India could remain a Hindu civilization under foreign rule.
+
+"That left me with another question. What had our ancestors wanted freedom
+for? Would Swarajya mean Indians occupying the same positions of authority,
+or a fundamentally different relationship between government and society?
+That question led me to Second Shanti."
+Visual: established book identity and final four icons, not a new brand system.
+Assets: figures/_shared/icons/ic-distributed.svg;
+figures/_shared/icons/ic-radiant.svg; figures/_shared/icons/ic-calibrant.svg;
+figures/_shared/icons/ic-fractal.svg
+Source: AS-friends-presentation-intro.md; manuscript/as_0_01_preface.md, opening;
+outreach/atomic_sanskrit_penguin_proposal.md, "What Kind of Order Does Freedom Protect?"
+Source follow-up: exact Operation Red Lotus and Azamgarh locators, as noted above.
+Transition: "Why Second Shanti? Think about something many of us already say."
+
+SLIDE 02 | Why Do We Say शान्तिः Three Times?
+Time: 1:45 | Elapsed: 1:30-3:15
+
+On screen: शान्तिः शान्तिः शान्तिः; oneself; other living beings; the wider
+natural and cosmic order. Highlight the second domain.
+Say: "The three invocations are directed toward three distinct domains. The
+first concerns oneself. The second concerns our relationships with other living
+beings. The third concerns natural and cosmic conditions that affect life but
+are beyond our direct control.
+
+"Hindu society has kept alive ways of seeking quietude within oneself: yoga,
+meditation, and other practices. My inquiry concerns the second domain. How
+can living beings create order together? What should government protect, and
+what responsibilities should remain with society? All the books in Second
+Shanti will address that domain."
+Introduce the inside-out interpretation: the person, relationships among beings,
+and the wider order. Save the word fractal and its fuller explanation for later.
+Visual: three clearly named domains, using large editable labels or a simple
+new diagram. The existing inside_out.svg depicts two chains, not three domains;
+reserve it for Slide 24. No exact existing three-domain figure selected yet.
+Source: manuscript/as_0_01_preface.md, "Why Sanskrit Comes First".
+Note: Introduce the fractal reading as the author's interpretation. Do not disclose
+the private cells/greater-being speculation reserved for the final volume.
+Transition: "What kind of order do we usually imagine?"
+
+SLIDE 03 | The Pyramid Creates Order Through Constraint
+Time: 1:30 | Elapsed: 3:15-4:45
+
+On screen: commands from above; fear and punishment; constraint.
+Say: Institutions make rules and penalize disobedience. Voting and limits on
+government matter, but the book argues that they do not remove this basic
+top-down architecture. Most people seek cooperation; why organize everyone's
+life around those who will harm others? Retain the line: "The pyramid treats
+everyone as an exception waiting to happen."
+Visual: authority icon and the top-down half of the existing two-orders graphic.
+Assets: figures/_shared/icons/ic-authority.svg;
+booklet/readers_guide/figures/two_orders.svg
+Book-figure alternative: figures/fourth_abrahamic/pyramid_and_swastika.svg
+(Figure 4.3). Reveal its pyramid and distributed structure on Slides 03-04;
+keep the lower explanatory lists out of the opening view.
+Source: manuscript/as_0_01_preface.md, opening; Chapters 1-4.
+Transition: "Sanātan offers a different starting point: restraint."
+
+SLIDE 04 | Can Order Grow from the Inside Out?
+Time: 1:45 | Elapsed: 4:45-6:30
+
+On screen: विवेक (viveka), discernment; restraint; responsibility; correction.
+Say: People learn to judge conduct and correct themselves and one another.
+A shared reference is not someone's private command. Use दर्शन (darśana) as
+the familiar example: the seeker must consider the stories and choices the
+मूर्ति embodies. Government protects order without owning every obligation.
+Visual: the inside-out half of two_orders, presented as the continuation of
+Slide 03's comparison rather than an unrelated diagram.
+Asset: booklet/readers_guide/figures/two_orders.svg
+Source: manuscript/as_0_01_preface.md, temple example and two architectures.
+Note: This is the book's proposed architecture, not a claim that every historical
+Indian institution or present-day Indian relationship already exemplifies it.
+Transition: "If that is the alternative, why is it so difficult to see today?"
+
+SLIDE 04A | What Was Lost? What Can We Still Examine?
+Time: 1:00 | Elapsed: 6:30-7:30
+
+On screen, reveal in sequence:
+Entropy: knowledge fades or changes as people pass it on.
+Asuric attacks: people deliberately destroy, conceal, or take control of knowledge.
+Build from first principles. Examine what survived: Sanskrit.
+
+Say: "The book argues that much of this order in society and government has
+been destroyed. Two forces damage an inheritance. People forget, misunderstand,
+or gradually change what they were taught. I call that entropy. Others attack
+it deliberately: destroying its carriers, taking control of its institutions,
+or teaching people to misunderstand it. These are what I call asuric attacks.
+
+"Traditions can suffer from both. Some knowledge survives with extraordinary
+precision; other knowledge is damaged or lost. I do not want to assemble a
+polity from fragments and call it a recovered past. I want to build from first
+principles: what do living beings need, and how can they create order together?
+
+"Sanskrit gives us an existing system to examine. Atomic Sanskrit argues that
+its preserved architecture reveals more than how a language works. It reveals
+the architecture of Sanatan. That is why this series begins with Sanskrit."
+
+Visual: use large editable words and the existing authority/calibrant motifs.
+Do not add a ruin montage or a new historical chronology. The surviving system
+is the bridge to the personal example, not another abstract diagram to explain.
+Sources: AS-friends-presentation-intro.md; manuscript/as_0_01_preface.md;
+outreach/atomic_sanskrit_penguin_proposal.md, "Is This a Description of India
+Today or a Proposal for Its Future?"
+Note: Explain the first-principles method here, rather than saving it for the
+closing sentence. The later books develop the polity; this one examines the
+language system. Do not imply that a language alone proves a complete polity.
+Transition: "I first encountered its ability to correct an error at home."
+
+SLIDE 05 | My Mother Could Explain the Correction
+Time: 1:15 | Elapsed: 7:30-8:45
+
+On screen: वचनम्-ब्रवीत् → वचनमब्रवीत्; सात / आठ, with English 7 / 8 below.
+Say: Tell the childhood Gita story. The missing vowel changed the line's count.
+Restoring it satisfied both the joining of sounds and the verse's pattern.
+This was more than "copy my pronunciation": another trained listener could
+explain the same correction. The learner could acquire that ability too.
+Visual: a large, two-step text demonstration. Do not require the audience to
+read a full verse before hearing the difference.
+Source: manuscript/as_0_01_preface.md, childhood recitation.
+Note: This example introduces independently explainable checks. Do not claim
+that no other language permits correction or that meter alone fixes every sound.
+Transition: "That is a system we can examine. How has it usually been explained?"
+
+SLIDE 05A | Studying Sanskrit. Governing Its Future.
+Time: 1:30 | Elapsed: 8:45-10:15
+
+On screen: one historical chart, grouped into three tracks:
+Study Sanskrit: Jones 1784/1786; Bopp 1816.
+Control education: Pune 1821; Boden Chair 1832; Macaulay 1835; Calcutta 1857.
+Construct languages: Schleicher's PIE tree 1861; Esperanto 1887.
+Say: Sanskrit study coexisted with conversion mandates, educational attacks,
+and European claims to explain its ancestry. Explain PIE before the sound
+surveys. Esperanto is a parallel language-design project, not a demonstrated
+anti-Sanskrit mission. Say who did what; do not assign every institution the
+same purpose or turn historical proximity into proof of coordination.
+Visual: the editable three-track chart, with short labels and dates. Full
+sources, qualifications, and institutional distinctions belong in notes.
+Source: outreach/presentations/western_philology_sanskrit_timeline.md.
+Transition: "Let us now look at the sounds themselves."
+
+SLIDE 06 | Compare Sounds, Not Scripts
+Time: 1:45 | Elapsed: 10:15-12:00
+
+On screen: Where is the sound made? How is it made? A common grid of 23 sounds.
+Say: Demonstrate त / ट briefly. A script label or an English approximation does
+not tell us whether two sounds use the same place in the mouth. The book compares
+selected languages on one base grid, leaving ten heavy-breath stops aside for now.
+Visual: Figure 8.1, with one cell highlighted before showing the whole base.
+Asset: figures/superset/sanskrit_base_before_mahaprana.svg
+Source: manuscript/as_1_08_superset.md, §§8.1-8.2.
+Note: Each following score combines three languages. It is not the score of
+every language in the group. These are the book's selected comparison sets.
+Transition: "First, look within the subcontinent, outside the Indo-Aryan category."
+
+SLIDE 07 | Tamil, Toda, Kurukh: 22 of 23
+Time: 1:45 | Elapsed: 12:00-13:45
+
+On screen: Tamil + Toda + Kurukh; 22 / 23; combined coverage.
+Say: These languages, classified as Dravidian, jointly cover almost the entire
+comparison base. Name the uncovered cell, श, and explain that a nearby sound
+is not automatically an exact match under this grid's rules.
+Visual: Figure 8.2, enlarged to usable presentation size. Reveal the coverage
+first, then the one missing position. Do not miniaturize its annotations.
+Asset: figures/superset/sk_tamil_toda_kurukh.svg
+Source: manuscript/as_1_08_superset.md, Indian comparison sets.
+Note: Kurukh is not simply another southern location. Preserve the actual
+geography when speaking about north-south distribution.
+Transition: "Does the pattern stop with languages called Dravidian?"
+
+SLIDE 08 | Korku, Mundari, Ho: 20 of 23
+Time: 1:30 | Elapsed: 13:45-15:15
+
+On screen: Korku + Mundari + Ho; 20 / 23; combined coverage.
+Say: Languages of the central forest belt, classified in another family, cover
+twenty positions. Identify ण, ष, श as the missing positions. The relevant
+pattern crosses the families into which these Indian languages are classified.
+Visual: Figure 8.3 using the same scale and visual convention as Slide 07.
+Asset: figures/superset/sk_korku_mundari_ho.svg
+Source: manuscript/as_1_08_superset.md, central forest-belt comparison.
+Transition: "Now apply the same comparison outside India."
+
+SLIDE 09 | Where Is the Denser Sound Match?
+Time: 2:00 | Elapsed: 15:15-17:15
+
+On screen, reveal in order:
+Tamil / Toda / Kurukh                 22 / 23
+Korku / Mundari / Ho                  20 / 23
+English / French / Greek             16 / 23
+Tajik / Kazakh / Kyrgyz               15 / 23
+
+Say: Explain the two external comparisons, then state the book's challenge:
+why look outside India for Sanskrit's sound foundations when these Indian
+comparison sets provide the denser match? The book argues for engineering
+from the subcontinent's sound resources.
+Visual: large summary counts; show the two external grids successively through
+reveals or crops, not four tiny charts. Full grids remain in backup slides.
+Assets: figures/superset/sk_english_french_greek.svg;
+figures/superset/sk_tajik_kazakh_kyrgyz.svg
+Existing summary choices: extract the four relevant rows from Figure A.4.8,
+figures/superset/superset_coverage_cascade_pips.svg, or reuse
+booklet/readers_guide/figures/home_coverage.svg. Keep full grids in backup.
+Source: manuscript/as_1_08_superset.md, external comparisons and conclusion.
+Note: State the scope precisely: these samples, these 23 cells, this matching
+method. Current distributions alone do not date ancient innovations or establish
+the direction of transmission. The origin conclusion is the book's argument.
+Transition: "The connection is not only in the mouth. Look at how ideas are expressed."
+
+SLIDE 10 | A Familiar Way of Expressing Experience
+Time: 1:30 | Elapsed: 17:15-18:45
+
+On screen: Tamil எனக்கு பசி / एनक्कु पसि: "to me, hunger";
+Sanskrit मह्यम् (mahyam): "to me"; सम्प्रदान (sampradāna): the receiver.
+Say: Use the Tamil example and its translation. Explain that Sanskrit also
+gives the receiver a defined grammatical role. The chapter interprets these
+constructions alongside the Indic discipline of understanding the ego.
+Visual: two large language examples with their meanings; no chart of all
+कारकाः is needed. Tamil remains in its own script; Devanagari is a reading aid.
+Source: manuscript/as_1_17_retroflex.md, §17.3.
+Note: The Sanskrit example is a recipient expression, not an identical hunger
+construction. Grammatical patterns do not by themselves prove people's ethics
+or a unique civilizational psychology; explain the author's interpretation.
+Transition: "Other familiar habits also receive a precise place in Sanskrit."
+
+SLIDE 11 | Small-Small Things: An Indian Habit in English Too
+Time: 1:30 | Elapsed: 18:45-20:15
+
+On screen, use three successive reveals rather than one crowded table:
+1. Across Indian languages: Hindi छोटे-छोटे बच्चे, little children;
+   Tamil பளபள (paḷa-paḷa; पळ-पळ), sparkling;
+   Korku DoDo-DoDo (डोडो-डोडो), seeing-seeing.
+2. In Indian English: "small-small things"; "hot-hot coffee".
+3. In Sanskrit: गृहे-गृहे (gṛhe-gṛhe), in every house.
+
+Say: Begin with the familiar English phrases. These are recognizable Indian
+ways of speaking English, not random duplication. Then show the regional
+examples: repetition carries meaning across languages assigned to different
+families. It can distribute something across people or places, emphasize a
+quality, or express continuing activity. Return to Sanskrit's गृहे-गृहे and
+explain that Sanskrit gives repetition defined grammatical uses.
+
+Key line: "We carry this way of expressing meaning even when we speak English."
+
+Meaning notes: "Small-small things" can refer to a number of little things;
+it does not always mean "very small." "Hot-hot coffee" emphasizes heat.
+Context matters, and the regional examples do not all perform the same operation.
+Use "across Indian languages," not "every Indian language uses every pattern."
+Reduplication also occurs outside India; the book's argument concerns the
+regional cluster and Sanskrit's integration of it, not exclusive Indian ownership.
+
+Visual: large editable examples with language names and English meanings.
+Keep Tamil script alongside its Devanagari reading aid. Do not display the
+whole example bank below during the main 90-second explanation.
+
+Additional examples for speaker notes or a longer audience discussion:
+- Hindi घर-घर: in every house; धीरे-धीरे: slowly or gradually.
+- Marathi लहान-लहान गोष्टी: little things.
+- Sanskrit दिवे-दिवे: day by day; वने-वने: in every forest.
+- Hindi कौन-कौन आया था? (kaun-kaun āyā thā?)
+  Marathi कोण-कोण आले होते? (koṇ-koṇ āle hote?)
+  Indian English: "Who and who came?"
+  The repetition asks which people came, inviting their individual identities.
+  American English also uses "Who all came?", particularly in regional varieties.
+  Compare कौन-कौन / कोण-कोण → "Who and who?" with "Who all?": a similar
+  request for the people involved, expressed through repetition in the first
+  forms and through "all" in the American example. This is not an intensifier
+  like "very." Neither English expression is exclusive to one country.
+  Show these together if this example is
+  selected for the main slide; do not add them to an already full reveal.
+- Telugu పుస్తకం-గిస్తకం (पुस्तकम्-गिस्तकम्): books and related things.
+  Label this an echo formation, not exact repetition of the whole word.
+- Mundari: the chapter's source documents expressive repetition for sensation,
+  movement, and sound; use an exact sourced form before adding a displayed example.
+
+Sources: manuscript/as_1_17_retroflex.md, §17.2 and its endnotes;
+Braj B. Kachru, Asian Englishes: Beyond the Canon (2005), printed p. 49,
+"Reduplication" (Indian-English examples and functions), accessed 5 October 2026:
+https://vulms.vu.edu.pk/Courses/ENG506/Downloads/%28Asian%20Englishes%20today%29%20Braj%20B%20Kachru-Asian%20Englishes%20_%20beyond%20the%20canon-Hong%20Kong%20University%20Press%20%282005%29.pdf
+The Hindi and Marathi phrases are illustrative everyday examples, not quotations
+from Kachru. The regional source examples remain traceable through Chapter 17.
+American-English comparison: Yale Grammatical Diversity Project, "What all",
+https://ygdp.yale.edu/phenomena/what-all (accessed 5 October 2026). Its description
+includes who and other question words followed by all.
+
+19 October addition: after the comparisons, show a summary of whole-word
+repetition and the five main reduplicating verb formations. Display their
+Sanskrit names, plain-English functions, examples, and the conclusion that all
+six uses occur in the Vedas. Examples and locators:
+आम्रेडित: दिवे-दिवे, RV 1.1.7.
+जुहोत्यादि: ददाति, RV 10.107.7.
+लिट्: ददर्श, RV 1.164.4.
+सन्: दिदृक्षन्ते, RV 3.30.13 (separated form).
+यङ् / यङ्लुक्: जोहवीति, RV 3.33.5.
+चङ् लुङ्: अजीजनन्, RV 7.78.3.
+Show familiar derived nouns जिज्ञासा and शुश्रूषा as a further consequence,
+not a seventh independent operation. The table summarizes the major productive
+families, not every lexical repetition or all exceptions to later grammar.
+Sources: University of Texas Vedic Online lessons 3, 7, 8; Whitney sections
+1037-1038. Exact links and qualifications are in the slide's notes.
+
+Show the base beside each example: दिवे → दिवे-दिवे; दा → द-दाति;
+दृश् → द-दर्श; दृश् → दि-दृक्षन्ते; हू → जो-हवीति;
+जन् → अ-जी-जनन्. Also show ज्ञा → जिज्ञासा and श्रु → शुश्रूषा.
+दिवे is an already formed word, not a dhatu. The other five table bases are
+verbal roots. Hyphens are teaching separators, not ordinary spelling or
+complete derivations. In अ-जी-जनन्, अ is the augment and जी is the repeated
+element. Sound changes apply; reduplication is not exact copying of a printed
+root. The noun examples involve further derivational operations.
+
+Scope change: the former कृत्वा / प्रणम्य action-sequence explanation and the
+कर्मणि / भावे aside move to Backup B3. They are not removed from the talk's
+supporting material. No change to the manuscript is implied.
+Transition: "The book's claim is that these resources were systematically engineered."
+
+SLIDE 12 | Does “Abugida” Explain What You Are Looking At?
+Time: 1:30 | Elapsed: 20:15-21:45
+
+Use three successive slides/views, as in revised pilot slides 08-10:
+1. What do Devanagari, Tamil, Bengali, Tibetan and Thai scripts have in common?
+   People call them phonetic. But Roman, Cyrillic and Arabic scripts also
+   represent speech sounds. What is different about their sound assembly?
+2. Demonstrate क · का · कि · कु. Ask: guess what they are classified as?
+   Reveal Abugida, a category named with a word borrowed from Ethiopic.
+   Ask what that label explains about the Indian sound architecture.
+3. "So I created a name: audiograph." Demonstrate क् + अ → क.
+   वर्ण: sonomer, a reusable sound-particle. लिखित अक्षर: audiograph,
+   the visible rendering of a sounded unit. Speak before showing the symbols.
+
+Say: A sonomer belongs to the sound architecture; an audiograph represents a
+sounded अक्षर in writing. The written क represents the combination demonstrated
+in step 1, not a single consonant sound. Explain what “abugida” classifies:
+consonant signs with an inherent vowel and modifications for other vowels.
+Then ask what that label tells us about the mouth-based grid, measured sound
+duration, or the assembly of reusable sound-particles.
+
+Key line: “Abugida” classifies the symbols on the page. The book asks how the
+language beneath those symbols was engineered.
+
+Visual: large Devanagari examples, two clear term definitions, and progressive
+reveals. Use existing sonomer styling where useful, but do not turn written
+symbols into a diagram that confuses a sound with its visible representation.
+Sources: manuscript/as_1_01_one_oppressors_finite.md, §1.3;
+manuscript/as_1_09_mapping_mouth.md;
+manuscript/as_3_10_glossary.md, sonomer and audiograph entries.
+Note: Both English terms are book-coined. The criticism targets substituting
+a script classification for an explanation of Sanskrit's architecture, not
+the claim that “abugida” has no technical meaning. Ethiopic shares the
+consonant-plus-vowel feature behind the classification. Alphasyllabary is another
+established name. Do not claim the scripts have nothing in common, that no other
+category exists, or that more than two billion people write these scripts without
+a source for that specific count. Do not imply every Indian script has the same
+structure or that every written अक्षर contains two sonomers.
+Primary naming source: Peter T. Daniels, Writing in the World and Linguistics,
+BLS 36, printed p. 79:
+https://linguistics.berkeley.edu/bls/previous_proceedings/bls36.pdf
+Transition: “Now look at what the script represents.”
+
+SLIDE 13 | The वर्णमाला Reveals a Sound Architecture
+Physical slide 21 | Speaking allocation: 1:45
+
+Use two intact original figures: the sonomer garland (9.2) on the left and
+the complete consonant grid (9.6) beside it in the center. A right-hand column
+restores the explanations of the two numbered gaps. This replaces the former
+physical slides 21 and 22. Figures 9.4 and 9.5 are no longer on screen.
+Assets: figures/mapping_mouth/varnamala_sonomer_garland.svg;
+figures/mapping_mouth/complete_sonomer_grid.svg.
+
+Begin with the familiar sequence क ख ग घ ङ. Hold the mouth-place fixed,
+then vary voice, breath, and nasal release. Point out the repeated settings
+across five mouth-places. Return the ten महाप्राण sounds set aside earlier.
+The garland is the book's modern visual arrangement, not a claim about an
+ancient drawing or the exact order of school recitation. It includes vowels
+and Om; Figure 9.6 isolates the 33 consonantal sonomers. Do not describe the
+two complete pictures as identical inventories.
+
+Then point to the grid's two numbered vacancies. Explain the four
+vowel-consonant relationships इ → य, उ → व, ऋ → र, ऌ → ल and the absence
+of a fifth analogous pair at gap 1. At gap 2, discuss उपध्मानीय as a sound
+permitted at a सन्धि junction before प / फ rather than an independent
+consonant. These arrows illustrate relationships, not full sandhi rules.
+A physically possible sound need not receive an independently reusable
+address. Show the four pairs, the absence of a fifth pair, and the restricted
+role of उपध्मानीय in the right-hand column. Restore the closing line:
+"Pronounceable does not mean independently reusable." Keep the fuller
+phonetic details and source qualifications in notes. The figures retain
+their displayed size; remove the former large gap between their frames.
+
+Source: Chapter 9.1, 9.3-9.5 and 9.10. Preserve original artwork and zoom
+into the numbered cells. The notes distinguish [ɰ], [ɸ], English [f], and फ.
+Transition: "What can speakers build from these sounds?"
+
+SLIDE 14 | Small Atoms Build Families of Words
+Time: 1:45 | Elapsed: 23:15-25:00
+
+On screen: कृ (kṛ), to do or make; कर्म (karma), deed;
+कर्ता (kartā), doer; करिष्यति (kariṣyati), will do.
+Say: Define धातुः as an atom carrying a core meaning. Show one formation at a
+time. Parts before and after the atom change what the completed word expresses.
+The reader does not need to memorize technical affix names to see the operation.
+Visual: Figure 12.2 for कृ → करिष्यति; the कृ row of Figure 10.7 for familiar
+related words. Add English meanings as editable slide text.
+Assets: figures/building_vakya/pipeline_example.svg;
+figures/building_dhatuh/saravat_semantic_force_cards.svg
+Optional Figure 12.3, figures/building_vakya/vedic_kr_family.svg, uses different
+forms: कृतम्, कर्मणः, कर्तृभिः, संस्कृतम्. Do not present it as the on-screen
+list above; use it only with an explanation of its actual words.
+Source: manuscript/as_1_10_building_dhatuh.md; manuscript/as_1_12_building_vakya.md.
+Note: Do not present these forms as mechanically formed merely by adding their
+visible final letters. Preserve the actual derivation when demonstrating it.
+Transition: "How does Sanskrit itself describe a carefully constructed form?"
+
+SLIDE 15 | सूत्रलक्षणम्: The Same Design at Two Scales
+Time: 1:30 | Elapsed: 25:00-26:30
+
+On screen: सूत्रलक्षणम् (sūtra-lakṣaṇam), the defining qualities of a सूत्र.
+Reveal six qualities in Devanagari with short English explanations:
+अल्पाक्षरम्: compact; असंदिग्धम्: unambiguous; सारवत्: carries core meaning;
+विश्वतोमुखम्: applies widely; अस्तोभम्: no padding; अनवद्यम्: faultless.
+
+Say: These describe a carefully composed सूत्र. Chapter 10 applies the same
+six tests to the धातुः: a small, distinguishable form that carries meaning,
+supports many formations, and retains its identity through them. Return to
+the कृ family the audience has just seen. This is the book's design comparison,
+not a claim that the traditional definition originally described धातवः.
+
+Key line: "A सूत्र assembles words. A धातुः assembles sound-particles.
+The book finds the same design qualities at both scales."
+
+Visual: show the six qualities first, then the two scales with their shared
+criteria. Avoid displaying the complete verse, six translations, and examples
+simultaneously. The full verse belongs in speaker notes:
+अल्पाक्षरमसंदिग्धं सारवद्विश्वतोमुखम् ।
+अस्तोभमनवद्यं च सूत्रं सूत्रविदो विदुः ॥
+Source: manuscript/as_1_10_building_dhatuh.md, §10.1 and
+"The धातुः Is a सूत्र in Miniature"; endnote sutra-laksana-six-criteria.
+Transition: "The book reads the same pattern in an even smaller audible form: ॐ."
+
+SLIDE 16 | ॐ: The Smallest Audible Fractal
+Time: 1:00 | Elapsed: 26:30-27:30
+
+On screen: ॐ (oṃ), then अ · उ · म्.
+Second reveal: one अक्षर; the architecture heard in miniature.
+
+Say: In the book's reading, Oṃ gathers the movement of the vocal instrument
+into one audible form. Briefly demonstrate the traditional unfolding through
+अ, उ, and म्: open sound, changing mouth shape, closing lips and resonance.
+Connect this with the Māṇḍūkya's opening, "ॐ इत्येतदक्षरमिदं सर्वम्":
+"This अक्षर Oṃ is all this." The book calls it the smallest audible fractal
+because it reads the larger architecture of Sanskrit and Sanskriti in miniature.
+
+Visual: large ॐ, followed by the existing mouth-movement graphic.
+Asset: booklet/readers_guide/figures/om_body.svg
+Source: manuscript/as_1_10_building_dhatuh.md, "ॐ at the Smallest Scale";
+endnote om-vocal-tract-macro-gesture.
+Note: "Smallest" names the scale in the book's interpretation, not a measured
+minimum among mathematical fractals. Do not imply that Oṃ literally pronounces
+every Sanskrit sound. The A-U-M unfolding is not an instruction to replace all
+traditional recitations with three disconnected sounds. Keep the unmeasured
+fourth and fuller Upaniṣadic discussion in notes for questions.
+Transition: "This capacity to carry so much in a small form also gives Sanskrit
+the reach to describe a changing world."
+
+SLIDE 17 | An Old Architecture for a Changing World
+Time: 1:45 | Elapsed: 27:30-29:15
+
+On screen: 2,168 atoms → 2,634 starting meanings → over 12 million word-meanings.
+Second reveal: चन्द्र + यान → चन्द्रयान.
+Say: Some atoms carry more than one recorded meaning. Explain the book's
+bounded generation exercise and why new expression need not require changing
+the underlying system. End with the familiar lunar-mission name.
+Visual: a simple numerical progression and one readable worked example, not
+the full research graph. Use the book's atoms/assembly visual conventions.
+Source: manuscript/as_1_12_building_vakya.md, §12.7;
+analysis/generativity/results/generativity_manuscript_proposal.md.
+Note: These are modeled word-meanings under declared operations, not twelve
+million independently attested dictionary entries. Do not multiply grammatical
+forms and call each a new meaning. Detailed accounting belongs in Backup B4.
+Transition: "But a language that can generate words can still drift."
+
+SLIDE 18 | Engineering a Language Is Only Half the Task
+Time: 0:30 | Elapsed: 29:15-29:45
+
+On screen: unintended change; deliberate destruction or capture of memory.
+Say: "Return to the two enemies we began with: knowledge can drift, and it can
+be attacked. Generating millions of words does not by itself solve either
+problem. Sanskrit's greater engineering achievement, the book argues, is the
+system that keeps its architecture unchanged for thousands of years while
+allowing people to create new expression. How do its two domains achieve that?"
+Do not repeat the opening history of loss. This is the engineering question
+that the next three sections answer with the two domains and their checks.
+Visual: two failure paths, with the language system between them. Use existing
+authority and calibration motifs; avoid new decorative illustrations.
+Source: manuscript/as_0_01_preface.md;
+manuscript/as_1_16_one_architecture_two_domains.md, §16.1.
+Transition: "That is why the book insists on one architecture with two domains."
+
+SLIDE 19 | Keep the Reference Exact. Keep Expression Open.
+Time: 1:30 | Elapsed: 29:45-31:15
+
+On screen: वैदिक (vaidika), preserve the reference;
+लौकिक (laukika), compose new expression; one shared architecture.
+Say: The book rejects treating these simply as an early changing language and
+a later language frozen by Pāṇini. Explain the different permissions and their
+complementary functions. Pāṇini documents the system rather than owning it.
+Visual: Figure 16.1, simplified by progressive emphasis, not redrawn into two
+disconnected languages. Explain the shared area before the smaller extensions.
+Asset: figures/vaidika_laukika/shared_architecture_overlap.svg
+Source: manuscript/as_1_16_one_architecture_two_domains.md, §§16.1-16.2, 16.7-16.10.
+Transition: "How does a reference remain exact without one institution owning it?"
+
+SLIDE 20 | The Reference Belongs to No Apex
+Time: 1:45 | Elapsed: 31:15-33:00
+
+On screen: North. South. East. West. People can learn, check, and teach.
+Say: Distributed means geography as well as many participants. Explain
+recitation lineages and correction across generations. No single caretaker
+needs to own the shared reference for someone else to check a departure.
+Name प्रतिमानकम् (pratimānakam), calibrant, after the function is clear.
+Visual: existing distributed-checks graphic; include geography in the labels,
+but do not plot invented historical schools or sites on a map.
+Asset: booklet/readers_guide/figures/distributed_checks.svg
+Source: manuscript/as_0_01_preface.md; manuscript/as_1_14_calibration.md;
+manuscript/as_1_15_aural.md, §15.5.
+Transition: "Distribution works because participants learn ways to check."
+
+SLIDE 21 | Several Checks Reinforce One Another
+Time: 1:45 | Elapsed: 33:00-34:45
+
+On screen: sound; sequence; meter; word formation; repeated checking.
+Say: Return briefly to the mother's correction: one error was detectable in
+more than one way. Explain that different पाठाः arrange the same words in
+different sequences. Demonstrate an adjacent-pair pattern with numbered tokens,
+clearly labeled as an illustration, not an actual Vedic recitation.
+Visual: selected rows from Figure 14.2 show complementary checks. Use the
+preservation-channel lanes only for the speech/hearing-versus-writing contrast;
+they do not show recitation sequences. Keep the numbered-token demonstration
+as editable text.
+Assets: figures/calibration/six_layer_calibration_matrix.svg;
+figures/calibration/preservation_modes_channel_lanes.svg
+Source: manuscript/as_1_14_calibration.md, §§14.1-14.3;
+manuscript/as_1_15_aural.md, §§15.1-15.3.
+Note: Do not imply every lineage uses every pāṭha, or that one check by itself
+detects every possible error. The full eleven-mode explanation is a backup.
+Transition: "Why not simply write everything down?"
+
+SLIDE 22 | A Library Can Burn. A Living Standard Can Travel.
+Time: 1:30 | Elapsed: 34:45-36:15
+
+On screen: writing depends on a medium; copies need checking; people carry the
+ability to correct as well as the words.
+Say: Keep the book's sharp contrast: media can be destroyed or placed under
+central custody, and script can influence pronunciation. A written record is
+useful, but it does not automatically preserve the whole sound system or the
+knowledge needed to correct a copy. Distributed transmission also requires
+care and training; it is not magic immunity to loss.
+Visual: Figure 13.1, showing medium and custody without its small annotations
+if those cannot be read from the back of a room.
+Asset: figures/preservation/asuric_custody_stack.svg
+Source: manuscript/as_1_13_preservation.md, writing discussion.
+Note: Do not turn this into a library-destruction chronology. Detailed examples
+and their sources can be discussed afterward.
+Transition: "A system that can travel also carries knowledge outward."
+
+ADDED BEFORE SLIDE 23 | PIE and English Word Families
+Physical slides 31-33 | Additional speaking allocation: 2:45
+
+1. Explain PIE using the complete birth-family tree, Figure 19.4. These trees
+   are in Chapter 19 in the current manuscript, not Chapter 18. Explain what
+   philologists reconstruct and what the book challenges. This is a word-family
+   tree, not the complete Indo-European language-family tree. The figure's
+   assertion that PIE was never spoken is the book's claim; lack of direct
+   attestation does not itself establish that claim.
+2. Show the complete जन् and स्था radiance figures, 19.5 and 19.8. These present
+   the author's Sanskrit-source interpretation. Keep the original artwork and
+   zoom for individual branches rather than reading every label aloud.
+3. Show familiar English examples, followed by a reproducible scale: 85 linked
+   English headwords in American Heritage's birth-root family and 126 in its
+   standing-root family, 211 combined. This measures linked dictionary headwords,
+   not direct Sanskrit loans or an independently demonstrated migration route.
+   American Heritage groups them through PIE; Atomic Sanskrit argues for
+   Sanskrit radiance. State that difference plainly.
+
+Source: https://www.ahdictionary.com/word/indoeurop.html, checked 19 October 2026.
+Reproduction: check_english_family_counts.py with a saved HTML copy. Excludes
+combining forms and capitalized labels; deduplicates links and punctuation.
+Some linked etymologies are qualified. No inflection multiplier is applied.
+
+SLIDE 23 | Radiance: Knowledge Travels Without an Empire
+Time: 1:15 | Elapsed: 36:15-37:30
+
+On screen: words; methods; people learning and adapting.
+Say: Explain radiant through outward transmission of Sanskritic knowledge.
+Use one documented example from the Tibetan teaching account in Chapter 20.
+Then state the broader Radiance Thesis as the book's challenge to the external-
+ancestor account, without pretending that this single example settles it.
+Visual: the Tibetan panel from Figure 20.2, not all six panels squeezed into
+the speaking time. This figure is a set of text panels, not a geographic map.
+Keep its source and explanatory text in speaker notes.
+Asset: figures/life_after_pie/analytical_radiance_routes.svg
+Source: manuscript/as_1_20_life_after_pie.md, §20.2;
+manuscript/as_1_19_pie_in_sky.md, §19.7.
+Transition: "What do these observations tell us about the architecture?"
+
+SLIDE 24 | The Same Principles Recur at Different Scales
+Time: 1:30 | Elapsed: 37:30-39:00
+
+On screen: sound → atom → word → sentence;
+learn → understand → check → correct → teach.
+Say: Recall the six design qualities and ॐ as the book's smallest audible
+fractal. The audience has now seen concrete examples before the larger claim.
+A compound can become part of another compound: a concrete introduction
+to recursion. Explain fractal as the book's term for recurring organizing
+principles across scales, not merely a claim that the diagrams look alike.
+Then return to the opening claim: Sanskrit reveals more than a language's
+architecture. The book argues that its shared references, discernment, and
+correction demonstrate principles of Sanatan's inside-out order. Ask how those
+principles could organize relationships among living beings at a larger scale.
+Visual: Figure 12.1, followed by the inside-out chain already developed in
+the reader's guide. Keep these as sequential reveals, not two dense diagrams.
+Assets: figures/building_vakya/pipeline_scales.svg;
+booklet/readers_guide/figures/inside_out.svg
+Source: manuscript/as_1_12_building_vakya.md, §§12.7-12.8;
+manuscript/as_0_01_preface.md, recursion and fractal discussion.
+Note: Recursion illustrates a process; it is not synonymous with fractality.
+The social extension is the series' inquiry, not a completed proof of a polity.
+Transition: "That brings us back to the second Shanti."
+
+SLIDE 25 | What Would स्वराज्य Require?
+Time: 1:00 | Elapsed: 39:00-40:00
+
+On screen: Distributed · Radiant · Calibrant · Fractal.
+Closing question: "Can we build order through understanding and responsibility,
+rather than make fear its foundation?"
+Say: "Operation Red Lotus asked what our ancestors fought to protect. Second
+Shanti asks what we can build with that freedom. Much of the old social and
+political order is lost; Sanskrit gives us a surviving language system whose
+principles we can examine. The later volumes will develop a polity from first
+principles, not assemble one from fragments. Is Swarajya freedom to replace
+the people at the apex, or freedom to build a different order?"
+Visual: four final icons, matching the title. This deliberate visual return is
+appropriate; no new concept or dense chart on the final slide.
+Source: manuscript/as_0_01_preface.md; manuscript/as_2_01_epilogue.md.
+Finish: invite questions; book/contact details can sit in a small footer.
+
+BACKUP SLIDES: PREPARE AFTER THE MAIN NARRATIVE
+
+B1. Survey method: the 23-cell selection, excluded aspiration, actual places of
+articulation, independent contrasts, union-of-three rule, and source inventories.
+Point to Chapter 8, Appendix 4, and working/40_reference/research/
+inventory_atlas_coverage_surveys.md. No claim to have surveyed every world language.
+
+B2. The four complete survey figures, individually enlarged for questions.
+The grouped complete figures already belong in the main talk before the totals;
+these individual backup views provide more space without changing the data.
+
+B3. Subcontinental mind: Chapter 17 examples of repetition, the receiver, कर्मणि,
+भावे, and linked actions. Include original scripts and translations. Keep the
+linguistic observations separate from the civilizational interpretation.
+Retain the former Slide 11 examples here: कृत्वा (kṛtvā), having done, and
+प्रणम्य (praṇamya), having bowed. Explain the regional action-sequence comparison
+from §17.5. For repetition, distinguish whole-word repetition (आम्रेडित) from
+the repeated part within a Sanskrit verbal formation (अभ्यास), using ददाति
+or ददर्श from §17.2. Do not treat all these operations as interchangeable.
+
+B4. The generation ledger:
+2,168 listed atoms; 2,634 reconciled starting meanings.
+12,846,458 total modeled word-meanings before inflection, consisting of:
+  12,633,060 लौकिक meanings and 213,398 वैदिक meanings.
+The लौकिक portion consists of:
+  4,540,848 क्रियार्थाः + 8,084,287 नामार्थाः + 7,925 अव्ययानि.
+The declared grammatical matrices give 602,707,133 लौकिक cells, a different
+counting unit. Explain generated possibilities, meaning identity, and limits;
+do not silently present forms, records, meanings, and attested words as one unit.
+Source: manuscript/as_endnotes.md, sanskrit-generative-wordspace;
+analysis/generativity/results/generativity_manuscript_proposal.md.
+
+B5. Why two domains? Show रुद्रैः / रुद्रेभिः and the two eleven-अक्षर lines,
+then the deliberately altered ten-अक्षर line. Use Figure 16.4:
+figures/vaidika_laukika/rudrai_rudrebhih_matra_alignment.svg.
+Explain अक्षर count versus मात्रा duration; no unsupported claim about pitch.
+
+B6. What Pāṇini did: the book's decoder/documenter argument, contrasted with
+codification as a sufficient explanation of preservation. Chapter 5 and §14.7.
+
+B7. Sources and further reading: chapter/section index, research records for
+the survey and generation exercise, and the relevant endnotes. Avoid a slide
+of unreadable URLs; place complete links in notes or an accompanying handout.
+
+VISUAL AND PRODUCTION PLAN
+
+FIGURE REUSE AUDIT (15 October 2026)
+See outreach/presentations/atomic_sanskrit_friends_talk_figure_map.md for the
+slide-by-slide selection, clickable sources, backup candidates, and visual
+inspection findings. Prefer book figures; use guide figures where already
+better suited to a spoken explanation. Canonical artwork remains unchanged.
+
+NEW HISTORICAL CHART (15 October 2026)
+Insert after Slide 05, before the sound surveys: "Studying Sanskrit. Governing
+Its Future." Content, source links, and presenter notes are saved in
+outreach/presentations/western_philology_sanskrit_timeline.md.
+One chart places Sanskrit study, missionary/educational institutions, PIE,
+and Esperanto in their shared historical period. Keep Esperanto a separate
+comparison, not an asserted component of a coordinated anti-Sanskrit campaign.
+Allow 1:30. Slot 05A preserves the original identifiers. Both current 12-slide
+pilots include an editable version of this chart; the full deck is not built.
+The 18 October opening revision and current run of show supersede the earlier
+timing adjustment. The total remains a provisional 40:00.
+
+1. Build an editable widescreen PPTX after the outline is reviewed. It can be
+   opened in PowerPoint or imported into Google Slides. A native shared Google
+   Slides link is a separate delivery step, not something already created.
+2. Follow the existing cover identity, final icons, and established hex geometry.
+   Prefer canonical book SVGs. Never stretch hexes to fill a slide.
+3. Fit details to projection, not to a printed page. Use crops and progressive
+   reveals when necessary. Retain a complete figure in backup for inspection.
+4. SVG reuse must preserve Devanagari shaping, accents, transparency, and filters.
+   Use outlined artwork or a verified high-resolution image when the presentation
+   renderer cannot reproduce a figure correctly. Keep its editable source intact.
+5. Use a light background, dark text, and the book's accent colors. Match the
+   cover's typography where available. Sanskrit examples must remain comfortably
+   readable; avoid dense IAST lines beneath every diagram label.
+6. Main slides should show an argument, example, or figure, not a page of speaking
+   notes. Keep qualifications, source locators, and fuller explanations in notes.
+7. Reuse is not permission to alter manuscript claims or canonical artwork.
+   Proposed adaptations belong to this presentation until separately approved.
+8. The eclipse is an optional opening transition, not another explanatory burden.
+   Its canonical asset is figures/eclipse_spine/eclipse_00_preface_full.svg.
+   Because this family has previously had PDF/filter problems, verify rendering
+   before use. Do not spend several minutes explaining all eleven blocks.
+
+NEXT PASSES
+
+Pass 1 (this document): narrative, timings, sources, figure selection.
+Pass 2: draft the on-screen content and full speaking notes; choose exact crops.
+Pass 3: build the editable deck using existing assets and deliberate reveals.
+Pass 4: inspect every slide, test Devanagari and figure rendering, then rehearse
+        the timings and simplify any crowded slide. Export a PDF only if requested.
+
+Complete-deck checkpoint: 33 main slides and 11 backup slides are built and
+checked. See atomic_sanskrit_friends_talk_full_record.txt. The separate first
+ten slides remain available; their record retains the opening source checks.
+The earlier
+cropped pilot and the grouped original-figure pilot each contain 12 slides:
+output/presentations/atomic_sanskrit_friends_talk_pilot.pptx
+output/presentations/atomic_sanskrit_friends_talk_original_figures.pptx
+They include speaker notes and sources, but neither is the full narrative.
+The complete deck has notes and sources on every slide. It uses static slides
+and manual figure zoom, not automatic reveals. Opening source locators are
+recorded in the first-ten-slide production record.
+
+The revised plan targets 40 minutes including 04A and 05A. A 30-minute version needs a separate
+rehearsed cut, not faster delivery: retain the sound surveys, sonomer/audiograph,
+सूत्रलक्षणम्, and ॐ, and select which other examples move to backup. For a firm
+40-minute slot, keep audience discussion until afterward. The meter demonstration
+in B5 remains a backup unless another segment is shortened to make room.
+
+CHECKPOINT
+
+The planning revision updates the narrative, estimated timings, and figure map.
+The author's introduction file remains unchanged. Preserve the current grouped
+book figures when building the full sequence; two or three related figures may
+share a widescreen slide, with time allowed for zooming and explanation.
+The complete build implements the opening through the closing question, with
+the planned backup material after slide 33. No manuscript or canonical figure
+edits, PDF generation, commit, push, or publishing were included. The original
+pilots' review order is not a substitute for the full talk's narrative order.

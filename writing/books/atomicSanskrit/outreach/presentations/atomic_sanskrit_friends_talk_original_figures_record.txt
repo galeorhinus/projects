@@ -1,0 +1,59 @@
+FRIENDS' TALK: ORIGINAL-FIGURE TRIAL
+18 October 2026
+
+DELIVERABLE
+output/presentations/atomic_sanskrit_friends_talk_original_figures.pptx
+Separate from the existing 12-slide pilot, which is retained unchanged.
+This is a 12-slide pilot variant, not the complete 40-minute presentation.
+
+INTRODUCTION TO THE SOUND COMPARISON
+03: Figures 7.1, 7.2 and 7.3 together: speaking apparatus, language hotzones,
+    and Sanskrit sound map, read left to right.
+04: Figure 8.1, Sanskrit's 23-cell comparison base, with the matching rule beside it.
+05: Figures 8.2 and 8.3 together: Tamil/Toda/Kurukh and Korku/Mundari/Ho.
+06: Figures 8.4 and 8.5 together: English/French/Greek and Tajik/Kazakh/Kyrgyz.
+07: Four-set score summary, after all four original survey figures.
+
+The opening Shanti and historical slides remain. The script/audiograph sequence,
+two-domain explanation and generativity example follow the sound comparisons.
+Full-talk timing remains to be rehearsed; extra views do not imply extra topics.
+
+FIGURE TREATMENT
+Each original canonical SVG is rendered as a complete 4,800-pixel-wide PNG.
+No crop, stretching, rearrangement, label replacement or data change.
+Related figures share the widescreen canvas: three in the opening comparison,
+two for each pair of surveys. Figure 8.1 has the method explanation alongside it.
+Images are top-aligned, with figure numbers beneath them and a small footer.
+The source figures are portrait: some labels require zoom at whole-slide view.
+No automatic zoom animation has been added. Google Slides behaviour must be
+checked in the user's browser; this local artifact is a PowerPoint file.
+
+New slide text and speaker notes contain no IAST. Original labels remain intact,
+including the IAST in the Sanskrit map. This is an explicit exception for the
+user's original-figure trial, not a change to the manuscript or original artwork.
+
+EXPLANATION IN THE NOTES
+1. Demonstrate lips, teeth and the back of the mouth on the speaking apparatus.
+2. Show how different languages select different regions. Explain the dot key.
+3. Introduce Sanskrit's named places and controls through the same instrument.
+4. Explain the 23-cell base and the ten excluded heavy-breath stops.
+5. Read each language-marker key and inspect actual cells before giving totals.
+
+REPRODUCTION
+Retained scratch builder:
+/var/folders/t4/4c1q4j_56b322n_9pm088txh0000gn/T/codex-presentations/atomic-sanskrit-friends-pilot/tmp/build_pilot.mjs
+Run with --original-figures. Generated scratch assets, previews and layout data
+are under tmp/original-figures/. The default invocation retains the cropped pilot.
+Implementation: @oai/artifact-tool, using the original pilot's formatting.
+No PDF, commit or push requested.
+
+CHECKS
+The earlier single-figure version passed a 16-slide round-trip check.
+The grouped version has twelve slides. Native text frames are in
+bounds and do not overlap. Original figure images fit without cropping.
+Rendered and inspected all twelve grouped-version slides. Verified twelve
+slides, twelve notes, and all eight original images at 4,800 pixels wide in the
+export. Reimported and rendered the PPTX: eleven slides are pixel-identical;
+slide 05 has raster-rendering differences and was visually inspected separately.
+No clipping or layout defect was observed (roundtrip-grouped/).
+Google Slides import and its live presentation zoom have not been tested.

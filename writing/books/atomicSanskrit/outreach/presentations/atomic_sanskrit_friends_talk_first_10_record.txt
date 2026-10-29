@@ -1,0 +1,60 @@
+FIRST TEN SLIDES: 18 OCTOBER 2026
+
+Deliverable: output/presentations/atomic_sanskrit_friends_talk_first_10.pptx
+This is the beginning of the full narrative, not another representative pilot.
+The two earlier 12-slide pilots remain unchanged. No PDF was generated.
+
+PHYSICAL SLIDE / OUTLINE SECTION
+01 / 01: Title, subtitle, final four icons, author.
+02 / 01: Operation Red Lotus; three freedoms; Swarajya.
+03 / 02: Three Shantis; second domain highlighted.
+04 / 03: Pyramidal constraint, fear, and punishment.
+05 / 04: Inside-out restraint, discernment, shared correction.
+06 / 04A: Entropy, asuric attacks, first principles, surviving Sanskrit system.
+07 / 05: Mother's correction; whole-quarter counts of seven/eight syllables.
+08 / 05A: Sanskrit study, educational power, PIE, and Esperanto.
+09 / 06: Complete Figures 7.1, 7.2, 7.3, side by side.
+10 / 06: Complete Figure 8.1 alongside the comparison method.
+
+The next slide should pair Figures 8.2 and 8.3. External surveys follow before
+summary totals. This delivery does not yet show the survey results.
+The outline allocates 12 minutes through section 06; that is an estimate,
+not a rehearsed duration. Allow for demonstration and manual zooming.
+
+CONTENT AND SOURCES
+All ten slides have explanatory speaking notes and source references.
+No IAST in native slide text or speaker notes. Original book artwork retains
+its existing labels, as requested. Devanagari uses Tiro Devanagari Hindi.
+The presentation uses the book's existing icons, colors, and STIX Two Text.
+
+Opening source check: ../../aiWritingStyle/ORL-2020-body.pdf, Introduction
+pp. xxviii-xxxii. The Azamgarh summary and three-freedoms interpretation are
+at pp. xxix-xxxi. The passage names Tatya Tope, Nana Saheb Peshwa, and Bahadur
+Shah Zafar; the slide summarizes the author's account as a Maratha-Mughal
+alliance. The partial-victory/civilizational-survival argument is on p. xxviii
+and in Chapter 17, pp. 264-266. This verifies what the author argues in his
+earlier book, not independent historical confirmation of the argument.
+Historical-chart sources are retained from western_philology_sanskrit_timeline.md;
+their websites were not newly checked during this build.
+
+VISUAL AND EXPORT CHECKS
+16:9, 1280 x 720 design canvas. Native text and shapes editable.
+Native body/footer text >= 22px (16.5pt); slide headings 48px (36pt);
+cover title 94px (70.5pt). All native titles remain on one line.
+No native text-frame overlaps or out-of-bounds frames.
+Four original book figures are embedded at 4,800px width with aspect ratios
+preserved. No crop, label, data, orientation, or canonical SVG changes.
+Small figure labels require manual zoom, especially on the three-figure slide.
+No automatic zoom/reveal animations were added.
+All ten slides rendered and visually reviewed. Exported PPTX reimported and
+rendered: all ten images pixel-identical to the authoring previews.
+Verified ten slide XMLs, ten speaker-note XMLs, and four full-resolution figures.
+PowerPoint/Google Slides font substitution and manual zoom have not been tested
+in those applications. The artifact-tool round-trip is the completed check.
+
+BUILD REFERENCE
+External scratch builder:
+/var/folders/t4/4c1q4j_56b322n_9pm088txh0000gn/T/codex-presentations/atomic-sanskrit-friends-pilot/tmp/build_opening.mjs
+Scratch previews, layouts, QA, and round-trip renders: opening-ten/ beneath it.
+Use the modern Codex Node runtime, not the system Node, to rebuild.
+No manuscript edits, commit, push, or publishing performed.
