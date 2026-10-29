@@ -4,6 +4,8 @@ Prepared: 19 September 2026.
 
 Status: Internal discussion brief following Parag Tope's meeting with the Vice-Chancellor. These are proposed projects, not commitments by the College or donors. No manuscript changes have been made.
 
+Update, 3 October 2026: See [verified institutional options and specific proposals for the October 7 meeting](deccan_college_oct7_fundable_programmes.md). The published rules were downloaded again and match this brief's archived copy. Newly inspected evidence includes the departmental Sanskrit scholarship list and the Jain Archaeology chair's 2023-24 activity report, which documents research staff appointments, a certificate course and internships.
+
 ## Recommendation
 
 Propose a **Programme in Sanskrit Architecture and Knowledge Transmission**. Begin with a twelve-month pilot, supported by donors and led by College faculty. Use its results to decide whether to establish a longer programme and an endowed chair.
