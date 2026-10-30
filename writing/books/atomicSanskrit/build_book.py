@@ -1497,13 +1497,15 @@ def render_unified_endnotes(notes: list[tuple[int, str]], mode: str = "full") ->
 
     if mode == "short":
         intro = (
+            # The emphasis closes before the volume title and reopens after
+            # it; nesting one italic span inside another renders as literal
+            # asterisks rather than as a title.
             f"*Numbered list of every inline note reference in the manuscript "
-            f"({len(notes)} total). Each entry carries the **short form** — the "
-            f"one-sentence editorial compression of the source citation. The "
-            f"full long-form citation, verification trail, and source-history "
-            f"discussion lives in the *Source and Reference Companion*. "
-            f"*The numbered references in the body of the book — the **[N]** "
-            f"superscripts — point here.*"
+            f"({len(notes)} total). Each entry carries the short form of the "
+            f"note. The full citation, the verification trail, and the "
+            f"source-history discussion live in the* Source and Reference "
+            f"Companion*, a separate volume. The numbered references in the "
+            f"body of the book — the* **[N]** *superscripts — point here.*"
         )
     else:
         intro = (
@@ -1530,7 +1532,11 @@ def render_unified_endnotes(notes: list[tuple[int, str]], mode: str = "full") ->
             content = f"*[Verification stub — citation identified, prose not yet drafted.]* {stubs[stub]}"
         else:
             content = "*[Verification pending — citation not yet identified.]*"
-        lines.append(f"**[{n}] `{stub}`.**  {content}")
+        # The stub slug keys the entry back to as_endnotes.md, which is what a
+        # working build wants. Short mode is the printed-book apparatus, where
+        # the slug is drafting scaffolding the reader has no use for.
+        label = f"**[{n}]**" if mode == "short" else f"**[{n}] `{stub}`.**"
+        lines.append(f"{label}  {content}")
         lines.append("")
     return "\n".join(lines).strip() + "\n"
 
