@@ -10,3 +10,8 @@ sdkconfig.old
 /components/esp-matter
 sdkconfig
 /components/network_manager/embedded/
+/hardware/**/*-backups/
+/hardware/**/*.kicad_prl
+/hardware/**/fp-info-cache
+/hardware/**/*.erc
+/hardware/**/*.log
