@@ -10,7 +10,7 @@ This repository contains the HomeYantric device projects and the writing workspa
 | [epaper-lab](epaper-lab/README.md) | E-paper lab. The clock75 clock and weather app uses the lab's own port of Wi-Fi provisioning. The hello75 app exercises the display. |
 | [cg-wifi-provision](cg-wifi-provision/) | Standalone ESP-IDF provisioning project. |
 | [esp32-display-client](esp32-display-client/) | Arduino touchscreen remote for the bed controller. Sends commands to `/rpc/Bed.Command` and includes a touch calibration sketch. |
-| [mb-rf-rx](mb-rf-rx/) and [mb-rf-tx](mb-rf-tx/) | Receiver and transmitter utilities for the bed remote. |
+| [Bed RF lab](bed-controller-idf/labs/bed-rf/) | Standalone ESP-IDF sniffer and transmitter experiments for the bed remote. |
 
 ## Writing
 
