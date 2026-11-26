@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ESP32 Wi-Fi Setup</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 40px; }
+    .container { max-width: 500px; margin: 0 auto; padding: 20px; background: #fff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    h2 { text-align: center; color: #333; }
+    .form-group { margin-bottom: 15px; }
+    label { display: block; margin-bottom: 5px; font-weight: bold; }
+    input[type="text"], input[type="password"] {
+      width: 100%; padding: 10px; border: 1px solid #ddd;
+      border-radius: 4px; box-sizing: border-box;
+    }
+    button {
+      width: 100%; padding: 10px; background: #007bff; color: white;
+      border: none; border-radius: 4px; cursor: pointer; font-size: 16px;
+    }
+    button:hover { background: #0056b3; }
+    #message { margin-top: 15px; text-align: center; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Set Up Wi-Fi</h2>
+    <div class="form-group">
+      <label for="ssid">Wi-Fi Network (SSID)</label>
+      <input type="text" id="ssid">
+    </div>
+    <div class="form-group">
+      <label for="pass">Password</label>
+      <input type="password" id="pass">
+    </div>
+    <button onclick="saveWifi()">Save & Connect</button>
+    <div id="message"></div>
+  </div>
+
+  <script>
+    // Helper function to call Mongoose OS RPC
+    function callRPC(method, params) {
+      return fetch('/rpc/' + method, {
+        method: 'POST',
+        body: JSON.stringify(params || {}),
+        headers: {'Content-Type': 'application/json'}
+      }).then(function(res) {
+        return res.json();
+      });
+    }
+
+    function saveWifi() {
+      var ssid = document.getElementById('ssid').value;
+      var pass = document.getElementById('pass').value;
+      var msgEl = document.getElementById('message');
+
+      if (!ssid) {
+        msgEl.innerText = 'Please enter an SSID.';
+        msgEl.style.color = 'red';
+        return;
+      }
+
+      msgEl.innerText = 'Saving... The device will reboot.';
+      msgEl.style.color = 'blue';
+
+      callRPC('My.SaveWifi', { ssid: ssid, pass: pass })
+        .then(function(result) {
+          console.log(result);
+          msgEl.innerText = result.message;
+          msgEl.style.color = 'green';
+        })
+        .catch(function(err) {
+          console.log(err);
+          msgEl.innerText = 'Error saving settings.';
+          msgEl.style.color = 'red';
+        });
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+author: Your Name
+description: A self-provisioning ESP32 web app.
+version: 1.0
+platform: esp32
+
+filesystem:
+  - fs_setup
+  - fs_app
+  - init.js
+
+libs:
+  - origin: https://github.com/mongoose-os-libs/mjs
+  - origin: https://github.com/mongoose-os-libs/fstab
+  - origin: https://github.com/mongoose-os-libs/wifi
+  - origin: https://github.com/mongoose-os-libs/http-server
+  - origin: https://github.com/mongoose-os-libs/ca-bundle
+  - origin: https://github.com/mongoose-os-libs/rpc-common
+  - origin: https://github.com/mongoose-os-libs/rpc-uart
+  - origin: https://github.com/mongoose-os-libs/rpc-ws
+  - origin: https://github.com/mongoose-os-libs/rpc-service-fs
+  - origin: https://github.com/mongoose-os-libs/rpc-service-config
+
+config_schema:
+  - ["wifi.sta.enable", "b", false, {}] 
+  - ["wifi.sta.ssid", "s", "", {}]
+  - ["wifi.sta.pass", "s", "", {}]
+  - ["wifi.ap.enable", "b", false, {}] 
+  - ["wifi.ap.ssid", "s", "ESP-Setup-??????", {}]
+  - ["wifi.ap.pass", "s", "setup1234", {}]
+  - ["wifi.ap.ip", "s", "192.168.4.1", {}]
+
+  #
+  # *** THE REAL FIX ***
+  #
+  - ["http.enable", "b", true, {}]
+  - ["http.listen_addr", "s", "80", {}]
+  # 1. The document root is now /fs_setup by default
+  - ["http.document_root", "s", "/fs_setup", {}] 
+  # 2. The default file (when we ask for "/") is setup.html
+  - ["http.default_file", "s", "setup.html", {}]
+
+  - ["mjs.main", "s", "init.js", {}]
+
+manifest_version: 2017-09-29

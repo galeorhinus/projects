@@ -1,0 +1,49 @@
+author: Your Name
+description: A self-provisioning ESP32 web app.
+version: 1.0
+platform: esp32
+
+filesystem:
+  - fs
+
+libs:
+  - origin: https://github.com/mongoose-os-libs/mjs
+  - origin: https://github.com/mongoose-os-libs/fstab
+  - origin: https://github.com/mongoose-os-libs/wifi
+  - origin: https://github.com/mongoose-os-libs/http-server
+  - origin: https://github.com/mongoose-os-libs/ca-bundle
+  - origin: https://github.com/mongoose-os-libs/rpc-common
+  - origin: https://github.com/mongoose-os-libs/rpc-uart
+  - origin: https://github.com/mongoose-os-libs/rpc-ws
+  - origin: https://github.com/mongoose-os-libs/rpc-service-fs
+  - origin: https://github.com/mongoose-os-libs/rpc-service-config
+  
+  #
+  # *** THIS IS THE NEW LIBRARY ***
+  #
+  - origin: https://github.com/mongoose-os-libs/dns-sd
+
+config_schema:
+  - ["wifi.sta.enable", "b", false, {}] 
+  - ["wifi.sta.ssid", "s", "", {}]
+  - ["wifi.sta.pass", "s", "", {}]
+  - ["wifi.ap.enable", "b", false, {}] 
+  - ["wifi.ap.ssid", "s", "ESP-Setup-??????", {}]
+  - ["wifi.ap.pass", "s", "setup1234", {}]
+  - ["wifi.ap.ip", "s", "192.168.4.1", {}]
+
+  - ["http.enable", "b", true, {}]
+  - ["http.listen_addr", "s", "80", {}]
+  - ["http.document_root", "s", "/", {}] 
+  - ["http.default_file", "s", "index.html", {}]
+
+  - ["mjs.main", "s", "init.js", {}]
+
+  #
+  # *** THIS IS THE NEW HOSTNAME ***
+  # The device will be accessible at http://ap-esp32.local
+  #
+  - ["dns_sd.host_name", "s", "ap-esp32", {}]
+  - ["dns_sd.enable", "b", true, {}]
+
+manifest_version: 2017-09-29
