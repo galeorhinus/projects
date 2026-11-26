@@ -13,7 +13,7 @@
   - or copy the desired `partitions/*.csv` to `partitions.csv` and ensure `configs/sdkconfig.defaults`/menuconfig matches.
 
 ## 2) Choose application role
-- `idf.py menuconfig` → Application configuration → Application role: Bed / Light (Tray future).
+- `idf.py menuconfig` → Application configuration → Application role: Bed / Light / Watering (Tray future).
 - Role affects which server RPCs are built. UI stays unified, but embeds the role tag.
   - Light-only builds exclude `bed_control` and light RPCs are enabled.
   - Bed-only builds exclude light GPIO init and light RPCs are disabled.
@@ -76,6 +76,16 @@ Examples:
   - `idf.py -B build_light_esp32s3 -p /dev/cu.usbmodem5B140844241 build flash monitor`
 - Notes:
   - S3 defaults set flash size to 16MB via `configs/sdkconfig.defaults.partitions.esp32s3`.
+
+### Watering build (ESP32-S3, 16 MB)
+
+Run from the HomeYantric firmware directory with ESP-IDF activated:
+
+```sh
+idf.py -B build_watering_esp32s3 -D IDF_TARGET=esp32s3 -D SDKCONFIG="$PWD/build_watering_esp32s3/sdkconfig" -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.watering;configs/sdkconfig.defaults.partitions.esp32s3" build
+```
+
+The profile defaults to one outlet. In this build's `menuconfig`, choose **Component config > Watering controller** to set the outlet count for a manifold. This profile starts shared Wi-Fi provisioning and discovery. The Watering tab lists controllers on devices running the updated UI. Pump, flow-meter, servo, and scheduling support are pending hardware bring-up.
 
 ## Example flows
 ### Bed-only (ESP32-S3)

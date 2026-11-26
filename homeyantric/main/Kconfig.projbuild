@@ -19,6 +19,11 @@ config APP_ROLE_TRAY
     bool "Enable Tray controller role (future)"
     default n
 
+config APP_ROLE_WATERING
+    bool "Enable watering controller role"
+    depends on !APP_ROLE_BED && !APP_ROLE_LIGHT && !APP_ROLE_TRAY
+    default n
+
 config APP_LABEL_DEVICE_NAME
     string "Default device name (labels)"
     default ""

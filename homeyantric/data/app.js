@@ -9,6 +9,7 @@ window.UI_ROLES = roles.slice();
 let autoPeerHosts = [];
 let peerHosts = [];
 let peerList = [];
+let wateringTargets = [];
 let bedTargets = [];
 let bedTargetsById = {};
 let lightTargets = [];
@@ -250,6 +251,7 @@ function cacheEntryToPeer(entry) {
         model: entry.model || "",
         wiring_type: entry.wiring_type || "",
         wiring_order: entry.wiring_order || "",
+        outlets: entry.outlets || 0,
         wiring_count: entry.wiring_count || 0,
         roles: roles,
         isLocal: !!entry.isLocal,
@@ -268,6 +270,7 @@ function peerToCacheEntry(peer, lastSeen) {
         model: peer.model || "",
         wiring_type: peer.wiring_type || "",
         wiring_order: peer.wiring_order || "",
+        outlets: peer.outlets || 0,
         wiring_count: peer.wiring_count || 0,
         roles: Array.isArray(peer.roles) ? peer.roles.slice() : [],
         isLocal: !!peer.isLocal,
@@ -343,6 +346,7 @@ function targetLabel(role, peer) {
 }
 
 function buildTargetsFromPeers() {
+    wateringTargets = [];
     bedTargets = [];
     bedTargetsById = {};
     lightTargets = [];
@@ -351,6 +355,12 @@ function buildTargetsFromPeers() {
 
     peerList.forEach(function(peer) {
         (peer.roles || []).forEach(function(role) {
+            if (role === "watering") {
+                if (!wateringTargets.some(function(t) { return t.host === peer.host && t.isLocal === peer.isLocal; })) {
+                    wateringTargets.push(peer);
+                }
+                return;
+            }
             if (role !== "bed" && role !== "light") return;
             var id = role + ":" + (peer.isLocal ? "local" : peer.host);
             var target = {
@@ -385,6 +395,7 @@ function buildTargetsFromPeers() {
 }
 
 function ensureActiveModule() {
+    if (currentModule === 'watering' && wateringTargets.length) return;
     if (currentModule === 'light' && lightTargets.length > 0) {
         return;
     }
@@ -402,6 +413,7 @@ function ensureActiveModule() {
         currentModule = currentBedTargetId;
         return;
     }
+    if (wateringTargets.length) currentModule = 'watering';
 }
 
 function updateBedTargetLabel() {
@@ -551,6 +563,15 @@ function renderTabs() {
         lightBtn.addEventListener('click', function(){ setActiveModule('light'); });
         if (currentModule === 'light') lightBtn.classList.add('active');
         container.appendChild(lightBtn);
+    }
+    if (wateringTargets.length) {
+        var btn = document.createElement('button');
+        btn.className = 'tab-btn';
+        btn.dataset.module = 'watering';
+        btn.textContent = 'Watering';
+        btn.classList.toggle('active', currentModule === 'watering');
+        btn.addEventListener('click', function() { setActiveModule('watering'); });
+        container.appendChild(btn);
     }
 }
 
@@ -1011,6 +1032,7 @@ function addLocalPeers(localInfo) {
             model: (localInfo && localInfo.model) ? localInfo.model : "local",
             wiring_type: (localInfo && localInfo.wiring_type) ? localInfo.wiring_type : "",
             wiring_order: (localInfo && localInfo.wiring_order) ? localInfo.wiring_order : "",
+            outlets: localInfo && localInfo.outlets || 0,
             wiring_count: (localInfo && localInfo.wiring_count) ? localInfo.wiring_count : 0,
             roles: [role],
             isLocal: true
@@ -1075,6 +1097,7 @@ function refreshPeersInternal(opts) {
                         model: p.model || "",
                         wiring_type: p.wiring_type || "",
                         wiring_order: p.wiring_order || "",
+                        outlets: p.outlets || 0,
                         wiring_count: p.wiring_count || 0,
                         roles: (p.roles ? p.roles.split(',').filter(Boolean) : [])
                     };
@@ -1118,7 +1141,7 @@ function refreshPeersInternal(opts) {
                 logUiEvent("Peers: beds=" + bedTargets.length + " lights=" + lightTargets.length);
             }
             if (opts.manual) {
-                setRefreshStatus('Found ' + (bedTargets.length + lightTargets.length) + ' peer(s)');
+                setRefreshStatus('Found ' + (bedTargets.length + lightTargets.length + wateringTargets.length) + ' peer(s)');
             }
         })
         .catch(function(err){
@@ -1172,7 +1195,7 @@ function isRoleAvailable(r) {
     if (r === 'light') return lightTargets.length > 0;
     return hasLocalRole(r);
 }
-var currentModule = hasLocalRole('bed') ? 'bed:local' : (hasLocalRole('light') ? 'light' : 'bed:local');
+var currentModule = hasLocalRole('bed') ? 'bed:local' : (hasLocalRole('watering') ? 'watering' : (hasLocalRole('light') ? 'light' : 'bed:local'));
 var lightPollTimer = null;
 var lastStatusOkTs = Date.now();
 var offlineThresholdMs = 5000;
@@ -4344,7 +4367,7 @@ function formatDuration(totalSeconds) {
 }
 
 function showOfflineOverlay() {
-    if (currentModule === 'light') return;
+    if (!currentModule.startsWith('bed:')) return;
     var overlay = document.getElementById('offline-overlay');
     if (overlay) {
         overlay.classList.remove('hidden');
@@ -4363,7 +4386,7 @@ function hideOfflineOverlay() {
     updateBedSummaryStatus(true);
 }
 function syncOfflineOverlay() {
-    if (currentModule === 'light') {
+    if (!currentModule.startsWith('bed:')) {
         hideOfflineOverlay();
         return;
     }
@@ -4373,7 +4396,7 @@ function syncOfflineOverlay() {
 }
 function checkOffline() {
     if (offlineShown) return;
-    if (currentModule === 'light') return;
+    if (!currentModule.startsWith('bed:')) return;
     var delta = Date.now() - lastStatusOkTs;
     if (delta > offlineThresholdMs) {
         showOfflineOverlay();
@@ -5258,6 +5281,23 @@ function switchModule(mod) {
 }
 
 function updateTabVisibility() {
+    var wateringPanel = document.getElementById('watering-tab');
+    var showWatering = currentModule === 'watering' && wateringTargets.length > 0;
+    if (wateringPanel) {
+        wateringPanel.classList.toggle('hidden', !showWatering);
+        wateringPanel.classList.toggle('active', showWatering);
+    }
+    if (showWatering && wateringPanel) {
+        var list = document.getElementById('watering-controllers');
+        list.replaceChildren();
+        wateringTargets.forEach(function(pump) {
+            var row = document.createElement('li');
+            var details = [pump.device_name || pump.host || 'Local pump', pump.room];
+            if (pump.outlets) details.push(pump.outlets + (pump.outlets === 1 ? ' outlet' : ' outlets'));
+            row.textContent = details.filter(Boolean).join(' / ');
+            list.appendChild(row);
+        });
+    }
     var bedPanel = document.getElementById('bed-tab');
     var lightPanel = document.getElementById('light-tab');
     var bedPill = document.getElementById('bed-status-pill');

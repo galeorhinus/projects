@@ -397,6 +397,9 @@ static std::string build_roles_string() {
     ss << (first ? "" : ",") << "tray";
     first = false;
 #endif
+#ifdef CONFIG_APP_ROLE_WATERING
+    ss << "watering";
+#endif
     std::string roles = ss.str();
     if (roles.empty()) roles = "none";
     return roles;
@@ -410,6 +413,8 @@ static std::string build_type_string() {
     type = "light";
 #elif APP_ROLE_TRAY && !APP_ROLE_BED && !APP_ROLE_LIGHT
     type = "tray";
+#elif defined(CONFIG_APP_ROLE_WATERING)
+    type = "watering";
 #endif
     return type;
 }
@@ -6121,6 +6126,9 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "host", host.c_str());
     cJSON_AddStringToObject(res, "ip", ip_str);
+#ifdef CONFIG_APP_ROLE_WATERING
+    cJSON_AddNumberToObject(res, "outlets", CONFIG_WATERING_OUTLETS);
+#endif
     cJSON_AddStringToObject(res, "type", type.c_str());
     cJSON_AddStringToObject(res, "roles", roles.c_str());
     cJSON_AddStringToObject(res, "device_name", device_name.c_str());
@@ -6281,6 +6289,10 @@ static esp_err_t peer_lookup_handler(httpd_req_t *req) {
                     cJSON_AddStringToObject(o, "type", r->txt[i].value);
                 } else if (strcmp(r->txt[i].key, "roles") == 0) {
                     cJSON_AddStringToObject(o, "roles", r->txt[i].value);
+                } else if (strcmp(r->txt[i].key, "outlets") == 0 && r->txt[i].value) {
+                    const char *value = r->txt[i].value;
+                    if (value[0] >= '1' && value[0] <= '4' && value[1] == 0)
+                        cJSON_AddNumberToObject(o, "outlets", value[0] - '0');
                 } else if (strcmp(r->txt[i].key, "fw") == 0) {
                     cJSON_AddStringToObject(o, "fw", r->txt[i].value);
                 } else if (strcmp(r->txt[i].key, "room") == 0) {
@@ -6513,7 +6525,13 @@ void NetworkManager::startMdns() {
     std::string device_name;
     std::string room;
     load_labels(host, &device_name, &room);
+#ifdef CONFIG_APP_ROLE_WATERING
+    std::string outlets = std::to_string(CONFIG_WATERING_OUTLETS);
+#endif
     mdns_txt_item_t txt[] = {
+#ifdef CONFIG_APP_ROLE_WATERING
+        { (char *)"outlets", (char *)outlets.c_str() },
+#endif
         { (char *)"type", (char *)type.c_str() },
         { (char *)"roles", (char *)roles.c_str() },
         { (char *)"model", (char *)model.c_str() },

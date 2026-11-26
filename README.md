@@ -6,7 +6,7 @@ This repository contains the HomeYantric device projects and the writing workspa
 
 | Directory | Purpose |
 | --- | --- |
-| [HomeYantric](homeyantric/) | Current ESP-IDF firmware for the adjustable bed and LED controller. The bed and light roles share Wi-Fi provisioning, network services, and a web UI. Watering is the next device role. See the [build guide](homeyantric/docs/how-to-build.md) for board configurations. |
+| [HomeYantric](homeyantric/) | Current ESP-IDF firmware for the adjustable bed and LED controller. The bed and light roles share Wi-Fi provisioning, network services, and a web UI. The discovery-only watering profile lists pumps in a separate tab. See the [build guide](homeyantric/docs/how-to-build.md) for board configurations. |
 | [epaper-lab](epaper-lab/README.md) | E-paper lab. The clock75 clock and weather app uses the lab's own port of Wi-Fi provisioning. The hello75 app exercises the display. |
 | [esp32-display-client](esp32-display-client/) | Arduino touchscreen remote for the bed controller. Sends commands to `/rpc/Bed.Command` and includes a touch calibration sketch. |
 | [Bed RF lab](homeyantric/labs/bed-rf/) | Standalone ESP-IDF sniffer and transmitter experiments for the bed remote. |

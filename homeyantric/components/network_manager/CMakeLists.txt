@@ -2,6 +2,7 @@ set(NET_MGR_REQUIRES
     board_config
     light_control
     wifiProvisioning
+    watering
     esp_wifi
     esp_netif
     esp_event
@@ -52,6 +53,9 @@ endif()
 if(CONFIG_APP_ROLE_TRAY)
     list(APPEND UI_ROLES "tray")
 endif()
+if(CONFIG_APP_ROLE_WATERING)
+    list(APPEND UI_ROLES "watering")
+endif()
 list(JOIN UI_ROLES "," UI_ROLES_STR)
 set(ENV{UI_ROLES} "${UI_ROLES_STR}")
 set(UI_ROLE "unknown")
@@ -61,6 +65,8 @@ elseif(CONFIG_APP_ROLE_LIGHT)
     set(UI_ROLE "light")
 elseif(CONFIG_APP_ROLE_TRAY)
     set(UI_ROLE "tray")
+elseif(CONFIG_APP_ROLE_WATERING)
+    set(UI_ROLE "watering")
 endif()
 set(ENV{UI_ROLE} "${UI_ROLE}")
 

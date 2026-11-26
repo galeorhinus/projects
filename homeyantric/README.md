@@ -6,6 +6,7 @@ HomeYantric devices run ESP-IDF firmware and share a provisioning portal, LAN di
 | --- | --- |
 | Adjustable bed | [Bed control](components/bed_control/) handles motion, limits, and presets. See the [pin assignments](docs/pin-assignments.md) and [wiring notes](docs/bed-wiring.md). |
 | Lights | [Light control](components/light_control/) drives the LED hardware. The UI groups discovered lights by room. |
+| Watering | Discovery-only pump profile. The Watering tab lists each controller and its configured outlet count. |
 
 The [build guide](docs/how-to-build.md) lists role and board profiles. Start with a fresh build directory after moving an existing checkout because CMake caches absolute paths. The existing firmware project and binary name is `elev8_controller`.
 

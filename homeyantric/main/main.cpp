@@ -1427,9 +1427,12 @@ extern "C" void app_main() {
     ESP_LOGI(TAG_MAIN, "Role: non-bed (bed_control excluded)");
 #endif
 
+#ifndef CONFIG_APP_ROLE_WATERING
+    // Only the existing bed and light boards have assigned indicator pins.
     ESP_LOGI(TAG_MAIN, "Status LED init");
     init_status_led_hw();
     status_led_boot_test();
+#endif
 #if APP_ROLE_BED && CONFIG_IDF_TARGET_ESP32S3
     init_acs712_adc();
 #endif
@@ -1442,6 +1445,7 @@ extern "C" void app_main() {
     }
     log_spiffs_init();
 
+#ifndef CONFIG_APP_ROLE_WATERING
     // Configure button input
     gpio_config_t io_conf = {};
     io_conf.intr_type = GPIO_INTR_DISABLE;
@@ -1450,6 +1454,7 @@ extern "C" void app_main() {
     io_conf.pull_up_en = GPIO_PULLUP_ENABLE;
     io_conf.pull_down_en = GPIO_PULLDOWN_DISABLE;
     gpio_config(&io_conf);
+#endif
 
     net.begin();
     s_log_queue = xQueueCreate(kLogQueueDepth, sizeof(LogItem));
@@ -1462,7 +1467,7 @@ extern "C" void app_main() {
     s_log_prev_vprintf = esp_log_set_vprintf(log_vprintf);
     xTaskCreatePinnedToCore(log_store_task, "log_store", 3072, NULL, 4, NULL, 1);
 #if !APP_MATTER
-    if (!APP_ROLE_BED) {
+    if (APP_ROLE_LIGHT && !APP_ROLE_BED) {
         // Use status LED to mirror Wi-Fi provisioning state (light build)
         g_led_state = LedState::COMMISSIONING;
         esp_err_t loop_ret = esp_event_loop_create_default();
@@ -1492,11 +1497,13 @@ extern "C" void app_main() {
     xTaskCreatePinnedToCore(bed_task, "bed_logic", 4096, NULL, 5, NULL, 1);
 #endif
 
+#ifndef CONFIG_APP_ROLE_WATERING
     xTaskCreatePinnedToCore(button_task, "matter_btn", 3072, NULL, 5, NULL, 1);
     BaseType_t led_task_ok = xTaskCreatePinnedToCore(led_task, "matter_led", 3072, NULL, 5, NULL, 1);
     if (led_task_ok != pdPASS) {
         ESP_LOGE(TAG_MAIN, "LED task create failed: %ld", (long)led_task_ok);
     }
+#endif
 #if APP_ROLE_BED && CONFIG_IDF_TARGET_ESP32S3
     xTaskCreatePinnedToCore(acs712_log_task, "acs712_log", 3072, NULL, 5, NULL, 1);
 #endif

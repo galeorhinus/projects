@@ -1,0 +1,10 @@
+menu "Watering controller"
+    depends on APP_ROLE_WATERING
+
+config WATERING_OUTLETS
+    int "Number of plant outlets"
+    range 1 4
+    default 1
+    help
+        Use one outlet for a dedicated pump, or three or four for a servo manifold.
+endmenu
