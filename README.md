@@ -17,8 +17,10 @@ This repository contains the HomeYantric device projects and the writing workspa
 
 [writing](writing/) contains the book projects, including [Atomic Sanskrit](writing/books/atomicSanskrit/), and writing style material.
 
-## Archived firmware
+## Archive
 
 Bed controller development started with [Mongoose OS](archive/bed-controller/), moved to [PlatformIO C++](archive/bed-controller-cpp/), and continues in ESP-IDF. The archive preserves the two retired implementations for reference.
 
 The [ST7796S display driver](archive/hw/mgos-st7796s-driver/) and its [test app](archive/tft-driver-test-app/) preserve an unfinished Mongoose OS display experiment.
+
+The [bed animation snapshot](archive/mb-bed-animation-backup/) preserves the standalone head and foot slider prototype, including unresolved merge markers in its HTML. The [current visualizer](bed-controller-idf/data/bed-visualizer.js) lives with the ESP-IDF web UI.
