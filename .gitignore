@@ -2,7 +2,10 @@
 /archive/bed-controller/build/
 /archive/tft-driver-test-app/build/
 /archive/esp32-accesspoint-js-fail/*/build/
-# Local dependencies and supporting projects
+/archive/bed-controller-hardware/**/*-backups/
+/archive/bed-controller-hardware/**/*.kicad_prl
+/archive/bed-controller-hardware/**/*.lck
+/archive/bed-controller-hardware/**/#auto_saved_files#
+# Local dependencies
 connectedhomeip/
-kicad/
 

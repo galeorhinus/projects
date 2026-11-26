@@ -26,3 +26,5 @@ The [ST7796S display driver](archive/hw/mgos-st7796s-driver/) and its [test app]
 The [bed animation snapshot](archive/mb-bed-animation-backup/) preserves the standalone head and foot slider prototype, including unresolved merge markers in its HTML. The [current visualizer](bed-controller-idf/data/bed-visualizer.js) lives with the ESP-IDF web UI.
 
 The [HomeYantric shared-components plan](archive/homeyantric-shared-plan.md) records an earlier proposal to extract common firmware into a separate repository.
+
+The [designA-SSR KiCad project](archive/bed-controller-hardware/designA-SSR/) preserves an unfinished bed-controller schematic with two ESP32 module symbols and an empty PCB layout.
