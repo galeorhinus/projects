@@ -1,13 +1,12 @@
 /archive/bed-controller/pass
 /archive/bed-controller/build/
+/archive/tft-driver-test-app/build/
 ./cg-ap-esp32
 access-point-esp32
 ap-esp32
 # Local dependencies and supporting projects
 connectedhomeip/
 homeyantric-shared/
-hw/
 kicad/
 mb-bed-animation-backup/
-tft-driver-test-app/
 

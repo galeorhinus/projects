@@ -1,0 +1,26 @@
+author: "Your Name"
+type: "lib"
+version: "1.0"
+platform: "esp32" # <-- CHANGED to singular
+manifest_version: "2019-10-01"
+
+description: "A Mongoose OS driver for the ST7796S display"
+
+# List the folders that contain C/C++ source code
+sources:
+  - src
+
+# List the folders that contain public .h header files
+includes:
+  - include
+
+# List other Mongoose OS libs this driver depends on
+libs:
+  - origin: https://github.com/mongoose-os-libs/spi
+  - origin: https://github.com/mongoose-os-libs/arduino-compat
+
+# Register our C init function
+init:
+  - init_after: ["spi", "arduino-compat"]
+    c_fns:
+      - mgos_st7796s_init

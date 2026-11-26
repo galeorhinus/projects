@@ -1,0 +1,12 @@
+author: "Test App"
+type: "app"
+version: "1.0"
+platform: "esp32"
+manifest_version: "2019-10-01"
+
+# We don't need any files from this app
+sources:
+
+# Include your new local library
+libs:
+  - origin: ../hw/mgos-st7796s-driver

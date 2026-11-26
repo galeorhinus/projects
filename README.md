@@ -20,3 +20,5 @@ This repository contains the HomeYantric device projects and the writing workspa
 ## Archived firmware
 
 Bed controller development started with [Mongoose OS](archive/bed-controller/), moved to [PlatformIO C++](archive/bed-controller-cpp/), and continues in ESP-IDF. The archive preserves the two retired implementations for reference.
+
+The [ST7796S display driver](archive/hw/mgos-st7796s-driver/) and its [test app](archive/tft-driver-test-app/) preserve an unfinished Mongoose OS display experiment.
