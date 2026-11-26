@@ -24,3 +24,5 @@ Bed controller development started with [Mongoose OS](archive/bed-controller/), 
 The [ST7796S display driver](archive/hw/mgos-st7796s-driver/) and its [test app](archive/tft-driver-test-app/) preserve an unfinished Mongoose OS display experiment.
 
 The [bed animation snapshot](archive/mb-bed-animation-backup/) preserves the standalone head and foot slider prototype, including unresolved merge markers in its HTML. The [current visualizer](bed-controller-idf/data/bed-visualizer.js) lives with the ESP-IDF web UI.
+
+The [HomeYantric shared-components plan](archive/homeyantric-shared-plan.md) records an earlier proposal to extract common firmware into a separate repository.

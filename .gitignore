@@ -4,6 +4,5 @@
 /archive/esp32-accesspoint-js-fail/*/build/
 # Local dependencies and supporting projects
 connectedhomeip/
-homeyantric-shared/
 kicad/
 
